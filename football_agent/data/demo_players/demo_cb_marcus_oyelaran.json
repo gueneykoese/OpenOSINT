@@ -1,0 +1,89 @@
+{
+  "player_id": "demo_cb_marcus_oyelaran",
+  "name": "Marcus Oyelaran (demo)",
+  "age": 25,
+  "date_of_birth": "2001-07-02",
+  "nationality": [
+    "NGA",
+    "ENG"
+  ],
+  "position": "CB",
+  "secondary_positions": [
+    "RB"
+  ],
+  "preferred_foot": "right",
+  "height_cm": 190,
+  "current_club": "Demo Brentford",
+  "current_club_league": "Premier League",
+  "contract_until": 2027,
+  "market_value_eur_m": 30,
+  "estimated_fee_eur_m": 38,
+  "wage_eur_m_net": 3.0,
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": 35,
+    "starts": 35,
+    "minutes": 3120,
+    "goals": 3,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": 0.5,
+    "key_passes_p90": 0.3,
+    "dribbles_p90": 0.4,
+    "tackles_interceptions_p90": 3.4,
+    "pass_completion_pct": 86,
+    "aerials_won_pct": 68,
+    "progressive_carries_p90": 1.9
+  },
+  "style_profile": {
+    "tags": [
+      "right-sided athletic centre-back",
+      "front-foot defender",
+      "steps into midfield",
+      "comfortable in mid-block",
+      "aerial dominance"
+    ],
+    "best_system": [
+      "4-2-3-1",
+      "4-4-2 compact"
+    ],
+    "weak_in": [
+      "very high line vs pace"
+    ]
+  },
+  "mental_profile": {
+    "leadership": 4,
+    "coachability": 4,
+    "resilience": 4,
+    "discipline": 5,
+    "notes": "Synthetic: vice-captain, zero reds."
+  },
+  "injury_history": [
+    {
+      "type": "ankle ligament",
+      "season": "2023/24",
+      "days_out": 42
+    }
+  ],
+  "off_pitch": {
+    "languages": [
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "synthetic"
+  },
+  "release_clause_eur_m": null,
+  "agent_status": "represented_by_us",
+  "sources": [
+    "synthetic://football_agent/demo"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "synthetic",
+    "notes": "FICTIONAL demo profile used only to exercise the matching engine. Not a real person; all numbers are invented and plausible for the stated league. Never present as scouting data."
+  }
+}

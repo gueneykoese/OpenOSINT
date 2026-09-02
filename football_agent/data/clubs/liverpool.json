@@ -1,0 +1,636 @@
+{
+  "club_id": "liverpool",
+  "name": "Liverpool FC",
+  "short_name": "Liverpool",
+  "country": "ENG",
+  "league": "Premier League",
+  "city": "Liverpool",
+  "ucl_2026_27": {
+    "pot": 1,
+    "qualified_via": "Premier League 2025/26 5th place (England awarded a 5th UCL berth)",
+    "opponents_home": [
+      "Atlético Madrid",
+      "FC Porto",
+      "Villarreal",
+      "RC Lens"
+    ],
+    "opponents_away": [
+      "Inter Milan",
+      "Club Brugge",
+      "Fenerbahçe",
+      "LASK"
+    ]
+  },
+  "head_coach": {
+    "name": null,
+    "since": "2026-06",
+    "nationality": null,
+    "preferred_formation": null,
+    "style_keywords": []
+  },
+  "identity": {
+    "playing_style": "Identity is in transition: Arne Slot's 4-2-3-1 possession-and-press model won the 2024/25 title but collapsed to 5th (60 pts, 53 conceded, 12 defeats) in 2025/26 despite GBP 440m+ of signings (Wirtz, Isak, Kerkez, Frimpong). Slot was dismissed on 30 May 2026; the new head coach's system could not be verified. The squad profile (Barcola, Wirtz, Salah, Isak, Ekitike) points to a high-tempo, wide, transition-heavy attack.",
+    "principles": [
+      "data-led recruitment (research department under FSG)",
+      "buy under-25 with resale value; occasional marquee exception",
+      "wage discipline relative to revenue",
+      "'This means more' - community and Hillsborough legacy",
+      "Academy pathway (Bradley, Nyoni, Ngumoha)"
+    ],
+    "club_character": "US private ownership (FSG) with a data-driven, financially prudent model; intense but supportive Anfield atmosphere; club leaning on a sporting-director structure (Richard Hughes, Michael Edwards as FSG CEO of football) rather than a single manager.",
+    "ownership": "Fenway Sports Group (private, US) with Dynasty Equity minority stake",
+    "political_and_social_context": "Club and supporters publicly opposed the 2021 European Super League and withdrew within 48 hours after fan protests; long-standing institutional campaigning on Hillsborough justice and against The Sun newspaper; fan groups (Spirit of Shankly) have formal consultation with the board; public statements on ticket pricing and UEFA final security (Paris 2022).",
+    "languages": [
+      "en",
+      "nl",
+      "fr",
+      "de",
+      "es"
+    ],
+    "wage_structure": "hierarchical but capped relative to revenue; performance-linked bonuses",
+    "transfer_policy": "Data-led, under-25 focus with premium spent on elite talent in 2025 and 2026 (Wirtz, Isak, Barcola ~EUR 120m+ each)",
+    "injury_management_reputation": "Publicly discussed: recurring hamstring problems (Jota, Konate) and Alisson's fitness were themes in 2025/26; Barcola signing partly justified by attacking depth issues."
+  },
+  "last_season_2025_26": {
+    "league_position": 5,
+    "points": 60,
+    "played": 38,
+    "won": 17,
+    "drawn": 9,
+    "lost": 12,
+    "goals_for": 63,
+    "goals_against": 53,
+    "xg_for": null,
+    "xg_against": null,
+    "possession_pct": null,
+    "ucl_result": null,
+    "domestic_cup": null,
+    "top_scorer": {
+      "name": null,
+      "goals": null
+    },
+    "top_assister": {
+      "name": null,
+      "assists": null
+    }
+  },
+  "summer_2026_window": {
+    "arrivals": [
+      {
+        "name": "Bradley Barcola",
+        "from": "Paris Saint-Germain",
+        "fee_eur_m": 123,
+        "position": "LW"
+      }
+    ],
+    "departures": [],
+    "net_spend_eur_m": null
+  },
+  "squad": [
+    {
+      "name": "Alisson Becker",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 33,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": 1,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Giorgi Mamardashvili",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 25,
+      "nationality": "GEO",
+      "contract_until": null,
+      "shirt_no": 25,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Freddie Woodman",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 29,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": 28,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Virgil van Dijk",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 35,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": 4,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ibrahima Konate",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 27,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 5,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Giovanni Leoni",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 19,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": 15,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Joe Gomez",
+      "position": "CB",
+      "secondary_positions": [
+        "RB"
+      ],
+      "age": 29,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": 2,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Jeremie Frimpong",
+      "position": "RB",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": 25,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": 30,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Conor Bradley",
+      "position": "RB",
+      "secondary_positions": [],
+      "age": 23,
+      "nationality": "NIR",
+      "contract_until": null,
+      "shirt_no": 12,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Milos Kerkez",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": 22,
+      "nationality": "HUN",
+      "contract_until": null,
+      "shirt_no": 6,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Andrew Robertson",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": 32,
+      "nationality": "SCO",
+      "contract_until": null,
+      "shirt_no": 26,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ryan Gravenberch",
+      "position": "DM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": 24,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": 38,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Alexis Mac Allister",
+      "position": "CM",
+      "secondary_positions": [
+        "DM"
+      ],
+      "age": 27,
+      "nationality": "ARG",
+      "contract_until": null,
+      "shirt_no": 10,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Dominik Szoboszlai",
+      "position": "CM",
+      "secondary_positions": [
+        "AM",
+        "RB"
+      ],
+      "age": 25,
+      "nationality": "HUN",
+      "contract_until": null,
+      "shirt_no": 8,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Curtis Jones",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": 25,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": 17,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Wataru Endo",
+      "position": "DM",
+      "secondary_positions": [],
+      "age": 33,
+      "nationality": "JPN",
+      "contract_until": null,
+      "shirt_no": 3,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Florian Wirtz",
+      "position": "AM",
+      "secondary_positions": [
+        "LW",
+        "CM"
+      ],
+      "age": 23,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": 7,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Mohamed Salah",
+      "position": "RW",
+      "secondary_positions": [],
+      "age": 34,
+      "nationality": "EGY",
+      "contract_until": null,
+      "shirt_no": 11,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Federico Chiesa",
+      "position": "RW",
+      "secondary_positions": [
+        "LW",
+        "ST"
+      ],
+      "age": 28,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": 14,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Bradley Barcola",
+      "position": "LW",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": 23,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 11,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Cody Gakpo",
+      "position": "LW",
+      "secondary_positions": [
+        "ST"
+      ],
+      "age": 27,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": 18,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Rio Ngumoha",
+      "position": "LW",
+      "secondary_positions": [],
+      "age": 18,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": 73,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Alexander Isak",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": 26,
+      "nationality": "SWE",
+      "contract_until": null,
+      "shirt_no": 9,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Hugo Ekitike",
+      "position": "ST",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": 24,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 22,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    }
+  ],
+  "strengths": [
+    "Attacking talent density: Wirtz (23), Isak (26), Ekitike (24), Barcola (23, EUR 123m club-record-tier signing) plus Salah - one of Europe's deepest front lines on paper",
+    "Young full-backs (Frimpong 25, Kerkez 22, Bradley 23) suit a high-tempo transition game",
+    "Financial capacity proven by two consecutive EUR 400m+ windows without FFP/PSR breach reports",
+    "Strong sporting-director structure (Hughes/Edwards) providing continuity through a coaching change"
+  ],
+  "weaknesses": [
+    "Worst defensive record of a top-5 side: 53 conceded and 12 defeats; finished 25 points behind champions Arsenal",
+    "Coaching reset: Slot sacked 30 May 2026; new head coach identity/system unverified at time of writing - tactical uncertainty in a UCL group with Atletico and Inter",
+    "Ageing spine: Van Dijk 35, Salah 34, Alisson 33, Endo 33, Robertson 32",
+    "Midfield lacks a dominant defensive No.6 - Gravenberch and Mac Allister are both progressive rather than destructive profiles",
+    "Squad-cost pressure: multiple EUR 100m+ attackers concentrate wages in one area of the pitch"
+  ],
+  "positional_needs": [
+    {
+      "position": "CB",
+      "priority": "high",
+      "profile": "left-sided commanding CB, 22-26, aerially dominant, Premier League-ready",
+      "reason": "Van Dijk 35; 53 goals conceded in 2025/26; Leoni (19) not yet ready",
+      "budget_eur_m": 70,
+      "wage_ceiling_eur_m_net": 8
+    },
+    {
+      "position": "DM",
+      "priority": "high",
+      "profile": "ball-winning No.6 with 3+ tackles+interceptions p90, 22-27",
+      "reason": "Endo 33; Gravenberch better as a progressive No.8; defensive transition exposed all season",
+      "budget_eur_m": 60,
+      "wage_ceiling_eur_m_net": 7
+    },
+    {
+      "position": "GK",
+      "priority": "medium",
+      "profile": "succession No.1",
+      "reason": "Alisson 33; Mamardashvili still to establish himself as starter",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    },
+    {
+      "position": "RW",
+      "priority": "medium",
+      "profile": "long-term Salah successor, 21-25",
+      "reason": "Salah 34; Chiesa is a backup",
+      "budget_eur_m": 60,
+      "wage_ceiling_eur_m_net": 7
+    }
+  ],
+  "position_benchmarks": {
+    "ST": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "shots_p90": null,
+      "pressures_p90": null
+    },
+    "LW": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "dribbles_p90": null,
+      "shots_p90": null
+    },
+    "CM": {
+      "pass_completion_pct": null,
+      "progressive_passes_p90": null,
+      "tackles_interceptions_p90": null
+    },
+    "CB": {
+      "aerials_won_pct": null,
+      "tackles_interceptions_p90": null,
+      "progressive_passes_p90": null
+    }
+  },
+  "sources": [
+    "https://www.liverpoolfc.com/news/liverpool-discover-champions-league-league-phase-opponents",
+    "https://sports.yahoo.com/articles/liverpool-2026-27-champions-league-164740912.html",
+    "https://www.nbcsports.com/premier-league-table-2025-26-season-standings",
+    "https://sports.yahoo.com/articles/premier-league-2025-26-table-181100855.html",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Premier_League",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Liverpool_F.C._season",
+    "https://sports.yahoo.com/articles/next-liverpool-manager-arne-slot-124052806.html",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Liverpool_F.C._season",
+    "https://www.psg.fr/en/content/bradley-barcola-signs-for-liverpool-fc-psg-mercato-news-2026-2027",
+    "https://www.espn.com/soccer/story/_/id/49750588/bradley-barcola-joins-liverpool-123-million-move-paris-saint-germain",
+    "https://www.cbssports.com/soccer/news/liverpool-agree-sign-bradley-barcola-from-psg-transfer-grades-2026/",
+    "https://sports.yahoo.com/articles/official-bradley-barcola-joins-liverpool-130000839.html"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Verified: 5th place, 17W-9D-12L, 60 pts, +10 GD, 53 GA (GF=63 derived), Slot sacked 30 May 2026, UCL draw, Barcola arrival (GBP 106m guaranteed + GBP 17m add-ons, 5-year deal). HEAD COACH UNVERIFIED: Andoni Iraola was reported as the leading candidate but no appointment could be confirmed, so the name is null - this must be checked before use. UCL 2025/26 exit round, domestic cup results, top scorer, and all other summer-2026 arrivals/departures unverified (Barcola's 11 goals figure is his 2025/26 Ligue 1 total at PSG). Squad = last known first-team roster adjusted ONLY for summer-2026 moves that were source-verified; further unreported exits/loans may be missing. Per-player 2025/26 stats left null unless a source gave the number. Ages computed from public birthdates as of 2026-09-02. Research constraint: web fetch was blocked on all data sites (transfermarkt, fbref, uefa, wikipedia, club sites) and only search snippets were available."
+  }
+}

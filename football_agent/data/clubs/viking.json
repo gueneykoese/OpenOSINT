@@ -1,0 +1,495 @@
+{
+  "club_id": "viking",
+  "name": "Viking FK",
+  "short_name": "Viking",
+  "country": "NOR",
+  "league": "Eliteserien",
+  "city": "Stavanger",
+  "ucl_2026_27": {
+    "pot": 4,
+    "qualified_via": "Eliteserien 2025 champion; won UCL play-off vs Dinamo Zagreb 5-3 on aggregate (first-ever league-phase qualification)",
+    "opponents_home": [
+      "Bayern München",
+      "PSV Eindhoven",
+      "Feyenoord",
+      "Sabah"
+    ],
+    "opponents_away": [
+      "Atlético Madrid",
+      "Aston Villa",
+      "Napoli",
+      "VfB Stuttgart"
+    ]
+  },
+  "head_coach": {
+    "name": "Bjarte Lunde Aarsheim & Morten Jensen (joint head coaches)",
+    "since": "2021-01",
+    "nationality": "NOR",
+    "preferred_formation": null,
+    "style_keywords": [
+      "front-foot attacking",
+      "high-scoring (7-0, 5-3 in Europe)",
+      "possession-based build-up",
+      "developing academy talents"
+    ]
+  },
+  "identity": {
+    "playing_style": "Viking under the Aarsheim/Jensen duo (sixth season in 2026) are an attack-minded team that won the 2025 title with a seven-match winning finish and a 5-1 final-day win; in Europe they beat Koper 12-3 on aggregate and Dinamo Zagreb 5-3. The team prioritises goals over control and relies on striker Peter Christiansen (14 league goals in 2025).",
+    "principles": [
+      "member-owned club with academy pathway",
+      "sell-on model to bigger Scandinavian/European leagues",
+      "coaching continuity (same duo since 2021)"
+    ],
+    "club_character": "Norway's oldest top-flight fixture with a strong Stavanger regional identity; first league title in 34 years (2025) has created a rare wave of local euphoria; calendar-year season means the UCL league phase spans the Norwegian off-season.",
+    "ownership": "member-owned sports club (Viking FK) with a commercial company for the elite squad - standard Norwegian model; not re-verified this session",
+    "political_and_social_context": "No institution-level controversy surfaced in this session's sources.",
+    "languages": [
+      "no",
+      "en"
+    ],
+    "wage_structure": "flat (Norwegian league norms) - assumed, unverified",
+    "transfer_policy": "Low-fee Nordic/Eastern-European and academy recruitment (Belko from Žilina, Frimpong from own African academy partner), sale of top scorers when offers arrive.",
+    "injury_management_reputation": null
+  },
+  "last_season_2025_26": {
+    "league_position": 1,
+    "points": 71,
+    "played": 30,
+    "won": null,
+    "drawn": null,
+    "lost": null,
+    "goals_for": null,
+    "goals_against": null,
+    "xg_for": null,
+    "xg_against": null,
+    "possession_pct": null,
+    "ucl_result": "Did not play UCL; UEFA Conference League third qualifying round (lost 2-4 agg to İstanbul Başakşehir)",
+    "domestic_cup": "Semi-final (2025 Norwegian Cup)",
+    "top_scorer": {
+      "name": "Peter Christiansen",
+      "goals": 14
+    },
+    "top_assister": {
+      "name": null,
+      "assists": null
+    }
+  },
+  "summer_2026_window": {
+    "arrivals": [
+      {
+        "name": "Ľubomír Belko",
+        "from": "MŠK Žilina",
+        "fee_eur_m": null,
+        "position": "GK"
+      },
+      {
+        "name": "Kelvin Frimpong",
+        "from": "African Vikings Academy",
+        "fee_eur_m": null,
+        "position": "ST"
+      },
+      {
+        "name": "Erlend Jacobsen",
+        "from": "Brodd",
+        "fee_eur_m": null,
+        "position": "GK"
+      }
+    ],
+    "departures": [
+      {
+        "name": "Kristoffer Klaesson",
+        "to": "Aalesund",
+        "fee_eur_m": null,
+        "position": "GK"
+      },
+      {
+        "name": "Kasper Sætherbø",
+        "to": "Egersund",
+        "fee_eur_m": null,
+        "position": "CM"
+      },
+      {
+        "name": "Aksel Bergsvik",
+        "to": "Hødd",
+        "fee_eur_m": null,
+        "position": "GK"
+      },
+      {
+        "name": "Magnus Rugland Ree",
+        "to": "Bryne",
+        "fee_eur_m": null,
+        "position": null
+      }
+    ],
+    "net_spend_eur_m": null
+  },
+  "squad": [
+    {
+      "name": "Ľubomír Belko",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "SVK",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Erlend Jacobsen",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "NOR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Gianni Stensness",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "NZL",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Sondre Bjørshol",
+      "position": "CB",
+      "secondary_positions": [
+        "RB"
+      ],
+      "age": null,
+      "nationality": "NOR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Djibril Diop",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "SEN",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Herman Haugen",
+      "position": "RB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "NOR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Shayne Pattynama",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "IDN",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Sondre Auklend",
+      "position": "DM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "NOR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Patrik Gunnarsson",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ISL",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Harald Nilsen Tangen",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "NOR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Sander Svendsen",
+      "position": "RW",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "NOR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Zlatko Tripić",
+      "position": "AM",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": null,
+      "nationality": "NOR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Lars-Jørgen Salvesen",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "NOR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Peter Christiansen",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "NOR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 14,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Veton Berisha",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "NOR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Kelvin Frimpong",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "GHA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    }
+  ],
+  "strengths": [
+    "Prolific attack and momentum: 12-3 and 5-3 aggregate wins in Europe in successive seasons; 71-point title season.",
+    "Rare coaching stability (same duo since 2021) with a clear attacking identity.",
+    "Home crowd and Nordic winter conditions at SR-Bank Arena are a real edge in December/January UCL rounds.",
+    "Champions-League revenue (first ever) transforms a modest budget."
+  ],
+  "weaknesses": [
+    "Defensive numbers unknown but the qualifier scorelines (5-3, 3-1 loss to Başakşehir) point to a porous back line against elite attacks.",
+    "Norwegian calendar: league season ends late Nov, so UCL MD6-8 (Dec-Jan) fall in the off-season - fitness and rhythm risk.",
+    "Very limited squad-list verification for 2026/27 - dependence on a small core (Christiansen, Tripić, Svendsen).",
+    "Goalkeeper churn (four GKs moved in 2026) suggests instability in a key position."
+  ],
+  "positional_needs": [
+    {
+      "position": "CB",
+      "priority": "high",
+      "profile": "aerially strong, quick recovery, 22-27",
+      "reason": "Conceding freely in Europe; Bjørshol converted full-back",
+      "budget_eur_m": 1.5,
+      "wage_ceiling_eur_m_net": 0.4
+    },
+    {
+      "position": "DM",
+      "priority": "medium",
+      "profile": "ball-winning No.6",
+      "reason": "Sætherbø left; attacking system leaves the pivot exposed",
+      "budget_eur_m": 1,
+      "wage_ceiling_eur_m_net": 0.3
+    },
+    {
+      "position": "ST",
+      "priority": "medium",
+      "profile": "succession for Christiansen (top scorer, sale risk)",
+      "reason": "Top scorer is the obvious sale candidate after UCL exposure",
+      "budget_eur_m": 1.5,
+      "wage_ceiling_eur_m_net": 0.35
+    }
+  ],
+  "position_benchmarks": {
+    "ST": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "shots_p90": null,
+      "pressures_p90": null
+    },
+    "CB": {
+      "aerials_won_pct": null,
+      "tackles_interceptions_p90": null,
+      "progressive_passes_p90": null
+    },
+    "CM": {
+      "pass_completion_pct": null,
+      "progressive_passes_p90": null,
+      "tackles_interceptions_p90": null
+    }
+  },
+  "sources": [
+    "https://www.aftenposten.no/sport/i/zOb5V5/glimt-og-viking-moeter-bayern-og-atletico-i-champions-league-slik-er-oppsettet-for-storklubbene",
+    "https://www.radiosporten.no/viking-og-bodo-glimt-far-det-ikke-lett-i-champions-league-her-er-oversikten/",
+    "https://thefootballfaithful.com/champions-league-draw-fixtures-2026-27/",
+    "https://www.uefa.com/uefachampionsleague/clubs/52319--viking/matches/",
+    "https://www.uefa.com/uefachampionsleague/match/2049217--viking-vs-gnk-dinamo/",
+    "https://en.wikipedia.org/wiki/2025_Viking_FK_season",
+    "https://en.wikipedia.org/wiki/2026_Viking_FK_season",
+    "https://en.wikipedia.org/wiki/2025_Eliteserien",
+    "https://www.fotball.no/turneringer/eliteserien/2025/viking-er-seriemester/",
+    "https://www.vg.no/sport/i/9395wW/veton-berisha-tilbake-i-viking-ber-om-unnskyldning",
+    "https://www.espn.com/soccer/team/squad/_/id/510/viking-fk",
+    "https://www.worldfootball.net/teams/te2097/viking-fk/transfers/"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "UCL opponents, coaches, 2025 title (71 pts, 30 games), Conference League Q3 exit, cup semi-final and Christiansen 14 league goals verified. 2025 W/D/L and GF/GA NOT found. Transfers listed are Jan-May 2026 moves from the season page; the summer (July-Aug 2026) window could not be verified. Squad: only Belko, Jacobsen, Frimpong, Christiansen and Berisha are confirmed by 2026 sources; all other names are carried from the 2025 squad from general knowledge and are NOT verified for 2026/27 - treat as provisional. A Wikipedia snippet stating Viking 'finished first in Eliteserien in 2026' is a template artifact (2026 season ongoing) and was ignored. Ages, shirt numbers, contracts, fees null."
+  }
+}

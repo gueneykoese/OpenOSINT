@@ -1,0 +1,672 @@
+{
+  "club_id": "real_madrid",
+  "name": "Real Madrid CF",
+  "short_name": "Real Madrid",
+  "country": "ESP",
+  "league": "La Liga",
+  "city": "Madrid",
+  "ucl_2026_27": {
+    "pot": 1,
+    "qualified_via": "La Liga 2025/26 runner-up",
+    "opponents_home": [
+      "Inter Milan",
+      "PSV Eindhoven",
+      "RB Leipzig",
+      "LASK"
+    ],
+    "opponents_away": [
+      "Arsenal",
+      "AS Roma",
+      "Shakhtar Donetsk",
+      "AEK Athens"
+    ]
+  },
+  "head_coach": {
+    "name": "José Mourinho",
+    "since": "2026-07",
+    "nationality": "POR",
+    "preferred_formation": "4-2-3-1",
+    "style_keywords": [
+      "compact mid/low block",
+      "fast transitions",
+      "defensive organisation",
+      "set-piece focus",
+      "pragmatic",
+      "man-management of stars"
+    ]
+  },
+  "identity": {
+    "playing_style": "Mourinho returns (appointed 11 June 2026, contract to 2029) after a trophyless 2025/26 in which Madrid finished second to Barcelona and exited the Champions League at the quarter-final stage. Expect a more structured, transition-based side built around Mbappe's and Vinicius' pace, a deeper double pivot and a priority on defensive solidity rather than the positional game attempted the previous season.",
+    "principles": [
+      "Galactico/star-driven recruitment",
+      "member-owned, president-led decision making (Florentino Perez)",
+      "Champions League as the defining objective",
+      "develop-and-sell from Castilla for accounting profit",
+      "no agent-fee culture on marquee deals"
+    ],
+    "club_character": "Socio-owned institution with a powerful president; the most demanding media environment in Europe (Marca/AS daily cycle); Bernabeu whistles stars quickly; historic obligation to win the Champions League; recently renovated stadium as a revenue engine.",
+    "ownership": "Member-owned (socios) sports association; president Florentino Perez",
+    "political_and_social_context": "Institutional promoter and legal defender of the European Super League project (2021-present, ongoing litigation vs UEFA); public conflicts with La Liga/Javier Tebas over broadcasting and the CVC deal (Madrid refused to join); publicly filed complaints over refereeing and the 'Negreira case'; Vinicius Jr racism cases prompted official club statements and legal actions.",
+    "languages": [
+      "es",
+      "en",
+      "fr",
+      "pt"
+    ],
+    "wage_structure": "hierarchical - star tier (Mbappe, Vinicius, Bellingham) far above squad tier",
+    "transfer_policy": "Star-driven: a small number of world-class signings, often as free agents at contract end (Alaba, Rudiger, Mbappe, Alexander-Arnold) or as elite under-23 talent (Endrick, Guler, Huijsen); Castilla graduates sold for profit",
+    "injury_management_reputation": "Publicly discussed: 2025/26 saw multiple long-term absences (Carvajal, Militao, Alaba historically, Camavinga) and a public debate over the medical department after a heavy 2024/25 injury list."
+  },
+  "last_season_2025_26": {
+    "league_position": 2,
+    "points": null,
+    "played": 38,
+    "won": null,
+    "drawn": null,
+    "lost": null,
+    "goals_for": null,
+    "goals_against": null,
+    "xg_for": null,
+    "xg_against": null,
+    "possession_pct": null,
+    "ucl_result": "Quarter-final (beat Benfica in the round of 16; QF exit reported, opponent unverified)",
+    "domestic_cup": null,
+    "top_scorer": {
+      "name": "Kylian Mbappé",
+      "goals": 25
+    },
+    "top_assister": {
+      "name": null,
+      "assists": null
+    }
+  },
+  "summer_2026_window": {
+    "arrivals": [],
+    "departures": [],
+    "net_spend_eur_m": null
+  },
+  "squad": [
+    {
+      "name": "Thibaut Courtois",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 34,
+      "nationality": "BEL",
+      "contract_until": null,
+      "shirt_no": 1,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Andriy Lunin",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 27,
+      "nationality": "UKR",
+      "contract_until": null,
+      "shirt_no": 13,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Fran Gonzalez",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 21,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Antonio Rudiger",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 33,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": 22,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Eder Militao",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 28,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": 3,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Dean Huijsen",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 21,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 24,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "David Alaba",
+      "position": "CB",
+      "secondary_positions": [
+        "LB"
+      ],
+      "age": 34,
+      "nationality": "AUT",
+      "contract_until": null,
+      "shirt_no": 4,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Raul Asencio",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 23,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 17,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Trent Alexander-Arnold",
+      "position": "RB",
+      "secondary_positions": [],
+      "age": 27,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": 12,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Dani Carvajal",
+      "position": "RB",
+      "secondary_positions": [],
+      "age": 34,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 2,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Alvaro Carreras",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": 23,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 18,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Fran Garcia",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": 27,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 20,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ferland Mendy",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": 31,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 23,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Aurelien Tchouameni",
+      "position": "DM",
+      "secondary_positions": [
+        "CB"
+      ],
+      "age": 26,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 14,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Federico Valverde",
+      "position": "CM",
+      "secondary_positions": [
+        "RB",
+        "RW"
+      ],
+      "age": 28,
+      "nationality": "URU",
+      "contract_until": null,
+      "shirt_no": 8,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Eduardo Camavinga",
+      "position": "CM",
+      "secondary_positions": [
+        "DM",
+        "LB"
+      ],
+      "age": 23,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 6,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Dani Ceballos",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": 30,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 19,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Jude Bellingham",
+      "position": "AM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": 23,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": 5,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Arda Guler",
+      "position": "AM",
+      "secondary_positions": [
+        "RW",
+        "CM"
+      ],
+      "age": 21,
+      "nationality": "TUR",
+      "contract_until": null,
+      "shirt_no": 15,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Brahim Diaz",
+      "position": "RW",
+      "secondary_positions": [
+        "AM",
+        "LW"
+      ],
+      "age": 27,
+      "nationality": "MAR",
+      "contract_until": null,
+      "shirt_no": 21,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Rodrygo",
+      "position": "RW",
+      "secondary_positions": [
+        "LW",
+        "ST"
+      ],
+      "age": 25,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": 11,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Franco Mastantuono",
+      "position": "RW",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": 19,
+      "nationality": "ARG",
+      "contract_until": null,
+      "shirt_no": 30,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Vinicius Junior",
+      "position": "LW",
+      "secondary_positions": [],
+      "age": 26,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": 7,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Kylian Mbappe",
+      "position": "ST",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": 27,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 10,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 25,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Gonzalo Garcia",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": 22,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 16,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Endrick",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": 20,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": 9,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    }
+  ],
+  "strengths": [
+    "Elite match-winners in their prime: Mbappe (27, 25 La Liga goals, top scorer 2025/26), Vinicius (26), Bellingham (23), Valverde (28)",
+    "Young defensive spine already bought: Huijsen (21), Carreras (23), Asencio (23) plus Alexander-Arnold (27)",
+    "Institutional Champions League pedigree and a Bernabeu revenue base that supports any transfer or wage",
+    "Mourinho brings defensive structure and big-game pragmatism that the 2025/26 side lacked (second in La Liga, QF in Europe)"
+  ],
+  "weaknesses": [
+    "Trophyless 2025/26 and a second consecutive title lost to Barcelona; coaching reset means a new system in September",
+    "Ageing back-ups: Courtois 34, Carvajal 34, Alaba 34, Rudiger 33, Mendy 31 - short-term injury exposure",
+    "No natural defensive-midfield anchor beyond Tchouameni; no like-for-like Kroos/Modric passer since 2024-25",
+    "Summer 2026 window activity could not be verified - if arrivals were minimal, the squad is the same one that finished second",
+    "Left-wing/striker overlap (Mbappe, Vinicius, Rodrygo) leaves a thin true No.9 alternative and a right-wing question"
+  ],
+  "positional_needs": [
+    {
+      "position": "DM",
+      "priority": "high",
+      "profile": "press-resistant No.6/No.8 with 88%+ passing, 23-28, La Liga/UCL-ready",
+      "reason": "Tchouameni the only anchor; Mourinho's 4-2-3-1 needs two disciplined pivots; Ceballos 30",
+      "budget_eur_m": 80,
+      "wage_ceiling_eur_m_net": 10
+    },
+    {
+      "position": "GK",
+      "priority": "medium",
+      "profile": "long-term No.1 under 27",
+      "reason": "Courtois 34; Lunin has sought more minutes",
+      "budget_eur_m": 40,
+      "wage_ceiling_eur_m_net": 6
+    },
+    {
+      "position": "CB",
+      "priority": "medium",
+      "profile": "right-footed aerial CB 23-27",
+      "reason": "Rudiger 33 and Alaba 34 at the end of contracts; Militao injury history",
+      "budget_eur_m": 60,
+      "wage_ceiling_eur_m_net": 8
+    },
+    {
+      "position": "RB",
+      "priority": "low",
+      "profile": "young RB to succeed Carvajal",
+      "reason": "Carvajal 34 after serious knee injury; Valverde used as cover",
+      "budget_eur_m": 30,
+      "wage_ceiling_eur_m_net": 5
+    }
+  ],
+  "position_benchmarks": {
+    "ST": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "shots_p90": null,
+      "pressures_p90": null
+    },
+    "LW": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "dribbles_p90": null,
+      "shots_p90": null
+    },
+    "CM": {
+      "pass_completion_pct": null,
+      "progressive_passes_p90": null,
+      "tackles_interceptions_p90": null
+    },
+    "CB": {
+      "aerials_won_pct": null,
+      "tackles_interceptions_p90": null,
+      "progressive_passes_p90": null
+    }
+  },
+  "sources": [
+    "https://www.realmadrid.com/en-US/news/club/latest-news/comunicado-oficial-mourinho-11-06-2026",
+    "https://www.aljazeera.com/sports/2026/6/11/jose-mourinho-named-real-madrid-coach-on-three-year-deal",
+    "https://www.managingmadrid.com/real-madrid-cf-news/111962/real-madrid-champions-league-draw-opponents-2026-27-ucl",
+    "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/real-madrid-s-rivals-in-the-2026-27-uefa-champions-league-season-2026-08-27",
+    "https://www.forbes.com/sites/samleveridge/2026/08/27/real-madrid-202627-champions-league-draw-who-when-where/",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_La_Liga",
+    "https://sports.yahoo.com/articles/la-liga-2025-26-season-151235306.html",
+    "https://www.espn.com/soccer/match/_/gameId/748484/real-madrid-barcelona",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Real_Madrid_CF_season",
+    "https://www.uefa.com/uefachampionsleague/news/029c-1e9a2f63fe2d-ebf9ad643892-1000--2025-26-champions-league-all-the-results/",
+    "https://www.forbes.com/sites/samleveridge/2026/08/20/real-madrid-202627-season-preview-lineups-transfers-predictions/"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Verified: Mourinho appointed 11 June 2026 (contract to 30 June 2029, joined 13 July), 2nd in La Liga behind Barcelona (title decided 10 May 2026, Barcelona 2-0 Real Madrid), Mbappe 25 league goals as top scorer, UCL draw opponents. NOT verified: points/W/D/L/GF/GA, Copa del Rey result, the UCL quarter-final opponent, and the ENTIRE summer-2026 window (arrivals/departures lists left empty, not asserted as zero). Squad is therefore the 2025/26 roster and may be materially out of date. Mourinho's preferred formation is inferred from his career, not from 2026/27 matches. Squad = last known first-team roster adjusted ONLY for summer-2026 moves that were source-verified; further unreported exits/loans may be missing. Per-player 2025/26 stats left null unless a source gave the number. Ages computed from public birthdates as of 2026-09-02. Research constraint: web fetch was blocked on all data sites (transfermarkt, fbref, uefa, wikipedia, club sites) and only search snippets were available."
+  }
+}

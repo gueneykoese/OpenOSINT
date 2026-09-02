@@ -1,0 +1,621 @@
+{
+  "club_id": "manchester_city",
+  "name": "Manchester City FC",
+  "short_name": "Man City",
+  "country": "ENG",
+  "league": "Premier League",
+  "city": "Manchester",
+  "ucl_2026_27": {
+    "pot": 1,
+    "qualified_via": "Premier League 2025/26 runner-up",
+    "opponents_home": [
+      "Paris Saint-Germain",
+      "Sporting CP",
+      "Napoli",
+      "AEK Athens"
+    ],
+    "opponents_away": [
+      "FC Barcelona",
+      "FC Porto",
+      "RB Leipzig",
+      "RC Lens"
+    ]
+  },
+  "head_coach": {
+    "name": "Enzo Maresca",
+    "since": "2026-06",
+    "nationality": "ITA",
+    "preferred_formation": "4-2-3-1",
+    "style_keywords": [
+      "positional play",
+      "build-up with GK as extra man",
+      "inverted full-back / box midfield",
+      "patient possession",
+      "Guardiola-school",
+      "high press"
+    ]
+  },
+  "identity": {
+    "playing_style": "Maresca (appointed 29 June 2026, three-year deal) is a Guardiola disciple who at Chelsea used a 4-2-3-1 that becomes a 3-2-5 in possession, with the goalkeeper heavily involved in build-up, a left-back inverting into midfield and a slow-then-fast positional attack. The transition from Guardiola's decade should be stylistically smooth; the squad already contains the ball-playing profiles (Rodri, Reijnders, Cherki, Foden) and the elite finisher (Haaland).",
+    "principles": [
+      "City Football Group multi-club model and global scouting",
+      "positional-play coaching lineage (Guardiola to Maresca)",
+      "succession planning: sign players 20-25 for future core",
+      "sell academy graduates for pure profit",
+      "sporting director-led (Hugo Viana since 2025)"
+    ],
+    "club_character": "Abu Dhabi-backed ownership with vast resources but a decade of legal/regulatory scrutiny; relatively calm fan base, Etihad expansion; first post-Guardiola season creates unusual uncertainty; club also faces exits of veterans (Stones, Bernardo Silva) marking the end of an era.",
+    "ownership": "City Football Group (Abu Dhabi United Group majority, Silver Lake minority)",
+    "political_and_social_context": "Public record: 2020 UEFA FFP ban overturned by CAS; 115 Premier League charges over alleged financial breaches (hearing 2024-25, outcome and appeals publicly reported); club's 2024 arbitration victory over Premier League Associated Party Transaction rules; sustained public criticism of Abu Dhabi ownership by human-rights groups (Amnesty 'sportswashing' reports). Club has publicly rejected all wrongdoing.",
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "it",
+      "fr"
+    ],
+    "wage_structure": "hierarchical; Haaland and De Bruyne-era top tier; long contracts to defer amortisation",
+    "transfer_policy": "Buy 20-25 elite prospects on long contracts (Reijnders, Cherki, Ait-Nouri, Marmoush, Nico Gonzalez in 2025), plus targeted senior fixes; sell academy talents and fringe players for profit",
+    "injury_management_reputation": "Publicly discussed: Rodri's ACL (2024/25) and a heavy injury list in 2024/25 were widely covered; 2025/26 saw fewer long-term absences."
+  },
+  "last_season_2025_26": {
+    "league_position": 2,
+    "points": 78,
+    "played": 38,
+    "won": 23,
+    "drawn": 9,
+    "lost": 6,
+    "goals_for": null,
+    "goals_against": null,
+    "xg_for": null,
+    "xg_against": null,
+    "possession_pct": null,
+    "ucl_result": null,
+    "domestic_cup": null,
+    "top_scorer": {
+      "name": null,
+      "goals": null
+    },
+    "top_assister": {
+      "name": null,
+      "assists": null
+    }
+  },
+  "summer_2026_window": {
+    "arrivals": [],
+    "departures": [
+      {
+        "name": "John Stones",
+        "to": null,
+        "fee_eur_m": null,
+        "position": "CB"
+      },
+      {
+        "name": "Bernardo Silva",
+        "to": null,
+        "fee_eur_m": null,
+        "position": "CM"
+      }
+    ],
+    "net_spend_eur_m": null
+  },
+  "squad": [
+    {
+      "name": "Gianluigi Donnarumma",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 27,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": 25,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "James Trafford",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 23,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": 1,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Marcus Bettinelli",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 34,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": 33,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ruben Dias",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 29,
+      "nationality": "POR",
+      "contract_until": null,
+      "shirt_no": 3,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Josko Gvardiol",
+      "position": "CB",
+      "secondary_positions": [
+        "LB"
+      ],
+      "age": 24,
+      "nationality": "CRO",
+      "contract_until": null,
+      "shirt_no": 24,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Nathan Ake",
+      "position": "CB",
+      "secondary_positions": [
+        "LB"
+      ],
+      "age": 31,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": 6,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Abdukodir Khusanov",
+      "position": "CB",
+      "secondary_positions": [
+        "RB"
+      ],
+      "age": 22,
+      "nationality": "UZB",
+      "contract_until": null,
+      "shirt_no": 45,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Rico Lewis",
+      "position": "RB",
+      "secondary_positions": [
+        "CM",
+        "LB"
+      ],
+      "age": 21,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": 82,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Matheus Nunes",
+      "position": "RB",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": 28,
+      "nationality": "POR",
+      "contract_until": null,
+      "shirt_no": 27,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Rayan Ait-Nouri",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": 25,
+      "nationality": "ALG",
+      "contract_until": null,
+      "shirt_no": 21,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Nico O'Reilly",
+      "position": "LB",
+      "secondary_positions": [
+        "CM",
+        "CB"
+      ],
+      "age": 21,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": 75,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Rodri",
+      "position": "DM",
+      "secondary_positions": [],
+      "age": 30,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 16,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Nico Gonzalez",
+      "position": "DM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": 24,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 14,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Tijjani Reijnders",
+      "position": "CM",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": 28,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": 4,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Mateo Kovacic",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": 32,
+      "nationality": "CRO",
+      "contract_until": null,
+      "shirt_no": 8,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Phil Foden",
+      "position": "AM",
+      "secondary_positions": [
+        "RW",
+        "LW"
+      ],
+      "age": 28,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": 47,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Rayan Cherki",
+      "position": "AM",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": 23,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 10,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Oscar Bobb",
+      "position": "RW",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": 23,
+      "nationality": "NOR",
+      "contract_until": null,
+      "shirt_no": 52,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Savinho",
+      "position": "RW",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": 22,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": 26,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Jeremy Doku",
+      "position": "LW",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": 24,
+      "nationality": "BEL",
+      "contract_until": null,
+      "shirt_no": 11,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Omar Marmoush",
+      "position": "LW",
+      "secondary_positions": [
+        "ST",
+        "RW"
+      ],
+      "age": 27,
+      "nationality": "EGY",
+      "contract_until": null,
+      "shirt_no": 7,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Erling Haaland",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": 26,
+      "nationality": "NOR",
+      "contract_until": null,
+      "shirt_no": 9,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    }
+  ],
+  "strengths": [
+    "Second in the Premier League (78 pts, 23-9-6) - only six defeats, the best record outside champions Arsenal",
+    "Haaland (26) remains the most reliable goal source in Europe; Donnarumma (27) an elite GK signed in 2025",
+    "Deep pool of 21-25-year-old technicians (Reijnders, Cherki, Gvardiol, Khusanov, Ait-Nouri, Lewis, O'Reilly, Savinho, Doku) aligned to Maresca's positional model",
+    "Stylistic continuity: Maresca's system is a direct descendant of Guardiola's, limiting adaptation cost"
+  ],
+  "weaknesses": [
+    "First season without Guardiola since 2016; Maresca inherits a squad that finished 7 points behind Arsenal and has to re-establish authority",
+    "Loss of dressing-room leaders Stones and Bernardo Silva (both left summer 2026) removes experience and a CB option",
+    "Rodri (30) is irreplaceable as the single pivot - his 2024/25 ACL history makes DM depth a structural risk",
+    "Right-back remains improvised (Lewis, Nunes, Khusanov) with no specialist starter",
+    "Champions League 2025/26 exit round and cup results could not be verified; European form since 2024 has been below the club's standard"
+  ],
+  "positional_needs": [
+    {
+      "position": "RB",
+      "priority": "high",
+      "profile": "specialist RB able to invert or hold width, 21-26",
+      "reason": "No natural RB since Walker's exit; Lewis/Nunes are conversions",
+      "budget_eur_m": 60,
+      "wage_ceiling_eur_m_net": 8
+    },
+    {
+      "position": "CB",
+      "priority": "medium",
+      "profile": "right-footed ball-playing CB, 22-26, aerially strong",
+      "reason": "Stones departed; Ake 31; Dias 29 - only Gvardiol/Khusanov are young",
+      "budget_eur_m": 60,
+      "wage_ceiling_eur_m_net": 8
+    },
+    {
+      "position": "DM",
+      "priority": "medium",
+      "profile": "Rodri understudy with elite passing under pressure",
+      "reason": "Rodri 30 with major injury history; Nico Gonzalez the only alternative",
+      "budget_eur_m": 50,
+      "wage_ceiling_eur_m_net": 7
+    },
+    {
+      "position": "ST",
+      "priority": "low",
+      "profile": "rotation No.9 or false-nine profile",
+      "reason": "Marmoush the only cover for Haaland",
+      "budget_eur_m": 40,
+      "wage_ceiling_eur_m_net": 6
+    }
+  ],
+  "position_benchmarks": {
+    "ST": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "shots_p90": null,
+      "pressures_p90": null
+    },
+    "CM": {
+      "pass_completion_pct": null,
+      "progressive_passes_p90": null,
+      "tackles_interceptions_p90": null
+    },
+    "CB": {
+      "aerials_won_pct": null,
+      "tackles_interceptions_p90": null,
+      "progressive_passes_p90": null
+    },
+    "RW": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "dribbles_p90": null,
+      "shots_p90": null
+    }
+  },
+  "sources": [
+    "https://www.mancity.com/news/mens/champions-league-league-phase-draw-2026-27-63923415",
+    "https://sports.yahoo.com/articles/man-citys-eight-champions-league-164143266.html",
+    "https://www.uefa.com/uefachampionsleague/news/02a8-216cd740d41f-fd3b45ac4a0f-1000--champions-league-league-phase-draw-all-36-teams-learn-their/",
+    "https://www.nbcsports.com/premier-league-table-2025-26-season-standings",
+    "https://sports.yahoo.com/articles/premier-league-2025-26-table-181100855.html",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Premier_League",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Manchester_City_F.C._season",
+    "https://www.premierleague.com/en/news/4679012/manager-line-up-complete-for-202627-season",
+    "https://www.espn.com/soccer/story/_/id/49145825/manchester-city-close-naming-enzo-maresca-pep-guardiola-successor-sources",
+    "https://sports.yahoo.com/articles/manchester-city-2026-27-premier-090500155.html",
+    "https://footballtoday.com/2026/08/14/manchester-city-2026-27-premier-league-preview-can-maresca-deliver-the-title/"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Verified: Maresca appointed 29 June 2026 on a three-year contract after Guardiola's departure; 2nd place 78 pts, 23-9-6, +42 GD; UCL draw; Stones and Bernardo Silva exits (destinations unknown). NOT verified: GF/GA (only GD known), UCL 2025/26 exit round, FA Cup/Carabao results, top scorer, and all summer-2026 ARRIVALS (list left empty, not asserted as zero). Maresca's formation/style is inferred from his Chelsea tenure, not from City matches. Squad is the 2025/26 roster minus verified exits. Squad = last known first-team roster adjusted ONLY for summer-2026 moves that were source-verified; further unreported exits/loans may be missing. Per-player 2025/26 stats left null unless a source gave the number. Ages computed from public birthdates as of 2026-09-02. Research constraint: web fetch was blocked on all data sites (transfermarkt, fbref, uefa, wikipedia, club sites) and only search snippets were available."
+  }
+}

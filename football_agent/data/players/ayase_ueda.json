@@ -1,0 +1,66 @@
+{
+  "player_id": "ayase_ueda",
+  "name": "Ayase Ueda",
+  "age": 28,
+  "date_of_birth": null,
+  "nationality": ["JPN"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": null,
+  "current_club_league": null,
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": null,
+  "stats_2025_26": {
+    "competition": "Eredivisie",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 25,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["penalty-box striker", "Eredivisie top scorer 2025/26"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ja"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Eredivisie",
+    "https://www.worldfootball.net/competition/co37/netherlands-eredivisie/se94181/2025-2026/statistics-goals/"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "The 25-goal Eredivisie golden boot for 2025/26 is corroborated by two search snippets. He scored them for Feyenoord, but whether he was still at Feyenoord after the 1 Sep 2026 deadline could NOT be verified, so current_club/league/availability/fee are null rather than guessed. Age approximate (born 1998). Everything else unverified."
+  }
+}

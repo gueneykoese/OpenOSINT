@@ -1,0 +1,272 @@
+{
+  "club_id": "feyenoord",
+  "name": "Feyenoord Rotterdam",
+  "short_name": "Feyenoord",
+  "country": "NED",
+  "league": "Eredivisie",
+  "city": "Rotterdam",
+  "ucl_2026_27": {
+    "pot": 3,
+    "qualified_via": "Eredivisie 2025/26 runner-up (whether entry was direct or via qualifying rounds not verified)",
+    "opponents_home": [
+      "Inter",
+      "FC Porto",
+      "RB Leipzig",
+      "Como 1907"
+    ],
+    "opponents_away": [
+      "FC Barcelona",
+      "Real Betis",
+      "Galatasaray",
+      "Viking FK"
+    ]
+  },
+  "head_coach": {
+    "name": "Giovanni van Bronckhorst",
+    "since": "2026-06",
+    "nationality": "NED",
+    "preferred_formation": "4-3-3",
+    "style_keywords": [
+      "possession-based",
+      "4-3-3 (his 2015-19 Feyenoord default)",
+      "pragmatic in Europe",
+      "club icon / second spell"
+    ]
+  },
+  "identity": {
+    "playing_style": "Under Van Persie (2025/26) Feyenoord played an aggressive, front-foot 4-3-3 built around striker Ayase Ueda, who won the Eredivisie golden boot with 25 league goals; the side scored 70 but conceded 44 in 34 games, i.e. attack-heavy and defensively porous. Van Bronckhorst, appointed 17 June 2026 on a two-year deal, historically favours a more controlled possession 4-3-3 with wide wingers and a ball-playing pivot.",
+    "principles": [
+      "develop-and-sell (Eredivisie business model)",
+      "strong academy pathway (Varkenoord)",
+      "recruit undervalued players from smaller leagues",
+      "club-icon coaching appointments"
+    ],
+    "club_character": "Working-class Rotterdam club with one of the most intense fan cultures in the Netherlands (De Kuip); expectation is to compete with PSV and Ajax every year; heavy media scrutiny nationally; second-best resourced club in the league.",
+    "ownership": "Foundation/association-controlled (Stichting Feyenoord holds the shares; no external majority owner)",
+    "political_and_social_context": "Publicly documented: recurring UEFA/KNVB sanctions and stadium-ban measures linked to supporter behaviour (fireworks, away-fan bans) in recent European seasons; long-running public debate over a new stadium (Feyenoord City) that was cancelled in 2022 in favour of renovating De Kuip. No further institution-level controversies verified for 2025/26.",
+    "languages": [
+      "nl",
+      "en"
+    ],
+    "wage_structure": "hierarchical but capped by Eredivisie economics; top earners well below Pot 1-2 clubs (exact figures unknown)",
+    "transfer_policy": "buy-low/sell-high; regular sales of best performers to Premier League/Serie A; reinvests in 20-25-year-olds; occasional experienced free agents (e.g. Jerry St. Juste Jan 2026, Raheem Sterling short-term Feb-Jun 2026)",
+    "injury_management_reputation": null
+  },
+  "last_season_2025_26": {
+    "league_position": 2,
+    "points": 65,
+    "played": 34,
+    "won": 19,
+    "drawn": 8,
+    "lost": 7,
+    "goals_for": 70,
+    "goals_against": 44,
+    "xg_for": null,
+    "xg_against": null,
+    "possession_pct": null,
+    "ucl_result": "Did not play UCL (Europa League league phase; exit round not verified)",
+    "domestic_cup": "KNVB Beker: second round",
+    "top_scorer": {
+      "name": "Ayase Ueda",
+      "goals": 25
+    },
+    "top_assister": {
+      "name": null,
+      "assists": null
+    }
+  },
+  "summer_2026_window": {
+    "arrivals": [
+      {
+        "name": "Charles Vanhoutte",
+        "from": "OGC Nice",
+        "fee_eur_m": null,
+        "position": "DM"
+      }
+    ],
+    "departures": [
+      {
+        "name": "Raheem Sterling",
+        "to": "contract expired (Feb-Jun 2026 short-term deal)",
+        "fee_eur_m": 0,
+        "position": "LW"
+      },
+      {
+        "name": "Steven Benda",
+        "to": "Fulham (end of loan)",
+        "fee_eur_m": 0,
+        "position": "GK"
+      }
+    ],
+    "net_spend_eur_m": null
+  },
+  "squad": [
+    {
+      "name": "Ayase Ueda",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": 28,
+      "nationality": "JPN",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 25,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Anel Ahmedhodzic",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 27,
+      "nationality": "BIH",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Jerry St. Juste",
+      "position": "CB",
+      "secondary_positions": [
+        "RB"
+      ],
+      "age": 29,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Mats Deijl",
+      "position": "RB",
+      "secondary_positions": [],
+      "age": 29,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Charles Vanhoutte",
+      "position": "DM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": 27,
+      "nationality": "BEL",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    }
+  ],
+  "strengths": [
+    "Elite Eredivisie goal threat: Ueda's 25 league goals (golden boot) and 70 team goals in 2025/26, second only to champions PSV.",
+    "Home advantage at De Kuip, historically one of the toughest away trips in Dutch/European football.",
+    "Stable, experienced coach who knows the club (Van Bronckhorst won the KNVB Cup 2016 and Eredivisie 2017 in his first spell).",
+    "Recruitment record of turning modest fees into big sales gives financial headroom."
+  ],
+  "weaknesses": [
+    "44 goals conceded in 34 league games (1.29/game) is too many for a title challenger and will be exposed against Pot 1-2 attacks (Barcelona, Inter).",
+    "Early KNVB Cup exit (round 2) and failure to keep pace with PSV (title decided 5 April) point to inconsistency.",
+    "Coaching change in June 2026 means a new system being installed while the Champions League starts.",
+    "Dependence on one striker for goals; loss/injury of Ueda would remove a large share of output."
+  ],
+  "positional_needs": [
+    {
+      "position": "CB",
+      "priority": "high",
+      "profile": "left-sided, quick, comfortable defending high line, 22-27",
+      "reason": "44 league goals conceded; St. Juste (29) is a stop-gap signing",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    },
+    {
+      "position": "ST",
+      "priority": "medium",
+      "profile": "rotation/backup 9 with pressing profile",
+      "reason": "over-reliance on Ueda for goals; Sterling's short-term deal has expired",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    },
+    {
+      "position": "LW",
+      "priority": "medium",
+      "profile": "direct 1v1 winger, resale value",
+      "reason": "Sterling departed; wide creativity thin",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    }
+  ],
+  "position_benchmarks": {
+    "ST": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "shots_p90": null,
+      "pressures_p90": null
+    },
+    "CM": {
+      "pass_completion_pct": null,
+      "progressive_passes_p90": null,
+      "tackles_interceptions_p90": null
+    },
+    "CB": {
+      "aerials_won_pct": null,
+      "tackles_interceptions_p90": null,
+      "progressive_passes_p90": null
+    }
+  },
+  "sources": [
+    "https://www.feyenoord.com/en/news/champions-league-draw-eight-opponents-announced-270826",
+    "https://www.uefa.com/uefachampionsleague/news/02a8-216cd740d41f-fd3b45ac4a0f-1000--champions-league-league-phase-draw-all-36-teams-learn-their/",
+    "https://www.feyenoord.com/en/news/giovanni-van-bronckhorst-returns-as-head-coach-170626",
+    "https://www.feyenoord.com/en/news/feyenoord-parts-ways-with-robin-van-persie-070626",
+    "https://www.fcupdate.nl/voetbalcompetities/nederland/eredivisie/stand/2025-2026",
+    "https://www.vi.nl/competities/eredivisie/2025-2026/stand",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Feyenoord_season",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Eredivisie",
+    "https://www.fotmob.com/teams/10235/transfers/feyenoord",
+    "https://dailysports.net/team/feyenoord/transfers/"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "SQUAD IS PARTIAL: only players whose presence in the 2026/27 squad is supported by a source found during research are listed; a full 20-26 man squad, shirt numbers, contract dates and per-player 2025/26 minutes could not be retrieved because the research session lost web access (search budget exhausted; fetch to transfermarkt/fbref/uefa/club sites blocked). Ages are computed from publicly known birth dates. League table (2nd, 65 pts, 19-8-7, 70-44), coach (Van Bronckhorst, 17 Jun 2026), UCL opponents (club statement 27 Aug 2026) and Ueda's 25 league goals are source-verified. Europa League exit round, full summer window (only Vanhoutte arrival verified), top assister, xG and wage/budget figures unverified. Identity/ownership text is from general public knowledge, not a fetched 2026 source."
+  }
+}

@@ -1,0 +1,562 @@
+{
+  "club_id": "lask",
+  "name": "LASK",
+  "short_name": "LASK",
+  "country": "AUT",
+  "league": "Austrian Bundesliga",
+  "city": "Linz",
+  "ucl_2026_27": {
+    "pot": 4,
+    "qualified_via": "Austrian Bundesliga 2025/26 champion; won UCL play-off vs Celtic (5-1 aet second leg after 0-4 first-leg deficit)",
+    "opponents_home": [
+      "Liverpool",
+      "FC Porto",
+      "Fenerbahçe",
+      "Slovan Bratislava"
+    ],
+    "opponents_away": [
+      "Real Madrid",
+      "Sporting CP",
+      "Bodø/Glimt",
+      "AEK Athens"
+    ]
+  },
+  "head_coach": {
+    "name": "Dietmar Kühbauer",
+    "since": "2025-10",
+    "nationality": "AUT",
+    "preferred_formation": null,
+    "style_keywords": [
+      "pragmatic",
+      "set-piece strength",
+      "resilience / late goals",
+      "direct play"
+    ]
+  },
+  "identity": {
+    "playing_style": "Kühbauer took over on 9 Oct 2025 with LASK second-bottom and won the double; the season was defined by comebacks (0-4 down vs Celtic, extra-time cup final win). Data from the title run - 56 scored, 42 conceded in 32 games - shows an attack-first, transition team rather than a control team.",
+    "principles": [
+      "develop-and-sell (Cisse to Aston Villa, previous sales to Premier League)",
+      "Linz regional identity, Raiffeisen Arena as commercial engine",
+      "pragmatic coaching hires"
+    ],
+    "club_character": "Member-association club run by a private board (president Siegmund Gruber) with strong regional backing in Upper Austria; the 2025/26 double ended a 61-year trophy drought, so expectations and media attention are at an all-time high.",
+    "ownership": "member-owned association with private investor board (details not re-verified this session)",
+    "political_and_social_context": "No institution-level controversy from 2025/26 surfaced in this session's sources.",
+    "languages": [
+      "de",
+      "en"
+    ],
+    "wage_structure": "unknown",
+    "transfer_policy": "Buy-low from Czech/Croatian/Dutch/Portuguese markets (Danek, Smakaj, Mbuyamba, Tornich), loans from bigger clubs (Ljubičić), sell high to England (Cisse).",
+    "injury_management_reputation": null
+  },
+  "last_season_2025_26": {
+    "league_position": 1,
+    "points": 39,
+    "played": 32,
+    "won": 17,
+    "drawn": 7,
+    "lost": 8,
+    "goals_for": 56,
+    "goals_against": 42,
+    "xg_for": null,
+    "xg_against": null,
+    "possession_pct": null,
+    "ucl_result": "No European competition in 2025/26",
+    "domestic_cup": "Winner (4-2 aet vs SCR Altach)",
+    "top_scorer": {
+      "name": null,
+      "goals": null
+    },
+    "top_assister": {
+      "name": null,
+      "assists": null
+    }
+  },
+  "summer_2026_window": {
+    "arrivals": [
+      {
+        "name": "Kryštof Daněk",
+        "from": "Sparta Prague",
+        "fee_eur_m": null,
+        "position": "AM"
+      },
+      {
+        "name": "João Tornich",
+        "from": "Portimonense",
+        "fee_eur_m": null,
+        "position": null
+      },
+      {
+        "name": "Robert Ljubičić",
+        "from": "AEK Athens (loan)",
+        "fee_eur_m": 0,
+        "position": "CM"
+      },
+      {
+        "name": "Art Smakaj",
+        "from": "NK Lokomotiva Zagreb",
+        "fee_eur_m": null,
+        "position": null
+      },
+      {
+        "name": "Bryan Teixeira",
+        "from": "free agent",
+        "fee_eur_m": 0,
+        "position": null
+      }
+    ],
+    "departures": [
+      {
+        "name": "Modou Keba Cisse",
+        "to": "Aston Villa",
+        "fee_eur_m": null,
+        "position": "CB"
+      },
+      {
+        "name": "Saša Kalajdžić",
+        "to": "Wolverhampton Wanderers (end of loan)",
+        "fee_eur_m": 0,
+        "position": "ST"
+      },
+      {
+        "name": "Maximilian Entrup",
+        "to": "Eintracht Braunschweig",
+        "fee_eur_m": null,
+        "position": "ST"
+      },
+      {
+        "name": "Valon Berisha",
+        "to": "FC Zürich",
+        "fee_eur_m": null,
+        "position": "CM"
+      },
+      {
+        "name": "Kevin Lebersorger",
+        "to": "BFC Dynamo",
+        "fee_eur_m": null,
+        "position": null
+      },
+      {
+        "name": "Lenny Pintor",
+        "to": "Eyüpspor",
+        "fee_eur_m": null,
+        "position": "LW"
+      },
+      {
+        "name": "Emmanuel Michael",
+        "to": "Admira Wacker (loan)",
+        "fee_eur_m": 0,
+        "position": null
+      }
+    ],
+    "net_spend_eur_m": null
+  },
+  "squad": [
+    {
+      "name": "Tobias Lawal",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "AUT",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Philipp Ziereis",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Xavier Mbuyamba",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "NED",
+      "contract_until": 2028,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "George Bello",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "USA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Felix Luckeneder",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "AUT",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Peter Michorl",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "AUT",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Sascha Horvath",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "AUT",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ivan Ljubić",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "AUT",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Robert Ljubičić",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "CRO",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Kryštof Daněk",
+      "position": "AM",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": null,
+      "nationality": "CZE",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Moses Usor",
+      "position": "LW",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": null,
+      "nationality": "NGA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Lukas Kačavenda",
+      "position": "AM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "CRO",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Samuel Adeniran",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "USA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Metodi Maksimov",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "MKD",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Nael Kane",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "CAN",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Art Smakaj",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "KOS",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "João Tornich",
+      "position": "RB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Bryan Teixeira",
+      "position": "LW",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "CPV",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    }
+  ],
+  "strengths": [
+    "Momentum and mentality: double winners who came from second-bottom in October and overturned 0-4 vs Celtic - a resilient dressing room.",
+    "Coach continuity (Kühbauer extended to 2029 in Aug 2026) with the whole staff retained.",
+    "Extra-time/late-game goal threat (Bello, Adeniran in cup final; Celtic comeback).",
+    "Core of the title squad largely retained apart from Cisse and Kalajdžić."
+  ],
+  "weaknesses": [
+    "Lost the two most valuable players: Cisse (CB, to Aston Villa) and loan striker Kalajdžić - the No.9 role is now Adeniran/Maksimov, unproven at UCL level.",
+    "Defence conceded 42 in 32 league games - worst of the top three; will be exposed by Liverpool/Real/Porto.",
+    "Only 39 points (halved Meistergruppe system) - title margin over Sturm was 2 points; squad depth for UCL + domestic double defence is thin.",
+    "No European football in 2025/26, so zero recent continental experience in the squad."
+  ],
+  "positional_needs": [
+    {
+      "position": "ST",
+      "priority": "high",
+      "profile": "physical No.9, 23-28, proven in a top-10 league",
+      "reason": "Kalajdžić loan ended, Entrup sold",
+      "budget_eur_m": 3,
+      "wage_ceiling_eur_m_net": 0.8
+    },
+    {
+      "position": "CB",
+      "priority": "high",
+      "profile": "right-footed, fast, 21-25, resale profile",
+      "reason": "Cisse sold to Aston Villa; Ziereis 33",
+      "budget_eur_m": 3,
+      "wage_ceiling_eur_m_net": 0.7
+    },
+    {
+      "position": "RB",
+      "priority": "medium",
+      "profile": "attacking full-back with UCL-level athleticism",
+      "reason": "Only Tornich added; starters not verified",
+      "budget_eur_m": 2,
+      "wage_ceiling_eur_m_net": 0.5
+    }
+  ],
+  "position_benchmarks": {
+    "ST": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "shots_p90": null,
+      "pressures_p90": null
+    },
+    "CB": {
+      "aerials_won_pct": null,
+      "tackles_interceptions_p90": null,
+      "progressive_passes_p90": null
+    },
+    "CM": {
+      "pass_completion_pct": null,
+      "progressive_passes_p90": null,
+      "tackles_interceptions_p90": null
+    }
+  },
+  "sources": [
+    "https://www.lask.at/de/m/news/lask-kennt-gegner-fuer-cl-premiere",
+    "https://www.skysportaustria.at/traumlose-prominente-gegner-fuer-lask-bei-cl-premiere/",
+    "https://www.fussballdaten.de/news/cl-auslosung-acht-gegner-lask-ligaphase/",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Austrian_Football_Bundesliga",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_LASK_season",
+    "https://www.laola1.at/de/red/fussball/oefb-cup/spielbericht/packendes-finale--lask-nach-61-jahren-wieder-oefb-cup-sieger/",
+    "https://www.lask.at/de/m/news/lask-verlaengert-mit-cheftrainer-didi-kuehbauer-bis-2029-gesamtes-trainerteam-bleibt-an-bord",
+    "https://www.skysportaustria.at/trainer-kuehbauer-verlaengert-beim-lask/",
+    "https://sport.orf.at/stories/3161680/",
+    "https://www.90minuten.at/de/red/magazin/saison-vorschau/2026-27-saisonvorschau/lask--ploetzlich-der-gejagte/",
+    "https://www.weltfussball.at/teams/te1186/lask/transfers/",
+    "https://www.sport.de/fussball/te1186/lask/transfers/",
+    "https://en.wikipedia.org/wiki/Xavier_Mbuyamba"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Coach, table line (note: Austrian Meistergruppe points are halved after the regular season, hence 39 pts), cup and UCL opponents verified. Squad: forwards (Maksimov, Adeniran, Usor, Kane, Kačavenda), Mbuyamba, Bello and summer arrivals confirmed by snippets; Lawal, Ziereis, Luckeneder, Michorl, Horvath, Ljubić carried from 2025/26 and NOT re-verified for 2026/27. Positions of Tornich/Smakaj/Teixeira are best-effort. Fees, ages, shirt numbers, per-player stats, top scorer and formation unavailable (data sites blocked). Mbuyamba joined Jan 2026 (winter), listed in squad only."
+  }
+}

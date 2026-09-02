@@ -1,0 +1,88 @@
+{
+  "player_id": "demo_rb_luca_ferraro",
+  "name": "Luca Ferraro (demo)",
+  "age": 26,
+  "date_of_birth": "2000-03-03",
+  "nationality": [
+    "ITA"
+  ],
+  "position": "RB",
+  "secondary_positions": [
+    "RW"
+  ],
+  "preferred_foot": "right",
+  "height_cm": 182,
+  "current_club": "Demo Bologna",
+  "current_club_league": "Serie A",
+  "contract_until": 2027,
+  "market_value_eur_m": 22,
+  "estimated_fee_eur_m": 28,
+  "wage_eur_m_net": 1.8,
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Serie A",
+    "apps": 33,
+    "starts": 31,
+    "minutes": 2790,
+    "goals": 1,
+    "assists": 5,
+    "xg": null,
+    "xa": null,
+    "shots_p90": 0.6,
+    "key_passes_p90": 1.2,
+    "dribbles_p90": 1.5,
+    "tackles_interceptions_p90": 3.6,
+    "pass_completion_pct": 84,
+    "aerials_won_pct": 52,
+    "progressive_carries_p90": 3.0
+  },
+  "style_profile": {
+    "tags": [
+      "athletic right-back",
+      "inverting full-back",
+      "strong 1v1 defender",
+      "high press"
+    ],
+    "best_system": [
+      "4-3-3",
+      "3-4-3"
+    ],
+    "weak_in": [
+      "deep crossing volume"
+    ]
+  },
+  "mental_profile": {
+    "leadership": 3,
+    "coachability": 4,
+    "resilience": 4,
+    "discipline": 4,
+    "notes": "Synthetic."
+  },
+  "injury_history": [
+    {
+      "type": "hamstring",
+      "season": "2025/26",
+      "days_out": 24
+    }
+  ],
+  "off_pitch": {
+    "languages": [
+      "it",
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "synthetic"
+  },
+  "release_clause_eur_m": null,
+  "agent_status": "represented_by_us",
+  "sources": [
+    "synthetic://football_agent/demo"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "synthetic",
+    "notes": "FICTIONAL demo profile used only to exercise the matching engine. Not a real person; all numbers are invented and plausible for the stated league. Never present as scouting data."
+  }
+}

@@ -1,0 +1,677 @@
+{
+  "club_id": "bayern_munich",
+  "name": "FC Bayern München",
+  "short_name": "Bayern",
+  "country": "GER",
+  "league": "Bundesliga",
+  "city": "Munich",
+  "ucl_2026_27": {
+    "pot": 1,
+    "qualified_via": "Bundesliga 2025/26 champions",
+    "opponents_home": [
+      "Arsenal",
+      "Real Betis",
+      "Bodø/Glimt",
+      "Slavia Prague"
+    ],
+    "opponents_away": [
+      "Atlético Madrid",
+      "Manchester United",
+      "Lille",
+      "Viking Stavanger"
+    ]
+  },
+  "head_coach": {
+    "name": "Vincent Kompany",
+    "since": "2024-07",
+    "nationality": "BEL",
+    "preferred_formation": "4-2-3-1",
+    "style_keywords": [
+      "high press",
+      "very high defensive line",
+      "possession",
+      "fast wide attackers",
+      "aggressive rest-defence",
+      "record goal output"
+    ]
+  },
+  "identity": {
+    "playing_style": "Kompany's Bayern press extremely high with an aggressive back line and dominate territory; 122 Bundesliga goals in 2025/26 (a league record) with Harry Kane (36) as the reference point and Olise/Diaz/Musiala/Gnabry supplying from wide and the half-spaces. Kimmich and Laimer/Bischof provide the double pivot; the trade-off is exposure to transitions (Bayern still conceded ~40 despite the +82 difference).",
+    "principles": [
+      "'Mia san mia' - win every domestic title",
+      "financially self-sustaining (member-majority ownership)",
+      "sign established Bundesliga-proven talent plus selective marquee buys",
+      "strong preference for German internationals in the core",
+      "Campus youth pathway (Bischof, Kiala, Urbig)"
+    ],
+    "club_character": "Member-controlled club with three strategic corporate minority shareholders; conservative finances (no debt), enormous domestic expectation, a famously blunt board/media culture (Hoeness, Rummenigge, Eberl, Freund) that scrutinises coaches publicly.",
+    "ownership": "Member-owned: FC Bayern München e.V. holds 75%; Adidas, Audi and Allianz hold 8.33% each",
+    "political_and_social_context": "Public debate over the Qatar Airways sleeve sponsorship (ended 2023 after member protests at AGMs); club has publicly commemorated its Jewish former president Kurt Landauer and taken anti-discrimination stances; ongoing German 50+1 ownership rule debate in which Bayern is a leading voice.",
+    "languages": [
+      "de",
+      "en",
+      "fr"
+    ],
+    "wage_structure": "hierarchical with a strong senior core (Kane, Kimmich, Neuer, Musiala at the top)",
+    "transfer_policy": "Selective: one or two significant buys per window, Bundesliga-proven or German-international profiles preferred; budget-disciplined, willing to walk away from bidding wars",
+    "injury_management_reputation": "Publicly discussed: Musiala's long lay-off after the 2025 Club World Cup and the recurring absences of Davies, Ito and Kane's short-term issues made squad depth a public topic in 2025/26; the department itself is not criticised."
+  },
+  "last_season_2025_26": {
+    "league_position": 1,
+    "points": 86,
+    "played": 34,
+    "won": null,
+    "drawn": null,
+    "lost": null,
+    "goals_for": 122,
+    "goals_against": 40,
+    "xg_for": null,
+    "xg_against": null,
+    "possession_pct": null,
+    "ucl_result": "Semi-final (lost to PSG over two legs, 9-goal tie)",
+    "domestic_cup": "DFB-Pokal winner (3-0 v VfB Stuttgart, Berlin, 23 May 2026)",
+    "top_scorer": {
+      "name": "Harry Kane",
+      "goals": 36
+    },
+    "top_assister": {
+      "name": null,
+      "assists": null
+    }
+  },
+  "summer_2026_window": {
+    "arrivals": [
+      {
+        "name": "Ismael Saibari",
+        "from": "PSV Eindhoven",
+        "fee_eur_m": null,
+        "position": "AM"
+      },
+      {
+        "name": "Nathaniel Brown",
+        "from": "Eintracht Frankfurt",
+        "fee_eur_m": null,
+        "position": "LB"
+      }
+    ],
+    "departures": [
+      {
+        "name": "Joao Palhinha",
+        "to": "Benfica",
+        "fee_eur_m": null,
+        "position": "DM"
+      }
+    ],
+    "net_spend_eur_m": null
+  },
+  "squad": [
+    {
+      "name": "Manuel Neuer",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 40,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": 1,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Jonas Urbig",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 23,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": 40,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Sven Ulreich",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 38,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": 26,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Leon Klanac",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 19,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": 48,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Dayot Upamecano",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 27,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 2,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Kim Min-jae",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 29,
+      "nationality": "KOR",
+      "contract_until": null,
+      "shirt_no": 3,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Jonathan Tah",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 30,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": 4,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Hiroki Ito",
+      "position": "CB",
+      "secondary_positions": [
+        "LB"
+      ],
+      "age": 27,
+      "nationality": "JPN",
+      "contract_until": null,
+      "shirt_no": 21,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Cassiano Kiala",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 18,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": 30,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Josip Stanisic",
+      "position": "RB",
+      "secondary_positions": [
+        "CB",
+        "LB"
+      ],
+      "age": 26,
+      "nationality": "CRO",
+      "contract_until": null,
+      "shirt_no": 44,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Konrad Laimer",
+      "position": "RB",
+      "secondary_positions": [
+        "DM",
+        "CM"
+      ],
+      "age": 29,
+      "nationality": "AUT",
+      "contract_until": null,
+      "shirt_no": 27,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Sacha Boey",
+      "position": "RB",
+      "secondary_positions": [],
+      "age": 25,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 23,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": "training separately pending exit talks (Aug 2026)"
+    },
+    {
+      "name": "Alphonso Davies",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": 25,
+      "nationality": "CAN",
+      "contract_until": null,
+      "shirt_no": 19,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Nathaniel Brown",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": 23,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": 11,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Joshua Kimmich",
+      "position": "DM",
+      "secondary_positions": [
+        "RB",
+        "CM"
+      ],
+      "age": 31,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": 6,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Tom Bischof",
+      "position": "CM",
+      "secondary_positions": [
+        "DM"
+      ],
+      "age": 21,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": 8,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Aleksandar Pavlovic",
+      "position": "DM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": 22,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": 45,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Leon Goretzka",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": 31,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": 8,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Jamal Musiala",
+      "position": "AM",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": 23,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": 10,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ismael Saibari",
+      "position": "AM",
+      "secondary_positions": [
+        "CM",
+        "RW"
+      ],
+      "age": 25,
+      "nationality": "MAR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Michael Olise",
+      "position": "RW",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": 24,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 17,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Serge Gnabry",
+      "position": "RW",
+      "secondary_positions": [
+        "LW",
+        "ST"
+      ],
+      "age": 31,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": 7,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Luis Diaz",
+      "position": "LW",
+      "secondary_positions": [],
+      "age": 29,
+      "nationality": "COL",
+      "contract_until": null,
+      "shirt_no": 14,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Lennart Karl",
+      "position": "AM",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": 18,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Harry Kane",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": 33,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": 9,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 36,
+        "assists": null
+      },
+      "injury_flag": null
+    }
+  ],
+  "strengths": [
+    "Record-breaking attack: 122 league goals and a +82 difference in 2025/26; Kane 36 league goals",
+    "Only 1-2 league defeats all season; domestic double (Bundesliga + DFB-Pokal) and a UCL semi-final under Kompany",
+    "Settled coach in his third season with a clear high-press identity and a core of German internationals (Tah, Kimmich, Musiala, Goretzka)",
+    "Wide talent in its prime: Olise (24), Diaz (29), Musiala (23) plus Saibari added"
+  ],
+  "weaknesses": [
+    "Age at key spots: Neuer 40 in goal, Kane 33 as the sole elite No.9, Kimmich/Goretzka/Gnabry all 31",
+    "Palhinha sold with no like-for-like defensive-midfield ball-winner brought in; Bischof/Pavlovic are 21-22",
+    "Very high line concedes chances in transition - ~40 league goals against is high for an 86-point champion; PSG exploited it in the semi-final",
+    "Right-back is a converted midfielder (Laimer) with Boey marginalised and Stanisic multi-purpose; thin specialist depth"
+  ],
+  "positional_needs": [
+    {
+      "position": "ST",
+      "priority": "high",
+      "profile": "successor No.9, 21-25, penalty-box finisher able to learn behind Kane",
+      "reason": "Kane 33 with no senior back-up striker in the squad",
+      "budget_eur_m": 70,
+      "wage_ceiling_eur_m_net": 10
+    },
+    {
+      "position": "DM",
+      "priority": "medium",
+      "profile": "physical ball-winning No.6, 22-27",
+      "reason": "Palhinha departed; Kimmich 31; Pavlovic/Bischof are still developing",
+      "budget_eur_m": 50,
+      "wage_ceiling_eur_m_net": 8
+    },
+    {
+      "position": "GK",
+      "priority": "medium",
+      "profile": "top-level GK ready to start within 12 months, sweeper-keeper",
+      "reason": "Neuer 40; Urbig (23) is unproven at UCL level",
+      "budget_eur_m": 35,
+      "wage_ceiling_eur_m_net": 6
+    },
+    {
+      "position": "RB",
+      "priority": "low",
+      "profile": "specialist attacking RB",
+      "reason": "Laimer is a midfielder by trade; Boey set to leave",
+      "budget_eur_m": 30,
+      "wage_ceiling_eur_m_net": 5
+    }
+  ],
+  "position_benchmarks": {
+    "ST": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "shots_p90": null,
+      "pressures_p90": null
+    },
+    "RW": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "dribbles_p90": null,
+      "shots_p90": null
+    },
+    "DM": {
+      "pass_completion_pct": null,
+      "progressive_passes_p90": null,
+      "tackles_interceptions_p90": null
+    },
+    "CB": {
+      "aerials_won_pct": null,
+      "tackles_interceptions_p90": null,
+      "progressive_passes_p90": null
+    }
+  },
+  "sources": [
+    "https://www.bavarianfootballworks.com/bayern-munich-champions-league/248542/breaking-bayern-munichs-champions-league-opponents-revealed",
+    "https://fcbayern.com/en/news/2026/08/who-fc-bayern-will-face-in-the-league-phase-of-the-champions-league",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Bundesliga",
+    "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-season-in-numbers-record-champions-36970",
+    "https://www.nbcsports.com/soccer/news/bundesliga-table-standings-leading-scorers-schedule-for-germanys-2025-26-season",
+    "https://fcbayern.com/en/news/2026/04/the-numbers-behind-bayern-35th-title",
+    "https://en.wikipedia.org/wiki/2026_DFB-Pokal_final",
+    "https://www.bundesliga.com/en/bundesliga/news/meet-the-26-27-head-coaches-kompany-kovac-schuster-muslic-37966",
+    "https://fcbayern.com/en/news/2024/05/contract-until-2027-vincent-kompany-to-be-new-fc-bayern-head-coach",
+    "https://www.bavarianfootballworks.com/bayern-munich-transfer-news-rumors/201663/bayern-munichs-2026-summer-transfer-window-all-updates",
+    "https://www.bundesliga.com/en/bundesliga/news/official-bundesliga-transfer-centre-summer-2026-37051",
+    "https://www.espn.com/soccer/team/squad/_/id/132/bayern-munich",
+    "https://www.livescore.com/en/football/team/bayern-munich/2940/squad/",
+    "https://www.uefa.com/uefachampionsleague/news/029c-1e9a2f63fe2d-ebf9ad643892-1000--2025-26-champions-league-all-the-results/"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Coach, draw, 86 pts/122 GF/+82, Kane 36, Pokal win and UCL semi-final exit are source-verified. GA=40 is derived from GF and GD, not read directly. W/D/L set to null: one snippet said 'lost just once' but 86 points with 1 loss is arithmetically impossible over 34 games (27W-5D-2L fits), so the split is unverified. Saibari and Brown arrivals confirmed; fees unknown; Palhinha exit reported as 'nearing completion' on deadline day - listed as departure. Squad numbers for players listed in the search snippet are confirmed; Pavlovic, Goretzka, Karl, Saibari numbers and any further exits unverified. Squad = last known first-team roster adjusted ONLY for summer-2026 moves that were source-verified; further unreported exits/loans may be missing. Per-player 2025/26 stats left null unless a source gave the number. Ages computed from public birthdates as of 2026-09-02. Research constraint: web fetch was blocked on all data sites (transfermarkt, fbref, uefa, wikipedia, club sites) and only search snippets were available."
+  }
+}

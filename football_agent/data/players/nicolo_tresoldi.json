@@ -1,0 +1,66 @@
+{
+  "player_id": "nicolo_tresoldi",
+  "name": "Nicolò Tresoldi",
+  "age": 21,
+  "date_of_birth": null,
+  "nationality": ["ITA"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Club Brugge KV",
+  "current_club_league": "Belgian Pro League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 38,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Belgian Pro League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 19,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["penalty-box striker", "top scorer of a title-winning side"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["it"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Club_Brugge_KV_season",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Belgian_Pro_League"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Only the 19 league goals (Club Brugge top scorer, title-winning 2025/26 season) and a rejected EUR 35m Roma bid are sourced (search snippets of the Wikipedia season pages; direct fetch blocked). Current club is inferred from the rejected bid and NOT re-verified after the 1 Sep 2026 deadline. DOB, foot, height, contract expiry, Transfermarkt value, apps/minutes/assists all unverified -> null. estimated_fee_eur_m is the researcher's estimate anchored on the rejected EUR 35m bid; availability 'not for sale' reflects Brugge's rejection of that bid. Style tags are inferences from the scoring record, not from a scouting source."
+  }
+}

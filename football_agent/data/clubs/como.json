@@ -1,0 +1,737 @@
+{
+  "club_id": "como",
+  "name": "Como 1907",
+  "short_name": "Como",
+  "country": "ITA",
+  "league": "Serie A",
+  "city": "Como",
+  "ucl_2026_27": {
+    "pot": 4,
+    "qualified_via": "Serie A 2025/26 4th place (first-ever UCL qualification)",
+    "opponents_home": [
+      "Paris Saint-Germain",
+      "Manchester United",
+      "RB Leipzig",
+      "AEK Athens"
+    ],
+    "opponents_away": [
+      "FC Barcelona",
+      "Real Betis",
+      "Feyenoord",
+      "RC Lens"
+    ]
+  },
+  "head_coach": {
+    "name": "Cesc Fàbregas",
+    "since": "2024-07",
+    "nationality": "ESP",
+    "preferred_formation": "4-2-3-1",
+    "style_keywords": [
+      "positional play",
+      "high possession",
+      "inverted full-backs",
+      "young technical creators",
+      "brave build-up"
+    ]
+  },
+  "identity": {
+    "playing_style": "Fàbregas plays a Guardiola-school 4-2-3-1: patient possession, a double pivot (Da Cunha/Perrone) that builds through the thirds, creative No.10s (Nico Paz, Baturina) and full-backs who invert or overlap. The 2026 window doubled down on this by adding ball-playing defenders (Chalobah, Yan Couto, Cuenca, Kaiki) and technical midfielders (Ricci, Milla).",
+    "principles": [
+      "young high-ceiling talents bought outright (Nico Paz EUR 60m from Real Madrid)",
+      "coach-led project with long-term contract",
+      "heavy owner investment ahead of revenue",
+      "international, multilingual squad"
+    ],
+    "club_character": "Owned since 2019 by Indonesia's Hartono family (Djarum group) via SENT Entertainment; small city, small stadium (Sinigaglia) but among the wealthiest ownerships in Italy; low media pressure compared with Milan/Turin clubs.",
+    "ownership": "private / foreign family-industrial (Hartono brothers, Djarum) - widely reported, not re-verified this session",
+    "political_and_social_context": "Ownership by a tobacco-industry family (Djarum) has been publicly discussed in Italian media; Como's stadium redevelopment plans have been a public local-politics topic. No 2026 controversy surfaced in this session's sources.",
+    "languages": [
+      "it",
+      "es",
+      "en"
+    ],
+    "wage_structure": "unknown",
+    "transfer_policy": "Aggressive net spender: ~11 arrivals / 12 departures in summer 2026; buys young (Paz, Kambwala, Liberali, Cuenca) plus experienced Premier League defenders; sells surplus veterans (Morata, Sergi Roberto, Diego Carlos, Posch).",
+    "injury_management_reputation": null
+  },
+  "last_season_2025_26": {
+    "league_position": 4,
+    "points": null,
+    "played": 38,
+    "won": null,
+    "drawn": null,
+    "lost": null,
+    "goals_for": null,
+    "goals_against": null,
+    "xg_for": null,
+    "xg_against": null,
+    "possession_pct": null,
+    "ucl_result": "No European competition in 2025/26",
+    "domestic_cup": "Semi-final (Coppa Italia, eliminated by Inter)",
+    "top_scorer": {
+      "name": null,
+      "goals": null
+    },
+    "top_assister": {
+      "name": null,
+      "assists": null
+    }
+  },
+  "summer_2026_window": {
+    "arrivals": [
+      {
+        "name": "Nico Paz",
+        "from": "Real Madrid",
+        "fee_eur_m": 60,
+        "position": "AM"
+      },
+      {
+        "name": "Trevoh Chalobah",
+        "from": "Chelsea",
+        "fee_eur_m": null,
+        "position": "CB"
+      },
+      {
+        "name": "Yan Couto",
+        "from": "Borussia Dortmund",
+        "fee_eur_m": null,
+        "position": "RB"
+      },
+      {
+        "name": "Moise Kean",
+        "from": "Fiorentina",
+        "fee_eur_m": null,
+        "position": "ST"
+      },
+      {
+        "name": "Samuele Ricci",
+        "from": "AC Milan",
+        "fee_eur_m": null,
+        "position": "CM"
+      },
+      {
+        "name": "Robert Sánchez",
+        "from": "Chelsea",
+        "fee_eur_m": null,
+        "position": "GK"
+      },
+      {
+        "name": "Willy Kambwala",
+        "from": "Villarreal",
+        "fee_eur_m": null,
+        "position": "CB"
+      },
+      {
+        "name": "Luis Milla",
+        "from": "Getafe",
+        "fee_eur_m": null,
+        "position": "CM"
+      },
+      {
+        "name": "Kaiki Bruno",
+        "from": "Cruzeiro",
+        "fee_eur_m": null,
+        "position": "LB"
+      },
+      {
+        "name": "Andrés Cuenca",
+        "from": "FC Barcelona",
+        "fee_eur_m": null,
+        "position": "CB"
+      },
+      {
+        "name": "Mattia Liberali",
+        "from": "Catanzaro",
+        "fee_eur_m": null,
+        "position": "AM"
+      }
+    ],
+    "departures": [
+      {
+        "name": "Álvaro Morata",
+        "to": "Leganés",
+        "fee_eur_m": null,
+        "position": "ST"
+      },
+      {
+        "name": "Sergi Roberto",
+        "to": "LA Galaxy",
+        "fee_eur_m": null,
+        "position": "CM"
+      },
+      {
+        "name": "Mërgim Vojvoda",
+        "to": "Udinese",
+        "fee_eur_m": null,
+        "position": "RB"
+      },
+      {
+        "name": "Stefan Posch",
+        "to": "Mainz 05",
+        "fee_eur_m": null,
+        "position": "CB"
+      },
+      {
+        "name": "Diego Carlos",
+        "to": "Parma",
+        "fee_eur_m": null,
+        "position": "CB"
+      },
+      {
+        "name": "Alessandro Gabrielloni",
+        "to": "Palermo",
+        "fee_eur_m": null,
+        "position": "ST"
+      },
+      {
+        "name": "Ignace Van der Brempt",
+        "to": "Sassuolo",
+        "fee_eur_m": null,
+        "position": "RB"
+      },
+      {
+        "name": "Andrés Cuenca",
+        "to": "Sporting Gijón (loan)",
+        "fee_eur_m": 0,
+        "position": "CB"
+      },
+      {
+        "name": "Tommaso Cassandro",
+        "to": "Palermo",
+        "fee_eur_m": null,
+        "position": "RB"
+      },
+      {
+        "name": "Alieu Fadera",
+        "to": "Cagliari",
+        "fee_eur_m": null,
+        "position": "LW"
+      },
+      {
+        "name": "Alberto Moreno",
+        "to": "Mallorca",
+        "fee_eur_m": null,
+        "position": "LB"
+      },
+      {
+        "name": "Noel Törnqvist",
+        "to": "Monza",
+        "fee_eur_m": null,
+        "position": "GK"
+      }
+    ],
+    "net_spend_eur_m": null
+  },
+  "squad": [
+    {
+      "name": "Jean Butez",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Robert Sánchez",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Henrique Menke",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Yan Couto",
+      "position": "RB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Trevoh Chalobah",
+      "position": "CB",
+      "secondary_positions": [
+        "RB"
+      ],
+      "age": null,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Jacobo Ramón",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Willy Kambwala",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Alberto Dossena",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Alex Valle",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Kaiki Bruno",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Lucas Da Cunha",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Máximo Perrone",
+      "position": "DM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ARG",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Samuele Ricci",
+      "position": "CM",
+      "secondary_positions": [
+        "DM"
+      ],
+      "age": null,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Maxence Caqueret",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Luis Milla",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Nico Paz",
+      "position": "AM",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": null,
+      "nationality": "ARG",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Martin Baturina",
+      "position": "AM",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": null,
+      "nationality": "CRO",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Mattia Liberali",
+      "position": "AM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Assane Diao",
+      "position": "RW",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Nicolás Kühn",
+      "position": "RW",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": null,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Jesús Rodríguez",
+      "position": "LW",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Tasos Douvikas",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "GRE",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Moise Kean",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    }
+  ],
+  "strengths": [
+    "Clear, coach-owned tactical identity (positional 4-2-3-1) and the coach staying despite Chelsea/Barcelona interest.",
+    "Elite creative core for a Pot-4 club: Nico Paz (bought for EUR 60m), Baturina, Diao.",
+    "Defence rebuilt with Champions-League-experienced players (Chalobah, Yan Couto, Sánchez).",
+    "Owner financial power allows net spending far above Pot-4 peers; no need to sell.",
+    "Deep Coppa Italia run (semi-final) shows cup-tie competence."
+  ],
+  "weaknesses": [
+    "First-ever European campaign: zero UCL experience as a club, small stadium (Sinigaglia) and infrastructure.",
+    "Squad churn of ~23 moves in one window - integration risk for a possession system that needs automatisms.",
+    "Douvikas/Kean pairing unproven at UCL level; Morata's experience gone.",
+    "Full-back depth relies on new arrivals (Couto, Kaiki) after Vojvoda, Van der Brempt, Cassandro and Moreno all left.",
+    "Final 2025/26 points/GF/GA could not be sourced, so the underlying performance level is unquantified here."
+  ],
+  "positional_needs": [
+    {
+      "position": "ST",
+      "priority": "medium",
+      "profile": "pressing No.9 comfortable in possession, 22-27",
+      "reason": "Only Douvikas and Kean after Morata/Gabrielloni exits",
+      "budget_eur_m": 25,
+      "wage_ceiling_eur_m_net": 3
+    },
+    {
+      "position": "DM",
+      "priority": "medium",
+      "profile": "ball-winning pivot with elite passing, 21-26",
+      "reason": "Perrone/Ricci/Da Cunha all more distributor than destroyer; UCL demands more defensive cover",
+      "budget_eur_m": 20,
+      "wage_ceiling_eur_m_net": 2.5
+    },
+    {
+      "position": "LB",
+      "priority": "low",
+      "profile": "inverted-capable, left-footed",
+      "reason": "Kaiki new to Europe; Valle sole experienced option",
+      "budget_eur_m": 12,
+      "wage_ceiling_eur_m_net": 1.5
+    }
+  ],
+  "position_benchmarks": {
+    "AM": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "key_passes_p90": null,
+      "progressive_carries_p90": null
+    },
+    "CM": {
+      "pass_completion_pct": null,
+      "progressive_passes_p90": null,
+      "tackles_interceptions_p90": null
+    },
+    "CB": {
+      "aerials_won_pct": null,
+      "tackles_interceptions_p90": null,
+      "progressive_passes_p90": null
+    },
+    "ST": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "shots_p90": null,
+      "pressures_p90": null
+    }
+  },
+  "sources": [
+    "https://sport.sky.it/calcio/champions-league/como-champions-calendario-avversarie-girone",
+    "https://www.corrieredellosport.it/news/calcio/champions-league/2026/08/27-150833608/calendario_como_tutte_le_avversarie_del_girone_di_champions_league",
+    "https://www.goal.com/it/liste/sorteggio-champions-league-2026-2027-fase-campionato/blt1fbad65ff4af8574",
+    "https://www.dazn.com/it-IT/news/calcio/rosa-aggiornata-como-2026-2027-tutti-giocatori-ruoli-numeri-maglia/saeyhs353onm19q2sqkc40dka",
+    "https://www.calciocomo.it/colpi-e-cessioni-il-tabellone-finale-del-mercato-del-como/",
+    "https://www.calciomercato.com/liste/serie-a-affari-ufficiali-arrivi-e-partenze-delle-20-squadre-partecipanti-al-campionato-2026-2027/blt4cd072f5f83b8ad1",
+    "https://it.wikipedia.org/wiki/Serie_A_2025-2026",
+    "https://sport.sky.it/calcio/serie-a/classifica-serie-a-2025-2026",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Coppa_Italia",
+    "https://sport.sky.it/calcio/coppa-italia/partite/2025/semifinali/inter-como/risultato-gol",
+    "https://www.goal.com/en-us/lists/cesc-fabregas-stays-como-champions-league-historic-season/blt759d8aa2d8e1320b",
+    "https://tribuna.com/en/news/2026-05-26-i-am-very-happy-here-cesc-fabregas-confirms-he-stays-at-como/",
+    "https://comofootball.com/en/cesc-fabregas-to-officially-become-head-coach-of-como-1907s-men-team/"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Coach, UCL opponents, 4th-place finish, Coppa Italia semi-final and the summer in/out lists verified via snippets. Final 2025/26 points, W/D/L, GF/GA, top scorer NOT found (table pages blocked) - left null. Squad built from the calciocomo probable XI, the DAZN rosa snippet and the arrivals list; Kambwala, Rodríguez, Valle, Diao, Da Cunha, Perrone, Douvikas confirmed in probable XI/rosa snippets; Dossena/Menke from DAZN list. Fees other than Nico Paz (EUR 60m) unavailable. Ages, shirt numbers, contracts, per-player stats null. Cuenca appears both as arrival (from Barcelona) and departure (loan to Sporting Gijón) per calciocomo - recorded as such."
+  }
+}

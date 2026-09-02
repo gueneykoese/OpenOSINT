@@ -1,0 +1,281 @@
+{
+  "club_id": "villarreal",
+  "name": "Villarreal CF",
+  "short_name": "Villarreal",
+  "country": "ESP",
+  "league": "La Liga",
+  "city": "Villarreal (Castellón)",
+  "ucl_2026_27": {
+    "pot": 3,
+    "qualified_via": "La Liga 2025/26 third place",
+    "opponents_home": [
+      "Paris Saint-Germain",
+      "Manchester United",
+      "SSC Napoli",
+      "Sabah FK"
+    ],
+    "opponents_away": [
+      "Liverpool",
+      "Borussia Dortmund",
+      "Fenerbahçe",
+      "Slavia Praha"
+    ]
+  },
+  "head_coach": {
+    "name": "Iñigo Pérez",
+    "since": "2026-06",
+    "nationality": "ESP",
+    "preferred_formation": "4-2-3-1 / 4-4-2",
+    "style_keywords": [
+      "high intensity press",
+      "compact 4-4-2 mid-block (Rayo Vallecano)",
+      "direct wide play",
+      "three-year contract"
+    ]
+  },
+  "identity": {
+    "playing_style": "Marcelino's 2025/26 Villarreal were a disciplined 4-4-2 counter-attacking side that finished 3rd, overtaking Atlético with a 5-1 final-day win, with Georges Mikautadze scoring 13 league goals. Iñigo Pérez (appointed 1 June 2026) arrives from Rayo Vallecano, where he took a low-budget squad to the Conference League final with an intense, front-foot pressing 4-4-2/4-2-3-1; expect higher pressing volume than under Marcelino.",
+    "principles": [
+      "academy-first (Ciudad Deportiva, one of Spain's most productive)",
+      "buy-to-develop from Ligue 1/South America",
+      "stable, family-run governance",
+      "no star wages"
+    ],
+    "club_character": "Town of ~50k with a family-owned, patient, low-drama club culture; expectations calibrated to Europe every year rather than titles; minimal media pressure compared with Madrid/Barcelona.",
+    "ownership": "Private, family-owned: Fernando Roig (ceramics industrialist) since 1997",
+    "political_and_social_context": "Publicly documented: club's long-standing public stance in favour of Spanish clubs' economic-control model and against the Super League project; Fernando Roig's public criticism of La Liga scheduling/refereeing decisions. No further institution-level controversies verified for 2025/26.",
+    "languages": [
+      "es",
+      "en",
+      "fr"
+    ],
+    "wage_structure": "flat-to-moderate; strictly within La Liga salary-cap limits",
+    "transfer_policy": "very quiet summer 2026: only one signing (Andero Kaares, youth) per Transfermarkt-based reports; outgoings mostly loans (Pedraza to Lazio, Conde to Mallorca, Requena to Betis) plus Terrats sold to Getafe for EUR 2.5m; net +EUR 2.5m",
+    "injury_management_reputation": null
+  },
+  "last_season_2025_26": {
+    "league_position": 3,
+    "points": null,
+    "played": 38,
+    "won": null,
+    "drawn": null,
+    "lost": null,
+    "goals_for": null,
+    "goals_against": null,
+    "xg_for": null,
+    "xg_against": null,
+    "possession_pct": null,
+    "ucl_result": "League phase participant (final ranking/elimination not verified)",
+    "domestic_cup": "Copa del Rey: round of 32",
+    "top_scorer": {
+      "name": "Georges Mikautadze",
+      "goals": 13
+    },
+    "top_assister": {
+      "name": null,
+      "assists": null
+    }
+  },
+  "summer_2026_window": {
+    "arrivals": [
+      {
+        "name": "Andero Kaares",
+        "from": "unverified (youth/development signing)",
+        "fee_eur_m": null,
+        "position": null
+      },
+      {
+        "name": "Rafa Marín",
+        "from": "Napoli (loan return)",
+        "fee_eur_m": 0,
+        "position": "CB"
+      },
+      {
+        "name": "Alfon González",
+        "from": "Sevilla (loan return)",
+        "fee_eur_m": 0,
+        "position": "LW"
+      },
+      {
+        "name": "Carlos Romero",
+        "from": "Espanyol (loan return)",
+        "fee_eur_m": 0,
+        "position": "LB"
+      }
+    ],
+    "departures": [
+      {
+        "name": "Ramón Terrats",
+        "to": "Getafe",
+        "fee_eur_m": 2.5,
+        "position": "CM"
+      },
+      {
+        "name": "Alfonso Pedraza",
+        "to": "Lazio (loan)",
+        "fee_eur_m": 0,
+        "position": "LB"
+      },
+      {
+        "name": "Diego Conde",
+        "to": "Mallorca (loan)",
+        "fee_eur_m": 0,
+        "position": "GK"
+      },
+      {
+        "name": "Daniel Requena",
+        "to": "Real Betis (loan)",
+        "fee_eur_m": 0,
+        "position": "CM"
+      }
+    ],
+    "net_spend_eur_m": -2.5
+  },
+  "squad": [
+    {
+      "name": "Georges Mikautadze",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": 25,
+      "nationality": "GEO",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 13,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Rafa Marín",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 24,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Alfon González",
+      "position": "LW",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Carlos Romero",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    }
+  ],
+  "strengths": [
+    "Third in La Liga two seasons in a row, finishing above Atlético in 2025/26.",
+    "Squad continuity: almost no senior departures, so Pérez inherits an intact core.",
+    "Mikautadze (13 league / 15 total goals) is a reliable primary scorer.",
+    "Strong academy pipeline continuously supplies first-team-ready players."
+  ],
+  "weaknesses": [
+    "Only one (youth) signing all summer: a squad that finished 3rd has not been strengthened for a double campaign.",
+    "Coaching change from Marcelino's counter-attacking 4-4-2 to Pérez's pressing game requires adaptation mid-season.",
+    "Early Copa del Rey exit (round of 32) and unverified Champions League 2025/26 outcome suggest cup/European inconsistency.",
+    "Loss of Pedraza (loan) thins left-back cover behind returning Carlos Romero."
+  ],
+  "positional_needs": [
+    {
+      "position": "CM",
+      "priority": "medium",
+      "profile": "box-to-box 8 with pressing capacity, 22-26",
+      "reason": "Terrats sold and Requena loaned; Pérez's system demands midfield running",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    },
+    {
+      "position": "LB",
+      "priority": "medium",
+      "profile": "athletic full-back able to press high",
+      "reason": "Pedraza loaned to Lazio",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    },
+    {
+      "position": "ST",
+      "priority": "low",
+      "profile": "rotation 9",
+      "reason": "depth behind Mikautadze for UCL and league",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    }
+  ],
+  "position_benchmarks": {
+    "ST": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "shots_p90": null,
+      "pressures_p90": null
+    },
+    "CM": {
+      "pass_completion_pct": null,
+      "progressive_passes_p90": null,
+      "tackles_interceptions_p90": null
+    },
+    "CB": {
+      "aerials_won_pct": null,
+      "tackles_interceptions_p90": null,
+      "progressive_passes_p90": null
+    }
+  },
+  "sources": [
+    "https://onefootball.com/en/news/villarreal-discover-eight-opponents-for-202627-champions-league-43350774",
+    "https://onefootball.com/en/news/champions-league-202627-league-phase-draw-opponents-for-barcelona-real-madrid-atletico-villarreal-and-betis-43354914",
+    "https://www.france24.com/en/live-news/20260601-villarreal-appoint-inigo-perez-after-rayo-success",
+    "https://www.foxsports.com/articles/soccer/villarreal-hires-rayos-inigo-perez-as-coach-ahead-of-another-champions-league-run",
+    "https://www.beinsports.com/en-us/soccer/la-liga/articles/marcelino-to-leave-villarreal-at-the-end-of-the-season-2026-05-04",
+    "https://www.eurosport.es/futbol/la-liga/2025-2026/clasificacion-actualizada-hoy-lider-champions-europa-league-conference-descenso-puntos-diferencias-madrid-barcelona_sto23228231/story.shtml",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Villarreal_CF_season",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_La_Liga",
+    "https://www.futbolfantasy.com/mercado-de-fichajes-del-villarreal-altas-bajas/verano-2026",
+    "https://www.fichajes.com/equipo/villarreal-cf/altas-bajas/"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "SQUAD IS PARTIAL: only players whose presence in the 2026/27 squad is supported by a source found during research are listed; a full 20-26 man squad, shirt numbers, contract dates and per-player 2025/26 minutes could not be retrieved because the research session lost web access (search budget exhausted; fetch to transfermarkt/fbref/uefa/club sites blocked). Ages are computed from publicly known birth dates. Verified: 3rd place (5-1 v Atlético on matchday 38), coach Iñigo Pérez (1 Jun 2026, three-year deal), UCL opponents with venues, Copa del Rey R32, Mikautadze 13/15 goals, summer window per FútbolFantasy/Transfermarkt summary. NOT verified: final points, W/D/L, goals (a 58-pt figure found was after 29 games and was discarded), UCL 2025/26 league-phase ranking, Kaares' origin club and position, top assister. Pérez's formation is his Rayo preference."
+  }
+}

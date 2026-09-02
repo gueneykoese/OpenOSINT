@@ -1,0 +1,150 @@
+{
+  "club_id": "bodo_glimt",
+  "name": "FK Bodø/Glimt",
+  "short_name": "Bodø/Glimt",
+  "country": "NOR",
+  "league": "Eliteserien",
+  "city": "Bodø",
+  "ucl_2026_27": {
+    "pot": 3,
+    "qualified_via": "Eliteserien 2025 runner-up; entered via qualifying rounds (path/opponents not verified)",
+    "opponents_home": [
+      "Atlético de Madrid",
+      "Borussia Dortmund",
+      "LOSC Lille",
+      "LASK"
+    ],
+    "opponents_away": [
+      "Bayern München",
+      "Club Brugge",
+      "SSC Napoli",
+      "RC Lens"
+    ]
+  },
+  "head_coach": {
+    "name": "Kjetil Knutsen",
+    "since": "2018-01",
+    "nationality": "NOR",
+    "preferred_formation": "4-3-3",
+    "style_keywords": [
+      "possession with purpose",
+      "high press",
+      "fixed 4-3-3",
+      "quick wide combinations",
+      "long-term continuity (contract to 2029)"
+    ]
+  },
+  "identity": {
+    "playing_style": "Knutsen's Bodø/Glimt have played the same relational 4-3-3 since 2018: high defensive line, counter-pressing, short passing through the thirds and overloads around the wingers and attacking full-backs. The artificial pitch and Arctic conditions at Aspmyra are a deliberate home advantage. In 2025/26 they beat Atlético away, knocked out Inter 5-2 on aggregate in the knockout play-off and led Sporting 3-0 before losing 3-5 on aggregate in the round of 16.",
+    "principles": [
+      "one system, many years",
+      "develop Norwegian/Scandinavian talent and sell to bigger leagues",
+      "mental-performance coaching culture",
+      "club-wide continuity of staff"
+    ],
+    "club_character": "Small-town club (Bodø ~50k inhabitants) with community ownership feel; extraordinary rise from second tier (2017) to Champions League round of 16; low external pressure, high internal standards; national media darling.",
+    "ownership": "Member-owned Norwegian sports club (idrettslag) with a commercial subsidiary; no external majority owner",
+    "political_and_social_context": "Publicly documented: the club plays on artificial turf at Aspmyra, a recurring subject of UEFA/opponent complaints; strong public sustainability/community positioning; plans for a new stadium have been publicly discussed. No institution-level controversies verified for 2025/26.",
+    "languages": [
+      "no",
+      "en"
+    ],
+    "wage_structure": "flat relative to European peers; Norwegian tax/wage levels; European prize money has raised budget substantially",
+    "transfer_policy": "sell one or two key players per window to major leagues; replace from Norwegian/Scandinavian market; long contracts for core players",
+    "injury_management_reputation": null
+  },
+  "last_season_2025_26": {
+    "league_position": 2,
+    "points": 70,
+    "played": 30,
+    "won": null,
+    "drawn": null,
+    "lost": null,
+    "goals_for": null,
+    "goals_against": null,
+    "xg_for": null,
+    "xg_against": null,
+    "possession_pct": null,
+    "ucl_result": "Round of 16 (beat Inter 5-2 agg. in knockout play-off; lost 3-5 agg. to Sporting CP)",
+    "domestic_cup": null,
+    "top_scorer": {
+      "name": null,
+      "goals": null
+    },
+    "top_assister": {
+      "name": null,
+      "assists": null
+    }
+  },
+  "summer_2026_window": {
+    "arrivals": [],
+    "departures": [],
+    "net_spend_eur_m": null
+  },
+  "squad": [],
+  "strengths": [
+    "Continuity: Knutsen (since 2018, contracted to 2029) and an unchanged 4-3-3 give a level of tactical automatism few Pot 3 sides have.",
+    "Proven Champions League pedigree: 2025/26 round of 16, including wins over Atlético (away) and Inter (5-2 agg.).",
+    "Aspmyra artificial pitch plus Arctic winter fixtures are a documented home advantage (home opponents this season include Dortmund and Atlético).",
+    "70 Eliteserien points in 2025, one behind champions Viking, shows sustained domestic level."
+  ],
+  "weaknesses": [
+    "Squad depth for a season running through the Norwegian off-season (Jan 2027 fixtures) is historically thin.",
+    "Lost the 2025 Eliteserien title on the final day by one point; 5-0 collapse in Lisbon shows vulnerability under sustained pressure.",
+    "Small budget: regular sale of key players each window means constant rebuilding (2026 departures could not be verified).",
+    "Away form against elite pressing sides is weaker than the home record."
+  ],
+  "positional_needs": [
+    {
+      "position": "CB",
+      "priority": "medium",
+      "profile": "quick, comfortable in very high line, 21-26",
+      "reason": "high line exposed in the 5-0 defeat at Sporting; ageing core (unverified departures)",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    },
+    {
+      "position": "ST",
+      "priority": "medium",
+      "profile": "pressing 9 who links play, Scandinavian market",
+      "reason": "depth behind first-choice striker for a double-competition winter",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    }
+  ],
+  "position_benchmarks": {
+    "ST": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "shots_p90": null,
+      "pressures_p90": null
+    },
+    "CM": {
+      "pass_completion_pct": null,
+      "progressive_passes_p90": null,
+      "tackles_interceptions_p90": null
+    },
+    "CB": {
+      "aerials_won_pct": null,
+      "tackles_interceptions_p90": null,
+      "progressive_passes_p90": null
+    }
+  },
+  "sources": [
+    "https://www.glimt.no/nyheter/disse-lagene-moter-bodo-glimt-i-champions-league",
+    "https://www.nrk.no/nordland/disse-lagene-moter-bodo_glimt-i-gruppespillet-i-mesterligaen-2026_2027-1.18004159",
+    "https://www.nettavisen.no/sport/disse-lagene-moter-bodo-glimt-og-viking-i-champions-league/s/5-95-3213279",
+    "https://www.uefa.com/uefachampionsleague/clubs/59333--bodo-glimt/",
+    "https://en.wikipedia.org/wiki/2025_Eliteserien",
+    "https://en.wikipedia.org/wiki/2026_FK_Bod%C3%B8/Glimt_season",
+    "https://en.wikipedia.org/wiki/Kjetil_Knutsen",
+    "https://www.getfootballnewsfrance.com/2026/strasbourg-in-talks-with-fk-bodo-glimt-manager-kjetil-knutsen/",
+    "https://www.uefa.com/uefachampionsleague/news/02a2-2001549ca2d7-108e41a14d0d-1000--champions-league-highlights-and-round-up-atleti-bodo-glimt/",
+    "https://www.espn.com/soccer/report/_/gameId/401862584"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Verified: coach Knutsen (contract to 2029; Strasbourg interest reported), UCL opponents with venues (club/NRK reports), 2025 Eliteserien 2nd place with 70 pts (Viking 71), 2025/26 UCL round-of-16 exit. NOT verified: 2025 W/D/L and goals, Norwegian Cup result, top scorer, the 2026/27 qualifying path, and the entire summer-2026 window and current squad (squad left empty rather than guessed, because web access was lost before squad sources could be reached). Note the Eliteserien runs Mar-Nov, so 'last season' = 2025 calendar season."
+  }
+}

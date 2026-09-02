@@ -1,0 +1,87 @@
+{
+  "player_id": "demo_lb_emre_kaya",
+  "name": "Emre Kaya (demo)",
+  "age": 21,
+  "date_of_birth": "2005-02-09",
+  "nationality": [
+    "TUR"
+  ],
+  "position": "LB",
+  "secondary_positions": [
+    "LW"
+  ],
+  "preferred_foot": "left",
+  "height_cm": 180,
+  "current_club": "Demo Samsunspor",
+  "current_club_league": "Süper Lig",
+  "contract_until": 2028,
+  "market_value_eur_m": 6,
+  "estimated_fee_eur_m": 9,
+  "wage_eur_m_net": 0.4,
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Süper Lig",
+    "apps": 30,
+    "starts": 27,
+    "minutes": 2430,
+    "goals": 2,
+    "assists": 6,
+    "xg": null,
+    "xa": null,
+    "shots_p90": 0.7,
+    "key_passes_p90": 1.4,
+    "dribbles_p90": 1.9,
+    "tackles_interceptions_p90": 3.1,
+    "pass_completion_pct": 80,
+    "aerials_won_pct": 44,
+    "progressive_carries_p90": 3.5
+  },
+  "style_profile": {
+    "tags": [
+      "athletic overlapping left-back",
+      "left-footed",
+      "pressing",
+      "high overlapping full-back"
+    ],
+    "best_system": [
+      "4-3-3",
+      "4-2-3-1"
+    ],
+    "weak_in": [
+      "defending deep crosses"
+    ]
+  },
+  "mental_profile": {
+    "leadership": 2,
+    "coachability": 4,
+    "resilience": 3,
+    "discipline": 4,
+    "notes": "Synthetic."
+  },
+  "injury_history": [
+    {
+      "type": "knee (meniscus)",
+      "season": "2024/25",
+      "days_out": 95
+    }
+  ],
+  "off_pitch": {
+    "languages": [
+      "tr"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "synthetic"
+  },
+  "release_clause_eur_m": null,
+  "agent_status": "represented_by_us",
+  "sources": [
+    "synthetic://football_agent/demo"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "synthetic",
+    "notes": "FICTIONAL demo profile used only to exercise the matching engine. Not a real person; all numbers are invented and plausible for the stated league. Never present as scouting data."
+  }
+}

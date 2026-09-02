@@ -1,0 +1,65 @@
+{
+  "player_id": "rodrigo_mora",
+  "name": "Rodrigo Mora",
+  "age": 19,
+  "date_of_birth": null,
+  "nationality": ["POR"],
+  "position": "AM",
+  "secondary_positions": ["LW", "RW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "FC Porto",
+  "current_club_league": "Liga Portugal",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 70,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": 70,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Liga Portugal",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["creative attacking midfielder", "academy graduate starter at 17"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Publicly reported (beIN SPORTS, 10 Aug 2026) to have rejected a move to Al-Ittihad after the Saudi club agreed to pay his EUR 70m release clause in August 2026 - chose to stay at Porto."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.beinsports.com/en-us/soccer/primeira-liga/articles/who-are-the-rising-stars-of-liga-portugal-2026-08-10"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Current club (Porto) and EUR 70m release clause are sourced to a beIN SPORTS article dated 10 Aug 2026 reporting that Al-Ittihad triggered the clause and Mora refused. The '10 goals, 4 assists' figure in that article refers to his DEBUT Liga Portugal season (2024/25, aged 17), so it is deliberately NOT entered as 2025/26 data; 2025/26 stats are null. Age approximate (born 2007). estimated_fee_eur_m set equal to the release clause because any buyer effectively has to pay it. Secondary positions are the researcher's inference."
+  }
+}

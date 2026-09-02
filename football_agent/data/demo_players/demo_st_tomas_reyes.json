@@ -1,0 +1,83 @@
+{
+  "player_id": "demo_st_tomas_reyes",
+  "name": "Tomás Reyes (demo)",
+  "age": 24,
+  "date_of_birth": "2002-01-20",
+  "nationality": [
+    "ARG",
+    "ITA"
+  ],
+  "position": "ST",
+  "secondary_positions": [
+    "RW"
+  ],
+  "preferred_foot": "right",
+  "height_cm": 184,
+  "current_club": "Demo Racing Club",
+  "current_club_league": "Primera División Argentina",
+  "contract_until": 2028,
+  "market_value_eur_m": 14,
+  "estimated_fee_eur_m": 18,
+  "wage_eur_m_net": 0.8,
+  "availability": "for sale",
+  "stats_2025_26": {
+    "competition": "Primera División Argentina",
+    "apps": 34,
+    "starts": 31,
+    "minutes": 2740,
+    "goals": 21,
+    "assists": 4,
+    "xg": 17.8,
+    "xa": 3.0,
+    "shots_p90": 3.4,
+    "key_passes_p90": 1.0,
+    "dribbles_p90": 1.6,
+    "tackles_interceptions_p90": 0.9,
+    "pass_completion_pct": 74,
+    "aerials_won_pct": 48,
+    "progressive_carries_p90": 2.6
+  },
+  "style_profile": {
+    "tags": [
+      "pressing forward",
+      "runs channels",
+      "penalty-box finisher",
+      "quick vertical transitions"
+    ],
+    "best_system": [
+      "4-2-3-1",
+      "4-3-3"
+    ],
+    "weak_in": [
+      "build-up link play"
+    ]
+  },
+  "mental_profile": {
+    "leadership": 3,
+    "coachability": 4,
+    "resilience": 5,
+    "discipline": 3,
+    "notes": "Synthetic: one red card (2025/26) for dissent."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "es",
+      "it"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "synthetic"
+  },
+  "release_clause_eur_m": null,
+  "agent_status": "represented_by_us",
+  "sources": [
+    "synthetic://football_agent/demo"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "synthetic",
+    "notes": "FICTIONAL demo profile used only to exercise the matching engine. Not a real person; all numbers are invented and plausible for the stated league. Never present as scouting data."
+  }
+}

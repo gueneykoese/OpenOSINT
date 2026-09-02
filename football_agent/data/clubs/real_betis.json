@@ -1,0 +1,91 @@
+{
+  "club_id": "real_betis",
+  "name": "Real Betis Balompié",
+  "short_name": "Real Betis",
+  "country": "ESP",
+  "league": "La Liga",
+  "city": "Seville",
+  "ucl_2026_27": {
+    "pot": 2,
+    "qualified_via": null,
+    "opponents_home": [],
+    "opponents_away": []
+  },
+  "head_coach": {
+    "name": null,
+    "since": null,
+    "nationality": null,
+    "preferred_formation": null,
+    "style_keywords": []
+  },
+  "identity": {
+    "playing_style": null,
+    "principles": [],
+    "club_character": null,
+    "ownership": null,
+    "political_and_social_context": null,
+    "languages": [],
+    "wage_structure": "unknown",
+    "transfer_policy": null,
+    "injury_management_reputation": null
+  },
+  "last_season_2025_26": {
+    "league_position": null,
+    "points": null,
+    "played": null,
+    "won": null,
+    "drawn": null,
+    "lost": null,
+    "goals_for": null,
+    "goals_against": null,
+    "xg_for": null,
+    "xg_against": null,
+    "possession_pct": null,
+    "ucl_result": null,
+    "domestic_cup": null,
+    "top_scorer": {
+      "name": null,
+      "goals": null
+    },
+    "top_assister": {
+      "name": null,
+      "assists": null
+    }
+  },
+  "summer_2026_window": {
+    "arrivals": [],
+    "departures": [],
+    "net_spend_eur_m": null
+  },
+  "squad": [],
+  "strengths": [],
+  "weaknesses": [],
+  "positional_needs": [],
+  "position_benchmarks": {
+    "ST": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "shots_p90": null,
+      "pressures_p90": null
+    },
+    "CM": {
+      "pass_completion_pct": null,
+      "progressive_passes_p90": null,
+      "tackles_interceptions_p90": null
+    },
+    "CB": {
+      "pass_completion_pct": null,
+      "aerials_won_pct": null,
+      "tackles_interceptions_p90": null
+    }
+  },
+  "sources": [
+    "https://www.uefa.com/uefachampionsleague/news/02a8-215821715a96-9a3b43fad585-1000--uefa-champions-league-league-phase-draw/",
+    "https://www.espn.com/soccer/story/_/id/49736233/champions-league-phase-draw-seeding-pots-2026-2027"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "PLACEHOLDER - NOT RESEARCHED. The session-wide WebSearch budget (200 calls) was exhausted before this club could be researched, and WebFetch/curl are blocked by the network egress proxy for all football data domains tested (transfermarkt, fbref, fotmob, sofascore, flashscore, espn, bbc, skysports, wikipedia, uefa, club site). Only stable identity fields (name, country, league, city, Pot 2 as stated in the brief) are filled; all 2026/27 squad, coach, summer-window, last-season and UCL-draw fields are intentionally null/empty rather than populated from unverified memory, in line with the no-invented-data rule. Re-run research for this club once search budget is available."
+  }
+}

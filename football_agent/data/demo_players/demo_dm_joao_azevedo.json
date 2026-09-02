@@ -1,0 +1,83 @@
+{
+  "player_id": "demo_dm_joao_azevedo",
+  "name": "João Azevedo (demo)",
+  "age": 22,
+  "date_of_birth": "2004-05-15",
+  "nationality": [
+    "POR"
+  ],
+  "position": "DM",
+  "secondary_positions": [
+    "CM"
+  ],
+  "preferred_foot": "right",
+  "height_cm": 181,
+  "current_club": "Demo Vitória SC",
+  "current_club_league": "Liga Portugal",
+  "contract_until": 2029,
+  "market_value_eur_m": 18,
+  "estimated_fee_eur_m": 25,
+  "wage_eur_m_net": 0.6,
+  "availability": "for sale",
+  "stats_2025_26": {
+    "competition": "Liga Portugal",
+    "apps": 33,
+    "starts": 32,
+    "minutes": 2850,
+    "goals": 2,
+    "assists": 3,
+    "xg": null,
+    "xa": null,
+    "shots_p90": 0.8,
+    "key_passes_p90": 0.9,
+    "dribbles_p90": 1.1,
+    "tackles_interceptions_p90": 4.6,
+    "pass_completion_pct": 89,
+    "aerials_won_pct": 55,
+    "progressive_carries_p90": 1.4
+  },
+  "style_profile": {
+    "tags": [
+      "ball-winning no. 6",
+      "press-resistant",
+      "range of passing",
+      "double pivot",
+      "single pivot"
+    ],
+    "best_system": [
+      "4-3-3",
+      "4-2-3-1"
+    ],
+    "weak_in": [
+      "box-crashing"
+    ]
+  },
+  "mental_profile": {
+    "leadership": 2,
+    "coachability": 5,
+    "resilience": 3,
+    "discipline": 4,
+    "notes": "Synthetic: quiet, academy graduate."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "pt",
+      "es"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "synthetic"
+  },
+  "release_clause_eur_m": null,
+  "agent_status": "represented_by_us",
+  "sources": [
+    "synthetic://football_agent/demo"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "synthetic",
+    "notes": "FICTIONAL demo profile used only to exercise the matching engine. Not a real person; all numbers are invented and plausible for the stated league. Never present as scouting data."
+  }
+}

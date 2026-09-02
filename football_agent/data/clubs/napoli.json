@@ -1,0 +1,290 @@
+{
+  "club_id": "napoli",
+  "name": "SSC Napoli",
+  "short_name": "Napoli",
+  "country": "ITA",
+  "league": "Serie A",
+  "city": "Naples",
+  "ucl_2026_27": {
+    "pot": 3,
+    "qualified_via": "Serie A 2025/26 runner-up",
+    "opponents_home": [
+      "Arsenal",
+      "Club Brugge",
+      "FK Bodø/Glimt",
+      "Viking FK"
+    ],
+    "opponents_away": [
+      "Manchester City",
+      "FC Porto",
+      "Villarreal CF",
+      "Sabah FK"
+    ]
+  },
+  "head_coach": {
+    "name": "Massimiliano Allegri",
+    "since": "2026-07",
+    "nationality": "ITA",
+    "preferred_formation": "4-3-3 / 3-5-2",
+    "style_keywords": [
+      "result-oriented",
+      "defensive solidity",
+      "low-medium block",
+      "game management",
+      "flexible shape"
+    ]
+  },
+  "identity": {
+    "playing_style": "Conte's 2025/26 Napoli (2nd, 76 pts, 7 behind Inter) were an intense, physically demanding side alternating 4-3-3 and 3-5-2 with Rasmus Højlund (12 league goals) as focal point. Allegri, confirmed 3 July 2026 on a contract to 2029, historically prioritises defensive organisation, compactness and pragmatic control over pressing volume; expect fewer high-tempo phases and more emphasis on set pieces and transitions.",
+    "principles": [
+      "balanced-budget ownership (De Laurentiis)",
+      "buy players in the EUR 20-40m band, sell at peak",
+      "no over-30 long contracts as policy",
+      "coach-driven identity changes"
+    ],
+    "club_character": "City-club with immense passion and pressure (Stadio Maradona); owner-president Aurelio De Laurentiis is outspoken and highly involved; media environment intense; two Scudetti in 2023 and 2025 raised expectations.",
+    "ownership": "Private, family-controlled: Filmauro / Aurelio De Laurentiis (since 2004)",
+    "political_and_social_context": "Publicly documented: De Laurentiis' recurring public disputes with the Italian FA, Serie A league body and UEFA over calendars and finances; club's stated opposition to certain league-governance reforms; long-running public negotiation with the Naples municipality over the Stadio Maradona. No further institution-level controversies verified for 2025/26.",
+    "languages": [
+      "it",
+      "en",
+      "es"
+    ],
+    "wage_structure": "hierarchical with a firm ceiling; the club historically refuses to break its wage scale for individuals",
+    "transfer_policy": "data-and-scouting-led buys from mid-tier leagues, sells stars at peak value; heavy squad turnover in summer 2026 (see window)",
+    "injury_management_reputation": null
+  },
+  "last_season_2025_26": {
+    "league_position": 2,
+    "points": 76,
+    "played": null,
+    "won": null,
+    "drawn": null,
+    "lost": null,
+    "goals_for": null,
+    "goals_against": null,
+    "xg_for": null,
+    "xg_against": null,
+    "possession_pct": null,
+    "ucl_result": "Participated (elimination round not verified)",
+    "domestic_cup": "Coppa Italia: quarter-final",
+    "top_scorer": {
+      "name": "Rasmus Højlund",
+      "goals": 12
+    },
+    "top_assister": {
+      "name": null,
+      "assists": null
+    }
+  },
+  "summer_2026_window": {
+    "arrivals": [
+      {
+        "name": "Benoît Badiashile",
+        "from": "Chelsea",
+        "fee_eur_m": null,
+        "position": "CB"
+      },
+      {
+        "name": "Dinis Rodrigues",
+        "from": "FC Sion",
+        "fee_eur_m": null,
+        "position": "ST"
+      }
+    ],
+    "departures": [
+      {
+        "name": "Romelu Lukaku",
+        "to": "Fenerbahçe",
+        "fee_eur_m": null,
+        "position": "ST"
+      },
+      {
+        "name": "Noa Lang",
+        "to": "Galatasaray",
+        "fee_eur_m": null,
+        "position": "LW"
+      },
+      {
+        "name": "Lorenzo Lucca",
+        "to": "Nottingham Forest",
+        "fee_eur_m": null,
+        "position": "ST"
+      },
+      {
+        "name": "Miguel Gutiérrez",
+        "to": "Bayer Leverkusen",
+        "fee_eur_m": null,
+        "position": "LB"
+      },
+      {
+        "name": "Rafa Marín",
+        "to": "Villarreal (end of loan)",
+        "fee_eur_m": 0,
+        "position": "CB"
+      },
+      {
+        "name": "Jens Cajuste",
+        "to": "Ipswich Town",
+        "fee_eur_m": null,
+        "position": "CM"
+      },
+      {
+        "name": "Jesper Lindstrøm",
+        "to": "Red Bull Salzburg",
+        "fee_eur_m": null,
+        "position": "AM"
+      },
+      {
+        "name": "Cyril Ngonge",
+        "to": "Monza",
+        "fee_eur_m": null,
+        "position": "RW"
+      },
+      {
+        "name": "Michael Folorunsho",
+        "to": "Monza",
+        "fee_eur_m": null,
+        "position": "CM"
+      },
+      {
+        "name": "Walid Cheddira",
+        "to": "Avellino",
+        "fee_eur_m": null,
+        "position": "ST"
+      },
+      {
+        "name": "Pasquale Mazzocchi",
+        "to": "Venezia",
+        "fee_eur_m": null,
+        "position": "RB"
+      },
+      {
+        "name": "Luca Marianucci",
+        "to": "Torino",
+        "fee_eur_m": null,
+        "position": "CB"
+      },
+      {
+        "name": "Juan Jesus",
+        "to": "released",
+        "fee_eur_m": 0,
+        "position": "CB"
+      }
+    ],
+    "net_spend_eur_m": null
+  },
+  "squad": [
+    {
+      "name": "Rasmus Højlund",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": 23,
+      "nationality": "DEN",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 12,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Benoît Badiashile",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 25,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    }
+  ],
+  "strengths": [
+    "Second-best team in Italy two seasons running (Scudetto 2025, 2nd with 76 pts in 2026).",
+    "Allegri's record of defensive organisation suits a league-phase format where avoiding defeats matters.",
+    "Højlund (12 league / 16 total goals in 2025/26) is a young, improving focal point.",
+    "Financially disciplined ownership; no FFP-driven fire sales."
+  ],
+  "weaknesses": [
+    "Very large squad turnover (13+ verified departures incl. Lukaku, Lang, Lucca) plus a coaching change means a new identity is being built during the league phase.",
+    "Allegri's teams typically generate lower chance volume; goal supply beyond Højlund is unverified after Lukaku/Lucca exits.",
+    "Failed to defend the 2025 title (7 pts behind Inter) and exited the Coppa Italia at the quarter-final.",
+    "Champions League 2025/26 outcome could not be verified as a positive."
+  ],
+  "positional_needs": [
+    {
+      "position": "ST",
+      "priority": "high",
+      "profile": "physical target 9 as alternative to Højlund, 23-28",
+      "reason": "Lukaku (to Fenerbahçe) and Lucca (to Nottingham Forest) both left; only Dinis Rodrigues verified as an incoming forward",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    },
+    {
+      "position": "LW",
+      "priority": "high",
+      "profile": "direct dribbler, left-footed or inverted",
+      "reason": "Noa Lang sold to Galatasaray",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    },
+    {
+      "position": "LB",
+      "priority": "medium",
+      "profile": "attacking full-back comfortable in back four or as wing-back",
+      "reason": "Miguel Gutiérrez left for Bayer Leverkusen",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    }
+  ],
+  "position_benchmarks": {
+    "ST": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "shots_p90": null,
+      "pressures_p90": null
+    },
+    "CM": {
+      "pass_completion_pct": null,
+      "progressive_passes_p90": null,
+      "tackles_interceptions_p90": null
+    },
+    "CB": {
+      "aerials_won_pct": null,
+      "tackles_interceptions_p90": null,
+      "progressive_passes_p90": null
+    }
+  },
+  "sources": [
+    "https://sscnapoli.it/en/champions-league-le-avversarie-del-napoli-nella-league-phase-2/",
+    "https://football-italia.net/champions-league-draw-2026-27-napoli-arsenal/",
+    "https://sscnapoli.it/en/massimiliano-allegri-e-il-nuovo-allenatore-del-napoli/",
+    "https://www.beinsports.com/en-us/soccer/serie-a/articles/napoli-confirm-allegri-appointment-on-three-year-contract-2026-07-03",
+    "https://football-italia.net/official-conte-is-no-longer-napoli-head-coach/",
+    "https://football-italia.net/serie-a-2025-26-final-standings-and-verdicts/",
+    "https://www.calcionapoli1926.it/ultimissime-calcio-napoli/serie-a-la-classifica-finale-il-napoli-chiude-al-secondo-posto/",
+    "https://m.calcionapoli24.it/serie_a/classifica-serie-a-2025-2026-napoli-secondo-a-7-dall-inter-n384313.html",
+    "https://www.napolitoday.it/sport/ssc-napoli/acquisti-cessioni-napoli-calciomercato-2026-2027.html",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_SSC_Napoli_season",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Coppa_Italia",
+    "https://www.futbolfantasy.com/mercado-de-fichajes-del-villarreal-altas-bajas/verano-2026"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "SQUAD IS PARTIAL: only players whose presence in the 2026/27 squad is supported by a source found during research are listed; a full 20-26 man squad, shirt numbers, contract dates and per-player 2025/26 minutes could not be retrieved because the research session lost web access (search budget exhausted; fetch to transfermarkt/fbref/uefa/club sites blocked). Ages are computed from publicly known birth dates. Verified: coach Allegri (3 Jul 2026, to 2029), UCL opponents with venues (club site), 2nd place with 76 pts (Inter 83), Coppa Italia QF, Højlund 12/16 goals. Transfer list comes from a NapoliToday summary that gives counterpart club and role but not direction; direction was inferred only where unambiguous (players previously owned by Napoli = departures; Badiashile from Chelsea and Dinis Rodrigues from Sion = arrivals). Fees, W/D/L, goals for/against, UCL 2025/26 exit round and top assister not retrieved. Allegri formation is his historical preference, not observed 2026/27 usage."
+  }
+}

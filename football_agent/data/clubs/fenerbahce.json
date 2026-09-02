@@ -1,0 +1,728 @@
+{
+  "club_id": "fenerbahce",
+  "name": "Fenerbahçe SK",
+  "short_name": "Fenerbahçe",
+  "country": "TUR",
+  "league": "Süper Lig",
+  "city": "Istanbul",
+  "ucl_2026_27": {
+    "pot": 3,
+    "qualified_via": "Süper Lig 2025/26 runner-up -> Champions League play-off round (beat Lyon 1-1 home, 2-1 away, 18/26 Aug 2026); first league-phase/group-stage appearance since 2008/09",
+    "opponents_home": [
+      "Liverpool",
+      "Roma",
+      "Villarreal",
+      "LASK"
+    ],
+    "opponents_away": [
+      "Atlético Madrid",
+      "Aston Villa",
+      "Shakhtar Donetsk",
+      "Slavia Praha"
+    ]
+  },
+  "head_coach": {
+    "name": "İsmail Kartal",
+    "since": "2026-06",
+    "nationality": "TUR",
+    "preferred_formation": "4-3-3",
+    "style_keywords": [
+      "pressing",
+      "4-3-3 primary",
+      "4-2-3-1 secondary",
+      "experienced domestic coach",
+      "fourth stint at club"
+    ]
+  },
+  "identity": {
+    "playing_style": "Under İsmail Kartal (appointed June 2026 on a one-year deal, his fourth spell) Turkish media report a 4-3-3 as the main plan with 4-2-3-1 as the alternative used in some pre-season games, and Kartal publicly demanded a 'pressing' game before the season opener at Gençlerbirliği. Squad construction points to a senior, experienced core (Ederson, Škriniar, Aké, Guendouzi, Asensio, Lukaku, Greenwood) built to win domestic duels and compete in Europe rather than a young transition team.",
+    "principles": [
+      "title-now imperative (no league title since 2013/14)",
+      "experienced-star recruitment",
+      "domestic-legend coaching appointments",
+      "heavy reliance on loan returns and squad churn",
+      "10+4 foreign-player rule shapes squad building"
+    ],
+    "club_character": "Member-owned association with one of Turkey's largest fanbases; extremely high pressure and volatile governance — three presidents in twelve months (Ali Koç -> Sadettin Saran, elected 21 Sep 2025 -> Aziz Yıldırım, elected 7 Jun 2026 with 17,245 votes vs 9,927 for Hakan Safi, on record turnout of 27,000+). Coaches and sporting directors are changed quickly: Domenico Tedesco and sporting director Devin Özek were dismissed on 27 Apr 2026, a day after a 0-3 derby defeat at Galatasaray ended the title race. Intense Istanbul media environment.",
+    "ownership": "member-owned sports club (association); president elected by congress members",
+    "political_and_social_context": "Publicly documented institution-level facts only: (1) leadership instability with an extraordinary elective congress in June 2026, only nine months after the September 2025 election; the new president serves one year because bylaws require a regular election in May/June 2027. (2) Club debt was reported cut from ~EUR 600m (2018) to ~EUR 307m (mid-2024) under the previous administration; the 2026 presidential candidates campaigned on large transfer-spending promises. (3) Management publicly aimed to offload high earners (e.g. Talisca, EUR 7.5m net) to fund signings in summer 2026. (4) Long-running institutional rivalry/antagonism with Galatasaray and with the TFF over refereeing is a recurring public theme.",
+    "languages": [
+      "tr",
+      "en",
+      "pt",
+      "es"
+    ],
+    "wage_structure": "hierarchical (several high earners; Talisca reported at EUR 7.5m net before leaving)",
+    "transfer_policy": "star-driven, short-term; mixes free/expiring senior signings (Aké, Lukaku, Muriqi, Greenwood) with sales of saleable foreigners (Oosterwolde, Archie Brown targeted for ~EUR 25m / 15m) to satisfy the 10+4 foreign-player limit and wage budget",
+    "injury_management_reputation": null
+  },
+  "last_season_2025_26": {
+    "league_position": 2,
+    "points": null,
+    "played": 34,
+    "won": null,
+    "drawn": null,
+    "lost": null,
+    "goals_for": null,
+    "goals_against": null,
+    "xg_for": null,
+    "xg_against": null,
+    "possession_pct": null,
+    "ucl_result": "Qualifying play-off (eliminated, Aug 2025) -> Europa League: league phase, then knockout-phase play-off lost 2-4 on aggregate to Nottingham Forest",
+    "domestic_cup": "Türkiye Kupası quarter-final; Turkish Super Cup 2025 winner",
+    "top_scorer": {
+      "name": "Anderson Talisca",
+      "goals": 19
+    },
+    "top_assister": {
+      "name": null,
+      "assists": null
+    }
+  },
+  "summer_2026_window": {
+    "arrivals": [
+      {
+        "name": "Mason Greenwood",
+        "from": null,
+        "fee_eur_m": null,
+        "position": "RW"
+      },
+      {
+        "name": "Nathan Aké",
+        "from": null,
+        "fee_eur_m": null,
+        "position": "CB"
+      },
+      {
+        "name": "Vedat Muriqi",
+        "from": null,
+        "fee_eur_m": null,
+        "position": "ST"
+      },
+      {
+        "name": "Romelu Lukaku",
+        "from": null,
+        "fee_eur_m": null,
+        "position": "ST"
+      },
+      {
+        "name": "Emir Ortakaya",
+        "from": null,
+        "fee_eur_m": null,
+        "position": "RB"
+      },
+      {
+        "name": "Sofyan Amrabat",
+        "from": "Real Betis (loan return)",
+        "fee_eur_m": 0,
+        "position": "DM"
+      },
+      {
+        "name": "Dominik Livaković",
+        "from": "Dinamo Zagreb (loan return)",
+        "fee_eur_m": 0,
+        "position": "GK"
+      },
+      {
+        "name": "Cengiz Ünder",
+        "from": "Beşiktaş (loan return)",
+        "fee_eur_m": 0,
+        "position": "RW"
+      },
+      {
+        "name": "İrfan Can Kahveci",
+        "from": "Kasımpaşa (loan return)",
+        "fee_eur_m": 0,
+        "position": "AM"
+      },
+      {
+        "name": "Ognjen Mimović",
+        "from": "Pafos (loan return)",
+        "fee_eur_m": 0,
+        "position": "RB"
+      },
+      {
+        "name": "Rodrigo Becão",
+        "from": "Kasımpaşa (loan return)",
+        "fee_eur_m": 0,
+        "position": "CB"
+      }
+    ],
+    "departures": [
+      {
+        "name": "Anderson Talisca",
+        "to": null,
+        "fee_eur_m": 0,
+        "position": "AM"
+      },
+      {
+        "name": "Diego Carlos",
+        "to": null,
+        "fee_eur_m": null,
+        "position": "CB"
+      }
+    ],
+    "net_spend_eur_m": null
+  },
+  "squad": [
+    {
+      "name": "Ederson",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 33,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Dominik Livaković",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 31,
+      "nationality": "CRO",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Nathan Aké",
+      "position": "CB",
+      "secondary_positions": [
+        "LB"
+      ],
+      "age": 31,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Milan Škriniar",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 31,
+      "nationality": "SVK",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Çağlar Söyüncü",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 30,
+      "nationality": "TUR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Rodrigo Becão",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 30,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Jayden Oosterwolde",
+      "position": "CB",
+      "secondary_positions": [
+        "LB"
+      ],
+      "age": 25,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Mert Müldür",
+      "position": "RB",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": 27,
+      "nationality": "TUR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Nélson Semedo",
+      "position": "RB",
+      "secondary_positions": [],
+      "age": 32,
+      "nationality": "POR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ognjen Mimović",
+      "position": "RB",
+      "secondary_positions": [],
+      "age": 22,
+      "nationality": "SRB",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Emir Ortakaya",
+      "position": "RB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "TUR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Archie Brown",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": 24,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Sofyan Amrabat",
+      "position": "DM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": 30,
+      "nationality": "MAR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Fred",
+      "position": "DM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": 33,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "İsmail Yüksek",
+      "position": "DM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": 27,
+      "nationality": "TUR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Mattéo Guendouzi",
+      "position": "CM",
+      "secondary_positions": [
+        "DM"
+      ],
+      "age": 27,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "İrfan Can Kahveci",
+      "position": "AM",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": 31,
+      "nationality": "TUR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Marco Asensio",
+      "position": "AM",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": 30,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Bartuğ Elmaz",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": 23,
+      "nationality": "TUR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Mason Greenwood",
+      "position": "RW",
+      "secondary_positions": [
+        "LW",
+        "ST"
+      ],
+      "age": 24,
+      "nationality": "JAM",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Cengiz Ünder",
+      "position": "RW",
+      "secondary_positions": [],
+      "age": 29,
+      "nationality": "TUR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Romelu Lukaku",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": 33,
+      "nationality": "BEL",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Vedat Muriqi",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": 32,
+      "nationality": "KOS",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Youssef En-Nesyri",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": 29,
+      "nationality": "MAR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    }
+  ],
+  "strengths": [
+    "Proven European-level spine added in one window: Ederson (GK), Aké and Škriniar (CB), Guendouzi (CM), Asensio, Greenwood and Lukaku — all with Champions League experience.",
+    "Momentum: qualified for the UCL league phase for the first time since 2008/09 by winning 2-1 away at Lyon after a 1-1 home draw; Greenwood scored in the first leg.",
+    "Strong domestic base: 2nd in the 2025/26 Süper Lig, Turkish Super Cup 2025 winner, and a settled, experienced Turkish coach who knows the club (Kartal's 4th stint).",
+    "Depth in wide/attacking midfield after loan returns (Ünder, İrfan Can Kahveci) and the Greenwood signing gives multiple options for a 4-3-3."
+  ],
+  "weaknesses": [
+    "Governance volatility: three presidents in twelve months and coach/sporting-director dismissals in April 2026; short-term decision horizon (president and coach both on one-year terms).",
+    "Ageing spine: Ederson, Lukaku and Fred are 33, Semedo and Muriqi 32, Škriniar and Aké 31 — high injury and decline risk over a 34-game league plus UCL schedule.",
+    "Loss of top scorer: Talisca (19 league / 27 total goals in 2025/26) left on contract expiry; goal responsibility shifts to 33-year-old Lukaku.",
+    "10+4 foreign-player rule forced a planned clear-out of foreigners (Oosterwolde, Brown, Semedo, Fred, Diego Carlos reported for sale/loan in July 2026), disrupting continuity at full-back and defensive midfield.",
+    "Europe: eliminated in the UCL play-off in Aug 2025 and in the Europa League knockout play-off (2-4 agg. v Nottingham Forest) — no recent record of going deep in Europe."
+  ],
+  "positional_needs": [
+    {
+      "position": "LB",
+      "priority": "high",
+      "profile": "athletic, overlapping left-back, 21-26, Turkish or EU passport preferred (foreign-player quota)",
+      "reason": "Archie Brown and Oosterwolde were both publicly put up for sale in July 2026 (EUR 15m / EUR 25m asks); Aké is the only natural cover and is 31.",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    },
+    {
+      "position": "ST",
+      "priority": "medium",
+      "profile": "mobile, pressing No.9 with resale value, 22-26",
+      "reason": "Both senior strikers (Lukaku 33, Muriqi 32) are short-term; Talisca's 27 goals have left the squad.",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    },
+    {
+      "position": "DM",
+      "priority": "medium",
+      "profile": "ball-winning, press-resistant No.6, under 27",
+      "reason": "Fred (33) and Semedo were reported for sale; Amrabat is a loan returnee whose long-term future is unclear.",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    },
+    {
+      "position": "GK",
+      "priority": "low",
+      "profile": "young Turkish goalkeeper as successor",
+      "reason": "Ederson is 33; Livaković returned from loan and is 31.",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    }
+  ],
+  "position_benchmarks": {
+    "ST": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "shots_p90": null,
+      "pressures_p90": null
+    },
+    "CM": {
+      "pass_completion_pct": null,
+      "progressive_passes_p90": null,
+      "tackles_interceptions_p90": null
+    },
+    "CB": {
+      "aerials_won_pct": null,
+      "tackles_interceptions_p90": null,
+      "pass_completion_pct": null
+    },
+    "GK": {
+      "save_pct": null,
+      "goals_prevented_p90": null
+    }
+  },
+  "sources": [
+    "https://www.fotomac.com.tr/fenerbahce/2026/06/18/fenerbahcenin-yeni-teknik-direktoru-resmen-aciklandi",
+    "https://www.dailysabah.com/sports/football/fenerbahce-bring-back-ismail-kartal-for-4th-stint-in-charge",
+    "https://www.turkishminute.com/2026/04/28/fenerbahce-sacks-tedesco-after-derby-defeat-to-galatasaray/",
+    "https://www.hurriyetdailynews.com/fenerbahce-sacks-coach-tedesco-after-derby-loss-221559",
+    "https://www.turkiyetoday.com/sports/fenerbahce-head-coach-tedesco-sacked-after-galatasaray-derby-ends-title-hopes-3218942",
+    "https://www.sporx.com/www.sporx.com/ismail-kartal-in-hedefi-buyuk-sistemi-4-3-3-SXHBQ1169666SXQ",
+    "https://ajansspor.com/haber/ismail-kartalin-yeni-sezondaki-sistemi-belli-oldu-o-isimler-730015",
+    "https://www.fotomac.com.tr/fenerbahce/2026/08/15/perdeyi-baskentte-aciyor",
+    "https://onefootball.com/en/news/fenerbahce-draw-liverpool-in-2026-27-champions-league-league-phase-43352154",
+    "https://www.nationalturk.com/en/fenerbahce-galatasarays-champions-league/",
+    "https://www.uefa.com/uefachampionsleague/news/02a8-216cd740d41f-fd3b45ac4a0f-1000--champions-league-league-phase-draw-all-36-teams-learn-their/",
+    "https://www.uefa.com/uefachampionsleague/news/02a8-2166fb6bd14f-ebaf6954be95-1000--champions-league-qualifying-play-offs-second-leg-lyon-vs-f/",
+    "https://www.espn.com/soccer/match/_/gameId/401909204/lyon-fenerbahce",
+    "https://www.flashscoreusa.com/news/lyon-fenerbahce-champions-league-report-august-26-2026/f5pxRL5C/",
+    "https://tr.wikipedia.org/wiki/Fenerbah%C3%A7e_(futbol_tak%C4%B1m%C4%B1)_2026-27_sezonu",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Fenerbah%C3%A7e_S.K._season",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Fenerbah%C3%A7e_S.K._season",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_S%C3%BCper_Lig",
+    "https://www.takvim.com.tr/galeri/spor/super-ligde-guncel-puan-durumu-2025-26-sezonu-34-hafta",
+    "https://www.timeturk.com/fenerbahceye-kimler-geldi-2026-27-yaz-fb-transfer-listesi",
+    "https://www.goal.com/tr/haber/fenerbahce-emir-ortakayayi-kadrosuna-katti/1xyiyddnhccge162nro76p9ptb",
+    "https://www.fotomac.com.tr/fenerbahce/2026/07/26/fenerbahcede-yaprak-dokumu-6-isimle-yollar-ayriliyor",
+    "https://rudygaletti.substack.com/p/anderson-talisca-to-leave-fenerbahce",
+    "https://www.fanatik.com.tr/en/talisca-shock-for-fenerbahce-decision-to-leave-after-official-offer-2629259",
+    "https://www.uefa.com/uefaeuropaleague/news/02a1-1fce409aacb2-30258f8369e1-1000--europa-league-knockout-phase-play-off-draw-fenerbahce-vs-no/",
+    "https://espndeportes.espn.com/futbol/reporte/_/juegoId/401858780",
+    "https://www.aa.com.tr/en/sports/aziz-yildirim-elected-fenerbahce-president-in-extraordinary-vote/3959586",
+    "https://www.hurriyetdailynews.com/amp/aziz-yildirim-elected-fenerbahce-president-in-extraordinary-vote-223011",
+    "https://www.dailysabah.com/sports/football/saran-calls-extraordinary-congress-as-fenerbahce-face-defining-vote",
+    "https://www.turkishminute.com/2026/06/06/fenerbahce-to-elect-new-president-as-yildirim-and-safi-promise-title-major-spending/"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Verified via search snippets (WebFetch was egress-blocked on every domain): coach Kartal (June 2026, 1-yr), Tedesco sacking 27 Apr 2026, Yıldırım election 7 Jun 2026, 2nd place 2025/26, Talisca 19 league / 27 total goals, UEL exit v Nottingham Forest 2-4 agg, Türkiye Kupası QF, Super Cup win, Lyon play-off scores, UCL opponents incl. home/away split (single source: OneFootball, echoed by NationalTurk). UNVERIFIED / CONFLICTING: final points — one snippet gave Galatasaray 74 / Fenerbahçe 67 (sums to 31 games, so a mid-season snapshot), a matchday-34 article gave Galatasaray 77 / Fenerbahçe 74 / Trabzonspor 69; W/D/L and GF/GA therefore left null. Transfer fees and selling clubs for Greenwood, Aké, Muriqi, Lukaku, Ortakaya not verified (left null). Departures: only Talisca (contract expiry) and Diego Carlos (loan to Italy, club unknown) confirmed; Oosterwolde, Archie Brown, Semedo, Fred were reported FOR SALE in late July 2026 — whether they actually left is NOT verified, so they remain listed in the squad. En-Nesyri's 2026/27 status unverified. Squad ages were computed from publicly known birth years and not re-checked this session; shirt numbers, contract dates and 2025/26 per-player stats were not obtainable (all null). Top assister unknown. Position benchmarks unavailable (null)."
+  }
+}

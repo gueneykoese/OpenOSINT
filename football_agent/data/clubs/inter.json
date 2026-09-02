@@ -1,0 +1,603 @@
+{
+  "club_id": "inter",
+  "name": "FC Internazionale Milano",
+  "short_name": "Inter",
+  "country": "ITA",
+  "league": "Serie A",
+  "city": "Milan",
+  "ucl_2026_27": {
+    "pot": 1,
+    "qualified_via": "Serie A 2025/26 champions",
+    "opponents_home": [
+      "Liverpool",
+      "Club Brugge",
+      "Shakhtar Donetsk",
+      "VfB Stuttgart"
+    ],
+    "opponents_away": [
+      "Real Madrid",
+      "Borussia Dortmund",
+      "Feyenoord",
+      "Slovan Bratislava"
+    ]
+  },
+  "head_coach": {
+    "name": "Cristian Chivu",
+    "since": "2025-06",
+    "nationality": "ROU",
+    "preferred_formation": "3-5-2",
+    "style_keywords": [
+      "3-5-2 inherited from Inzaghi",
+      "wing-back width",
+      "two-striker partnership",
+      "build-up through the back three",
+      "structured pressing",
+      "set-piece strength"
+    ]
+  },
+  "identity": {
+    "playing_style": "Chivu kept Inter's 3-5-2 framework - wing-backs providing width, a regista (Calhanoglu) plus two box-to-box midfielders, and a two-striker partnership led by Lautaro Martinez - while adding more direct verticality. The result was a dominant Scudetto (87 pts, 89 scored, 35 conceded) but a shock round-of-16 Champions League exit to Bodo/Glimt.",
+    "principles": [
+      "financially constrained excellence (owner Oaktree demands sustainability)",
+      "free transfers and value buys over big fees",
+      "experienced Serie A-proven core",
+      "youth integration gradual (Pio Esposito, Bonny)",
+      "sell one asset per summer to balance books"
+    ],
+    "club_character": "Owned since May 2024 by US fund Oaktree after the Suning default; austerity-minded board (Marotta as president) yet consistently competitive; passionate Curva Nord, Milan derby rivalry and the shared San Siro/new-stadium question dominate the media.",
+    "ownership": "Oaktree Capital Management (US investment fund) since May 2024",
+    "political_and_social_context": "Public record: Oaktree took ownership after the previous owner Suning defaulted on a EUR 395m loan; Italian prosecutors' 2024 investigation into ultras groups at both Milan clubs led to club statements and a ban on relations with Curva Nord leaders; the joint Inter/Milan purchase of the San Siro area from the city (approved 2025) for a new stadium is politically contested.",
+    "languages": [
+      "it",
+      "en",
+      "es",
+      "fr"
+    ],
+    "wage_structure": "hierarchical but capped; wage bill reduced under Oaktree",
+    "transfer_policy": "Value-driven: free agents, loans with obligations and Serie A-proven players; net-positive or neutral windows required; youth from Primavera/loans",
+    "injury_management_reputation": "Publicly discussed: an ageing core (Acerbi, Mkhitaryan, Sommer, Darmian) produced recurring muscular absences; medical staff not publicly criticised."
+  },
+  "last_season_2025_26": {
+    "league_position": 1,
+    "points": 87,
+    "played": 38,
+    "won": 27,
+    "drawn": 6,
+    "lost": 5,
+    "goals_for": 89,
+    "goals_against": 35,
+    "xg_for": null,
+    "xg_against": null,
+    "possession_pct": null,
+    "ucl_result": "Round of 16 (eliminated by Bodø/Glimt, 1-3 second-leg score reported)",
+    "domestic_cup": null,
+    "top_scorer": {
+      "name": null,
+      "goals": null
+    },
+    "top_assister": {
+      "name": null,
+      "assists": null
+    }
+  },
+  "summer_2026_window": {
+    "arrivals": [],
+    "departures": [],
+    "net_spend_eur_m": null
+  },
+  "squad": [
+    {
+      "name": "Yann Sommer",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 37,
+      "nationality": "SUI",
+      "contract_until": null,
+      "shirt_no": 1,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Josep Martinez",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 28,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 13,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Alessandro Bastoni",
+      "position": "CB",
+      "secondary_positions": [
+        "LB"
+      ],
+      "age": 27,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": 95,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Francesco Acerbi",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 38,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": 15,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Stefan de Vrij",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 34,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": 6,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Yann Bisseck",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 25,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": 31,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Manuel Akanji",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 31,
+      "nationality": "SUI",
+      "contract_until": null,
+      "shirt_no": 25,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Denzel Dumfries",
+      "position": "RB",
+      "secondary_positions": [],
+      "age": 30,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": 2,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Matteo Darmian",
+      "position": "RB",
+      "secondary_positions": [
+        "CB"
+      ],
+      "age": 36,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": 36,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Federico Dimarco",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": 33,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": 32,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Carlos Augusto",
+      "position": "LB",
+      "secondary_positions": [
+        "CB"
+      ],
+      "age": 27,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": 30,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Luis Henrique",
+      "position": "RB",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": 24,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": 11,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Hakan Calhanoglu",
+      "position": "DM",
+      "secondary_positions": [],
+      "age": 32,
+      "nationality": "TUR",
+      "contract_until": null,
+      "shirt_no": 20,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Nicolo Barella",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": 29,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": 23,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Petar Sucic",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": 22,
+      "nationality": "CRO",
+      "contract_until": null,
+      "shirt_no": 8,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Henrikh Mkhitaryan",
+      "position": "CM",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": 37,
+      "nationality": "ARM",
+      "contract_until": null,
+      "shirt_no": 22,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Piotr Zielinski",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": 32,
+      "nationality": "POL",
+      "contract_until": null,
+      "shirt_no": 7,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Davide Frattesi",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": 26,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": 16,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Andy Diouf",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": 23,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 27,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Lautaro Martinez",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": 29,
+      "nationality": "ARG",
+      "contract_until": null,
+      "shirt_no": 10,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Marcus Thuram",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": 29,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 9,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ange-Yoan Bonny",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": 22,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 14,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Francesco Pio Esposito",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": 21,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": 94,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    }
+  ],
+  "strengths": [
+    "Dominant domestic champion: 87 pts, 27 wins, 89 goals, 11 clear of Napoli - title won with three games to spare",
+    "Settled 3-5-2 system and a coach (Chivu) whom the board is extending; tactical continuity into the UCL",
+    "Elite creative wing-back pair (Dimarco/Dumfries) and a regista (Calhanoglu) that generate set-piece and cut-back volume",
+    "Striker depth across ages: Lautaro/Thuram (29) with Bonny (22) and Pio Esposito (21) developing"
+  ],
+  "weaknesses": [
+    "Very old core: Sommer 37, Acerbi 38, Mkhitaryan 37, Darmian 36, de Vrij 34, Dimarco 33, Calhanoglu 32 - highest average age among Pot 1 sides",
+    "European fragility: eliminated by Bodo/Glimt in the round of 16 despite domestic dominance",
+    "Oaktree's budget constraints limit the ability to replace the ageing core in one window; net-spend must stay near neutral",
+    "Summer 2026 window activity could not be verified - risk that few of the age-related gaps were addressed",
+    "Left-sided depth: Dimarco (33) has no young understudy; Carlos Augusto is a converted CB"
+  ],
+  "positional_needs": [
+    {
+      "position": "CB",
+      "priority": "high",
+      "profile": "left-footed CB comfortable in a back three, 22-27, cost-controlled (<= EUR 30m or loan-to-buy)",
+      "reason": "Acerbi 38 and de Vrij 34 at the end; Bastoni needs a long-term partner",
+      "budget_eur_m": 30,
+      "wage_ceiling_eur_m_net": 4
+    },
+    {
+      "position": "GK",
+      "priority": "high",
+      "profile": "starting-quality GK under 30 with strong distribution",
+      "reason": "Sommer 37; Martinez unconvincing as starter",
+      "budget_eur_m": 20,
+      "wage_ceiling_eur_m_net": 3
+    },
+    {
+      "position": "CM",
+      "priority": "medium",
+      "profile": "box-to-box No.8 with running power, 21-26",
+      "reason": "Mkhitaryan 37, Zielinski 32; Sucic/Diouf are the only young options",
+      "budget_eur_m": 30,
+      "wage_ceiling_eur_m_net": 3.5
+    },
+    {
+      "position": "LB",
+      "priority": "medium",
+      "profile": "attacking left wing-back, 20-25",
+      "reason": "Dimarco 33 with no natural successor",
+      "budget_eur_m": 25,
+      "wage_ceiling_eur_m_net": 3
+    }
+  ],
+  "position_benchmarks": {
+    "ST": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "shots_p90": null,
+      "pressures_p90": null
+    },
+    "CM": {
+      "pass_completion_pct": null,
+      "progressive_passes_p90": null,
+      "tackles_interceptions_p90": null
+    },
+    "CB": {
+      "aerials_won_pct": null,
+      "tackles_interceptions_p90": null,
+      "progressive_passes_p90": null
+    },
+    "LB": {
+      "assists_p90": null,
+      "crosses_p90": null,
+      "tackles_interceptions_p90": null
+    }
+  },
+  "sources": [
+    "https://www.inter.it/en/news/champions-league-2026-27-league-phase-draw-inter-opponents",
+    "https://sports.yahoo.com/articles/2026-27-champions-league-inters-134100064.html",
+    "https://football-italia.net/champions-league-draw-inter-roma-napoli-como/",
+    "https://football-italia.net/serie-a-2025-26-final-standings-and-verdicts/",
+    "https://sports.yahoo.com/articles/serie-2025-26-final-standings-211000713.html",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Serie_A",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Inter_Milan_season",
+    "https://en.legaseriea.it/serie-a/news/serie-a-enilive-2026-27-head-coaches",
+    "https://sports.yahoo.com/articles/chivu-inter-team-beat-2026-131000137.html",
+    "https://www.cbssports.com/soccer/news/cristian-chivus-hiring-at-inter-new-contract-coming-2026/",
+    "https://www.inter.it/en/news/cristian-chivu-new-inter-head-coach",
+    "https://www.uefa.com/uefachampionsleague/news/029c-1e9a2f63fe2d-ebf9ad643892-1000--2025-26-champions-league-all-the-results/"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Verified: Chivu as coach for 2026/27 (contract to 2027, extension expected), full Serie A line (87 pts, 27-6-5, 89-35), title clinched 3 May 2026, UCL draw, round-of-16 exit to Bodo/Glimt (aggregate not confirmed). NOT verified: Coppa Italia/Supercoppa results, top scorer/assister, and the ENTIRE summer-2026 window (lists left empty, not asserted as zero). Squad is the 2025/26 roster; several veterans (Acerbi, Mkhitaryan, Darmian, de Vrij, Sommer) were on expiring deals and may have left. Squad = last known first-team roster adjusted ONLY for summer-2026 moves that were source-verified; further unreported exits/loans may be missing. Per-player 2025/26 stats left null unless a source gave the number. Ages computed from public birthdates as of 2026-09-02. Research constraint: web fetch was blocked on all data sites (transfermarkt, fbref, uefa, wikipedia, club sites) and only search snippets were available."
+  }
+}

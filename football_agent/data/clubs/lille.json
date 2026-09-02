@@ -1,0 +1,243 @@
+{
+  "club_id": "lille",
+  "name": "LOSC Lille",
+  "short_name": "Lille",
+  "country": "FRA",
+  "league": "Ligue 1",
+  "city": "Lille",
+  "ucl_2026_27": {
+    "pot": 3,
+    "qualified_via": "Ligue 1 2025/26 third place",
+    "opponents_home": [],
+    "opponents_away": [
+      "AS Roma",
+      "FK Bodø/Glimt"
+    ]
+  },
+  "head_coach": {
+    "name": "Davide Ancelotti",
+    "since": "2026-06",
+    "nationality": "ITA",
+    "preferred_formation": null,
+    "style_keywords": [
+      "first senior head-coach role in Europe",
+      "long-time assistant to Carlo Ancelotti",
+      "game management",
+      "flexible 4-4-2/4-3-3 background"
+    ]
+  },
+  "identity": {
+    "playing_style": "Under Genesio (2024-26) Lille combined a compact mid-block with quick vertical transitions and set-piece efficiency, finishing 3rd in Ligue 1 (61 pts) and reaching the Europa League round of 16. Davide Ancelotti (appointed 1 June 2026) inherits a squad heavily reshaped by 21 departures; his early tactical identity at Lille is not yet documented.",
+    "principles": [
+      "trading model: buy young, develop, sell high",
+      "data-informed scouting (Létang era)",
+      "financial discipline after 2020 debt crisis",
+      "mix of veterans (Giroud) and prospects"
+    ],
+    "club_character": "Provincial club competing with far smaller budget than PSG; supporters accept squad churn as long as the club stays in Europe; pressure moderate; president Olivier Létang is the dominant public figure.",
+    "ownership": "Private: Merlyn Partners (Luxembourg-based fund) since December 2020, with Olivier Létang as president",
+    "political_and_social_context": "Publicly documented: 2020 takeover by Merlyn Partners after the Gérard Lopez era left the club heavily indebted; club has repeatedly and publicly defended its high-volume player-trading model as necessary for sustainability. No institution-level controversies verified for 2025/26.",
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "wage_structure": "hierarchical but modest; senior earners far below Ligue 1 top-two",
+    "transfer_policy": "aggressive seller: summer 2026 brought in ~EUR 175m from 21 departures against ~EUR 42m spent on 8 arrivals (net +EUR 133m per Le Petit Lillois)",
+    "injury_management_reputation": null
+  },
+  "last_season_2025_26": {
+    "league_position": 3,
+    "points": 61,
+    "played": null,
+    "won": null,
+    "drawn": null,
+    "lost": null,
+    "goals_for": null,
+    "goals_against": null,
+    "xg_for": null,
+    "xg_against": null,
+    "possession_pct": null,
+    "ucl_result": "Did not play UCL (Europa League: round of 16, eliminated by eventual winners Aston Villa)",
+    "domestic_cup": "Coupe de France: round of 32",
+    "top_scorer": {
+      "name": "Olivier Giroud",
+      "goals": 7
+    },
+    "top_assister": {
+      "name": null,
+      "assists": null
+    }
+  },
+  "summer_2026_window": {
+    "arrivals": [
+      {
+        "name": "Basar Önal",
+        "from": "NEC Nijmegen",
+        "fee_eur_m": 12,
+        "position": null
+      },
+      {
+        "name": "Loun Srdanovic",
+        "from": "Servette FC",
+        "fee_eur_m": 3,
+        "position": null
+      },
+      {
+        "name": "Tanguy Nianzou",
+        "from": "Sevilla FC (free)",
+        "fee_eur_m": 0,
+        "position": "CB"
+      }
+    ],
+    "departures": [],
+    "net_spend_eur_m": -133.25
+  },
+  "squad": [
+    {
+      "name": "Olivier Giroud",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": 39,
+      "nationality": "FRA",
+      "contract_until": 2027,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 7,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Tanguy Nianzou",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 24,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Basar Önal",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "TUR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Loun Srdanovic",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "SUI",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    }
+  ],
+  "strengths": [
+    "Proven ability to over-perform budget: 3rd in Ligue 1 and a Europa League last-16 run in 2025/26.",
+    "Exceptionally healthy finances after a +EUR 133m summer, giving flexibility in January.",
+    "Experienced European campaigners (Giroud extended to 2027) to steady a young squad.",
+    "Stable executive leadership (Létang) with clear recruitment identity."
+  ],
+  "weaknesses": [
+    "21 departures in one window: squad cohesion and depth are unproven at Champions League level.",
+    "Rookie head coach: Davide Ancelotti has no prior head-coaching record in a top-five league.",
+    "Goal threat thin: top scorer Giroud managed only 7 league goals at age 39.",
+    "Only EUR 42m reinvested; several starting positions filled by unproven arrivals."
+  ],
+  "positional_needs": [
+    {
+      "position": "ST",
+      "priority": "high",
+      "profile": "20-26 goal-a-season 9, mobile, 22-27",
+      "reason": "Giroud (39) was top scorer with 7 league goals; heavy outgoing window",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    },
+    {
+      "position": "RW",
+      "priority": "medium",
+      "profile": "1v1 dribbler with resale value",
+      "reason": "club publicly opened the door to Edon Zhegrova's departure (soccerway); wide options unverified post-window",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    },
+    {
+      "position": "CM",
+      "priority": "medium",
+      "profile": "ball-progressing 8, 21-25",
+      "reason": "large midfield turnover; Önal (EUR 12m) is the only verified midfield arrival",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    }
+  ],
+  "position_benchmarks": {
+    "ST": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "shots_p90": null,
+      "pressures_p90": null
+    },
+    "CM": {
+      "pass_completion_pct": null,
+      "progressive_passes_p90": null,
+      "tackles_interceptions_p90": null
+    },
+    "CB": {
+      "aerials_won_pct": null,
+      "tackles_interceptions_p90": null,
+      "progressive_passes_p90": null
+    }
+  },
+  "sources": [
+    "https://www.beinsports.com/en-us/soccer/ligue-1/articles/davide-ancelotti-announced-as-new-losc-lille-head-coach-2026-06-01",
+    "https://www.france24.com/en/live-news/20260525-lille-part-ways-with-coach-genesio",
+    "https://www.losc.fr/actualites/2026-08-28/qui-sont-les-adversaires-du-losc-en-champions-league",
+    "https://www.uefa.com/uefachampionsleague/news/02a8-216cd740d41f-fd3b45ac4a0f-1000--champions-league-league-phase-draw-all-36-teams-learn-their/",
+    "https://www.arsenal.com/news/202627-champions-league-draw-our-eight-opponents-aatiP0f2okvk",
+    "https://www.glimt.no/nyheter/disse-lagene-moter-bodo-glimt-i-champions-league",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Ligue_1",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Lille_OSC_season",
+    "https://lepetitlillois.com/2026/09/01/vingt-neuf-mouvements-enregistres-le-bilan-du-mercato-estival-2026-2027-du-losc/",
+    "https://www.beinsports.com/en-us/soccer/ligue-1/articles/giroud-extends-lille-contract-until-2027-2026-06-09",
+    "https://fr.soccerway.com/actualites/football-ligue-1-lille-ouvre-la-porte-a-un-depart-d-edon-zhegrova-durant-le-mercato-estival/plKTDr7c"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "SQUAD IS PARTIAL: only players whose presence in the 2026/27 squad is supported by a source found during research are listed; a full 20-26 man squad, shirt numbers, contract dates and per-player 2025/26 minutes could not be retrieved because the research session lost web access (search budget exhausted; fetch to transfermarkt/fbref/uefa/club sites blocked). Ages are computed from publicly known birth dates. UCL DRAW: the eight opponents are verified (Bayern Munich, Arsenal, Real Betis, AS Roma, Galatasaray, Bodø/Glimt, Slovan Bratislava, VfB Stuttgart) but only two venues could be confirmed (away at Roma and at Bodø/Glimt, from those clubs' draw reports); home list left empty per brief. League: 3rd with 61 pts verified (PSG 76, Lens 70); W/D/L and goals not retrieved. Summer window: totals (8 in for EUR 42m, 21 out for EUR 175.25m) verified via Le Petit Lillois; only three arrivals named; departures list not retrieved. Ancelotti's formation unverified."
+  }
+}

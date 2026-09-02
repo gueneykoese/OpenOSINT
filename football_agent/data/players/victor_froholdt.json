@@ -1,0 +1,65 @@
+{
+  "player_id": "victor_froholdt",
+  "name": "Victor Froholdt",
+  "age": 20,
+  "date_of_birth": null,
+  "nationality": ["DEN"],
+  "position": "CM",
+  "secondary_positions": ["DM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "FC Porto",
+  "current_club_league": "Liga Portugal",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 35,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Liga Portugal",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["all-round central midfielder", "late-season goal/assist contributor"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["da"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.beinsports.com/en-us/soccer/primeira-liga/articles/who-are-the-rising-stars-of-liga-portugal-2026-08-10"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Only qualitative sourcing: beIN SPORTS (10 Aug 2026) describes him as a key component of Porto's 2025/26 title-winning midfield who added goals and assists late in the season; no numeric 2025/26 stats, contract, value or DOB could be verified (all null). Current club Porto per that Aug 2026 article; not re-verified after the 1 Sep deadline. estimated_fee_eur_m is a researcher estimate with no market-value anchor - treat as placeholder. Secondary position and style tags are inferences."
+  }
+}

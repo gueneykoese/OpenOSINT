@@ -1,0 +1,78 @@
+{
+  "player_id": "demo_gk_alp_yildiz",
+  "name": "Alp Yıldız (demo)",
+  "age": 22,
+  "date_of_birth": "2004-09-30",
+  "nationality": [
+    "TUR"
+  ],
+  "position": "GK",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 193,
+  "current_club": "Demo Göztepe",
+  "current_club_league": "Süper Lig",
+  "contract_until": 2027,
+  "market_value_eur_m": 5,
+  "estimated_fee_eur_m": 7,
+  "wage_eur_m_net": 0.3,
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Süper Lig",
+    "apps": 34,
+    "starts": 34,
+    "minutes": 3060,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": 79,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "sweeper-keeper",
+      "distribution",
+      "young goalkeeper"
+    ],
+    "best_system": [
+      "4-3-3 high press"
+    ],
+    "weak_in": [
+      "cross claiming"
+    ]
+  },
+  "mental_profile": {
+    "leadership": 3,
+    "coachability": 5,
+    "resilience": 4,
+    "discipline": 5,
+    "notes": "Synthetic."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "tr",
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "synthetic"
+  },
+  "release_clause_eur_m": null,
+  "agent_status": "represented_by_us",
+  "sources": [
+    "synthetic://football_agent/demo"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "synthetic",
+    "notes": "FICTIONAL demo profile used only to exercise the matching engine. Not a real person; all numbers are invented and plausible for the stated league. Never present as scouting data."
+  }
+}

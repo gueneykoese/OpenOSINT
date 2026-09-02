@@ -1,0 +1,820 @@
+{
+  "club_id": "aston_villa",
+  "name": "Aston Villa FC",
+  "short_name": "Aston Villa",
+  "country": "ENG",
+  "league": "Premier League",
+  "city": "Birmingham",
+  "ucl_2026_27": {
+    "pot": 2,
+    "qualified_via": "Premier League 2025/26 4th place (also 2025/26 UEFA Europa League winners)",
+    "opponents_home": [
+      "Paris Saint-Germain",
+      "Borussia Dortmund",
+      "Fenerbahce",
+      "Viking"
+    ],
+    "opponents_away": [
+      "Barcelona",
+      "Club Brugge",
+      "Galatasaray",
+      "Slavia Prague"
+    ]
+  },
+  "head_coach": {
+    "name": "Unai Emery",
+    "since": "2022-11",
+    "nationality": "ESP",
+    "preferred_formation": "4-2-3-1",
+    "style_keywords": [
+      "compact 4-4-2 defensive block",
+      "patient short build-up",
+      "bait the press then play through lines",
+      "quick vertical transitions",
+      "narrow attacking third with high overlapping full-backs",
+      "double pivot protection"
+    ]
+  },
+  "identity": {
+    "playing_style": "Emery's Villa defend in a compact 4-4-2 mid-block out of a 4-2-3-1, build patiently through short passes to lure the opposition press and then break lines vertically, and attack narrow with full-backs providing overlapping width. A double pivot (Kamara with Onana or, from 2026/27, Joao Gomes/Goretzka) screens the back four. After the 2026 sale of ball-carrier Morgan Rogers the club has explicitly bought Johan Manzambi as the carrier and Garnacho/Mbaye for pace and dribbling.",
+    "principles": [
+      "coach-led, meticulous game-plan football under long-serving Emery",
+      "profit-from-sales model imposed by UEFA squad-cost-ratio settlement",
+      "buy high-ceiling U23 profiles with resale value (Manzambi 20, Mbaye 18, Suzuki 24, Ruggeri 24) balanced by experienced free/loan signings (Goretzka, Wan-Bissaka)",
+      "academy players monetised (most made available for sale in summer 2026)"
+    ],
+    "club_character": "Historic founder member of the Football League, single-club city rivalry with Birmingham City, large traditional working-class fanbase at Villa Park (stand redevelopment ongoing). Expectations now high after 2026 Europa League win (first trophy in 30 years) and back-to-back top-4 finishes; heavy press scrutiny in Sept 2026 over the sale of Rogers, Konsa, Watkins and Tielemans.",
+    "ownership": "Private: V Sports (Nassef Sawiris and Wes Edens ~34.4% each, US investment firm Atairos ~32% minority stake). Chairman Nassef Sawiris.",
+    "political_and_social_context": "Publicly documented: the club operates under a UEFA financial settlement (total exposure EUR 48.5m: EUR 18.5m unconditional, EUR 30m conditional on squad-cost-ratio improvement) for breaching UEFA financial rules; UEFA rejected GBP 114m of intra-group asset sales (women's team, training-ground 'Warehouse') that the Premier League accepted for PSR. In July 2026 the club made almost all academy players available for sale to comply with spending rules. Summer 2026 saw a club-record GBP 120m sale of Morgan Rogers and gross sales of roughly GBP 300m+.",
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "pt"
+    ],
+    "wage_structure": "hierarchical - top band around GBP 8m/yr gross (Kamara, Martinez; Tielemans before sale); total 2026/27 wage bill approx GBP 118.5m, 7th in the Premier League (Capology estimate)",
+    "transfer_policy": "Forced net-seller in 2026 (net profit >GBP 100m); sells peak-value stars, reinvests in U25 resale-value profiles plus free/loan veterans; Emery has strong influence on targets",
+    "injury_management_reputation": "Publicly discussed workload: Amadou Onana ruptured an ACL at the 2026 World Cup (out to ~April 2027) and Manzambi arrived with a World Cup knee injury; Emery's staff have been praised for rotation across a 60+ game season but no systematic criticism of the medical department was found."
+  },
+  "last_season_2025_26": {
+    "league_position": 4,
+    "points": 65,
+    "played": 38,
+    "won": 19,
+    "drawn": 8,
+    "lost": 11,
+    "goals_for": 63,
+    "goals_against": 48,
+    "xg_for": null,
+    "xg_against": null,
+    "possession_pct": null,
+    "ucl_result": "Not in UCL - won UEFA Europa League (beat SC Freiburg 3-0 in Istanbul final, 20 May 2026; scored 31 goals, most in competition)",
+    "domestic_cup": "FA Cup fourth round (lost 1-3 to Newcastle, 14 Feb 2026); Carabao Cup third round (lost on penalties to Brentford)",
+    "top_scorer": {
+      "name": "Ollie Watkins",
+      "goals": 16
+    },
+    "top_assister": {
+      "name": "Morgan Rogers",
+      "assists": null
+    }
+  },
+  "summer_2026_window": {
+    "arrivals": [
+      {
+        "name": "Johan Manzambi",
+        "from": "SC Freiburg",
+        "fee_eur_m": 59.5,
+        "position": "AM"
+      },
+      {
+        "name": "Joao Gomes",
+        "from": "Wolverhampton Wanderers",
+        "fee_eur_m": 39.0,
+        "position": "CM"
+      },
+      {
+        "name": "Alejandro Garnacho",
+        "from": "Chelsea (loan)",
+        "fee_eur_m": null,
+        "position": "LW"
+      },
+      {
+        "name": "Zion Suzuki",
+        "from": "Parma",
+        "fee_eur_m": 30.0,
+        "position": "GK"
+      },
+      {
+        "name": "Matteo Ruggeri",
+        "from": "Atletico Madrid",
+        "fee_eur_m": 20.0,
+        "position": "LB"
+      },
+      {
+        "name": "Aaron Wan-Bissaka",
+        "from": "West Ham United (loan)",
+        "fee_eur_m": null,
+        "position": "RB"
+      },
+      {
+        "name": "Ibrahim Mbaye",
+        "from": "Paris Saint-Germain",
+        "fee_eur_m": 55.0,
+        "position": "RW"
+      },
+      {
+        "name": "Taylor Harwood-Bellis",
+        "from": "Southampton",
+        "fee_eur_m": null,
+        "position": "CB"
+      },
+      {
+        "name": "Leon Goretzka",
+        "from": "Bayern Munich (free)",
+        "fee_eur_m": 0,
+        "position": "CM"
+      },
+      {
+        "name": "Nicolas Jackson",
+        "from": "Chelsea",
+        "fee_eur_m": 55.0,
+        "position": "ST"
+      }
+    ],
+    "departures": [
+      {
+        "name": "Morgan Rogers",
+        "to": "Chelsea",
+        "fee_eur_m": 138.0,
+        "position": "AM"
+      },
+      {
+        "name": "Ezri Konsa",
+        "to": "Arsenal",
+        "fee_eur_m": 59.0,
+        "position": "CB"
+      },
+      {
+        "name": "Ollie Watkins",
+        "to": "Al Hilal",
+        "fee_eur_m": 58.0,
+        "position": "ST"
+      },
+      {
+        "name": "Youri Tielemans",
+        "to": "Manchester United",
+        "fee_eur_m": 40.0,
+        "position": "CM"
+      },
+      {
+        "name": "Lucas Digne",
+        "to": "Paris Saint-Germain",
+        "fee_eur_m": null,
+        "position": "LB"
+      },
+      {
+        "name": "Donyell Malen",
+        "to": "AS Roma",
+        "fee_eur_m": 25.0,
+        "position": "RW"
+      },
+      {
+        "name": "Enzo Barrenechea",
+        "to": "Benfica",
+        "fee_eur_m": 12.0,
+        "position": "DM"
+      },
+      {
+        "name": "Lewis Dobbin",
+        "to": "Southampton",
+        "fee_eur_m": 10.5,
+        "position": "LW"
+      },
+      {
+        "name": "Louie Barry",
+        "to": "Sheffield Wednesday",
+        "fee_eur_m": null,
+        "position": "ST"
+      },
+      {
+        "name": "Evann Guessand",
+        "to": "Crystal Palace (loan)",
+        "fee_eur_m": null,
+        "position": "RW"
+      },
+      {
+        "name": "Jadon Sancho",
+        "to": "Manchester United (end of loan)",
+        "fee_eur_m": null,
+        "position": "LW"
+      }
+    ],
+    "net_spend_eur_m": -128.0
+  },
+  "squad": [
+    {
+      "name": "Zion Suzuki",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 24,
+      "nationality": "JPN",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Emiliano Martinez",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 34,
+      "nationality": "ARG",
+      "contract_until": 2029,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Matty Cash",
+      "position": "RB",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": 29,
+      "nationality": "POL",
+      "contract_until": 2028,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Aaron Wan-Bissaka",
+      "position": "RB",
+      "secondary_positions": [
+        "RWB"
+      ],
+      "age": 28,
+      "nationality": "COD",
+      "contract_until": 2027,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Pau Torres",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 29,
+      "nationality": "ESP",
+      "contract_until": 2028,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Victor Lindelof",
+      "position": "CB",
+      "secondary_positions": [
+        "RB"
+      ],
+      "age": 32,
+      "nationality": "SWE",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Taylor Harwood-Bellis",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 24,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Tyrone Mings",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 33,
+      "nationality": "ENG",
+      "contract_until": 2027,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ian Maatsen",
+      "position": "LB",
+      "secondary_positions": [
+        "LWB"
+      ],
+      "age": 24,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Matteo Ruggeri",
+      "position": "LB",
+      "secondary_positions": [
+        "LWB"
+      ],
+      "age": 24,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Boubacar Kamara",
+      "position": "DM",
+      "secondary_positions": [
+        "CB"
+      ],
+      "age": 26,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Joao Gomes",
+      "position": "CM",
+      "secondary_positions": [
+        "DM"
+      ],
+      "age": 25,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": 35,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": "calf (picked up in Aug 2026 UEFA Super Cup; expected back early Sept 2026)"
+    },
+    {
+      "name": "Leon Goretzka",
+      "position": "CM",
+      "secondary_positions": [
+        "DM"
+      ],
+      "age": 31,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": 27,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Amadou Onana",
+      "position": "DM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": 25,
+      "nationality": "BEL",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": "long-term ACL (2026 World Cup; out until approx 2027-04)"
+    },
+    {
+      "name": "Ross Barkley",
+      "position": "CM",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": 32,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "George Hemmings",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Johan Manzambi",
+      "position": "AM",
+      "secondary_positions": [
+        "CM",
+        "RW"
+      ],
+      "age": 20,
+      "nationality": "SUI",
+      "contract_until": null,
+      "shirt_no": 44,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": "knee (2026 World Cup; yet to debut, possible return before Sept international break)"
+    },
+    {
+      "name": "John McGinn",
+      "position": "AM",
+      "secondary_positions": [
+        "CM",
+        "LW"
+      ],
+      "age": 31,
+      "nationality": "SCO",
+      "contract_until": 2028,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Emiliano Buendia",
+      "position": "AM",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": 29,
+      "nationality": "ARG",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Alejandro Garnacho",
+      "position": "LW",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": 22,
+      "nationality": "ARG",
+      "contract_until": 2027,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ibrahim Mbaye",
+      "position": "RW",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": 18,
+      "nationality": "FRA",
+      "contract_until": 2031,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Leon Bailey",
+      "position": "RW",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": 29,
+      "nationality": "JAM",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Nicolas Jackson",
+      "position": "ST",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": 25,
+      "nationality": "SEN",
+      "contract_until": null,
+      "shirt_no": 11,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Tammy Abraham",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": 28,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": "withdrawn v Borussia Moenchengladbach (pre-season Aug 2026), no official update"
+    },
+    {
+      "name": "Brian Madjo",
+      "position": "ST",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": null,
+      "nationality": null,
+      "contract_until": null,
+      "shirt_no": 39,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": "knock (Aug 2026 Super Cup), possible return 5 Sept 2026"
+    }
+  ],
+  "strengths": [
+    "Elite, stable coaching: Emery (since Nov 2022) delivered 4th place and the Europa League in 2025/26 (31 EL goals, most in the competition) with a proven, teachable 4-2-3-1/4-4-2 block.",
+    "Strong financial reset: roughly GBP 300m+ of summer 2026 sales cleared UEFA squad-cost pressure and funded 10 signings, giving unusual squad depth at full-back and in midfield.",
+    "Young, high-resale core acquired: Manzambi (20), Mbaye (18), Garnacho (22), Suzuki (24), Ruggeri (24), Harwood-Bellis (24), Maatsen (24).",
+    "Midfield athleticism and experience combined: Joao Gomes and Goretzka add ball-winning and box arrivals alongside Kamara and McGinn.",
+    "Solid league defence last season (48 conceded, 4th-fewest tier) built on the compact block, retained Pau Torres/Cash/Maatsen."
+  ],
+  "weaknesses": [
+    "Loss of last season's entire attacking spine: Rogers (best player of the 2025/26 Europa League, top assister) and Watkins (16 PL goals, 0.5 goals p90, 21 in all comps) both sold; Tielemans and Konsa also gone.",
+    "New No.9 risk: Nicolas Jackson arrives after an inconsistent Chelsea spell and had to carry the line from his debut v Arsenal; Abraham's fitness unclear.",
+    "Injury-hit midfield spine at kick-off: Onana (ACL, out to ~April 2027), Manzambi (knee) and Joao Gomes (calf) all unavailable in August 2026.",
+    "Integration burden: 10 arrivals and 17 departures in one window, with a largely new backroom staff; early-season 'turmoil' narrative in the press.",
+    "Ageing senior group in key spots: Lindelof 32, Mings 33, Barkley 32, Goretzka 31, McGinn 31, Martinez 34.",
+    "Goalkeeper hierarchy in flux: Suzuki started the Arsenal game ahead of long-time No.1 Martinez."
+  ],
+  "positional_needs": [
+    {
+      "position": "CB",
+      "priority": "high",
+      "profile": "right-sided, athletic, front-foot defender, 22-27, comfortable in a mid-block and stepping into midfield",
+      "reason": "Ezri Konsa (starter) sold to Arsenal; replacement Harwood-Bellis unproven at UCL level; Lindelof 32 and Mings 33 are short-term cover.",
+      "budget_eur_m": 40,
+      "wage_ceiling_eur_m_net": 5
+    },
+    {
+      "position": "DM",
+      "priority": "medium",
+      "profile": "ball-winning No.6 with range of passing, 21-26",
+      "reason": "Onana out until spring 2027 with ACL, Barrenechea sold; Kamara has an injury history and Goretzka is 31 on a short contract.",
+      "budget_eur_m": 35,
+      "wage_ceiling_eur_m_net": 5
+    },
+    {
+      "position": "ST",
+      "priority": "medium",
+      "profile": "pressing forward who runs channels and finishes at 0.5+ goals p90 (Watkins benchmark), 22-26",
+      "reason": "Watkins (16 PL goals) sold to Al Hilal; Jackson on a structure that may be a loan; Abraham 28 and injury-uncertain.",
+      "budget_eur_m": 50,
+      "wage_ceiling_eur_m_net": 6
+    },
+    {
+      "position": "AM",
+      "priority": "low",
+      "profile": "creative No.10 / carrier with end product",
+      "reason": "Rogers sold; Manzambi signed as the successor but is 20 and injured - a secondary creative option beyond Buendia (29) would de-risk.",
+      "budget_eur_m": 25,
+      "wage_ceiling_eur_m_net": 4
+    }
+  ],
+  "position_benchmarks": {
+    "ST": {
+      "goals_p90": 0.5,
+      "assists_p90": 0.09,
+      "shots_p90": 2.62,
+      "npxg_p90": 0.56,
+      "pressures_p90": null
+    },
+    "AM": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "progressive_carries_p90": null,
+      "key_passes_p90": null
+    },
+    "CB": {
+      "pass_completion_pct": null,
+      "aerials_won_pct": null,
+      "tackles_interceptions_p90": null
+    },
+    "DM": {
+      "pass_completion_pct": null,
+      "progressive_passes_p90": null,
+      "tackles_interceptions_p90": null
+    }
+  },
+  "sources": [
+    "https://www.avfc.co.uk/news/2026/august/27/news-uefa-champions-league-opponents-revealed/",
+    "https://sports.yahoo.com/articles/aston-villas-eight-champions-league-165328400.html",
+    "https://extratimetalk.com/aston-villa-champions-league-draw-league-phase/",
+    "https://www.avfc.co.uk/news/2026/september/02/news-villans-welcome-10-new-faces",
+    "https://www.sportsmole.co.uk/football/aston-villa/transfer-talk/feature/aston-villa-summer-transfers-all-confirmed-ins-and-outs-for-2026_598979.html",
+    "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+    "https://www.espn.com/soccer/story/_/id/49574148/aston-villa-matteo-ruggeri-atletico-madrid-premier-league-transfers",
+    "https://www.skysports.com/football/news/11095/13579783/ibrahim-mbaye-aston-villa-confirm-signing-of-18-year-old-paris-saint-germain-winger",
+    "https://www.psg.fr/en/content/ibrahim-mbaye-signs-for-aston-villa-psg-club-news-2026-2027",
+    "https://www.malaymail.com/news/sports/2026/01/28/abraham-rejoins-aston-villa-to-bolster-premier-league-title-bid/207068",
+    "https://abcnews.com/Sports/wireStory/aston-villa-turmoil-after-big-departures-arsenal-premier-136006094",
+    "https://sports.yahoo.com/articles/emery-wishes-aston-villa-sales-141500056.html",
+    "https://www.squawka.com/en/news/aston-villa-premier-league-2026-27-preview/",
+    "https://www.nbcsports.com/premier-league-table-2025-26-season-standings",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Premier_League",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Aston_Villa_F.C._season",
+    "https://en.wikipedia.org/wiki/2026_UEFA_Europa_League_final",
+    "https://www.espn.com/soccer/report/_/gameId/401850911",
+    "https://www.avfc.co.uk/news/2025/september/17/penalty-heartache-in-the-carabao-cup/",
+    "https://www.sofascore.com/news/morgan-rogers-2025-26-aston-villa-season-snapshot",
+    "https://fbref.com/en/players/aed3a70f/matchlogs/2025-2026/c9/Ollie-Watkins-Match-Logs",
+    "https://heavy.com/sports/soccer/premier-league/arensal-fc/aston-villa-vs-arsenal-lineups-today-confirmed-starting-xi-team-news-and-live-updates/",
+    "https://khelnow.com/football/aston-villa-vs-arsenal-lineups-premier-league-202608",
+    "https://www.sportsmole.co.uk/football/aston-villa/injury-news/injuries-and-suspensions/gomes-madjo-latest-aston-villa-injury-suspension-list-vs-brighton_603341.html",
+    "https://www.3addedminutes.com/sport/football/aston-villa/manzambi-abraham-majdo-aston-villa-injury-news-update-return-dates-8939743",
+    "https://myoldmansaid.com/aston-villas-latest-uefa-fine-explained-the-settlement-behind-the-headline/",
+    "https://www.billionaires.africa/2026/07/08/billionaire-nassef-sawiris-aston-villa-puts-nearly-its-entire-academy-up-for-sale-over-spending-rules/",
+    "https://swissramble.substack.com/p/aston-villa-finances-202425",
+    "https://www.capology.com/club/aston-villa/salaries/",
+    "https://www.givemesport.com/aston-villa-player-wages-football-soccer/",
+    "https://jobsinfootball.com/blog/unai-emery-tactics-explained/",
+    "https://totalfootballanalysis.com/data-analysis/unai-emery-tactics-aston-villa-2025-2026-data-analysis",
+    "https://readastonvilla.com/squad/",
+    "https://villaverdict.com/squad/"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Researched via web-search snippets only (page fetches were blocked). Verified: coach, UCL draw (club site + 3 outlets), league table (4th, 65 pts, 19-8-11, 63-48), Europa League win, cup exits, 10 arrivals, headline departures. Fees converted GBP->EUR at ~1.15 and rounded; Manzambi reported as GBP 51m (Sports Mole) and GBP 59.5m (Squawka) - the latter used as EUR figure; Nicolas Jackson reported both as a GBP 48m/'just shy of GBP 60m' purchase and as a loan from Chelsea - deal structure unverified; Rogers fee reported as GBP 117m and 120m. Net spend approx -EUR 128m derived from 'net profit >GBP 100m' (Squawka) and Sports Mole totals - treat as estimate. Squad: 24 names compiled from the club's new-signings article, the 31 Aug 2026 v Arsenal starting XI, contract snippets and injury reports; Emiliano Martinez's 2026/27 status (still contracted to 2029 but Suzuki started v Arsenal) and Tyrone Mings' presence are not independently confirmed; Hemmings and Madjo details (age, nationality) unknown. Shirt numbers only where sourced. Per-player 2025/26 stats unavailable (null). xG/possession null. Position benchmark ST taken from Ollie Watkins' 2025/26 PL per-90 numbers (departed) as the club's reference level; other benchmarks null. Top assister Morgan Rogers confirmed by Sofascore but assist total conflicting (5 vs 6 PL) so left null. Loan departures beyond Guessand (five reported) not itemised."
+  }
+}

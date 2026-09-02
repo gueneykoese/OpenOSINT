@@ -1,0 +1,289 @@
+{
+  "club_id": "rb_leipzig",
+  "name": "RB Leipzig",
+  "short_name": "RB Leipzig",
+  "country": "GER",
+  "league": "Bundesliga",
+  "city": "Leipzig",
+  "ucl_2026_27": {
+    "pot": 3,
+    "qualified_via": "Bundesliga 2025/26 third place",
+    "opponents_home": [
+      "Manchester City",
+      "PSV Eindhoven",
+      "Shakhtar Donetsk",
+      "RC Lens"
+    ],
+    "opponents_away": [
+      "Real Madrid",
+      "Manchester United",
+      "Feyenoord",
+      "Como 1907"
+    ]
+  },
+  "head_coach": {
+    "name": "Martín Demichelis",
+    "since": "2026-06",
+    "nationality": "ARG",
+    "preferred_formation": null,
+    "style_keywords": [
+      "positional play",
+      "possession build-up (River Plate background)",
+      "Bayern academy coaching lineage",
+      "contract to 2028"
+    ]
+  },
+  "identity": {
+    "playing_style": "Red Bull DNA: vertical, transition-heavy football with aggressive counter-pressing and young athletic profiles. Ole Werner (2025/26, sacked June 2026 despite 3rd place, 1.95 pts/game) rebuilt after losing key players and had no European football to manage. Demichelis, appointed within five days of Werner's exit, brings a more possession-oriented positional game from his River Plate title-winning side.",
+    "principles": [
+      "under-24 recruitment with resale value",
+      "Red Bull multi-club network (Salzburg, New York, Bragantino)",
+      "coach must fit the system, not vice versa",
+      "sell one star per summer"
+    ],
+    "club_character": "Corporate-backed club founded 2009; small but growing fan base; low fan pressure but high boardroom expectations; polarising in German football culture because of the 50+1 workaround.",
+    "ownership": "Red Bull GmbH (corporate); voting membership restricted, widely described as a 50+1 workaround",
+    "political_and_social_context": "Publicly documented: long-running hostility from other German fan groups and legal/regulatory scrutiny of RB's compliance with the DFL 50+1 rule; UEFA multi-club-ownership conditions applied to Red Bull clubs entering the same competition; Jürgen Klopp's role as Red Bull Head of Global Soccer (since 2025) drew public criticism in Germany. No further institution-level controversies verified for 2025/26.",
+    "languages": [
+      "de",
+      "en"
+    ],
+    "wage_structure": "hierarchical within a strict Red Bull wage ceiling; refuses to match Bayern/Dortmund top salaries",
+    "transfer_policy": "buy young, sell at peak: Yan Diomandé sold to Real Madrid for up to EUR 140m incl. bonuses (club record) in summer 2026; Maxime Estève bought from Burnley for EUR 25m; seven new signings reported after Werner's departure",
+    "injury_management_reputation": null
+  },
+  "last_season_2025_26": {
+    "league_position": 3,
+    "points": null,
+    "played": 34,
+    "won": null,
+    "drawn": null,
+    "lost": null,
+    "goals_for": null,
+    "goals_against": null,
+    "xg_for": null,
+    "xg_against": null,
+    "possession_pct": null,
+    "ucl_result": "Did not play in Europe in 2025/26 (finished 7th in 2024/25)",
+    "domestic_cup": "DFB-Pokal: quarter-final",
+    "top_scorer": {
+      "name": "Christoph Baumgartner",
+      "goals": 13
+    },
+    "top_assister": {
+      "name": null,
+      "assists": null
+    }
+  },
+  "summer_2026_window": {
+    "arrivals": [
+      {
+        "name": "Maxime Estève",
+        "from": "Burnley",
+        "fee_eur_m": 25,
+        "position": "CB"
+      },
+      {
+        "name": "Eljif Elmas",
+        "from": "Napoli (loan return)",
+        "fee_eur_m": 0,
+        "position": "AM"
+      },
+      {
+        "name": "Loïs Openda",
+        "from": "Juventus (loan return)",
+        "fee_eur_m": 0,
+        "position": "ST"
+      },
+      {
+        "name": "Lutsharel Geertruida",
+        "from": "Sunderland (loan return)",
+        "fee_eur_m": 0,
+        "position": "CB"
+      }
+    ],
+    "departures": [
+      {
+        "name": "Yan Diomandé",
+        "to": "Real Madrid",
+        "fee_eur_m": 140,
+        "position": "RW"
+      }
+    ],
+    "net_spend_eur_m": null
+  },
+  "squad": [
+    {
+      "name": "Christoph Baumgartner",
+      "position": "AM",
+      "secondary_positions": [
+        "RW",
+        "CM"
+      ],
+      "age": 27,
+      "nationality": "AUT",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 13,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Maxime Estève",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 24,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Eljif Elmas",
+      "position": "AM",
+      "secondary_positions": [
+        "CM",
+        "LW"
+      ],
+      "age": 26,
+      "nationality": "MKD",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Loïs Openda",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": 26,
+      "nationality": "BEL",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Lutsharel Geertruida",
+      "position": "CB",
+      "secondary_positions": [
+        "RB",
+        "DM"
+      ],
+      "age": 26,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    }
+  ],
+  "strengths": [
+    "Third in the Bundesliga with 1.95 pts/game under Werner despite a full rebuild.",
+    "Financial firepower from the Diomandé sale (up to EUR 140m) and Red Bull backing.",
+    "Baumgartner (13 league / 17 total goals) provides goals from midfield.",
+    "Deep young talent pipeline via the Red Bull network."
+  ],
+  "weaknesses": [
+    "Coaching discontinuity: third head coach in three seasons; Demichelis has no Bundesliga or Champions League experience.",
+    "Loss of Diomandé removes the main wide creative outlet; replacements' quality unverified.",
+    "Loan returnees (Openda, Elmas, Geertruida) were surplus a year ago and their integration is uncertain.",
+    "No European football in 2025/26 means the squad has no recent experience of the midweek/weekend rhythm."
+  ],
+  "positional_needs": [
+    {
+      "position": "RW",
+      "priority": "high",
+      "profile": "explosive 1v1 winger, 19-23, resale value",
+      "reason": "Yan Diomandé sold to Real Madrid",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    },
+    {
+      "position": "ST",
+      "priority": "medium",
+      "profile": "pressing 9 with 15+ goal ceiling",
+      "reason": "Openda's return from Juventus loan is the only verified striker movement",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    },
+    {
+      "position": "DM",
+      "priority": "medium",
+      "profile": "ball-winning 6 who can build from deep in a possession system",
+      "reason": "Demichelis' positional style places heavier build-up demands on the pivot",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    }
+  ],
+  "position_benchmarks": {
+    "ST": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "shots_p90": null,
+      "pressures_p90": null
+    },
+    "CM": {
+      "pass_completion_pct": null,
+      "progressive_passes_p90": null,
+      "tackles_interceptions_p90": null
+    },
+    "CB": {
+      "aerials_won_pct": null,
+      "tackles_interceptions_p90": null,
+      "progressive_passes_p90": null
+    }
+  },
+  "sources": [
+    "https://sports.yahoo.com/articles/leipzig-face-blockbuster-champions-league-204550680.html",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-champions-league-europa-draw-fixtures-results-bayern-dortmund-38801",
+    "https://onefootball.com/en/news/champions-league-draw-bayern-dortmund-leipzig-and-stuttgart-learn-league-phase-opponents-43350978",
+    "https://www.bundesliga.com/en/bundesliga/news/rb-leipzig-ole-werner-part-ways-coach-37831",
+    "https://www.nst.com.my/amp/sports/football/2026/06/1466897/rb-leipzig-sack-coach-werner",
+    "https://www.goal.com/en-us/lists/rb-leipzig-appoint-new-boss-ex-man-city-bayern-star-jurgen-klopp-backing/bltc829f7bb2fe5963a",
+    "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bundesliga_2025/26",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_RB_Leipzig_season",
+    "https://www.sportschau.de/fussball/bundesliga/die-transfers-rb-leipzig-zur-saison-2026-27,wechselboerse-rb-leipzig-saison-26-27-100.html",
+    "https://www.goal.com/de/meldungen/rb-leipzig-sieben-neue-spieler-nach-werner-abgang/dpugu97a2or51oj797y6q3vsg"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "SQUAD IS PARTIAL: only players whose presence in the 2026/27 squad is supported by a source found during research are listed; a full 20-26 man squad, shirt numbers, contract dates and per-player 2025/26 minutes could not be retrieved because the research session lost web access (search budget exhausted; fetch to transfermarkt/fbref/uefa/club sites blocked). Ages are computed from publicly known birth dates. Verified: 3rd place (secured matchday 33), coach Demichelis (June 2026, to 2028) after Werner's sacking, UCL opponents with venues, DFB-Pokal QF, Baumgartner 13/17 goals, Diomandé sale (up to EUR 140m) and Estève purchase (EUR 25m), loan returns of Elmas/Openda/Geertruida. NOT verified: final points, W/D/L, goals for/against (a 40-pt/5th-place snippet found was a mid-season table and was discarded), the other reported new signings, Demichelis' formation, top assister. 'No Europe in 2025/26' rests on the 2024/25 7th-place finish (general knowledge)."
+  }
+}

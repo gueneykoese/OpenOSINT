@@ -1,0 +1,553 @@
+{
+  "club_id": "lens",
+  "name": "Racing Club de Lens",
+  "short_name": "Lens",
+  "country": "FRA",
+  "league": "Ligue 1",
+  "city": "Lens",
+  "ucl_2026_27": {
+    "pot": 4,
+    "qualified_via": "Ligue 1 2025/26 runner-up (direct league-phase entry)",
+    "opponents_home": [
+      "Manchester City",
+      "Sporting CP",
+      "Bodø/Glimt",
+      "Como 1907"
+    ],
+    "opponents_away": [
+      "Liverpool",
+      "Club Brugge",
+      "RB Leipzig",
+      "Sparta Prague"
+    ]
+  },
+  "head_coach": {
+    "name": "Dino Toppmöller",
+    "since": "2026-06",
+    "nationality": "GER",
+    "preferred_formation": null,
+    "style_keywords": [
+      "Nagelsmann-school pressing",
+      "vertical transitions",
+      "flexible back three/four"
+    ]
+  },
+  "identity": {
+    "playing_style": "Under Pierre Sage in 2025/26 Lens combined Ligue 1's best defence (35 GA) with a productive attack (66 GF) and an 8-game winning run; Thauvin was the creative hub (14 G / 10 A all comps). Toppmöller (ex-Eintracht Frankfurt, ex-Nagelsmann assistant) arrives with a pressing, transition-based background; his Lens formation is not yet verifiable.",
+    "principles": [
+      "trading model: record sale Sangaré EUR 48m to Brentford",
+      "recruit undervalued Ligue 1 / Belgian / Bundesliga profiles (Cuisance, Skóraś, Nawrocki, Titraoui)",
+      "Polish market niche",
+      "club-trained returnees (Hazard)"
+    ],
+    "club_character": "Working-class mining-region club with one of France's loudest fan bases (Bollaert-Delelis); owned by Joseph Oughourlian (Amber Capital) since 2016/18; first Coupe de France in club history won May 2026.",
+    "ownership": "private / financier (Joseph Oughourlian, Amber Capital) - widely reported, not re-verified this session",
+    "political_and_social_context": "Lens's fan groups and the club have been publicly involved in French debates on supporter travel bans and stadium security; no 2026 institution-level controversy surfaced in this session's sources.",
+    "languages": [
+      "fr",
+      "en",
+      "pl"
+    ],
+    "wage_structure": "unknown",
+    "transfer_policy": "Sell one big asset per summer (Sangaré 2026), reinvest across 4-5 mid-priced signings (EUR 3-8m range; Skóraś EUR 6m + 0.75m bonuses).",
+    "injury_management_reputation": null
+  },
+  "last_season_2025_26": {
+    "league_position": 2,
+    "points": 70,
+    "played": 34,
+    "won": 22,
+    "drawn": 4,
+    "lost": 8,
+    "goals_for": 66,
+    "goals_against": 35,
+    "xg_for": null,
+    "xg_against": null,
+    "possession_pct": null,
+    "ucl_result": "No European competition in 2025/26",
+    "domestic_cup": "Winner (Coupe de France, 3-1 vs Nice, 22 May 2026)",
+    "top_scorer": {
+      "name": "Florian Thauvin",
+      "goals": 11
+    },
+    "top_assister": {
+      "name": null,
+      "assists": null
+    }
+  },
+  "summer_2026_window": {
+    "arrivals": [
+      {
+        "name": "Michaël Cuisance",
+        "from": "Hertha BSC",
+        "fee_eur_m": null,
+        "position": "CM"
+      },
+      {
+        "name": "Thorgan Hazard",
+        "from": null,
+        "fee_eur_m": null,
+        "position": "LW"
+      },
+      {
+        "name": "Michał Skóraś",
+        "from": "KAA Gent",
+        "fee_eur_m": 6,
+        "position": "RW"
+      },
+      {
+        "name": "Maik Nawrocki",
+        "from": "Celtic",
+        "fee_eur_m": null,
+        "position": "CB"
+      },
+      {
+        "name": "Yacine Titraoui",
+        "from": "Charleroi",
+        "fee_eur_m": null,
+        "position": "CM"
+      }
+    ],
+    "departures": [
+      {
+        "name": "Mamadou Sangaré",
+        "to": "Brentford",
+        "fee_eur_m": 48,
+        "position": "DM"
+      },
+      {
+        "name": "Adrien Thomasson",
+        "to": null,
+        "fee_eur_m": null,
+        "position": "AM"
+      },
+      {
+        "name": "Wesley Saïd",
+        "to": null,
+        "fee_eur_m": null,
+        "position": "ST"
+      }
+    ],
+    "net_spend_eur_m": null
+  },
+  "squad": [
+    {
+      "name": "Robin Risser",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Mathew Ryan",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "AUS",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Jonathan Gradit",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Malang Sarr",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Maik Nawrocki",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "POL",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Samson Baidoo",
+      "position": "CB",
+      "secondary_positions": [
+        "RB"
+      ],
+      "age": null,
+      "nationality": "AUT",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ruben Aguilar",
+      "position": "RB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Matthieu Udol",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Deiver Machado",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "COL",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Michaël Cuisance",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Yacine Titraoui",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ALG",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Hamzat Ojediran",
+      "position": "DM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "NGA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Florian Thauvin",
+      "position": "AM",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": null,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": 37,
+        "starts": null,
+        "minutes": null,
+        "goals": 14,
+        "assists": 10
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Michał Skóraś",
+      "position": "RW",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "POL",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Thorgan Hazard",
+      "position": "LW",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": null,
+      "nationality": "BEL",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Odsonne Édouard",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Florian Sotoca",
+      "position": "ST",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": null,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Morgan Guilavogui",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "GUI",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    }
+  ],
+  "strengths": [
+    "Best defence in Ligue 1 2025/26 (35 GA in 34) - structured, hard to break down.",
+    "Winning habit: 8 straight league wins, runners-up, first Coupe de France title.",
+    "Thauvin as an elite Ligue 1 creator (14 G / 10 A) still in the squad.",
+    "Bollaert atmosphere is a genuine home advantage for the four home UCL games.",
+    "Financially healthy after EUR 48m Sangaré sale."
+  ],
+  "weaknesses": [
+    "Coach change in June 2026 (Sage to Premier League, Toppmöller in): new principles must be installed while playing UCL for the first time since 2023/24.",
+    "Sangaré's departure removes the midfield's ball-winner and engine; Cuisance/Titraoui are different profiles.",
+    "Thomasson and Saïd out - loss of experienced depth in the front line.",
+    "Thauvin is 33 and Hazard 33: the creative unit is ageing.",
+    "Squad list beyond the confirmed arrivals/departures could not be verified for 2026/27."
+  ],
+  "positional_needs": [
+    {
+      "position": "DM",
+      "priority": "high",
+      "profile": "box-to-box destroyer, 21-26, high resale",
+      "reason": "Sangaré sold for EUR 48m; no like-for-like replacement",
+      "budget_eur_m": 15,
+      "wage_ceiling_eur_m_net": 2
+    },
+    {
+      "position": "AM",
+      "priority": "medium",
+      "profile": "young creator to succeed Thauvin (33)",
+      "reason": "Thauvin/Hazard both 33; Thomasson gone",
+      "budget_eur_m": 12,
+      "wage_ceiling_eur_m_net": 1.8
+    },
+    {
+      "position": "ST",
+      "priority": "medium",
+      "profile": "mobile finisher, 22-26",
+      "reason": "Saïd departed; reliance on Édouard/Sotoca",
+      "budget_eur_m": 15,
+      "wage_ceiling_eur_m_net": 2
+    }
+  ],
+  "position_benchmarks": {
+    "AM": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "key_passes_p90": null,
+      "progressive_carries_p90": null
+    },
+    "DM": {
+      "pass_completion_pct": null,
+      "progressive_passes_p90": null,
+      "tackles_interceptions_p90": null
+    },
+    "CB": {
+      "aerials_won_pct": null,
+      "tackles_interceptions_p90": null,
+      "progressive_passes_p90": null
+    },
+    "ST": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "shots_p90": null,
+      "pressures_p90": null
+    }
+  },
+  "sources": [
+    "https://dicodusport.fr/blog/ligue-des-champions-2026-2027-tirage-au-sort-et-adversaires-de-lens/",
+    "https://dicodusport.fr/blog/ligue-des-champions-2026-2027-dates-matchs-et-calendrier-de-lens/",
+    "https://www.footmercato.net/a1841809922617172936-ligue-des-champions-le-rc-lens-reagit-au-tirage-au-sort",
+    "https://fr.wikipedia.org/wiki/Saison_2025-2026_du_Racing_Club_de_Lens",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Ligue_1",
+    "https://www.ski-nordique.net/classement-ligue-1-2025-2026-psg-champion-lens-et-lille-en-ldc-sports-infos.6724042-72348.html",
+    "https://en.wikipedia.org/wiki/2026_Coupe_de_France_final",
+    "https://www.franceinfo.fr/sports/foot/coupe-de-france/le-rc-lens-remporte-la-premiere-coupe-de-france-de-son-histoire-en-dominant-l-ogc-nice-dans-un-stade-de-france-en-fusion_8021714.html",
+    "https://www.rclens.fr/fr/dino-toppmoller-nouvel-entraineur-rclens-20260616",
+    "https://www.franceinfo.fr/sports/foot/mercato/football-l-allemand-dino-toppmoller-nomme-nouvel-entraineur-de-lens_8062964.html",
+    "https://www.lensois.com/departs-recrues-prets-le-bilan-complet-du-mercato-estival-du-rc-lens/",
+    "https://www.madeinlens.com/tableau-mercato/ete-2026.html",
+    "https://dicodusport.fr/blog/mercato-lens-2026-2027-le-tableau-complet-des-transferts-arrivees-et-departs/",
+    "https://www.lensois.com/le-bilan-de-la-saison-2025-2026-des-joueurs-du-rc-lens-florian-thauvin/",
+    "https://www.lensois.com/florian-thauvin-meilleur-buteur-de-ligue-1-en-activite-et-proche-des-100-realisations/"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Coach (appointed 16 Jun 2026, contract to 2028), league record (2nd, 70 pts, 22-4-8, 66-35), Coupe de France win, Sangaré sale and named arrivals verified via snippets. Opponent conflict: one dicodusport list names 'Slavia Prague' as an away opponent while the same site's fixture calendar shows MD1 at Sparta Prague on 10 Sep 2026 - Sparta Prague used here; verify against uefa.com. Squad: only Thauvin, Cuisance, Hazard, Skóraś, Nawrocki, Titraoui are confirmed 2026/27; Risser, Ryan, Gradit, Sarr, Baidoo, Aguilar, Udol, Machado, Ojediran, Édouard, Sotoca, Guilavogui carried from 2025/26 and NOT re-verified. Thauvin stats: 14 G / 10 A in 37 apps all comps, 11 league goals. Hazard's origin club, Thomasson's and Saïd's destinations, most fees, ages and shirt numbers unavailable. Top assister and formation under Toppmöller not found."
+  }
+}

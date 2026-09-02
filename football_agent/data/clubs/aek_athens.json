@@ -1,0 +1,596 @@
+{
+  "club_id": "aek_athens",
+  "name": "AEK Athens FC",
+  "short_name": "AEK",
+  "country": "GRE",
+  "league": "Super League Greece",
+  "city": "Athens",
+  "ucl_2026_27": {
+    "pot": 4,
+    "qualified_via": "Super League Greece 2025/26 champion; won UCL play-off round vs Levski Sofia",
+    "opponents_home": [
+      "Real Madrid",
+      "AS Roma",
+      "Galatasaray",
+      "LASK"
+    ],
+    "opponents_away": [
+      "Manchester City",
+      "Borussia Dortmund",
+      "Shakhtar Donetsk",
+      "Como 1907"
+    ]
+  },
+  "head_coach": {
+    "name": "Marko Nikolić",
+    "since": "2025-06",
+    "nationality": "SRB",
+    "preferred_formation": null,
+    "style_keywords": [
+      "organised mid-block",
+      "defensive solidity (21 GA in 32)",
+      "direct transitions"
+    ]
+  },
+  "identity": {
+    "playing_style": "Under Nikolić AEK won the 2025/26 title on the back of the league's best defence (21 goals conceded in 32 games) while still scoring 72; the team is compact without the ball and attacks quickly through wide players (Zubkov, Kutesa) feeding a target striker (Jović/Varga). Formation was not verifiable from this session's sources.",
+    "principles": [
+      "experienced-import model (players 26-31 from mid-tier European leagues)",
+      "domestic title as core objective",
+      "European progress used as revenue lever (Conference League semi-final 2025/26)"
+    ],
+    "club_character": "Historic Athens club with a fervent, demanding fan base (Original 21) and a high-pressure Greek media environment; Agia Sophia Stadium (Nea Filadelfeia) opened 2022.",
+    "ownership": "private owner (majority shareholder Marios Iliopoulos since 2024 - not re-verified in this session)",
+    "political_and_social_context": "Greek football has a documented history of fan-violence and governance disputes involving the big Athens/Thessaloniki clubs; AEK's refugee-origin identity (founded 1924 by Constantinople Greeks) is central to the club's public self-image. No institution-level controversy from 2026 surfaced in this session's sources.",
+    "languages": [
+      "el",
+      "en"
+    ],
+    "wage_structure": "unknown",
+    "transfer_policy": "Summer 2026 pattern: modest fees (EUR 2.5-6m) for experienced midfielders/wingers (Majer, Zubkov, Kairinen, Arriaga, Vitalis) plus loans (Alexiou from Inter) and one significant sale (Pineda EUR 8m).",
+    "injury_management_reputation": null
+  },
+  "last_season_2025_26": {
+    "league_position": 1,
+    "points": 57,
+    "played": 32,
+    "won": 20,
+    "drawn": 9,
+    "lost": 2,
+    "goals_for": 72,
+    "goals_against": 21,
+    "xg_for": null,
+    "xg_against": null,
+    "possession_pct": null,
+    "ucl_result": "Did not play UCL; UEFA Conference League semi-final (lost 3-4 agg to Rayo Vallecano)",
+    "domestic_cup": "Quarter-final",
+    "top_scorer": {
+      "name": null,
+      "goals": null
+    },
+    "top_assister": {
+      "name": null,
+      "assists": null
+    }
+  },
+  "summer_2026_window": {
+    "arrivals": [
+      {
+        "name": "Lovro Majer",
+        "from": "VfL Wolfsburg",
+        "fee_eur_m": 6,
+        "position": "AM"
+      },
+      {
+        "name": "Oleksandr Zubkov",
+        "from": "Trabzonspor",
+        "fee_eur_m": 4,
+        "position": "RW"
+      },
+      {
+        "name": "Kaan Kairinen",
+        "from": "Sparta Prague",
+        "fee_eur_m": 4,
+        "position": "CM"
+      },
+      {
+        "name": "Kervin Arriaga",
+        "from": "Levante",
+        "fee_eur_m": 3,
+        "position": "DM"
+      },
+      {
+        "name": "Milán Vitális",
+        "from": "ETO FC Győr",
+        "fee_eur_m": 2.5,
+        "position": "CM"
+      },
+      {
+        "name": "Christos Alexiou",
+        "from": "Inter (loan)",
+        "fee_eur_m": 0,
+        "position": "CB"
+      },
+      {
+        "name": "Charalampos Lykogiannis",
+        "from": "Bologna (free)",
+        "fee_eur_m": 0,
+        "position": "LB"
+      }
+    ],
+    "departures": [
+      {
+        "name": "Orbelín Pineda",
+        "to": "CF Monterrey",
+        "fee_eur_m": 8,
+        "position": "AM"
+      },
+      {
+        "name": "Niclas Eliasson",
+        "to": "Internacional (loan)",
+        "fee_eur_m": 0.3,
+        "position": "LW"
+      },
+      {
+        "name": "James Penrice",
+        "to": "Rangers (loan)",
+        "fee_eur_m": 0.5,
+        "position": "LB"
+      },
+      {
+        "name": "Robert Ljubičić",
+        "to": "LASK (loan)",
+        "fee_eur_m": 0,
+        "position": "CM"
+      },
+      {
+        "name": "Jens Jønsson",
+        "to": "AGF Aarhus (free)",
+        "fee_eur_m": 0,
+        "position": "DM"
+      },
+      {
+        "name": "Marko Grujić",
+        "to": "Levski Sofia (free)",
+        "fee_eur_m": 0,
+        "position": "CM"
+      },
+      {
+        "name": "Konstantinos Chrysopoulos",
+        "to": "Asteras Tripolis",
+        "fee_eur_m": 0.4,
+        "position": "CB"
+      }
+    ],
+    "net_spend_eur_m": null
+  },
+  "squad": [
+    {
+      "name": "Thomas Strakosha",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ALB",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Lazaros Rota",
+      "position": "RB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "GRE",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Harold Moukoudi",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "CMR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Filipe Relvas",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "POR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Domagoj Vida",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "CRO",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Christos Alexiou",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 21,
+      "nationality": "GRE",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Charalampos Lykogiannis",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "GRE",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Kervin Arriaga",
+      "position": "DM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "HON",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Răzvan Marin",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ROU",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Kaan Kairinen",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "FIN",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Milán Vitális",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "HUN",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Lovro Majer",
+      "position": "AM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": null,
+      "nationality": "CRO",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Petros Mantalos",
+      "position": "AM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "GRE",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Oleksandr Zubkov",
+      "position": "RW",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": null,
+      "nationality": "UKR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Dereck Kutesa",
+      "position": "LW",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "SUI",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Aboubakary Koita",
+      "position": "LW",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "SEN",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Luka Jović",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "SRB",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Barnabás Varga",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "HUN",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Frantzdy Pierrot",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "HAI",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    }
+  ],
+  "strengths": [
+    "Best defence in Greece in 2025/26 (21 GA in 32) - a low-block, low-error structure that travels well in Europe (Conference League semi-final).",
+    "Continuity: title-winning coach Nikolić extended to 2029 (June 2026), so the system is stable entering the UCL.",
+    "Midfield depth rebuilt with four experienced arrivals (Majer, Kairinen, Arriaga, Vitális) replacing departed Pineda/Grujić/Jønsson/Ljubičić.",
+    "Home fortress at Agia Sophia; four home UCL games incl. Real Madrid and Roma give revenue and motivation."
+  ],
+  "weaknesses": [
+    "Squad is old for a Pot-4 club: core forwards/defenders (Jović, Vida, Moukoudi, Mantalos) are 28-33 - limited resale value and athletic decline risk over a 40+ game season.",
+    "Loss of Pineda's creativity; Majer and Zubkov must adapt immediately to a new league.",
+    "Left-back is thin after Penrice's loan exit (Lykogiannis, 33, arrived on a free).",
+    "Step up from Conference League to UCL Pot-1/2 opposition (City, Real, Dortmund) exposes limited pace in the back line."
+  ],
+  "positional_needs": [
+    {
+      "position": "LB",
+      "priority": "high",
+      "profile": "athletic, 22-27, can defend 1v1 against elite wingers",
+      "reason": "Penrice loaned out; only Lykogiannis (33) added",
+      "budget_eur_m": 4,
+      "wage_ceiling_eur_m_net": 1
+    },
+    {
+      "position": "CB",
+      "priority": "medium",
+      "profile": "quick, left-sided, 22-26 with resale value",
+      "reason": "Vida/Moukoudi ageing; Alexiou only on loan",
+      "budget_eur_m": 5,
+      "wage_ceiling_eur_m_net": 1.2
+    },
+    {
+      "position": "ST",
+      "priority": "medium",
+      "profile": "mobile pressing forward, under 26",
+      "reason": "Jović (28) and Varga (31) are target-man types; no young succession",
+      "budget_eur_m": 6,
+      "wage_ceiling_eur_m_net": 1.5
+    }
+  ],
+  "position_benchmarks": {
+    "CB": {
+      "aerials_won_pct": null,
+      "tackles_interceptions_p90": null,
+      "progressive_passes_p90": null
+    },
+    "CM": {
+      "pass_completion_pct": null,
+      "progressive_passes_p90": null,
+      "tackles_interceptions_p90": null
+    },
+    "ST": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "shots_p90": null,
+      "pressures_p90": null
+    },
+    "LW": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "dribbles_p90": null,
+      "shots_p90": null
+    }
+  },
+  "sources": [
+    "https://www.uefa.com/uefachampionsleague/news/02a8-216cd740d41f-fd3b45ac4a0f-1000--champions-league-league-phase-draw-all-36-teams-learn-their/",
+    "https://www.uefa.com/uefachampionsleague/match/2049558--aek-athens-vs-lask/",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Super_League_Greece",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_AEK_Athens_F.C._season",
+    "https://www.slgr.gr/en/scoreboard/24/",
+    "https://www.aekfc.gr/newsdetails/o-marko-nikolits-neos-proponitis-tis-aek-132621.htm?lang=en",
+    "https://en.wikipedia.org/wiki/Marko_Nikoli%C4%87_(football_manager)",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Greek_Football_Cup",
+    "https://www.fotmob.com/teams/8563/transfers/aek-athens",
+    "https://www.espn.com/soccer/team/transfers/_/id/887/aek-athens",
+    "https://www.espn.com/soccer/team/squad/_/id/887/aek-athens",
+    "https://greekreporter.com/2026/05/11/aek-athens-crowned-2025-26-greek-super-league-champions/"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Coach, league table line, cup, Conference League run and UCL opponents verified via search snippets. Squad: arrivals and Jović/Zubkov/Kutesa/Varga/Majer/Kairinen/Marin/Moukoudi confirmed by a Sept-2026 squad snippet; Strakosha, Rota, Relvas, Vida, Mantalos, Koita, Pierrot are carried from the 2025/26 squad and NOT re-verified for 2026/27. Ages, shirt numbers, contracts and per-player 2025/26 stats unavailable (data sites blocked). One ESPN-derived snippet listed Pineda/Kairinen/Chrysopoulos ambiguously as 'signings'; the fotmob-derived in/out split (Pineda OUT to Monterrey, Kairinen IN from Sparta, Chrysopoulos OUT) was used and is corroborated by LASK's arrivals list (Ljubičić from AEK). Formation and top scorer/assister not found. Ownership statement not re-verified this session."
+  }
+}

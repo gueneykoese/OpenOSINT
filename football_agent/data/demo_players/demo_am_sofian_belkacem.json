@@ -1,0 +1,93 @@
+{
+  "player_id": "demo_am_sofian_belkacem",
+  "name": "Sofian Belkacem (demo)",
+  "age": 27,
+  "date_of_birth": "1999-06-18",
+  "nationality": [
+    "FRA",
+    "ALG"
+  ],
+  "position": "AM",
+  "secondary_positions": [
+    "CM",
+    "RW"
+  ],
+  "preferred_foot": "left",
+  "height_cm": 176,
+  "current_club": "Demo Stade Rennais",
+  "current_club_league": "Ligue 1",
+  "contract_until": 2027,
+  "market_value_eur_m": 20,
+  "estimated_fee_eur_m": 22,
+  "wage_eur_m_net": 2.5,
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Ligue 1",
+    "apps": 31,
+    "starts": 28,
+    "minutes": 2410,
+    "goals": 8,
+    "assists": 11,
+    "xg": 6.9,
+    "xa": 9.2,
+    "shots_p90": 2.2,
+    "key_passes_p90": 2.6,
+    "dribbles_p90": 2.0,
+    "tackles_interceptions_p90": 1.5,
+    "pass_completion_pct": 85,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": 3.8
+  },
+  "style_profile": {
+    "tags": [
+      "creative no. 10",
+      "carrier with end product",
+      "left-footed",
+      "between the lines"
+    ],
+    "best_system": [
+      "4-2-3-1",
+      "4-3-3"
+    ],
+    "weak_in": [
+      "pressing intensity"
+    ]
+  },
+  "mental_profile": {
+    "leadership": 4,
+    "coachability": 3,
+    "resilience": 4,
+    "discipline": 3,
+    "notes": "Synthetic: public disagreement with a former coach over role (2024)."
+  },
+  "injury_history": [
+    {
+      "type": "calf",
+      "season": "2025/26",
+      "days_out": 38
+    }
+  ],
+  "off_pitch": {
+    "languages": [
+      "fr",
+      "ar",
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [
+      "Synthetic: spoke publicly on a social cause in 2025."
+    ],
+    "commercial_profile": null,
+    "notes": "synthetic"
+  },
+  "release_clause_eur_m": null,
+  "agent_status": "represented_by_us",
+  "sources": [
+    "synthetic://football_agent/demo"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "synthetic",
+    "notes": "FICTIONAL demo profile used only to exercise the matching engine. Not a real person; all numbers are invented and plausible for the stated league. Never present as scouting data."
+  }
+}

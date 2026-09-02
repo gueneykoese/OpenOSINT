@@ -1,0 +1,703 @@
+{
+  "club_id": "psg",
+  "name": "Paris Saint-Germain FC",
+  "short_name": "PSG",
+  "country": "FRA",
+  "league": "Ligue 1",
+  "city": "Paris",
+  "ucl_2026_27": {
+    "pot": 1,
+    "qualified_via": "UEFA Champions League 2025/26 holders; Ligue 1 2025/26 champions",
+    "opponents_home": [
+      "FC Barcelona",
+      "AS Roma",
+      "Galatasaray",
+      "Slovan Bratislava"
+    ],
+    "opponents_away": [
+      "Manchester City",
+      "Aston Villa",
+      "Villarreal",
+      "Como"
+    ]
+  },
+  "head_coach": {
+    "name": "Luis Enrique",
+    "since": "2023-07",
+    "nationality": "ESP",
+    "preferred_formation": "4-3-3",
+    "style_keywords": [
+      "positional play",
+      "high press",
+      "possession dominance",
+      "fluid front three",
+      "full-backs inverted/advanced",
+      "collective without a No.9 focal point"
+    ]
+  },
+  "identity": {
+    "playing_style": "Under Luis Enrique PSG play a possession-heavy 4-3-3 with an aggressive counter-press, technical midfield (Vitinha, Joao Neves, Fabian Ruiz) and interchanging forwards rather than a fixed striker. The side that won back-to-back Champions Leagues (2024/25, 2025/26) is built on collective pressing and young, mobile attackers; the 2026 signing of Ferran Torres and Akliouche continues the preference for versatile forwards over a classic target man.",
+    "principles": [
+      "post-Galactico collective project (since 2023)",
+      "young French/European talent with resale value",
+      "sell surplus attackers at premium fees (Ramos, Lee, Kolo Muani, Barcola in 2026)",
+      "coach-led sporting model (Luis Enrique + Luis Campos)"
+    ],
+    "club_character": "State-linked ownership with effectively unlimited backing but now operating under UEFA squad-cost rules; enormous media pressure in Paris; Parc des Princes ultras (CUP) vocal; club has pivoted from star signings to a collective identity and is now a reigning double European champion.",
+    "ownership": "Qatar Sports Investments (state-linked, sovereign wealth), owner since 2011",
+    "political_and_social_context": "Ownership by Qatar Sports Investments has been publicly debated in the context of Qatar's human-rights record and 'sportswashing' criticism; PSG has faced UEFA Financial Fair Play scrutiny (settlements in 2014 and investigations 2017-18). President Nasser Al-Khelaifi also chairs the European Club Association. Long-running public dispute with the city of Paris over ownership of the Parc des Princes and possible stadium relocation.",
+    "languages": [
+      "fr",
+      "es",
+      "pt",
+      "en"
+    ],
+    "wage_structure": "hierarchical, but flattened since 2023 after the departure of Messi/Neymar/Mbappe",
+    "transfer_policy": "Buy young high-ceiling players (mostly under 25) for large fees, sell surplus attackers at profit; no longer star-driven; Luis Campos as football advisor",
+    "injury_management_reputation": "Publicly documented: strong medical/performance staff investment; Ousmane Dembele's muscle injuries and Nuno Mendes/Hakimi absences were recurring stories in 2025/26, but no systemic criticism of the department."
+  },
+  "last_season_2025_26": {
+    "league_position": 1,
+    "points": 76,
+    "played": 34,
+    "won": 24,
+    "drawn": 4,
+    "lost": 6,
+    "goals_for": 74,
+    "goals_against": 29,
+    "xg_for": null,
+    "xg_against": null,
+    "possession_pct": null,
+    "ucl_result": "Winner (beat Arsenal 1-1, 4-3 pens, Budapest 30 May 2026)",
+    "domestic_cup": "Coupe de France: eliminated by Paris FC (0-1, 12 Jan 2026); Trophee des Champions 2026 lost 0-1 to Lens (16 Aug 2026)",
+    "top_scorer": {
+      "name": "Bradley Barcola",
+      "goals": 11
+    },
+    "top_assister": {
+      "name": null,
+      "assists": null
+    }
+  },
+  "summer_2026_window": {
+    "arrivals": [
+      {
+        "name": "Ferran Torres",
+        "from": "FC Barcelona",
+        "fee_eur_m": null,
+        "position": "ST"
+      },
+      {
+        "name": "Maghnes Akliouche",
+        "from": "AS Monaco",
+        "fee_eur_m": null,
+        "position": "RW"
+      },
+      {
+        "name": "Lucas Digne",
+        "from": "Aston Villa",
+        "fee_eur_m": null,
+        "position": "LB"
+      },
+      {
+        "name": "Mika Godts",
+        "from": "Ajax",
+        "fee_eur_m": null,
+        "position": "LW"
+      }
+    ],
+    "departures": [
+      {
+        "name": "Bradley Barcola",
+        "to": "Liverpool",
+        "fee_eur_m": 123,
+        "position": "LW"
+      },
+      {
+        "name": "Goncalo Ramos",
+        "to": "AC Milan",
+        "fee_eur_m": 70,
+        "position": "ST"
+      },
+      {
+        "name": "Lee Kang-in",
+        "to": "Atletico Madrid",
+        "fee_eur_m": 40,
+        "position": "AM"
+      },
+      {
+        "name": "Randal Kolo Muani",
+        "to": "Juventus (loan with obligation)",
+        "fee_eur_m": 45,
+        "position": "ST"
+      },
+      {
+        "name": "Noham Kamara",
+        "to": null,
+        "fee_eur_m": null,
+        "position": "CB"
+      },
+      {
+        "name": "Noah Nsoki",
+        "to": "Dinamo",
+        "fee_eur_m": null,
+        "position": "DM"
+      }
+    ],
+    "net_spend_eur_m": null
+  },
+  "squad": [
+    {
+      "name": "Lucas Chevalier",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 24,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 30,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Matvei Safonov",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 27,
+      "nationality": "RUS",
+      "contract_until": null,
+      "shirt_no": 39,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Renato Marin",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 20,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Marquinhos",
+      "position": "CB",
+      "secondary_positions": [
+        "DM"
+      ],
+      "age": 32,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": 5,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Willian Pacho",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 24,
+      "nationality": "ECU",
+      "contract_until": null,
+      "shirt_no": 51,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Illia Zabarnyi",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 23,
+      "nationality": "UKR",
+      "contract_until": null,
+      "shirt_no": 6,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Lucas Beraldo",
+      "position": "CB",
+      "secondary_positions": [
+        "LB"
+      ],
+      "age": 22,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": 35,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Lucas Hernandez",
+      "position": "CB",
+      "secondary_positions": [
+        "LB"
+      ],
+      "age": 30,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 21,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Achraf Hakimi",
+      "position": "RB",
+      "secondary_positions": [],
+      "age": 27,
+      "nationality": "MAR",
+      "contract_until": null,
+      "shirt_no": 2,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Nuno Mendes",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": 24,
+      "nationality": "POR",
+      "contract_until": null,
+      "shirt_no": 25,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Lucas Digne",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": 33,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 12,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Vitinha",
+      "position": "CM",
+      "secondary_positions": [
+        "DM"
+      ],
+      "age": 26,
+      "nationality": "POR",
+      "contract_until": null,
+      "shirt_no": 17,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Joao Neves",
+      "position": "CM",
+      "secondary_positions": [
+        "DM"
+      ],
+      "age": 21,
+      "nationality": "POR",
+      "contract_until": null,
+      "shirt_no": 87,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Fabian Ruiz",
+      "position": "CM",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": 30,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 8,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Warren Zaire-Emery",
+      "position": "CM",
+      "secondary_positions": [
+        "RB"
+      ],
+      "age": 20,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 33,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Senny Mayulu",
+      "position": "AM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": 20,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 24,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Dro Fernandez",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": 18,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ousmane Dembele",
+      "position": "RW",
+      "secondary_positions": [
+        "ST",
+        "LW"
+      ],
+      "age": 29,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 10,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Desire Doue",
+      "position": "RW",
+      "secondary_positions": [
+        "LW",
+        "AM"
+      ],
+      "age": 21,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 14,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Khvicha Kvaratskhelia",
+      "position": "LW",
+      "secondary_positions": [],
+      "age": 25,
+      "nationality": "GEO",
+      "contract_until": null,
+      "shirt_no": 7,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ferran Torres",
+      "position": "ST",
+      "secondary_positions": [
+        "RW",
+        "LW"
+      ],
+      "age": 26,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 9,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Maghnes Akliouche",
+      "position": "RW",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": 24,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 11,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Mika Godts",
+      "position": "LW",
+      "secondary_positions": [],
+      "age": 21,
+      "nationality": "BEL",
+      "contract_until": null,
+      "shirt_no": 22,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ibrahim Mbaye",
+      "position": "RW",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": 18,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 49,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    }
+  ],
+  "strengths": [
+    "Reigning back-to-back European champions with the same coach and core (Vitinha, Neves, Hakimi, Mendes, Marquinhos, Dembele, Doue, Kvaratskhelia) - continuity is rare at this level",
+    "Best attack (74) and best defence (29 conceded) in Ligue 1 2025/26; league title with a game to spare for a fifth straight season",
+    "Elite young ball-playing midfield (Vitinha 26, Neves 21, Zaire-Emery 20, Mayulu 20) suited to Luis Enrique's positional game",
+    "Squad-cost discipline: roughly EUR 250m+ raised from sales of surplus attackers in 2026, funding reinvestment without FFP exposure"
+  ],
+  "weaknesses": [
+    "Loss of Barcola (top league scorer, 11) and of three back-up strikers (Ramos, Kolo Muani) thins the goal supply; Ferran Torres is a versatile forward rather than a proven 25-goal No.9",
+    "Marquinhos (32) and Lucas Hernandez (30) are ageing at CB; depth behind Pacho/Zabarnyi is young (Beraldo 22)",
+    "Recurring muscle injuries for Dembele and full-back absences (Mendes/Hakimi) in 2025/26 exposed a thin back-up at full-back - the 33-year-old Digne is a short-term fix",
+    "Domestic complacency risk: cup exit to Paris FC and Trophee des Champions defeat to Lens in Aug 2026 show vulnerability in one-off games"
+  ],
+  "positional_needs": [
+    {
+      "position": "ST",
+      "priority": "high",
+      "profile": "mobile, pressing centre-forward with 0.5+ goals p90, 21-26, comfortable in fluid front three",
+      "reason": "Barcola, Ramos and Kolo Muani all left in 2026; Torres is the only senior striker profile",
+      "budget_eur_m": 80,
+      "wage_ceiling_eur_m_net": 12
+    },
+    {
+      "position": "CB",
+      "priority": "medium",
+      "profile": "left-footed ball-playing CB, 21-25, high resale value",
+      "reason": "Marquinhos 32 and Hernandez 30; Kamara departed; succession planning",
+      "budget_eur_m": 50,
+      "wage_ceiling_eur_m_net": 7
+    },
+    {
+      "position": "LB",
+      "priority": "low",
+      "profile": "young athletic LB to understudy Nuno Mendes",
+      "reason": "Digne (33) signed as a one-to-two-season stopgap",
+      "budget_eur_m": 25,
+      "wage_ceiling_eur_m_net": 4
+    }
+  ],
+  "position_benchmarks": {
+    "ST": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "shots_p90": null,
+      "pressures_p90": null
+    },
+    "CM": {
+      "pass_completion_pct": null,
+      "progressive_passes_p90": null,
+      "tackles_interceptions_p90": null
+    },
+    "LW": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "dribbles_p90": null,
+      "shots_p90": null
+    },
+    "CB": {
+      "aerials_won_pct": null,
+      "tackles_interceptions_p90": null,
+      "progressive_passes_p90": null
+    }
+  },
+  "sources": [
+    "https://www.aljazeera.com/sports/2026/8/27/psg-to-face-barcelona-man-city-and-villa-in-champions-league-as-draw-made",
+    "https://www.psg.fr/en/content/uefa-champions-league-pariss-league-phase-opponents-confirmed-paris-saint-germain-20262027",
+    "https://www.flashscore.com/news/champions-league-2026-draw-schedule/8WQf6s3e/",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Ligue_1",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Paris_Saint-Germain_FC_season",
+    "https://www.psg.fr/en/content/pr-paris-saint-germain-crowned-as-french-champions-for-fifth-time-in-a-row",
+    "https://www.espn.com/soccer/match/_/gameId/746713/paris-saint-germain-paris-fc",
+    "https://www.espn.com/soccer/story/_/id/48756809/psg-lens-ligue-1-title-france-champions-record-luis-enrique",
+    "https://en.wikipedia.org/wiki/2026_UEFA_Champions_League_final",
+    "https://www.olympics.com/en/news/football-uefa-mens-champions-league-final-2026-arsenal-psg-results",
+    "https://www.espn.com/soccer/match/_/gameId/401843549/paris-fc-paris-saint-germain",
+    "https://en.wikipedia.org/wiki/2026_Troph%C3%A9e_des_Champions",
+    "https://www.beinsports.com/en-us/soccer/articles/psg-pushes-until-the-end-but-10-man-lens-holds-on-to-win-troph%C3%A9e-des-champions-with-zidane-watching-2026-08-16",
+    "https://www.footyheadlines.com/2644551323/official-psg-26-27-squad-numbers-confirmed.html",
+    "https://www.psg.fr/en/mens-football/squad",
+    "https://www.psg.fr/en/content/bradley-barcola-signs-for-liverpool-fc-psg-mercato-news-2026-2027",
+    "https://www.espn.com/soccer/story/_/id/49750588/bradley-barcola-joins-liverpool-123-million-move-paris-saint-germain",
+    "https://sports.yahoo.com/articles/breaking-psg-forward-randal-kolo-140513214.html",
+    "https://www.getfootballnewsfrance.com/2026/lee-kang-in-and-goncalo-ramos-seek-psg-exits/",
+    "https://news.footeo.com/2026/07/26/ramos-et-lee-pour-120-me-comment-le-psg-sest-transforme-en-vendeur-redoutable-sur-le-mercato-dete-6108",
+    "https://sports.yahoo.com/articles/lu-campos-says-psg-transfer-141000837.html",
+    "https://www.foxsports.com/stories/soccer/psg-president-laughs-off-doubts-over-luis-enriques-future-as-blockbuster-renewal-looms-in-wake-of-champions-league-final-success"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Coach, UCL draw, league title, UCL win, cup exits, W/D/L/points and the four arrivals + four main sales are source-verified from search snippets. One snippet gave 73 league goals vs. 74 in the final-record snippet; 74/29/76 retained. Arrival fees, Kamara's destination, Ibrahim Mbaye's status (exit was reported as possible; kept in squad), top assister and all per-player stats unverified. Copa round of the Paris FC exit not confirmed. Squad = last known first-team roster adjusted ONLY for summer-2026 moves that were source-verified; further unreported exits/loans may be missing. Per-player 2025/26 stats left null unless a source gave the number. Ages computed from public birthdates as of 2026-09-02. Research constraint: web fetch was blocked on all data sites (transfermarkt, fbref, uefa, wikipedia, club sites) and only search snippets were available."
+  }
+}

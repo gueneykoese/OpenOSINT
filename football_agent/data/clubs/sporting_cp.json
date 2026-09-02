@@ -1,0 +1,77 @@
+{
+  "club_id": "sporting_cp",
+  "name": "Sporting Clube de Portugal",
+  "short_name": "Sporting CP",
+  "country": "POR",
+  "league": "Liga Portugal",
+  "city": "Lisbon",
+  "ucl_2026_27": {
+    "pot": 2,
+    "qualified_via": null,
+    "opponents_home": [
+      "LASK"
+    ],
+    "opponents_away": [
+      "Lens",
+      "Man City"
+    ]
+  },
+  "head_coach": {
+    "name": null,
+    "since": null,
+    "nationality": null,
+    "preferred_formation": null,
+    "style_keywords": []
+  },
+  "identity": {
+    "playing_style": null,
+    "principles": [],
+    "club_character": null,
+    "ownership": null,
+    "political_and_social_context": null,
+    "languages": [
+      "pt",
+      "en"
+    ],
+    "wage_structure": null,
+    "transfer_policy": null,
+    "injury_management_reputation": null
+  },
+  "last_season_2025_26": {
+    "league_position": null,
+    "points": null,
+    "played": null,
+    "won": null,
+    "drawn": null,
+    "lost": null,
+    "goals_for": null,
+    "goals_against": null,
+    "xg_for": null,
+    "xg_against": null,
+    "possession_pct": null,
+    "ucl_result": null,
+    "domestic_cup": null,
+    "top_scorer": null,
+    "top_assister": null
+  },
+  "summer_2026_window": {
+    "arrivals": [],
+    "departures": [],
+    "net_spend_eur_m": null
+  },
+  "squad": [],
+  "strengths": [],
+  "weaknesses": [],
+  "positional_needs": [],
+  "position_benchmarks": {},
+  "sources": [
+    "https://www.uefa.com/uefachampionsleague/news/02a8-215821715a96-9a3b43fad585-1000--uefa-champions-league-league-phase-draw/",
+    "https://bleacherreport.com/articles/25489784-champions-league-draw-2026-27-schedule-dates-league-phase-fixtures",
+    "https://www.espn.com/soccer/story/_/id/49736233/champions-league-phase-draw-seeding-pots-2026-2027"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "SKELETON — not researched: the session's web-search budget was exhausted before this club was reached and the egress proxy blocks football data sites. Only the pot (UEFA/ESPN pot announcement) and the draw opponents cross-referenced from other researched club files are recorded; opponent lists are therefore PARTIAL (only fixtures visible from the other side). Squad, coach, 2025/26 numbers and needs must be researched before this club can be used for matching."
+  }
+}

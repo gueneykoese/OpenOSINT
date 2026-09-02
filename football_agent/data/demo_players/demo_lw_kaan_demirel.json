@@ -1,0 +1,91 @@
+{
+  "player_id": "demo_lw_kaan_demirel",
+  "name": "Kaan Demirel (demo)",
+  "age": 23,
+  "date_of_birth": "2003-04-11",
+  "nationality": [
+    "TUR",
+    "GER"
+  ],
+  "position": "LW",
+  "secondary_positions": [
+    "AM"
+  ],
+  "preferred_foot": "left",
+  "height_cm": 178,
+  "current_club": "Demo SC Freiburg",
+  "current_club_league": "Bundesliga",
+  "contract_until": 2027,
+  "market_value_eur_m": 28,
+  "estimated_fee_eur_m": 35,
+  "wage_eur_m_net": 2.2,
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": 32,
+    "starts": 30,
+    "minutes": 2610,
+    "goals": 12,
+    "assists": 7,
+    "xg": 10.4,
+    "xa": 6.1,
+    "shots_p90": 2.9,
+    "key_passes_p90": 1.8,
+    "dribbles_p90": 2.4,
+    "tackles_interceptions_p90": 1.1,
+    "pass_completion_pct": 81,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": 4.2
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed inverted winger",
+      "high press",
+      "1v1 dribbler",
+      "runs in behind",
+      "positional possession"
+    ],
+    "best_system": [
+      "4-3-3 high press",
+      "4-2-3-1"
+    ],
+    "weak_in": [
+      "low block target man role"
+    ]
+  },
+  "mental_profile": {
+    "leadership": 3,
+    "coachability": 5,
+    "resilience": 4,
+    "discipline": 4,
+    "notes": "Synthetic: two yellow cards all season; coach quotes praise work rate."
+  },
+  "injury_history": [
+    {
+      "type": "hamstring",
+      "season": "2024/25",
+      "days_out": 31
+    }
+  ],
+  "off_pitch": {
+    "languages": [
+      "tr",
+      "de",
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": "mid-size social reach",
+    "notes": "synthetic"
+  },
+  "release_clause_eur_m": null,
+  "agent_status": "represented_by_us",
+  "sources": [
+    "synthetic://football_agent/demo"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "synthetic",
+    "notes": "FICTIONAL demo profile used only to exercise the matching engine. Not a real person; all numbers are invented and plausible for the stated league. Never present as scouting data."
+  }
+}
