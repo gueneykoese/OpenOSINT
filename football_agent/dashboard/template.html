@@ -107,6 +107,37 @@ figure{margin:0}figcaption{font-size:12px;color:var(--ink3);margin-top:6px}
 .kv{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;font-size:13px}
 .kv dt{color:var(--ink3)}.kv dd{margin:0}
 @media (prefers-reduced-motion:no-preference){.cand .bar i,.dims .bar i{transition:width .35s ease}}
+
+/* ---- FM-inspired pitch & cards ---- */
+.pitchwrap{background:#0f2a1a;border-radius:12px;padding:10px;position:relative}
+.pitchwrap svg{width:100%;height:auto;display:block}
+.pitchwrap svg text{fill:#f3fff4}
+.pitchwrap svg text.ini{fill:inherit}
+.tok{cursor:pointer}
+.tok:focus-visible circle.body{stroke:#fff;stroke-width:3}
+.bench{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}
+.bt{display:inline-flex;align-items:center;gap:6px;background:var(--panel2);border:1px solid var(--line);border-radius:999px;padding:3px 9px 3px 4px;font-size:12px}
+.bt .av{width:20px;height:20px;border-radius:50%;display:grid;place-items:center;font-size:9px;font-weight:700;color:#fff}
+.crest{width:56px;height:56px;border-radius:50%;display:grid;place-items:center;font-family:var(--display);font-weight:700;font-size:18px;color:#fff;border:3px solid;box-shadow:0 2px 8px rgba(0,0,0,.25);flex:none}
+.crest.sm{width:28px;height:28px;font-size:10px;border-width:2px;box-shadow:none}
+.avatar{width:84px;height:84px;border-radius:14px;display:grid;place-items:center;font-family:var(--display);font-weight:700;font-size:30px;color:#fff;background:linear-gradient(135deg,var(--s1),var(--s3));flex:none;overflow:hidden;position:relative}
+.avatar img{width:100%;height:100%;object-fit:cover}
+.avatar small{position:absolute;bottom:4px;right:6px;font-family:var(--body);font-size:9px;opacity:.85}
+.hero.player{grid-template-columns:auto 1fr auto;align-items:center}
+@media (max-width:900px){.hero.player{grid-template-columns:auto 1fr}}
+.pitchdeck{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+@media (max-width:900px){.pitchdeck{grid-template-columns:1fr}}
+.deck{border:1px solid var(--line);border-radius:10px;padding:12px 14px;background:var(--panel2);cursor:pointer;text-align:left;font:inherit;color:inherit}
+.deck[aria-selected="true"]{border-color:var(--accent);box-shadow:inset 0 0 0 1px var(--accent)}
+.deck .h{display:flex;align-items:center;gap:8px;margin-bottom:6px}
+.deck .h b{font-family:var(--display);font-size:18px;font-weight:600}
+.deck .sc{margin-left:auto;font-family:var(--display);font-size:26px;font-weight:700;color:var(--accent-ink)}
+.deck ul{margin:0;padding-left:16px;font-size:12px;color:var(--ink2)}
+.offer{display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:8px;margin-top:8px}
+.offer div{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:8px 10px}
+.offer b{display:block;font-family:var(--display);font-size:22px;font-weight:600;line-height:1}
+.offer span{font-size:10.5px;text-transform:uppercase;letter-spacing:.06em;color:var(--ink3)}
+.ribbon{display:inline-block;background:var(--accent);color:#fff;font-size:10.5px;text-transform:uppercase;letter-spacing:.08em;padding:3px 9px;border-radius:4px;font-weight:600}
 </style>
 
 <header class="top">
@@ -125,36 +156,37 @@ figure{margin:0}figcaption{font-size:12px;color:var(--ink3);margin-top:6px}
   <section id="view-club">
     <div class="chips" id="clubChips"></div>
     <div id="clubHero" class="hero"></div>
-    <div class="grid g2">
-      <div class="card"><h3>Kadro haritası: yaş × pozisyon</h3><p class="sub">Her nokta bir oyuncu. Dolu nokta ilk 11, boş nokta rotasyon/yedek. Üzerine gelin.</p><div id="squadDot"></div></div>
-      <div class="card"><h3>Sözleşme bitiş yılları</h3><p class="sub">Kaç oyuncunun sözleşmesi hangi yaz bitiyor. 2027 çubuğu bu sezonun pazarlık kaldıracı.</p><div id="contractBars"></div></div>
-    </div>
     <div class="grid g21">
-      <div>
-        <div class="card"><h3>Pozisyonel ihtiyaçlar ve önerilen adaylar</h3><p class="sub">Öncelik şeridi: kırmızı yüksek, amber orta. Adaya tıklayın; sağda 8 boyutlu analiz açılır.</p><div class="needs" id="needs"></div></div>
-        <div class="grid g2">
-          <div class="card"><h3>Artılar</h3><ul class="plain" id="strengths"></ul></div>
-          <div class="card"><h3>Eksiler</h3><ul class="plain" id="weaknesses"></ul></div>
-        </div>
-        <div class="card"><h3>Kimlik ve bağlam</h3><div id="identity"></div></div>
-        <div class="card"><h3>Güncel kadro</h3><div class="tw" id="squadTable"></div></div>
-      </div>
+      <div class="card"><h3>Saha görünümü: ilk 11, boşluklar ve önerilerimiz</h3><p class="sub">Dolu tokenlar mevcut ilk 11 (kulüp renkleri). Kesik halkalar kulübün açık ihtiyaçları; halkaya tıklayın, o pozisyon için temsil ettiğimiz adaylar aşağıda ve sağda açılır. Amber kenar: sözleşme 2027. Kırmızı: sakat.</p>
+        <div class="pitchwrap" id="pitch"></div><div class="bench" id="bench"></div></div>
       <div class="detail" id="clubDetail"></div>
     </div>
+    <div class="card" style="margin-top:16px"><h3>Önerdiğimiz oyuncular</h3><p class="sub">Her ihtiyaç için temsil havuzumuzdan en iyi 3 aday. Karta tıklayın; sağ üstteki analiz güncellenir.</p><div class="needs" id="needs"></div></div>
+    <div class="grid g2">
+      <div class="card"><h3>Sözleşme bitiş yılları</h3><p class="sub">2027 çubuğu bu sezonun pazarlık kaldıracı.</p><div id="contractBars"></div></div>
+      <div class="card"><h3>Yaş × pozisyon dağılımı</h3><p class="sub">Dolu nokta ilk 11; gölgeli bant zirve yaş 23–29.</p><div id="squadDot"></div></div>
+    </div>
+    <div class="grid g2">
+      <div class="card"><h3>Artılar</h3><ul class="plain" id="strengths"></ul></div>
+      <div class="card"><h3>Eksiler</h3><ul class="plain" id="weaknesses"></ul></div>
+    </div>
+    <div class="card" style="margin-top:16px"><h3>Kimlik ve bağlam</h3><div id="identity"></div></div>
+    <div class="card" style="margin-top:16px"><h3>Güncel kadro</h3><div class="tw" id="squadTable"></div></div>
   </section>
 
   <!-- ================= PLAYER VIEW ================= -->
   <section id="view-player" class="hidden">
     <div class="row" style="margin-bottom:10px"><input class="search" id="pSearch" placeholder="Oyuncu ara…" aria-label="Oyuncu ara"><div class="chips" id="posChips" style="margin:0"></div></div>
     <div class="chips" id="playerChips"></div>
-    <div id="playerHero" class="hero"></div>
+    <div id="playerHero" class="hero player"></div>
+    <div class="card" style="margin-top:16px"><h3>Pazarlama özeti: bu oyuncu hangi kulübe, neden?</h3><p class="sub">Motorun ilk 3 kulübü; her kartta eşleşmeyi taşıyan iki boyut. Karta tıklayın, aşağıdaki analiz o kulübe geçer.</p><div class="pitchdeck" id="deck"></div></div>
     <div class="grid g2">
-      <div class="card"><h3>En uygun kulüpler</h3><p class="sub">Motorun sıraladığı ilk 6 kulüp. Çubuğa tıklayın; sağdaki analiz o kulübe geçer.</p><div id="clubBars"></div></div>
+      <div class="card"><h3>En uygun kulüpler</h3><p class="sub">Motorun sıraladığı ilk 6 kulüp. Çubuğa tıklayın.</p><div id="clubBars"></div></div>
       <div class="card" id="playerDetailCard"><h3>Eşleşme analizi</h3><div id="playerDetail"></div></div>
     </div>
     <div class="grid g2">
       <div class="card"><h3>Kültürel mesafe (Hofstede 5-D)</h3><p class="sub" id="hofSub"></p><div id="hofChart"></div></div>
-      <div class="card"><h3>Profil</h3><div id="playerProfile"></div></div>
+      <div class="card"><h3>Profil ve teklif çerçevesi</h3><div id="playerProfile"></div></div>
     </div>
   </section>
 
@@ -245,6 +277,42 @@ function bindTips(root){ root.querySelectorAll('[data-tip]').forEach(el => { el.
 function setRole(r){ document.querySelectorAll('.roles button').forEach(b => b.setAttribute('aria-selected', b.dataset.role === r)); ['club','player','agent'].forEach(v => $('#view-'+v).classList.toggle('hidden', v !== r)); store.set('role', r); if (r === 'agent') drawAgent(); }
 document.querySelectorAll('.roles button').forEach(b => b.addEventListener('click', () => setRole(b.dataset.role)));
 
+// ---- club colours (public kit colours; crests are generated monograms — real logos are trademarks and need a licence)
+const KIT = {arsenal:['#EF0107','#FFFFFF','ARS'],bayern_munich:['#DC052D','#FFFFFF','FCB'],inter:['#010E80','#000000','INT'],liverpool:['#C8102E','#00B2A9','LIV'],manchester_city:['#6CABDD','#1C2C5B','MCI'],psg:['#004170','#DA291C','PSG'],real_madrid:['#FEBE10','#FFFFFF','RMA'],barcelona:['#A50044','#004D98','FCB'],atletico_madrid:['#CB3524','#272E61','ATM'],borussia_dortmund:['#FDE100','#000000','BVB'],roma:['#8E1F2F','#F0BC42','ROM'],sporting_cp:['#008057','#FFFFFF','SCP'],aston_villa:['#670E36','#95BFE5','AVL'],porto:['#003893','#FFFFFF','FCP'],manchester_united:['#DA291C','#FBE122','MUN'],club_brugge:['#0055A4','#000000','CLB'],real_betis:['#00954C','#FFFFFF','BET'],psv:['#ED1C24','#FFFFFF','PSV'],feyenoord:['#E30613','#FFFFFF','FEY'],lille:['#E01E13','#FFFFFF','LOSC'],bodo_glimt:['#FFD500','#000000','BOD'],napoli:['#12A0D7','#FFFFFF','NAP'],rb_leipzig:['#DD0741','#FFFFFF','RBL'],villarreal:['#FFE667','#005187','VIL'],fenerbahce:['#FFED00','#00205B','FB'],shakhtar_donetsk:['#F26F21','#000000','SHK'],galatasaray:['#A90432','#FDB912','GS'],slavia_praha:['#E1000F','#FFFFFF','SLA'],slovan_bratislava:['#7BB0E2','#FFFFFF','SLO'],stuttgart:['#E32219','#FFFFFF','VfB'],aek_athens:['#FFD200','#000000','AEK'],lask:['#000000','#FFFFFF','LASK'],como:['#0B3D91','#FFFFFF','COM'],lens:['#EC1C24','#FFD200','RCL'],viking:['#0B2A6B','#FFFFFF','VIK'],sabah:['#1F4E9C','#FFFFFF','SAB']};
+const kit = id => KIT[id] || ['#5B6B8C','#FFFFFF',(D.clubs[id]?.short||id).slice(0,3).toUpperCase()];
+const textOn = hex => { const c=hex.replace('#',''); const r=parseInt(c.slice(0,2),16),g=parseInt(c.slice(2,4),16),b=parseInt(c.slice(4,6),16); return (0.299*r+0.587*g+0.114*b)>170?'#111':'#fff'; };
+const crest = (id, sm=false) => { const [p,sec,ab]=kit(id); return `<span class="crest ${sm?'sm':''}" style="background:${p};border-color:${sec};color:${textOn(p)}" aria-hidden="true">${ab}</span>`; };
+const initials = n => n.split(/\s+/).filter(Boolean).map(w=>w[0]).slice(0,2).join('').toUpperCase();
+// pitch coordinates (percent of 100×64 pitch, attacking left→right)
+const SLOT = {GK:[[6,50]],CB:[[20,36],[20,64],[20,50]],LB:[[24,10]],RB:[[24,90]],DM:[[38,50],[38,36],[38,64]],CM:[[50,34],[50,66],[50,50]],AM:[[63,50],[63,34],[63,66]],LW:[[74,14]],RW:[[74,86]],ST:[[88,50],[88,36],[88,64]]};
+function pitchSVG(c){
+  const [p,sec]=kit(c.id); const W=1000,H=640; const X=v=>v/100*W, Y=v=>v/100*H;
+  let s=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(c.name)} ilk 11 saha görünümü ve açık ihtiyaçlar">
+  <defs><linearGradient id="grass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d7a3a"/><stop offset="1" stop-color="#1f5f2c"/></linearGradient>
+  <pattern id="stripes" width="${W/10}" height="${H}" patternUnits="userSpaceOnUse"><rect width="${W/20}" height="${H}" fill="#ffffff" fill-opacity=".04"/></pattern></defs>
+  <rect width="${W}" height="${H}" fill="url(#grass)"/><rect width="${W}" height="${H}" fill="url(#stripes)"/>
+  <g fill="none" stroke="#e8f5e9" stroke-opacity=".7" stroke-width="2.5">
+   <rect x="20" y="20" width="${W-40}" height="${H-40}"/><line x1="${W/2}" y1="20" x2="${W/2}" y2="${H-20}"/><circle cx="${W/2}" cy="${H/2}" r="70"/>
+   <rect x="20" y="${H/2-160}" width="150" height="320"/><rect x="20" y="${H/2-70}" width="50" height="140"/><path d="M170 ${H/2-60} A70 70 0 0 1 170 ${H/2+60}"/>
+   <rect x="${W-170}" y="${H/2-160}" width="150" height="320"/><rect x="${W-70}" y="${H/2-70}" width="50" height="140"/><path d="M${W-170} ${H/2-60} A70 70 0 0 0 ${W-170} ${H/2+60}"/>
+  </g>`;
+  // starters per position
+  const used={}; const starters=c.squad.filter(q=>(q.role||'')==='starter'&&SLOT[q.pos]);
+  const byPos={}; starters.forEach(q=>(byPos[q.pos]=byPos[q.pos]||[]).push(q));
+  Object.entries(byPos).forEach(([pos,list])=>{ list.slice(0,SLOT[pos].length).forEach((q,i)=>{ const [x,y]=SLOT[pos][i]; used[pos]=(used[pos]||0)+1;
+    const ring = q.inj ? 'var(--crit)' : (q.contract===2027 ? '#F5B14C' : sec);
+    s+=`<g class="tok" tabindex="0" data-tip="<b>${esc(q.name)}</b>${pos} · ${na(q.age)} yaş · sözleşme ${na(q.contract)} · ${na(q.apps)} maç, ${na(q.g)} gol, ${na(q.a)} asist${q.inj?'<br>⚑ '+esc(q.inj):''}">
+      <circle class="body" cx="${X(x)}" cy="${Y(y)}" r="26" fill="${p}" stroke="${ring}" stroke-width="${q.inj||q.contract===2027?5:3}"/>
+      <text x="${X(x)}" y="${Y(y)+5}" font-size="15" font-weight="700" text-anchor="middle" style="font-family:var(--display);fill:${textOn(p)}">${esc(initials(q.name))}</text>
+      <text x="${X(x)}" y="${Y(y)+46}" font-size="13" font-weight="600" text-anchor="middle" style="fill:#ffffff;paint-order:stroke;stroke:#0f2a1a;stroke-width:3px">${esc(q.name.split(' ').slice(-1)[0])}</text>
+      ${q.age!=null?`<circle cx="${X(x)+22}" cy="${Y(y)-20}" r="11" fill="#0f2a1a"/><text x="${X(x)+22}" y="${Y(y)-16}" font-size="11" text-anchor="middle" class="mono" style="fill:#fff">${q.age}</text>`:''}</g>`; }); });
+  // need rings
+  c.needs.forEach(n=>{ const slots=SLOT[n.pos||n.position]; if(!slots) return; const k=used[n.position]||0; const [x,y]=slots[Math.min(k,slots.length-1)]; const col=n.priority==='high'?'#ff6b5b':n.priority==='medium'?'#F5B14C':'#cfe3d3'; const dy=k>=slots.length?-56:0;
+    s+=`<g class="tok need" data-pos="${n.position}" tabindex="0" data-tip="<b>İHTİYAÇ ${n.position} · ${PRIO[n.priority]} öncelik</b>${esc(n.profile)}<br>${esc(n.reason)}"><circle cx="${X(x)}" cy="${Y(y)+dy}" r="30" fill="${col}" fill-opacity=".18" stroke="${col}" stroke-width="3" stroke-dasharray="7 5"/><text x="${X(x)}" y="${Y(y)+dy+5}" font-size="14" font-weight="700" text-anchor="middle" style="font-family:var(--display);fill:${col}">${n.position}</text><text x="${X(x)}" y="${Y(y)+dy-38}" font-size="11" font-weight="600" text-anchor="middle" style="fill:${col};text-transform:uppercase;letter-spacing:.06em">ihtiyaç</text></g>`; });
+  s+=`<text x="${W-30}" y="${H-30}" font-size="12" text-anchor="end" style="fill:#e8f5e9;fill-opacity:.85">${esc(c.short)} · ${esc(c.formation||'')} · ${starters.length} ilk 11 oyuncusu kaynaklı</text>`;
+  return s+'</svg>';
+}
+
 // ---- shared: radar + dimension list
 function radar(dims, size=260){
   const cx=size/2, cy=size/2, R=size/2-34, n=dims.length;
@@ -270,8 +338,9 @@ function matchDetail(r, title, sub){
 }
 
 // =========================== CLUB VIEW ===========================
-const clubIds = D.usable.slice().sort((a,b)=>(D.clubs[a].pot-D.clubs[b].pot)||D.clubs[a].name.localeCompare(D.clubs[b].name));
-$('#clubChips').innerHTML = `<span class="lbl">Kulüp</span>` + clubIds.map(id=>`<button class="chip" data-id="${id}" aria-selected="false"><span class="dot ${esc(D.clubs[id].confidence)}"></span>${esc(D.clubs[id].short)} <span style="color:var(--ink3);font-size:11px">P${D.clubs[id].pot}</span></button>`).join('');
+const clubIds = Object.keys(D.clubs).sort((a,b)=>((D.clubs[a].pot||9)-(D.clubs[b].pot||9))||D.clubs[a].name.localeCompare(D.clubs[b].name));
+const usableIds = D.usable.slice().sort((a,b)=>(D.clubs[a].pot-D.clubs[b].pot)||D.clubs[a].name.localeCompare(D.clubs[b].name));
+$('#clubChips').innerHTML = [1,2,3,4].map(pot=>`<span class="lbl">Pot ${pot}</span>`+clubIds.filter(id=>D.clubs[id].pot===pot).map(id=>`<button class="chip" data-id="${id}" aria-selected="false" style="${D.clubs[id].usable?'':'opacity:.65'}" title="${D.clubs[id].usable?'':'veri toplanıyor'}"><span class="dot ${esc(D.clubs[id].confidence)}"></span>${esc(D.clubs[id].short)}</button>`).join('')).join('<span style="flex-basis:100%;height:0"></span>');
 $('#clubChips').addEventListener('click', e => { const b = e.target.closest('.chip'); if (b) showClub(b.dataset.id); });
 
 function squadDotPlot(c){
@@ -304,19 +373,25 @@ function showClub(id){
   curClub=id; store.set('club',id); const c=D.clubs[id], L=c.last||{};
   document.querySelectorAll('#clubChips .chip').forEach(b=>b.setAttribute('aria-selected', b.dataset.id===id));
   const eu=(L.ucl_result||'').split('(')[0].trim();
-  $('#clubHero').innerHTML=`<div><h2>${esc(c.name)}</h2><p class="meta">${esc(c.league)} · Pot ${c.pot} · Teknik direktör <b>${na(c.coach)}</b> · Sistem ${na(c.formation)} · ${tag(c.confidence)}</p>
+  c.id=id;
+  $('#clubHero').innerHTML=`<div style="display:flex;gap:16px;align-items:flex-start">${crest(id)}<div><span class="ribbon">Kulüp dosyası</span><h2 style="margin-top:6px">${esc(c.name)}</h2><p class="meta">${esc(c.league)} · Pot ${c.pot} · Teknik direktör <b>${na(c.coach)}</b> · Sistem ${na(c.formation)} · ${tag(c.confidence)}</p>
     <p class="meta"><b>ŞL 26/27</b> İç: ${(c.opp_home||[]).map(esc).join(', ')||'—'} · Dış: ${(c.opp_away||[]).map(esc).join(', ')||'—'}</p>
-    <p class="meta">${c.style.map(esc).join(' · ')}</p></div>
+    <p class="meta">${c.style.map(esc).join(' · ')}</p></div></div>
     <div class="tiles"><div class="tile"><b>${na(L.league_position)}</b><span>lig sırası 25/26</span></div><div class="tile"><b>${na(L.points)}</b><span>puan</span></div><div class="tile"><b>${na(L.won)}-${na(L.drawn)}-${na(L.lost)}</b><span>G-B-M</span></div><div class="tile"><b>${na(L.goals_for)}/${na(L.goals_against)}</b><span>atılan/yenilen</span></div><div class="tile"><b style="font-size:14px;line-height:1.3">${esc(eu||'—')}</b><span>Avrupa 25/26</span></div><div class="tile"><b style="font-size:14px;line-height:1.3">${L.top_scorer?esc(L.top_scorer.name)+' '+na(L.top_scorer.goals):'—'}</b><span>gol kralı</span></div></div>`;
   $('#squadDot').innerHTML=squadDotPlot(c); $('#contractBars').innerHTML=contractBars(c);
+  $('#pitch').innerHTML=pitchSVG(c);
+  const benchList=c.squad.filter(q=>(q.role||'')!=='starter'); const [kp]=kit(id);
+  $('#bench').innerHTML=benchList.length?`<span class="lbl" style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--ink3);align-self:center">Yedek / rotasyon</span>`+benchList.map(q=>`<span class="bt" tabindex="0" data-tip="<b>${esc(q.name)}</b>${q.pos} · ${na(q.age)} yaş · ${na(q.role)} · sözleşme ${na(q.contract)}"><span class="av" style="background:${kp};color:${textOn(kp)}">${esc(initials(q.name))}</span>${esc(q.name.split(' ').slice(-1)[0])} <span style="color:var(--ink3)">${q.pos}</span></span>`).join(''):'';
+  document.querySelectorAll('#pitch .need').forEach(g=>{ const go=()=>{ const first=document.querySelector(`#needs .cand[data-pos="${g.dataset.pos}"]`); if(first){ selectCand(first.dataset.pid, first.dataset.pos); first.closest('.need').scrollIntoView({behavior:'smooth',block:'center'}); } }; g.addEventListener('click',go); g.addEventListener('keydown',e=>{if(e.key==='Enter'){go();}}); });
   $('#needs').innerHTML=c.needs.map(n=>{ const recs=c.recs[n.position]||[]; return `<div class="need ${esc(n.priority)}"><h4>${esc(n.position)} <span class="tag prio-${esc(n.priority)}">${PRIO[n.priority]} öncelik</span></h4><div class="prof">${esc(n.profile)}<br><span style="color:var(--ink3)">Neden: ${esc(n.reason)}</span><br><span class="mono" style="font-family:var(--mono);font-size:11.5px">bütçe ${n.budget==null?'—':n.budget+' M€'} · maaş tavanı ${n.wage==null?'—':n.wage+' M€ net'}</span></div>
-    ${recs.length?recs.map(r=>`<button class="cand" data-pid="${r.player_id}" data-pos="${n.position}"><span class="nm">${esc(r.player_name)}<small>${esc(D.players[r.player_id]?.club||'')} · ${VERD[r.verdict]}</small></span><span class="bar"><i style="width:${r.total}%"></i></span><span class="val">${r.total.toFixed(0)}</span></button>`).join(''):'<p class="empty">Havuzda bu pozisyonda aday yok.</p>'}</div>`; }).join('');
+    ${recs.length?recs.map(r=>`<button class="cand" data-pid="${r.player_id}" data-pos="${n.position}"><span class="nm" style="display:flex;gap:8px;align-items:center"><span class="av" style="width:26px;height:26px;border-radius:8px;background:linear-gradient(135deg,var(--s1),var(--s3));color:#fff;display:grid;place-items:center;font-size:10px;font-weight:700;flex:none">${esc(initials(r.player_name))}</span><span style="min-width:0">${esc(r.player_name)}<small>${esc(D.players[r.player_id]?.club||'')} · ${VERD[r.verdict]}</small></span></span><span class="bar"><i style="width:${r.total}%"></i></span><span class="val">${r.total.toFixed(0)}</span></button>`).join(''):'<p class="empty">Havuzda bu pozisyonda aday yok.</p>'}</div>`; }).join('');
   $('#strengths').innerHTML=c.strengths.map(s=>`<li>${esc(s)}</li>`).join('')||'<li class="empty">—</li>';
   $('#weaknesses').innerHTML=c.weaknesses.map(s=>`<li>${esc(s)}</li>`).join('')||'<li class="empty">—</li>';
   const w=c.window||{}; const win=[...(w.arrivals||[]).map(a=>`<li><b>IN</b> ${esc(a.name)} (${esc(a.position)}) ← ${na(a.from)} · ${a.fee_eur_m==null?'—':a.fee_eur_m+' M€'}</li>`),...(w.departures||[]).map(a=>`<li><b>OUT</b> ${esc(a.name)} (${esc(a.position)}) → ${na(a.to)} · ${a.fee_eur_m==null?'—':a.fee_eur_m+' M€'}</li>`)];
   $('#identity').innerHTML=`<p style="max-width:80ch;margin:0 0 8px">${esc(c.playing_style)}</p>${c.principles.length?`<p class="sub">Prensipler: ${c.principles.map(esc).join(' · ')}</p>`:''}<p class="sub" style="max-width:80ch">${esc(c.character)}</p>${win.length?`<details><summary>Yaz 2026 penceresi (${win.length})</summary><ul class="plain" style="font-size:12.5px">${win.join('')}</ul></details>`:''}<details><summary>Veri notu ve kaynaklar (${c.sources.length})</summary><p class="sub">${esc(c.notes)}</p><ul class="plain" style="font-size:11.5px;word-break:break-all">${c.sources.map(s=>`<li><a href="${esc(s)}" target="_blank" rel="noopener">${esc(s)}</a></li>`).join('')}</ul></details>`;
   $('#squadTable').innerHTML=`<table><tr><th>Oyuncu</th><th>Poz</th><th class="num">Yaş</th><th>Uyruk</th><th class="num">Sözl.</th><th>Rol</th><th class="num">Maç</th><th class="num">G</th><th class="num">A</th></tr>${c.squad.map(p=>`<tr><td>${esc(p.name)}${p.inj?' <span class="tag low">sakat</span>':''}</td><td>${esc(p.pos)}</td><td class="num">${na(p.age)}</td><td>${na(p.nat)}</td><td class="num">${na(p.contract)}</td><td>${na(p.role)}</td><td class="num">${na(p.apps)}</td><td class="num">${na(p.g)}</td><td class="num">${na(p.a)}</td></tr>`).join('')}</table>`;
-  const first=$('#needs .cand'); if(first) selectCand(first.dataset.pid, first.dataset.pos); else $('#clubDetail').innerHTML='<h3>Eşleşme analizi</h3><p class="empty">Bu kulüp için havuzda aday yok.</p>';
+  const first=$('#needs .cand'); if(first) selectCand(first.dataset.pid, first.dataset.pos); else $('#clubDetail').innerHTML=`<h3>Eşleşme analizi</h3><p class="empty">${c.usable?'Bu kulüp için havuzda aday yok.':'Bu kulübün dosyası henüz araştırma aşamasında: kadro ve ihtiyaçlar doğrulanmadan motor öneri üretmez.'}</p><p class="sub">${esc((c.notes||'').slice(0,400))}</p>`;
+  if(!c.needs.length) $('#needs').innerHTML=`<p class="empty">${c.usable?'Kulüp dosyasında tanımlı ihtiyaç yok.':'Veri toplanıyor. Bilinenler: Pot ${c.pot}${(c.opp_home||[]).length?', kura rakipleri':''}. Kaynak sayısı ${c.sources.length}.'}</p>`;
   bindTips($('#view-club'));
 }
 function selectCand(pid,pos){
@@ -368,15 +443,20 @@ function showPlayer(id, cid){
   curPlayer=id; store.set('player',id); const p=D.players[id]; curPlayerClub=cid||(p.clubs[0]&&p.clubs[0].club_id);
   renderPlayerChips();
   const p90=(p.stats.min&&p.stats.min>=270)?(((p.stats.g||0)+(p.stats.a||0))/p.stats.min*90).toFixed(2):'—';
-  $('#playerHero').innerHTML=`<div><h2>${esc(p.name)}</h2><p class="meta">${esc(p.pos)}${p.sec.length?' / '+p.sec.map(esc).join(', '):''} · ${na(p.age)} yaş · ${(p.nat||[]).map(esc).join('/')} · <b>${na(p.club)}</b> (${na(p.league)}) · sözleşme ${na(p.contract)} · ${tag(p.confidence)}</p><p class="meta">Durum: ${na(p.avail)} · Stil: ${p.tags.map(esc).join(', ')||'—'}</p></div>
-    <div class="tiles"><div class="tile"><b>${na(p.stats.apps)}</b><span>maç 25/26</span></div><div class="tile"><b>${na(p.stats.min)}</b><span>dakika</span></div><div class="tile"><b>${na(p.stats.g)}</b><span>gol</span></div><div class="tile"><b>${na(p.stats.a)}</b><span>asist</span></div><div class="tile"><b>${p90}</b><span>G+A / 90</span></div><div class="tile"><b>${p.fee==null?'—':p.fee}</b><span>tahmini bonservis M€</span></div></div>`;
+  const photo = p.photo_url ? `<img src="${esc(p.photo_url)}" alt="${esc(p.name)}">` : esc(initials(p.name));
+  const curClubId = Object.keys(D.clubs).find(k => (p.club||'').toLowerCase().includes(D.clubs[k].short.toLowerCase()));
+  $('#playerHero').innerHTML=`<div style="text-align:center"><div class="avatar">${photo}</div><small style="display:block;color:var(--ink3);font-size:10px;margin-top:4px;max-width:84px">${p.photo_url?'':'fotoğraf: temsil sözleşmesiyle'}</small></div><div><span class="ribbon">Temsil ettiğimiz oyuncu · pazarlama dosyası</span><h2 style="margin-top:6px">${esc(p.name)}</h2><p class="meta">${esc(p.pos)}${p.sec.length?' / '+p.sec.map(esc).join(', '):''} · ${na(p.age)} yaş · ${(p.nat||[]).map(esc).join('/')} · ${curClubId?crest(curClubId,true):''} <b>${na(p.club)}</b> (${na(p.league)}) · sözleşme ${na(p.contract)} · ${tag(p.confidence)}</p><p class="meta">Durum: ${na(p.avail)} · Stil: ${p.tags.map(esc).join(', ')||'—'}</p></div>
+    <div class="tiles" style="min-width:300px"><div class="tile"><b>${na(p.stats.apps)}</b><span>maç 25/26</span></div><div class="tile"><b>${na(p.stats.min)}</b><span>dakika</span></div><div class="tile"><b>${na(p.stats.g)}</b><span>gol</span></div><div class="tile"><b>${na(p.stats.a)}</b><span>asist</span></div><div class="tile"><b>${p90}</b><span>G+A / 90</span></div><div class="tile"><b>${p.fee==null?'—':p.fee}</b><span>bonservis M€</span></div></div>`;
+  $('#deck').innerHTML=p.clubs.slice(0,3).map(r=>{ const top=r.dimensions.slice().sort((a,b)=>b.weighted-a.weighted).slice(0,2); return `<button class="deck" data-cid="${r.club_id}" aria-selected="${r.club_id===curPlayerClub}"><div class="h">${crest(r.club_id,true)}<b>${esc(r.club_name)}</b><span class="sc">${r.total.toFixed(0)}</span></div><ul>${top.map(d=>`<li><b>${esc(d.label)}</b>: ${esc(d.explanation.split(';')[0])}</li>`).join('')}${r.red_flags.length?`<li style="color:var(--crit)">⚑ ${esc(r.red_flags[0])}</li>`:''}</ul></button>`; }).join('');
+  document.querySelectorAll('#deck .deck').forEach(b=>b.addEventListener('click',()=>showPlayer(id,b.dataset.cid)));
   $('#clubBars').innerHTML=clubBarChart(p);
   document.querySelectorAll('#clubBars .cb').forEach(g=>{ const go=()=>showPlayer(id,g.dataset.cid); g.addEventListener('click',go); g.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();go();}}); });
   const r=p.clubs.find(x=>x.club_id===curPlayerClub);
   if(r){ $('#playerDetail').innerHTML=matchDetail(r, `${p.name} → ${r.club_name}`, `${D.clubs[r.club_id]?.league||''} · hoca ${D.clubs[r.club_id]?.coach||'—'} · pozisyon ${r.position}`)+`<button class="chip" style="margin-top:10px" onclick="setRole('club');showClub('${r.club_id}')">Kulüp görünümünde aç →</button>`; $('#hofChart').innerHTML=hofBars(p,r); }
   else { $('#playerDetail').innerHTML='<p class="empty">Sıralama yok.</p>'; $('#hofChart').innerHTML=''; }
   const m=p.mental||{}; const ml={leadership:'liderlik',coachability:'koçlanabilirlik',resilience:'dayanıklılık',discipline:'disiplin'};
-  $('#playerProfile').innerHTML=`<dl class="kv"><dt>Piyasa / bonservis</dt><dd>${na(p.fee)} M€ tahmini · net maaş ${na(p.wage)} M€</dd><dt>Diller</dt><dd>${p.langs.map(esc).join(', ')||'—'}</dd><dt>Sakatlık kaydı</dt><dd>${p.inj.length?p.inj.map(i=>`${esc(i.type)} (${esc(i.season)}, ${na(i.days_out)} gün)`).join('; '):'belgelenmiş yok'}</dd></dl>
+  const yrs=4, sal=(p.wage!=null?p.wage*1.9:null); const base=(p.fee||0)+(sal||0)*yrs;
+  $('#playerProfile').innerHTML=`<div class="offer"><div><b>${p.fee==null?'—':p.fee}</b><span>bonservis M€ (tahmin)</span></div><div><b>${p.wage==null?'—':p.wage}</b><span>net maaş M€/yıl</span></div><div><b>${sal==null?'—':(base*0.02).toFixed(2)}</b><span>bizim ücret %2, M€</span></div><div><b>${sal==null?'—':(base*0.10-base*0.02).toFixed(2)}</b><span>taraflara kalan vs %10</span></div></div><p class="sub" style="margin-top:6px">Brüt maaş ≈ net × 1.9 varsayımı, 4 yıl. Kesin rakam kulübün ülkesindeki vergiyle hesaplanır.</p><dl class="kv"><dt>Piyasa / bonservis</dt><dd>${na(p.fee)} M€ tahmini · net maaş ${na(p.wage)} M€</dd><dt>Diller</dt><dd>${p.langs.map(esc).join(', ')||'—'}</dd><dt>Sakatlık kaydı</dt><dd>${p.inj.length?p.inj.map(i=>`${esc(i.type)} (${esc(i.season)}, ${na(i.days_out)} gün)`).join('; '):'belgelenmiş yok'}</dd></dl>
     <div class="dims" style="grid-template-columns:120px 1fr 30px;margin-top:10px">${Object.keys(ml).map(k=>`<div>${ml[k]}</div><div class="bar"><i style="width:${m[k]!=null?m[k]/5*100:0}%;${m[k]==null?'opacity:.2':''}"></i></div><div class="v">${m[k]==null?'—':m[k]+'/5'}</div></div>`).join('')}</div>
     <p class="sub" style="margin-top:6px">Mental profil yalnızca kamuya açık kayıttan (kartlar, belgelenmiş anlaşmazlıklar, hoca demeçleri); boş = kayıt yok.</p>
     <details><summary>Veri notu ve kaynaklar (${(p.sources||[]).length})</summary><p class="sub">${esc(p.notes)}</p><ul class="plain" style="font-size:11.5px;word-break:break-all">${(p.sources||[]).map(x=>`<li><a href="${esc(x)}" target="_blank" rel="noopener">${esc(x)}</a></li>`).join('')}</ul></details>`;
@@ -387,7 +467,7 @@ function showPlayer(id, cid){
 let agentDrawn=false;
 function drawAgent(){ if(agentDrawn) return; agentDrawn=true;
   // heatmap
-  const cols=clubIds; const rowsMap={}; D.mutual.forEach(r=>{ (rowsMap[r.player_id]=rowsMap[r.player_id]||{})[r.club_id]=r; });
+  const cols=usableIds; const rowsMap={}; D.mutual.forEach(r=>{ (rowsMap[r.player_id]=rowsMap[r.player_id]||{})[r.club_id]=r; });
   const rows=Object.keys(rowsMap).sort((a,b)=>Math.max(...Object.values(rowsMap[b]).map(r=>r.total))-Math.max(...Object.values(rowsMap[a]).map(r=>r.total)));
   const cw=40, rh=26, L=150, T=72; const W=L+cols.length*cw+10, H=T+rows.length*rh+10;
   const col=v=>{ const t=Math.max(0,Math.min(1,(v-60)/40)); return `color-mix(in oklab, var(--accent-soft), var(--s1) ${Math.round(20+t*80)}%)`; };

@@ -26,9 +26,9 @@ def export_data(include_demo: bool = False) -> dict:
         "hofstede": json.loads((DATA_DIR / "hofstede.json").read_text(encoding="utf-8")),
         "commission": [quote(f, s, 4).to_dict() for f, s in ((35, 4), (18, 1.5), (70, 8))],
     }
-    for cid in usable:
-        c = clubs[cid]
+    for cid, c in clubs.items():
         out["clubs"][cid] = {
+            "usable": cid in usable,
             "name": c.name,
             "short": c.short_name,
             "country": c.country,
