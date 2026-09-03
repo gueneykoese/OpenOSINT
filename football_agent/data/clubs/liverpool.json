@@ -22,14 +22,20 @@
     ]
   },
   "head_coach": {
-    "name": null,
+    "name": "Andoni Iraola",
     "since": "2026-06",
-    "nationality": null,
-    "preferred_formation": null,
-    "style_keywords": []
+    "nationality": "ESP",
+    "preferred_formation": "4-2-3-1",
+    "style_keywords": [
+      "high-intensity man-oriented press",
+      "ultra-direct, vertical attacks",
+      "short build-up, goes long when pressed",
+      "two-year contract (appointed 4 Jun 2026)",
+      "ex-Bournemouth (6th in 2025/26, 18-game unbeaten run)"
+    ]
   },
   "identity": {
-    "playing_style": "Identity is in transition: Arne Slot's 4-2-3-1 possession-and-press model won the 2024/25 title but collapsed to 5th (60 pts, 53 conceded, 12 defeats) in 2025/26 despite GBP 440m+ of signings (Wirtz, Isak, Kerkez, Frimpong). Slot was dismissed on 30 May 2026; the new head coach's system could not be verified. The squad profile (Barcola, Wirtz, Salah, Isak, Ekitike) points to a high-tempo, wide, transition-heavy attack.",
+    "playing_style": "Identity is in transition: Arne Slot's 4-2-3-1 possession-and-press model won the 2024/25 title but collapsed to 5th (60 pts, 53 conceded, 12 defeats) in 2025/26 despite GBP 440m+ of signings, and Slot was dismissed on 30 May 2026. Andoni Iraola (appointed 4 June 2026, two-year deal) brings the high-intensity, man-marking press and relentlessly vertical attacking that took Bournemouth to 6th; he is expected to keep a 4-2-3-1 with short build-up from the keeper and direct play when pressed. The rebuilt front line (Barcola, Muñoz, Wirtz, Isak, Ekitike, Gakpo) suits a transition-heavy game; Salah, Konaté and Robertson all left.",
     "principles": [
       "data-led recruitment (research department under FSG)",
       "buy under-25 with resale value; occasional marquee exception",
@@ -48,7 +54,7 @@
       "es"
     ],
     "wage_structure": "hierarchical but capped relative to revenue; performance-linked bonuses",
-    "transfer_policy": "Data-led, under-25 focus with premium spent on elite talent in 2025 and 2026 (Wirtz, Isak, Barcola ~EUR 120m+ each)",
+    "transfer_policy": "Data-led, under-25 focus with premium spent on elite talent in 2025 and 2026 (Wirtz, Isak in 2025; Barcola ~EUR 123m, Jacquet up to GBP 60m, Muñoz EUR 40m in 2026); accepts free-agent exits of ageing stars (Salah, Konaté, Robertson) rather than long renewals",
     "injury_management_reputation": "Publicly discussed: recurring hamstring problems (Jota, Konate) and Alisson's fitness were themes in 2025/26; Barcola signing partly justified by attacking depth issues."
   },
   "last_season_2025_26": {
@@ -63,11 +69,11 @@
     "xg_for": null,
     "xg_against": null,
     "possession_pct": null,
-    "ucl_result": null,
-    "domestic_cup": null,
+    "ucl_result": "Quarter-final",
+    "domestic_cup": "FA Cup quarter-final (0-4 v Manchester City, 4 Apr 2026); EFL Cup fourth round",
     "top_scorer": {
-      "name": null,
-      "goals": null
+      "name": "Hugo Ekitike",
+      "goals": 11
     },
     "top_assister": {
       "name": null,
@@ -78,12 +84,91 @@
     "arrivals": [
       {
         "name": "Bradley Barcola",
-        "from": "Paris Saint-Germain",
+        "from": "Paris Saint-Germain (GBP 106m guaranteed + GBP 17m add-ons, 5-year deal)",
         "fee_eur_m": 123,
         "position": "LW"
+      },
+      {
+        "name": "Jérémy Jacquet",
+        "from": "Rennes (agreed Feb 2026, joined 1 Jul; GBP 55m + GBP 5m add-ons, 5-year deal + option)",
+        "fee_eur_m": null,
+        "position": "CB"
+      },
+      {
+        "name": "Víctor Muñoz",
+        "from": "Osasuna",
+        "fee_eur_m": 40,
+        "position": "RW"
+      },
+      {
+        "name": "Ronald Araújo",
+        "from": "Barcelona (season loan with purchase option)",
+        "fee_eur_m": 0,
+        "position": "CB"
+      },
+      {
+        "name": "Lucca Brughmans",
+        "from": "Genk (deadline day; loaned back to Genk for 2026/27)",
+        "fee_eur_m": null,
+        "position": "GK"
       }
     ],
-    "departures": [],
+    "departures": [
+      {
+        "name": "Curtis Jones",
+        "to": "Inter (5-year deal to 2031; EUR 30m + up to 5m, 10% sell-on)",
+        "fee_eur_m": 30,
+        "position": "CM"
+      },
+      {
+        "name": "Mohamed Salah",
+        "to": "Trabzonspor (contract mutually terminated, no fee)",
+        "fee_eur_m": 0,
+        "position": "RW"
+      },
+      {
+        "name": "Ibrahima Konaté",
+        "to": "Real Madrid (free)",
+        "fee_eur_m": 0,
+        "position": "CB"
+      },
+      {
+        "name": "Andrew Robertson",
+        "to": "Tottenham Hotspur (free)",
+        "fee_eur_m": 0,
+        "position": "LB"
+      },
+      {
+        "name": "Stefan Bajcetic",
+        "to": "Celta Vigo",
+        "fee_eur_m": null,
+        "position": "DM"
+      },
+      {
+        "name": "Luca Stephenson",
+        "to": "Bolton Wanderers (GBP 0.7m)",
+        "fee_eur_m": null,
+        "position": "RB"
+      },
+      {
+        "name": "Harvey Elliott",
+        "to": "Valencia (loan)",
+        "fee_eur_m": 0,
+        "position": "AM"
+      },
+      {
+        "name": "Ifeanyi Ndukwe",
+        "to": "Levante (loan)",
+        "fee_eur_m": 0,
+        "position": null
+      },
+      {
+        "name": "Calvin Ramsay",
+        "to": "St Mirren (loan)",
+        "fee_eur_m": 0,
+        "position": "RB"
+      }
+    ],
     "net_spend_eur_m": null
   },
   "squad": [
@@ -149,24 +234,6 @@
       "nationality": "NED",
       "contract_until": null,
       "shirt_no": 4,
-      "role": "starter",
-      "stats_2025_26": {
-        "apps": null,
-        "starts": null,
-        "minutes": null,
-        "goals": null,
-        "assists": null
-      },
-      "injury_flag": null
-    },
-    {
-      "name": "Ibrahima Konate",
-      "position": "CB",
-      "secondary_positions": [],
-      "age": 27,
-      "nationality": "FRA",
-      "contract_until": null,
-      "shirt_no": 5,
       "role": "starter",
       "stats_2025_26": {
         "apps": null,
@@ -272,24 +339,6 @@
       "injury_flag": null
     },
     {
-      "name": "Andrew Robertson",
-      "position": "LB",
-      "secondary_positions": [],
-      "age": 32,
-      "nationality": "SCO",
-      "contract_until": null,
-      "shirt_no": 26,
-      "role": "rotation",
-      "stats_2025_26": {
-        "apps": null,
-        "starts": null,
-        "minutes": null,
-        "goals": null,
-        "assists": null
-      },
-      "injury_flag": null
-    },
-    {
       "name": "Ryan Gravenberch",
       "position": "DM",
       "secondary_positions": [
@@ -379,24 +428,6 @@
       "nationality": "GER",
       "contract_until": null,
       "shirt_no": 7,
-      "role": "starter",
-      "stats_2025_26": {
-        "apps": null,
-        "starts": null,
-        "minutes": null,
-        "goals": null,
-        "assists": null
-      },
-      "injury_flag": null
-    },
-    {
-      "name": "Mohamed Salah",
-      "position": "RW",
-      "secondary_positions": [],
-      "age": 34,
-      "nationality": "EGY",
-      "contract_until": null,
-      "shirt_no": 11,
       "role": "starter",
       "stats_2025_26": {
         "apps": null,
@@ -519,6 +550,64 @@
         "apps": null,
         "starts": null,
         "minutes": null,
+        "goals": 11,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Jérémy Jacquet",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 20,
+      "nationality": "FRA",
+      "contract_until": 2031,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": 21,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": "Shoulder injury cut short his 2025/26 season at Rennes (Feb 2026)"
+    },
+    {
+      "name": "Ronald Araújo",
+      "position": "CB",
+      "secondary_positions": [
+        "RB"
+      ],
+      "age": null,
+      "nationality": "URU",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Víctor Muñoz",
+      "position": "RW",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
         "goals": null,
         "assists": null
       },
@@ -526,16 +615,18 @@
     }
   ],
   "strengths": [
-    "Attacking talent density: Wirtz (23), Isak (26), Ekitike (24), Barcola (23, EUR 123m club-record-tier signing) plus Salah - one of Europe's deepest front lines on paper",
-    "Young full-backs (Frimpong 25, Kerkez 22, Bradley 23) suit a high-tempo transition game",
+    "Attacking talent density: Wirtz (23), Isak (26), Ekitike (24, 17 goals in 2025/26), Barcola (23, EUR 123m) and Muñoz (EUR 40m) - one of Europe's deepest front lines on paper",
+    "Young full-backs (Frimpong 25, Kerkez 22, Bradley 23) suit Iraola's high-tempo transition game",
     "Financial capacity proven by two consecutive EUR 400m+ windows without FFP/PSR breach reports",
-    "Strong sporting-director structure (Hughes/Edwards) providing continuity through a coaching change"
+    "Strong sporting-director structure (Hughes/Edwards) providing continuity; Hughes previously hired Iraola at Bournemouth",
+    "Reached the Champions League quarter-final in 2025/26 despite the domestic collapse"
   ],
   "weaknesses": [
     "Worst defensive record of a top-5 side: 53 conceded and 12 defeats; finished 25 points behind champions Arsenal",
-    "Coaching reset: Slot sacked 30 May 2026; new head coach identity/system unverified at time of writing - tactical uncertainty in a UCL group with Atletico and Inter",
-    "Ageing spine: Van Dijk 35, Salah 34, Alisson 33, Endo 33, Robertson 32",
-    "Midfield lacks a dominant defensive No.6 - Gravenberch and Mac Allister are both progressive rather than destructive profiles",
+    "Coaching reset: Slot sacked 30 May 2026; Iraola's man-marking press is a different system to learn during a UCL group with Atlético and Inter",
+    "Centre-back turnover: Konaté left on a free; Van Dijk 35; Jacquet (20, coming off a shoulder injury) and the loanee Araújo are the replacements",
+    "Left-back depth: Robertson left on a free, leaving Kerkez as the only specialist",
+    "Midfield lacks a dominant defensive No.6 - Gravenberch and Mac Allister are progressive profiles; Jones sold, Endo 33",
     "Squad-cost pressure: multiple EUR 100m+ attackers concentrate wages in one area of the pitch"
   ],
   "positional_needs": [
@@ -543,7 +634,7 @@
       "position": "CB",
       "priority": "high",
       "profile": "left-sided commanding CB, 22-26, aerially dominant, Premier League-ready",
-      "reason": "Van Dijk 35; 53 goals conceded in 2025/26; Leoni (19) not yet ready",
+      "reason": "Konaté left on a free, Van Dijk 35, Jacquet 20 and returning from injury, Araújo only on loan; 53 goals conceded in 2025/26",
       "budget_eur_m": 70,
       "wage_ceiling_eur_m_net": 8
     },
@@ -551,9 +642,17 @@
       "position": "DM",
       "priority": "high",
       "profile": "ball-winning No.6 with 3+ tackles+interceptions p90, 22-27",
-      "reason": "Endo 33; Gravenberch better as a progressive No.8; defensive transition exposed all season",
+      "reason": "Endo 33; Gravenberch better as a progressive No.8; Jones sold; defensive transition exposed all season",
       "budget_eur_m": 60,
       "wage_ceiling_eur_m_net": 7
+    },
+    {
+      "position": "LB",
+      "priority": "medium",
+      "profile": "athletic left-back able to invert or overlap, 21-25",
+      "reason": "Robertson left for Tottenham; Kerkez is the only specialist",
+      "budget_eur_m": 40,
+      "wage_ceiling_eur_m_net": 5
     },
     {
       "position": "GK",
@@ -562,14 +661,6 @@
       "reason": "Alisson 33; Mamardashvili still to establish himself as starter",
       "budget_eur_m": null,
       "wage_ceiling_eur_m_net": null
-    },
-    {
-      "position": "RW",
-      "priority": "medium",
-      "profile": "long-term Salah successor, 21-25",
-      "reason": "Salah 34; Chiesa is a backup",
-      "budget_eur_m": 60,
-      "wage_ceiling_eur_m_net": 7
     }
   ],
   "position_benchmarks": {
@@ -608,11 +699,30 @@
     "https://www.psg.fr/en/content/bradley-barcola-signs-for-liverpool-fc-psg-mercato-news-2026-2027",
     "https://www.espn.com/soccer/story/_/id/49750588/bradley-barcola-joins-liverpool-123-million-move-paris-saint-germain",
     "https://www.cbssports.com/soccer/news/liverpool-agree-sign-bradley-barcola-from-psg-transfer-grades-2026/",
-    "https://sports.yahoo.com/articles/official-bradley-barcola-joins-liverpool-130000839.html"
+    "https://sports.yahoo.com/articles/official-bradley-barcola-joins-liverpool-130000839.html",
+    "https://www.liverpoolfc.com/news/liverpool-fc-appoint-andoni-iraola-new-head-coach",
+    "https://www.liverpoolfc.com/team/mens/staff/andoni-iraola",
+    "https://www.espn.com/soccer/story/_/id/48945214/liverpool-appoint-andoni-iraola-arne-slot-successor",
+    "https://www.thisisanfield.com/2026/06/andoni-iraola-confirmed-as-new-liverpool-fc-head-coach/",
+    "https://tacticalfootballanalysis.com/andoni-iraola-tactics-liverpool-2026-2027-tactical-analysis/",
+    "https://www.goal.com/en-gb/lists/liverpool-andoni-iraola-2026-27-premier-league/blt2d70dc0df5b54109",
+    "https://www.thisisanfield.com/2026/09/liverpool-transfers-summer-2026-roundup-ins-outs-loans/",
+    "https://www.liverpool.com/liverpool-fc-news/transfer-news/full-list-liverpool-summer-transfers-34553489",
+    "https://www.thisisanfield.com/2026/08/curtis-jones-deal-agreed-liverpool-accept-30m-inter-milan/",
+    "https://www.espn.com/football/story/_/id/49667878/inter-milan-confirm-curtis-jones-signing-liverpool",
+    "https://www.liverpoolfc.com/news/mohamed-salah-leave-liverpool-end-season",
+    "https://www.aljazeera.com/sports/2026/8/6/mohamed-salah-signs-two-year-deal-with-trabzonspor-after-liverpool-exit",
+    "https://www.liverpoolfc.com/news/liverpool-complete-signing-jeremy-jacquet",
+    "https://www.skysports.com/football/news/11669/13559447/jeremy-jacquet-transfer-news-liverpool-sign-rennes-defender-in-lb60m-deal-with-20-year-old-moving-to-anfield-this-summer",
+    "https://www.liverpoolfc.com/news/liverpool-agree-deal-sign-spain-forward-victor-munoz",
+    "https://www.liverpoolfc.com/team/mens/player/victor-munoz",
+    "https://www.sportsmole.co.uk/football/liverpool/2025-26/top-scorers.html",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_FA_Cup",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_EFL_Cup"
   ],
-  "as_of": "2026-09-02",
+  "as_of": "2026-09-03",
   "data_quality": {
-    "confidence": "low",
-    "notes": "Verified: 5th place, 17W-9D-12L, 60 pts, +10 GD, 53 GA (GF=63 derived), Slot sacked 30 May 2026, UCL draw, Barcola arrival (GBP 106m guaranteed + GBP 17m add-ons, 5-year deal). HEAD COACH UNVERIFIED: Andoni Iraola was reported as the leading candidate but no appointment could be confirmed, so the name is null - this must be checked before use. UCL 2025/26 exit round, domestic cup results, top scorer, and all other summer-2026 arrivals/departures unverified (Barcola's 11 goals figure is his 2025/26 Ligue 1 total at PSG). Squad = last known first-team roster adjusted ONLY for summer-2026 moves that were source-verified; further unreported exits/loans may be missing. Per-player 2025/26 stats left null unless a source gave the number. Ages computed from public birthdates as of 2026-09-02. Research constraint: web fetch was blocked on all data sites (transfermarkt, fbref, uefa, wikipedia, club sites) and only search snippets were available. | Reconciled 2026-09-02 with player-pool research: Curtis Jones removed (joined Inter, official, contract to 2031, see players/curtis_jones.json)."
+    "confidence": "medium",
+    "notes": "Updated 2026-09-03 from search snippets. HEAD COACH RESOLVED: Andoni Iraola appointed 4 Jun 2026 on a two-year deal (liverpoolfc.com, ESPN, This Is Anfield); formation 4-2-3-1 is the expected/pre-season shape per tactical previews, not yet a full-season observation. Verified: 5th place, 17-9-12, 60 pts, 63-53; UCL 2025/26 quarter-final, FA Cup QF (0-4 v Man City), EFL Cup R4; top scorer Ekitike 17 all comps / 11 PL (Sports Mole/Wikipedia snippets); UCL draw. WINDOW RECONCILED (This Is Anfield '6 in, 6 out, 11 loans'): in - Barcola (GBP 106m+17m), Jacquet (GBP 55m+5m, agreed Feb 2026, registered 1 Jul), Muñoz (EUR 40m), Araújo (loan), Brughmans (loaned back); out - Curtis Jones to Inter (EUR 30m+5m, official), Salah (terminated, joined Trabzonspor), Konaté (free to Real Madrid), Robertson (free to Tottenham), Bajcetic (Celta), Stephenson (Bolton), plus loans (Elliott, Ndukwe, Ramsay and others not named). NOTE on the brief: Isak's move was the Sept 2025 window (GBP 125m), not summer 2026 - he was already in the squad and is retained. SQUAD (22) = prior roster minus Salah, Konaté, Robertson, Jones plus Jacquet, Araújo, Muñoz; further unreported exits/loans may be missing. Jacquet's fee left null in EUR (GBP figure in text); Bajcetic/Stephenson/Brughmans fees not in EUR. Ages as of 2026-09-02 from public birthdates (Jacquet 20 per Sky); Muñoz's age/shirt not sourced. Per-player 2025/26 stats null except Ekitike (11 PL goals), Barcola (11 Ligue 1 goals at PSG), Jacquet (21 apps at Rennes). Top assister, xG, net spend unverified; budgets are estimates."
   }
 }

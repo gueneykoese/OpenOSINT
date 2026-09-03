@@ -25,16 +25,17 @@
     "name": "Iñigo Pérez",
     "since": "2026-06",
     "nationality": "ESP",
-    "preferred_formation": "4-2-3-1 / 4-4-2",
+    "preferred_formation": "4-4-2 / 4-2-3-1",
     "style_keywords": [
       "high intensity press",
       "compact 4-4-2 mid-block (Rayo Vallecano)",
       "direct wide play",
+      "double pivot Gueye-Comesaña, two strikers (Ayoze-Mikautadze) in the 2026/27 openers",
       "three-year contract"
     ]
   },
   "identity": {
-    "playing_style": "Marcelino's 2025/26 Villarreal were a disciplined 4-4-2 counter-attacking side that finished 3rd, overtaking Atlético with a 5-1 final-day win, with Georges Mikautadze scoring 13 league goals. Iñigo Pérez (appointed 1 June 2026) arrives from Rayo Vallecano, where he took a low-budget squad to the Conference League final with an intense, front-foot pressing 4-4-2/4-2-3-1; expect higher pressing volume than under Marcelino.",
+    "playing_style": "Marcelino's 2025/26 Villarreal were a disciplined 4-4-2 counter-attacking side that finished 3rd, overtaking Atlético with a 5-1 final-day win, with Georges Mikautadze scoring 13 league goals; in Europe the same side lost seven of eight league-phase games. Iñigo Pérez (appointed 1 June 2026) arrives from Rayo Vallecano, where he took a low-budget squad to the Conference League final with an intense, front-foot pressing 4-4-2/4-2-3-1; his opening XI (Luiz Júnior; Mouriño, Foyth, Renato Veiga, Romero; Gueye, Comesaña; Pépé, Moleiro; Ayoze, Mikautadze) kept Marcelino's two-striker shape.",
     "principles": [
       "academy-first (Ciudad Deportiva, one of Spain's most productive)",
       "buy-to-develop from Ligue 1/South America",
@@ -50,7 +51,7 @@
       "fr"
     ],
     "wage_structure": "flat-to-moderate; strictly within La Liga salary-cap limits",
-    "transfer_policy": "very quiet summer 2026: only one signing (Andero Kaares, youth) per Transfermarkt-based reports; outgoings mostly loans (Pedraza to Lazio, Conde to Mallorca, Requena to Betis) plus Terrats sold to Getafe for EUR 2.5m; net +EUR 2.5m",
+    "transfer_policy": "very quiet summer 2026: Gulácsi (EUR 1.5m from Leipzig, two-year deal) and youth signing Kaares the only external arrivals; Parejo and Partey left and were not replaced; Terrats sold to Getafe (EUR 2.5m); Pedraza, Conde and Requena loaned out; academy players Rubén Gómez and Diatta promoted",
     "injury_management_reputation": null
   },
   "last_season_2025_26": {
@@ -65,7 +66,7 @@
     "xg_for": null,
     "xg_against": null,
     "possession_pct": null,
-    "ucl_result": "League phase participant (final ranking/elimination not verified)",
+    "ucl_result": "League phase: eliminated (outside the top 24; per UEFA results one draw - 2-2 v Juventus - and seven defeats incl. Tottenham, Man City, Pafos, Dortmund, Copenhagen, Ajax, Leverkusen)",
     "domestic_cup": "Copa del Rey: round of 32",
     "top_scorer": {
       "name": "Georges Mikautadze",
@@ -79,28 +80,22 @@
   "summer_2026_window": {
     "arrivals": [
       {
+        "name": "Péter Gulácsi",
+        "from": "RB Leipzig (2 Aug 2026, two-year deal)",
+        "fee_eur_m": 1.5,
+        "position": "GK"
+      },
+      {
+        "name": "Carlos Romero",
+        "from": "Espanyol (listed as a 2026/27 'fichaje' with shirt 20; loan-return vs purchase not verified)",
+        "fee_eur_m": null,
+        "position": "LB"
+      },
+      {
         "name": "Andero Kaares",
         "from": "unverified (youth/development signing)",
         "fee_eur_m": null,
         "position": null
-      },
-      {
-        "name": "Rafa Marín",
-        "from": "Napoli (loan return)",
-        "fee_eur_m": 0,
-        "position": "CB"
-      },
-      {
-        "name": "Alfon González",
-        "from": "Sevilla (loan return)",
-        "fee_eur_m": 0,
-        "position": "LW"
-      },
-      {
-        "name": "Carlos Romero",
-        "from": "Espanyol (loan return)",
-        "fee_eur_m": 0,
-        "position": "LB"
       }
     ],
     "departures": [
@@ -109,6 +104,18 @@
         "to": "Getafe",
         "fee_eur_m": 2.5,
         "position": "CM"
+      },
+      {
+        "name": "Dani Parejo",
+        "to": "departed (destination unverified; not replaced per FutbolFantasy)",
+        "fee_eur_m": null,
+        "position": "CM"
+      },
+      {
+        "name": "Thomas Partey",
+        "to": "departed (destination unverified; not replaced per FutbolFantasy)",
+        "fee_eur_m": null,
+        "position": "DM"
       },
       {
         "name": "Alfonso Pedraza",
@@ -129,9 +136,340 @@
         "position": "CM"
       }
     ],
-    "net_spend_eur_m": -2.5
+    "net_spend_eur_m": null
   },
   "squad": [
+    {
+      "name": "Luiz Júnior",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Péter Gulácsi",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 36,
+      "nationality": "HUN",
+      "contract_until": 2028,
+      "shirt_no": 1,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": 23,
+        "minutes": 2009,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Santiago Mouriño",
+      "position": "CB",
+      "secondary_positions": [
+        "RB"
+      ],
+      "age": null,
+      "nationality": "URU",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Juan Foyth",
+      "position": "CB",
+      "secondary_positions": [
+        "RB"
+      ],
+      "age": null,
+      "nationality": "ARG",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Renato Veiga",
+      "position": "CB",
+      "secondary_positions": [
+        "LB",
+        "DM"
+      ],
+      "age": null,
+      "nationality": "POR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Carlos Romero",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 20,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Sergi Cardona",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Pau Navarro",
+      "position": "RB",
+      "secondary_positions": [
+        "CB"
+      ],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Willy Kambwala",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": "Reported to be in the process of moving to Como (Aug 2026); status unverified"
+    },
+    {
+      "name": "Pape Gueye",
+      "position": "DM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": null,
+      "nationality": "SEN",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Santi Comesaña",
+      "position": "CM",
+      "secondary_positions": [
+        "DM"
+      ],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Pau Cabanes",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Nicolas Pépé",
+      "position": "RW",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": null,
+      "nationality": "CIV",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Alberto Moleiro",
+      "position": "LW",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 10,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Tajon Buchanan",
+      "position": "RW",
+      "secondary_positions": [
+        "LW",
+        "RB"
+      ],
+      "age": null,
+      "nationality": "CAN",
+      "contract_until": null,
+      "shirt_no": 17,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ilias Akhomach",
+      "position": "RW",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ayoze Pérez",
+      "position": "ST",
+      "secondary_positions": [
+        "AM",
+        "RW"
+      ],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
     {
       "name": "Georges Mikautadze",
       "position": "ST",
@@ -151,27 +489,11 @@
       "injury_flag": null
     },
     {
-      "name": "Rafa Marín",
-      "position": "CB",
-      "secondary_positions": [],
-      "age": 24,
-      "nationality": "ESP",
-      "contract_until": null,
-      "shirt_no": null,
-      "role": "rotation",
-      "stats_2025_26": {
-        "apps": null,
-        "starts": null,
-        "minutes": null,
-        "goals": null,
-        "assists": null
-      },
-      "injury_flag": null
-    },
-    {
-      "name": "Alfon González",
-      "position": "LW",
-      "secondary_positions": [],
+      "name": "Gerard Moreno",
+      "position": "ST",
+      "secondary_positions": [
+        "AM"
+      ],
       "age": null,
       "nationality": "ESP",
       "contract_until": null,
@@ -187,11 +509,11 @@
       "injury_flag": null
     },
     {
-      "name": "Carlos Romero",
-      "position": "LB",
+      "name": "Tani Oluwaseyi",
+      "position": "ST",
       "secondary_positions": [],
       "age": null,
-      "nationality": "ESP",
+      "nationality": "CAN",
       "contract_until": null,
       "shirt_no": null,
       "role": "rotation",
@@ -206,39 +528,40 @@
     }
   ],
   "strengths": [
-    "Third in La Liga two seasons in a row, finishing above Atlético in 2025/26.",
-    "Squad continuity: almost no senior departures, so Pérez inherits an intact core.",
-    "Mikautadze (13 league / 15 total goals) is a reliable primary scorer.",
-    "Strong academy pipeline continuously supplies first-team-ready players."
+    "Third in La Liga two seasons in a row, finishing above Atlético in 2025/26 with a 5-1 final-day win.",
+    "Squad continuity: the core that finished 3rd is intact and Pérez's opening XI was almost entirely last season's starters.",
+    "Mikautadze (13 league / 15 total goals) is a reliable primary scorer with Ayoze and Gerard Moreno alongside.",
+    "Strong academy pipeline (Cabanes, Rubén Gómez, Diatta promoted) plus a cheap experienced No. 2 keeper in Gulácsi (23 Bundesliga starts in 2025/26)."
   ],
   "weaknesses": [
-    "Only one (youth) signing all summer: a squad that finished 3rd has not been strengthened for a double campaign.",
-    "Coaching change from Marcelino's counter-attacking 4-4-2 to Pérez's pressing game requires adaptation mid-season.",
-    "Early Copa del Rey exit (round of 32) and unverified Champions League 2025/26 outcome suggest cup/European inconsistency.",
-    "Loss of Pedraza (loan) thins left-back cover behind returning Carlos Romero."
+    "Only Gulácsi (EUR 1.5m) and a youth signing arrived all summer: a squad that finished 3rd has not been strengthened for a double campaign.",
+    "Champions League 2025/26 was a failure: one point from eight league-phase games (one draw, seven defeats).",
+    "Midfield thinned: Parejo, Partey and Terrats gone, Requena loaned; Gueye-Comesaña have little senior cover.",
+    "Coaching change from Marcelino's counter-attacking 4-4-2 to Pérez's pressing game requires adaptation mid-season; two draws (2-2, 2-2) to open La Liga.",
+    "Loss of Pedraza (loan) thins left-back cover behind Romero and Cardona; Kambwala reportedly leaving."
   ],
   "positional_needs": [
     {
       "position": "CM",
-      "priority": "medium",
+      "priority": "high",
       "profile": "box-to-box 8 with pressing capacity, 22-26",
-      "reason": "Terrats sold and Requena loaned; Pérez's system demands midfield running",
+      "reason": "Parejo, Partey and Terrats left, Requena loaned; only Gueye, Comesaña and the youngster Cabanes remain",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    },
+    {
+      "position": "CB",
+      "priority": "medium",
+      "profile": "quick right-footed CB, 22-26",
+      "reason": "Kambwala reportedly moving to Como; Mouriño/Foyth/Veiga plus academy Diatta",
       "budget_eur_m": null,
       "wage_ceiling_eur_m_net": null
     },
     {
       "position": "LB",
-      "priority": "medium",
-      "profile": "athletic full-back able to press high",
-      "reason": "Pedraza loaned to Lazio",
-      "budget_eur_m": null,
-      "wage_ceiling_eur_m_net": null
-    },
-    {
-      "position": "ST",
       "priority": "low",
-      "profile": "rotation 9",
-      "reason": "depth behind Mikautadze for UCL and league",
+      "profile": "athletic full-back able to press high",
+      "reason": "Pedraza loaned to Lazio; Romero and Cardona remain",
       "budget_eur_m": null,
       "wage_ceiling_eur_m_net": null
     }
@@ -271,11 +594,27 @@
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_Villarreal_CF_season",
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_La_Liga",
     "https://www.futbolfantasy.com/mercado-de-fichajes-del-villarreal-altas-bajas/verano-2026",
-    "https://www.fichajes.com/equipo/villarreal-cf/altas-bajas/"
+    "https://www.fichajes.com/equipo/villarreal-cf/altas-bajas/",
+    "https://villarrealcf.es/es/peter-gulacsi-nuevo-portero-del-villarreal-cf/",
+    "https://www.sofascore.com/es/news/villarreal-asegura-al-portero-veterano-peter-gulacsi-desde-el-rb-leipzig",
+    "https://www.jornadaperfecta.com/blog/peter-gulacsi-analisis-fantasy-villarreal-fichaje-26/",
+    "https://www.revistapoble.net/2026/08/14/el-villarreal-ya-tiene-dorsales-para-la-temporada-2026-27/",
+    "https://www.eldesmarque.com/futbol/liga-1a-division/20260816/alineaciones-confirmadas-racing-santander-villarreal-jornada-1-laliga-ea-sports_18_019961894.html",
+    "https://www.cope.es/programas/tiempo-de-juego/cronica/directo-racing-santander-villarreal-primera-division-primera-jornada-16-20260816_3420480.html",
+    "https://www.futbolfantasy.com/partidos/22434-atletico-villarreal",
+    "https://www.betfair.es/blog/futbol/futbol-espanol/laliga/villarreal-fichajes-plantilla-y-alineacion-ideal-para-la-temporada-202627-020826-1210.html",
+    "https://www.jornadaperfecta.com/blog/analisis-fantasy-villarreal-26-27/",
+    "https://canadiansoccerdaily.com/2026/08/16/canmnt-winger-tajon-buchanan-comes-in-off-bench-as-villarreal-draw-laliga-opener/",
+    "https://m.aiscore.com/team-villarreal/yzrkn6iwoobnqle/squad",
+    "https://www.cbc.ca/sports/soccer/tani-oluwaseyi-spain-villarreal-1.7621375",
+    "https://villarrealcf.es/en/the-10-best-moments-of-villarreals-2025-26-season/",
+    "https://villarrealcf.es/en/a-record-breaking-villarreal-in-laliga/",
+    "https://www.uefa.com/uefachampionsleague/news/029c-1e9a2f63fe2d-ebf9ad643892-1000--2025-26-champions-league-all-the-league-phase-results/",
+    "https://villarrealcf.es/es/los-rivales-del-villarreal-cf-en-champions-league-25-26/"
   ],
-  "as_of": "2026-09-02",
+  "as_of": "2026-09-03",
   "data_quality": {
     "confidence": "medium",
-    "notes": "SQUAD IS PARTIAL: only players whose presence in the 2026/27 squad is supported by a source found during research are listed; a full 20-26 man squad, shirt numbers, contract dates and per-player 2025/26 minutes could not be retrieved because the research session lost web access (search budget exhausted; fetch to transfermarkt/fbref/uefa/club sites blocked). Ages are computed from publicly known birth dates. Verified: 3rd place (5-1 v Atlético on matchday 38), coach Iñigo Pérez (1 Jun 2026, three-year deal), UCL opponents with venues, Copa del Rey R32, Mikautadze 13/15 goals, summer window per FútbolFantasy/Transfermarkt summary. NOT verified: final points, W/D/L, goals (a 58-pt figure found was after 29 games and was discarded), UCL 2025/26 league-phase ranking, Kaares' origin club and position, top assister. Pérez's formation is his Rayo preference."
+    "notes": "Updated 2026-09-03 from search snippets. VERIFIED: coach Iñigo Pérez (1 Jun 2026, 3-year deal; 4-4-2 with Gueye-Comesaña pivot and Ayoze-Mikautadze up front in the 2-2 at Racing and 2-2 at Atlético); 3rd place (5-1 v Atlético on matchday 38; club site) - FINAL POINTS/W-D-L/GOALS NOT RETRIEVED (only a 58-pt/29-game snapshot exists and was discarded); UCL opponents with venues; Copa del Rey R32; Mikautadze 13/15 goals; UCL 2025/26 league-phase exit with 1 draw + 7 defeats (derived from UEFA results list, exact points/rank not stated). CORRECTIONS: Rafa Marín is NOT at Villarreal - he returned to Napoli and is on Napoli's UEFA list (removed); Alfon González 'loan return' could not be verified (removed); Gulácsi ADDED as a EUR 1.5m signing from Leipzig (club site, 2 Aug). SQUAD (20) = opening-day XI (ElDesmarque) + Gulácsi, Buchanan and Gerard Moreno (subs on matchday 1), Oluwaseyi (CBC), Cardona/Navarro/Akhomach/Cabanes/Kambwala (AiScore 2026-27 squad listing; roles for these are inferred as rotation/backup, not observed). Academy promotions Rubén Gómez (13) and Diatta (4) omitted because positions were not sourced. Shirt numbers only Gulácsi 1, Romero 20, Moleiro 10, Buchanan 17. Ages only Mikautadze 25, Gulácsi 36. Gulácsi's 2025/26 line (23 starts, 2,009 min) is from the Bundesliga at Leipzig. Kambwala's Como move, Kaares' origin/position, Parejo/Partey destinations, top assister and net spend unverified."
   }
 }

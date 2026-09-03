@@ -88,23 +88,20 @@ API uçları: `/clubs`, `/clubs/{id}`, `/clubs/{id}/recommendations`, `/clubs/{i
 
 ## Veri durumu — dürüst tablo
 
-Bu oturumda web araştırması iki sınıra çarptı: oturum başına **200 web araması** bütçesi ve
-egress proxy'nin futbol veri sitelerini (transfermarkt, fbref, uefa.com, wikipedia, kulüp siteleri…)
-engellemesi. Sonuç:
+Araştırma yalnızca web arama özetleriyle yapıldı: egress proxy transfermarkt, fbref, uefa.com, wikipedia ve
+kulüp sitelerini engelliyor (WebFetch 403). Buna rağmen:
 
-* `python -m football_agent status` her kulübün güven seviyesini, kadro büyüklüğünü ve kaynak sayısını
-  gösterir. `confidence: medium` kulüpler (hoca + 2025/26 tablosu + kura rakipleri + kadro doğrulanmış)
-  eşleştirme için kullanılabilir; `low` olanlar şema-tamam iskelettir, `data_quality.notes` neyin
-  doğrulanamadığını yazar.
-* Gerçek oyuncu havuzu (`data/players/`) küçüktür. Motoru göstermek için `data/demo_players/` altında
-  **açıkça kurgusal**, `confidence: "synthetic"` etiketli 8 profil vardır; yalnızca `--demo` ile yüklenir
-  ve hiçbir zaman scouting verisi gibi sunulmamalıdır.
-* Kadro/istatistik verisi üretimde lisanslı bir sağlayıcıdan (Opta/StatsBomb/Wyscout ya da
-  FBref/Transfermarkt export) gelmelidir; JSON şeması buna göre tasarlandı.
-
-**Eksikleri tamamlamak için:** `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION` değerini yükseltip
-`data/SCHEMA.md` + `scratchpad/agent_brief.md` içeriğiyle araştırma ajanlarını `low` kulüpler için
-yeniden çalıştırın; ya da proxy'de transfermarkt/fbref için egress izni verin.
+* **36/36 kulüp** eşleştirmeye uygun (kadro ≥ 15, ihtiyaçlar tanımlı). 30 kulüp `medium` (hoca + 2025/26
+  tablosu + kura rakipleri + kadro kaynaklı), 6 kulüp `low` (Stuttgart, Sabah, Slovan, Club Brugge, Real Madrid,
+  Viking): eksik alanlar her dosyanın `data_quality.notes` alanında yazılı.
+* **39 gerçek oyuncu** hedef havuzunda (`data/players/`); 8 kurgusal demo profili `data/demo_players/` altında
+  tutuluyor ve yalnızca `--demo` ile yüklenir. Panel ve dosyalar kurgusal veri içermez.
+* Oyuncu–kulüp çelişkileri iki yönlü tarandı ve düzeltildi (Ueda → Lille, Curtis Jones → Inter, Ceballos → Betis,
+  Nelson → Feyenoord, Oosterwolde → Roma, Grimaldo → Atlético). Martinelli (Al Hilal, resmi değil) ve Zinchenko
+  (serbest) düşük güvende, Arsenal kadrosunda "çözümlenmedi" notuyla duruyor.
+* Oyuncu başına 2025/26 dakika ve /90 verileri çoğu kayıtta `null`: kaynaklı bulunamadı. Üretimde lisanslı
+  sağlayıcıdan gelmeli; şema buna göre tasarlandı.
+* `python -m football_agent status` güncel tabloyu verir; `python -m football_agent dashboard` paneli üretir.
 
 ## Etik çerçeve
 

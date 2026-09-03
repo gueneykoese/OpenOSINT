@@ -8,9 +8,16 @@
   "ucl_2026_27": {
     "pot": 3,
     "qualified_via": "Ligue 1 2025/26 third place",
-    "opponents_home": [],
+    "opponents_home": [
+      "Bayern München",
+      "Real Betis",
+      "Galatasaray",
+      "Slovan Bratislava"
+    ],
     "opponents_away": [
+      "Arsenal",
       "AS Roma",
+      "VfB Stuttgart",
       "FK Bodø/Glimt"
     ]
   },
@@ -27,7 +34,7 @@
     ]
   },
   "identity": {
-    "playing_style": "Under Genesio (2024-26) Lille combined a compact mid-block with quick vertical transitions and set-piece efficiency, finishing 3rd in Ligue 1 (61 pts) and reaching the Europa League round of 16. Davide Ancelotti (appointed 1 June 2026) inherits a squad heavily reshaped by 21 departures; his early tactical identity at Lille is not yet documented.",
+    "playing_style": "Under Genesio (2024-26) Lille combined a compact mid-block with quick vertical transitions and set-piece efficiency, finishing 3rd in Ligue 1 (61 pts, 18-7-9, with 10 away wins and a league-best 23 goals after the 75th minute) and reaching the Europa League round of 16. Davide Ancelotti (appointed 1 June 2026) inherits a squad reshaped by 21 departures; he opened Ligue 1 with a 2-0 win at Angers (Giroud, Tiago Santos) before the deadline-day sale of Fernández-Pardo and arrival of Ueda.",
     "principles": [
       "trading model: buy young, develop, sell high",
       "data-informed scouting (Létang era)",
@@ -42,16 +49,16 @@
       "en"
     ],
     "wage_structure": "hierarchical but modest; senior earners far below Ligue 1 top-two",
-    "transfer_policy": "aggressive seller: summer 2026 brought in ~EUR 175m from 21 departures against ~EUR 42m spent on 8 arrivals (net +EUR 133m per Le Petit Lillois)",
+    "transfer_policy": "aggressive seller: summer 2026 brought in ~EUR 175m from 21 departures (Bouaddi to Man City ~EUR 95m+5m, a club record; Fernández-Pardo to Newcastle ~EUR 65m) against ~EUR 42m spent on 8 arrivals (Ueda 15, Önal 12, Kjaergaard 8, Srdanovic 3, Nianzou free, Bakwa loan) - net +EUR 133m per Le Petit Lillois",
     "injury_management_reputation": null
   },
   "last_season_2025_26": {
     "league_position": 3,
     "points": 61,
-    "played": null,
-    "won": null,
-    "drawn": null,
-    "lost": null,
+    "played": 34,
+    "won": 18,
+    "drawn": 7,
+    "lost": 9,
     "goals_for": null,
     "goals_against": null,
     "xg_for": null,
@@ -71,55 +78,86 @@
   "summer_2026_window": {
     "arrivals": [
       {
+        "name": "Ayase Ueda",
+        "from": "Feyenoord (1 Sep 2026, contract to 2030) - EUR 15m per Le Petit Lillois, 'at least EUR 20m' per Goal/GFFN",
+        "fee_eur_m": 15,
+        "position": "ST"
+      },
+      {
         "name": "Basar Önal",
         "from": "NEC Nijmegen",
         "fee_eur_m": 12,
-        "position": null
+        "position": "CM"
+      },
+      {
+        "name": "Maurits Kjaergaard",
+        "from": "RB Salzburg",
+        "fee_eur_m": 8,
+        "position": "AM"
       },
       {
         "name": "Loun Srdanovic",
         "from": "Servette FC",
         "fee_eur_m": 3,
-        "position": null
+        "position": "CB"
       },
       {
         "name": "Tanguy Nianzou",
         "from": "Sevilla FC (free)",
         "fee_eur_m": 0,
         "position": "CB"
+      },
+      {
+        "name": "Dilane Bakwa",
+        "from": "loan (parent club not retrieved)",
+        "fee_eur_m": 0,
+        "position": "RW"
+      },
+      {
+        "name": "Thato Sibiya",
+        "from": "loan (parent club not retrieved)",
+        "fee_eur_m": 0,
+        "position": null
       }
     ],
-    "departures": [],
+    "departures": [
+      {
+        "name": "Ayyoub Bouaddi",
+        "to": "Manchester City (club-record sale, ~EUR 95m + 5m bonuses reported)",
+        "fee_eur_m": 95,
+        "position": "CM"
+      },
+      {
+        "name": "Matías Fernández-Pardo",
+        "to": "Newcastle United (1 Sep 2026, ~EUR 65m reported)",
+        "fee_eur_m": 65,
+        "position": "LW"
+      },
+      {
+        "name": "Aïssa Mandi",
+        "to": "contract expired (free)",
+        "fee_eur_m": 0,
+        "position": "CB"
+      },
+      {
+        "name": "Thomas Meunier",
+        "to": "contract expired (free)",
+        "fee_eur_m": 0,
+        "position": "RB"
+      }
+    ],
     "net_spend_eur_m": -133.25
   },
   "squad": [
     {
-      "name": "Olivier Giroud",
-      "position": "ST",
+      "name": "Berke Özer",
+      "position": "GK",
       "secondary_positions": [],
-      "age": 39,
-      "nationality": "FRA",
-      "contract_until": 2027,
+      "age": null,
+      "nationality": "TUR",
+      "contract_until": 2029,
       "shirt_no": null,
-      "role": "rotation",
-      "stats_2025_26": {
-        "apps": null,
-        "starts": null,
-        "minutes": null,
-        "goals": 7,
-        "assists": null
-      },
-      "injury_flag": null
-    },
-    {
-      "name": "Tanguy Nianzou",
-      "position": "CB",
-      "secondary_positions": [],
-      "age": 24,
-      "nationality": "FRA",
-      "contract_until": null,
-      "shirt_no": null,
-      "role": "rotation",
+      "role": "starter",
       "stats_2025_26": {
         "apps": null,
         "starts": null,
@@ -130,12 +168,66 @@
       "injury_flag": null
     },
     {
-      "name": "Basar Önal",
-      "position": "CM",
+      "name": "Arnaud Bodart",
+      "position": "GK",
       "secondary_positions": [],
       "age": null,
-      "nationality": "TUR",
-      "contract_until": null,
+      "nationality": "BEL",
+      "contract_until": 2027,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Alexsandro",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "BRA",
+      "contract_until": 2028,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Tanguy Nianzou",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 24,
+      "nationality": "FRA",
+      "contract_until": 2028,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": "Unavailable for the Ligue 1 opener at Angers (Aug 2026)"
+    },
+    {
+      "name": "Nathan Ngoy",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "BEL",
+      "contract_until": 2029,
       "shirt_no": null,
       "role": "rotation",
       "stats_2025_26": {
@@ -166,58 +258,408 @@
       "injury_flag": null
     },
     {
-      "name": "Ayase Ueda",
-      "position": "ST",
-      "secondary_positions": [],
-      "age": 28,
-      "nationality": "JPN",
-      "contract_until": null,
+      "name": "Calvin Verdonk",
+      "position": "LB",
+      "secondary_positions": [
+        "CB"
+      ],
+      "age": null,
+      "nationality": "NED",
+      "contract_until": 2028,
       "shirt_no": null,
       "role": "starter",
       "stats_2025_26": {
         "apps": null,
         "starts": null,
         "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Romain Perraud",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "FRA",
+      "contract_until": 2028,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Tiago Santos",
+      "position": "RB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "POR",
+      "contract_until": 2029,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Kamel Hamidi",
+      "position": "RB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "FRA",
+      "contract_until": 2027,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Benjamin André",
+      "position": "DM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": null,
+      "nationality": "FRA",
+      "contract_until": 2028,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ngal'ayel Mukau",
+      "position": "CM",
+      "secondary_positions": [
+        "DM"
+      ],
+      "age": null,
+      "nationality": "COD",
+      "contract_until": 2028,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Nabil Bentaleb",
+      "position": "CM",
+      "secondary_positions": [
+        "DM"
+      ],
+      "age": null,
+      "nationality": "ALG",
+      "contract_until": 2028,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Hákon Arnar Haraldsson",
+      "position": "AM",
+      "secondary_positions": [
+        "CM",
+        "RW"
+      ],
+      "age": null,
+      "nationality": "ISL",
+      "contract_until": 2030,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Basar Önal",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "TUR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Maurits Kjaergaard",
+      "position": "AM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": null,
+      "nationality": "DEN",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ethan Mbappé",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "FRA",
+      "contract_until": 2027,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Osame Sahraoui",
+      "position": "LW",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": null,
+      "nationality": "NOR",
+      "contract_until": 2029,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Dilane Bakwa",
+      "position": "RW",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": null,
+      "nationality": "FRA",
+      "contract_until": 2027,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Gaëtan Perrin",
+      "position": "RW",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "FRA",
+      "contract_until": 2028,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Félix Correia",
+      "position": "LW",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "POR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ayase Ueda",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": 28,
+      "nationality": "JPN",
+      "contract_until": 2030,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": 31,
+        "starts": null,
+        "minutes": 2535,
         "goals": 25,
+        "assists": 1
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Olivier Giroud",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": 39,
+      "nationality": "FRA",
+      "contract_until": 2027,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 7,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Hamza Igamane",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "MAR",
+      "contract_until": 2030,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": "Unavailable for the Ligue 1 opener at Angers (Aug 2026)"
+    },
+    {
+      "name": "Mohamed Bayo",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "GUI",
+      "contract_until": 2027,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
         "assists": null
       },
       "injury_flag": null
     }
   ],
   "strengths": [
-    "Proven ability to over-perform budget: 3rd in Ligue 1 and a Europa League last-16 run in 2025/26.",
-    "Exceptionally healthy finances after a +EUR 133m summer, giving flexibility in January.",
-    "Experienced European campaigners (Giroud extended to 2027) to steady a young squad.",
-    "Stable executive leadership (Létang) with clear recruitment identity."
+    "Proven ability to over-perform budget: 3rd in Ligue 1 (61 pts, 18-7-9) and a Europa League last-16 run in 2025/26; league-best 23 goals after the 75th minute.",
+    "Exceptionally healthy finances after a +EUR 133m summer (Bouaddi ~EUR 95m, Fernández-Pardo ~EUR 65m), giving flexibility in January.",
+    "A proven Eredivisie golden-boot striker (Ueda, 25 goals) added to Giroud's experience; Giroud scored in the opening 2-0 win at Angers.",
+    "Stable executive leadership (Létang) with clear recruitment identity; long contracts on the core (Özer, Haraldsson, Sahraoui, Igamane to 2029-30)."
   ],
   "weaknesses": [
-    "21 departures in one window: squad cohesion and depth are unproven at Champions League level.",
+    "21 departures in one window: squad cohesion and depth are unproven at Champions League level; Bouaddi and Fernández-Pardo were two of the best young players.",
     "Rookie head coach: Davide Ancelotti has no prior head-coaching record in a top-five league.",
-    "Goal threat thin: top scorer Giroud managed only 7 league goals at age 39.",
-    "Only EUR 42m reinvested; several starting positions filled by unproven arrivals."
+    "Goal threat thin before Ueda: top scorer Giroud managed only 7 league goals at age 39; Igamane and Nianzou missed the season opener.",
+    "Only EUR 42m reinvested; Önal (EUR 12m) and Kjaergaard (EUR 8m) must replace Bouaddi's midfield output immediately.",
+    "Pot 3 draw is tough: Bayern at home, Arsenal, Stuttgart and Roma away, plus the Aspmyra artificial pitch."
   ],
   "positional_needs": [
     {
-      "position": "ST",
-      "priority": "high",
-      "profile": "20-26 goal-a-season 9, mobile, 22-27",
-      "reason": "Giroud (39) was top scorer with 7 league goals; heavy outgoing window",
-      "budget_eur_m": null,
-      "wage_ceiling_eur_m_net": null
-    },
-    {
-      "position": "RW",
-      "priority": "medium",
-      "profile": "1v1 dribbler with resale value",
-      "reason": "club publicly opened the door to Edon Zhegrova's departure (soccerway); wide options unverified post-window",
-      "budget_eur_m": null,
-      "wage_ceiling_eur_m_net": null
-    },
-    {
       "position": "CM",
+      "priority": "high",
+      "profile": "ball-progressing 8 with resale value, 20-24",
+      "reason": "Bouaddi sold to Manchester City; Önal and Kjaergaard are the only midfield arrivals",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    },
+    {
+      "position": "LW",
       "priority": "medium",
-      "profile": "ball-progressing 8, 21-25",
-      "reason": "large midfield turnover; Önal (EUR 12m) is the only verified midfield arrival",
+      "profile": "1v1 dribbler, 20-24",
+      "reason": "Fernández-Pardo sold to Newcastle on deadline day; Sahraoui and the loanee Bakwa remain",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    },
+    {
+      "position": "RB",
+      "priority": "medium",
+      "profile": "experienced right-back, 24-29",
+      "reason": "Meunier left on a free; Tiago Santos and Hamidi are the options",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    },
+    {
+      "position": "ST",
+      "priority": "low",
+      "profile": "mobile backup 9",
+      "reason": "Giroud is 39; Ueda now first choice, Igamane injured at the start of the season",
       "budget_eur_m": null,
       "wage_ceiling_eur_m_net": null
     }
@@ -251,11 +693,30 @@
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_Lille_OSC_season",
     "https://lepetitlillois.com/2026/09/01/vingt-neuf-mouvements-enregistres-le-bilan-du-mercato-estival-2026-2027-du-losc/",
     "https://www.beinsports.com/en-us/soccer/ligue-1/articles/giroud-extends-lille-contract-until-2027-2026-06-09",
-    "https://fr.soccerway.com/actualites/football-ligue-1-lille-ouvre-la-porte-a-un-depart-d-edon-zhegrova-durant-le-mercato-estival/plKTDr7c"
+    "https://fr.soccerway.com/actualites/football-ligue-1-lille-ouvre-la-porte-a-un-depart-d-edon-zhegrova-durant-le-mercato-estival/plKTDr7c",
+    "https://www.footmercato.net/a6122128129710333243-ligue-des-champions-tirage-difficile-pour-le-psg-et-lens-le-losc-sen-tire-bien",
+    "https://lepetitlillois.com/2026/08/29/losc-connait-programmation-matchs-ldc/",
+    "https://www.losc.fr/actualites/2026-08-29/connait-le-calendrier-des-dogues-pour-la-champions-league",
+    "https://www.footmercato.net/a7794573741394749260-ligue-des-champions-le-psg-le-rc-lens-et-le-losc-connaissent-leur-calendrier",
+    "https://www.statmuse.com/fc/ask/lille-standings",
+    "https://www.losc.fr/actualites/2026-05-21/le-losc-europeen-pour-la-4eme-saison-consecutive-2",
+    "https://lepetitlillois.com/2026/09/01/mercato-losc-fernandezpardo-officiel-newcastle/",
+    "https://mercatolive.fr/losc-fernandez-pardo-file-a-newcastle-un-deal-autour-de-60-65-me/",
+    "https://www.espn.com/soccer/story/_/id/49640908/manchester-city-deal-lille-star-bouaddi",
+    "https://www.skysports.com/football/news/11679/13571912/ayyoub-bouaddi-transfer-why-do-man-city-want-to-spend-big-on-another-midfielder-after-signing-elliot-anderson",
+    "https://lepetitlillois.com/2026/09/02/losc-tendance-confirmee-nombre-contrats-reduits/",
+    "https://lepetitlillois.com/2026/08/14/losc-nombre-contrats-baisse-saison-2627/",
+    "https://lepetitlillois.com/2026/06/01/letang-point-fin-contrat-losc/",
+    "https://lepetitlillois.com/2026/08/22/angers-lille-groupe-losc-connu/",
+    "https://lepetitlillois.com/2026/08/25/angers-losc-ancelotti-interessant-grenier-ligue1/",
+    "https://lepetitlillois.com/2026/07/18/losc-raal-louviere-premiere-composition-officielle-ancelotti/",
+    "https://le11hdf.fr/losc-effectif-equilibre-echeances-a-surveiller/",
+    "https://www.getfootballnewsfrance.com/2026/official-lille-sign-feyenoord-striker-ayase-ueda/",
+    "https://www.goal.com/en/news/ayase-ueda-definitively-gone-from-feyenoord/blt7e2234dd6982e816"
   ],
-  "as_of": "2026-09-02",
+  "as_of": "2026-09-03",
   "data_quality": {
-    "confidence": "low",
-    "notes": "SQUAD IS PARTIAL: only players whose presence in the 2026/27 squad is supported by a source found during research are listed; a full 20-26 man squad, shirt numbers, contract dates and per-player 2025/26 minutes could not be retrieved because the research session lost web access (search budget exhausted; fetch to transfermarkt/fbref/uefa/club sites blocked). Ages are computed from publicly known birth dates. UCL DRAW: the eight opponents are verified (Bayern Munich, Arsenal, Real Betis, AS Roma, Galatasaray, Bodø/Glimt, Slovan Bratislava, VfB Stuttgart) but only two venues could be confirmed (away at Roma and at Bodø/Glimt, from those clubs' draw reports); home list left empty per brief. League: 3rd with 61 pts verified (PSG 76, Lens 70); W/D/L and goals not retrieved. Summer window: totals (8 in for EUR 42m, 21 out for EUR 175.25m) verified via Le Petit Lillois; only three arrivals named; departures list not retrieved. Ancelotti's formation unverified. | Reconciled 2026-09-02 with player-pool research: Ueda added (joined LOSC Lille 1 Sep 2026, see players/ayase_ueda.json)."
+    "confidence": "medium",
+    "notes": "Updated 2026-09-03 from search snippets. VERIFIED: Davide Ancelotti (1 Jun 2026; 2-0 win at Angers in his first Ligue 1 match); Ligue 1 3rd, 61 pts, 18-7-9 (StatMuse; away record 10-2-5 per LOSC site) - goals for/against not retrieved; EL R16; Coupe de France R32; UCL DRAW now fully split: home v Bayern, Betis (8 Sep), Galatasaray (20 Oct), Slovan Bratislava; away at Arsenal (13 Oct), Roma, Stuttgart, Bodø/Glimt (Foot Mercato / Le Petit Lillois / LOSC calendar). Window totals (8 in for EUR 42m, 21 out for EUR 175.25m) from Le Petit Lillois; named arrivals Ueda 15 (Goal/GFFN say 'at least 20'), Önal 12, Kjaergaard 8, Srdanovic 3, Nianzou free, Bakwa and Sibiya loans (parent clubs not retrieved); departures Bouaddi ~EUR 95m+5m (ESPN/Sky), Fernández-Pardo ~EUR 65m (Le Petit Lillois/Mercatolive), Mandi and Meunier out of contract - the other ~17 departures were not retrieved by name. SQUAD (25) = players listed with 2026-27 contract end dates by Le Petit Lillois (Aug/Sep 2026) plus the new signings; Bouaddi removed (sold after the Angers match). Roles inferred from the Angers match group and July friendly XI - Ancelotti's settled XI is not yet documented, so treat starter/rotation as provisional. Ueda's 2025/26 line (31 apps, 2,535 min, 25 G, 1 A) is from the Eredivisie. Ages only Giroud 39, Ueda 28, Nianzou 24. Youth players Boussadia, Diaoune, Goffi, Imbondo, Morais omitted (positions unverified). Zhegrova reference removed (left in 2025)."
   }
 }
