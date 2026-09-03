@@ -7,52 +7,37 @@
   "city": "Baku",
   "ucl_2026_27": {
     "pot": 4,
-    "qualified_via": "Azerbaijan Premier League 2025/26 champion (first title); came through four qualifying rounds incl. play-off vs Hapoel Be'er Sheva (6-4 agg)",
-    "opponents_home": [
-      "Arsenal",
-      "Manchester United"
-    ],
-    "opponents_away": [
-      "FC Barcelona",
-      "Borussia Dortmund",
-      "Viking"
-    ]
+    "qualified_via": "Azerbaijan Premier League 2025/26 champion (first title, sealed with four rounds to spare); came through four qualifying rounds incl. play-off vs Hapoel Be'er Sheva (6-4 agg)",
+    "opponents_home": ["Arsenal", "Manchester United", "Napoli", "Slavia Praha"],
+    "opponents_away": ["FC Barcelona", "Borussia Dortmund", "Villarreal", "Viking"]
   },
   "head_coach": {
     "name": "Valdas Dambrauskas",
     "since": "2025-06",
     "nationality": "LTU",
     "preferred_formation": null,
-    "style_keywords": [
-      "organised pressing",
-      "fast wide transitions",
-      "cup-tie pragmatism"
-    ]
+    "style_keywords": ["organised pressing", "fast wide transitions", "cup-tie pragmatism", "double-winning first season"]
   },
   "identity": {
-    "playing_style": "Dambrauskas (appointed June 2025 on a three-year deal) won the domestic double in his first season and then navigated four UCL qualifying rounds. The team is built around the goals of Joy-Lance Mickels (28 in all competitions 2025/26) with quick wide play; the 6-4 aggregate vs Hapoel Be'er Sheva shows an attack-first, defensively open profile. Formation not verifiable this session.",
+    "playing_style": "Dambrauskas (appointed June 2025 on a three-year deal) won the domestic double in his first season - the league sealed with four rounds to spare, the cup 2-1 against Zira - and then navigated four UCL qualifying rounds. The team is built around the goals of Joy-Lance Mickels (19 league / 28 all-competition goals in 2025/26, contract extended by two seasons) with quick wide play; the 6-4 aggregate vs Hapoel Be'er Sheva shows an attack-first, defensively open profile. Formation not verifiable this session.",
     "principles": [
       "young club (founded 2017) built to challenge Qarabağ",
-      "imports from African, Portuguese and Balkan markets (McCarthy, Almeida, Mbina, Simić, Nwachukwu)",
-      "loan-to-buy conversions (Simić, Mbina)"
+      "imports from African, Portuguese, Balkan and post-Soviet markets (McCarthy, Almeida, Mbina, Simić, Nwachukwu, Pokatilov, Rahmonaliev)",
+      "loan-to-buy conversions (Simić, Mbina) and loans from bigger clubs (Lachaab from Lille, Du Queiroz from Zenit)",
+      "retain the domestic core (Mutallimov extended to 2028)"
     ],
-    "club_character": "Baku club founded 2017, plays at the Bank Respublika Arena in Masazır; small organic fan base, low domestic media pressure, but first UCL league-phase appearance for a non-Qarabağ Azerbaijani club brings national attention.",
+    "club_character": "Baku club founded 2017, plays at the Bank Respublika Arena in Masazır; small organic fan base, low domestic media pressure, but the first UCL league-phase appearance for a non-Qarabağ Azerbaijani club brings national attention.",
     "ownership": "private / corporate (commonly reported as backed by PASHA Holding; NOT verified in this session's sources)",
     "political_and_social_context": "Azerbaijani football operates under close state and conglomerate involvement that is publicly documented at league level; nothing institution-specific about Sabah surfaced in this session's sources.",
-    "languages": [
-      "az",
-      "tr",
-      "en",
-      "ru"
-    ],
+    "languages": ["az", "tr", "en", "ru", "pt"],
     "wage_structure": "unknown",
-    "transfer_policy": "Free/low-fee signings of 22-27-year-olds from second-tier European leagues and Africa, 2-3-year contracts with options; retention of domestic core (Mutallimov extended to 2028).",
+    "transfer_policy": "Free/low-fee signings of 22-27-year-olds from second-tier European leagues, Africa and the CIS, 2-3-year contracts with options; loans with purchase options from bigger clubs; retention of domestic core (Mutallimov extended to 2028, Mickels extended two seasons).",
     "injury_management_reputation": null
   },
   "last_season_2025_26": {
     "league_position": 1,
     "points": null,
-    "played": null,
+    "played": 36,
     "won": null,
     "drawn": null,
     "lost": null,
@@ -61,367 +46,95 @@
     "xg_for": null,
     "xg_against": null,
     "possession_pct": null,
-    "ucl_result": "Did not play UCL; UEFA Conference League third qualifying round (vs Levski Sofia)",
+    "ucl_result": "Did not play UCL; UEFA Conference League third qualifying round (vs Levski Sofia, eliminated)",
     "domestic_cup": "Winner (Azerbaijan Cup, 2-1 vs Zira, 13 May 2026)",
-    "top_scorer": {
-      "name": "Joy-Lance Mickels",
-      "goals": 19
-    },
-    "top_assister": {
-      "name": null,
-      "assists": null
-    }
+    "top_scorer": {"name": "Joy-Lance Mickels", "goals": 19},
+    "top_assister": {"name": null, "assists": null}
   },
   "summer_2026_window": {
     "arrivals": [
-      {
-        "name": "Veljko Simić",
-        "from": "Sivasspor (permanent after loan)",
-        "fee_eur_m": null,
-        "position": "AM"
-      },
-      {
-        "name": "Aden McCarthy",
-        "from": "Kaizer Chiefs",
-        "fee_eur_m": null,
-        "position": "CB"
-      },
-      {
-        "name": "Younes Lachaab",
-        "from": "Lille (loan)",
-        "fee_eur_m": 0,
-        "position": "RW"
-      },
-      {
-        "name": "Erivaldo Almeida",
-        "from": "Marítimo",
-        "fee_eur_m": null,
-        "position": "CM"
-      },
-      {
-        "name": "Orphé Mbina",
-        "from": "NK Maribor (permanent after loan)",
-        "fee_eur_m": null,
-        "position": "ST"
-      },
-      {
-        "name": "Christian Nwachukwu",
-        "from": "Sheffield United",
-        "fee_eur_m": null,
-        "position": null
-      }
+      {"name": "Veljko Simić", "from": "Sivasspor (permanent after loan, 2 Jun 2026, two-year deal)", "fee_eur_m": null, "position": "AM"},
+      {"name": "Aden McCarthy", "from": "Kaizer Chiefs (9 Jun 2026, three-year deal + option)", "fee_eur_m": null, "position": "CB"},
+      {"name": "Younes Lachaab", "from": "Lille (season-long loan)", "fee_eur_m": 0, "position": "RW"},
+      {"name": "Erivaldo Almeida", "from": "Marítimo (three-year deal)", "fee_eur_m": null, "position": "CM"},
+      {"name": "Orphé Mbina", "from": "NK Maribor (permanent after loan, three-year deal)", "fee_eur_m": null, "position": "ST"},
+      {"name": "Christian Nwachukwu", "from": "Sheffield United", "fee_eur_m": null, "position": "LW"},
+      {"name": "Du Queiroz", "from": "Zenit St Petersburg (season-long loan with option)", "fee_eur_m": 0, "position": "CM"}
     ],
-    "departures": [],
+    "departures": [
+      {"name": "Amin Seydiyev", "to": null, "fee_eur_m": null, "position": null}
+    ],
     "net_spend_eur_m": null
   },
   "squad": [
-    {
-      "name": "Joy-Lance Mickels",
-      "position": "ST",
-      "secondary_positions": [
-        "LW"
-      ],
-      "age": null,
-      "nationality": "GER",
-      "contract_until": null,
-      "shirt_no": null,
-      "role": "starter",
-      "stats_2025_26": {
-        "apps": null,
-        "starts": null,
-        "minutes": null,
-        "goals": 19,
-        "assists": null
-      },
-      "injury_flag": null
-    },
-    {
-      "name": "Orphé Mbina",
-      "position": "ST",
-      "secondary_positions": [],
-      "age": null,
-      "nationality": "GAB",
-      "contract_until": null,
-      "shirt_no": null,
-      "role": "rotation",
-      "stats_2025_26": {
-        "apps": null,
-        "starts": null,
-        "minutes": null,
-        "goals": null,
-        "assists": null
-      },
-      "injury_flag": null
-    },
-    {
-      "name": "Veljko Simić",
-      "position": "AM",
-      "secondary_positions": [],
-      "age": null,
-      "nationality": "SRB",
-      "contract_until": null,
-      "shirt_no": null,
-      "role": "starter",
-      "stats_2025_26": {
-        "apps": null,
-        "starts": null,
-        "minutes": null,
-        "goals": null,
-        "assists": null
-      },
-      "injury_flag": null
-    },
-    {
-      "name": "Younes Lachaab",
-      "position": "RW",
-      "secondary_positions": [],
-      "age": null,
-      "nationality": "MAR",
-      "contract_until": null,
-      "shirt_no": null,
-      "role": "rotation",
-      "stats_2025_26": {
-        "apps": null,
-        "starts": null,
-        "minutes": null,
-        "goals": null,
-        "assists": null
-      },
-      "injury_flag": null
-    },
-    {
-      "name": "Erivaldo Almeida",
-      "position": "CM",
-      "secondary_positions": [],
-      "age": null,
-      "nationality": "POR",
-      "contract_until": null,
-      "shirt_no": null,
-      "role": "rotation",
-      "stats_2025_26": {
-        "apps": null,
-        "starts": null,
-        "minutes": null,
-        "goals": null,
-        "assists": null
-      },
-      "injury_flag": null
-    },
-    {
-      "name": "Aden McCarthy",
-      "position": "CB",
-      "secondary_positions": [],
-      "age": null,
-      "nationality": "RSA",
-      "contract_until": null,
-      "shirt_no": null,
-      "role": "rotation",
-      "stats_2025_26": {
-        "apps": null,
-        "starts": null,
-        "minutes": null,
-        "goals": null,
-        "assists": null
-      },
-      "injury_flag": null
-    },
-    {
-      "name": "Tellur Mutallimov",
-      "position": "CM",
-      "secondary_positions": [],
-      "age": null,
-      "nationality": "AZE",
-      "contract_until": 2028,
-      "shirt_no": null,
-      "role": "starter",
-      "stats_2025_26": {
-        "apps": null,
-        "starts": null,
-        "minutes": null,
-        "goals": null,
-        "assists": null
-      },
-      "injury_flag": null
-    },
-    {
-      "name": "Christian Nwachukwu",
-      "position": "LW",
-      "secondary_positions": [],
-      "age": null,
-      "nationality": "NGA",
-      "contract_until": 2029,
-      "shirt_no": null,
-      "role": "rotation",
-      "stats_2025_26": {
-        "apps": null,
-        "starts": null,
-        "minutes": null,
-        "goals": null,
-        "assists": null
-      },
-      "injury_flag": null
-    },
-    {
-      "name": "Elvin Camalov",
-      "position": "CB",
-      "secondary_positions": [],
-      "age": null,
-      "nationality": "AZE",
-      "contract_until": null,
-      "shirt_no": null,
-      "role": "starter",
-      "stats_2025_26": {
-        "apps": null,
-        "starts": null,
-        "minutes": null,
-        "goals": null,
-        "assists": null
-      },
-      "injury_flag": null
-    },
-    {
-      "name": "Rahil Mammadov",
-      "position": "RB",
-      "secondary_positions": [],
-      "age": null,
-      "nationality": "AZE",
-      "contract_until": null,
-      "shirt_no": null,
-      "role": "rotation",
-      "stats_2025_26": {
-        "apps": null,
-        "starts": null,
-        "minutes": null,
-        "goals": null,
-        "assists": null
-      },
-      "injury_flag": null
-    },
-    {
-      "name": "Namik Alaskarov",
-      "position": "CM",
-      "secondary_positions": [],
-      "age": null,
-      "nationality": "AZE",
-      "contract_until": null,
-      "shirt_no": null,
-      "role": "rotation",
-      "stats_2025_26": {
-        "apps": null,
-        "starts": null,
-        "minutes": null,
-        "goals": null,
-        "assists": null
-      },
-      "injury_flag": null
-    },
-    {
-      "name": "Jesse Sekidika",
-      "position": "LW",
-      "secondary_positions": [],
-      "age": null,
-      "nationality": "NGA",
-      "contract_until": null,
-      "shirt_no": null,
-      "role": "rotation",
-      "stats_2025_26": {
-        "apps": null,
-        "starts": null,
-        "minutes": null,
-        "goals": null,
-        "assists": null
-      },
-      "injury_flag": null
-    },
-    {
-      "name": "Ayaz Guliyev",
-      "position": "DM",
-      "secondary_positions": [],
-      "age": null,
-      "nationality": "AZE",
-      "contract_until": null,
-      "shirt_no": null,
-      "role": "rotation",
-      "stats_2025_26": {
-        "apps": null,
-        "starts": null,
-        "minutes": null,
-        "goals": null,
-        "assists": null
-      },
-      "injury_flag": null
-    }
+    {"name": "Stas Pokatilov", "position": "GK", "secondary_positions": [], "age": null, "nationality": "KAZ", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Amin Ramazanov", "position": "GK", "secondary_positions": [], "age": null, "nationality": "AZE", "contract_until": null, "shirt_no": null, "role": "backup", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Ravan Mirzammadov", "position": "GK", "secondary_positions": [], "age": null, "nationality": "AZE", "contract_until": null, "shirt_no": null, "role": "backup", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Aden McCarthy", "position": "CB", "secondary_positions": [], "age": null, "nationality": "RSA", "contract_until": 2029, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Steve Solvet", "position": "CB", "secondary_positions": [], "age": null, "nationality": "FRA", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Abdulla Rzayev", "position": "CB", "secondary_positions": [], "age": null, "nationality": "AZE", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Rahman Dashdamirov", "position": "RB", "secondary_positions": ["CB"], "age": null, "nationality": "AZE", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Akim Zedadka", "position": "RB", "secondary_positions": [], "age": null, "nationality": "ALG", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Tymoteusz Puchacz", "position": "LB", "secondary_positions": ["LW"], "age": null, "nationality": "POL", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Tellur Mutallimov", "position": "CM", "secondary_positions": ["DM"], "age": null, "nationality": "AZE", "contract_until": 2028, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Erivaldo Almeida", "position": "CM", "secondary_positions": ["DM"], "age": null, "nationality": "POR", "contract_until": 2029, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Du Queiroz", "position": "CM", "secondary_positions": ["DM"], "age": null, "nationality": "BRA", "contract_until": 2027, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Umarli Rahmonaliev", "position": "CM", "secondary_positions": ["AM"], "age": null, "nationality": "UZB", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Abdulakh Khaybulayev", "position": "CM", "secondary_positions": [], "age": null, "nationality": "AZE", "contract_until": null, "shirt_no": null, "role": "backup", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Aleksey Isayev", "position": "AM", "secondary_positions": ["CM"], "age": null, "nationality": "AZE", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Khayal Aliyev", "position": "AM", "secondary_positions": ["RW"], "age": null, "nationality": "AZE", "contract_until": null, "shirt_no": null, "role": "backup", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Veljko Simić", "position": "AM", "secondary_positions": ["RW"], "age": null, "nationality": "SRB", "contract_until": 2028, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Kaheem Parris", "position": "RW", "secondary_positions": ["LW"], "age": null, "nationality": "JAM", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Younes Lachaab", "position": "RW", "secondary_positions": [], "age": null, "nationality": "MAR", "contract_until": 2027, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Christian Nwachukwu", "position": "LW", "secondary_positions": [], "age": null, "nationality": "NGA", "contract_until": 2029, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Joy-Lance Mickels", "position": "ST", "secondary_positions": ["LW"], "age": null, "nationality": "GER", "contract_until": 2028, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 19, "assists": null}, "injury_flag": null},
+    {"name": "Orphé Mbina", "position": "ST", "secondary_positions": [], "age": null, "nationality": "GAB", "contract_until": 2029, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null}
   ],
   "strengths": [
     "Domestic double champions with a coach who has now won titles in Lithuania, Bulgaria and Azerbaijan.",
     "Proven qualifier toughness: four rounds cleared, including the 6-4 aggregate play-off.",
-    "Mickels is a bona fide goal source (28 in all comps 2025/26).",
-    "Squad strengthened rather than sold: two loanees made permanent, four external additions, key domestic midfielder Mutallimov retained."
+    "Mickels is a bona fide goal source (28 in all comps 2025/26) and has been re-signed for two more seasons.",
+    "Squad strengthened rather than sold: two loanees made permanent, five external additions incl. a Kazakhstan international GK (Pokatilov) and a Zenit loanee (Du Queiroz), key domestic midfielder Mutallimov retained."
   ],
   "weaknesses": [
-    "Open defence: conceded four over two play-off legs; will face Barcelona, Arsenal, Dortmund, Napoli-level attacks.",
+    "Open defence: conceded four over two play-off legs; will face Barcelona, Arsenal, Dortmund and Napoli-level attacks.",
     "Lowest-ranked league in the draw - the step in quality and intensity is the largest of any Pot-4 club.",
     "Heavy dependence on one scorer (Mickels); no verified second striker of comparable output.",
-    "Squad for 2026/27 could only be partially verified; several 2025/26 names unverified."
+    "Home/away split of the draw is unkind: the three most winnable-looking ties (Viking, Villarreal, Slavia) include two away trips."
   ],
   "positional_needs": [
-    {
-      "position": "CB",
-      "priority": "high",
-      "profile": "dominant, quick, UCL-ready, 24-29",
-      "reason": "Conceding freely in qualifiers; McCarthy is the only summer addition",
-      "budget_eur_m": 1,
-      "wage_ceiling_eur_m_net": 0.4
-    },
-    {
-      "position": "ST",
-      "priority": "medium",
-      "profile": "reliable second scorer to share load with Mickels",
-      "reason": "Mickels dependency; Mbina unproven at this level",
-      "budget_eur_m": 1,
-      "wage_ceiling_eur_m_net": 0.4
-    },
-    {
-      "position": "GK",
-      "priority": "medium",
-      "profile": "experienced European-level No.1",
-      "reason": "Goalkeeper for 2026/27 not verified; big-game shot-stopping will decide points",
-      "budget_eur_m": 0.5,
-      "wage_ceiling_eur_m_net": 0.3
-    }
+    {"position": "CB", "priority": "high", "profile": "dominant, quick, UCL-ready, 24-29", "reason": "Conceding freely in qualifiers; McCarthy is the only summer addition at CB", "budget_eur_m": 1, "wage_ceiling_eur_m_net": 0.4},
+    {"position": "ST", "priority": "medium", "profile": "reliable second scorer to share load with Mickels", "reason": "Mickels dependency; Mbina unproven at this level", "budget_eur_m": 1, "wage_ceiling_eur_m_net": 0.4},
+    {"position": "GK", "priority": "low", "profile": "experienced European-level No.1 if Pokatilov struggles", "reason": "Pokatilov is the only internationally experienced goalkeeper verified", "budget_eur_m": 0.5, "wage_ceiling_eur_m_net": 0.3}
   ],
   "position_benchmarks": {
-    "ST": {
-      "goals_p90": null,
-      "assists_p90": null,
-      "shots_p90": null,
-      "pressures_p90": null
-    },
-    "CB": {
-      "aerials_won_pct": null,
-      "tackles_interceptions_p90": null,
-      "progressive_passes_p90": null
-    },
-    "CM": {
-      "pass_completion_pct": null,
-      "progressive_passes_p90": null,
-      "tackles_interceptions_p90": null
-    }
+    "ST": {"goals_p90": null, "assists_p90": null, "shots_p90": null, "pressures_p90": null},
+    "CB": {"aerials_won_pct": null, "tackles_interceptions_p90": null, "progressive_passes_p90": null},
+    "CM": {"pass_completion_pct": null, "progressive_passes_p90": null, "tackles_interceptions_p90": null},
+    "GK": {"save_pct": null, "goals_prevented_p90": null}
   },
   "sources": [
     "https://www.uefa.com/uefachampionsleague/news/02a8-216cd740d41f-fd3b45ac4a0f-1000--champions-league-league-phase-draw-all-36-teams-learn-their/",
     "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/2026-27-champions-league-all-opponents-start-date-and-everything-to-know-about-the-league-phase-2026-08-27",
     "https://www.uefa.com/uefachampionsleague/clubs/2609356--sabah/matches/",
+    "https://sscnapoli.it/en/champions-league-le-avversarie-del-napoli-nella-league-phase-2/",
+    "https://onefootball.com/en/news/villarreal-discover-eight-opponents-for-202627-champions-league-43350774",
+    "https://www.si.com/soccer/2026-27-champions-league-draw-league-phase-games-full",
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_Sabah_FC_season",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Sabah_FC_season",
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_Azerbaijan_Premier_League",
+    "https://az.wikipedia.org/wiki/Az%C9%99rbaycan_Premyer_Liqas%C4%B1_2025/2026",
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_Azerbaijan_Cup",
     "https://www.azernews.az/sports/258848.html",
+    "https://report.az/futbol-xeberleri/premyer-liqada-2025-2026-movsumunub-qalibi-olan-sabah-a-kubok-teqdim-olunub",
+    "https://www.whoscored.com/matches/1946261/show/azerbaijan-premier-league-2025-2026-turan-tovuz-sabah-fk",
+    "https://www.espn.com/soccer/team/squad/_/id/21922/sabah-fk",
+    "https://www.uefa.com/uefachampionsleague/clubs/2609356--sabah/squad/",
     "https://www.goal.com/en/lists/sabah-fk-history-and-profile-of-the-young-azerbaijani-club-who-have-qualified-for-the-champions-league-league-phase-for-the-first-time/blt860345fb6365ec21"
   ],
-  "as_of": "2026-09-02",
+  "as_of": "2026-09-03",
   "data_quality": {
     "confidence": "low",
-    "notes": "Coach, title, cup win, top scorer, arrivals and five of eight UCL opponents (home Arsenal, Man Utd; away Barcelona, Dortmund, Viking - the latter inferred from Viking hosting Sabah) verified. The remaining three opponents are Napoli, Villarreal and Slavia Prague, but home/away for those could not be determined - they are omitted from the lists. League points/W/D/L/GF/GA NOT found. Mickels' league goals appear as 18 in one snippet and 19 in another (28 all comps); 19 used. Conference League Q3 outcome vs Levski not explicit (presumably eliminated). Departures not found. Squad: Mickels, Mbina, Simić, Lachaab, Almeida, McCarthy, Mutallimov, Nwachukwu confirmed; Camalov, Mammadov, Alaskarov, Sekidika, Guliyev carried from 2025/26 general knowledge and NOT verified; no goalkeeper could be verified. Ownership claim unverified this session."
+    "notes": "Home/away split now complete and cross-verified: Napoli's official draw list has Sabah AWAY for Napoli (so home for Sabah), Villarreal host Sabah (away for Sabah), Slavia's list has Sabah away (home for Sabah). Verified previously: coach, title, cup win, top scorer, arrivals. New this session: Mickels contract extension (two seasons), Du Queiroz loan from Zenit, Pokatilov as goalkeeper, league sealed four rounds early, final-day 2-1 win at Turan Tovuz (22 May 2026). League points/W/D/L/GF/GA still NOT found (played 36 assumed from a 12-team triple round-robin; unverified). Squad names come from ESPN's Sabah squad page and Wikipedia's 2026/27 season page; the previously unverified names (Camalov, R. Mammadov, Alaskarov, Sekidika, Guliyev) have been REMOVED because they could not be confirmed on any 2026/27 list. Ages and shirt numbers null (not sourced). Contract years derived from reported deal lengths (McCarthy 3y -> 2029, Almeida 3y -> 2029, Mbina 3y -> 2029, Simić 2y -> 2028, Mickels +2 -> 2028, loans -> 2027). Departures: soccerway lists several 1 Jul 2026 exits, but most are loan-expiry artefacts for players who were then signed permanently, so only Seydiyev is recorded. Mickels league goals appear as 18 and 19 in different snippets; 19 used. Ownership claim unverified. Budgets are analyst estimates."
   }
 }

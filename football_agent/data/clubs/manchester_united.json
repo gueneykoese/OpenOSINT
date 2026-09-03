@@ -7,85 +7,176 @@
   "city": "Manchester",
   "ucl_2026_27": {
     "pot": 2,
-    "qualified_via": null,
-    "opponents_home": [],
-    "opponents_away": []
+    "qualified_via": "Premier League 2025/26 3rd place",
+    "opponents_home": ["Bayern Munich", "Roma", "RB Leipzig", "Sabah"],
+    "opponents_away": ["Atletico Madrid", "Sporting CP", "Villarreal", "Como"]
   },
   "head_coach": {
-    "name": null,
-    "since": null,
-    "nationality": null,
-    "preferred_formation": null,
-    "style_keywords": []
+    "name": "Michael Carrick",
+    "since": "2026-01",
+    "nationality": "ENG",
+    "preferred_formation": "4-2-3-1",
+    "style_keywords": [
+      "double pivot build-up through short connections",
+      "bait the press then play through the lines",
+      "dominate central spaces, go wide when blocked",
+      "free-roaming No.10 (Bruno Fernandes)",
+      "compact mid-block out of possession",
+      "occasional 4-4-2"
+    ]
   },
   "identity": {
-    "playing_style": null,
-    "principles": [],
-    "club_character": null,
-    "ownership": null,
-    "political_and_social_context": null,
-    "languages": [],
-    "wage_structure": "unknown",
-    "transfer_policy": null,
-    "injury_management_reputation": null
+    "playing_style": "Carrick moved United back to a 4-2-3-1 after Amorim's back-three experiment. The double pivot exchanges short passes with the centre-backs to draw the press and then plays through the gaps; the No.10 (Fernandes) has licence to roam and attempt risky forward passes, with Mbeumo/Cunha/Rashford providing pace either side of a central striker. Out of possession the team defends in a compact block. The summer 2026 window doubled down on the midfield engine (Baleba, Tielemans, Andrey Santos).",
+    "principles": [
+      "coach continuity after a crisis: Carrick promoted from interim (Jan 2026) to permanent (May 2026, contract to 2028)",
+      "INEOS/Ratcliffe-led football operations with a data-and-recruitment-department model",
+      "heavy midfield investment in 2026 (Baleba GBP 70m, Tielemans, Santos) after Casemiro's exit and Ugarte's injury",
+      "academy pathway maintained (Mainoo, Amass, Fletcher twins, Lacey, JJ Gabriel given senior numbers)",
+      "large-scale squad trimming: 24 exits via sales, loans and expiries in summer 2026"
+    ],
+    "club_character": "Global mega-club with the largest commercial revenues in England, extreme media scrutiny and impatient expectations after a decade without a league title. 2025/26 was a recovery season (3rd, first UCL return since 2024/25 absence). Old Trafford atmosphere remains politically charged by 'Glazers out' protests; plans for a USD 1-2bn stadium modernisation/new build are led by the INEOS side.",
+    "ownership": "Private/listed (NYSE: MANU). Glazer family hold roughly 48.9% of shares and about 67.9% of voting power; Sir Jim Ratcliffe / INEOS hold about 28.9% and run all football operations under the 2024 minority deal.",
+    "political_and_social_context": "Publicly documented: long-running supporter protests against the Glazer family's 2005 leveraged buyout and continuing debt; INEOS's 2024 minority purchase (approx USD 1.65bn) gave it operational control without voting control, an arrangement repeatedly criticised by fan groups. Stadium redevelopment plans depend on public/private regeneration funding debates in Greater Manchester.",
+    "languages": ["en", "pt", "es", "fr"],
+    "wage_structure": "hierarchical - historically the highest wage bill in the Premier League; top earners (Fernandes, Cunha, Mbeumo, Sesko) on multi-hundred-thousand GBP weekly deals; exact 2026/27 figures not verified",
+    "transfer_policy": "Big-fee buyer for prime-age Premier League-proven players (Baleba 22, Mbeumo, Cunha, Sesko), now paired with aggressive outgoing trimming of fringe players; INEOS recruitment team plus coach input",
+    "injury_management_reputation": "Public discussion in Aug 2026 centred on two long-term absentees: Manuel Ugarte (serious knee injury at the 2026 World Cup) and Matthijs de Ligt (still battling injury as the season began); new signing Baleba arrived with an ankle injury (return expected mid-Sept 2026). No systematic criticism of the medical department found."
   },
   "last_season_2025_26": {
-    "league_position": null,
-    "points": null,
-    "played": null,
-    "won": null,
-    "drawn": null,
-    "lost": null,
-    "goals_for": null,
-    "goals_against": null,
+    "league_position": 3,
+    "points": 71,
+    "played": 38,
+    "won": 20,
+    "drawn": 11,
+    "lost": 7,
+    "goals_for": 69,
+    "goals_against": 50,
     "xg_for": null,
     "xg_against": null,
     "possession_pct": null,
-    "ucl_result": null,
-    "domestic_cup": null,
-    "top_scorer": {
-      "name": null,
-      "goals": null
-    },
-    "top_assister": {
-      "name": null,
-      "assists": null
-    }
+    "ucl_result": "Not in European competition in 2025/26 (finished 15th in 2024/25 and lost the 2025 Europa League final)",
+    "domestic_cup": "FA Cup third round (lost to Brighton); Carabao Cup third round (lost on penalties to Grimsby Town)",
+    "top_scorer": {"name": "Benjamin Sesko / Bryan Mbeumo (tied)", "goals": 11},
+    "top_assister": {"name": "Bruno Fernandes", "assists": null}
   },
   "summer_2026_window": {
-    "arrivals": [],
-    "departures": [],
+    "arrivals": [
+      {"name": "Carlos Baleba", "from": "Brighton & Hove Albion", "fee_eur_m": 80.5, "position": "DM"},
+      {"name": "Youri Tielemans", "from": "Aston Villa", "fee_eur_m": 40.0, "position": "CM"},
+      {"name": "Andrey Santos", "from": "Chelsea", "fee_eur_m": null, "position": "CM"},
+      {"name": "Karl Darlow", "from": "Leeds United (free)", "fee_eur_m": 0, "position": "GK"},
+      {"name": "Tynan Thompson", "from": "Tottenham Hotspur", "fee_eur_m": null, "position": null},
+      {"name": "Kit Margetson", "from": "Swansea City", "fee_eur_m": null, "position": null},
+      {"name": "Cristian Orozco", "from": "Fortaleza CEIF", "fee_eur_m": null, "position": null},
+      {"name": "Jadon Sancho", "from": "Aston Villa (end of loan, then released)", "fee_eur_m": null, "position": "LW"}
+    ],
+    "departures": [
+      {"name": "Rasmus Hojlund", "to": "Napoli (permanent after loan)", "fee_eur_m": 49.5, "position": "ST"},
+      {"name": "Casemiro", "to": "Inter Miami (contract expired)", "fee_eur_m": 0, "position": "DM"},
+      {"name": "Jadon Sancho", "to": "released (contract expired)", "fee_eur_m": 0, "position": "LW"},
+      {"name": "Tyrell Malacia", "to": "released (contract expired)", "fee_eur_m": 0, "position": "LB"},
+      {"name": "Andre Onana", "to": "Trabzonspor (loan extended)", "fee_eur_m": null, "position": "GK"},
+      {"name": "Altay Bayindir", "to": "loan (club not verified)", "fee_eur_m": null, "position": "GK"},
+      {"name": "Dan Gore", "to": "Luton Town (loan)", "fee_eur_m": null, "position": "CM"},
+      {"name": "Sekou Kone", "to": "loan (club not verified)", "fee_eur_m": null, "position": "CM"}
+    ],
     "net_spend_eur_m": null
   },
-  "squad": [],
-  "strengths": [],
-  "weaknesses": [],
-  "positional_needs": [],
+  "squad": [
+    {"name": "Senne Lammens", "position": "GK", "secondary_positions": [], "age": null, "nationality": "BEL", "contract_until": null, "shirt_no": 1, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Karl Darlow", "position": "GK", "secondary_positions": [], "age": null, "nationality": "WAL", "contract_until": null, "shirt_no": 12, "role": "backup", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Tom Heaton", "position": "GK", "secondary_positions": [], "age": null, "nationality": "ENG", "contract_until": null, "shirt_no": 22, "role": "backup", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Diogo Dalot", "position": "RB", "secondary_positions": ["LB"], "age": null, "nationality": "POR", "contract_until": null, "shirt_no": 2, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Noussair Mazraoui", "position": "RB", "secondary_positions": ["LB", "CB"], "age": null, "nationality": "MAR", "contract_until": null, "shirt_no": 3, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Matthijs de Ligt", "position": "CB", "secondary_positions": [], "age": null, "nationality": "NED", "contract_until": null, "shirt_no": 4, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": "injured at start of 2026/27 (type/return date not verified)"},
+    {"name": "Harry Maguire", "position": "CB", "secondary_positions": [], "age": null, "nationality": "ENG", "contract_until": null, "shirt_no": 5, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Lisandro Martinez", "position": "CB", "secondary_positions": ["LB"], "age": null, "nationality": "ARG", "contract_until": null, "shirt_no": 6, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": "late return after 2026 World Cup final, building fitness (Aug 2026)"},
+    {"name": "Leny Yoro", "position": "CB", "secondary_positions": ["RB"], "age": null, "nationality": "FRA", "contract_until": null, "shirt_no": 15, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Ayden Heaven", "position": "CB", "secondary_positions": ["LB"], "age": null, "nationality": "ENG", "contract_until": null, "shirt_no": 26, "role": "prospect", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Luke Shaw", "position": "LB", "secondary_positions": ["CB"], "age": null, "nationality": "ENG", "contract_until": null, "shirt_no": 23, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Patrick Dorgu", "position": "LB", "secondary_positions": ["LW", "RB"], "age": null, "nationality": "DEN", "contract_until": null, "shirt_no": 13, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Carlos Baleba", "position": "DM", "secondary_positions": ["CM"], "age": 22, "nationality": "CMR", "contract_until": 2031, "shirt_no": 20, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": "ankle (pre-season), expected back mid-Sept 2026"},
+    {"name": "Manuel Ugarte", "position": "DM", "secondary_positions": ["CM"], "age": null, "nationality": "URU", "contract_until": null, "shirt_no": 25, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": "serious knee injury (2026 World Cup), long-term; return date not verified"},
+    {"name": "Youri Tielemans", "position": "CM", "secondary_positions": ["DM", "AM"], "age": null, "nationality": "BEL", "contract_until": null, "shirt_no": 18, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Andrey Santos", "position": "CM", "secondary_positions": ["DM"], "age": null, "nationality": "BRA", "contract_until": null, "shirt_no": 17, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Kobbie Mainoo", "position": "CM", "secondary_positions": ["AM"], "age": null, "nationality": "ENG", "contract_until": null, "shirt_no": 37, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Mason Mount", "position": "AM", "secondary_positions": ["CM", "RW"], "age": null, "nationality": "ENG", "contract_until": null, "shirt_no": 7, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Bruno Fernandes", "position": "AM", "secondary_positions": ["CM"], "age": null, "nationality": "POR", "contract_until": null, "shirt_no": 8, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Matheus Cunha", "position": "AM", "secondary_positions": ["LW", "ST"], "age": null, "nationality": "BRA", "contract_until": null, "shirt_no": 10, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Bryan Mbeumo", "position": "RW", "secondary_positions": ["ST"], "age": null, "nationality": "CMR", "contract_until": null, "shirt_no": 19, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 11, "assists": null}, "injury_flag": null},
+    {"name": "Amad Diallo", "position": "RW", "secondary_positions": ["RB", "AM"], "age": null, "nationality": "CIV", "contract_until": null, "shirt_no": 16, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Marcus Rashford", "position": "LW", "secondary_positions": ["ST"], "age": null, "nationality": "ENG", "contract_until": null, "shirt_no": 9, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Shea Lacey", "position": "RW", "secondary_positions": ["AM"], "age": null, "nationality": "ENG", "contract_until": null, "shirt_no": 31, "role": "prospect", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Benjamin Sesko", "position": "ST", "secondary_positions": [], "age": null, "nationality": "SVN", "contract_until": null, "shirt_no": 30, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 11, "assists": null}, "injury_flag": null},
+    {"name": "Joshua Zirkzee", "position": "ST", "secondary_positions": ["AM"], "age": null, "nationality": "NED", "contract_until": null, "shirt_no": 11, "role": "backup", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null}
+  ],
+  "strengths": [
+    "Stabilised, clearly-defined 4-2-3-1 under Carrick: 11 wins in his first 16 league games turned a crisis season into 3rd place and a UCL return.",
+    "Deepest midfield in years: Baleba (GBP 70m), Tielemans, Andrey Santos join Fernandes and Mainoo, giving ball-winning, progression and box arrivals.",
+    "Multiple double-figure scorers (Sesko 12, Mbeumo 12, Cunha 10+ in all competitions 2025/26) plus Rashford re-integrated as No.9-shirt wearer; 69 league goals.",
+    "Settled goalkeeper: Lammens became undisputed No.1 in his debut season, ending the Onana/Bayindir uncertainty.",
+    "Financial firepower and commercial scale to act quickly in the market (Baleba deal completed 25 Aug 2026)."
+  ],
+  "weaknesses": [
+    "Defensive availability: De Ligt injured, Martinez only just back from the World Cup, Yoro yet to convince - Maguire (33) remains a guaranteed starter.",
+    "Midfield injury cluster at kick-off: Ugarte (long-term knee) and Baleba (ankle) both out in Aug/Sept 2026.",
+    "50 league goals conceded in 2025/26 - worst defensive record of the top four - and cup humiliations (Grimsby, Brighton) show vulnerability against lower blocks/upsets.",
+    "Ownership politics (Glazer voting control vs INEOS operations) and stadium debate create constant off-field noise.",
+    "Squad churn: 24 exits and 7+ arrivals in one window; integration burden ahead of a first UCL campaign under Carrick."
+  ],
+  "positional_needs": [
+    {"position": "CB", "priority": "high", "profile": "athletic, front-foot centre-back comfortable in a back four, 22-27, left- or right-footed", "reason": "De Ligt injured, Martinez fitness uncertain, Maguire 33, Yoro inconsistent; only Heaven (prospect) beyond that.", "budget_eur_m": 50, "wage_ceiling_eur_m_net": 7},
+    {"position": "LB", "priority": "medium", "profile": "attacking full-back who can also cover as inverted wing-back", "reason": "Malacia released; Shaw's injury history and Dorgu still developing leave depth thin.", "budget_eur_m": 30, "wage_ceiling_eur_m_net": 4},
+    {"position": "ST", "priority": "low", "profile": "physical pressing No.9, 21-25, resale value", "reason": "Hojlund sold; Sesko is the only specialist striker with Zirkzee peripheral and Rashford/Cunha used centrally as needed.", "budget_eur_m": 60, "wage_ceiling_eur_m_net": 7}
+  ],
   "position_benchmarks": {
-    "ST": {
-      "goals_p90": null,
-      "assists_p90": null,
-      "shots_p90": null,
-      "pressures_p90": null
-    },
-    "CM": {
-      "pass_completion_pct": null,
-      "progressive_passes_p90": null,
-      "tackles_interceptions_p90": null
-    },
-    "CB": {
-      "pass_completion_pct": null,
-      "aerials_won_pct": null,
-      "tackles_interceptions_p90": null
-    }
+    "ST": {"goals_p90": null, "assists_p90": null, "shots_p90": null, "pressures_p90": null},
+    "CM": {"pass_completion_pct": null, "progressive_passes_p90": null, "tackles_interceptions_p90": null},
+    "CB": {"pass_completion_pct": null, "aerials_won_pct": null, "tackles_interceptions_p90": null}
   },
   "sources": [
-    "https://www.uefa.com/uefachampionsleague/news/02a8-215821715a96-9a3b43fad585-1000--uefa-champions-league-league-phase-draw/",
-    "https://www.espn.com/soccer/story/_/id/49736233/champions-league-phase-draw-seeding-pots-2026-2027"
+    "https://www.manutd.com/en/news/michael-carrick-continues-as-man-united-head-coach-2026",
+    "https://www.manutd.com/en/news/official-statement-manchester-united-appoint-michael-carrick-as-head-coach",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Manchester_United_F.C._season",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Manchester_United_F.C._season",
+    "https://uk.sports.yahoo.com/news/manchester-united-learn-champions-league-165351107.html",
+    "https://sports.yahoo.com/articles/man-utd-2026-27-champions-165427373.html",
+    "https://extratimetalk.com/manchester-united-champions-league-draw-league/",
+    "https://www.uefa.com/uefachampionsleague/news/02a8-216cd740d41f-fd3b45ac4a0f-1000--champions-league-league-phase-draw-all-36-teams-learn-their/",
+    "https://www.nbcsports.com/premier-league-table-2025-26-season-standings",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Premier_League",
+    "https://www.statmuse.com/fc/ask/manchester-united-goals-2025-2026-and-players-who-scored",
+    "https://www.statmuse.com/fc/ask/manchester-united-goals-conceded-2026-season",
+    "https://www.unitedinfocus.com/news/manchester-united-top-scorers-and-assists-in-2025-26-all-results-and-fixtures/",
+    "https://www.statmuse.com/fc/ask?q=manchester+united+top+scorers+and+assists+25%2F26+in+premier+league",
+    "https://www.vavel.com/en/football/2026/06/05/manchester-united/1262790-man-united-2025-26-season-review.html",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_EFL_Cup",
+    "https://www.sportsmole.co.uk/football/man-utd/transfer-talk/feature/man-united-summer-transfers-all-confirmed-ins-and-outs-for-2026_599075.html",
+    "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+    "https://www.manutd.com/en/news/uniteds-summer-transfers-ins-and-outs",
+    "https://www.teamtalk.com/manchester-united/every-completed-man-utd-transfer-summer-2026-signings-exits-loans",
+    "https://sports.yahoo.com/articles/manchester-united-2026-summer-transfer-054406739.html",
+    "https://readmanutd.com/2026/09/01/manchester-united-transfers-2026-ins-outs/",
+    "https://www.skysports.com/football/news/11667/13575283/carlos-baleba-transfer-manchester-united-complete-signing-of-cameroon-midfielder-from-brighton",
+    "https://www.manutd.com/en/news/carlos-baleba-joins-united",
+    "https://www.aljazeera.com/sports/2026/8/25/carlos-baleba-joins-manchester-united-in-transfer-from-brighton",
+    "https://www.manutd.com/en/news/confirmed-our-2026-27-squad-numbers",
+    "https://www.givemesport.com/man-utd-squad-numbers-2026-27/",
+    "https://thepeoplesperson.com/2026/08/22/united-reveal-squad-numbers-for-new-season-rashford-handed-iconic-shirt-314386/",
+    "https://football360.com.au/manchester-united-squad-2026-27-players-numbers-transfers/",
+    "https://www.goal.com/en/team/manchester-united/squad/6eqit8ye8aomdsrrq0hk3v7gh",
+    "https://www.sportsmole.co.uk/football/man-utd/title-race/feature/man-united-2026-27-premier-league-preview-prediction-fixtures-squad-depth-chart_603152.html",
+    "https://www.si.com/soccer/man-utd-predicted-lineup-vs-hull-premier-league-8-22-26",
+    "https://www.premierleague.com/en/news/4549172/analysis-how-will-man-utd-look-under-carrick",
+    "https://www.backtocarrington.com/p/michael-carrick-man-united-tactics",
+    "https://learning.coachesvoice.com/cv/michael-carricks-tactics-middlesbrough-man-utd/",
+    "https://www.ownswho.com/blog/who-owns-manchester-united-inside-the-glazers-ownership-and-new-developments",
+    "https://www.sportspro.com/news/jim-ratcliffe-manchester-united-deal-minority-stake-finalised-premier-league-ineos/",
+    "https://www.skysports.com/football/news/11667/13071401/sir-jim-ratcliffe-completes-deal-to-buy-manchester-united-minority-stake"
   ],
-  "as_of": "2026-09-02",
+  "as_of": "2026-09-03",
   "data_quality": {
-    "confidence": "low",
-    "notes": "PLACEHOLDER - NOT RESEARCHED. The session-wide WebSearch budget (200 calls) was exhausted before this club could be researched, and WebFetch/curl are blocked by the network egress proxy for all football data domains tested (transfermarkt, fbref, fotmob, sofascore, flashscore, espn, bbc, skysports, wikipedia, uefa, club site). Only stable identity fields (name, country, league, city, Pot 2 as stated in the brief) are filled; all 2026/27 squad, coach, summer-window, last-season and UCL-draw fields are intentionally null/empty rather than populated from unverified memory, in line with the no-invented-data rule. Re-run research for this club once search budget is available."
+    "confidence": "medium",
+    "notes": "Search-snippet research only (page fetches blocked). VERIFIED: head coach Carrick (club statement, contract to 2028); UCL draw 4H/4A (Yahoo UK/UEFA/ExtraTimeTalk agree); league table 3rd/71 pts/20-11-7 (NBC, Wikipedia) with GF 69/GA 50 from StatMuse snippets (GD +19 matches NBC); cup exits; top scorers Sesko/Mbeumo 11 PL (12 all comps). Fees GBP->EUR at ~1.15: Baleba GBP 65m+5m add-ons shown as EUR 80.5m (up-to figure), Hojlund GBP 43m -> EUR 49.5m; Tielemans EUR 40m taken from our Aston Villa file. Andrey Santos fee and the youth arrivals (Thompson, Margetson, Orozco) positions/fees unverified. Casemiro's Inter Miami destination from one source only. 24 exits reported in total - only headline names itemised; Bayindir/Kone loan clubs not verified. Squad (26) built from the official 2026/27 squad-number release as relayed by GiveMeSport/Football360/Goal plus the 30 Aug 2026 v Ipswich XI (SI); Rashford's number given as 9 by GMS/PeoplesPerson; Shea Lacey listed as 31 (Yahoo) vs 61 (Football360) - 31 used; Zirkzee and Amad included because listed on 2026/27 squad pages but their deadline-day status not independently confirmed; Baleba is the only player whose age (22) and contract (5 yrs + option) were sourced - all other ages/contracts null by rule. Per-player 2025/26 stats null except Sesko/Mbeumo PL goals. Top assister Fernandes named by UnitedInFocus, total not given. Positional-need budgets are analyst guesses, not sourced. Position benchmarks null."
   }
 }

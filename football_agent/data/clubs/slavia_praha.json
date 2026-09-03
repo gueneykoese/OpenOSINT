@@ -7,90 +7,146 @@
   "city": "Prague",
   "ucl_2026_27": {
     "pot": 4,
-    "qualified_via": "Czech league route (per task brief; not independently verified)",
-    "opponents_home": [
-      "Fenerbahçe"
-    ],
-    "opponents_away": []
+    "qualified_via": "Chance Liga 2025/26 champion (9th title; Czech champions' direct league-phase place)",
+    "opponents_home": ["Arsenal", "Aston Villa", "Villarreal", "RC Lens"],
+    "opponents_away": ["Bayern München", "FC Porto", "Fenerbahçe", "Sabah"]
   },
   "head_coach": {
-    "name": null,
-    "since": null,
-    "nationality": null,
-    "preferred_formation": null,
-    "style_keywords": []
+    "name": "Jindřich Trpišovský",
+    "since": "2017-12",
+    "nationality": "CZE",
+    "preferred_formation": "3-4-3",
+    "style_keywords": ["3-4-3 domestically", "3-4-2-1 / 4-2-3-1 in Europe", "high intensity", "physical pressing", "set-piece strength", "long-serving coach"]
   },
   "identity": {
-    "playing_style": null,
-    "principles": [],
-    "club_character": null,
-    "ownership": null,
-    "political_and_social_context": null,
-    "languages": [],
-    "wage_structure": "unknown",
-    "transfer_policy": null,
+    "playing_style": "Trpišovský (appointed 22 December 2017, contract to 2029 with a further three-year option; the longest-serving coach in Chance Liga history) runs a high-intensity, physically aggressive team. Domestically Slavia typically use a 3-4-3; in the 2025/26 Champions League they opened in a 4-2-3-1 against Bodø/Glimt but switched to a more cautious 3-4-2-1 away at Inter and Atalanta. The 2025/26 league record (24-8-3, 74-31, 80 points) reflects a side that dominates possession and territory at home but struggled to convert that into UCL points (34th of 36).",
+    "principles": [
+      "coach continuity (same head coach since 2017)",
+      "Africa and Balkans scouting network (Ogbu, Diakité, Dorley, Sanyang, Mbodji, N'Guessan, Ayaosi)",
+      "buy young, sell to Western Europe (Pech to Young Boys, Zafeiris/Prekop/Zmrzlý sales)",
+      "billionaire-owner stability rather than member governance",
+      "target the UCL league phase every season"
+    ],
+    "club_character": "100% owned since 2018 by Czech billionaire Pavel Tykač (via Fulleren), with Jaroslav Tvrdík as long-time board chairman. Traditional Prague giant with an intense rivalry with Sparta; Fortuna Arena (Eden) crowd is the most vocal in the country. Pressure is high but governance is stable and patient by regional standards. Czech media environment is intense but smaller-scale than Istanbul.",
+    "ownership": "private (Pavel Tykač, sole shareholder of Fulleren, which owns 100% of the club's shares)",
+    "political_and_social_context": "Publicly documented institution-level facts only: (1) From 2015 the club was owned by the Chinese conglomerate CEFC and from 2018 by CITIC Group; Pavel Tykač bought the club (and the Eden stadium company) from CITIC in a deal media valued at roughly CZK 2bn. (2) Tykač's core business is coal-fired energy (Sev.en), which has drawn public debate in the Czech Republic; this is documented at owner level, not club-policy level. (3) The club publicly plays European home games at Eden and has no venue restrictions.",
+    "languages": ["cs", "en", "fr", "sk"],
+    "wage_structure": "hierarchical (Trpišovský reported as the best-paid coach in the league; senior internationals above a young imported core)",
+    "transfer_policy": "buy-to-sell with a strong African pipeline; permanent signings mostly under EUR 3m (Nowak EUR 2.4m); sells to Switzerland, Germany, Greece and England; retains domestic internationals when the owner chooses (Chorý, Douděra stayed in 2026)",
     "injury_management_reputation": null
   },
   "last_season_2025_26": {
-    "league_position": null,
-    "points": null,
-    "played": null,
-    "won": null,
-    "drawn": null,
-    "lost": null,
-    "goals_for": null,
-    "goals_against": null,
+    "league_position": 1,
+    "points": 80,
+    "played": 35,
+    "won": 24,
+    "drawn": 8,
+    "lost": 3,
+    "goals_for": 74,
+    "goals_against": 31,
     "xg_for": null,
     "xg_against": null,
     "possession_pct": null,
-    "ucl_result": null,
-    "domestic_cup": null,
-    "top_scorer": {
-      "name": null,
-      "goals": null
-    },
-    "top_assister": {
-      "name": null,
-      "assists": null
-    }
+    "ucl_result": "League phase, 34th of 36 (eliminated; draws v Bodø/Glimt and Atalanta, heavy defeats v Inter and Arsenal)",
+    "domestic_cup": "MOL Cup quarter-final",
+    "top_scorer": {"name": "Tomáš Chorý", "goals": 17},
+    "top_assister": {"name": null, "assists": null}
   },
   "summer_2026_window": {
-    "arrivals": [],
-    "departures": [],
+    "arrivals": [
+      {"name": "Wiktor Nowak", "from": "Poland (club not verified)", "fee_eur_m": 2.4, "position": "CM"},
+      {"name": "Danijel Šturm", "from": "Sigma Olomouc", "fee_eur_m": null, "position": "LW"},
+      {"name": "Emmanuel Ayaosi", "from": null, "fee_eur_m": null, "position": "CB"},
+      {"name": "Pavel Kačor", "from": null, "fee_eur_m": null, "position": "CB"},
+      {"name": "Nazar Domchak", "from": null, "fee_eur_m": null, "position": "GK"},
+      {"name": "Ange N'Guessan", "from": null, "fee_eur_m": null, "position": "CB"},
+      {"name": "Neil Glossa", "from": "Pau FC", "fee_eur_m": null, "position": "RB"}
+    ],
+    "departures": [
+      {"name": "Muhamed Tijani", "to": "Újpest", "fee_eur_m": null, "position": "ST"},
+      {"name": "Dominik Pech", "to": "Young Boys (permanent after loan)", "fee_eur_m": null, "position": "CM"},
+      {"name": "Ondřej Zmrzlý", "to": "Górnik Zabrze", "fee_eur_m": null, "position": "LB"},
+      {"name": "Erik Prekop", "to": "Górnik Zabrze", "fee_eur_m": null, "position": "ST"}
+    ],
     "net_spend_eur_m": null
   },
-  "squad": [],
-  "strengths": [],
-  "weaknesses": [],
-  "positional_needs": [],
+  "squad": [
+    {"name": "Jindřich Staněk", "position": "GK", "secondary_positions": [], "age": 30, "nationality": "CZE", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Jakub Markovič", "position": "GK", "secondary_positions": [], "age": null, "nationality": "CZE", "contract_until": null, "shirt_no": null, "role": "backup", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Ondřej Kolář", "position": "GK", "secondary_positions": [], "age": null, "nationality": "CZE", "contract_until": null, "shirt_no": null, "role": "backup", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Nazar Domchak", "position": "GK", "secondary_positions": [], "age": null, "nationality": "UKR", "contract_until": null, "shirt_no": null, "role": "prospect", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Tomáš Holeš", "position": "CB", "secondary_positions": ["DM"], "age": null, "nationality": "CZE", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Igoh Ogbu", "position": "CB", "secondary_positions": [], "age": null, "nationality": "NGA", "contract_until": null, "shirt_no": 27, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "David Zima", "position": "CB", "secondary_positions": [], "age": null, "nationality": "CZE", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Tomáš Vlček", "position": "CB", "secondary_positions": [], "age": null, "nationality": "CZE", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Štěpán Chaloupek", "position": "CB", "secondary_positions": [], "age": null, "nationality": "CZE", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Toumani Diakité", "position": "CB", "secondary_positions": [], "age": null, "nationality": "MLI", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Emmanuel Ayaosi", "position": "CB", "secondary_positions": [], "age": null, "nationality": "NGA", "contract_until": null, "shirt_no": null, "role": "prospect", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "David Douděra", "position": "RB", "secondary_positions": ["RW"], "age": null, "nationality": "CZE", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "David Moses", "position": "RB", "secondary_positions": ["RW"], "age": null, "nationality": "NGA", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "David Jurásek", "position": "LB", "secondary_positions": ["LW"], "age": null, "nationality": "CZE", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Youssoupha Mbodji", "position": "LB", "secondary_positions": ["LW"], "age": null, "nationality": "SEN", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Oscar Dorley", "position": "DM", "secondary_positions": ["CM", "CB"], "age": null, "nationality": "LBR", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Michal Sadílek", "position": "CM", "secondary_positions": ["DM"], "age": null, "nationality": "CZE", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Lukáš Provod", "position": "AM", "secondary_positions": ["CM", "LW"], "age": null, "nationality": "CZE", "contract_until": null, "shirt_no": 23, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Youssoupha Sanyang", "position": "CM", "secondary_positions": ["DM"], "age": null, "nationality": "GAM", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Wiktor Nowak", "position": "CM", "secondary_positions": [], "age": 21, "nationality": "POL", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Mubarak Suleiman", "position": "CM", "secondary_positions": ["AM"], "age": null, "nationality": "NGA", "contract_until": null, "shirt_no": null, "role": "prospect", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Ivan Schranz", "position": "RW", "secondary_positions": ["ST", "LW"], "age": null, "nationality": "SVK", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Danijel Šturm", "position": "LW", "secondary_positions": ["RW"], "age": 27, "nationality": "SVN", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Tomáš Chorý", "position": "ST", "secondary_positions": [], "age": null, "nationality": "CZE", "contract_until": null, "shirt_no": 13, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 17, "assists": null}, "injury_flag": null},
+    {"name": "Mojmír Chytil", "position": "ST", "secondary_positions": [], "age": null, "nationality": "CZE", "contract_until": null, "shirt_no": 26, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null}
+  ],
+  "strengths": [
+    "Most stable coaching setup in the draw: Trpišovský since Dec 2017, contract to 2029, domestic double-digit title margins (80 pts, only 3 defeats).",
+    "Physical, aerially dominant spine (Chorý 17 league goals, Ogbu, Zima, Holeš) that thrives on set pieces.",
+    "Deep, young African-recruited squad gives rotation and resale value; eight summer additions without losing key starters (Chorý, Douděra retained).",
+    "Second consecutive league phase: the group learned from the 2025/26 campaign (2 points after 4 games, 34th overall).",
+    "Loud home ground (Eden) and a favourable-looking home slate (Arsenal, Aston Villa, Villarreal, Lens) versus the tough away trips."
+  ],
+  "weaknesses": [
+    "Finished 34th of 36 in the 2025/26 league phase; conceded heavily against elite attacks (Inter, Arsenal).",
+    "Limited pace at the back when pressed high; the switch to a 3-4-2-1 away in Europe shows the coach's own caution.",
+    "Creativity concentrated in Provod; no verified replacement creator arrived after Pech and Zafeiris sales.",
+    "Domestic league tempo is well below UCL level, so match sharpness for Tuesday nights is an annual problem.",
+    "2025/26 assist leader and several squad ages/contracts could not be verified."
+  ],
+  "positional_needs": [
+    {"position": "AM", "priority": "high", "profile": "two-footed creator with UCL-level pace of thought, 21-26", "reason": "Pech sold to Young Boys; Provod is the only established creator", "budget_eur_m": 4, "wage_ceiling_eur_m_net": 0.8},
+    {"position": "ST", "priority": "medium", "profile": "mobile striker to complement the target-man Chorý", "reason": "Tijani and Prekop departed; Chytil is the only alternative", "budget_eur_m": 3, "wage_ceiling_eur_m_net": 0.6},
+    {"position": "CB", "priority": "low", "profile": "quick left-footed CB for the back three", "reason": "Volume is fine (7 CBs) but pace against elite forwards was exposed in 2025/26 UCL", "budget_eur_m": 3, "wage_ceiling_eur_m_net": 0.6}
+  ],
   "position_benchmarks": {
-    "ST": {
-      "goals_p90": null,
-      "assists_p90": null,
-      "shots_p90": null,
-      "pressures_p90": null
-    },
-    "CM": {
-      "pass_completion_pct": null,
-      "progressive_passes_p90": null,
-      "tackles_interceptions_p90": null
-    },
-    "CB": {
-      "aerials_won_pct": null,
-      "tackles_interceptions_p90": null,
-      "pass_completion_pct": null
-    },
-    "GK": {
-      "save_pct": null,
-      "goals_prevented_p90": null
-    }
+    "ST": {"goals_p90": null, "assists_p90": null, "shots_p90": null, "pressures_p90": null},
+    "CM": {"pass_completion_pct": null, "progressive_passes_p90": null, "tackles_interceptions_p90": null},
+    "CB": {"aerials_won_pct": null, "tackles_interceptions_p90": null, "pass_completion_pct": null},
+    "GK": {"save_pct": null, "goals_prevented_p90": null}
   },
   "sources": [
-    "https://www.uefa.com/uefachampionsleague/news/02a8-216cd740d41f-fd3b45ac4a0f-1000--champions-league-league-phase-draw-all-36-teams-learn-their/"
+    "https://www.uefa.com/uefachampionsleague/news/02a8-216cd740d41f-fd3b45ac4a0f-1000--champions-league-league-phase-draw-all-36-teams-learn-their/",
+    "https://www.si.com/soccer/2026-27-champions-league-draw-league-phase-games-full",
+    "https://www.uefa.com/uefachampionsleague/clubs/52498--slavia-praha/",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Czech_First_League",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_SK_Slavia_Prague_season",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Champions_League_league_phase",
+    "https://www.arsenal.com/news/preview-slavia-prague-v-arsenal",
+    "https://www.slavia.cz/roster?category=MUZ",
+    "https://www.slavia.cz/article/15270-Novym-trenerem-Slavie-jmenovan-Jindrich-Trpisovsky",
+    "https://isport.blesk.cz/clanek/fotbal-chance-liga/470222/trpisovsky-prodlouzil-se-slavii-ve-smlouve-je-opce-na-tri-roky-upsali-se-i-asistenti.html",
+    "https://www.irozhlas.cz/sport/fotbal/sk-slavia-praha-jindrich-trpisovsky-smlouva-kontrakt-fotbal-trener_2008201357_mim",
+    "https://www.eurofotbal.cz/kluby/cesko/slavia-praha/prestupy/2026-2027/",
+    "https://isport.blesk.cz/clanek/fotbal-chance-liga/475935/nova-slavia-zmeny-u-brankaru-i-odchody-stalic-koho-klub-chce-a-kdo-v-edenu-pouta-zajem.html",
+    "https://sportyzive.cz/fotbal/zemetreseni-v-kadru-slavie-kouc-trpisovsky-potvrdil-odchody-reprezentacnich-hvezd/",
+    "https://www.ruik.cz/preplnena-slavia-trpisovsky-musi-skrtat-na-odchodu-jsou-dalsi-tri-hraci/",
+    "https://slavistickenoviny.cz/clanek/17065-Prestupy-a-spekulace-leto-2026-III",
+    "https://www.slavia.cz/text/pavel-tykac",
+    "https://www.efotbal.cz/clanek-240658-Slavia-uz-patri-Tykacovi-a-soucasti-obchodu-s-CEFC-je-i-Fortuna-Arena-V-dozorci-rade-bude-take-mili.html",
+    "https://www.e15.cz/byznys/tykac-kupuje-slavii-za-2-5-miliardy-ceka-se-na-schvaleni-z-pekingu-1412271",
+    "https://en.wikipedia.org/wiki/SK_Slavia_Prague"
   ],
-  "as_of": "2026-09-02",
+  "as_of": "2026-09-03",
   "data_quality": {
-    "confidence": "low",
-    "notes": "RESEARCH BLOCKED IN THIS SESSION: the shared WebSearch budget (200/200) was exhausted after the Fenerbahçe research and WebFetch was egress-blocked on every domain attempted (wikipedia, uefa, transfermarkt, fbref, sofascore, fotmob, espn, skysports, flashscore, worldfootball, besoccer, goal, onefootball, club sites, Turkish/English news sites). Only the pot and qualification route supplied by the task brief, plus any opponent facts verified incidentally while researching Fenerbahçe, are recorded. Coach, squad, 2025/26 table, transfers, identity fields and benchmarks are all null/empty and MUST be researched in a session with web access before this file is used. Home fixture v Fenerbahçe verified from the Fenerbahçe draw coverage (OneFootball/NationalTurk); the other 7 opponents unknown."
+    "confidence": "medium",
+    "notes": "Verified: coach (Trpišovský, since 22 Dec 2017, contract to 2029 + 3-year option), full 2025/26 league record (35 games, 24-8-3, 74-31, 80 pts), Chorý 17 league goals (league top scorer), UCL league phase 34th, MOL Cup QF, all 8 opponents home/away, ownership chain (CEFC -> CITIC -> Tykač 2018). Squad names from the club's official 2026/27 A-team roster page; positions were assigned by the researcher where the club groups players loosely (e.g. Dorley, Douděra, Moses, Kačor listed among defenders). Shirt numbers only where seen (Ogbu 27, Provod 23, Chorý 13, Chytil 26); ages only for Staněk (30, b. 27 Apr 1996), Nowak (21) and Šturm (27). Top assister 2025/26 NOT found (Provod's 12 assists relate to 2024/25). Transfer origins/fees mostly unverified except Nowak (EUR 2.4m) and the Zmrzlý/Prekop package with Górnik (EUR 1.5m reported). Glossa (from Pau) reported as signed but does not appear on the roster snippet, so he is listed under arrivals but not in the squad. Kačor, Michez and Kubiak omitted from the squad list to stay within 26. Budgets in positional_needs are analyst estimates."
   }
 }

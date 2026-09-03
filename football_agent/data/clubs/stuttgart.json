@@ -7,32 +7,38 @@
   "city": "Stuttgart",
   "ucl_2026_27": {
     "pot": 4,
-    "qualified_via": "Bundesliga 2025/26 (route per task brief; not independently verified)",
-    "opponents_home": [],
-    "opponents_away": []
+    "qualified_via": "Bundesliga 2025/26 4th place (62 points); second UCL league-phase appearance after 2024/25",
+    "opponents_home": ["Atlético Madrid", "Club Brugge", "Lille", "Viking"],
+    "opponents_away": ["Inter", "PSV Eindhoven", "Galatasaray", "Slovan Bratislava"]
   },
   "head_coach": {
-    "name": null,
-    "since": null,
-    "nationality": null,
-    "preferred_formation": null,
-    "style_keywords": []
+    "name": "Sebastian Hoeneß",
+    "since": "2023-04",
+    "nationality": "GER",
+    "preferred_formation": "4-2-3-1",
+    "style_keywords": ["possession-dominant (57%+)", "central high press", "4-2-3-1 / 4-4-2 shapes", "positional play", "youth integration", "contract to 2028"]
   },
   "identity": {
-    "playing_style": null,
-    "principles": [],
-    "club_character": null,
-    "ownership": null,
-    "political_and_social_context": null,
-    "languages": [],
-    "wage_structure": "unknown",
-    "transfer_policy": null,
+    "playing_style": "Sebastian Hoeneß took over in April 2023 with the club 18th, survived via the relegation play-off, finished runner-up in 2023/24 and has now delivered a DFB-Pokal win (2025), a Pokal final (2026) and two UCL qualifications. His Stuttgart prioritise ball dominance (averaging over 57% possession) with an intense, centrally focused press out of a 4-2-3-1 that morphs into 4-4-2/4-2-2-2. In 2025/26 they had the Bundesliga's second-best attack, a record 41 away goals, and a home record of 17-3-5 across all competitions; Deniz Undav scored 19 league goals (second only to Harry Kane) and 25 in all competitions.",
+    "principles": [
+      "coach continuity and early contract extensions (Hoeneß to 2028)",
+      "develop-and-sell talent pathway (Woltemade 2025, Chema Andrés EUR 25m to Brighton 2026, Millot 2025)",
+      "reinvest in Bundesliga-proven 22-26-year-olds (Pejčinović EUR 25m, Sauer EUR 13m, El Khannouss obligation EUR 18m)",
+      "regional identity: Mercedes-Benz and Porsche as anchor investors",
+      "50+1 member-controlled AG with strong supervisory-board oversight"
+    ],
+    "club_character": "Members' club (VfB Stuttgart 1893 e.V.) that spun off the professional team into VfB Stuttgart 1893 AG in 2017; the e.V. holds the majority under the 50+1 rule, with Mercedes-Benz and Porsche as minority strategic investors. Passionate Swabian fanbase (MHP Arena ~60,000), a demanding regional press (Stuttgarter Zeitung, kicker) but a board (CEO Alexander Wehrle, sporting director Fabian Wohlgemuth) that has backed the coach through dips.",
+    "ownership": "member-controlled (50+1) AG; minority stakes held by Mercedes-Benz Group and Porsche AG",
+    "political_and_social_context": "Publicly documented institution-level facts only: (1) The club's governance model (e.V. majority in the AG, corporate minority investors) has been the subject of repeated member debates and a highly publicised 2023-24 dispute between club president and AG board over Porsche's entry, resolved with Porsche's investment. (2) Stuttgart lost the 2026 DFB-Pokal final 0-3 to Bayern as defending champions. (3) Sold Chema Andrés to Brighton for c. EUR 25m (EUR 16m to VfB after Real Madrid's share) and Jovan Milošević to Braga, Lazar Jovanović to Udinese in summer 2026. No sponsor or political controversies surfaced in this session's sources.",
+    "languages": ["de", "en", "fr", "es"],
+    "wage_structure": "hierarchical but capped (no superstar salaries; senior internationals Undav, Stiller, Demirović at the top)",
+    "transfer_policy": "data-led develop-and-sell: buys under-25 Bundesliga-ready players with resale value, sells peak assets to England/Spain at EUR 25-40m, replaces internally (Seimen promoted to No.1 after Nübel's loan ended)",
     "injury_management_reputation": null
   },
   "last_season_2025_26": {
-    "league_position": null,
-    "points": null,
-    "played": null,
+    "league_position": 4,
+    "points": 62,
+    "played": 34,
     "won": null,
     "drawn": null,
     "lost": null,
@@ -41,54 +47,107 @@
     "xg_for": null,
     "xg_against": null,
     "possession_pct": null,
-    "ucl_result": "Not in UCL 2025/26; Europa League knockout-phase play-off v Celtic (outcome not verified)",
-    "domestic_cup": null,
-    "top_scorer": {
-      "name": null,
-      "goals": null
-    },
-    "top_assister": {
-      "name": null,
-      "assists": null
-    }
+    "ucl_result": "Not in UCL 2025/26; UEFA Europa League: knockout-phase play-off beat Celtic 4-1 away / 0-1 home (4-2 agg), round of 16 lost 1-2 home / 0-2 away to FC Porto (1-4 agg)",
+    "domestic_cup": "DFB-Pokal finalist (lost 0-3 to Bayern München, 23 May 2026, Berlin)",
+    "top_scorer": {"name": "Deniz Undav", "goals": 19},
+    "top_assister": {"name": null, "assists": null}
   },
   "summer_2026_window": {
-    "arrivals": [],
-    "departures": [],
+    "arrivals": [
+      {"name": "Dženan Pejčinović", "from": "VfL Wolfsburg", "fee_eur_m": 25, "position": "ST"},
+      {"name": "Leo Sauer", "from": "Feyenoord", "fee_eur_m": 13, "position": "LW"},
+      {"name": "Bilal El Khannouss", "from": "Leicester City (loan purchase obligation triggered)", "fee_eur_m": 18, "position": "AM"},
+      {"name": "Grischa Prömel", "from": "TSG Hoffenheim (free)", "fee_eur_m": 0, "position": "CM"},
+      {"name": "Dennis Seimen", "from": "SC Paderborn (loan return)", "fee_eur_m": 0, "position": "GK"},
+      {"name": "Marius Funk", "from": "Energie Cottbus (free)", "fee_eur_m": 0, "position": "GK"}
+    ],
+    "departures": [
+      {"name": "Chema Andrés", "to": "Brighton & Hove Albion", "fee_eur_m": 25, "position": "DM"},
+      {"name": "Lazar Jovanović", "to": "Udinese", "fee_eur_m": 6.5, "position": "RW"},
+      {"name": "Jovan Milošević", "to": "SC Braga", "fee_eur_m": 8, "position": "ST"},
+      {"name": "Alexander Nübel", "to": "FC Bayern München (end of loan)", "fee_eur_m": 0, "position": "GK"},
+      {"name": "Noah Darvich", "to": "SV Elversberg (loan)", "fee_eur_m": 0, "position": "AM"},
+      {"name": "Leonidas Stergiou", "to": "1. FC Heidenheim (loan)", "fee_eur_m": 0, "position": "RB"},
+      {"name": "Yannik Keitel", "to": "FC Augsburg (loan)", "fee_eur_m": 0, "position": "CM"}
+    ],
     "net_spend_eur_m": null
   },
-  "squad": [],
-  "strengths": [],
-  "weaknesses": [],
-  "positional_needs": [],
+  "squad": [
+    {"name": "Dennis Seimen", "position": "GK", "secondary_positions": [], "age": 20, "nationality": "GER", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Marius Funk", "position": "GK", "secondary_positions": [], "age": null, "nationality": "GER", "contract_until": null, "shirt_no": null, "role": "backup", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Jeff Chabot", "position": "CB", "secondary_positions": [], "age": null, "nationality": "GER", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Dan-Axel Zagadou", "position": "CB", "secondary_positions": [], "age": null, "nationality": "FRA", "contract_until": 2027, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Josha Vagnoman", "position": "RB", "secondary_positions": ["LB"], "age": null, "nationality": "GER", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Maximilian Mittelstädt", "position": "LB", "secondary_positions": ["LW"], "age": null, "nationality": "GER", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Angelo Stiller", "position": "DM", "secondary_positions": ["CM"], "age": null, "nationality": "GER", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Atakan Karazor", "position": "DM", "secondary_positions": ["CB"], "age": null, "nationality": "TUR", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Grischa Prömel", "position": "CM", "secondary_positions": ["DM"], "age": null, "nationality": "GER", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Bilal El Khannouss", "position": "AM", "secondary_positions": ["CM", "RW"], "age": null, "nationality": "MAR", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Jamie Leweling", "position": "RW", "secondary_positions": ["LW"], "age": null, "nationality": "GER", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Leo Sauer", "position": "LW", "secondary_positions": ["RW"], "age": null, "nationality": "SVK", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Deniz Undav", "position": "ST", "secondary_positions": ["AM"], "age": null, "nationality": "GER", "contract_until": 2029, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 19, "assists": null}, "injury_flag": null},
+    {"name": "Ermedin Demirović", "position": "ST", "secondary_positions": ["LW"], "age": null, "nationality": "BIH", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Dženan Pejčinović", "position": "ST", "secondary_positions": [], "age": null, "nationality": "GER", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null}
+  ],
+  "strengths": [
+    "Elite Bundesliga attack: second-best offence in 2025/26, record 41 away goals, Undav 19 league / 25 total goals and now tied to 2029.",
+    "Tactical clarity and continuity under Hoeneß (since April 2023, contract to 2028): possession-dominant with a coordinated central press.",
+    "Strong home form (17 wins, 3 draws, 5 defeats in all home games 2025/26) in a 60,000 arena; UCL home slate of Atlético, Brugge, Lille, Viking is manageable.",
+    "Smart squad refresh: Pejčinović, Sauer, El Khannouss and Prömel added while selling Chema Andrés for EUR 25m.",
+    "Recent European experience: Europa League last 16 in 2025/26 and a UCL league phase in 2024/25."
+  ],
+  "weaknesses": [
+    "Goalkeeping is the big gamble: Nübel returned to Bayern and 20-year-old Dennis Seimen (one 2. Bundesliga season) is the declared No.1 for a UCL campaign.",
+    "European knockout record is poor - eliminated by Porto 1-4 on aggregate and out of the 2024/25 UCL league phase.",
+    "Sold their best young defensive midfielder (Chema Andrés); Stiller/Karazor now lack a natural successor.",
+    "Zagadou's long injury history and a thin verified centre-back list (Chabot, Zagadou) behind a high defensive line.",
+    "Squad list for 2026/27 only partially verifiable in-session (15 names) - depth players not confirmed."
+  ],
+  "positional_needs": [
+    {"position": "GK", "priority": "high", "profile": "experienced Bundesliga/UCL-level goalkeeper, 26-32, comfortable with the ball", "reason": "Nübel's loan ended; Seimen (20) is untested at this level and Funk is a 3. Liga-level backup", "budget_eur_m": 10, "wage_ceiling_eur_m_net": 3},
+    {"position": "CB", "priority": "medium", "profile": "fast, ball-playing left-footed CB, 22-27", "reason": "Zagadou injury record; only two senior CBs verified", "budget_eur_m": 15, "wage_ceiling_eur_m_net": 3},
+    {"position": "DM", "priority": "medium", "profile": "young No.6 with resale value to succeed Chema Andrés", "reason": "Chema Andrés sold to Brighton; Prömel is a stop-gap", "budget_eur_m": 12, "wage_ceiling_eur_m_net": 2.5}
+  ],
   "position_benchmarks": {
-    "ST": {
-      "goals_p90": null,
-      "assists_p90": null,
-      "shots_p90": null,
-      "pressures_p90": null
-    },
-    "CM": {
-      "pass_completion_pct": null,
-      "progressive_passes_p90": null,
-      "tackles_interceptions_p90": null
-    },
-    "CB": {
-      "aerials_won_pct": null,
-      "tackles_interceptions_p90": null,
-      "pass_completion_pct": null
-    },
-    "GK": {
-      "save_pct": null,
-      "goals_prevented_p90": null
-    }
+    "ST": {"goals_p90": null, "assists_p90": null, "shots_p90": null, "pressures_p90": null},
+    "CM": {"pass_completion_pct": null, "progressive_passes_p90": null, "tackles_interceptions_p90": null},
+    "CB": {"aerials_won_pct": null, "tackles_interceptions_p90": null, "pass_completion_pct": null},
+    "GK": {"save_pct": null, "goals_prevented_p90": null}
   },
   "sources": [
-    "https://www.uefa.com/uefachampionsleague/news/02a8-216cd740d41f-fd3b45ac4a0f-1000--champions-league-league-phase-draw-all-36-teams-learn-their/"
+    "https://www.uefa.com/uefachampionsleague/news/02a8-216cd740d41f-fd3b45ac4a0f-1000--champions-league-league-phase-draw-all-36-teams-learn-their/",
+    "https://www.vfb.de/de/vfb/aktuell/neues/profis/2627/uefa-champions-league-auslosung-fuer-den-vfb-stuttgart/",
+    "https://www.vfb.de/de/vfb/aktuell/neues/profis/2627/uefa-champions-league-ansetzungen-fuer-den-vfb-in-ligaphase/",
+    "https://www.stuttgarter-zeitung.de/sport/vfb-stuttgart/champions-league-auslosung-auf-welche-gegner-trifft-der-vfb-79417987.html",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Bundesliga",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_VfB_Stuttgart_season",
+    "https://www.vfb.de/de/vfb/aktuell/neues/profis/2526/saisonrueckblick---zahlenspiel/",
+    "https://www.vfb.de/de/vfb/aktuell/neues/profis/2526/die-saison-von-a-bis-z---saisonrueckblick-2025-2026/",
+    "https://www.bundesliga.com/en/bundesliga/news/stuttgart-2026-27-season-preview-undav-hoeness-champions-league-38831",
+    "https://www.bundesliga.com/en/bundesliga/news/deniz-undav-germany-world-cup-stars-of-the-bundesliga-vfb-stuttgart-37826",
+    "https://datencenter.dfb.de/datencenter/dfb-pokal/2025-26/finale/bayern-muenchen-vfb-stuttgart-2416557",
+    "https://en.wikipedia.org/wiki/2026_DFB-Pokal_final",
+    "https://www.espn.com/soccer/match/_/gameId/401858779/celtic-vfb-stuttgart",
+    "https://www.espn.com/soccer/match/_/gameId/401862752/fc-porto-vfb-stuttgart",
+    "https://www.espn.com/soccer/match/_/gameId/401862756/vfb-stuttgart-fc-porto",
+    "https://www.bundesliga.com/en/bundesliga/news/stuttgart-porto-live-europa-league-preview-report-thiago-silva-undav-samu-stiller-36292",
+    "https://www.sportschau.de/fussball/bundesliga/die-transfers-vfb-stuttgart-zur-saison-2026-27,wechselboerse-vfb-stuttgart-saison-26-27-100.html",
+    "https://www.zvw.de/vfb-stuttgart/transfermarkt-geschlossen-alle-zu-und-abg%C3%A4nge-des-vfb-stuttgart-im-%C3%BCberblick_arid-1096505",
+    "https://stuttgart.t-online.de/region/stuttgart/id_101389352/proemel-sauer-und-co-die-transfers-des-vfb-stuttgart.html",
+    "https://www.vfb.de/de/1893/profis/kader/saisonen/2026-2027/zu--abgaenge/",
+    "https://www.sport.de/news/ne16819209/vfb-stuttgart-bestaetigt-torwart-plan/",
+    "https://www.4-4-2.com/bundesliga/vfb-stuttgart/abgang-alexander-nuebel-vfb-stuttgart-fix-nachfolger-dennis-seimen/",
+    "https://www.vfb.de/de/vfb/aktuell/neues/profis/2425/vfb-und-sebastian-hoeness-verlaengern-vertrag/",
+    "https://www.vfb.de/de/vfb/aktuell/neues/profis/2425/zwei-jahre-sebastian-hoeness-beim-vfb/",
+    "https://learning.coachesvoice.com/cv/sebastian-hoeness-tactics-stuttgart/",
+    "https://www.hudl.com/blog/hoene%C3%9F-stiller-vfbstuttgart-tactics",
+    "https://www.vfb.de/de/1893/profis/kader/saisonen/2026-2027/kader/",
+    "https://www.kicker.de/vfb-stuttgart/kader",
+    "https://www.fussballtransfers.com/verein/vfb-stuttgart/kader/"
   ],
-  "as_of": "2026-09-02",
+  "as_of": "2026-09-03",
   "data_quality": {
     "confidence": "low",
-    "notes": "RESEARCH BLOCKED IN THIS SESSION: the shared WebSearch budget (200/200) was exhausted after the Fenerbahçe research and WebFetch was egress-blocked on every domain attempted (wikipedia, uefa, transfermarkt, fbref, sofascore, fotmob, espn, skysports, flashscore, worldfootball, besoccer, goal, onefootball, club sites, Turkish/English news sites). Only the pot and qualification route supplied by the task brief, plus any opponent facts verified incidentally while researching Fenerbahçe, are recorded. Coach, squad, 2025/26 table, transfers, identity fields and benchmarks are all null/empty and MUST be researched in a session with web access before this file is used. Verified incidentally: Stuttgart were drawn against Celtic in the 2025/26 Europa League knockout-phase play-off (result not retrieved). Source: https://www.uefa.com/uefaeuropaleague/news/02a1-1fce409aacb2-30258f8369e1-1000--europa-league-knockout-phase-play-off-draw-fenerbahce-vs-no/"
+    "notes": "Verified: coach (Hoeneß, since April 2023, contract to 30 Jun 2028), 4th place with 62 points from 34 games, Undav 19 league / 25 all-comp goals, DFB-Pokal final 0-3 v Bayern, Europa League KO play-off v Celtic (4-1 a, 0-1 h) and R16 v Porto (1-2 h, 0-2 a), all 8 UCL opponents home/away, arrivals and departures with fees as reported by sportschau/ZVW/t-online (El Khannouss fee is the reported purchase obligation, ~EUR 18m; Chema Andrés fee ~EUR 25m gross, EUR 16m to VfB). NOT found: W/D/L split and league goals for/against (only 'second-best attack' and home record 17-3-5 across all competitions were quoted); top assister. Squad: only 15 players could be verified by name from squad/transfer coverage, below the 20-26 target - depth players (e.g. Jaquez, Hendriks, Bouanani, Tomás, Al-Dakhil, Jeltsch, Chase, Rieder, Assignon, Führich) were NOT confirmed in-session and are omitted; shirt numbers null; ages only Seimen (20). Undav contract to 2029 from the task brief; Zagadou to 2027 from ZVW. Confidence low because the squad is incomplete. Budgets are analyst estimates."
   }
 }

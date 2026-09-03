@@ -7,68 +7,376 @@
   "city": "Rome",
   "ucl_2026_27": {
     "pot": 2,
-    "qualified_via": null,
+    "qualified_via": "Serie A 2025/26 3rd place",
     "opponents_home": [
+      "Real Madrid",
       "Lille",
-      "Real Madrid"
+      "Sporting CP",
+      "Slovan Bratislava"
     ],
     "opponents_away": [
-      "AEK",
+      "Paris Saint-Germain",
+      "Manchester United",
       "Fenerbahçe",
-      "PSG"
+      "AEK Athens"
     ]
   },
   "head_coach": {
-    "name": null,
-    "since": null,
-    "nationality": null,
-    "preferred_formation": null,
-    "style_keywords": []
+    "name": "Gian Piero Gasperini",
+    "since": "2025-06",
+    "nationality": "ITA",
+    "preferred_formation": "3-4-2-1",
+    "style_keywords": [
+      "all-out man-marking press",
+      "very high defensive line",
+      "verticality",
+      "wide centre-backs and wing-backs attacking the box",
+      "fluid 3-2-4-1 in possession",
+      "5-4-1 out of possession"
+    ]
   },
   "identity": {
-    "playing_style": null,
-    "principles": [],
-    "club_character": null,
-    "ownership": null,
-    "political_and_social_context": null,
+    "playing_style": "Gasperini imported his Atalanta model: a 3-4-2-1 that presses man-for-man across the whole pitch, defends on a very advanced line and attacks with extreme dynamism and verticality, with wide centre-backs and wing-backs (Wesley, Molina, Rensch) licensed to arrive in the box. 2025/26 delivered 3rd place (70 pts, 53-35) — a return to the Champions League — but early exits in the Coppa Italia (Torino) and Europa League (Bologna). The 2026 window added a No. 9 who fits the press (Castro), two centre-backs comfortable 1v1 (Koulierakis, Balerdi), a right wing-back (Molina) and Gasperini's old lieutenant De Roon, and Malen's January loan was converted for EUR 25m.",
+    "principles": [
+      "Gasperini system built for man-marking pressers and athletic wide defenders",
+      "American private ownership (Friedkin) funding a EUR 1bn private stadium and a rebuild under UEFA settlement limits",
+      "Argentine core (Dybala, Soulé, Castro, Balerdi, Molina) around Italian veterans (Pellegrini, Cristante, Mancini)",
+      "sell or loan misfits quickly (Dovbyk, Vaz, Baldanzi, Ziolkowski, Angeliño)",
+      "youth from Trigoria given senior slots (Pisilli, Lulli, Arena, De Marzi)"
+    ],
+    "club_character": "Owned 95.97% by The Friedkin Group (Dan Friedkin president) since 2020; one of Italy's most passionate and demanding fanbases, with heavy Roman media pressure and a Curva Sud that has repeatedly clashed with ownership over communication. The privately funded 60,605-seat Pietralata stadium (EUR 1.047bn) received Capitoline Assembly feasibility approval in March 2026 with groundbreaking targeted for 2027.",
+    "ownership": "private (The Friedkin Group, 95.97%)",
+    "political_and_social_context": "Publicly documented: Roma operate under a UEFA financial settlement agreement and were fined EUR 3m for missing interim targets; the Pietralata stadium project has been the subject of years of municipal politics and local opposition; the club runs long-standing anti-racism and community programmes and has periodically been sanctioned for discriminatory chanting by sections of fans. No further institution-level positions verified this session.",
     "languages": [
       "it",
-      "en"
+      "en",
+      "es"
     ],
-    "wage_structure": null,
-    "transfer_policy": null,
+    "wage_structure": "hierarchical but compressed by the UEFA settlement: Dybala renewed to 2027 on reduced terms; new signings on ~EUR 2-2.5m net (Castro 2m, Molina 2.5m, De Roon 2m)",
+    "transfer_policy": "Buy prime-age or young Serie A / Bundesliga / Ligue 1 starters with resale value (Castro 22, Koulierakis, Vaz 19), use loans with conditional obligations (Malen, Balerdi, Ferguson) to spread cost under settlement limits, and offload non-fits (Dovbyk loan, Vaz loan to Hull with EUR 30m option).",
     "injury_management_reputation": null
   },
   "last_season_2025_26": {
-    "league_position": null,
-    "points": null,
-    "played": null,
-    "won": null,
-    "drawn": null,
-    "lost": null,
-    "goals_for": null,
-    "goals_against": null,
+    "league_position": 3,
+    "points": 70,
+    "played": 38,
+    "won": 20,
+    "drawn": 10,
+    "lost": 8,
+    "goals_for": 53,
+    "goals_against": 35,
     "xg_for": null,
     "xg_against": null,
     "possession_pct": null,
-    "ucl_result": null,
-    "domestic_cup": null,
-    "top_scorer": null,
-    "top_assister": null
+    "ucl_result": "Not in UCL (Europa League: round of 16, lost 4-5 agg to Bologna after extra time, 19 Mar 2026)",
+    "domestic_cup": "Coppa Italia round of 16 (lost 2-3 at home to Torino, 13 Jan 2026)",
+    "top_scorer": {
+      "name": "Donyell Malen",
+      "goals": 14
+    },
+    "top_assister": {
+      "name": "Matías Soulé",
+      "assists": 5
+    }
   },
   "summer_2026_window": {
-    "arrivals": [],
-    "departures": [],
+    "arrivals": [
+      {
+        "name": "Santiago Castro",
+        "from": "Bologna (plus Dovbyk loan, 10% sell-on to Bologna)",
+        "fee_eur_m": 35,
+        "position": "ST"
+      },
+      {
+        "name": "Donyell Malen",
+        "from": "Aston Villa (loan obligation triggered)",
+        "fee_eur_m": 25,
+        "position": "RW"
+      },
+      {
+        "name": "Nahuel Molina",
+        "from": "Atlético Madrid",
+        "fee_eur_m": 18,
+        "position": "RB"
+      },
+      {
+        "name": "Konstantinos Koulierakis",
+        "from": "VfL Wolfsburg (+1.5m bonus, 20% sell-on)",
+        "fee_eur_m": 17,
+        "position": "CB"
+      },
+      {
+        "name": "Daniele Ghilardi",
+        "from": "Hellas Verona",
+        "fee_eur_m": 8,
+        "position": "CB"
+      },
+      {
+        "name": "Leonardo Balerdi",
+        "from": "Olympique Marseille (EUR 1m loan, EUR 15m option becoming obligation on 15 apps + European qualification)",
+        "fee_eur_m": 1,
+        "position": "CB"
+      },
+      {
+        "name": "Marten de Roon",
+        "from": "Atalanta (free, up to EUR 0.6m bonuses, 1-year deal)",
+        "fee_eur_m": 0,
+        "position": "DM"
+      }
+    ],
+    "departures": [
+      {
+        "name": "Artem Dovbyk",
+        "to": "Bologna (loan to Jun 2027 with option)",
+        "fee_eur_m": 0,
+        "position": "ST"
+      },
+      {
+        "name": "Robinio Vaz",
+        "to": "Hull City (loan, EUR 30m option)",
+        "fee_eur_m": 0,
+        "position": "ST"
+      },
+      {
+        "name": "Zeki Çelik",
+        "to": "Juventus (free)",
+        "fee_eur_m": 0,
+        "position": "RB"
+      },
+      {
+        "name": "Angeliño",
+        "to": "departed (destination unverified)",
+        "fee_eur_m": null,
+        "position": "LB"
+      },
+      {
+        "name": "Tommaso Baldanzi",
+        "to": "Genoa",
+        "fee_eur_m": null,
+        "position": "AM"
+      },
+      {
+        "name": "Jan Ziółkowski",
+        "to": "Monza",
+        "fee_eur_m": null,
+        "position": "CB"
+      },
+      {
+        "name": "Stephan El Shaarawy",
+        "to": "departed (destination unverified)",
+        "fee_eur_m": 0,
+        "position": "LW"
+      },
+      {
+        "name": "Bryan Zaragoza",
+        "to": "departed (destination unverified)",
+        "fee_eur_m": null,
+        "position": "LW"
+      },
+      {
+        "name": "Evan Ferguson",
+        "to": "Brighton (loan ended; option not exercised — inferred from absence in UEFA list)",
+        "fee_eur_m": 0,
+        "position": "ST"
+      }
+    ],
     "net_spend_eur_m": null
   },
   "squad": [
     {
-      "name": "Jayden Oosterwolde",
+      "name": "Mile Svilar",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "SRB",
+      "contract_until": null,
+      "shirt_no": 99,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Pierluigi Gollini",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Renato De Marzi",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Evan Ndicka",
       "position": "CB",
       "secondary_positions": [
         "LB"
       ],
-      "age": 25,
+      "age": null,
+      "nationality": "CIV",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Gianluca Mancini",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Konstantinos Koulierakis",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "GRE",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Mario Hermoso",
+      "position": "CB",
+      "secondary_positions": [
+        "LB"
+      ],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Leonardo Balerdi",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ARG",
+      "contract_until": 2031,
+      "shirt_no": 26,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Daniele Ghilardi",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Nahuel Molina",
+      "position": "RB",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": null,
+      "nationality": "ARG",
+      "contract_until": 2030,
+      "shirt_no": 20,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Devyne Rensch",
+      "position": "RB",
+      "secondary_positions": [
+        "CB",
+        "LB"
+      ],
+      "age": null,
       "nationality": "NED",
       "contract_until": null,
       "shirt_no": null,
@@ -81,20 +389,368 @@
         "assists": null
       },
       "injury_flag": null
+    },
+    {
+      "name": "Wesley",
+      "position": "LB",
+      "secondary_positions": [
+        "RB",
+        "LW"
+      ],
+      "age": null,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": 23,
+        "starts": null,
+        "minutes": null,
+        "goals": 3,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Manu Koné",
+      "position": "CM",
+      "secondary_positions": [
+        "DM"
+      ],
+      "age": null,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": "Chelsea move blocked on deadline day; retention confirmed for 2026/27"
+    },
+    {
+      "name": "Bryan Cristante",
+      "position": "CM",
+      "secondary_positions": [
+        "DM",
+        "CB"
+      ],
+      "age": null,
+      "nationality": "ITA",
+      "contract_until": 2028,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Marten de Roon",
+      "position": "DM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": 35,
+      "nationality": "NED",
+      "contract_until": 2027,
+      "shirt_no": 15,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Lorenzo Pellegrini",
+      "position": "AM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": null,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Niccolò Pisilli",
+      "position": "CM",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": null,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Emanuele Lulli",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Matías Soulé",
+      "position": "RW",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": null,
+      "nationality": "ARG",
+      "contract_until": null,
+      "shirt_no": 18,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": 25,
+        "starts": null,
+        "minutes": null,
+        "goals": 6,
+        "assists": 5
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Donyell Malen",
+      "position": "RW",
+      "secondary_positions": [
+        "LW",
+        "ST"
+      ],
+      "age": null,
+      "nationality": "NED",
+      "contract_until": 2030,
+      "shirt_no": 14,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 14,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Paulo Dybala",
+      "position": "AM",
+      "secondary_positions": [
+        "RW",
+        "ST"
+      ],
+      "age": null,
+      "nationality": "ARG",
+      "contract_until": 2027,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Santiago Castro",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ARG",
+      "contract_until": 2031,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Arena",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
     }
   ],
-  "strengths": [],
-  "weaknesses": [],
-  "positional_needs": [],
-  "position_benchmarks": {},
-  "sources": [
-    "https://www.uefa.com/uefachampionsleague/news/02a8-215821715a96-9a3b43fad585-1000--uefa-champions-league-league-phase-draw/",
-    "https://bleacherreport.com/articles/25489784-champions-league-draw-2026-27-schedule-dates-league-phase-fixtures",
-    "https://www.espn.com/soccer/story/_/id/49736233/champions-league-phase-draw-seeding-pots-2026-2027"
+  "strengths": [
+    "Return to the Champions League on merit: 3rd in Serie A with 70 points (20-10-8) and only 35 conceded — a top-three defence.",
+    "Clear, proven tactical identity: Gasperini's man-marking press and 3-4-2-1, now reinforced with players who know it (De Roon) or fit it (Castro, Koulierakis, Molina).",
+    "Malen's impact: 14 Serie A goals after arriving in January (15 in 20 apps all comps), bought outright for EUR 25m to 2030.",
+    "Argentine attacking chemistry: Dybala (renewed), Soulé (6 goals, 5 assists), Castro (EUR 35m), plus Molina and Balerdi at the back.",
+    "Retained core: Koné kept despite a EUR ~61m Chelsea approach; Cristante renewed to 2028; Pellegrini and Dybala confirmed."
   ],
-  "as_of": "2026-09-02",
+  "weaknesses": [
+    "Cup fragility: knocked out of the Coppa Italia by Torino and the Europa League by Bologna (4-5 agg) despite a strong league season.",
+    "Goals: only 53 scored in 38 league games; the previous No. 9 (Dovbyk) was loaned out and Castro is unproven at UCL level.",
+    "Financial ceiling: UEFA settlement agreement (EUR 3m fine for missed targets) forces loans-with-obligations and ~EUR 2m net salaries.",
+    "Ageing spine: Dybala (contract to 2027), De Roon (35), Pellegrini, Mancini and Cristante are all past 28.",
+    "Goalkeeper depth behind Svilar is thin (Gollini, youth keeper De Marzi); left-back depth after Angeliño's exit relies on Wesley/Hermoso.",
+    "Squad churn: nine or more departures and seven arrivals in one summer under a demanding tactical system with a high injury load."
+  ],
+  "positional_needs": [
+    {
+      "position": "LB",
+      "priority": "high",
+      "profile": "athletic left wing-back with stamina for a man-marking system, 21-26",
+      "reason": "Angeliño departed; Wesley is the only natural wing-back and Hermoso is a converted centre-back",
+      "budget_eur_m": 15,
+      "wage_ceiling_eur_m_net": 2
+    },
+    {
+      "position": "AM",
+      "priority": "medium",
+      "profile": "young creative No. 10 / inside forward, 20-24, resale value",
+      "reason": "Dybala is on a one-year renewal to 2027; Baldanzi, El Shaarawy and Zaragoza left",
+      "budget_eur_m": 20,
+      "wage_ceiling_eur_m_net": 2
+    },
+    {
+      "position": "ST",
+      "priority": "medium",
+      "profile": "pressing backup No. 9, 20-25",
+      "reason": "Dovbyk and Vaz loaned out, Ferguson returned; Castro's only cover is the youth striker Arena",
+      "budget_eur_m": 15,
+      "wage_ceiling_eur_m_net": 2
+    },
+    {
+      "position": "GK",
+      "priority": "low",
+      "profile": "experienced backup, 26-32",
+      "reason": "Gollini is the only senior deputy to Svilar",
+      "budget_eur_m": 3,
+      "wage_ceiling_eur_m_net": 1
+    }
+  ],
+  "position_benchmarks": {
+    "ST": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "shots_p90": null,
+      "pressures_p90": null
+    },
+    "CM": {
+      "pass_completion_pct": null,
+      "progressive_passes_p90": null,
+      "tackles_interceptions_p90": null
+    },
+    "CB": {
+      "aerials_won_pct": null,
+      "tackles_interceptions_p90": null,
+      "pass_completion_pct": null
+    },
+    "LB": {
+      "assists_p90": null,
+      "progressive_carries_p90": null,
+      "tackles_interceptions_p90": null
+    }
+  },
+  "sources": [
+    "https://www.asroma.com/en/news/75812/202627-champions-league-romas-league-phase-opponents",
+    "https://www.asroma.com/en/news/75819/uefa-champions-league-schedule",
+    "https://football-italia.net/champions-league-draw-inter-roma-napoli-como/",
+    "https://www.asroma.com/en/news/73319/as-roma-appoint-gian-piero-gasperini-as-new-head-coach",
+    "https://www.asroma.com/en/news/75601/gallery-the-first-session-of-the-2026-27-season",
+    "https://football-italia.net/gasperini-roma-avoid-new-misunderstandings-27/",
+    "https://www.sportinglife.com/football/league-tables/serie-a/6/seasons/2025-2026/107",
+    "https://lastseason.co.uk/serie-a/2025-26/",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_AS_Roma_season",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_AS_Roma_season",
+    "https://www.statmuse.com/fc/ask?q=roma+italy+serie+a+league+top+scorer+2025%2F2026",
+    "https://www.statmuse.com/fc/club/roma-269/2026",
+    "https://www.espn.co.uk/football/team/stats/_/id/104",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_UEFA_Europa_League_knockout_phase",
+    "https://www.espn.com/soccer/match/_/gameId/759118/torino-as-roma",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Coppa_Italia",
+    "https://www.calciomercato.com/liste/roma-ufficiale-la-lista-uefa-ci-sono-castro-e-mora-tutti-i-big-presenti/blt40da7b066f18acc3",
+    "https://www.romaforever.it/2026/09/03/lista-champions-roma-2026-27-gasperini-ne-porta-24-spazio-ai-giovani/",
+    "https://www.siamolaroma.it/2026/09/02/champions-league-la-roma-presenta-la-lista-uefa-i-24-scelti-da-gasperini/",
+    "https://www.vocegiallorossa.it/calciomercato/i-guida-calciomercato-roma-i-acquisti-cessioni-rinnovi-ufficiali-281093",
+    "https://www.grandisport24.it/as-roma-2026-27-tutti-i-movimenti-ufficiali-che-possono-cambiare-il-futuro-giallorosso-mercato-chiuso/",
+    "https://www.ilfattoquotidiano.it/2026/08/20/serie-a-2026-27-acquisti-cessioni-formazioni-tipo-squadre/8483691/16/",
+    "https://www.fantamaster.it/cessioni-roma-2026-2027-dybala-kone-dovbyk-pellegrini-zaragoza-chi-va-chi-resta/",
+    "https://www.eurosport.it/calcio/calciomercato/2026-2027/santiago-castro-alla-roma-e-dovbyk-al-bologna-lo-scambio-e-ufficiale-formula-cifre-e-dettagli_sto23323217/story.shtml",
+    "https://www.corrieredellosport.it/news/calcio/calcio-mercato/roma/2026/07/30-150208290/roma_castro_ufficiale_il_comunicato_le_cifre_e_il_numero_di_maglia_scelto",
+    "https://sports.yahoo.com/articles/official-roma-buy-koulierakis-wolfsburg-200000089.html",
+    "https://sport.sky.it/calciomercato/2026/07/31/roma-koulierakis-calciomercato-news",
+    "https://www.forzaroma.info/news-as-roma/roma-ufficiale-lacquisto-di-balerdi-prestito-con-diritto-e-obbligo-sceglie-il-26/",
+    "https://www.fantacalcio.it/calciomercato/30_08_2026/ufficiale-roma-ecco-balerdi-i-dettagli-dell-affare-497204",
+    "https://www.calciomercato.com/liste/marten-de-roon-dall-atalanta-alla-roma-le-cifre-dell-affare/bltcd54c39db4847f27",
+    "https://en.atalanta.it/news/marten-de-roon-departs-atalanta",
+    "https://sports.yahoo.com/articles/official-malen-completes-permanent-25m-153500507.html",
+    "https://www.skysports.com/football/news/11095/13494182/donyell-malen-joins-roma-aston-villa-forward-signs-for-serie-a-club-for-lb21-6m-after-year-at-villa-park",
+    "https://www.sportmediaset.mediaset.it/mercato/roma/roma-molina-e-arrivata-anche-l-ufficialita-vestira-la-maglia-numero-20_115388570-202602k.shtml",
+    "https://www.romatoday.it/sport/calciomercato/roma-molina-vice-wesley-ultime-trattative-6-agosto-2026.html",
+    "https://www.eurosport.it/calcio/calciomercato/2026-2027/manu-kone-al-chelsea-non-si-fa-gasperini-si-impunta-e-trattiene-il-francese-a-roma.-cronistoria-e-dettagli-della-trattativa_sto23333125/story.shtml",
+    "https://www.getfootballnewsfrance.com/2026/official-hull-city-sign-robinio-vaz-on-loan-from-as-roma/",
+    "https://www.goal.com/en/lists/why-roma-signed-robinio-vaz-the-figures-behind-the-deal-with-marseille-his-wages-and-massara-s-coup/blt9f445d2d501f4bcb",
+    "https://www.goal.com/en-us/lists/evan-ferguson-roma-player-serie-a-confirm-loan-deal-brighton-striker-option-permanent-deal/blt58dcae7097a3b9d2",
+    "https://totalfootballanalysis.com/head-coach-analysis/gian-piero-gasperini-tactics-roma-2025-2026-tactical-analysis",
+    "https://footballbunsekicom.com/team-analysis/gian-piero-gasperinis-as-roma-tactical-analysis-25-26/",
+    "https://www.chiesaditotti.com/roma-player-analysis/39302/seen-through-a-coachs-lens-gasperinis-risky-press-and-romas-reward",
+    "https://stadiumdb.com/news/2026/07/italy_bureaucracy_surrounding_romas_stadium_gathers_pace_when_will_construction_begin",
+    "https://theesk.org/2026/06/08/the-analysis-series-friedkin-groups-acquisition-and-ownership-of-as-roma-2020-2026/",
+    "https://sports.yahoo.com/article/economics-stadium-plans-pietralata-politics-073000054.html"
+  ],
+  "as_of": "2026-09-03",
   "data_quality": {
-    "confidence": "low",
-    "notes": "SKELETON — not researched: the session's web-search budget was exhausted before this club was reached and the egress proxy blocks football data sites. Only the pot (UEFA/ESPN pot announcement) and the draw opponents cross-referenced from other researched club files are recorded; opponent lists are therefore PARTIAL (only fixtures visible from the other side). Squad, coach, 2025/26 numbers and needs must be researched before this club can be used for matching. | Reconciled 2026-09-02 with player-pool research: Oosterwolde added (on loan at AS Roma with conditional obligation, see players/jayden_oosterwolde.json)."
+    "confidence": "medium",
+    "notes": "Source-verified via search snippets: Gasperini as coach (3-year deal from June 2025); Serie A 2025/26 3rd, 70 pts, 20-10-8, 53-35 (Sporting Life final table; lastseason.co.uk confirms 3rd) — NOTE a StatMuse snippet gave a conflicting '6th, W18 D4 L11', treated as a partial-season figure; EL R16 exit to Bologna and Coppa R16 exit to Torino; all eight draw opponents with home/away split (asroma.com, Football Italia); the 24-man UEFA list of 2 Sep 2026 (23 names retrieved: the 24th, reported as 'Mora', is not included here because position/identity were not verified). Fees: Castro EUR 35m + Dovbyk loan + 10% sell-on, Malen EUR 25m, Molina EUR 18m incl. bonuses, Koulierakis EUR 17m + 1.5m, Ghilardi ~EUR 8m, Balerdi EUR 1m loan/EUR 15m conditional obligation, De Roon free. Net spend null (departure fees for Baldanzi, Ziółkowski, Angeliño, Zaragoza unverified). Oosterwolde REMOVED from the earlier skeleton: Italian sources report the Fenerbahçe deal collapsed after medical checks. Ferguson's exit is inferred from his absence in the UEFA list (one English source claimed a GBP 32.9m permanent deal). Tsimikas and El Aynaoui are omitted because they are absent from the UEFA list although one squad page still lists Tsimikas. Shirt numbers only for Svilar 99, Soulé 18, Malen 14, Molina 20, De Roon 15, Balerdi 26. Per-player 2025/26 stats only for Malen (14 Serie A goals), Soulé (25 apps, 6 goals, 5 assists — StatMuse/ESPN snippets, not full-season verified) and Wesley (23 apps, 3 goals); ages only De Roon (35). Contract years where announced. Formation and pressing description from tactical-analysis sources. Budgets/wage ceilings are estimates; position benchmarks null."
   }
 }

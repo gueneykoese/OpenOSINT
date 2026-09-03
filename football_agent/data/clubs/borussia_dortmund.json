@@ -7,75 +7,783 @@
   "city": "Dortmund",
   "ucl_2026_27": {
     "pot": 2,
-    "qualified_via": null,
+    "qualified_via": "Bundesliga 2025/26 runner-up",
     "opponents_home": [
-      "AEK",
       "Inter",
-      "Sabah",
-      "Villarreal"
+      "Villarreal",
+      "Real Betis",
+      "AEK Athens"
     ],
     "opponents_away": [
       "Arsenal",
       "Aston Villa",
-      "Bodø/Glimt"
+      "Bodø/Glimt",
+      "Sabah"
     ]
   },
   "head_coach": {
-    "name": null,
-    "since": null,
-    "nationality": null,
-    "preferred_formation": null,
-    "style_keywords": []
+    "name": "Niko Kovač",
+    "since": "2025-02",
+    "nationality": "CRO",
+    "preferred_formation": "3-4-2-1",
+    "style_keywords": [
+      "back three",
+      "compact mid-block",
+      "quick vertical transitions",
+      "wing-back width (Couto/Svensson/Ryerson)",
+      "best defence in the Bundesliga 2025/26",
+      "direct, clinical rather than heavy-metal"
+    ]
   },
   "identity": {
-    "playing_style": null,
-    "principles": [],
-    "club_character": null,
-    "ownership": null,
-    "political_and_social_context": null,
+    "playing_style": "Under Kovač Dortmund abandoned their old 'heavy-metal' identity for a structured 3-4-2-1: Anton, Schlotterbeck and Bensebaini in front of Kobel, wing-backs providing the width, Sabitzer/Nmecha (now Jobe Bellingham, Chukwuemeka) in the double pivot and two flexible No. 10s behind Guirassy. In 2025/26 that produced the league's best defence (34 conceded), 70 goals and 73 points — 13 more than 2024/25 — but the team was still 2nd behind a record-breaking Bayern and collapsed from 2-0 up to lose 3-4 on aggregate to Atalanta in the UCL. The 2026 window replaced experienced attackers (Brandt, Adeyemi) with teenagers (Karetsas 18, Gadou 19, Lerma 18, Prates 17) plus the Nwaneri loan.",
+    "principles": [
+      "buy-young-develop-sell: 2026 recruits Karetsas, Gadou, Lerma, Prates are all 19 or under",
+      "member-owned club with a listed KGaA, run within its own means (no oligarch/state money)",
+      "Bundesliga's best defensive record as the platform for a title challenge",
+      "coaching stability: Kovač extended to 2027 after finishing 2nd",
+      "Südtribüne/Yellow Wall fan culture and 81k attendances as commercial engine"
+    ],
+    "club_character": "Member-controlled club (BV Borussia 09 e.V. holds the majority of the KGaA, which is listed on the Frankfurt Stock Exchange — Germany's only listed football club). Enormous, loyal fanbase and the 81,365-capacity Signal Iduna Park with the Yellow Wall; media pressure is high but the club is financially self-sustaining and openly positions itself as Bayern's challenger with a fraction of the budget.",
+    "ownership": "member-owned (e.V. majority) with a stock-market-listed KGaA (Borussia Dortmund GmbH & Co. KGaA); minority investors include Evonik, Signal Iduna, Puma",
+    "political_and_social_context": "Publicly documented: the 2024 sponsorship deal with arms manufacturer Rheinmetall drew organised fan and political criticism; the club has long-running institutional anti-racism/anti-discrimination programmes and Holocaust-remembrance work with supporters; the ultras scene has repeatedly protested against Monday fixtures and DFB commercialisation. No further institution-level positions verified this session.",
     "languages": [
       "de",
       "en"
     ],
-    "wage_structure": null,
-    "transfer_policy": null,
-    "injury_management_reputation": null
+    "wage_structure": "hierarchical but below Bayern; wage bill trimmed in 2026 with Brandt, Süle and Özcan off the books (details unverified)",
+    "transfer_policy": "Data-led youth acquisition (Karetsas EUR 30m+2m, Gadou ~EUR 19.5m, Prates EUR 12m, Lerma EUR 4m agreed in 2024) funded by selling peak-value or expiring assets (Adeyemi up to EUR 29m, Duranville EUR 5m, Campbell EUR 6m, Wätjen EUR 2.5m); Premier League loan-to-buy (Chukwuemeka EUR ~25m) and loans (Nwaneri).",
+    "injury_management_reputation": "Publicly discussed: captain Emre Can tore his ACL in the March 2026 Klassiker and was still extended to 2027; Niklas Süle retired in 2026 after health problems limited his Dortmund career."
   },
   "last_season_2025_26": {
-    "league_position": null,
-    "points": null,
-    "played": null,
-    "won": null,
-    "drawn": null,
-    "lost": null,
-    "goals_for": null,
-    "goals_against": null,
+    "league_position": 2,
+    "points": 73,
+    "played": 34,
+    "won": 22,
+    "drawn": 7,
+    "lost": 5,
+    "goals_for": 70,
+    "goals_against": 34,
     "xg_for": null,
     "xg_against": null,
     "possession_pct": null,
-    "ucl_result": null,
-    "domestic_cup": null,
-    "top_scorer": null,
+    "ucl_result": "Knockout play-off / R16 stage exit to Atalanta (won first leg 2-0, lost second leg 1-4 in Bergamo, 3-4 agg; stoppage-time penalty by Samardžić)",
+    "domestic_cup": "DFB-Pokal round of 16 (lost 0-1 to Bayer Leverkusen, 2 Dec 2025)",
+    "top_scorer": {
+      "name": "Serhou Guirassy",
+      "goals": 17
+    },
     "top_assister": null
   },
   "summer_2026_window": {
-    "arrivals": [],
-    "departures": [],
-    "net_spend_eur_m": null
+    "arrivals": [
+      {
+        "name": "Konstantinos Karetsas",
+        "from": "KRC Genk",
+        "fee_eur_m": 30,
+        "position": "AM"
+      },
+      {
+        "name": "Joane Gadou",
+        "from": "RB Salzburg",
+        "fee_eur_m": 19.5,
+        "position": "CB"
+      },
+      {
+        "name": "Kauã Prates",
+        "from": "Cruzeiro",
+        "fee_eur_m": 12,
+        "position": "LB"
+      },
+      {
+        "name": "Justin Lerma",
+        "from": "Independiente del Valle (agreed 2024, joined at 18)",
+        "fee_eur_m": 4,
+        "position": "AM"
+      },
+      {
+        "name": "Ethan Nwaneri",
+        "from": "Arsenal (season loan, no option, wages covered)",
+        "fee_eur_m": 0,
+        "position": "AM"
+      },
+      {
+        "name": "Takato Yamamoto",
+        "from": "Gamba Osaka (loan to BVB II, EUR 1.5m option)",
+        "fee_eur_m": 0,
+        "position": "CM"
+      }
+    ],
+    "departures": [
+      {
+        "name": "Karim Adeyemi",
+        "to": "FC Barcelona",
+        "fee_eur_m": 29,
+        "position": "LW"
+      },
+      {
+        "name": "Julian Brandt",
+        "to": "free agent (contract expired)",
+        "fee_eur_m": 0,
+        "position": "AM"
+      },
+      {
+        "name": "Niklas Süle",
+        "to": "retired",
+        "fee_eur_m": 0,
+        "position": "CB"
+      },
+      {
+        "name": "Salih Özcan",
+        "to": "Beşiktaş",
+        "fee_eur_m": null,
+        "position": "DM"
+      },
+      {
+        "name": "Julien Duranville",
+        "to": "Olympique Lyonnais",
+        "fee_eur_m": 5,
+        "position": "RW"
+      },
+      {
+        "name": "Cole Campbell",
+        "to": "SV Elversberg",
+        "fee_eur_m": 6,
+        "position": "RW"
+      },
+      {
+        "name": "Kjell Wätjen",
+        "to": "FC Midtjylland",
+        "fee_eur_m": 2.5,
+        "position": "CM"
+      },
+      {
+        "name": "Pascal Groß",
+        "to": "departed (destination unverified)",
+        "fee_eur_m": null,
+        "position": "CM"
+      },
+      {
+        "name": "Almugera Kabar",
+        "to": "NEC Nijmegen (loan)",
+        "fee_eur_m": 0,
+        "position": "LB"
+      },
+      {
+        "name": "Diant Ramaj",
+        "to": "loan (club unverified)",
+        "fee_eur_m": 0,
+        "position": "GK"
+      }
+    ],
+    "net_spend_eur_m": 23
   },
-  "squad": [],
-  "strengths": [],
-  "weaknesses": [],
-  "positional_needs": [],
-  "position_benchmarks": {},
-  "sources": [
-    "https://www.uefa.com/uefachampionsleague/news/02a8-215821715a96-9a3b43fad585-1000--uefa-champions-league-league-phase-draw/",
-    "https://bleacherreport.com/articles/25489784-champions-league-draw-2026-27-schedule-dates-league-phase-fixtures",
-    "https://www.espn.com/soccer/story/_/id/49736233/champions-league-phase-draw-seeding-pots-2026-2027"
+  "squad": [
+    {
+      "name": "Gregor Kobel",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 28,
+      "nationality": "SUI",
+      "contract_until": null,
+      "shirt_no": 1,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Alexander Meyer",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 35,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Silas Ostrzinski",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 22,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Waldemar Anton",
+      "position": "CB",
+      "secondary_positions": [
+        "RB"
+      ],
+      "age": null,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": 3,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Nico Schlotterbeck",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": 4,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ramy Bensebaini",
+      "position": "CB",
+      "secondary_positions": [
+        "LB"
+      ],
+      "age": null,
+      "nationality": "ALG",
+      "contract_until": null,
+      "shirt_no": 5,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Joane Gadou",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 19,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 22,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Aarón Anselmino",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ARG",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Filippo Mané",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Yan Couto",
+      "position": "RB",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": null,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": 2,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Julian Ryerson",
+      "position": "RB",
+      "secondary_positions": [
+        "LB",
+        "RW"
+      ],
+      "age": null,
+      "nationality": "NOR",
+      "contract_until": null,
+      "shirt_no": 26,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Daniel Svensson",
+      "position": "LB",
+      "secondary_positions": [
+        "LW",
+        "CM"
+      ],
+      "age": null,
+      "nationality": "SWE",
+      "contract_until": null,
+      "shirt_no": 24,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Kauã Prates",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": 17,
+      "nationality": "BRA",
+      "contract_until": 2031,
+      "shirt_no": 36,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Marcel Sabitzer",
+      "position": "CM",
+      "secondary_positions": [
+        "DM",
+        "AM"
+      ],
+      "age": null,
+      "nationality": "AUT",
+      "contract_until": null,
+      "shirt_no": 20,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Felix Nmecha",
+      "position": "CM",
+      "secondary_positions": [
+        "DM"
+      ],
+      "age": null,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": 8,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Jobe Bellingham",
+      "position": "CM",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": null,
+      "nationality": "ENG",
+      "contract_until": 2030,
+      "shirt_no": 7,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Carney Chukwuemeka",
+      "position": "CM",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": null,
+      "nationality": "ENG",
+      "contract_until": 2030,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Emre Can",
+      "position": "DM",
+      "secondary_positions": [
+        "CB"
+      ],
+      "age": 32,
+      "nationality": "GER",
+      "contract_until": 2027,
+      "shirt_no": 23,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": "ACL tear (1 Mar 2026), return date unverified"
+    },
+    {
+      "name": "Konstantinos Karetsas",
+      "position": "AM",
+      "secondary_positions": [
+        "RW",
+        "LW"
+      ],
+      "age": 18,
+      "nationality": "GRE",
+      "contract_until": 2031,
+      "shirt_no": 19,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Justin Lerma",
+      "position": "AM",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": 18,
+      "nationality": "ECU",
+      "contract_until": null,
+      "shirt_no": 28,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ethan Nwaneri",
+      "position": "AM",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": null,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": 18,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Maximilian Beier",
+      "position": "ST",
+      "secondary_positions": [
+        "LW",
+        "AM"
+      ],
+      "age": null,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": 14,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Serhou Guirassy",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "GUI",
+      "contract_until": null,
+      "shirt_no": 9,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 17,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Fábio Silva",
+      "position": "ST",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": null,
+      "nationality": "POR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 2,
+        "assists": 6
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Luca Reggiani",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": 49,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    }
   ],
-  "as_of": "2026-09-02",
+  "strengths": [
+    "Best defence in the 2025/26 Bundesliga: 34 goals conceded in 34 games behind a settled Anton-Schlotterbeck-Bensebaini back three and Kobel.",
+    "Big improvement trajectory: 73 points (+13 on 2024/25), 22-7-5, 70 scored; 2nd place and direct UCL qualification under Kovač, who is contracted to 2027.",
+    "Reliable No. 9: Guirassy 17 Bundesliga goals (3rd in the league) plus 4 UCL and 1 cup goal; his release clause expired unexercised in July 2026 so he stays.",
+    "Deep, youthful attacking-midfield pool: Karetsas (EUR 30m), Nwaneri (Arsenal loan), Lerma, Beier, Chukwuemeka, Jobe Bellingham — high resale value.",
+    "Financial self-sufficiency and stable governance (member-owned, listed KGaA) with strong sales record (Adeyemi, Duranville, Campbell, Wätjen sold in 2026)."
+  ],
+  "weaknesses": [
+    "Experience drain in attack: Brandt (11 goals all comps) and Adeyemi left; replacements are 17-19-year-olds and a 19-year-old loanee with no guarantee of immediate output.",
+    "European fragility: threw away a 2-0 first-leg lead to lose 3-4 agg to Atalanta; earlier DFB-Pokal exit in the round of 16 to Leverkusen.",
+    "Midfield leadership: captain Emre Can (32) is recovering from an ACL tear; Özcan and Groß gone; Sabitzer ageing — Nmecha/Bellingham must carry the pivot.",
+    "Goalkeeper depth: Meyer is 35, Ostrzinski untested, Ramaj loaned out — Kobel has no proven deputy.",
+    "Guirassy publicly wanted to leave in summer 2026; dependence on one striker whose commitment was questioned."
+  ],
+  "positional_needs": [
+    {
+      "position": "ST",
+      "priority": "high",
+      "profile": "mobile No. 9 / second striker with 10+ goal output, 21-26, resale value",
+      "reason": "Guirassy sought an exit in 2026 and has no like-for-like deputy (Beier and Fábio Silva are wide/second-striker types)",
+      "budget_eur_m": 35,
+      "wage_ceiling_eur_m_net": 5
+    },
+    {
+      "position": "DM",
+      "priority": "medium",
+      "profile": "physical, press-resistant No. 6, 22-27, comfortable as the single pivot in a 3-4-2-1",
+      "reason": "Can post-ACL and 32; Özcan and Groß departed",
+      "budget_eur_m": 25,
+      "wage_ceiling_eur_m_net": 4
+    },
+    {
+      "position": "GK",
+      "priority": "low",
+      "profile": "young backup/successor to Kobel, 21-25",
+      "reason": "Meyer 35, Ostrzinski 22 and untested, Ramaj on loan",
+      "budget_eur_m": 10,
+      "wage_ceiling_eur_m_net": 1.5
+    },
+    {
+      "position": "RW",
+      "priority": "low",
+      "profile": "pacy right winger/wing-back, 20-24",
+      "reason": "Duranville and Campbell sold; width on the right relies on Couto/Ryerson",
+      "budget_eur_m": 20,
+      "wage_ceiling_eur_m_net": 3
+    }
+  ],
+  "position_benchmarks": {
+    "ST": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "shots_p90": null,
+      "pressures_p90": null
+    },
+    "CM": {
+      "pass_completion_pct": null,
+      "progressive_passes_p90": null,
+      "tackles_interceptions_p90": null
+    },
+    "CB": {
+      "aerials_won_pct": null,
+      "tackles_interceptions_p90": null,
+      "pass_completion_pct": null
+    },
+    "AM": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "key_passes_p90": null
+    }
+  },
+  "sources": [
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-champions-league-europa-draw-fixtures-results-bayern-dortmund-38801",
+    "https://www.bvb.de/de/en/news/news-overview/news.html/2026/8/27/Champions-League-These-are-the-opponents-BVB-is-looking-forward-to-facing-in-the-group-stage.html",
+    "https://sports.yahoo.com/articles/champions-league-bvb-relish-league-231600209.html",
+    "https://bvbbuzz.com/borussia-dortmund-s-confirmed-champions-league-opponents-01m11ynqbw0r",
+    "https://www.azernews.az/sports/262998.html",
+    "https://www.bundesliga.com/en/bundesliga/news/niko-kovac-contract-extension-borussia-dortmund-head-coach-33534",
+    "https://www.bundesliga.com/en/bundesliga/news/borussia-dortmund-2026-27-season-preview-challenge-bayern-kovac-nmecha-38849",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Borussia_Dortmund_season",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Borussia_Dortmund_season",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Bundesliga",
+    "https://www.bundesliga.com/en/bundesliga/news/2025-26-title-race-bayern-munich-borussia-dortmund-hoffenheim-35896",
+    "https://www.goal.com/en/lists/hardly-an-improvement-on-the-previous-two-seasons-borussia-dortmund-s-second-place-finish-is-deceptive/blt230bb57c38836ced",
+    "https://footystats.org/clubs/bvb-09-borussia-dortmund-33",
+    "https://www.bundesliga.com/en/bundesliga/news/serhou-guirassy-interview-not-enough-goals-kane-dortmund-37745",
+    "https://www.fotmob.com/leagues/54/stats/season/26891/players/goals/team/9789/borussia-dortmund",
+    "https://de.uefa.com/uefachampionsleague/news/02a2-2003652f16ac-e65d0a87fb53-1000--champions-league-dramatisches-aus-fur-dortmund-galatasaray-w/",
+    "https://www.bundesliga.com/en/bundesliga/news/borussia-dortmund-match-report-highlights-matchday-2-uefa-champions-league-36182",
+    "https://datencenter.dfb.de/competitions/dfb-pokal/seasons/2025-26/teams/borussia-dortmund",
+    "https://www.bvb.de/de/de/aktuelles/news/news.html/2026/8/20/Das-sind-die-Rueckennummern-fuer-die-Saison-2026-27.html",
+    "https://bvbwld.de/2026/08/20/von-kobel-bis-reggiani-das-sind-die-rueckennummern-des-bvb-fuer-die-saison-2026-27/",
+    "https://www.ruhrnachrichten.de/bvb/bvb-profis-an-der-uni-dortmund-rueckennummern-bei-gadou-prates-und-lerma-stehen-fest-w1220470-2002144531/",
+    "https://www.sportschau.de/fussball/bundesliga/die-transfers-borussia-dortmund-bvb-zur-saison-2026-27,wechselboerse-borussia-dortmund-saison-26-27-100.html",
+    "https://roundtable.io/sports/soccer/bundesliga/dortmund/news/borussia-dortmund-transfer-round-up-what-ins-and-outs-have-you-missed-so-far-this-summer",
+    "https://sports.yahoo.com/articles/transfer-roundup-where-borussia-dortmund-140035190.html",
+    "https://www.getfootballnewsgermany.com/2026/karetsas-bvb-official/",
+    "https://www.washingtonpost.com/sports/soccer/2026/08/03/dortmund-karetsas-transfer-genk/0cb49aa8-8f51-11f1-9fdc-0a725c989a7b_story.html",
+    "https://www.bundesliga.com/en/bundesliga/news/borussia-dortmund-sign-kaua-prates-cruzerio-brazil-35600",
+    "https://www.goal.com/en/lists/borussia-dortmund-eur12m-signing-teenage-left-back-brazilian-giants-cruzeiro/blte12fab0a6bc1c46c",
+    "https://www.bundesliga.com/en/bundesliga/news/who-is-justin-lerma-borussia-dortmund-new-signing-38297",
+    "https://www.bundesliga.com/en/bundesliga/news/niklas-sule-salih-ozcan-to-leave-borussia-dortmund-36427",
+    "https://www.getfootballnewsgermany.com/2026/bundesliga-dortmund-prev-26/",
+    "https://www.arsenal.com/news/ethan-nwaneri-joins-borussia-dortmund-on-loan-aQN7v3e8JvAT",
+    "https://www.cbssports.com/soccer/news/ethan-nwaneri-borussia-dortmund-loan-arsenal-recall-clause/",
+    "https://www.espn.com/soccer/story/_/id/46078250/chelsea-chukwuemeka-joins-dortmund-permanent-move",
+    "https://www.espn.com/soccer/story/_/id/48073802/dortmund-captain-emre-season-torn-acl",
+    "https://www.france24.com/en/live-news/20260321-dortmund-extend-injured-captain-can-s-contract",
+    "https://bvbbuzz.com/serhou-guirassy-s-release-clause-expires-today-although-borussia-dortmund-future-still-not-secured-01kxjwj35tgc",
+    "https://www.beinsports.com/en-us/soccer/bundesliga/articles/guirassy-wants-to-leave-dortmund-as-europe-s-giants-circle-2026-05-12",
+    "https://www.goal.com/en/lists/jobe-bellingham-makes-bold-future-prediction-at-borussia-dortmund-and-explains-where-he-needs-to-improve/blt5d8a8a3f3ca18904",
+    "https://totalfootballanalysis.com/head-coach-analysis/niko-kovac-tactics-borussia-dortmund-2025-2026-tactical-analysis",
+    "https://fcbayern.com/en/news/2025/10/new-look-borussia-dortmund-solid-direct-clinical",
+    "https://www.bundesliga.com/en/player/fabio-silva",
+    "https://www.espn.co.uk/football/team/squad/_/id/124/ger.dortmund"
+  ],
+  "as_of": "2026-09-03",
   "data_quality": {
-    "confidence": "low",
-    "notes": "SKELETON — not researched: the session's web-search budget was exhausted before this club was reached and the egress proxy blocks football data sites. Only the pot (UEFA/ESPN pot announcement) and the draw opponents cross-referenced from other researched club files are recorded; opponent lists are therefore PARTIAL (only fixtures visible from the other side). Squad, coach, 2025/26 numbers and needs must be researched before this club can be used for matching."
+    "confidence": "medium",
+    "notes": "Source-verified via search snippets: Kovač as coach (contract to 2027); Bundesliga 2025/26 2nd, 73 pts, 70-34 (bundesliga.com/Goal), W-D-L 22-7-5 (FootyStats, consistent with 73 pts); UCL exit to Atalanta 3-4 agg; DFB-Pokal R16 exit to Leverkusen; all eight draw opponents, with home/away split from bundesliga.com and bvb.de — NOTE this contradicts clubs/sabah.json, which lists Sabah travelling to Dortmund; two sources (bundesliga.com, azernews) say Dortmund play Sabah in Baku, so Sabah is recorded as AWAY here. Squad numbers from the official 20 Aug 2026 release (bvb.de/bvbwld) for 17 players; Meyer, Ostrzinski, Anselmino, Mané, Chukwuemeka, Fábio Silva numbers not in retrieved snippets. Roster is the 2025/26 squad minus confirmed exits plus confirmed arrivals; Anselmino, Mané, Sabitzer, Ryerson were only implicitly confirmed as staying (GGFN preview). Fees: Karetsas EUR 30m+2m, Gadou ~EUR 19.5m, Prates EUR 12m, Lerma EUR 4m (paid 2024), Adeyemi 'up to EUR 29m' (USD 25m + 35% sell-on per another source), Duranville EUR 5m, Campbell EUR 6m, Wätjen EUR 2.5m; Özcan/Groß fees and Groß destination unverified; net spend ~EUR 65.5m in vs ~EUR 42.5m out is an estimate. Top assister null: one snippet claimed Ryerson 15 assists but was internally inconsistent; Fábio Silva 2G/6A per bundesliga.com profile. Per-player stats only for Guirassy (17 Bundesliga goals) and Fábio Silva. Ages only where stated in sources (Kobel 28, Meyer 35, Ostrzinski 22, Gadou 19, Karetsas 18, Lerma 18, Prates 17, Can 32). Ownership/Rheinmetall context from general knowledge, not re-verified this session. Position benchmarks null. Budgets/wage ceilings are estimates."
   }
 }

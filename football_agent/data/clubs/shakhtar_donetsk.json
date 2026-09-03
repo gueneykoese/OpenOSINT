@@ -4,37 +4,41 @@
   "short_name": "Shakhtar",
   "country": "UKR",
   "league": "Ukrainian Premier League",
-  "city": "Donetsk (playing home games in exile)",
+  "city": "Donetsk (in exile since 2014; domestic home games in Lviv, 2026/27 UCL home games at Stamford Bridge, London)",
   "ucl_2026_27": {
     "pot": 3,
-    "qualified_via": "Ukrainian Premier League 2025/26 (route per task brief; not independently verified)",
-    "opponents_home": [
-      "Fenerbahçe"
-    ],
-    "opponents_away": []
+    "qualified_via": "Ukrainian Premier League 2025/26 champion (16th title; direct entry to league phase)",
+    "opponents_home": ["Real Madrid", "Sporting CP", "Fenerbahçe", "AEK Athens"],
+    "opponents_away": ["Inter", "PSV Eindhoven", "RB Leipzig", "Slovan Bratislava"]
   },
   "head_coach": {
-    "name": null,
-    "since": null,
-    "nationality": null,
-    "preferred_formation": null,
-    "style_keywords": []
+    "name": "Arda Turan",
+    "since": "2025-05",
+    "nationality": "TUR",
+    "preferred_formation": "4-3-3",
+    "style_keywords": ["4-3-3", "possession", "territorial dominance", "Brazilian technical wingers", "attack-first", "young coach (38)"]
   },
   "identity": {
-    "playing_style": null,
-    "principles": [],
-    "club_character": null,
-    "ownership": null,
-    "political_and_social_context": null,
-    "languages": [],
+    "playing_style": "Arda Turan (appointed 27 May 2025 on a two-year deal to summer 2027) plays a 4-3-3 built on possession and territorial dominance, fed by a conveyor belt of young Brazilian technicians (Kauã Elias, Luca Meirelles, Eguinaldo, Pedrinho, Alisson Santana). In 2025/26 the team won the league by 12 points (69 vs LNZ's 57), had a 21-match unbeaten run, and reached the Conference League semi-final (lost to Crystal Palace 1-3 home, 1-2 away) while topping the competition's xG rankings.",
+    "principles": [
+      "buy young Brazilians, develop, sell high (Kevin to Fulham EUR 40m, Sudakov to Benfica EUR 20.25m)",
+      "resilience in exile: no home stadium since 2014, neutral-venue European home games since 2022",
+      "attacking, possession-based identity regardless of coach",
+      "domestic dominance as a platform for European income",
+      "owner-funded (Rinat Akhmetov) with a strong Ukrainian core (Riznyk, Bondar, Matviienko, Ocheretko, Bondarenko)"
+    ],
+    "club_character": "Privately owned by Rinat Akhmetov; the most successful Ukrainian club of the 21st century. Displaced from the Donbass Arena since 2014 and, since the 2022 full-scale invasion, forced to play European 'home' games abroad (Krakow, now London). Fanbase dispersed across Ukraine and the diaspora; the club is publicly framed as a symbol of national resilience. High but different pressure: expectation to win domestically and to represent Ukraine in Europe.",
+    "ownership": "private (Rinat Akhmetov / SCM group)",
+    "political_and_social_context": "Publicly documented institution-level facts only: (1) Shakhtar has not played at the Donbass Arena since 2014 because of the war in eastern Ukraine; domestic home games are in Lviv (Arena Lviv). (2) UEFA requires Ukrainian clubs to play European home fixtures at neutral venues since 2022; Shakhtar used Krakow and for 2026/27 has agreed with Chelsea to stage UCL home games at Stamford Bridge. (3) Shakhtar sold Kevin to Fulham for a reported club-record EUR 40m and Sudakov to Benfica; Konoplya left for Borussia Mönchengladbach as a free agent. (4) 2025/26 UPL matches drew a league-high 101,050 total attendance despite wartime restrictions.",
+    "languages": ["uk", "pt", "en", "tr", "ru"],
     "wage_structure": "unknown",
-    "transfer_policy": null,
+    "transfer_policy": "buy-to-sell: recruit teenage/early-20s Brazilians and sell at peak (Kevin EUR 40m, Sudakov EUR 20.25m); retain a Ukrainian spine; opportunistic free domestic signings (Karavaev from Dynamo Kyiv)",
     "injury_management_reputation": null
   },
   "last_season_2025_26": {
-    "league_position": null,
-    "points": null,
-    "played": null,
+    "league_position": 1,
+    "points": 69,
+    "played": 30,
     "won": null,
     "drawn": null,
     "lost": null,
@@ -43,54 +47,107 @@
     "xg_for": null,
     "xg_against": null,
     "possession_pct": null,
-    "ucl_result": null,
-    "domestic_cup": null,
-    "top_scorer": {
-      "name": null,
-      "goals": null
-    },
-    "top_assister": {
-      "name": null,
-      "assists": null
-    }
+    "ucl_result": "Not in UCL (lost qualifying route); UEFA Conference League semi-final (lost 2-5 agg to Crystal Palace)",
+    "domestic_cup": "Ukrainian Cup round of 16",
+    "top_scorer": {"name": "Kauã Elias / Luca Meirelles (11 each, all competitions); Eguinaldo / Lassina Traoré (7 each, league)", "goals": 11},
+    "top_assister": {"name": null, "assists": null}
   },
   "summer_2026_window": {
-    "arrivals": [],
-    "departures": [],
+    "arrivals": [
+      {"name": "Oleksandr Karavaev", "from": "Dynamo Kyiv (free)", "fee_eur_m": 0, "position": "RB"}
+    ],
+    "departures": [
+      {"name": "Kevin", "to": "Fulham", "fee_eur_m": 40, "position": "LW"},
+      {"name": "Heorhiy Sudakov", "to": "Benfica (permanent after loan, 1 Jul 2026)", "fee_eur_m": 20.25, "position": "AM"},
+      {"name": "Yukhym Konoplya", "to": "Borussia Mönchengladbach (free)", "fee_eur_m": 0, "position": "RB"},
+      {"name": "Ivan Losenko", "to": "CF Montréal (loan)", "fee_eur_m": 0, "position": null},
+      {"name": "Khusrav Toirov", "to": "Istiklol (loan)", "fee_eur_m": 0, "position": null}
+    ],
     "net_spend_eur_m": null
   },
-  "squad": [],
-  "strengths": [],
-  "weaknesses": [],
-  "positional_needs": [],
+  "squad": [
+    {"name": "Dmytro Riznyk", "position": "GK", "secondary_positions": [], "age": 27, "nationality": "UKR", "contract_until": null, "shirt_no": 31, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Denys Tvardovskyi", "position": "GK", "secondary_positions": [], "age": null, "nationality": "UKR", "contract_until": null, "shirt_no": null, "role": "backup", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Kyrylo Fesyun", "position": "GK", "secondary_positions": [], "age": null, "nationality": "UKR", "contract_until": null, "shirt_no": null, "role": "backup", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Rostyslav Bahlai", "position": "GK", "secondary_positions": [], "age": 18, "nationality": "UKR", "contract_until": null, "shirt_no": 34, "role": "prospect", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Marlon Santos", "position": "CB", "secondary_positions": [], "age": 30, "nationality": "BRA", "contract_until": null, "shirt_no": 4, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Valeriy Bondar", "position": "CB", "secondary_positions": [], "age": 27, "nationality": "UKR", "contract_until": null, "shirt_no": 5, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Mykola Matviienko", "position": "CB", "secondary_positions": ["LB"], "age": null, "nationality": "UKR", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Alaa Ghram", "position": "CB", "secondary_positions": [], "age": null, "nationality": "TUN", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Diego Arroyo", "position": "CB", "secondary_positions": [], "age": null, "nationality": "BOL", "contract_until": null, "shirt_no": null, "role": "backup", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Vinícius Tobias", "position": "RB", "secondary_positions": [], "age": null, "nationality": "BRA", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Oleksandr Karavaev", "position": "RB", "secondary_positions": ["RW"], "age": null, "nationality": "UKR", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Irakli Azarovi", "position": "LB", "secondary_positions": [], "age": null, "nationality": "GEO", "contract_until": null, "shirt_no": 16, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Pedro Henrique", "position": "LB", "secondary_positions": ["CB"], "age": null, "nationality": "BRA", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Oleh Ocheretko", "position": "DM", "secondary_positions": ["CM"], "age": null, "nationality": "UKR", "contract_until": null, "shirt_no": 27, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Artem Bondarenko", "position": "CM", "secondary_positions": ["AM"], "age": null, "nationality": "UKR", "contract_until": null, "shirt_no": 21, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Dmytro Kryskiv", "position": "CM", "secondary_positions": [], "age": null, "nationality": "UKR", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Marlon Gomes", "position": "CM", "secondary_positions": ["DM"], "age": null, "nationality": "BRA", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Pedrinho", "position": "AM", "secondary_positions": ["RW", "CM"], "age": null, "nationality": "BRA", "contract_until": null, "shirt_no": 19, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Alisson Santana", "position": "RW", "secondary_positions": ["AM"], "age": null, "nationality": "BRA", "contract_until": null, "shirt_no": 30, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Eguinaldo", "position": "LW", "secondary_positions": ["ST"], "age": null, "nationality": "BRA", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 7, "assists": null}, "injury_flag": null},
+    {"name": "Luca Meirelles", "position": "ST", "secondary_positions": ["LW"], "age": null, "nationality": "BRA", "contract_until": null, "shirt_no": 6, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Kauã Elias", "position": "ST", "secondary_positions": [], "age": null, "nationality": "BRA", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Lassina Traoré", "position": "ST", "secondary_positions": [], "age": null, "nationality": "BFA", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 7, "assists": null}, "injury_flag": null}
+  ],
+  "strengths": [
+    "Dominant domestically (69 pts, 12-point margin, 21-game unbeaten run) with a settled possession identity.",
+    "Deep European run in 2025/26 (Conference League semi-final) and the competition's best xG output, so the young squad has knockout experience.",
+    "Production line of saleable Brazilian talent (Kevin EUR 40m, Sudakov EUR 20.25m) keeps the balance sheet healthy without an owner cash call.",
+    "Stable, well-established Ukrainian defensive spine (Riznyk, Bondar, Matviienko) under a coach entering his second season.",
+    "Playing UCL home games at Stamford Bridge gives a genuine big-stadium stage rather than an empty neutral ground."
+  ],
+  "weaknesses": [
+    "Lost two of their most productive attackers (Kevin, Sudakov) and starting right-back Konoplya in one window; only a free 34-year-old (Karavaev) verified as arriving.",
+    "Goal spread is thin: top league scorers had only 7 goals each; no proven 15-goal striker.",
+    "Very young, mostly Brazilian attack may be exposed against Inter, Real Madrid and Leipzig's intensity.",
+    "Logistics of exile (domestic games in Lviv, European games in London) add travel load and remove real home advantage.",
+    "Squad 2026/27 only partially verifiable; exact contract lengths and ages missing for most players."
+  ],
+  "positional_needs": [
+    {"position": "LW", "priority": "high", "profile": "quick 1v1 winger with end product, 20-25, resale potential", "reason": "Kevin (EUR 40m) sold to Fulham; Eguinaldo is the only verified senior left-sided option", "budget_eur_m": 8, "wage_ceiling_eur_m_net": 1.2},
+    {"position": "AM", "priority": "medium", "profile": "creative No.10/No.8 who can play in a 4-3-3 interior role", "reason": "Sudakov's permanent departure to Benfica leaves Pedrinho/Bondarenko as the main creators", "budget_eur_m": 8, "wage_ceiling_eur_m_net": 1.2},
+    {"position": "RB", "priority": "medium", "profile": "athletic right-back able to defend UCL wingers, 22-27", "reason": "Konoplya left on a free; Karavaev is a 34-year-old stop-gap", "budget_eur_m": 4, "wage_ceiling_eur_m_net": 0.8},
+    {"position": "ST", "priority": "medium", "profile": "penalty-box finisher with 12+ goal record", "reason": "No player exceeded 7 league goals in 2025/26", "budget_eur_m": 10, "wage_ceiling_eur_m_net": 1.5}
+  ],
   "position_benchmarks": {
-    "ST": {
-      "goals_p90": null,
-      "assists_p90": null,
-      "shots_p90": null,
-      "pressures_p90": null
-    },
-    "CM": {
-      "pass_completion_pct": null,
-      "progressive_passes_p90": null,
-      "tackles_interceptions_p90": null
-    },
-    "CB": {
-      "aerials_won_pct": null,
-      "tackles_interceptions_p90": null,
-      "pass_completion_pct": null
-    },
-    "GK": {
-      "save_pct": null,
-      "goals_prevented_p90": null
-    }
+    "ST": {"goals_p90": null, "assists_p90": null, "shots_p90": null, "pressures_p90": null},
+    "CM": {"pass_completion_pct": null, "progressive_passes_p90": null, "tackles_interceptions_p90": null},
+    "CB": {"aerials_won_pct": null, "tackles_interceptions_p90": null, "pass_completion_pct": null},
+    "GK": {"save_pct": null, "goals_prevented_p90": null}
   },
   "sources": [
-    "https://www.uefa.com/uefachampionsleague/news/02a8-216cd740d41f-fd3b45ac4a0f-1000--champions-league-league-phase-draw-all-36-teams-learn-their/"
+    "https://www.uefa.com/uefachampionsleague/news/02a8-216cd740d41f-fd3b45ac4a0f-1000--champions-league-league-phase-draw-all-36-teams-learn-their/",
+    "https://shakhtar.com/en/news/2026/august/27_news/27_ucl-draw_results/",
+    "https://unn.ua/en/news/shakhtar-learned-their-opponents-in-the-champions-league-group",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_FC_Shakhtar_Donetsk_season",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_FC_Shakhtar_Donetsk_season",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Ukrainian_Premier_League",
+    "https://shakhtar.com/en/news/2025/may/27_news/27_arda-turan/",
+    "https://www.aa.com.tr/en/sports/shakhtar-donetsk-appoint-arda-turan-as-new-head-coach/3581827",
+    "https://suspilne.media/sport/1315319-sahtar-povernuv-cempionstvo-dinamo-z-najkrasim-bombardirom-i-bez-medalej-proval-oleksandrii-pidsumki-sezonu-upl/",
+    "https://champion.com.ua/ukr/football/pidsumkova-turnirna-tablicya-upl-2025-26-shahtar-chempion-dinamo-povtorilo-antirekord-1074296/",
+    "https://sport.nv.ua/ukr/football/chempionat-ukrajini-2026-shahtar-dostrokovo-vigrav-upl-pislya-peremogi-nad-sk-poltava-tablicya-50606707.html",
+    "https://www.uefa.com/uefaconferenceleague/news/02a5-20ad18fba555-24dc2b1471a7-1000--shakhtar-top-uefa-conference-league-xg-rankings/",
+    "https://www.fanatik.com.tr/en/summary-arda-turans-shakhtar-say-goodbye-in-the-semi-finals-crystal-palace-vs-shakhtar-donetsk-match-result-2-1-2622750",
+    "https://www.fanatik.com.tr/en/big-shock-for-arda-turan-in-the-conference-league-crystal-palace-opens-the-door-to-the-semifinals-highlights-shakhtar-donetsk-1-3-crystal-palace-2621890",
+    "https://heavy.com/sports/soccer/how-to-watch-shakhtar-donetsk-vs-crystal-palace-uefa-conference-league-semi-final-team-news-stats/",
+    "https://unn.ua/en/news/fulham-signed-kevin-from-donetsk-shakhtar-for-40-million-euros",
+    "https://unn.ua/en/news/shakhtar-defender-konoplya-to-continue-career-at-borussia",
+    "https://www.espn.com/soccer/team/transfers/_/id/493/shakhtar-donetsk",
+    "https://ukrfootball.ua/avtorski-materialy/vsi-litni-transferi-upl-karavayev-u-shakhtari-vikhovanec-pszh-v-dinamo-a-sho-u-polissi-ta-krivbasi-onovlyuyetsya/",
+    "https://sport.ua/uk/football/teams/2-shahter-donetsk/squad",
+    "https://shakhtar.com/en/news/2026/july/1_news/1_shakhtar-squad/",
+    "https://www.espn.com/soccer/team/squad/_/id/493/shakhtar-donetsk",
+    "https://www.espn.com/soccer/player/_/id/276081/dmytro-riznyk",
+    "https://www.ukrinform.ua/rubric-sports/4160457-fk-sahtar-nazvav-zaavku-na-osnovnij-raund-ligi-cempioniv20262027.html",
+    "https://www.skysports.com/football/news/11668/13575487/why-are-shakhtar-playing-at-chelsea-stamford-bridge-to-host-exiled-ukrainian-sides-champions-league-home-games",
+    "https://footballgroundguide.com/where-are-shakhtar-donetsk-playing-ukraine",
+    "https://terrikon.com/uk/posts/571817"
   ],
-  "as_of": "2026-09-02",
+  "as_of": "2026-09-03",
   "data_quality": {
-    "confidence": "low",
-    "notes": "RESEARCH BLOCKED IN THIS SESSION: the shared WebSearch budget (200/200) was exhausted after the Fenerbahçe research and WebFetch was egress-blocked on every domain attempted (wikipedia, uefa, transfermarkt, fbref, sofascore, fotmob, espn, skysports, flashscore, worldfootball, besoccer, goal, onefootball, club sites, Turkish/English news sites). Only the pot and qualification route supplied by the task brief, plus any opponent facts verified incidentally while researching Fenerbahçe, are recorded. Coach, squad, 2025/26 table, transfers, identity fields and benchmarks are all null/empty and MUST be researched in a session with web access before this file is used. Home fixture v Fenerbahçe verified from the Fenerbahçe draw coverage (OneFootball/NationalTurk); the other 7 opponents unknown."
+    "confidence": "medium",
+    "notes": "Verified: coach (Arda Turan, announced 27 May 2025, contract to 2027), champion with 69 points (LNZ 57, Polissya 55, Dynamo 54), Ukrainian Cup R16, Conference League semi-final (1-3 h, 1-2 a v Crystal Palace), all 8 UCL opponents with home/away, Stamford Bridge as 2026/27 UCL home venue, arrivals/departures listed. NOT found: W/D/L and goals for/against (played = 30 inferred from a 16-team league with 30 rounds; all 30 games completed per final-table reports). Top scorer field records the club figures reported by Wikipedia (11 all-comp for Kauã Elias and Meirelles; 7 league for Eguinaldo and Traoré); no single-name league top scorer verified. Squad: names taken from sport.ua/tribuna 2026/27 squad pages and UCL registration coverage; Kryskiv, Marlon Gomes and Pedro Henrique are carried from those listings with lower certainty; Newerton and Isaque were NOT verified and are omitted. Shirt numbers only where seen; ages only for Riznyk (27), Bondar (27), Marlon Santos (30), Bahlai (18). Positions for Losenko/Toirov unknown. Budgets in positional_needs are analyst estimates."
   }
 }

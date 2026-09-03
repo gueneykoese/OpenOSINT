@@ -7,85 +7,159 @@
   "city": "Porto",
   "ucl_2026_27": {
     "pot": 2,
-    "qualified_via": null,
-    "opponents_home": [],
-    "opponents_away": []
+    "qualified_via": "Primeira Liga 2025/26 champions (31st title)",
+    "opponents_home": ["Manchester City", "PSV Eindhoven", "Napoli", "Slavia Prague"],
+    "opponents_away": ["Liverpool", "Real Betis", "Feyenoord", "LASK"]
   },
   "head_coach": {
-    "name": null,
-    "since": null,
-    "nationality": null,
-    "preferred_formation": null,
-    "style_keywords": []
+    "name": "Francesco Farioli",
+    "since": "2025-07",
+    "nationality": "ITA",
+    "preferred_formation": "4-3-3",
+    "style_keywords": [
+      "possession and methodical build-up from the back",
+      "high, suffocating press on the opponent's first phase",
+      "counter-pressing to win the ball back immediately",
+      "territorial dominance",
+      "chameleonic structure adapted to opponent",
+      "returned Porto to a traditional 4-3-3"
+    ]
   },
   "identity": {
-    "playing_style": null,
-    "principles": [],
-    "club_character": null,
-    "ownership": null,
-    "political_and_social_context": null,
-    "languages": [],
-    "wage_structure": "unknown",
-    "transfer_policy": null,
-    "injury_management_reputation": null
+    "playing_style": "Farioli restored a traditional 4-3-3 at Porto built on possession, patient construction from the goalkeeper (Diogo Costa) and a high, intense press that attacks the opponent's build-up; when possession is lost the team counter-presses rather than retreating. The structure is adjusted per opponent but the principles (possession, high press, territorial control) are constant. The 2025/26 title was won with the best-ever first-half record in an 18-team Portuguese league (49/51 points) and only 18 goals conceded in 34 games.",
+    "principles": [
+      "develop-and-sell academy model (Mora, Martim Fernandes, Vasco Sousa, Prpic) with high release clauses (Mora EUR 70m, Alberto Costa EUR 65m, Borja Sainz EUR 100m)",
+      "financial restructuring under president Andre Villas-Boas after the Pinto da Costa era",
+      "coach-led tactical identity (Farioli contract extended to 2028)",
+      "continuity over churn: only three new signings for 2026/27 after a title season",
+      "revalidate domestic title while competing in the UCL"
+    ],
+    "club_character": "Portugal's second-most decorated club and the historic northern counterweight to Lisbon's Benfica and Sporting; fiercely proud, demanding fanbase at the Estadio do Dragao with a strong 'us against the system' culture. Very high pressure on coaches; intense daily coverage from O Jogo, A Bola and Record. 2026 marks the club's return to the UCL after a season in the Europa League.",
+    "ownership": "Member-owned club (Futebol Clube do Porto) controlling FC Porto - Futebol, SAD (listed sports company). President Andre Villas-Boas, elected May 2024 with 79.96% of votes, ending Jorge Nuno Pinto da Costa's 42-year presidency; mandate 2024-2027.",
+    "political_and_social_context": "Publicly documented: Villas-Boas inherited roughly EUR 200m of supplier/lender arrears and total liabilities around EUR 513m, and had to liquidate old debts to satisfy UEFA's quarterly financial monitoring. The club suspended payments to an intermediary close to the former president over alleged fictitious services (Militao and Felipe sale commissions), a matter under criminal investigation by the Portuguese Public Ministry; the Court of Appeal sided with the club in Jan 2026.",
+    "languages": ["pt", "es", "en", "it"],
+    "wage_structure": "unknown (hierarchical in practice; Diogo Costa, Samu, Pepe at the top - figures not verified)",
+    "transfer_policy": "Buy young, high-ceiling profiles at moderate fees (Froholdt EUR 20m, Alberto Costa EUR 15m, Borja Sainz EUR 13.3m) with large release clauses; sell at peak (Eustaquio out 2026, Mora clause triggered but player refused Al-Ittihad); loans-with-option (Kiwior 2025) to spread cost",
+    "injury_management_reputation": "Samu missed the last three months of 2025/26 (injured from early Feb 2026) - the team still won the league; no wider public criticism of the medical department found."
   },
   "last_season_2025_26": {
-    "league_position": null,
-    "points": null,
-    "played": null,
-    "won": null,
-    "drawn": null,
-    "lost": null,
-    "goals_for": null,
-    "goals_against": null,
+    "league_position": 1,
+    "points": 88,
+    "played": 34,
+    "won": 28,
+    "drawn": 4,
+    "lost": 2,
+    "goals_for": 66,
+    "goals_against": 18,
     "xg_for": null,
     "xg_against": null,
     "possession_pct": null,
-    "ucl_result": null,
-    "domestic_cup": null,
-    "top_scorer": {
-      "name": null,
-      "goals": null
-    },
-    "top_assister": {
-      "name": null,
-      "assists": null
-    }
+    "ucl_result": "Not in UCL - UEFA Europa League quarter-final",
+    "domestic_cup": "Taca de Portugal semi-final (final won by Torreense over Sporting CP); Taca da Liga result not verified",
+    "top_scorer": {"name": "Samu Aghehowa", "goals": 20},
+    "top_assister": {"name": "Gabri Veiga", "assists": 8}
   },
   "summer_2026_window": {
-    "arrivals": [],
-    "departures": [],
+    "arrivals": [
+      {"name": "Jakub Kiwior", "from": "Arsenal (loan made permanent)", "fee_eur_m": 22.0, "position": "CB"},
+      {"name": "Andre Silva", "from": "Sunderland", "fee_eur_m": 16.0, "position": "ST"},
+      {"name": "Joao Afonso", "from": "Santa Clara", "fee_eur_m": null, "position": "GK"}
+    ],
+    "departures": [
+      {"name": "Stephen Eustaquio", "to": "Swansea City", "fee_eur_m": 4.0, "position": "DM"}
+    ],
     "net_spend_eur_m": null
   },
-  "squad": [],
-  "strengths": [],
-  "weaknesses": [],
-  "positional_needs": [],
+  "squad": [
+    {"name": "Diogo Costa", "position": "GK", "secondary_positions": [], "age": null, "nationality": "POR", "contract_until": null, "shirt_no": 99, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Claudio Ramos", "position": "GK", "secondary_positions": [], "age": null, "nationality": "POR", "contract_until": null, "shirt_no": 14, "role": "backup", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Joao Afonso", "position": "GK", "secondary_positions": [], "age": 19, "nationality": "POR", "contract_until": 2031, "shirt_no": 50, "role": "prospect", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Joao Costa", "position": "GK", "secondary_positions": [], "age": null, "nationality": "POR", "contract_until": null, "shirt_no": 24, "role": "backup", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Alberto Costa", "position": "RB", "secondary_positions": ["RW"], "age": null, "nationality": "BRA", "contract_until": 2030, "shirt_no": 20, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Martim Fernandes", "position": "RB", "secondary_positions": ["LB"], "age": null, "nationality": "POR", "contract_until": null, "shirt_no": 52, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Jan Bednarek", "position": "CB", "secondary_positions": [], "age": null, "nationality": "POL", "contract_until": null, "shirt_no": 5, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Jakub Kiwior", "position": "CB", "secondary_positions": ["LB"], "age": null, "nationality": "POL", "contract_until": null, "shirt_no": 4, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Nehuen Perez", "position": "CB", "secondary_positions": [], "age": null, "nationality": "ARG", "contract_until": null, "shirt_no": 18, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Dominik Prpic", "position": "CB", "secondary_positions": [], "age": null, "nationality": "CRO", "contract_until": null, "shirt_no": 21, "role": "prospect", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Francisco Moura", "position": "LB", "secondary_positions": ["LW"], "age": null, "nationality": "POR", "contract_until": null, "shirt_no": 74, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Zaidu Sanusi", "position": "LB", "secondary_positions": [], "age": null, "nationality": "NGA", "contract_until": null, "shirt_no": 12, "role": "backup", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Alan Varela", "position": "DM", "secondary_positions": ["CM"], "age": null, "nationality": "ARG", "contract_until": 2030, "shirt_no": 22, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Pablo Rosario", "position": "DM", "secondary_positions": ["CM", "CB"], "age": null, "nationality": "NED", "contract_until": null, "shirt_no": 13, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Victor Froholdt", "position": "CM", "secondary_positions": ["DM", "AM"], "age": 20, "nationality": "DEN", "contract_until": 2030, "shirt_no": 8, "role": "starter", "stats_2025_26": {"apps": 50, "starts": null, "minutes": 3902, "goals": 8, "assists": null}, "injury_flag": null},
+    {"name": "Hwang In-beom", "position": "CM", "secondary_positions": ["DM"], "age": null, "nationality": "KOR", "contract_until": null, "shirt_no": 16, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Vasco Sousa", "position": "CM", "secondary_positions": ["AM"], "age": null, "nationality": "POR", "contract_until": null, "shirt_no": 15, "role": "prospect", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Gabri Veiga", "position": "AM", "secondary_positions": ["CM"], "age": null, "nationality": "ESP", "contract_until": null, "shirt_no": 10, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": 8}, "injury_flag": null},
+    {"name": "Rodrigo Mora", "position": "AM", "secondary_positions": ["LW", "RW"], "age": 19, "nationality": "POR", "contract_until": 2030, "shirt_no": 86, "role": "rotation", "stats_2025_26": {"apps": 22, "starts": null, "minutes": null, "goals": 1, "assists": 0}, "injury_flag": null},
+    {"name": "Pepe", "position": "RW", "secondary_positions": ["LW", "RB"], "age": null, "nationality": "BRA", "contract_until": 2028, "shirt_no": 11, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "William Gomes", "position": "RW", "secondary_positions": ["LW"], "age": null, "nationality": "BRA", "contract_until": null, "shirt_no": 7, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Borja Sainz", "position": "LW", "secondary_positions": ["RW"], "age": null, "nationality": "ESP", "contract_until": 2030, "shirt_no": 17, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Samu Aghehowa", "position": "ST", "secondary_positions": [], "age": null, "nationality": "ESP", "contract_until": null, "shirt_no": 9, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 20, "assists": null}, "injury_flag": "missed Feb-May 2026 through injury; 2026/27 availability not verified"},
+    {"name": "Andre Silva", "position": "ST", "secondary_positions": [], "age": 30, "nationality": "POR", "contract_until": null, "shirt_no": 19, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Deniz Gul", "position": "ST", "secondary_positions": [], "age": null, "nationality": "TUR", "contract_until": null, "shirt_no": 27, "role": "prospect", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null}
+  ],
+  "strengths": [
+    "Best defence in Portugal in 2025/26: 18 goals conceded in 34 league games, built on Diogo Costa, Bednarek/Kiwior and a disciplined high press.",
+    "Clear, coach-driven identity (Farioli, contract to 2028) with continuity - only three summer arrivals and the core of the title side retained.",
+    "Young, appreciating assets with resale value: Froholdt (20, 50 apps/8 goals in 2025/26), Mora (19, EUR 70m clause), Alberto Costa, Prpic, Martim Fernandes.",
+    "Proven goal source in Samu (20 goals in 2025/26 despite missing Feb-May) plus Gabri Veiga's creativity (8 assists) and Pepe's experience.",
+    "Elite record in 2025/26 domestic play (28-4-2) and a Europa League quarter-final run give a competitive baseline for the UCL return."
+  ],
+  "weaknesses": [
+    "Depth in central midfield after Eustaquio's sale: Varela, Froholdt, Hwang, Rosario and 19-21-year-olds carry a UCL + title-defence load.",
+    "Striker dependency: without Samu (injured from Feb 2026) the goals had to come from William Gomes and Froholdt (5 each); Andre Silva (30) is the only experienced back-up.",
+    "Financial constraints (EUR 500m+ liabilities, UEFA monitoring) limit wage growth and force sales when clauses are met.",
+    "Unproven at UCL level: several key players (Froholdt, Mora, Borja Sainz, Alberto Costa) have no Champions League experience.",
+    "Full-back depth thin on the left (Moura plus Zaidu only)."
+  ],
+  "positional_needs": [
+    {"position": "CM", "priority": "high", "profile": "box-to-box No.8 with UCL experience, 23-27, physical, secure under press", "reason": "Eustaquio sold to Swansea; midfield relies on 19-21-year-olds behind Varela.", "budget_eur_m": 15, "wage_ceiling_eur_m_net": 2.5},
+    {"position": "ST", "priority": "medium", "profile": "mobile pressing forward, 21-25, resale value", "reason": "Samu's three-month injury exposed the lack of a second reliable scorer; Andre Silva is 30 and a short-term fix.", "budget_eur_m": 15, "wage_ceiling_eur_m_net": 2},
+    {"position": "LB", "priority": "low", "profile": "attacking left-back comfortable in a high line", "reason": "Only Moura and Zaidu; Kiwior can cover but is needed at CB.", "budget_eur_m": 8, "wage_ceiling_eur_m_net": 1.5}
+  ],
   "position_benchmarks": {
-    "ST": {
-      "goals_p90": null,
-      "assists_p90": null,
-      "shots_p90": null,
-      "pressures_p90": null
-    },
-    "CM": {
-      "pass_completion_pct": null,
-      "progressive_passes_p90": null,
-      "tackles_interceptions_p90": null
-    },
-    "CB": {
-      "pass_completion_pct": null,
-      "aerials_won_pct": null,
-      "tackles_interceptions_p90": null
-    }
+    "ST": {"goals_p90": null, "assists_p90": null, "shots_p90": null, "pressures_p90": null},
+    "CM": {"pass_completion_pct": null, "progressive_passes_p90": null, "tackles_interceptions_p90": null},
+    "CB": {"pass_completion_pct": null, "aerials_won_pct": null, "tackles_interceptions_p90": null}
   },
   "sources": [
-    "https://www.uefa.com/uefachampionsleague/news/02a8-215821715a96-9a3b43fad585-1000--uefa-champions-league-league-phase-draw/",
-    "https://www.espn.com/soccer/story/_/id/49736233/champions-league-phase-draw-seeding-pots-2026-2027"
+    "https://www.rtp.pt/noticias/fc-porto/fc-porto-renova-com-treinador-francesco-farioli-ate-202728_d1709465",
+    "https://www.fcporto.pt/pt/noticias/20250706-pt-francesco-farioli-e-o-novo-treinador-do-fc-porto",
+    "https://www.fcporto.pt/pt/noticias/20260827-pt-conhecidos-os-adversarios-na-liga-dos-campeoes",
+    "https://www.ojogo.pt/futebol/artigo/confira-os-adversarios-do-fc-porto-na-fase-de-liga-da-champions/18120590",
+    "https://observador.pt/2026/08/27/sorteio-liga-dos-campeoes-fc-porto-e-sporting-ficam-a-conhecer-adversarios-na-1-a-fase-da-champions/",
+    "https://pt.uefa.com/uefachampionsleague/news/02a8-2173257c6046-237fb0d707f1-1000--sorteio-da-fase-de-liga-da-champions-league-todos-os-adevers/",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_FC_Porto_season",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Primeira_Liga",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Ta%C3%A7a_de_Portugal",
+    "https://pt.wikipedia.org/wiki/FC_Porto_no_futebol_internacional",
+    "https://maisfutebol.iol.pt/fc-porto/porto/fc-porto-sem-samu-william-e-froholdt-assumiram-a-missao-do-goleador",
+    "https://www.fcporto.pt/pt/noticias/20260503-pt-anatomia-de-um-campeao",
+    "https://www.zerozero.pt/equipa/fc-porto/estatisticas",
+    "https://www.fcporto.pt/pt/noticias/20260725-pt-os-numeros-das-camisolas-para-2026-27",
+    "https://www.rtp.pt/noticias/fc-porto/fc-porto-apresenta-plantel-de-31-jogadores-com-apenas-tres-reforcos_d1755884",
+    "https://www.dn.pt/desporto/fc-porto-vence-o-aston-vila-e-apresenta-plantel-com-diogo-costa-e-trs-reforos",
+    "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/os-26-jogadores-que-compoem-o-plantel-do-fc-porto-2026-27",
+    "https://www.espn.com/soccer/team/squad/_/id/437/fc-porto",
+    "https://www.goal.com/en/team/fc-porto/squad/66bsnl0zjb7l5akwo00h0y5me",
+    "https://www.fotmob.com/players/388523/andre-silva",
+    "https://www.abola.pt/noticias/mercado-oficial-fc-porto-despede-se-de-eustaquio-2026082711071265000",
+    "https://www.ojogo.pt/futebol/artigo/eustaquio-deixa-o-fc-porto-o-destino-e-o-valor-do-negocio/18119731",
+    "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
+    "https://www.football365.com/news/every-premier-league-transfer-confirmed-in-the-summer-of-2026",
+    "https://onefootball.com/en/news/kiwior-shines-at-fc-porto-permanent-move-looks-inevitable-42450303",
+    "https://www.abola.pt/noticias/fc-porto-detalha-todas-as-transferencias-do-verao-no-portal-da-transparencia-2025101617312063238",
+    "https://pt.soccerway.com/noticias/futebol-liga-portugal-betclic-oficial-pepe-renova-com-o-fc-porto-ate-2028/txPhhzUF",
+    "https://www.zerozero.pt/jogador/alan-varela/824626",
+    "https://radioaltominho.pt/noticias/fc-porto-2025-26-revolucao-francesco-farioli/",
+    "https://pt.soccerway.com/noticias/futebol-liga-portugal-betclic-liga-portugal-2025-26-fc-porto-em-revolucao-procura-quebrar-jejum-de-tres-temporadas/UFnnvCBF",
+    "https://www.fcporto.pt/pt/noticias/20240528-pt-andre-villas-boas-eleito-presidente-da-fc-porto-futebol-sad",
+    "https://maisfutebol.iol.pt/fc-porto/sad-fc-porto/as-contas-do-fc-porto-muitas-dividas-sem-receitas-tv-e-o-plano-de-villas-boas",
+    "https://observador.pt/2026/01/17/fc-porto-nao-paga-a-intermediario-proximo-de-pinto-da-costa-por-indicios-serios-de-servicos-inventados-relacao-deu-razao-ao-clube/",
+    "https://eco.sapo.pt/especiais/como-andre-villas-boas-quer-endireitar-as-contas-do-fc-porto/"
   ],
-  "as_of": "2026-09-02",
+  "as_of": "2026-09-03",
   "data_quality": {
-    "confidence": "low",
-    "notes": "PLACEHOLDER - NOT RESEARCHED. The session-wide WebSearch budget (200 calls) was exhausted before this club could be researched, and WebFetch/curl are blocked by the network egress proxy for all football data domains tested (transfermarkt, fbref, fotmob, sofascore, flashscore, espn, bbc, skysports, wikipedia, uefa, club site). Only stable identity fields (name, country, league, city, Pot 2 as stated in the brief) are filled; all 2026/27 squad, coach, summer-window, last-season and UCL-draw fields are intentionally null/empty rather than populated from unverified memory, in line with the no-invented-data rule. Re-run research for this club once search budget is available."
+    "confidence": "medium",
+    "notes": "Search-snippet research only. VERIFIED: coach Farioli (RTP/club, contract to 2028); UCL draw 4H/4A (club site, O Jogo, Observador, UEFA agree); league table 1st/88/34/28-4-2/66-18 (Wikipedia season pages); Samu 20 goals (13 league) and Gabri Veiga 8 assists (Maisfutebol/club); EL quarter-final and Taca SF (Wikipedia). RECONCILIATION: Kiwior joined permanently in 2026 (ESPN GBP 19m, another list GBP 14.7m; Porto's 2025 transparency filing described the option as EUR 17m + 5m variables) - EUR 22m shown as approx GBP 19m*1.15, treat as estimate; Fabio Vieira did NOT join Porto - the 2026 summary lists him leaving Arsenal for Hamburg (GBP 7.7m), so he is excluded; Rodrigo Mora and Froholdt confirmed in the squad (nos. 86 and 8), ages/contracts/stats copied from our player files. Andre Silva fee 'around EUR 16m' was reported before completion (DN) - unconfirmed final figure; Joao Afonso fee unknown. Club presented 31 players with 'three reinforcements' - the three are taken as Kiwior (permanent), Andre Silva and Joao Afonso; Hwang was already at the club. Squad of 25 taken from the official number list minus Eustaquio (sold 27 Aug 2026); players outside the published list (e.g. numbers 1-3, 23, 25-26) may exist and are omitted. Ages only where sourced (Froholdt 20, Mora 19, Andre Silva 30, Joao Afonso 19); positions/roles are analyst judgements. Taca da Liga result, xG, possession, per-player stats null. Positional-need budgets are guesses."
   }
 }

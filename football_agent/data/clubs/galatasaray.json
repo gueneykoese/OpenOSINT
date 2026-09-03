@@ -7,88 +7,142 @@
   "city": "Istanbul",
   "ucl_2026_27": {
     "pot": 3,
-    "qualified_via": "Süper Lig 2025/26 champion (26th title, secured 9 May 2026 with a 4-2 win over Antalyaspor)",
-    "opponents_home": [],
-    "opponents_away": []
+    "qualified_via": "Süper Lig 2025/26 champion (26th title, fourth in a row; direct entry to league phase)",
+    "opponents_home": ["FC Barcelona", "Aston Villa", "Feyenoord", "VfB Stuttgart"],
+    "opponents_away": ["Paris Saint-Germain", "Sporting CP", "Lille", "AEK Athens"]
   },
   "head_coach": {
-    "name": null,
-    "since": null,
-    "nationality": null,
-    "preferred_formation": null,
-    "style_keywords": []
+    "name": "Okan Buruk",
+    "since": "2022-06",
+    "nationality": "TUR",
+    "preferred_formation": "4-2-3-1",
+    "style_keywords": ["4-2-3-1 in possession", "4-4-2 out of possession", "aggressive counter-press", "wide overloads", "star-driven attack", "domestic serial winner"]
   },
   "identity": {
-    "playing_style": null,
-    "principles": [],
-    "club_character": null,
-    "ownership": null,
-    "political_and_social_context": null,
-    "languages": [],
-    "wage_structure": "unknown",
-    "transfer_policy": null,
+    "playing_style": "Under Okan Buruk (appointed 23 June 2022) Galatasaray mostly play a 4-2-3-1 that becomes a 4-4-2 block out of possession, with an aggressive pressing game Turkish media label 'hell press'. The attack is built around a reference striker (Osimhen, 15 league / 22 all-competition goals in 2025/26) fed by direct wingers (Barış Alper Yılmaz, 12 league assists; Sané; Yunus Akgün) and a ball-playing double pivot (Torreira, Gündoğan, Sara). In 2025/26 they scored 77 and conceded 30 in 34 league games and reached the UCL round of 16, where they lost to Juventus.",
+    "principles": [
+      "domestic dominance first (four consecutive titles 2022/23-2025/26)",
+      "star-driven recruitment of established internationals (Osimhen, Sané, Gündoğan, Torreira)",
+      "big-fee gambles on emerging talent (Batrakov EUR 30m at 21, Nhaga EUR 6.5m)",
+      "10+4 foreign-player rule shapes squad building",
+      "coach continuity: same head coach since 2022"
+    ],
+    "club_character": "Member-owned association (Galatasaray SK) with football run through the listed company Galatasaray Sportif A.Ş.; one of Turkey's biggest fanbases and the most decorated club domestically. Very high pressure and a saturated Istanbul media environment, but comparatively stable governance versus rivals: President Dursun Özbek and coach Okan Buruk have been in place through the four-title run.",
+    "ownership": "member-owned sports club; football company Galatasaray Sportif A.Ş. listed on Borsa Istanbul",
+    "political_and_social_context": "Publicly documented institution-level facts only: (1) President Dursun Özbek has publicly warned that the club's finances are under UEFA financial-sustainability monitoring and that sanctions were possible if not corrected. (2) In February 2026 the Turkish federation's disciplinary board (PFDK) fined the club a total of TRY 3.7m and suspended President Özbek for 15 days over match-related incidents. (3) Historic fierce rivalry with Fenerbahçe; the 26 April 2026 derby (3-0 win) effectively decided the title.",
+    "languages": ["tr", "en", "es", "pt", "fr"],
+    "wage_structure": "hierarchical (star earners such as Osimhen and Sané far above the domestic core)",
+    "transfer_policy": "star-driven; pays record Turkish fees for proven internationals and, increasingly, high-upside youngsters (Batrakov, Nhaga), while letting ageing icons go at contract end (Icardi, July 2026) and terminating contracts of surplus foreigners (Nelsson, Sept 2026) to manage the foreign-player quota",
     "injury_management_reputation": null
   },
   "last_season_2025_26": {
-    "league_position": null,
-    "points": null,
-    "played": null,
-    "won": null,
-    "drawn": null,
-    "lost": null,
-    "goals_for": null,
-    "goals_against": null,
+    "league_position": 1,
+    "points": 77,
+    "played": 34,
+    "won": 24,
+    "drawn": 5,
+    "lost": 5,
+    "goals_for": 77,
+    "goals_against": 30,
     "xg_for": null,
     "xg_against": null,
     "possession_pct": null,
-    "ucl_result": null,
-    "domestic_cup": null,
-    "top_scorer": {
-      "name": null,
-      "goals": null
-    },
-    "top_assister": {
-      "name": null,
-      "assists": null
-    }
+    "ucl_result": "Round of 16 (eliminated by Juventus)",
+    "domestic_cup": "Türkiye Kupası quarter-final",
+    "top_scorer": {"name": "Victor Osimhen", "goals": 15},
+    "top_assister": {"name": "Barış Alper Yılmaz", "assists": 12}
   },
   "summer_2026_window": {
-    "arrivals": [],
-    "departures": [],
+    "arrivals": [
+      {"name": "Aleksey Batrakov", "from": "Lokomotiv Moscow", "fee_eur_m": 30, "position": "AM"},
+      {"name": "Lesley Ugochukwu", "from": "Chelsea (loan, EUR 3.5m loan fee)", "fee_eur_m": 3.5, "position": "DM"}
+    ],
+    "departures": [
+      {"name": "Mauro Icardi", "to": "free agent (contract expired 30 Jun 2026)", "fee_eur_m": 0, "position": "ST"},
+      {"name": "Victor Nelsson", "to": "FC Nordsjælland (contract terminated, free)", "fee_eur_m": 0, "position": "CB"}
+    ],
     "net_spend_eur_m": null
   },
-  "squad": [],
-  "strengths": [],
-  "weaknesses": [],
-  "positional_needs": [],
+  "squad": [
+    {"name": "Uğurcan Çakır", "position": "GK", "secondary_positions": [], "age": null, "nationality": "TUR", "contract_until": null, "shirt_no": 1, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Günay Güvenç", "position": "GK", "secondary_positions": [], "age": null, "nationality": "TUR", "contract_until": null, "shirt_no": null, "role": "backup", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Jankat Yılmaz", "position": "GK", "secondary_positions": [], "age": null, "nationality": "TUR", "contract_until": null, "shirt_no": null, "role": "prospect", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Davinson Sánchez", "position": "CB", "secondary_positions": [], "age": null, "nationality": "COL", "contract_until": null, "shirt_no": 6, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Abdülkerim Bardakcı", "position": "CB", "secondary_positions": [], "age": null, "nationality": "TUR", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Kaan Ayhan", "position": "CB", "secondary_positions": ["DM", "RB"], "age": null, "nationality": "TUR", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Arda Ünyay", "position": "CB", "secondary_positions": [], "age": null, "nationality": "TUR", "contract_until": null, "shirt_no": null, "role": "prospect", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Wilfried Singo", "position": "RB", "secondary_positions": ["CB"], "age": null, "nationality": "CIV", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Ismail Jakobs", "position": "LB", "secondary_positions": ["LW"], "age": null, "nationality": "SEN", "contract_until": null, "shirt_no": 4, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Eren Elmalı", "position": "LB", "secondary_positions": [], "age": null, "nationality": "TUR", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Kazımcan Karataş", "position": "LB", "secondary_positions": [], "age": null, "nationality": "TUR", "contract_until": null, "shirt_no": null, "role": "backup", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Lucas Torreira", "position": "DM", "secondary_positions": ["CM"], "age": null, "nationality": "URU", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "İlkay Gündoğan", "position": "CM", "secondary_positions": ["AM", "DM"], "age": null, "nationality": "GER", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Gabriel Sara", "position": "CM", "secondary_positions": ["AM"], "age": null, "nationality": "BRA", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Mario Lemina", "position": "DM", "secondary_positions": ["CB", "CM"], "age": null, "nationality": "GAB", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Lesley Ugochukwu", "position": "DM", "secondary_positions": ["CM"], "age": null, "nationality": "FRA", "contract_until": null, "shirt_no": 18, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Aleksey Batrakov", "position": "AM", "secondary_positions": ["CM"], "age": 21, "nationality": "RUS", "contract_until": null, "shirt_no": 83, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Eyüp Aydın", "position": "CM", "secondary_positions": [], "age": null, "nationality": "TUR", "contract_until": null, "shirt_no": null, "role": "prospect", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Renato Nhaga", "position": "CM", "secondary_positions": ["AM"], "age": null, "nationality": "POR", "contract_until": null, "shirt_no": null, "role": "prospect", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Siraçhan Nas", "position": "CM", "secondary_positions": [], "age": null, "nationality": "TUR", "contract_until": null, "shirt_no": null, "role": "prospect", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Roland Sallai", "position": "RW", "secondary_positions": ["RB", "AM"], "age": null, "nationality": "HUN", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Leroy Sané", "position": "RW", "secondary_positions": ["LW"], "age": null, "nationality": "GER", "contract_until": 2028, "shirt_no": 10, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Yunus Akgün", "position": "RW", "secondary_positions": ["AM"], "age": null, "nationality": "TUR", "contract_until": null, "shirt_no": 11, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
+    {"name": "Barış Alper Yılmaz", "position": "LW", "secondary_positions": ["RW", "ST"], "age": null, "nationality": "TUR", "contract_until": null, "shirt_no": 53, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": 12}, "injury_flag": null},
+    {"name": "Victor Osimhen", "position": "ST", "secondary_positions": [], "age": null, "nationality": "NGA", "contract_until": null, "shirt_no": 45, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 15, "assists": null}, "injury_flag": null}
+  ],
+  "strengths": [
+    "Serial domestic winners: four straight titles, 77 points and +47 goal difference in 2025/26 under an unchanged coach.",
+    "Elite No.9 in Osimhen (22 goals all competitions 2025/26) plus a top-level creator in Barış Alper Yılmaz (12 league assists).",
+    "Experienced international midfield (Gündoğan, Torreira, Sara, Lemina) comfortable in European knockout football (UCL last 16 in 2025/26).",
+    "Squad depth in wide areas (Sané, Yunus Akgün, Sallai, Barış Alper) allows rotation across a 34-game league plus eight UCL games.",
+    "Financial firepower to pay EUR 30m for a 21-year-old (Batrakov) while keeping the core."
+  ],
+  "weaknesses": [
+    "Striker depth: Icardi left at contract end and only Osimhen is a verified out-and-out No.9 for 2026/27.",
+    "Centre-back options thinned after Nelsson's exit; Kaan Ayhan is the main cover behind Sánchez and Bardakcı.",
+    "Ageing spine (Gündoğan, Torreira, Sánchez all 30+) may struggle with the Tuesday-Saturday rhythm.",
+    "Finances under UEFA monitoring (publicly acknowledged by the president) limit further spending.",
+    "Draw is hard: Barcelona, PSG, Aston Villa and Sporting are all above them on coefficient."
+  ],
+  "positional_needs": [
+    {"position": "ST", "priority": "high", "profile": "physical second striker able to start 10-15 games, 23-29", "reason": "Icardi departure (contract ended) leaves Osimhen without a verified like-for-like alternative", "budget_eur_m": 15, "wage_ceiling_eur_m_net": 4},
+    {"position": "CB", "priority": "medium", "profile": "right-footed, quick, UCL-experienced, 24-29", "reason": "Nelsson contract terminated Sept 2026; only two senior specialist CBs plus Ayhan", "budget_eur_m": 12, "wage_ceiling_eur_m_net": 3},
+    {"position": "GK", "priority": "low", "profile": "experienced No.2 comfortable with build-up", "reason": "Backup options behind Uğurcan Çakır are domestic and inexperienced", "budget_eur_m": 3, "wage_ceiling_eur_m_net": 1}
+  ],
   "position_benchmarks": {
-    "ST": {
-      "goals_p90": null,
-      "assists_p90": null,
-      "shots_p90": null,
-      "pressures_p90": null
-    },
-    "CM": {
-      "pass_completion_pct": null,
-      "progressive_passes_p90": null,
-      "tackles_interceptions_p90": null
-    },
-    "CB": {
-      "aerials_won_pct": null,
-      "tackles_interceptions_p90": null,
-      "pass_completion_pct": null
-    },
-    "GK": {
-      "save_pct": null,
-      "goals_prevented_p90": null
-    }
+    "ST": {"goals_p90": null, "assists_p90": null, "shots_p90": null, "pressures_p90": null},
+    "CM": {"pass_completion_pct": null, "progressive_passes_p90": null, "tackles_interceptions_p90": null},
+    "CB": {"aerials_won_pct": null, "tackles_interceptions_p90": null, "pass_completion_pct": null},
+    "GK": {"save_pct": null, "goals_prevented_p90": null}
   },
   "sources": [
-    "https://www.uefa.com/uefachampionsleague/news/02a8-216cd740d41f-fd3b45ac4a0f-1000--champions-league-league-phase-draw-all-36-teams-learn-their/"
+    "https://www.uefa.com/uefachampionsleague/news/02a8-216cd740d41f-fd3b45ac4a0f-1000--champions-league-league-phase-draw-all-36-teams-learn-their/",
+    "https://www.galatasaray.org/en/haber/football/our-uefa-champions-league-opponents-have-been-revealed/60828",
+    "https://onefootball.com/en/news/galatasaray-draw-barcelona-and-psg-in-champions-league-league-phase-43352295",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_S%C3%BCper_Lig",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Galatasaray_S.K._season",
+    "https://kureansiklopedi.com/en/detay/202526-season-trendyol-super-lig-galatasaray-champ",
+    "https://www.gzt.com/spor/super-lig-asist-krali-2026-super-ligde-asist-krali-kim-oldu-asensio-yunus-akgun-orkun-kokcu-baris-alper-yilmaz-kac-asist-yapti-4224792",
+    "https://totalfootballanalysis.com/match-analysis/juventus-galatasaray-champions-league-2025-2026-tactical-analysis-tactics",
+    "https://www.fmscout.com/a-okanball-galatasaray-fm26-tactic.html",
+    "https://www.galatasaray.org/haber/gs-sportif-a-s/teknik-direktor-okan-buruk-ile-sozlesme-imzalanmasi-hakkinda/55639",
+    "https://www.aspor.com.tr/galatasaray/2026/05/17/galatasaray-haberi-iste-okan-burukun-imza-tarihi-sozlesme-suresi-belli-oldu",
+    "https://www.mansetiz.com/galatasaray-sampiyonlar-ligi-kadrosu-aciklandi-mi-2026-2027-galatasaray-uefa-isim-listesi-ve-mac-takvimi",
+    "https://www.digiturkburada.com.tr/galatasaray_kadrosu.html",
+    "https://www.galatasaray.org/pl/futbol-takim-kadrosu/9",
+    "https://gazetefutbol.de/galatasaray-aleksey-batrakov-transfer-istanbul-lokomotiv-moskau/",
+    "https://www.turkiyetoday.com/sports/galatasaray-finalizes-batrakov-transfer-eyeing-erzurum-debut-3226177",
+    "https://tr.soccerway.com/oyuncu/nhaga-renato/xb3CAhyq",
+    "https://www.aspor.com.tr/galatasaray/2026/07/15/galatasaraydan-mauro-icardiye-duygusal-veda-paylasimi",
+    "https://t24.com.tr/spor/galatasarayda-icardinin-sozlesmesi-bitti-arjantinli-serbest,1332955",
+    "https://www.aa.com.tr/tr/spor/galatasarayda-victor-nelsson-ile-yollar-ayrildi/4045649",
+    "https://www.sporx.com/futbol/superlig/galatasaray/galatasaray-dan-ayrilan-nelsson-un-yeni-takimi-belli-oldu-SXHBQ1174468SXQ",
+    "https://www.hurriyet.com.tr/sporarena/galatasaray-baskani-dursun-ozbekten-flas-aciklama-uefa-tepemizde-ceza-alabiliriz-42485960",
+    "https://www.fanatik.com.tr/galatasaray/pfdkdan-galatasaray-ve-dursun-ozbeke-ceza-2614072"
   ],
-  "as_of": "2026-09-02",
+  "as_of": "2026-09-03",
   "data_quality": {
-    "confidence": "low",
-    "notes": "RESEARCH BLOCKED IN THIS SESSION: the shared WebSearch budget (200/200) was exhausted after the Fenerbahçe research and WebFetch was egress-blocked on every domain attempted (wikipedia, uefa, transfermarkt, fbref, sofascore, fotmob, espn, skysports, flashscore, worldfootball, besoccer, goal, onefootball, club sites, Turkish/English news sites). Only the pot and qualification route supplied by the task brief, plus any opponent facts verified incidentally while researching Fenerbahçe, are recorded. Coach, squad, 2025/26 table, transfers, identity fields and benchmarks are all null/empty and MUST be researched in a session with web access before this file is used. Verified incidentally: league champion 2025/26; beat Fenerbahçe 3-0 in the 26 Apr 2026 derby; matchday-34 points reported as 77 (unverified, conflicting snapshot of 74 also seen). Opponents not retrieved. Sources: https://en.wikipedia.org/wiki/2025%E2%80%9326_S%C3%BCper_Lig , https://www.espn.com/soccer/match/_/gameId/750191/fenerbahce-galatasaray , https://www.nationalturk.com/en/fenerbahce-galatasarays-champions-league/"
+    "confidence": "medium",
+    "notes": "Verified from search snippets: coach (Buruk, appointed 23 Jun 2022; a two-year renewal was reported as being prepared in May 2026 but the signed extension was not confirmed in-session), full 2025/26 league record (77 pts, 24-5-5, 77-30), UCL R16 exit to Juventus, cup QF, top scorer/assister, all 8 draw opponents with home/away, arrivals Batrakov (EUR 30m) and Ugochukwu (loan), departures Icardi and Nelsson. Sané's contract to 2028 is from the task brief. Squad names come from the club's 25-man Süper Lig list reported in Turkish media; shirt numbers only where seen (Çakır 1, Sánchez 6, Jakobs 4, Ugochukwu 18, Batrakov 83, Sané 10, Akgün 11, Barış Alper 53, Osimhen 45); ages null except Batrakov (21). Per-player 2025/26 stats only for Osimhen (15 league goals) and Barış Alper (12 assists). Roles are analyst judgement. Ugochukwu's parent club (Chelsea) and Nhaga's February 2026 arrival mean Nhaga is NOT listed as a summer arrival. Transfer fees for departures are 0 (free/contract end). Budget figures in positional_needs are analyst estimates, not sourced. Position benchmarks not available."
   }
 }
