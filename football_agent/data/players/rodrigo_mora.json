@@ -2,15 +2,20 @@
   "player_id": "rodrigo_mora",
   "name": "Rodrigo Mora",
   "age": 19,
-  "date_of_birth": null,
-  "nationality": ["POR"],
+  "date_of_birth": "2007-05-05",
+  "nationality": [
+    "POR"
+  ],
   "position": "AM",
-  "secondary_positions": ["LW", "RW"],
+  "secondary_positions": [
+    "LW",
+    "RW"
+  ],
   "preferred_foot": null,
   "height_cm": null,
   "current_club": "FC Porto",
   "current_club_league": "Liga Portugal",
-  "contract_until": null,
+  "contract_until": 2030,
   "market_value_eur_m": null,
   "estimated_fee_eur_m": 70,
   "wage_eur_m_net": null,
@@ -19,11 +24,11 @@
   "availability": "not for sale",
   "stats_2025_26": {
     "competition": "Liga Portugal",
-    "apps": null,
+    "apps": 22,
     "starts": null,
     "minutes": null,
-    "goals": null,
-    "assists": null,
+    "goals": 1,
+    "assists": 0,
     "xg": null,
     "xa": null,
     "shots_p90": null,
@@ -35,7 +40,13 @@
     "progressive_carries_p90": null
   },
   "style_profile": {
-    "tags": ["creative attacking midfielder", "academy graduate starter at 17"],
+    "tags": [
+      "creative attacking midfielder",
+      "academy graduate starter at 17",
+      "Europa League 2025/26: 9 apps, 3 goals, 1 assist",
+      "Liga Portugal title winner 2025/26",
+      "reduced league output in 2025/26 (1 goal in 22 apps)"
+    ],
     "best_system": [],
     "weak_in": []
   },
@@ -48,18 +59,24 @@
   },
   "injury_history": [],
   "off_pitch": {
-    "languages": ["pt"],
+    "languages": [
+      "pt"
+    ],
     "family_situation": null,
     "public_statements": [],
     "commercial_profile": null,
     "notes": null
   },
   "sources": [
-    "https://www.beinsports.com/en-us/soccer/primeira-liga/articles/who-are-the-rising-stars-of-liga-portugal-2026-08-10"
+    "https://www.beinsports.com/en-us/soccer/primeira-liga/articles/who-are-the-rising-stars-of-liga-portugal-2026-08-10",
+    "https://en.wikipedia.org/wiki/Rodrigo_Mora_(footballer,_born_2007)",
+    "https://www.uefa.com/uefaeuropaleague/clubs/players/250177837--rodrigo-mora/",
+    "https://www.espn.com/soccer/player/stats/_/id/387204/rodrigo-mora",
+    "https://www.livescore.com/en/season-stats/rodrigo%20mora/61297/"
   ],
   "as_of": "2026-09-02",
   "data_quality": {
     "confidence": "medium",
-    "notes": "Current club (Porto) and EUR 70m release clause are sourced to a beIN SPORTS article dated 10 Aug 2026 reporting that Al-Ittihad triggered the clause and Mora refused. The '10 goals, 4 assists' figure in that article refers to his DEBUT Liga Portugal season (2024/25, aged 17), so it is deliberately NOT entered as 2025/26 data; 2025/26 stats are null. Age approximate (born 2007). estimated_fee_eur_m set equal to the release clause because any buyer effectively has to pay it. Secondary positions are the researcher's inference."
+    "notes": "Current club (Porto) and EUR 70m release clause are sourced to a beIN SPORTS article dated 10 Aug 2026 reporting that Al-Ittihad triggered the clause and Mora refused. The '10 goals, 4 assists' figure in that article refers to his DEBUT Liga Portugal season (2024/25, aged 17), so it is deliberately NOT entered as 2025/26 data; 2025/26 stats are null. Age approximate (born 2007). estimated_fee_eur_m set equal to the release clause because any buyer effectively has to pay it. Secondary positions are the researcher's inference. UPDATED 2026-09-02: DOB 5 May 2007 and contract renewal to 2030 from Wikipedia/FC Porto snippets. 2025/26 Liga Portugal: 22 apps, 1 goal, 0 assists (ESPN/LiveScore snippets; minutes and starts not given -> null); Europa League 2025/26: 9 apps, 3 goals, 1 assist (UEFA.com). Porto won the 2025/26 Liga Portugal title. Still at Porto for 2026/27 (soccerzz 2026/27 profile lists him at FC Porto). Transfermarkt value still not retrieved -> null."
   }
 }

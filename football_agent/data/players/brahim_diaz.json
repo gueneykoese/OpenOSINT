@@ -1,0 +1,90 @@
+{
+  "player_id": "brahim_diaz",
+  "name": "Brahim Díaz",
+  "age": 27,
+  "date_of_birth": "1999-08-03",
+  "nationality": [
+    "MAR",
+    "ESP"
+  ],
+  "position": "RW",
+  "secondary_positions": [
+    "AM",
+    "LW"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Real Madrid",
+  "current_club_league": "La Liga",
+  "contract_until": 2027,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 30,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "La Liga",
+    "apps": 30,
+    "starts": null,
+    "minutes": 1253,
+    "goals": 1,
+    "assists": 6,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "dribbling wide creator",
+      "inverted winger / No.10 hybrid",
+      "rotation player at Real Madrid (1,253 La Liga min)",
+      "creator more than scorer 2025/26 (1 G, 6 A)"
+    ],
+    "best_system": [
+      "4-2-3-1 as No.10 or right-sided attacker with freedom to roam"
+    ],
+    "weak_in": [
+      "touchline winger asked to hold width",
+      "defensive-transition workload"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record: Real Madrid publicly stated he is not for sale (SI, 2025/26) yet Spanish reports (Sportsboom/Fichajes, 2026) say the club would accept ~EUR 45m and PSG explored a loan-with-option; no disciplinary items found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "es",
+      "en",
+      "ar"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "Arabic listed on the basis of Moroccan nationality - not individually verified. Switched international allegiance from Spain to Morocco (2024, public record)."
+  },
+  "sources": [
+    "https://www.fotmob.com/players/750027/brahim-diaz",
+    "https://www.sportsboom.co.uk/football/transfer-news/exclusive-brahim-diaz-real-madrid-open-door-to-exit",
+    "https://www.transferfeed.com/transfers/brahim-diaz-real-madrid-paris-saint-germain/9916880",
+    "https://www.si.com/onsi/soccer/real-madrid/transfers-and-rumors/real-madrid-make-decision-on-brahim-diaz-s-future-end-transfer-speculation",
+    "https://one-versus-one.com/en/players/Brahim-Diaz",
+    "https://footystats.org/players/spain/brahim-diaz"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Club after summer 2026: Real Madrid (FotMob lists next match Real Madrid v Betis, 4 Sep 2026). Contract to 30 Jun 2027 (TransferFeed). 2025/26 La Liga: 30 apps, 1,253 min, 1 G, 6 A (one-versus-one/FootyStats snippets; starts null). Transfermarkt value not retrieved (FotMob EUR 25.5m is not TM) -> null. estimated_fee_eur_m 30 = researcher's estimate between the EUR 45m Madrid reportedly want and a contract-running-down discount for Jan/summer 2027. Position: right wing / No.10 hybrid. date_of_birth is from the researcher's prior knowledge (widely published), not from a fetched source in this session; treat as high-probability but re-check before contractual use. Wage/height/foot null."
+  }
+}

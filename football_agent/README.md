@@ -27,7 +27,7 @@
    | Yaş & sözleşme | 0.05 | Yaş eğrisi ↔ kulübün transfer politikası (ör. U25 yeniden satış); sözleşme bitiş yılı |
    | Sakatlık riski | 0.08 | Belgelenmiş sakatlık günleri, yapısal sakatlıklar, kulübün sakatlık yönetimi itibarı |
    | Mentalite & kimya | 0.10 | Kamuya açık mental profil ↔ kulüp karakteri (baskı seviyesi, gelişim kulübü, liderlik ihtiyacı) |
-   | Kültürel adaptasyon | 0.07 | Ortak dil, aynı lig/ülke, kamuya açık demeçler (**puanlanmaz**, insan incelemesine yönlendirilir) |
+   | Kültürel adaptasyon | 0.07 | **Hofstede 5-D** mesafesi (Kogut-Singh, %60) + ortak dil (%25) + lig aşinalığı (%15). Kamuya açık demeçler **puanlanmaz**, insan incelemesine gider |
 
    Siyasi/sosyal bağlam ve saha dışı bilgiler **sayısal puana girmez**; `human_review` listesine
    düşer. Yumuşak sinyallerin toplam ağırlığı sınırlıdır: tek başına bir eşleşmeyi çeviremez.
@@ -38,6 +38,31 @@
    müzakereci için memo taslağı yazar. `ANTHROPIC_API_KEY` yoksa deterministik özet döner.
 5. **Komisyon modeli** (`commission.py`): %2 (bonservis + sözleşme süresi × brüt maaş) vs piyasa %10.
    FIFA Futbol Menajerliği Yönetmeliği tavanlarının (%3/%5 maaş, %10 bonservis) içinde kalır.
+
+### Kültürel uyum: Hofstede modeli (`culture.py`, `data/hofstede.json`)
+
+Geert Hofstede'nin ulusal kültür boyutları kullanılır. Varsayılan **klasik 5-D** set: Güç Mesafesi (PDI),
+Bireycilik (IDV), Erillik (MAS), Belirsizlikten Kaçınma (UAI), Uzun Vadeli Yönelim (LTO). 2010'da eklenen
+altıncı boyut Hoşgörü (IVR) veri dosyasında mevcuttur; `HOFSTEDE_DIMENSIONS` ile açılabilir.
+
+* **Mesafe**: Kogut & Singh (1988) bileşik endeksi — boyut farklarının karesi, o boyutun ülkeler arası
+  varyansına bölünür ve ortalaması alınır. Uluslararası işletme literatürünün standart ölçüsüdür.
+* **Oyuncunun aşina olduğu kültürler**: uyruk ülkeleri + şu an oynadığı ligin ülkesi. Hedef kulübün
+  ülkesine en yakın aşina kültür esas alınır (Eredivisie'de 3 yıl oynamış bir Brezilyalı için Hollanda da sayılır).
+* **Puan**: mesafe 0 → 100, ~1 → 78, ~2 → 56, ≥4.3 → taban 5. Her boyut farkı futbol diline çevrilir
+  (ör. "PDI +31: oyuncunun aşina olduğu kültür daha hiyerarşik; daha yatay hoca-oyuncu ilişkisi bekleyin").
+* **Veri**: Hofstede'nin 2015 "dimension data matrix"i. geerthofstede.com bu ortamda engelli olduğu için
+  plotly/datasets aynasından alındı; sütun düzeni ve çapa değerler (TUR 66/37/45/85/46/49, GBR 35/89/66/35/51/69)
+  yayımlanmış matrisle eşleşiyor. ENG/SCO/WAL = GBR. Hofstede'nin örneklemediği ülkeler (Senegal, Fildişi,
+  Kamerun, Azerbaycan'ın temel dört boyutu) için **puan üretilmez**; bölgesel "Arap ülkeleri" / "Batı Afrika"
+  vektörleri yalnızca Hofstede'nin o örnekleme dahil ettiği ülkeler için vekil olarak kullanılır.
+* Bilinen eleştiriler (ülke = kültür varsayımı, 1970'lerin IBM örneklemi, bireye genelleme) nedeniyle bu
+  boyutun ağırlığı 0.07'de tutulur ve çıktı "brifing verilecek fark" olarak sunulur, "uyumsuzluk hükmü" olarak değil.
+
+```bash
+uv run python -m football_agent culture TUR ENG      # mesafe + boyut bazlı okuma
+curl 'localhost:8090/culture/distance?from_country=BRA&to_country=ESP'
+```
 
 ## Hızlı başlangıç
 

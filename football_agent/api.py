@@ -10,6 +10,7 @@ from fastapi import FastAPI, HTTPException, Query
 
 from . import __version__
 from .commission import quote
+from .culture import DIMENSION_LABELS, load_model
 from .llm import narrate
 from .loader import dataset_status, load_clubs, load_players, validate_dataset
 from .matching import MatchEngine
@@ -188,3 +189,25 @@ def commission(
         ).to_dict()
     except ValueError as exc:
         raise HTTPException(422, str(exc)) from exc
+
+
+@app.get("/culture/distance")
+def culture_distance(from_country: str, to_country: str) -> dict:
+    """Hofstede 5-D cultural distance (Kogut-Singh) between two countries (3-letter codes)."""
+    m = load_model()
+    cd = m.distance(from_country, to_country)
+    if cd is None:
+        raise HTTPException(404, "no Hofstede data for one of the countries")
+    return {
+        "from": from_country.upper(),
+        "to": to_country.upper(),
+        "dimensions": list(m.dimensions),
+        "distance": cd,
+        "adaptation_score": m.distance_to_score(cd),
+        "gaps": [
+            {"dimension": d, "label": DIMENSION_LABELS[d], "gap": g, "reading": r}
+            for d, g, r in m.gaps(from_country, to_country)
+        ],
+        "sources": m.sources,
+        "note": m.note,
+    }

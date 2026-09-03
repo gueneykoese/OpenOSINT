@@ -132,6 +132,23 @@ def cmd_commission(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_culture(args: argparse.Namespace) -> int:
+    from .culture import DIMENSION_LABELS, load_model
+
+    m = load_model()
+    cd = m.distance(args.from_country, args.to_country)
+    if cd is None:
+        print("no Hofstede data for one of the countries", file=sys.stderr)
+        return 2
+    print(
+        f"{args.from_country.upper()} -> {args.to_country.upper()}: Kogut-Singh distance {cd:.2f} "
+        f"({'/'.join(m.dimensions).upper()}), adaptation score {m.distance_to_score(cd):.0f}/100"
+    )
+    for d, g, r in m.gaps(args.from_country, args.to_country):
+        print(f"  {DIMENSION_LABELS[d]:24} {g:+5.0f}  {r}")
+    return 0
+
+
 def cmd_serve(args: argparse.Namespace) -> int:
     import uvicorn
 
@@ -184,6 +201,10 @@ def main(argv: list[str] | None = None) -> int:
     s.add_argument("salary", type=float)
     s.add_argument("--years", type=int, default=4)
     s.set_defaults(fn=cmd_commission)
+    s = sub.add_parser("culture", help="Hofstede 5-D cultural distance between two countries")
+    s.add_argument("from_country")
+    s.add_argument("to_country")
+    s.set_defaults(fn=cmd_culture)
     s = sub.add_parser("serve", help="run the FastAPI backend")
     s.add_argument("--host", default="127.0.0.1")
     s.add_argument("--port", type=int, default=8090)

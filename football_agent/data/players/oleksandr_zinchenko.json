@@ -1,0 +1,102 @@
+{
+  "player_id": "oleksandr_zinchenko",
+  "name": "Oleksandr Zinchenko",
+  "age": 29,
+  "date_of_birth": "1996-12-15",
+  "nationality": [
+    "UKR"
+  ],
+  "position": "LB",
+  "secondary_positions": [
+    "CM",
+    "DM"
+  ],
+  "preferred_foot": null,
+  "height_cm": 175,
+  "current_club": "Unattached (free agent)",
+  "current_club_league": null,
+  "contract_until": null,
+  "market_value_eur_m": 9.8,
+  "estimated_fee_eur_m": 0,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Eredivisie (Ajax, Feb-Jun 2026)",
+    "apps": 2,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "inverted full-back who steps into midfield",
+      "technically secure, progressive passer from deep",
+      "comfortable in build-up under pressure",
+      "limited pace and recovery speed",
+      "defensively vulnerable 1v1 and in transition"
+    ],
+    "best_system": [
+      "possession-dominant 4-3-3 / 3-2-5 build-up shape",
+      "hybrid LB/CM role"
+    ],
+    "weak_in": [
+      "deep-block, transition-heavy side",
+      "man-marking wide defender role"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record: the Ajax club statement (Ajax.nl / NV, Jun 2026) said his contract would not be renewed at the club's discretion after he played roughly 25 minutes before injury. Has been publicly vocal on Ukraine (widely reported since 2022); no disciplinary issues documented in sources used."
+  },
+  "injury_history": [
+    {
+      "type": "knee injury (sidelined for rest of 2025/26 after ~25 minutes for Ajax)",
+      "season": "2025/26",
+      "days_out": null
+    },
+    {
+      "type": "muscle injuries (recurring, reported during Forest loan / Ajax spell)",
+      "season": "2025/26",
+      "days_out": null
+    }
+  ],
+  "off_pitch": {
+    "languages": [
+      "uk",
+      "ru",
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "Ukrainian native; Russian widely spoken (grew up in Ukraine, played for Ufa in Russia); English after 10 years in England. Public statements on the war in Ukraine are widely reported."
+  },
+  "sources": [
+    "https://www.spotrac.com/redirect/player/22878",
+    "https://www.flashscore.com/player/zinchenko-oleksandr/MwSCTKq6/transfers/",
+    "https://english.ajax.nl/articles/ajax-signs-oleksandr-zinchenko",
+    "https://english.nv.ua/nation/oleksandr-zinchenko-is-leaving-ajax-his-contract-will-not-be-renewed-at-club-s-discretion-50606539.html",
+    "https://unn.ua/en/news/zinchenko-left-ajax-as-a-free-agent",
+    "https://tribuna.com/en/blogs/free-agent-recovering-and-29-what-next-for-oleksandr-zinchen/"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "2025/26 path (Flashscore/Soccerway): Arsenal -> Nottingham Forest loan (31 Aug 2025-30 Jan 2026) -> permanent to Ajax 31 Jan/1 Feb 2026 for EUR 1.5m on a short contract to 30 Jun 2026 -> released as free agent 30 Jun 2026 (Ajax did not renew, per club statement). NO new club found in searches as of Jul-Aug 2026 snippets, so current_club = unattached; if he signed somewhere in late August this file is out of date - re-verify. Forest loan appearances/minutes not captured (null); only the Ajax stint (2 apps, injured after ~25 min) is recorded. market_value_eur_m = EUR 9.8m (Transfermarkt figure as shown on Soccerway/Spotrac, 2026). estimated_fee_eur_m = 0 because he is a free agent (signing-on fee/wages are the real cost; wage null). Preferred foot deliberately null (not verified). Injury days_out null."
+  }
+}

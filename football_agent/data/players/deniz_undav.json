@@ -1,0 +1,92 @@
+{
+  "player_id": "deniz_undav",
+  "name": "Deniz Undav",
+  "age": 30,
+  "date_of_birth": "1996-07-19",
+  "nationality": [
+    "GER",
+    "TUR"
+  ],
+  "position": "ST",
+  "secondary_positions": [
+    "AM"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "VfB Stuttgart",
+  "current_club_league": "Bundesliga",
+  "contract_until": 2029,
+  "market_value_eur_m": 22.0,
+  "estimated_fee_eur_m": 40,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": 29,
+    "starts": 25,
+    "minutes": 2249,
+    "goals": 19,
+    "assists": 6,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "second-striker / roaming No.9",
+      "19 non-penalty Bundesliga goals 2025/26 (2nd top scorer behind Kane)",
+      "clever off-ball movement, late box arrivals",
+      "links play, 6 league assists",
+      "not a penalty taker"
+    ],
+    "best_system": [
+      "4-2-3-1 / 3-4-2-1 with a partner or No.10 close by"
+    ],
+    "weak_in": [
+      "pace-reliant counter system",
+      "aerial target role"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record: 36-hour negotiation in June 2026 ended with a club-record extension; press reported he 'demanded a record salary' (Tribuna, Apr 2026). 5 yellow cards 2025/26. Germany international; selected for the 2026 World Cup."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "de",
+      "tr",
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "Turkish heritage (born in Varel, Germany) - public record; languages beyond German not individually verified."
+  },
+  "sources": [
+    "https://bulinews.com/deniz-undav-and-stuttgart-agree-contract-extension-until-2029",
+    "https://www.bundesliga.com/en/bundesliga/news/deniz-undav-signs-contract-extension-stuttgart-germany-world-cup-37640",
+    "https://www.getfootballnewsgermany.com/2026/details-stuttgart-contract-offer-undav/",
+    "https://www.getfootballnewsgermany.com/2026/stuttgart-undav-contract/",
+    "https://tribuna.com/en/news/2026-04-06-undav-demands-record-salary-to-extend-stuttgart-stay/",
+    "https://theanalyst.com/players/503/deniz-undav",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_VfB_Stuttgart_season",
+    "https://footystats.org/players/germany/deniz-undav"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Club after summer 2026: VfB Stuttgart - extended in June 2026 to 2029 with an automatic option to 2030 tied to 20-25 appearances in 2028/29 (Bulinews/GFFN). Reported terms: base c. EUR 5.5-6m gross per season plus EUR 2-4m signing bonus (sources disagree on exact figures) - gross, so wage_eur_m_net left null. 2025/26 Bundesliga: 29 apps, 25 starts, 2,249 min, 19 G, 6 A, 5 yellows (Opta Analyst/FootyStats snippets); a FotMob snippet giving 22 G / 13 A in 39 apps is all-competitions and NOT used. market_value_eur_m 22.0 = Transfermarkt as reported April 2026 (search snippet). estimated_fee_eur_m 40 = researcher's estimate for prising a just-extended 30-year-old top scorer from a club that made him its record earner; a January 2027 move is very unlikely. Note: the 'club-record offer' headline (Goal, June 2026) referred to Stuttgart's own contract offer, not a transfer bid. date_of_birth is from the researcher's prior knowledge (widely published), not from a fetched source in this session; treat as high-probability but re-check before contractual use. "
+  }
+}

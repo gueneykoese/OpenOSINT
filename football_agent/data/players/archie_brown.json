@@ -1,0 +1,90 @@
+{
+  "player_id": "archie_brown",
+  "name": "Archie Brown",
+  "age": 24,
+  "date_of_birth": "2002-05-12",
+  "nationality": [
+    "ENG"
+  ],
+  "position": "LB",
+  "secondary_positions": [
+    "LWB",
+    "LW"
+  ],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Fenerbahçe",
+  "current_club_league": "Süper Lig",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 17,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "for sale",
+  "stats_2025_26": {
+    "competition": "Süper Lig",
+    "apps": 25,
+    "starts": null,
+    "minutes": null,
+    "goals": 3,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed attacking left-back / wing-back",
+      "athletic, high-volume runner down the flank",
+      "goal threat from full-back (4 goals, 7 assists all comps reported Apr 2026)",
+      "strong tackler (2.11 tackles p90, Süper Lig)",
+      "developed outside England (Lausanne, Gent) - Premier League untested"
+    ],
+    "best_system": [
+      "back three with attacking wing-backs",
+      "4-3-3 with a high, wide LB"
+    ],
+    "weak_in": [
+      "conservative back four asking the LB to hold position",
+      "zonal defending against inverted wingers (interceptions low, 0.41 p90)"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record only: Goal.com (winter 2025/26) reported he was placed on Fenerbahçe's transfer list months after choosing them over an agreed move to AC Milan (Jul 2025); no disciplinary issues beyond 5 yellow cards in 25 league games."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "English native; French listed because of his spells at Lausanne-Sport (Switzerland) and KAA Gent (Belgium) - not directly sourced, treat as probable."
+  },
+  "sources": [
+    "https://www.goal.com/en-us/lists/english-full-back-archie-brown-sold-fenerbahce-months-turning-back-ac-milan-agreement-turkish-giants-jose-mourinho/bltcaf052d6fecc9e53",
+    "https://www.fotmob.com/players/1113704/archie-brown",
+    "https://footystats.org/players/england/archie-brown",
+    "https://insidefutbol.com/2026/04/30/nottingham-forest-contacted-club-e2m-short-of-asking-price/711978/",
+    "https://x.com/aspor/status/2049857342477357567",
+    "https://en.wikipedia.org/wiki/Archie_Brown_(footballer)"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "CLUB AFTER SUMMER 2026 NOT CONFIRMED: latest sourced items are Nottingham Forest's official EUR 16m bid vs Fenerbahçe's EUR 18m ask (A Spor / Inside Futbol, 30 Apr 2026). No report of a completed move was found, so Fenerbahçe is retained with low confidence - re-verify. Contract to 30 Jun 2028 (FotMob/Goal). market_value_eur_m null: only a FotMob 'transfer value' of EUR 10.3m was found, not a Transfermarkt figure. estimated_fee_eur_m 17 = researcher estimate anchored on the Apr 2026 bid/ask range. 2025/26 stats: FootyStats snapshot of 25 Süper Lig apps, 3 goals, 2 assists, 5 yellows (in-season, possibly not final); an A Spor/BBC-sourced post (Apr 2026) cites 4 goals + 7 assists across all competitions. Minutes null (Goal cited '1,700+ minutes' mid-season only). 'for sale' reflects the winter transfer-listing report; the club's stance after summer 2026 is unknown. Height null (not verified)."
+  }
+}

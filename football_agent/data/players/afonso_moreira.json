@@ -1,0 +1,85 @@
+{
+  "player_id": "afonso_moreira",
+  "name": "Afonso Moreira",
+  "age": 21,
+  "date_of_birth": null,
+  "nationality": [
+    "POR"
+  ],
+  "position": "LW",
+  "secondary_positions": [
+    "RW"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Bayer 04 Leverkusen",
+  "current_club_league": "Bundesliga",
+  "contract_until": 2031,
+  "market_value_eur_m": 20.0,
+  "estimated_fee_eur_m": 45,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "All competitions (Ligue 1, Coupe de France, Europa League)",
+    "apps": 37,
+    "starts": null,
+    "minutes": null,
+    "goals": 8,
+    "assists": 11,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "creative winger, assist-heavy (11 assists 2025/26)",
+      "breakout season at 20/21",
+      "Sporting CP B product bought for EUR 2m"
+    ],
+    "best_system": [
+      "4-3-3 with an overlapping full-back and a central runner to feed"
+    ],
+    "weak_in": [
+      "primary goal-scorer burden"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record: reports said he was initially reluctant to leave Lyon (GFFN, June 2026), then described Leverkusen as a 'perfect fit' on signing (OneFootball)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "pt",
+      "fr"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "French listed after one season in Lyon - assumption."
+  },
+  "sources": [
+    "https://www.bundesliga.com/en/bundesliga/news/bayer-leverkusen-sign-afonso-moreira-olympique-lyon-37863",
+    "https://bulinews.com/official-bayer-leverkusen-complete-afonso-moreira-signing-lyon",
+    "https://www.finanzwire.com/article/olympique-lyonnais-groupe-epa-olg-afonso-moreira-transfers-to-bayer-leverkusen-ZufqOwsF2V7",
+    "https://www.getfootballnewsfrance.com/2026/lyon-try-to-convince-afonso-moreira-to-make-e32m-switch-to-bayer-leverkusen/",
+    "https://lusoamericano.com/jovem-afonso-moreira-assina-pelo-bayer-leverkusen-ate-2031/",
+    "https://en.wikipedia.org/wiki/Afonso_Moreira"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "IMPORTANT CORRECTION to the target brief: NOT at Lyon. Lyon (OL Groupe regulatory statement, 18 Jun 2026) sold him to Bayer Leverkusen for up to EUR 33.6m incl. EUR 4.1m bonuses and a 10% sell-on; contract to June 2031. 2025/26: 8 G, 11 A in 37 apps ALL competitions (GFFN/AP snippets) - league-only split, minutes and starts not retrieved -> null. market_value_eur_m 20.0 = Transfermarkt figure quoted at the time of the June 2026 move (pre-transfer). estimated_fee_eur_m 45 = researcher's estimate (Leverkusen will not sell a 2031-contracted 21-year-old below a clear profit on EUR 33.6m). DOB not retrieved (age 21 per reports) -> null. Foot/height/wage null."
+  }
+}

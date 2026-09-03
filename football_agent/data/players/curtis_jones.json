@@ -1,0 +1,89 @@
+{
+  "player_id": "curtis_jones",
+  "name": "Curtis Jones",
+  "age": 25,
+  "date_of_birth": "2001-01-30",
+  "nationality": [
+    "ENG"
+  ],
+  "position": "CM",
+  "secondary_positions": [
+    "AM",
+    "DM",
+    "RB"
+  ],
+  "preferred_foot": "right",
+  "height_cm": 185,
+  "current_club": "Inter Milan",
+  "current_club_league": "Serie A",
+  "contract_until": null,
+  "market_value_eur_m": 33.3,
+  "estimated_fee_eur_m": 35,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": 34,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "press-resistant ball-carrying central midfielder",
+      "high pass completion, receives on the half-turn",
+      "versatile - used at CM, No.10, DM and even RB under Slot",
+      "low goal output for an attacking-minded midfielder (1 PL goal 2025/26)",
+      "rotation player rather than guaranteed starter (20 of 48 apps from the bench)"
+    ],
+    "best_system": [
+      "possession-based 4-2-3-1 / 4-3-3 as an 8",
+      "3-5-2 as a mezzala"
+    ],
+    "weak_in": [
+      "direct transition football with long vertical passing",
+      "holding-midfield role requiring positional discipline"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record: Liverpool academy graduate who spent 16 years at the club (This Is Anfield, Aug 2026). No public disputes or notable disciplinary incidents found in sources used."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.spotrac.com/epl/player/contracts/_/id/27909/curtis-jones",
+    "https://www.thisisanfield.com/2026/08/curtis-jones-deal-agreed-liverpool-accept-30m-inter-milan/",
+    "https://www.lfchistory.net/players/1322/games-per-season/135",
+    "https://www.premierleague.com/en/players/206915/curtis-jones/stats",
+    "https://tribuna.com/en/persons/curtis-jones/stat/2025-2026/epl/"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "CLUB AFTER SUMMER 2026: This Is Anfield (Aug 2026) reports Liverpool accepted/verbally agreed a GBP 30m (~EUR 35m) sale to Inter Milan with the player in the final year of his contract (to 30 Jun 2027 per Spotrac). Official Inter announcement not seen in snippets -> medium confidence; if the deal fell through he is a Liverpool player on an expiring contract (which would make him a strong Jan/summer 2027 target). contract_until null because Inter terms unknown. market_value_eur_m = EUR 33.3m (Transfermarkt figure as relayed by Soccerway/Spotrac; date not visible). estimated_fee_eur_m 35 = reported GBP 30m converted, i.e. what Inter paid. 2025/26: all-competitions 48 apps (20 as sub), 3 goals, 2 assists (LFChistory); PL 34 apps, 1 goal, 2 assists; UCL 7 apps 0G 0A. Minutes/starts null. Secondary positions reflect publicly reported deployments under Arne Slot."
+  }
+}

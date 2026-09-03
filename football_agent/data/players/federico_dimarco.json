@@ -1,0 +1,89 @@
+{
+  "player_id": "federico_dimarco",
+  "name": "Federico Dimarco",
+  "age": 28,
+  "date_of_birth": "1997-11-10",
+  "nationality": [
+    "ITA"
+  ],
+  "position": "LB",
+  "secondary_positions": [
+    "LWB",
+    "LW"
+  ],
+  "preferred_foot": "left",
+  "height_cm": 175,
+  "current_club": "Inter Milan",
+  "current_club_league": "Serie A",
+  "contract_until": 2027,
+  "market_value_eur_m": 50,
+  "estimated_fee_eur_m": 45,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Serie A",
+    "apps": 30,
+    "starts": null,
+    "minutes": null,
+    "goals": 7,
+    "assists": 17,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed left wing-back, elite crosser and set-piece taker",
+      "record-breaking creator: broke the Serie A single-season assist record in 2025/26",
+      "whipped early deliveries and cut-backs from the left half-space",
+      "long-range shooting threat",
+      "defensive 1v1 and stamina are the weaker sides; often substituted around 70 min"
+    ],
+    "best_system": [
+      "3-5-2 with attacking wing-backs (Inter template)",
+      "4-3-3 with a very high, wide LB and a covering LCB"
+    ],
+    "weak_in": [
+      "flat back four with limited cover behind him",
+      "man-marking a fast inverted winger for 90 minutes"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record: Inter-born boyhood fan and academy product, publicly emotional about the club; no disciplinary issues found in sources used."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "it"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": "High domestic profile in Italy as an Inter and Italy regular; specific sponsor data not sourced.",
+    "notes": null
+  },
+  "sources": [
+    "https://www.footballtransfers.com/en/players/federico-dimarco",
+    "https://au.soccerway.com/player/dimarco-federico/W6lypZn3",
+    "https://www.inter.it/en/news/dimarco-record-assist-serie-a-25-26",
+    "https://www.sofascore.com/news/federico-dimarco-the-assist-record-of-the-2025-26-season/",
+    "https://sports.yahoo.com/articles/dimarco-one-assist-away-serie-144500083.html",
+    "https://www.sportbusy.com/players/soccer/194748/"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Inter retained as post-window club (no transfer report found; not explicitly re-verified after 1 Sep 2026). Contract to 30 Jun 2027 (FootballTransfers/Soccerway). market_value_eur_m 50 = Transfermarkt figure as widely quoted (Soccerway shows 51.8m; rounded, date not visible). 2025/26 Serie A: 30 apps, 7 goals, 17 assists per SportBusy aggregator; Inter.it and Sofascore confirm he broke the all-time Serie A single-season assist record (previous best 16, Papu Gomez 2019/20), so the final figure is >=17 but the exact number should be re-checked against an official source. Minutes/starts null. estimated_fee_eur_m 45 = researcher estimate (below MV because the contract has 1 year left, above it in leverage terms because Inter treat him as a key starter)."
+  }
+}

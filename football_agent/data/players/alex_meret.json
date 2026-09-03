@@ -1,0 +1,86 @@
+{
+  "player_id": "alex_meret",
+  "name": "Alex Meret",
+  "age": 29,
+  "date_of_birth": "1997-03-22",
+  "nationality": [
+    "ITA"
+  ],
+  "position": "GK",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 190,
+  "current_club": "SSC Napoli",
+  "current_club_league": "Serie A",
+  "contract_until": 2027,
+  "market_value_eur_m": 8,
+  "estimated_fee_eur_m": 6,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Serie A",
+    "apps": 11,
+    "starts": 11,
+    "minutes": 980,
+    "goals": 0,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "shot-stopping goalkeeper with strong reflexes",
+      "calm, short-passing distribution rather than long kicking",
+      "two-time Scudetto winner as starter (2022/23, 2024/25)",
+      "lost No.1 role to Vanja Milinkovic-Savic in 2025/26",
+      "history of hand/wrist and muscle injuries"
+    ],
+    "best_system": [
+      "back four with a deep-ish defensive line",
+      "teams wanting an experienced, low-cost No.1 or 1B"
+    ],
+    "weak_in": [
+      "sweeper-keeper role far off his line",
+      "teams relying on long distribution"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record only: accepted a back-up role behind Milinkovic-Savic in 2025/26 without public complaint reported in sources; his contract renewal (to 2027) was publicly described as a long, stop-start negotiation (TransferFeed)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "it"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.transferfeed.com/transfers/alex-meret-napoli/288242",
+    "https://www.transferfeed.com/s/besiktas-considers-napoli-goalkeeper-alex-meret/3123",
+    "https://www.footballtransfers.com/en/players/alex-meret",
+    "https://theanalyst.com/players/4862/alex-meret",
+    "https://one-versus-one.com/en/players/Alex-Meret",
+    "https://footystats.org/players/italy/alex-meret"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Napoli retained as post-window club: Beşiktaş interest (TransferFeed, summer 2026) and a report that his future depended on Allegri's pre-season goalkeeper decision were found, but no completed transfer - not re-verified after the 1 Sep deadline. Contract to 2027 and Transfermarkt value EUR 8.0m per TransferFeed (2026, exact date not visible). 2025/26 Serie A: 11 apps/11 starts, 980 min, 3 clean sheets, 12-15 goals conceded, 1 assist, 1 yellow (Opta Analyst / one-versus-one; sources vary 11-12 apps). Cup/European apps not included. estimated_fee_eur_m 6 is the researcher's estimate for a 29-year-old back-up GK with one year left. Injury history left empty because no 2025/26 injury spell was sourced (his earlier career injuries are public but not itemised here). Height from public record; preferred foot null."
+  }
+}

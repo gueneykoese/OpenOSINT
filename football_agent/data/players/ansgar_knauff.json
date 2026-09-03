@@ -1,0 +1,87 @@
+{
+  "player_id": "ansgar_knauff",
+  "name": "Ansgar Knauff",
+  "age": 24,
+  "date_of_birth": "2002-01-10",
+  "nationality": [
+    "GER"
+  ],
+  "position": "RW",
+  "secondary_positions": [
+    "RB",
+    "LW"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Eintracht Frankfurt",
+  "current_club_league": "Bundesliga",
+  "contract_until": 2028,
+  "market_value_eur_m": 15.0,
+  "estimated_fee_eur_m": 22,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": 21,
+    "starts": null,
+    "minutes": 1015,
+    "goals": 4,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "direct, pace-based right winger",
+      "can play right wing-back (Europa League 2022 winner in that role)",
+      "rotation minutes 2025/26 (1,015 Bundesliga min)",
+      "0.35 goals per 90 in 2025/26"
+    ],
+    "best_system": [
+      "3-4-2-1 as right wing-back or high-transition 4-2-3-1 winger"
+    ],
+    "weak_in": [
+      "possession-heavy half-space creator role"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record: no disciplinary items found (2 yellows 2025/26). Frankfurt reportedly plan an extension to 2031 with a significant raise (TransferFeed/OneFootball, 2026)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "de",
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.eintracht.de/news/ansgar-knauff-bleibt-langfristig-in-frankfurt-151113/",
+    "https://www.transferfeed.com/transfers/ansgar-knauff-eintracht-frankfurt/12360252",
+    "https://onefootball.com/en/news/ansgar-knauff-and-eintracht-frankfurt-agree-on-terms-over-a-permanent-deal-37451605",
+    "https://www.bundesliga.com/en/player/ansgar-knauff",
+    "https://footystats.org/players/germany/ansgar-knauff",
+    "https://understat.com/player/8989"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Club after summer 2026: Eintracht Frankfurt - no summer-2026 move found; extension talks to 2031 reported instead. Contract to 2028 (club statement on permanent signing from Dortmund). 2025/26 Bundesliga: 21 apps, 1,015 min, 4 G, 1 A, 27 shots (FootyStats snippet; starts null). market_value_eur_m 15.0 = Transfermarkt per TransferFeed snippet (2026, exact date not given). estimated_fee_eur_m 22 = researcher's estimate (TM 15 + contract length premium; Frankfurt sell high). date_of_birth is from the researcher's prior knowledge (widely published), not from a fetched source in this session; treat as high-probability but re-check before contractual use. Foot/height/wage null."
+  }
+}

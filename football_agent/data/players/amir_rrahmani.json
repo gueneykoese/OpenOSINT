@@ -1,0 +1,94 @@
+{
+  "player_id": "amir_rrahmani",
+  "name": "Amir Rrahmani",
+  "age": 32,
+  "date_of_birth": "1994-02-24",
+  "nationality": [
+    "KOS"
+  ],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 192,
+  "current_club": "SSC Napoli",
+  "current_club_league": "Serie A",
+  "contract_until": 2027,
+  "market_value_eur_m": 12,
+  "estimated_fee_eur_m": 8,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Serie A",
+    "apps": 21,
+    "starts": null,
+    "minutes": 1800,
+    "goals": 2,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": 2.39,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "right-footed right-sided centre-back",
+      "aerially dominant, high clearance volume (3.61 p90)",
+      "positional, front-foot reader of the game rather than a sprinter",
+      "set-piece goal threat (2 Serie A goals 2025/26)",
+      "two Scudetti as a starter; Kosovo captain"
+    ],
+    "best_system": [
+      "back four with a mid-block",
+      "back three as central/right CB"
+    ],
+    "weak_in": [
+      "very high line against pacey forwards (age 32)",
+      "teams asking the CB to carry the ball into midfield"
+    ]
+  },
+  "mental_profile": {
+    "leadership": 4,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Leadership 4/5 on public record: long-serving Kosovo national-team captain and Napoli vice-captain/senior figure. Only 3 yellow cards in 21 Serie A games 2025/26. Missed part of 2025/26 through injury (FotMob)."
+  },
+  "injury_history": [
+    {
+      "type": "muscle injury (missed part of 2025/26; reported as 'currently dealing with an injury' by FotMob, 2026)",
+      "season": "2025/26",
+      "days_out": null
+    }
+  ],
+  "off_pitch": {
+    "languages": [
+      "sq",
+      "hr",
+      "it"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "Albanian native (Kosovo); Croatian from a long spell in Croatia (Lokomotiva/Dinamo Zagreb); Italian after six seasons at Napoli - latter two not directly sourced."
+  },
+  "sources": [
+    "https://www.capology.com/player/amir-rrahmani-34389/",
+    "https://www.fotmob.com/players/544693/amir-rrahmani",
+    "https://www.transferfeed.com/transfers/amir-rrahmani-napoli/12358255",
+    "https://theanalyst.com/players/4844/amir-rrahmani",
+    "https://footystats.org/players/kosovo/amir-rrahmani",
+    "https://www.livescore.com/en/season-stats/amir-rrahmani/1823/"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Napoli retained as post-window club: no transfer report found; not explicitly re-verified after 1 Sep 2026. Contract to 30 Jun 2027 (Capology). market_value_eur_m = Transfermarkt EUR 12.0m (2026, date not visible in snippet). 2025/26 Serie A: 21 apps, 1,800 min, 2 goals, 1 assist, 3 yellows, 10 clean sheets in 19 (Opta Analyst / FootyStats); tackles+interceptions p90 = 1.22 + 1.17 = 2.39 (FootyStats). UCL games not included. Injury: type/days unknown, only 'dealing with an injury' noted. estimated_fee_eur_m 8 is a researcher estimate for a 32-year-old with one year left; Napoli's stance unknown. Height/DOB from public record."
+  }
+}

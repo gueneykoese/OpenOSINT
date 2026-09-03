@@ -1,0 +1,87 @@
+{
+  "player_id": "richarlison",
+  "name": "Richarlison de Andrade",
+  "age": 29,
+  "date_of_birth": "1997-05-10",
+  "nationality": [
+    "BRA"
+  ],
+  "position": "ST",
+  "secondary_positions": [
+    "LW"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Tottenham Hotspur",
+  "current_club_league": "Premier League",
+  "contract_until": 2027,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 18,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": 32,
+    "starts": null,
+    "minutes": null,
+    "goals": 11,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "pressing forward",
+      "aerial threat / box presence",
+      "can play left wing",
+      "club top PL scorer 2025/26 (11)",
+      "43 apps all comps 2025/26 - personal best"
+    ],
+    "best_system": [
+      "high-press 4-3-3 / 4-2-3-1"
+    ],
+    "weak_in": [
+      "pure possession link-striker role"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record only: no disciplinary controversy found in this session's snippets. Everton move in Aug 2026 collapsed when Man City hijacked Everton's Ndiaye replacement; Sky reported he then decided to stay and fight for his place (FootballTransfers, Sep 2026)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "pt",
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "Has spoken publicly in the past about mental health (widely reported 2024) - public record, no detail stored here."
+  },
+  "sources": [
+    "https://www.tottenhamhotspurnews.com/tottenham-hotspur/tottenham-hotspur-transfers/richarlison-contract-situation-examined-as-tottenham-exit-mooted/",
+    "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/09/richarlison-makes-tottenham-decision-after-everton-transfer-collapses",
+    "https://www.transferfeed.com/players/richarlison/91073",
+    "https://www.tottenhamhotspur.com/player/212319/richarlison",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Tottenham_Hotspur_F.C._season",
+    "https://footystats.org/players/brazil/richarlison"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Club after summer 2026: Tottenham - an Everton deal collapsed late in the window and Sky/FootballTransfers (Sep 2026) report he stays; not re-verified against an official squad list. Contract to 30 Jun 2027 with a club option to 2028 (TransferFeed). 2025/26: 32 PL apps, 11 G, 4 A; 43 apps / 12 G all comps (Spurs season page / Wikipedia snippets); minutes/starts null. Transfermarkt figure not retrieved as a precise number - a July 2026 report cites EUR 20-25m as the club's asking price, not TM -> market value null. estimated_fee_eur_m 18 = researcher's estimate: asking price EUR 20-25m in July 2026, discounted for entering the last 10 months of contract by January 2027 (unless Spurs trigger the 2028 option). date_of_birth is from the researcher's prior knowledge (widely published), not from a fetched source in this session; treat as high-probability but re-check before contractual use. Wage/foot/height null."
+  }
+}

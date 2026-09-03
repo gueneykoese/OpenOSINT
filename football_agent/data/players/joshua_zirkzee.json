@@ -1,0 +1,91 @@
+{
+  "player_id": "joshua_zirkzee",
+  "name": "Joshua Zirkzee",
+  "age": 25,
+  "date_of_birth": "2001-05-22",
+  "nationality": [
+    "NLD"
+  ],
+  "position": "ST",
+  "secondary_positions": [
+    "AM"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Manchester United",
+  "current_club_league": "Premier League",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 25,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "for sale",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": 24,
+    "starts": null,
+    "minutes": 608,
+    "goals": 2,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "false-nine / link striker",
+      "drops into pockets, combination play",
+      "low shot volume for a No.9",
+      "limited minutes 2025/26 (608 PL min)"
+    ],
+    "best_system": [
+      "possession side with runners beyond him (Bologna under Thiago Motta template)"
+    ],
+    "weak_in": [
+      "direct target-man role",
+      "isolated lone striker in a low-possession side"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record: reported 'deeply frustrated' at lack of minutes and pushed for a January 2026 exit (SI, Goal); turned down a Fiorentina loan (EUR 5m loan + EUR 30m option) in Aug 2026 and said yes to Juventus, who instead took Woltemade; stayed at United on deadline day 1 Sep 2026 (BBC's Simon Stone via Yahoo/Yardbarker). 3 yellow cards in 2025/26 PL."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "nl",
+      "en",
+      "it"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "Italian listed because of three seasons in Serie A (Bologna) - assumption, not sourced."
+  },
+  "sources": [
+    "https://www.goal.com/en-us/lists/joshua-zirkzee-gives-green-light-to-transfer-away-from-man-utd/bltc35318e2152ca309",
+    "https://www.sportsmole.co.uk/football/man-utd/transfer-talk/news/transfer-news-and-rumours-zirkzee-to-juventus-beto-to-fiorentina-vaz-to-hull_604116.html",
+    "https://www.football365.com/news/fabrizio-romano-man-utd-joshua-zirkzee-fiorentina-transfer-off-everton-beto-deal-here-we-go-confirmed-e17m",
+    "https://www.yardbarker.com/soccer/articles/joshua_zirkzee_stays_at_manchester_united/s1_17737_44248044",
+    "https://thepeoplesperson.com/2026/09/01/exit-linked-man-united-star-unlikely-to-leave-old-trafford-on-deadline-day-314864/",
+    "https://www.si.com/soccer/deeply-frustrated-man-utd-star-pushing-january-exit",
+    "https://www.fotmob.com/players/950830/joshua-zirkzee",
+    "https://footystats.org/players/netherlands/joshua-zirkzee",
+    "https://www.footballtransfers.com/en/players/joshua-zirkzee"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Club after summer 2026: stayed at Manchester United - multiple 1 Sep 2026 reports (BBC's Simon Stone relayed by Yahoo/Yardbarker/The Peoples Person) say no deadline-day exit after Juventus chose Woltemade and he rejected Fiorentina. Contract to 30 Jun 2029 (FotMob). 2025/26 PL: 24 apps, 608 min, 2 G, 1 A, 3 yellows (FotMob/FootyStats snippets; starts null). Transfermarkt value NOT retrieved (only FootballTransfers EUR 22.8-27.8m, FotMob 20.5, Soccerway 23.8) -> null. estimated_fee_eur_m 25 = researcher's estimate anchored on the EUR 30m buy-option United accepted from Fiorentina and his low 2025/26 output; a January 2027 loan-with-option is the likeliest structure. Availability 'for sale' because United publicly accepted loan-with-option offers in Jan and Aug 2026. date_of_birth is from the researcher's prior knowledge (widely published), not from a fetched source in this session; treat as high-probability but re-check before contractual use. Foot/height/wage null."
+  }
+}

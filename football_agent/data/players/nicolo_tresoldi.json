@@ -1,29 +1,32 @@
 {
   "player_id": "nicolo_tresoldi",
   "name": "Nicolò Tresoldi",
-  "age": 21,
-  "date_of_birth": null,
-  "nationality": ["ITA"],
+  "age": 22,
+  "date_of_birth": "2004-08-20",
+  "nationality": [
+    "ITA",
+    "GER"
+  ],
   "position": "ST",
   "secondary_positions": [],
   "preferred_foot": null,
   "height_cm": null,
   "current_club": "Club Brugge KV",
   "current_club_league": "Belgian Pro League",
-  "contract_until": null,
+  "contract_until": 2029,
   "market_value_eur_m": null,
-  "estimated_fee_eur_m": 38,
+  "estimated_fee_eur_m": 40,
   "wage_eur_m_net": null,
   "release_clause_eur_m": null,
   "agent_status": "represented",
   "availability": "not for sale",
   "stats_2025_26": {
-    "competition": "Belgian Pro League",
-    "apps": null,
+    "competition": "Belgian Pro League (incl. play-offs)",
+    "apps": 40,
     "starts": null,
-    "minutes": null,
+    "minutes": 2500,
     "goals": 19,
-    "assists": null,
+    "assists": 5,
     "xg": null,
     "xa": null,
     "shots_p90": null,
@@ -35,7 +38,12 @@
     "progressive_carries_p90": null
   },
   "style_profile": {
-    "tags": ["penalty-box striker", "top scorer of a title-winning side"],
+    "tags": [
+      "penalty-box striker",
+      "top scorer of title-winning side (19 league goals)",
+      "23 goals / 8 assists in 54 apps all comps 2025/26",
+      "high-volume: 3,185 minutes all comps"
+    ],
     "best_system": [],
     "weak_in": []
   },
@@ -48,19 +56,29 @@
   },
   "injury_history": [],
   "off_pitch": {
-    "languages": ["it"],
+    "languages": [
+      "it",
+      "de"
+    ],
     "family_situation": null,
-    "public_statements": [],
+    "public_statements": [
+      "Reported (Tribuna, 28 Aug 2026) to have chosen to represent Italy at senior level after playing for Germany youth teams; FIFA switch process begun."
+    ],
     "commercial_profile": null,
     "notes": null
   },
   "sources": [
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_Club_Brugge_KV_season",
-    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Belgian_Pro_League"
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Belgian_Pro_League",
+    "https://www.clubbrugge.be/en/teams/a-kern/players/nicol%C3%B2-tresoldi",
+    "https://www.clubbrugge.be/en/news/nicol%C3%B2-tresoldi-naar-club-brugge",
+    "https://www.fotmob.com/en-GB/players/1334552/nicolo-tresoldi",
+    "https://footystats.org/players/germany/nicolo-tresoldi",
+    "https://tribuna.com/en/news/2026-08-28-italy-set-to-welcome-club-brugge-striker-nicolo-tresoldi/"
   ],
   "as_of": "2026-09-02",
   "data_quality": {
-    "confidence": "low",
-    "notes": "Only the 19 league goals (Club Brugge top scorer, title-winning 2025/26 season) and a rejected EUR 35m Roma bid are sourced (search snippets of the Wikipedia season pages; direct fetch blocked). Current club is inferred from the rejected bid and NOT re-verified after the 1 Sep 2026 deadline. DOB, foot, height, contract expiry, Transfermarkt value, apps/minutes/assists all unverified -> null. estimated_fee_eur_m is the researcher's estimate anchored on the rejected EUR 35m bid; availability 'not for sale' reflects Brugge's rejection of that bid. Style tags are inferences from the scoring record, not from a scouting source."
+    "confidence": "medium",
+    "notes": "UPDATED 2026-09-02: Confirmed still at Club Brugge after the 1 Sep 2026 deadline - he is listed on Club Brugge's current first-team page and has 3 goals in 347 minutes in the 2026/27 Pro League (FotMob snippet). Contract runs to 2029 (signed June 2025 from Hannover 96, club statement). 2025/26: 19 goals in 40 league matches / 2,500 min (FotMob/FootyStats snippets; the 40 includes Champions' Play-offs), 'total G+A 24' implies 5 assists - derived, flag; all comps 54 apps, 3,185 min, 23 G, 8 A. Starts null. Dual ITA/GER background (born Cagliari, raised in Germany, Germany youth international, now switching to Italy). date_of_birth is from the researcher's prior knowledge (widely published), not from a fetched source in this session; treat as high-probability but re-check before contractual use. Transfermarkt value not retrieved -> null (Mercato XI lists a value but that is not Transfermarkt). estimated_fee_eur_m 40 = researcher's estimate above the rejected EUR 35m Roma bid, given contract to 2029 and the 2026/27 start."
   }
 }

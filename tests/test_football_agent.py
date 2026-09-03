@@ -232,3 +232,36 @@ def test_api_smoke(engine, monkeypatch):
         ).json()["our_rate"]
         == 0.02
     )
+
+
+def test_hofstede_distance_is_symmetric_and_zero_for_same_country():
+    from football_agent.culture import CountryScores, HofstedeModel
+
+    m = HofstedeModel(
+        countries={
+            "TUR": CountryScores(
+                "TUR", "Turkey", {"pdi": 66, "idv": 37, "mas": 45, "uai": 85, "lto": 46, "ivr": 49}
+            ),
+            "GBR": CountryScores(
+                "GBR", "UK", {"pdi": 35, "idv": 89, "mas": 66, "uai": 35, "lto": 51, "ivr": 69}
+            ),
+            "ESP": CountryScores(
+                "ESP", "Spain", {"pdi": 57, "idv": 51, "mas": 42, "uai": 86, "lto": 48, "ivr": 44}
+            ),
+            "SEN": CountryScores(
+                "SEN",
+                "Senegal",
+                {d: None for d in ("pdi", "idv", "mas", "uai", "lto", "ivr")},
+                proxy="WAF",
+            ),
+        }
+    )
+    assert m.distance("TUR", "TUR") == 0.0
+    assert m.distance("TUR", "ENG") == m.distance("GBR", "TUR")  # ENG aliases to GBR
+    assert m.distance("TUR", "ESP") < m.distance(
+        "TUR", "ENG"
+    )  # Spain culturally closer to Turkey than UK
+    assert m.distance("SEN", "ESP") is None  # proxy target missing -> no data, never a guess
+    cd, frm, gaps, score = m.adaptation(["TUR", "ESP"], "GBR")
+    assert frm == "ESP" and 0 < score < 100 and gaps[0][0] in ("idv", "uai", "pdi")
+    assert m.distance_to_score(0) == 100 and m.distance_to_score(10) == 5

@@ -1,0 +1,1250 @@
+{
+ "model": "Hofstede national culture dimensions (6-D data matrix; engine uses the classic 5-D subset PDI/IDV/MAS/UAI/LTO by default)",
+ "dimensions": {
+  "pdi": "Power Distance",
+  "idv": "Individualism",
+  "mas": "Masculinity",
+  "uai": "Uncertainty Avoidance",
+  "lto": "Long-Term Orientation (WVS-based, 2010)",
+  "ivr": "Indulgence vs Restraint (2010)"
+ },
+ "note": "Values are Geert Hofstede's 'Dimension data matrix' (2015 release, geerthofstede.com), obtained from the plotly/datasets mirror because geerthofstede.com and hofstede-insights.com are egress-blocked in this environment; the column layout (ctr, pdi, idv, mas, uai, ltowvs, ivr) and known anchor values (Turkey 66/37/45/85/46/49, Great Britain 35/89/66/35/51/69, Spain 57/51/42/86/48/44, Slovakia PDI 104 / MAS 110, Greece UAI 112) match the published matrix. Regional entries (Arab countries, Africa West/East) are used as proxies ONLY for the countries Hofstede lists as members of those samples. Countries with no score (e.g. Senegal, Côte d'Ivoire, Cameroon, Azerbaijan on the core four) return no cultural-distance score rather than a guess. ENG/SCO/WAL/NIR are aliases of GBR (Hofstede scored the UK as one unit). Re-verify against geerthofstede.com before commercial use.",
+ "sources": [
+  "https://geerthofstede.com/research-and-vsm/dimension-data-matrix/",
+  "https://github.com/plotly/datasets/blob/master/hofstede-cultural-dimensions.csv",
+  "https://clearlycultural.com/geert-hofstede-cultural-dimensions/power-distance-index/"
+ ],
+ "as_of": "2026-09-02",
+ "countries": {
+  "ALB": {
+   "name": "Albania",
+   "hofstede_code": "ALB",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 61,
+   "ivr": 15
+  },
+  "ALG": {
+   "name": "Algeria",
+   "hofstede_code": "ALG",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 26,
+   "ivr": 32
+  },
+  "AND": {
+   "name": "Andorra",
+   "hofstede_code": "AND",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": null,
+   "ivr": 65
+  },
+  "ARG": {
+   "name": "Argentina",
+   "hofstede_code": "ARG",
+   "pdi": 49,
+   "idv": 46,
+   "mas": 56,
+   "uai": 86,
+   "lto": 20,
+   "ivr": 62
+  },
+  "ARM": {
+   "name": "Armenia",
+   "hofstede_code": "ARM",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 61,
+   "ivr": null
+  },
+  "AUS": {
+   "name": "Australia",
+   "hofstede_code": "AUL",
+   "pdi": 38,
+   "idv": 90,
+   "mas": 61,
+   "uai": 51,
+   "lto": 21,
+   "ivr": 71
+  },
+  "AUT": {
+   "name": "Austria",
+   "hofstede_code": "AUT",
+   "pdi": 11,
+   "idv": 55,
+   "mas": 79,
+   "uai": 70,
+   "lto": 60,
+   "ivr": 63
+  },
+  "AZE": {
+   "name": "Azerbaijan",
+   "hofstede_code": "AZE",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 61,
+   "ivr": 22
+  },
+  "BAN": {
+   "name": "Bangladesh",
+   "hofstede_code": "BAN",
+   "pdi": 80,
+   "idv": 20,
+   "mas": 55,
+   "uai": 60,
+   "lto": 47,
+   "ivr": 20
+  },
+  "BEL": {
+   "name": "Belgium",
+   "hofstede_code": "BEL",
+   "pdi": 65,
+   "idv": 75,
+   "mas": 54,
+   "uai": 94,
+   "lto": 82,
+   "ivr": 57
+  },
+  "BIH": {
+   "name": "Bosnia",
+   "hofstede_code": "BOS",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 70,
+   "ivr": 44
+  },
+  "BLR": {
+   "name": "Belarus",
+   "hofstede_code": "BLR",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 81,
+   "ivr": 15
+  },
+  "BRA": {
+   "name": "Brazil",
+   "hofstede_code": "BRA",
+   "pdi": 69,
+   "idv": 38,
+   "mas": 49,
+   "uai": 76,
+   "lto": 44,
+   "ivr": 59
+  },
+  "BUL": {
+   "name": "Bulgaria",
+   "hofstede_code": "BUL",
+   "pdi": 70,
+   "idv": 30,
+   "mas": 40,
+   "uai": 85,
+   "lto": 69,
+   "ivr": 16
+  },
+  "BUR": {
+   "name": "Burkina Faso",
+   "hofstede_code": "BUF",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 27,
+   "ivr": 18
+  },
+  "CAN": {
+   "name": "Canada",
+   "hofstede_code": "CAN",
+   "pdi": 39,
+   "idv": 80,
+   "mas": 52,
+   "uai": 48,
+   "lto": 36,
+   "ivr": 68
+  },
+  "CHI": {
+   "name": "Chile",
+   "hofstede_code": "CHL",
+   "pdi": 63,
+   "idv": 23,
+   "mas": 28,
+   "uai": 86,
+   "lto": 31,
+   "ivr": 68
+  },
+  "CHN": {
+   "name": "China",
+   "hofstede_code": "CHI",
+   "pdi": 80,
+   "idv": 20,
+   "mas": 66,
+   "uai": 30,
+   "lto": 87,
+   "ivr": 24
+  },
+  "COL": {
+   "name": "Colombia",
+   "hofstede_code": "COL",
+   "pdi": 67,
+   "idv": 13,
+   "mas": 64,
+   "uai": 80,
+   "lto": 13,
+   "ivr": 83
+  },
+  "CRC": {
+   "name": "Costa Rica",
+   "hofstede_code": "COS",
+   "pdi": 35,
+   "idv": 15,
+   "mas": 21,
+   "uai": 86,
+   "lto": null,
+   "ivr": null
+  },
+  "CRO": {
+   "name": "Croatia",
+   "hofstede_code": "CRO",
+   "pdi": 73,
+   "idv": 33,
+   "mas": 40,
+   "uai": 80,
+   "lto": 58,
+   "ivr": 33
+  },
+  "CYP": {
+   "name": "Cyprus",
+   "hofstede_code": "CYP",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": null,
+   "ivr": 70
+  },
+  "CZE": {
+   "name": "Czech Rep",
+   "hofstede_code": "CZE",
+   "pdi": 57,
+   "idv": 58,
+   "mas": 57,
+   "uai": 74,
+   "lto": 70,
+   "ivr": 29
+  },
+  "DEN": {
+   "name": "Denmark",
+   "hofstede_code": "DEN",
+   "pdi": 18,
+   "idv": 74,
+   "mas": 16,
+   "uai": 23,
+   "lto": 35,
+   "ivr": 70
+  },
+  "DOM": {
+   "name": "Dominican Rep",
+   "hofstede_code": "DOM",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 13,
+   "ivr": 54
+  },
+  "ECU": {
+   "name": "Ecuador",
+   "hofstede_code": "ECA",
+   "pdi": 78,
+   "idv": 8,
+   "mas": 63,
+   "uai": 67,
+   "lto": null,
+   "ivr": null
+  },
+  "EGY": {
+   "name": "Egypt",
+   "hofstede_code": "EGY",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 7,
+   "ivr": 4,
+   "proxy": "_ARA",
+   "proxy_note": "Hofstede's 'Arab countries' sample (Egypt, Iraq, Kuwait, Lebanon, Libya, Saudi Arabia, UAE)"
+  },
+  "ENG": {
+   "name": "England",
+   "hofstede_code": "GBR",
+   "alias_of": "GBR",
+   "pdi": 35,
+   "idv": 89,
+   "mas": 66,
+   "uai": 35,
+   "lto": 51,
+   "ivr": 69
+  },
+  "ESP": {
+   "name": "Spain",
+   "hofstede_code": "SPA",
+   "pdi": 57,
+   "idv": 51,
+   "mas": 42,
+   "uai": 86,
+   "lto": 48,
+   "ivr": 44
+  },
+  "EST": {
+   "name": "Estonia",
+   "hofstede_code": "EST",
+   "pdi": 40,
+   "idv": 60,
+   "mas": 30,
+   "uai": 60,
+   "lto": 82,
+   "ivr": 16
+  },
+  "ETH": {
+   "name": "Ethiopia",
+   "hofstede_code": "ETH",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": null,
+   "ivr": 46,
+   "proxy": "_AFE",
+   "proxy_note": "Hofstede's 'Africa East' sample (Ethiopia, Kenya, Tanzania, Zambia)"
+  },
+  "FIN": {
+   "name": "Finland",
+   "hofstede_code": "FIN",
+   "pdi": 33,
+   "idv": 63,
+   "mas": 26,
+   "uai": 59,
+   "lto": 38,
+   "ivr": 57
+  },
+  "FRA": {
+   "name": "France",
+   "hofstede_code": "FRA",
+   "pdi": 68,
+   "idv": 71,
+   "mas": 43,
+   "uai": 86,
+   "lto": 63,
+   "ivr": 48
+  },
+  "GBR": {
+   "name": "Great Britain",
+   "hofstede_code": "GBR",
+   "pdi": 35,
+   "idv": 89,
+   "mas": 66,
+   "uai": 35,
+   "lto": 51,
+   "ivr": 69
+  },
+  "GEO": {
+   "name": "Georgia",
+   "hofstede_code": "GEO",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 38,
+   "ivr": 32
+  },
+  "GER": {
+   "name": "Germany",
+   "hofstede_code": "GER",
+   "pdi": 35,
+   "idv": 67,
+   "mas": 66,
+   "uai": 65,
+   "lto": 83,
+   "ivr": 40
+  },
+  "GHA": {
+   "name": "Ghana",
+   "hofstede_code": "GHA",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 4,
+   "ivr": 72,
+   "proxy": "_AFW",
+   "proxy_note": "Hofstede's 'Africa West' sample (Ghana, Nigeria, Sierra Leone)"
+  },
+  "GRE": {
+   "name": "Greece",
+   "hofstede_code": "GRE",
+   "pdi": 60,
+   "idv": 35,
+   "mas": 57,
+   "uai": 112,
+   "lto": 45,
+   "ivr": 50
+  },
+  "GUA": {
+   "name": "Guatemala",
+   "hofstede_code": "GUA",
+   "pdi": 95,
+   "idv": 6,
+   "mas": 37,
+   "uai": 101,
+   "lto": null,
+   "ivr": null
+  },
+  "HKG": {
+   "name": "Hong Kong",
+   "hofstede_code": "HOK",
+   "pdi": 68,
+   "idv": 25,
+   "mas": 57,
+   "uai": 29,
+   "lto": 61,
+   "ivr": 17
+  },
+  "HUN": {
+   "name": "Hungary",
+   "hofstede_code": "HUN",
+   "pdi": 46,
+   "idv": 80,
+   "mas": 88,
+   "uai": 82,
+   "lto": 58,
+   "ivr": 31
+  },
+  "IDN": {
+   "name": "Indonesia",
+   "hofstede_code": "IDO",
+   "pdi": 78,
+   "idv": 14,
+   "mas": 46,
+   "uai": 48,
+   "lto": 62,
+   "ivr": 38
+  },
+  "IND": {
+   "name": "India",
+   "hofstede_code": "IND",
+   "pdi": 77,
+   "idv": 48,
+   "mas": 56,
+   "uai": 40,
+   "lto": 51,
+   "ivr": 26
+  },
+  "IRL": {
+   "name": "Ireland",
+   "hofstede_code": "IRE",
+   "pdi": 28,
+   "idv": 70,
+   "mas": 68,
+   "uai": 35,
+   "lto": 24,
+   "ivr": 65
+  },
+  "IRN": {
+   "name": "Iran",
+   "hofstede_code": "IRA",
+   "pdi": 58,
+   "idv": 41,
+   "mas": 43,
+   "uai": 59,
+   "lto": 14,
+   "ivr": 40
+  },
+  "IRQ": {
+   "name": "Iraq",
+   "hofstede_code": "IRQ",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 25,
+   "ivr": 17,
+   "proxy": "_ARA",
+   "proxy_note": "Hofstede's 'Arab countries' sample (Egypt, Iraq, Kuwait, Lebanon, Libya, Saudi Arabia, UAE)"
+  },
+  "ISL": {
+   "name": "Iceland",
+   "hofstede_code": "ICE",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 28,
+   "ivr": 67
+  },
+  "ISR": {
+   "name": "Israel",
+   "hofstede_code": "ISR",
+   "pdi": 13,
+   "idv": 54,
+   "mas": 47,
+   "uai": 81,
+   "lto": 38,
+   "ivr": null
+  },
+  "ITA": {
+   "name": "Italy",
+   "hofstede_code": "ITA",
+   "pdi": 50,
+   "idv": 76,
+   "mas": 70,
+   "uai": 75,
+   "lto": 61,
+   "ivr": 30
+  },
+  "JAM": {
+   "name": "Jamaica",
+   "hofstede_code": "JAM",
+   "pdi": 45,
+   "idv": 39,
+   "mas": 68,
+   "uai": 13,
+   "lto": null,
+   "ivr": null
+  },
+  "JOR": {
+   "name": "Jordan",
+   "hofstede_code": "JOR",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 16,
+   "ivr": 43
+  },
+  "JPN": {
+   "name": "Japan",
+   "hofstede_code": "JPN",
+   "pdi": 54,
+   "idv": 46,
+   "mas": 95,
+   "uai": 92,
+   "lto": 88,
+   "ivr": 42
+  },
+  "KEN": {
+   "name": "KEN",
+   "hofstede_code": null,
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": null,
+   "ivr": null,
+   "proxy": "_AFE",
+   "proxy_note": "Hofstede's 'Africa East' sample (Ethiopia, Kenya, Tanzania, Zambia)"
+  },
+  "KGZ": {
+   "name": "Kyrgyz Rep",
+   "hofstede_code": "KYR",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 66,
+   "ivr": 39
+  },
+  "KOR": {
+   "name": "Korea South",
+   "hofstede_code": "KOR",
+   "pdi": 60,
+   "idv": 18,
+   "mas": 39,
+   "uai": 85,
+   "lto": 100,
+   "ivr": 29
+  },
+  "KUW": {
+   "name": "KUW",
+   "hofstede_code": null,
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": null,
+   "ivr": null,
+   "proxy": "_ARA",
+   "proxy_note": "Hofstede's 'Arab countries' sample (Egypt, Iraq, Kuwait, Lebanon, Libya, Saudi Arabia, UAE)"
+  },
+  "LBN": {
+   "name": "LBN",
+   "hofstede_code": null,
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": null,
+   "ivr": null,
+   "proxy": "_ARA",
+   "proxy_note": "Hofstede's 'Arab countries' sample (Egypt, Iraq, Kuwait, Lebanon, Libya, Saudi Arabia, UAE)"
+  },
+  "LBY": {
+   "name": "LBY",
+   "hofstede_code": null,
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": null,
+   "ivr": null,
+   "proxy": "_ARA",
+   "proxy_note": "Hofstede's 'Arab countries' sample (Egypt, Iraq, Kuwait, Lebanon, Libya, Saudi Arabia, UAE)"
+  },
+  "LTU": {
+   "name": "Lithuania",
+   "hofstede_code": "LIT",
+   "pdi": 42,
+   "idv": 60,
+   "mas": 19,
+   "uai": 65,
+   "lto": 82,
+   "ivr": 16
+  },
+  "LUX": {
+   "name": "Luxembourg",
+   "hofstede_code": "LUX",
+   "pdi": 40,
+   "idv": 60,
+   "mas": 50,
+   "uai": 70,
+   "lto": 64,
+   "ivr": 56
+  },
+  "LVA": {
+   "name": "Latvia",
+   "hofstede_code": "LAT",
+   "pdi": 44,
+   "idv": 70,
+   "mas": 9,
+   "uai": 63,
+   "lto": 69,
+   "ivr": 13
+  },
+  "MAR": {
+   "name": "Morocco",
+   "hofstede_code": "MOR",
+   "pdi": 70,
+   "idv": 46,
+   "mas": 53,
+   "uai": 68,
+   "lto": 14,
+   "ivr": 25
+  },
+  "MAS": {
+   "name": "Malaysia",
+   "hofstede_code": "MAL",
+   "pdi": 104,
+   "idv": 26,
+   "mas": 50,
+   "uai": 36,
+   "lto": 41,
+   "ivr": 57
+  },
+  "MDA": {
+   "name": "Moldova",
+   "hofstede_code": "MOL",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 71,
+   "ivr": 19
+  },
+  "MEX": {
+   "name": "Mexico",
+   "hofstede_code": "MEX",
+   "pdi": 81,
+   "idv": 30,
+   "mas": 69,
+   "uai": 82,
+   "lto": 24,
+   "ivr": 97
+  },
+  "MKD": {
+   "name": "Macedonia Rep",
+   "hofstede_code": "MAC",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 62,
+   "ivr": 35
+  },
+  "MLI": {
+   "name": "Mali",
+   "hofstede_code": "MLI",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 20,
+   "ivr": 43
+  },
+  "MLT": {
+   "name": "Malta",
+   "hofstede_code": "MLT",
+   "pdi": 56,
+   "idv": 59,
+   "mas": 47,
+   "uai": 96,
+   "lto": 47,
+   "ivr": 66
+  },
+  "MNE": {
+   "name": "Montenegro",
+   "hofstede_code": "MNG",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 75,
+   "ivr": 20
+  },
+  "NED": {
+   "name": "Netherlands",
+   "hofstede_code": "NET",
+   "pdi": 38,
+   "idv": 80,
+   "mas": 14,
+   "uai": 53,
+   "lto": 67,
+   "ivr": 68
+  },
+  "NGA": {
+   "name": "Nigeria",
+   "hofstede_code": "NIG",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 13,
+   "ivr": 84,
+   "proxy": "_AFW",
+   "proxy_note": "Hofstede's 'Africa West' sample (Ghana, Nigeria, Sierra Leone)"
+  },
+  "NIR": {
+   "name": "Northern Ireland",
+   "hofstede_code": "GBR",
+   "alias_of": "GBR",
+   "pdi": 35,
+   "idv": 89,
+   "mas": 66,
+   "uai": 35,
+   "lto": 51,
+   "ivr": 69
+  },
+  "NOR": {
+   "name": "Norway",
+   "hofstede_code": "NOR",
+   "pdi": 31,
+   "idv": 69,
+   "mas": 8,
+   "uai": 50,
+   "lto": 35,
+   "ivr": 55
+  },
+  "NZL": {
+   "name": "New Zealand",
+   "hofstede_code": "NZL",
+   "pdi": 22,
+   "idv": 79,
+   "mas": 58,
+   "uai": 49,
+   "lto": 33,
+   "ivr": 75
+  },
+  "PAK": {
+   "name": "Pakistan",
+   "hofstede_code": "PAK",
+   "pdi": 55,
+   "idv": 14,
+   "mas": 50,
+   "uai": 70,
+   "lto": 50,
+   "ivr": 0
+  },
+  "PAN": {
+   "name": "Panama",
+   "hofstede_code": "PAN",
+   "pdi": 95,
+   "idv": 11,
+   "mas": 44,
+   "uai": 86,
+   "lto": null,
+   "ivr": null
+  },
+  "PER": {
+   "name": "Peru",
+   "hofstede_code": "PER",
+   "pdi": 64,
+   "idv": 16,
+   "mas": 42,
+   "uai": 87,
+   "lto": 25,
+   "ivr": 46
+  },
+  "PHI": {
+   "name": "Philippines",
+   "hofstede_code": "PHI",
+   "pdi": 94,
+   "idv": 32,
+   "mas": 64,
+   "uai": 44,
+   "lto": 27,
+   "ivr": 42
+  },
+  "POL": {
+   "name": "Poland",
+   "hofstede_code": "POL",
+   "pdi": 68,
+   "idv": 60,
+   "mas": 64,
+   "uai": 93,
+   "lto": 38,
+   "ivr": 29
+  },
+  "POR": {
+   "name": "Portugal",
+   "hofstede_code": "POR",
+   "pdi": 63,
+   "idv": 27,
+   "mas": 31,
+   "uai": 104,
+   "lto": 28,
+   "ivr": 33
+  },
+  "PUR": {
+   "name": "Puerto Rico",
+   "hofstede_code": "PUE",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 0,
+   "ivr": 90
+  },
+  "ROU": {
+   "name": "Romania",
+   "hofstede_code": "ROM",
+   "pdi": 90,
+   "idv": 30,
+   "mas": 42,
+   "uai": 90,
+   "lto": 52,
+   "ivr": 20
+  },
+  "RSA": {
+   "name": "South Africa",
+   "hofstede_code": "SAF",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 34,
+   "ivr": 63
+  },
+  "RUS": {
+   "name": "Russia",
+   "hofstede_code": "RUS",
+   "pdi": 93,
+   "idv": 39,
+   "mas": 36,
+   "uai": 95,
+   "lto": 81,
+   "ivr": 20
+  },
+  "RWA": {
+   "name": "Rwanda",
+   "hofstede_code": "RWA",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 18,
+   "ivr": 37
+  },
+  "SAU": {
+   "name": "Saudi Arabia",
+   "hofstede_code": "SAU",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 36,
+   "ivr": 52,
+   "proxy": "_ARA",
+   "proxy_note": "Hofstede's 'Arab countries' sample (Egypt, Iraq, Kuwait, Lebanon, Libya, Saudi Arabia, UAE)"
+  },
+  "SCO": {
+   "name": "Scotland",
+   "hofstede_code": "GBR",
+   "alias_of": "GBR",
+   "pdi": 35,
+   "idv": 89,
+   "mas": 66,
+   "uai": 35,
+   "lto": 51,
+   "ivr": 69
+  },
+  "SGP": {
+   "name": "Singapore",
+   "hofstede_code": "SIN",
+   "pdi": 74,
+   "idv": 20,
+   "mas": 48,
+   "uai": 8,
+   "lto": 72,
+   "ivr": 46
+  },
+  "SLV": {
+   "name": "El Salvador",
+   "hofstede_code": "SAL",
+   "pdi": 66,
+   "idv": 19,
+   "mas": 40,
+   "uai": 94,
+   "lto": 20,
+   "ivr": 89
+  },
+  "SRB": {
+   "name": "Serbia",
+   "hofstede_code": "SER",
+   "pdi": 86,
+   "idv": 25,
+   "mas": 43,
+   "uai": 92,
+   "lto": 52,
+   "ivr": 28
+  },
+  "SUI": {
+   "name": "Switzerland",
+   "hofstede_code": "SWI",
+   "pdi": 34,
+   "idv": 68,
+   "mas": 70,
+   "uai": 58,
+   "lto": 74,
+   "ivr": 66
+  },
+  "SUR": {
+   "name": "Suriname",
+   "hofstede_code": "SUR",
+   "pdi": 85,
+   "idv": 47,
+   "mas": 37,
+   "uai": 92,
+   "lto": null,
+   "ivr": null
+  },
+  "SVK": {
+   "name": "Slovak Rep",
+   "hofstede_code": "SLK",
+   "pdi": 104,
+   "idv": 52,
+   "mas": 110,
+   "uai": 51,
+   "lto": 77,
+   "ivr": 28
+  },
+  "SVN": {
+   "name": "Slovenia",
+   "hofstede_code": "SLV",
+   "pdi": 71,
+   "idv": 27,
+   "mas": 19,
+   "uai": 88,
+   "lto": 49,
+   "ivr": 48
+  },
+  "SWE": {
+   "name": "Sweden",
+   "hofstede_code": "SWE",
+   "pdi": 31,
+   "idv": 71,
+   "mas": 5,
+   "uai": 29,
+   "lto": 53,
+   "ivr": 78
+  },
+  "TAN": {
+   "name": "Tanzania",
+   "hofstede_code": "TAN",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 34,
+   "ivr": 38,
+   "proxy": "_AFE",
+   "proxy_note": "Hofstede's 'Africa East' sample (Ethiopia, Kenya, Tanzania, Zambia)"
+  },
+  "THA": {
+   "name": "Thailand",
+   "hofstede_code": "THA",
+   "pdi": 64,
+   "idv": 20,
+   "mas": 34,
+   "uai": 64,
+   "lto": 32,
+   "ivr": 45
+  },
+  "TPE": {
+   "name": "Taiwan",
+   "hofstede_code": "TAI",
+   "pdi": 58,
+   "idv": 17,
+   "mas": 45,
+   "uai": 69,
+   "lto": 93,
+   "ivr": 49
+  },
+  "TTO": {
+   "name": "Trinidad and Tobago",
+   "hofstede_code": "TRI",
+   "pdi": 47,
+   "idv": 16,
+   "mas": 58,
+   "uai": 55,
+   "lto": 13,
+   "ivr": 80
+  },
+  "TUR": {
+   "name": "Turkey",
+   "hofstede_code": "TUR",
+   "pdi": 66,
+   "idv": 37,
+   "mas": 45,
+   "uai": 85,
+   "lto": 46,
+   "ivr": 49
+  },
+  "UAE": {
+   "name": "UAE",
+   "hofstede_code": null,
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": null,
+   "ivr": null,
+   "proxy": "_ARA",
+   "proxy_note": "Hofstede's 'Arab countries' sample (Egypt, Iraq, Kuwait, Lebanon, Libya, Saudi Arabia, UAE)"
+  },
+  "UGA": {
+   "name": "Uganda",
+   "hofstede_code": "UGA",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 24,
+   "ivr": 52
+  },
+  "UKR": {
+   "name": "Ukraine",
+   "hofstede_code": "UKR",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 86,
+   "ivr": 14
+  },
+  "URU": {
+   "name": "Uruguay",
+   "hofstede_code": "URU",
+   "pdi": 61,
+   "idv": 36,
+   "mas": 38,
+   "uai": 100,
+   "lto": 26,
+   "ivr": 53
+  },
+  "USA": {
+   "name": "U.S.A.",
+   "hofstede_code": "USA",
+   "pdi": 40,
+   "idv": 91,
+   "mas": 62,
+   "uai": 46,
+   "lto": 26,
+   "ivr": 68
+  },
+  "VEN": {
+   "name": "Venezuela",
+   "hofstede_code": "VEN",
+   "pdi": 81,
+   "idv": 12,
+   "mas": 73,
+   "uai": 76,
+   "lto": 16,
+   "ivr": 100
+  },
+  "VIE": {
+   "name": "Vietnam",
+   "hofstede_code": "VIE",
+   "pdi": 70,
+   "idv": 20,
+   "mas": 40,
+   "uai": 30,
+   "lto": 57,
+   "ivr": 35
+  },
+  "WAL": {
+   "name": "Wales",
+   "hofstede_code": "GBR",
+   "alias_of": "GBR",
+   "pdi": 35,
+   "idv": 89,
+   "mas": 66,
+   "uai": 35,
+   "lto": 51,
+   "ivr": 69
+  },
+  "ZAM": {
+   "name": "Zambia",
+   "hofstede_code": "ZAM",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 30,
+   "ivr": 42,
+   "proxy": "_AFE",
+   "proxy_note": "Hofstede's 'Africa East' sample (Ethiopia, Kenya, Tanzania, Zambia)"
+  },
+  "ZIM": {
+   "name": "Zimbabwe",
+   "hofstede_code": "ZIM",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 15,
+   "ivr": 28
+  },
+  "_AFE": {
+   "name": "Africa East",
+   "hofstede_code": "AFE",
+   "pdi": 64,
+   "idv": 27,
+   "mas": 41,
+   "uai": 52,
+   "lto": 32,
+   "ivr": 40
+  },
+  "_AFW": {
+   "name": "Africa West",
+   "hofstede_code": "AFW",
+   "pdi": 77,
+   "idv": 20,
+   "mas": 46,
+   "uai": 54,
+   "lto": 9,
+   "ivr": 78
+  },
+  "_ARA": {
+   "name": "Arab countries",
+   "hofstede_code": "ARA",
+   "pdi": 80,
+   "idv": 38,
+   "mas": 53,
+   "uai": 68,
+   "lto": 23,
+   "ivr": 34
+  },
+  "_BEF": {
+   "name": "Belgium French",
+   "hofstede_code": "BEF",
+   "pdi": 67,
+   "idv": 72,
+   "mas": 60,
+   "uai": 93,
+   "lto": null,
+   "ivr": null
+  },
+  "_BEN": {
+   "name": "Belgium Netherl",
+   "hofstede_code": "BEN",
+   "pdi": 61,
+   "idv": 78,
+   "mas": 43,
+   "uai": 97,
+   "lto": null,
+   "ivr": null
+  },
+  "_CAF": {
+   "name": "Canada French",
+   "hofstede_code": "CAF",
+   "pdi": 54,
+   "idv": 73,
+   "mas": 45,
+   "uai": 60,
+   "lto": null,
+   "ivr": null
+  },
+  "_GEE": {
+   "name": "Germany East",
+   "hofstede_code": "GEE",
+   "pdi": null,
+   "idv": null,
+   "mas": null,
+   "uai": null,
+   "lto": 78,
+   "ivr": 34
+  },
+  "_SAW": {
+   "name": "South Africa white",
+   "hofstede_code": "SAW",
+   "pdi": 49,
+   "idv": 65,
+   "mas": 63,
+   "uai": 49,
+   "lto": null,
+   "ivr": null
+  },
+  "_SWF": {
+   "name": "Switzerland French",
+   "hofstede_code": "SWF",
+   "pdi": 70,
+   "idv": 64,
+   "mas": 58,
+   "uai": 70,
+   "lto": null,
+   "ivr": null
+  },
+  "_SWG": {
+   "name": "Switzerland German",
+   "hofstede_code": "SWG",
+   "pdi": 26,
+   "idv": 69,
+   "mas": 72,
+   "uai": 56,
+   "lto": null,
+   "ivr": null
+  }
+ }
+}

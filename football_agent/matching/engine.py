@@ -43,8 +43,8 @@ class MatchEngine:
         self.weights.validate()
 
     # ------------------------------------------------------------------ core
-    def score(self, player: Player, club: Club) -> MatchResult:
-        pos, need, how = dim.resolve_position(player, club)
+    def score(self, player: Player, club: Club, position: Optional[str] = None) -> MatchResult:
+        pos, need, how = dim.resolve_position(player, club, forced=position)
         w = self.weights
         raw = {
             "need_fit": dim.need_fit(player, club, pos, need, how),
@@ -123,7 +123,7 @@ class MatchEngine:
             for p in pool
             if (p.current_club or "").lower() not in {club.name.lower(), club.short_name.lower()}
         ]
-        results = [self.score(p, club) for p in pool]
+        results = [self.score(p, club, position=position) for p in pool]
         results = [r for r in results if r.total >= min_total]
         results.sort(key=lambda r: r.total, reverse=True)
         return results[:limit]

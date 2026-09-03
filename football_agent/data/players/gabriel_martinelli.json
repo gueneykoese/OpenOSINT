@@ -1,0 +1,93 @@
+{
+  "player_id": "gabriel_martinelli",
+  "name": "Gabriel Martinelli",
+  "age": 25,
+  "date_of_birth": "2001-06-18",
+  "nationality": [
+    "BRA",
+    "ITA"
+  ],
+  "position": "LW",
+  "secondary_positions": [
+    "ST",
+    "RW"
+  ],
+  "preferred_foot": "right",
+  "height_cm": 178,
+  "current_club": "Al Hilal",
+  "current_club_league": "Saudi Pro League",
+  "contract_until": null,
+  "market_value_eur_m": 45,
+  "estimated_fee_eur_m": 60,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": 30,
+    "starts": null,
+    "minutes": 1073,
+    "goals": 1,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "right-footed left winger who stays wide and runs in behind",
+      "explosive straight-line pace",
+      "direct dribbler, low-touch finisher",
+      "pressing forward, high work-rate",
+      "inconsistent end product in league play (1 PL goal 2025/26 vs 6 UCL goals)"
+    ],
+    "best_system": [
+      "4-3-3 high press with an overlapping/underlapping LB",
+      "transition-heavy counter-attacking side"
+    ],
+    "weak_in": [
+      "possession-heavy half-space creator role",
+      "target-man/hold-up role"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Publicly reported (Yahoo/CBS, Aug 2026) that Arteta left him out of Community Shield and PL-opener squads while the Al Hilal deal was negotiated; earlier reports said he was 'unconvinced' by the Saudi move before agreeing. No disciplinary record of note is documented in the sources used."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "pt",
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "Holds Italian citizenship in addition to Brazilian (public record). Languages: Portuguese native; English after 7 seasons in England."
+  },
+  "sources": [
+    "https://sports.yahoo.com/articles/much-gabriel-martinelli-worth-180500119.html",
+    "https://www.premierleague.com/en/players/444145/gabriel-martinelli/stats",
+    "https://www.sportbusy.com/players/soccer/269844/",
+    "https://tribuna.com/en/persons/gabriel-martinelli/stat/2025-2026/ucl/",
+    "https://sports.yahoo.com/articles/arsenal-facing-painful-blow-martinelli-141902780.html",
+    "https://www.cbssports.com/soccer/news/al-hilal-medical-gabriel-martinelli-transfer-from-arsenal/",
+    "https://www.goal.com/en/news/martinelli-to-al-hilal-the-saga-ends-and-his-arrival-date-is-revealed/blt2ed2f3e1497ad34f",
+    "https://onefootball.com/en/news/martinelli-to-join-al-hilal-after-verbal-agreement-worth-more-than-65-million-euros-43369306"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "CLUB AFTER SUMMER 2026: multiple outlets (Romano via OneFootball, CBS, Goal, Yahoo; late Aug 2026) report a verbal agreement Arsenal-Al Hilal worth >EUR 65m incl. add-ons (approx. USD 67.5m guaranteed + 9.3m add-ons), medical booked and player given permission to fly to Riyadh. NO official club announcement was found in the search snippets, so 'Al Hilal' is recorded as the post-window club with LOW confidence; if the deal collapsed he remains at Arsenal (contract to 2027 + option). contract_until null because Al Hilal terms are not public. market_value_eur_m = EUR 45m Transfermarkt figure quoted by Yahoo Sports (2026, exact TM date not visible in snippet). 2025/26 PL stats: aggregators disagree slightly (28-30 apps, 3-4 assists, 1 goal, 1,073 min); 30 apps / 4 assists recorded, starts null. UCL 2025/26 separately: 9 apps, 495 min, 6 goals, 1 assist (Tribuna). An all-competitions total of 12 goals / 7 assists appears only in a YouTube compilation title and is not relied on. estimated_fee_eur_m is the researcher's estimate of what a European club would have to pay Al Hilal for him (below the reported EUR 65m+ fee); wage null. Height and DOB from general public record."
+  }
+}

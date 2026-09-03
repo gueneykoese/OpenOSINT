@@ -2,28 +2,30 @@
   "player_id": "ayase_ueda",
   "name": "Ayase Ueda",
   "age": 28,
-  "date_of_birth": null,
-  "nationality": ["JPN"],
+  "date_of_birth": "1998-08-28",
+  "nationality": [
+    "JPN"
+  ],
   "position": "ST",
   "secondary_positions": [],
   "preferred_foot": null,
   "height_cm": null,
-  "current_club": null,
-  "current_club_league": null,
-  "contract_until": null,
-  "market_value_eur_m": null,
-  "estimated_fee_eur_m": null,
+  "current_club": "LOSC Lille",
+  "current_club_league": "Ligue 1",
+  "contract_until": 2030,
+  "market_value_eur_m": 20.0,
+  "estimated_fee_eur_m": 30,
   "wage_eur_m_net": null,
   "release_clause_eur_m": null,
   "agent_status": "represented",
-  "availability": null,
+  "availability": "not for sale",
   "stats_2025_26": {
     "competition": "Eredivisie",
-    "apps": null,
+    "apps": 31,
     "starts": null,
-    "minutes": null,
+    "minutes": 2535,
     "goals": 25,
-    "assists": null,
+    "assists": 1,
     "xg": null,
     "xa": null,
     "shots_p90": null,
@@ -35,9 +37,18 @@
     "progressive_carries_p90": null
   },
   "style_profile": {
-    "tags": ["penalty-box striker", "Eredivisie top scorer 2025/26"],
-    "best_system": [],
-    "weak_in": []
+    "tags": [
+      "penalty-box striker",
+      "Eredivisie top scorer 2025/26 (25 goals)",
+      "high shot volume (102 league shots, 47 on target)",
+      "low assist output (1 league assist)"
+    ],
+    "best_system": [
+      "4-2-3-1 / 4-3-3 with wide creators feeding a fixed No.9"
+    ],
+    "weak_in": [
+      "link-play / creator role"
+    ]
   },
   "mental_profile": {
     "leadership": null,
@@ -48,19 +59,29 @@
   },
   "injury_history": [],
   "off_pitch": {
-    "languages": ["ja"],
+    "languages": [
+      "ja"
+    ],
     "family_situation": null,
-    "public_statements": [],
+    "public_statements": [
+      "Emotional public farewell to Feyenoord on leaving for Lille, 1 Sep 2026: 'Thank you for everything, it was wonderful' (Goal.com)."
+    ],
     "commercial_profile": null,
     "notes": null
   },
   "sources": [
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_Eredivisie",
-    "https://www.worldfootball.net/competition/co37/netherlands-eredivisie/se94181/2025-2026/statistics-goals/"
+    "https://www.worldfootball.net/competition/co37/netherlands-eredivisie/se94181/2025-2026/statistics-goals/",
+    "https://www.goal.com/en/news/ayase-ueda-definitively-gone-from-feyenoord/blt7e2234dd6982e816",
+    "https://www.getfootballnewsfrance.com/2026/official-lille-sign-feyenoord-striker-ayase-ueda/",
+    "https://www.sofascore.com/news/ayase-ueda-joins-lille-fee-fit-and-form-to-watch",
+    "https://www.fotmob.com/leagues/57/stats/season/27131/players/goals/team/10235/feyenoord",
+    "https://footystats.org/players/japan/ayase-ueda",
+    "https://www.transferfeed.com/transfers/ayase-ueda-feyenoord-losc-lille/51214412"
   ],
   "as_of": "2026-09-02",
   "data_quality": {
-    "confidence": "low",
-    "notes": "The 25-goal Eredivisie golden boot for 2025/26 is corroborated by two search snippets. He scored them for Feyenoord, but whether he was still at Feyenoord after the 1 Sep 2026 deadline could NOT be verified, so current_club/league/availability/fee are null rather than guessed. Age approximate (born 1998). Everything else unverified."
+    "confidence": "medium",
+    "notes": "UPDATED 2026-09-02: Feyenoord confirmed his sale to LOSC Lille on deadline day (1 Sep 2026); Lille pay at least EUR 20m and he signed a four-year deal to mid-2030 (Goal.com / GFFN / Sofascore snippets). 2025/26 Eredivisie line (31 apps, 2,535 min, 25 goals, 1 assist, 2 yellows) from FotMob/FootyStats snippets; starts not given -> null. market_value_eur_m 20.0 = Transfermarkt figure quoted in a Sep 2026 Sofascore/search snippet (FotMob has 17.3). estimated_fee_eur_m 30 is the researcher's estimate: a club that just paid ~EUR 20m for a 28-year-old on a 4-year deal will demand a premium; realistically a Jan-2027 move is implausible and summer 2027 is the earliest window. date_of_birth is from the researcher's prior knowledge (widely published), not from a fetched source in this session; treat as high-probability but re-check before contractual use. Foot, height, wage, xG unverified -> null. Style tags inferred from the stat line, not a scouting report."
   }
 }

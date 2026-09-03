@@ -1,0 +1,90 @@
+{
+  "player_id": "matias_fernandez_pardo",
+  "name": "Matías Fernández-Pardo",
+  "age": 21,
+  "date_of_birth": "2005-02-03",
+  "nationality": [
+    "BEL",
+    "ESP"
+  ],
+  "position": "LW",
+  "secondary_positions": [
+    "RW",
+    "ST"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Newcastle United",
+  "current_club_league": "Premier League",
+  "contract_until": 2031,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 65,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "All competitions (Lille)",
+    "apps": 41,
+    "starts": null,
+    "minutes": null,
+    "goals": 8,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "explosive left-sided winger",
+      "direct carrier",
+      "Belgium 2026 World Cup squad member",
+      "GBP 51m deadline-day signing"
+    ],
+    "best_system": [
+      "4-3-3 counter-pressing side"
+    ],
+    "weak_in": [
+      "low-block patient possession role"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record: Lille publicly did not want to sell (Aug 2026) but accepted a GBP 51m offer on deadline day; no disciplinary items found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "fr",
+      "nl",
+      "es",
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "Belgian-Spanish; French/Dutch listed from Belgian nationality, Spanish from Spanish nationality - not individually verified."
+  },
+  "sources": [
+    "https://www.skysports.com/football/news/11095/13579855/matias-fernandez-pardo-transfer-news-newcastle-sign-lille-forward-ahead-of-transfer-deadline-in-deal-worth-lb51m",
+    "https://www.newcastleunited.com/en/news/newcastle-united-sign-matias-fernandez-pardo",
+    "https://www.espn.com/soccer/story/_/id/49793900/newcastle-sign-matias-fernandez-pardo-reported-51m-deal-lille",
+    "https://en.wikipedia.org/wiki/Matias_Fernandez-Pardo",
+    "https://thehardtackle.com/transfer-news/2026/08/30/lille-unwilling-to-sell-matias-fernandez-pardo-amid-premier-league-links/",
+    "https://www.sportsboom.co.uk/football/transfer-news/exclusive-matas-fernandez-pardo-ignites-a-60m-battle-between-arsenal-city-and-atletico"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "high",
+    "notes": "IMPORTANT CORRECTION to the target brief: NOT at Lille. Newcastle United signed him from Lille on/around 31 Aug-1 Sep 2026 for GBP 51m (~EUR 59m), long-term contract to 2031, shirt No. 20 (Sky Sports / NUFC official / ESPN). DOB 3 Feb 2005 (Wikipedia snippet). 2025/26: 8 goals in 41 apps all competitions for Lille (Sky); assists/minutes/starts not retrieved -> null. Transfermarkt value not retrieved -> null. estimated_fee_eur_m 65 = researcher's estimate; realistically unavailable before 2028. Foot/height/wage null."
+  }
+}

@@ -12,6 +12,7 @@ from __future__ import annotations
 import re
 from typing import Optional
 
+from ..culture import DIMENSION_LABELS, league_country, load_model
 from ..models import POSITION_NEIGHBOURS, Club, Player, PositionalNeed
 
 Score = tuple[float, str, float]
@@ -23,11 +24,17 @@ def _clamp(x: float, lo: float = 0.0, hi: float = 100.0) -> float:
     return max(lo, min(hi, x))
 
 
-def resolve_position(player: Player, club: Club) -> tuple[str, Optional[PositionalNeed], str]:
+def resolve_position(
+    player: Player, club: Club, forced: Optional[str] = None
+) -> tuple[str, Optional[PositionalNeed], str]:
     """Pick the position we evaluate the player at for this club.
 
-    Preference: a club need matching the primary position > need matching a secondary
-    position > primary position without a stated need."""
+    ``forced`` (e.g. the club need being filled) wins. Otherwise: a club need matching
+    the primary position > need matching a secondary position > primary position."""
+    if forced:
+        forced = forced.upper()
+        how = "primary" if forced == player.position else "secondary"
+        return forced, club.need_for(forced), how
     for pos in player.all_positions:
         need = club.need_for(pos)
         if need:
@@ -477,29 +484,11 @@ def mental_chemistry(player: Player, club: Club) -> Score:
 
 
 # ---------------------------------------------------------------- cultural fit
-_LEAGUE_COUNTRY = {
-    "premier league": "ENG",
-    "la liga": "ESP",
-    "laliga": "ESP",
-    "bundesliga": "GER",
-    "serie a": "ITA",
-    "ligue 1": "FRA",
-    "eredivisie": "NED",
-    "liga portugal": "POR",
-    "primeira liga": "POR",
-    "süper lig": "TUR",
-    "super lig": "TUR",
-    "pro league": "BEL",
-    "eliteserien": "NOR",
-    "czech": "CZE",
-    "slovak": "SVK",
-    "super league greece": "GRE",
-    "austrian": "AUT",
-    "premyer": "AZE",
-    "ukrainian": "UKR",
-}
 _COUNTRY_LANG = {
     "ENG": "en",
+    "SCO": "en",
+    "WAL": "en",
+    "IRL": "en",
     "ESP": "es",
     "GER": "de",
     "ITA": "it",
@@ -509,55 +498,104 @@ _COUNTRY_LANG = {
     "TUR": "tr",
     "BEL": "nl",
     "NOR": "no",
+    "SWE": "sv",
+    "DEN": "da",
     "CZE": "cs",
     "SVK": "sk",
     "GRE": "el",
     "AUT": "de",
+    "SUI": "de",
     "AZE": "az",
     "UKR": "uk",
+    "POL": "pl",
+    "CRO": "hr",
+    "SRB": "sr",
+    "BRA": "pt",
+    "ARG": "es",
+    "URU": "es",
+    "COL": "es",
+    "MEX": "es",
+    "USA": "en",
+    "JPN": "ja",
+    "KOR": "ko",
+    "MAR": "ar",
+    "ALG": "ar",
+    "EGY": "ar",
+    "SAU": "ar",
+    "NGA": "en",
+    "GHA": "en",
+    "SEN": "fr",
+    "CIV": "fr",
+    "CMR": "fr",
 }
 
 
+_TOP5 = {"ENG", "ESP", "GER", "ITA", "FRA"}
+
+
 def cultural_fit(player: Player, club: Club) -> Score:
-    score = 55.0
+    """Hofstede-based cultural adaptation (60%) + language (25%) + league familiarity (15%).
+
+    The Hofstede part uses the classic 5-D model (PDI, IDV, MAS, UAI, LTO) and the
+    Kogut-Singh distance between the destination country and the *closest* culture the
+    player already knows (nationalities + current league's country). See culture.py."""
+    model = load_model()
     notes: list[str] = []
-    cov = 0.0
+    parts: list[tuple[float, float]] = []  # (score, weight)
+    coverage = 0.0
+
+    cur_country = league_country(player.current_club_league)
+    familiar = [n for n in player.nationality if n] + ([cur_country] if cur_country else [])
+
+    # 1) Hofstede distance
+    cd, from_code, gaps, h_score = model.adaptation(familiar, club.country)
+    if h_score is not None:
+        coverage += 0.6
+        parts.append((h_score, 0.6))
+        notes.append(
+            f"Hofstede 5-D distance {cd:.2f} from {from_code} to {club.country} (Kogut-Singh)"
+        )
+        big = [g for g in gaps if abs(g[1]) >= 20][:2]
+        for d, gap, interp in big:
+            notes.append(f"{DIMENSION_LABELS[d]} gap {gap:+.0f}: {interp}")
+    elif familiar and club.country:
+        notes.append("no Hofstede data for these countries")
+
+    # 2) language
     club_langs = set(club.languages)
     if club.country and _COUNTRY_LANG.get(club.country):
         club_langs.add(_COUNTRY_LANG[club.country])
     if player.languages:
-        cov += 0.5
-        if club_langs & set(player.languages):
-            score += 25
+        coverage += 0.25
+        if _COUNTRY_LANG.get(club.country or "") in player.languages:
+            parts.append((100.0, 0.25))
+            notes.append("speaks the club country's language")
+        elif club_langs & set(player.languages):
+            parts.append((80.0, 0.25))
             notes.append("shares a working language with the club")
-        elif "en" in player.languages and "en" in club_langs:
-            score += 10
         else:
-            score -= 10
+            parts.append((35.0, 0.25))
             notes.append("no shared language documented")
-    lg = (player.current_club_league or "").lower()
-    cur_country = next((c for k, c in _LEAGUE_COUNTRY.items() if k in lg), None)
+
+    # 3) league / country familiarity
     if cur_country:
-        cov += 0.3
+        coverage += 0.15
         if cur_country == club.country:
-            score += 15
+            parts.append((100.0, 0.15))
             notes.append("already plays in the destination league")
-        elif club.country in {"ENG", "ESP", "GER", "ITA", "FRA"} and cur_country in {
-            "ENG",
-            "ESP",
-            "GER",
-            "ITA",
-            "FRA",
-        }:
-            score += 5
+        elif club.country in _TOP5 and cur_country in _TOP5:
+            parts.append((75.0, 0.15))
             notes.append("moving between top-5 leagues")
+        else:
+            parts.append((50.0, 0.15))
     if player.nationality and club.country in player.nationality:
-        score += 10
         notes.append("home-country move")
-        cov = max(cov, 0.6)
-    if not notes:
-        notes.append("little cultural-adaptation evidence")
-    return _clamp(score), "; ".join(notes) + ".", min(1.0, cov)
+
+    if not parts:
+        return 55.0, "No cultural-adaptation evidence; neutral.", 0.0
+    wsum = sum(w for _, w in parts)
+    score = sum(s * w for s, w in parts) / wsum
+    return _clamp(score), "; ".join(notes) + ".", min(1.0, coverage)
 
 
 # --------------------------------------------------------------------- flags
