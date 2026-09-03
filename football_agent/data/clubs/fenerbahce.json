@@ -276,26 +276,6 @@
       "injury_flag": null
     },
     {
-      "name": "Jayden Oosterwolde",
-      "position": "CB",
-      "secondary_positions": [
-        "LB"
-      ],
-      "age": 25,
-      "nationality": "NED",
-      "contract_until": null,
-      "shirt_no": null,
-      "role": "rotation",
-      "stats_2025_26": {
-        "apps": null,
-        "starts": null,
-        "minutes": null,
-        "goals": null,
-        "assists": null
-      },
-      "injury_flag": null
-    },
-    {
       "name": "Mert Müldür",
       "position": "RB",
       "secondary_positions": [
@@ -723,6 +703,6 @@
   "as_of": "2026-09-02",
   "data_quality": {
     "confidence": "medium",
-    "notes": "Verified via search snippets (WebFetch was egress-blocked on every domain): coach Kartal (June 2026, 1-yr), Tedesco sacking 27 Apr 2026, Yıldırım election 7 Jun 2026, 2nd place 2025/26, Talisca 19 league / 27 total goals, UEL exit v Nottingham Forest 2-4 agg, Türkiye Kupası QF, Super Cup win, Lyon play-off scores, UCL opponents incl. home/away split (single source: OneFootball, echoed by NationalTurk). UNVERIFIED / CONFLICTING: final points — one snippet gave Galatasaray 74 / Fenerbahçe 67 (sums to 31 games, so a mid-season snapshot), a matchday-34 article gave Galatasaray 77 / Fenerbahçe 74 / Trabzonspor 69; W/D/L and GF/GA therefore left null. Transfer fees and selling clubs for Greenwood, Aké, Muriqi, Lukaku, Ortakaya not verified (left null). Departures: only Talisca (contract expiry) and Diego Carlos (loan to Italy, club unknown) confirmed; Oosterwolde, Archie Brown, Semedo, Fred were reported FOR SALE in late July 2026 — whether they actually left is NOT verified, so they remain listed in the squad. En-Nesyri's 2026/27 status unverified. Squad ages were computed from publicly known birth years and not re-checked this session; shirt numbers, contract dates and 2025/26 per-player stats were not obtainable (all null). Top assister unknown. Position benchmarks unavailable (null)."
+    "notes": "Verified via search snippets (WebFetch was egress-blocked on every domain): coach Kartal (June 2026, 1-yr), Tedesco sacking 27 Apr 2026, Yıldırım election 7 Jun 2026, 2nd place 2025/26, Talisca 19 league / 27 total goals, UEL exit v Nottingham Forest 2-4 agg, Türkiye Kupası QF, Super Cup win, Lyon play-off scores, UCL opponents incl. home/away split (single source: OneFootball, echoed by NationalTurk). UNVERIFIED / CONFLICTING: final points — one snippet gave Galatasaray 74 / Fenerbahçe 67 (sums to 31 games, so a mid-season snapshot), a matchday-34 article gave Galatasaray 77 / Fenerbahçe 74 / Trabzonspor 69; W/D/L and GF/GA therefore left null. Transfer fees and selling clubs for Greenwood, Aké, Muriqi, Lukaku, Ortakaya not verified (left null). Departures: only Talisca (contract expiry) and Diego Carlos (loan to Italy, club unknown) confirmed; Oosterwolde, Archie Brown, Semedo, Fred were reported FOR SALE in late July 2026 — whether they actually left is NOT verified, so they remain listed in the squad. En-Nesyri's 2026/27 status unverified. Squad ages were computed from publicly known birth years and not re-checked this session; shirt numbers, contract dates and 2025/26 per-player stats were not obtainable (all null). Top assister unknown. Position benchmarks unavailable (null). | Reconciled 2026-09-02 with player-pool research: Oosterwolde removed (on loan at AS Roma with conditional obligation, see players/jayden_oosterwolde.json)."
   }
 }

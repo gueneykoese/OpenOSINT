@@ -102,24 +102,6 @@
   },
   "squad": [
     {
-      "name": "Ayase Ueda",
-      "position": "ST",
-      "secondary_positions": [],
-      "age": 28,
-      "nationality": "JPN",
-      "contract_until": null,
-      "shirt_no": null,
-      "role": "starter",
-      "stats_2025_26": {
-        "apps": null,
-        "starts": null,
-        "minutes": null,
-        "goals": 25,
-        "assists": null
-      },
-      "injury_flag": null
-    },
-    {
       "name": "Anel Ahmedhodzic",
       "position": "CB",
       "secondary_positions": [],
@@ -186,6 +168,26 @@
       "contract_until": null,
       "shirt_no": null,
       "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Reiss Nelson",
+      "position": "RW",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": 26,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": 24,
+      "role": "rotation",
       "stats_2025_26": {
         "apps": null,
         "starts": null,
@@ -267,6 +269,6 @@
   "as_of": "2026-09-02",
   "data_quality": {
     "confidence": "medium",
-    "notes": "SQUAD IS PARTIAL: only players whose presence in the 2026/27 squad is supported by a source found during research are listed; a full 20-26 man squad, shirt numbers, contract dates and per-player 2025/26 minutes could not be retrieved because the research session lost web access (search budget exhausted; fetch to transfermarkt/fbref/uefa/club sites blocked). Ages are computed from publicly known birth dates. League table (2nd, 65 pts, 19-8-7, 70-44), coach (Van Bronckhorst, 17 Jun 2026), UCL opponents (club statement 27 Aug 2026) and Ueda's 25 league goals are source-verified. Europa League exit round, full summer window (only Vanhoutte arrival verified), top assister, xG and wage/budget figures unverified. Identity/ownership text is from general public knowledge, not a fetched 2026 source."
+    "notes": "SQUAD IS PARTIAL: only players whose presence in the 2026/27 squad is supported by a source found during research are listed; a full 20-26 man squad, shirt numbers, contract dates and per-player 2025/26 minutes could not be retrieved because the research session lost web access (search budget exhausted; fetch to transfermarkt/fbref/uefa/club sites blocked). Ages are computed from publicly known birth dates. League table (2nd, 65 pts, 19-8-7, 70-44), coach (Van Bronckhorst, 17 Jun 2026), UCL opponents (club statement 27 Aug 2026) and Ueda's 25 league goals are source-verified. Europa League exit round, full summer window (only Vanhoutte arrival verified), top assister, xG and wage/budget figures unverified. Identity/ownership text is from general public knowledge, not a fetched 2026 source. | Reconciled 2026-09-02 with player-pool research: Ueda removed (joined LOSC Lille 1 Sep 2026, see players/ayase_ueda.json). | Reconciled 2026-09-02 with player-pool research: Reiss Nelson added (joined Feyenoord on a free, 1-year deal, see players/reiss_nelson.json)."
   }
 }

@@ -509,6 +509,24 @@
         "assists": null
       },
       "injury_flag": null
+    },
+    {
+      "name": "Curtis Jones",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": 25,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": 17,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
     }
   ],
   "strengths": [
@@ -598,6 +616,6 @@
   "as_of": "2026-09-02",
   "data_quality": {
     "confidence": "medium",
-    "notes": "Verified: Chivu as coach for 2026/27 (contract to 2027, extension expected), full Serie A line (87 pts, 27-6-5, 89-35), title clinched 3 May 2026, UCL draw, round-of-16 exit to Bodo/Glimt (aggregate not confirmed). NOT verified: Coppa Italia/Supercoppa results, top scorer/assister, and the ENTIRE summer-2026 window (lists left empty, not asserted as zero). Squad is the 2025/26 roster; several veterans (Acerbi, Mkhitaryan, Darmian, de Vrij, Sommer) were on expiring deals and may have left. Squad = last known first-team roster adjusted ONLY for summer-2026 moves that were source-verified; further unreported exits/loans may be missing. Per-player 2025/26 stats left null unless a source gave the number. Ages computed from public birthdates as of 2026-09-02. Research constraint: web fetch was blocked on all data sites (transfermarkt, fbref, uefa, wikipedia, club sites) and only search snippets were available."
+    "notes": "Verified: Chivu as coach for 2026/27 (contract to 2027, extension expected), full Serie A line (87 pts, 27-6-5, 89-35), title clinched 3 May 2026, UCL draw, round-of-16 exit to Bodo/Glimt (aggregate not confirmed). NOT verified: Coppa Italia/Supercoppa results, top scorer/assister, and the ENTIRE summer-2026 window (lists left empty, not asserted as zero). Squad is the 2025/26 roster; several veterans (Acerbi, Mkhitaryan, Darmian, de Vrij, Sommer) were on expiring deals and may have left. Squad = last known first-team roster adjusted ONLY for summer-2026 moves that were source-verified; further unreported exits/loans may be missing. Per-player 2025/26 stats left null unless a source gave the number. Ages computed from public birthdates as of 2026-09-02. Research constraint: web fetch was blocked on all data sites (transfermarkt, fbref, uefa, wikipedia, club sites) and only search snippets were available. | Reconciled 2026-09-02 with player-pool research: Curtis Jones added (joined Inter, official, contract to 2031, see players/curtis_jones.json)."
   }
 }

@@ -61,7 +61,28 @@
     "departures": [],
     "net_spend_eur_m": null
   },
-  "squad": [],
+  "squad": [
+    {
+      "name": "Jayden Oosterwolde",
+      "position": "CB",
+      "secondary_positions": [
+        "LB"
+      ],
+      "age": 25,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    }
+  ],
   "strengths": [],
   "weaknesses": [],
   "positional_needs": [],
@@ -74,6 +95,6 @@
   "as_of": "2026-09-02",
   "data_quality": {
     "confidence": "low",
-    "notes": "SKELETON — not researched: the session's web-search budget was exhausted before this club was reached and the egress proxy blocks football data sites. Only the pot (UEFA/ESPN pot announcement) and the draw opponents cross-referenced from other researched club files are recorded; opponent lists are therefore PARTIAL (only fixtures visible from the other side). Squad, coach, 2025/26 numbers and needs must be researched before this club can be used for matching."
+    "notes": "SKELETON — not researched: the session's web-search budget was exhausted before this club was reached and the egress proxy blocks football data sites. Only the pot (UEFA/ESPN pot announcement) and the draw opponents cross-referenced from other researched club files are recorded; opponent lists are therefore PARTIAL (only fixtures visible from the other side). Squad, coach, 2025/26 numbers and needs must be researched before this club can be used for matching. | Reconciled 2026-09-02 with player-pool research: Oosterwolde added (on loan at AS Roma with conditional obligation, see players/jayden_oosterwolde.json)."
   }
 }

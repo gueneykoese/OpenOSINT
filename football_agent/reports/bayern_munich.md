@@ -77,23 +77,30 @@ Profile: successor No.9, 21-25, penalty-box finisher able to learn behind Kane
 Why: Kane 33 with no senior back-up striker in the squad  
 Budget: €70m · wage ceiling €10m net
 
-- **Tomás Reyes (demo)** — 84.2/100 (strong match, confidence demo)
-  - Tomás Reyes (demo) → Bayern at ST: strong match (84.2/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (45).
-- **Nicolò Tresoldi** — 73.3/100 (good match, confidence medium)
-  - Nicolò Tresoldi → Bayern at ST: good match (73.3/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (45).
+- **Nicolò Tresoldi** — 85.0/100 (strong match, confidence medium)
+  - Nicolò Tresoldi → Bayern at ST: strong match (85.0/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
-- **Ayase Ueda** — 61.5/100 (possible, confidence low)
-  - Ayase Ueda → Bayern at ST: possible (61.5/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (45).
+- **Deniz Undav** — 81.1/100 (strong match, confidence medium)
+  - Deniz Undav → Bayern at ST: strong match (81.1/100). Driven by statistical fit and positional need; weakest area is age & contract (30).
+  - ⚠ Current club publicly not selling.
+- **Ayase Ueda** — 79.9/100 (strong match, confidence medium)
+  - Ayase Ueda → Bayern at ST: strong match (79.9/100). Driven by statistical fit and positional need; weakest area is age & contract (50).
+  - ⚠ Current club publicly not selling.
 
 ### DM — medium priority
 Profile: physical ball-winning No.6, 22-27  
 Why: Palhinha departed; Kimmich 31; Pavlovic/Bischof are still developing  
 Budget: €50m · wage ceiling €8m net
 
-- **João Azevedo (demo)** — 82.1/100 (strong match, confidence demo)
-  - João Azevedo (demo) → Bayern at DM: strong match (82.1/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (45).
-- **Victor Froholdt** — 58.5/100 (possible, confidence medium)
-  - Victor Froholdt → Bayern at DM: possible (58.5/100). Driven by financial feasibility and statistical fit; weakest area is positional need (45).
+- **Victor Froholdt** — 72.8/100 (good match, confidence medium)
+  - Victor Froholdt → Bayern at DM: good match (72.8/100). Driven by statistical fit and financial feasibility; weakest area is cultural adaptation (48).
+  - ⚠ Current club publicly not selling.
+- **Tyler Adams** — 71.1/100 (good match, confidence high)
+  - Tyler Adams → Bayern at DM: good match (71.1/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (45).
+  - ⚠ Current club publicly not selling.
+- **Gianluca Mancini** — 64.7/100 (possible, confidence high)
+  - Gianluca Mancini → Bayern at DM: possible (64.7/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
+  - ⚠ Documented discipline record (see mental_profile.notes).
   - ⚠ Current club publicly not selling.
 
 ### GK — medium priority
@@ -101,18 +108,26 @@ Profile: top-level GK ready to start within 12 months, sweeper-keeper
 Why: Neuer 40; Urbig (23) is unproven at UCL level  
 Budget: €35m · wage ceiling €6m net
 
-- **Alp Yıldız (demo)** — 82.3/100 (strong match, confidence demo)
-  - Alp Yıldız (demo) → Bayern at GK: strong match (82.3/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (56).
+- **Noah Atubolu** — 79.9/100 (strong match, confidence medium)
+  - Noah Atubolu → Bayern at GK: strong match (79.9/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
+  - ⚠ Current club publicly not selling.
+- **Alex Meret** — 66.0/100 (good match, confidence medium)
+  - Alex Meret → Bayern at GK: good match (66.0/100). Driven by positional need and financial feasibility; weakest area is statistical fit (38).
 
 ### RB — low priority
 Profile: specialist attacking RB  
 Why: Laimer is a midfielder by trade; Boey set to leave  
 Budget: €30m · wage ceiling €5m net
 
-- **Luca Ferraro (demo)** — 77.8/100 (good match, confidence demo)
-  - Luca Ferraro (demo) → Bayern at RB: good match (77.8/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
-- **Marcus Oyelaran (demo)** — 71.3/100 (good match, confidence demo)
-  - Marcus Oyelaran (demo) → Bayern at RB: good match (71.3/100). Driven by statistical fit and financial feasibility; weakest area is positional need (30).
+- **Chris Richards** — 71.9/100 (good match, confidence medium)
+  - Chris Richards → Bayern at RB: good match (71.9/100). Driven by statistical fit and financial feasibility; weakest area is positional need (30).
+  - ⚠ Current club publicly not selling.
+- **Fikayo Tomori** — 71.2/100 (good match, confidence medium)
+  - Fikayo Tomori → Bayern at RB: good match (71.2/100). Driven by statistical fit and financial feasibility; weakest area is positional need (30).
+- **Gianluca Mancini** — 62.9/100 (possible, confidence high)
+  - Gianluca Mancini → Bayern at RB: possible (62.9/100). Driven by statistical fit and financial feasibility; weakest area is positional need (30).
+  - ⚠ Documented discipline record (see mental_profile.notes).
+  - ⚠ Current club publicly not selling.
 
 ## Sources
 

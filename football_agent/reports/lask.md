@@ -79,12 +79,14 @@ Profile: physical No.9, 23-28, proven in a top-10 league
 Why: Kalajdžić loan ended, Entrup sold  
 Budget: €3m · wage ceiling €0.8m net
 
-- **Tomás Reyes (demo)** — 75.7/100 (good match, confidence demo)
-  - Tomás Reyes (demo) → LASK at ST: good match (75.7/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (45).
-- **Ayase Ueda** — 63.0/100 (possible, confidence low)
-  - Ayase Ueda → LASK at ST: possible (63.0/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (45).
-- **Nicolò Tresoldi** — 54.4/100 (possible, confidence medium)
-  - Nicolò Tresoldi → LASK at ST: possible (54.4/100). Driven by positional need and statistical fit; weakest area is financial feasibility (0).
+- **Nicolò Tresoldi** — 69.0/100 (good match, confidence medium)
+  - Nicolò Tresoldi → LASK at ST: good match (69.0/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
+  - ⚠ Current club publicly not selling.
+- **Ayase Ueda** — 65.9/100 (possible, confidence medium)
+  - Ayase Ueda → LASK at ST: possible (65.9/100). Driven by positional need and statistical fit; weakest area is financial feasibility (0).
+  - ⚠ Current club publicly not selling.
+- **Deniz Undav** — 64.0/100 (possible, confidence medium)
+  - Deniz Undav → LASK at ST: possible (64.0/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
 
 ### CB — high priority
@@ -92,18 +94,30 @@ Profile: right-footed, fast, 21-25, resale profile
 Why: Cisse sold to Aston Villa; Ziereis 33  
 Budget: €3m · wage ceiling €0.7m net
 
-- **Marcus Oyelaran (demo)** — 73.7/100 (good match, confidence demo)
-  - Marcus Oyelaran (demo) → LASK at CB: good match (73.7/100). Driven by positional need and statistical fit; weakest area is financial feasibility (12).
+- **Chris Richards** — 68.9/100 (good match, confidence medium)
+  - Chris Richards → LASK at CB: good match (68.9/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
+  - ⚠ Current club publicly not selling.
+- **Fikayo Tomori** — 68.6/100 (good match, confidence medium)
+  - Fikayo Tomori → LASK at CB: good match (68.6/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
+- **Jayden Oosterwolde** — 64.1/100 (possible, confidence high)
+  - Jayden Oosterwolde → LASK at CB: possible (64.1/100). Driven by statistical fit and positional need; weakest area is financial feasibility (8).
+  - ⚠ Documented discipline record (see mental_profile.notes).
+  - ⚠ Current club publicly not selling.
 
 ### RB — medium priority
 Profile: attacking full-back with UCL-level athleticism  
 Why: Only Tornich added; starters not verified  
 Budget: €2m · wage ceiling €0.5m net
 
-- **Marcus Oyelaran (demo)** — 73.7/100 (good match, confidence demo)
-  - Marcus Oyelaran (demo) → LASK at CB: good match (73.7/100). Driven by positional need and statistical fit; weakest area is financial feasibility (12).
-- **Luca Ferraro (demo)** — 68.1/100 (good match, confidence demo)
-  - Luca Ferraro (demo) → LASK at RB: good match (68.1/100). Driven by statistical fit and positional need; weakest area is financial feasibility (12).
+- **Fikayo Tomori** — 62.4/100 (possible, confidence medium)
+  - Fikayo Tomori → LASK at RB: possible (62.4/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
+- **Chris Richards** — 60.9/100 (possible, confidence medium)
+  - Chris Richards → LASK at RB: possible (60.9/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
+  - ⚠ Current club publicly not selling.
+- **Gianluca Mancini** — 56.0/100 (possible, confidence high)
+  - Gianluca Mancini → LASK at RB: possible (56.0/100). Driven by statistical fit and positional need; weakest area is financial feasibility (8).
+  - ⚠ Documented discipline record (see mental_profile.notes).
+  - ⚠ Current club publicly not selling.
 
 ## Sources
 

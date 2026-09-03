@@ -128,6 +128,7 @@ class CountryScores:
     name: str
     scores: dict[str, Optional[float]]
     proxy: Optional[str] = None
+    alias_of: Optional[str] = None
 
 
 @dataclass
@@ -140,7 +141,7 @@ class HofstedeModel:
 
     def __post_init__(self) -> None:
         for d in self.dimensions:
-            vals = [c.scores.get(d) for c in self.countries.values()]
+            vals = [c.scores.get(d) for c in self.countries.values() if not c.alias_of]
             vals = [float(v) for v in vals if isinstance(v, (int, float))]
             if len(vals) >= 2:
                 mean = sum(vals) / len(vals)
@@ -239,6 +240,7 @@ def load_model(
             name=v.get("name", code),
             scores={d: v.get(d) for d in DIMENSION_LABELS},
             proxy=v.get("proxy"),
+            alias_of=v.get("alias_of"),
         )
         for code, v in (raw.get("countries") or {}).items()
     }

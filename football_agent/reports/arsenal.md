@@ -2,7 +2,7 @@
 
 **Premier League (ENG) · Pot 1 · Coach: Mikel Arteta · System: 4-3-3**  
 Data confidence: `medium` · as of 2026-09-02
-> Coach, 2025/26 league table (85 pts, 26-7-5, 71-27), UCL final, cup results, draw opponents (home/away split) and the five permanent arrivals are source-verified via search snippets. Direct page fetches were blocked for every sports domain, so per-player apps/starts/minutes are null except Raya, Rice and Zubimendi; PL goals/assists come from end-of-season scorer lists. Squad list is the official 2026/27 squad-number release minus confirmed deadline-day exits (Jesus, Nwaneri, Setford, Vieira); Zinchenko's status is unconfirmed (listed for sale, no verified exit) and Havertz/Kepa/Rice/Zubimendi/Dowman shirt numbers were not in the retrieved snippet. Fabio Vieira destination conflicts between sources (Porto GBP 7.7m vs Hamburg). Fees converted GBP->EUR at ~1.16 (Guimaraes GBP 75m, Konsa GBP 51m+4m, Hincapie GBP 34.5m, Tzolis GBP 34m; Kiwior EUR 17m+5m; Trossard GBP 15.3-17m; Jesus GBP 8.6m initial; Norgaard GBP 7m); net spend from Sports Mole GBP 194.5m in / 39.6m out. Contract expiry years are null except Konsa (4-year deal to 2030) and Martinelli (2027). Ages computed from public dates of birth as of 2026-09-02. Position benchmarks left null: no per-90 data was retrievable. Possession % not found.
+> Coach, 2025/26 league table (85 pts, 26-7-5, 71-27), UCL final, cup results, draw opponents (home/away split) and the five permanent arrivals are source-verified via search snippets. Direct page fetches were blocked for every sports domain, so per-player apps/starts/minutes are null except Raya, Rice and Zubimendi; PL goals/assists come from end-of-season scorer lists. Squad list is the official 2026/27 squad-number release minus confirmed deadline-day exits (Jesus, Nwaneri, Setford, Vieira); Zinchenko's status is unconfirmed (listed for sale, no verified exit) and Havertz/Kepa/Rice/Zubimendi/Dowman shirt numbers were not in the retrieved snippet. Fabio Vieira destination conflicts between sources (Porto GBP 7.7m vs Hamburg). Fees converted GBP->EUR at ~1.16 (Guimaraes GBP 75m, Konsa GBP 51m+4m, Hincapie GBP 34.5m, Tzolis GBP 34m; Kiwior EUR 17m+5m; Trossard GBP 15.3-17m; Jesus GBP 8.6m initial; Norgaard GBP 7m); net spend from Sports Mole GBP 194.5m in / 39.6m out. Contract expiry years are null except Konsa (4-year deal to 2030) and Martinelli (2027). Ages computed from public dates of birth as of 2026-09-02. Position benchmarks left null: no per-90 data was retrievable. Possession % not found. | Reconciled 2026-09-02 with player-pool research: Reiss Nelson removed (joined Feyenoord on a free, 1-year deal, see players/reiss_nelson.json). | UNRESOLVED: player-pool research (low confidence) reports Martinelli agreed a move to Al Hilal and Zinchenko was released by Ajax on 30 Jun 2026; both are still listed here pending an official source.
 
 ## 2025/26 in numbers
 
@@ -79,9 +79,8 @@ Character: Fully owned by Kroenke Sports & Entertainment since the 2018 compulso
 | Kai Havertz | ST | 27 | GER | n/a | rotation | n/a | 2 | n/a |
 | Bukayo Saka | RW | 24 | ENG | n/a | starter | n/a | 7 | 3 |
 | Noni Madueke | RW | 23 | ENG | n/a | rotation | n/a | 3 | n/a |
-| Gabriel Martinelli | LW | 25 | BRA | 2027 | starter | n/a | 1 | n/a |
+| Gabriel Martinelli | LW | 25 | BRA | 2027 | rotation | n/a | 1 | n/a |
 | Christos Tzolis | LW | 24 | GRE | n/a | rotation | n/a | n/a | n/a |
-| Reiss Nelson | RW | 26 | ENG | n/a | backup | n/a | n/a | n/a |
 | Viktor Gyokeres | ST | 28 | SWE | n/a | starter | n/a | 14 | n/a |
 | Max Dowman | AM | 16 | ENG | n/a | prospect | n/a | 1 | n/a |
 
@@ -92,12 +91,13 @@ Profile: left-footed or inverted left winger with 10+ goal output, 21-26, PL-ada
 Why: Trossard sold, Martinelli managed 1 PL goal and his deal ends 2027; Eze injured; Tzolis unproven  
 Budget: €60m · wage ceiling €7m net
 
-- **Kaan Demirel (demo)** — 96.3/100 (strong match, confidence demo)
-  - Kaan Demirel (demo) → Arsenal at LW: strong match (96.3/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (85).
-- **Emre Kaya (demo)** — 76.2/100 (good match, confidence demo)
-  - Emre Kaya (demo) → Arsenal at LW: good match (76.2/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (45).
-- **Rodrigo Mora** — 62.9/100 (possible, confidence medium)
-  - Rodrigo Mora → Arsenal at LW: possible (62.9/100). Driven by positional need and statistical fit; weakest area is statistical fit (50).
+- **Christoph Baumgartner** — 80.1/100 (strong match, confidence medium)
+  - Christoph Baumgartner → Arsenal at LW: strong match (80.1/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
+  - ⚠ Current club publicly not selling.
+- **Archie Brown** — 79.6/100 (strong match, confidence medium)
+  - Archie Brown → Arsenal at LW: strong match (79.6/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Ansgar Knauff** — 78.8/100 (strong match, confidence medium)
+  - Ansgar Knauff → Arsenal at LW: strong match (78.8/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
 
 ### RB — medium priority
@@ -105,31 +105,40 @@ Profile: athletic right-back comfortable inverting, 22-27, strong 1v1 defender
 Why: Timber's recurring groin problem and White's decline leave the right side dependent on converted centre-backs  
 Budget: €45m · wage ceiling €5m net
 
-- **Luca Ferraro (demo)** — 88.2/100 (strong match, confidence demo)
-  - Luca Ferraro (demo) → Arsenal at RB: strong match (88.2/100). Driven by statistical fit and positional need; weakest area is age & contract (75).
-- **Marcus Oyelaran (demo)** — 82.7/100 (strong match, confidence demo)
-  - Marcus Oyelaran (demo) → Arsenal at RB: strong match (82.7/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
+- **Chris Richards** — 81.1/100 (strong match, confidence medium)
+  - Chris Richards → Arsenal at RB: strong match (81.1/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (50).
+  - ⚠ Current club publicly not selling.
+- **Fikayo Tomori** — 78.8/100 (strong match, confidence medium)
+  - Fikayo Tomori → Arsenal at RB: strong match (78.8/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
+- **Tyler Adams** — 71.7/100 (good match, confidence high)
+  - Tyler Adams → Arsenal at RB: good match (71.7/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (58).
+  - ⚠ Current club publicly not selling.
 
 ### ST — medium priority
 Profile: mobile second striker / rotation No. 9, 20-25, pressing profile  
 Why: Jesus sold to Barcelona; Havertz injury history; Gyokeres has no natural deputy  
 Budget: €40m · wage ceiling €5m net
 
-- **Tomás Reyes (demo)** — 83.6/100 (strong match, confidence demo)
-  - Tomás Reyes (demo) → Arsenal at ST: strong match (83.6/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (60).
-- **Nicolò Tresoldi** — 65.5/100 (possible, confidence medium)
-  - Nicolò Tresoldi → Arsenal at ST: possible (65.5/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (45).
+- **Nicolò Tresoldi** — 76.9/100 (good match, confidence medium)
+  - Nicolò Tresoldi → Arsenal at ST: good match (76.9/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
-- **Ayase Ueda** — 54.5/100 (possible, confidence low)
-  - Ayase Ueda → Arsenal at ST: possible (54.5/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (45).
+- **Ayase Ueda** — 72.8/100 (good match, confidence medium)
+  - Ayase Ueda → Arsenal at ST: good match (72.8/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (50).
+  - ⚠ Current club publicly not selling.
+- **Deniz Undav** — 70.7/100 (good match, confidence medium)
+  - Deniz Undav → Arsenal at ST: good match (70.7/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
+  - ⚠ Current club publicly not selling.
 
 ### GK — low priority
 Profile: young sweeper-keeper, 21-25, to succeed Raya (31 in Sept 2026)  
 Why: Kepa is a short-term backup; Meslier signed as free-transfer cover; Setford loaned out  
 Budget: €25m · wage ceiling €3m net
 
-- **Alp Yıldız (demo)** — 80.1/100 (strong match, confidence demo)
-  - Alp Yıldız (demo) → Arsenal at GK: strong match (80.1/100). Driven by statistical fit and financial feasibility; weakest area is positional need (56).
+- **Noah Atubolu** — 74.5/100 (good match, confidence medium)
+  - Noah Atubolu → Arsenal at GK: good match (74.5/100). Driven by statistical fit and financial feasibility; weakest area is positional need (53).
+  - ⚠ Current club publicly not selling.
+- **Alex Meret** — 54.8/100 (possible, confidence medium)
+  - Alex Meret → Arsenal at GK: possible (54.8/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (21).
 
 ## Sources
 

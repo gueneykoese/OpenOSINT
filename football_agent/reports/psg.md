@@ -83,29 +83,42 @@ Profile: mobile, pressing centre-forward with 0.5+ goals p90, 21-26, comfortable
 Why: Barcola, Ramos and Kolo Muani all left in 2026; Torres is the only senior striker profile  
 Budget: €80m · wage ceiling €12m net
 
-- **Tomás Reyes (demo)** — 87.6/100 (strong match, confidence demo)
-  - Tomás Reyes (demo) → PSG at ST: strong match (87.6/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (60).
-- **Nicolò Tresoldi** — 71.8/100 (good match, confidence medium)
-  - Nicolò Tresoldi → PSG at ST: good match (71.8/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (45).
+- **Nicolò Tresoldi** — 82.2/100 (strong match, confidence medium)
+  - Nicolò Tresoldi → PSG at ST: strong match (82.2/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
-- **Ayase Ueda** — 60.6/100 (possible, confidence low)
-  - Ayase Ueda → PSG at ST: possible (60.6/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (45).
+- **Ayase Ueda** — 80.9/100 (strong match, confidence medium)
+  - Ayase Ueda → PSG at ST: strong match (80.9/100). Driven by statistical fit and positional need; weakest area is age & contract (50).
+  - ⚠ Current club publicly not selling.
+- **Deniz Undav** — 76.7/100 (good match, confidence medium)
+  - Deniz Undav → PSG at ST: good match (76.7/100). Driven by statistical fit and positional need; weakest area is age & contract (30).
+  - ⚠ Current club publicly not selling.
 
 ### CB — medium priority
 Profile: left-footed ball-playing CB, 21-25, high resale value  
 Why: Marquinhos 32 and Hernandez 30; Kamara departed; succession planning  
 Budget: €50m · wage ceiling €7m net
 
-- **Marcus Oyelaran (demo)** — 81.2/100 (strong match, confidence demo)
-  - Marcus Oyelaran (demo) → PSG at CB: strong match (81.2/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
+- **Jayden Oosterwolde** — 74.9/100 (good match, confidence high)
+  - Jayden Oosterwolde → PSG at CB: good match (74.9/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (20).
+  - ⚠ Documented discipline record (see mental_profile.notes).
+  - ⚠ Current club publicly not selling.
+- **Fikayo Tomori** — 74.0/100 (good match, confidence medium)
+  - Fikayo Tomori → PSG at CB: good match (74.0/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
+- **Chris Richards** — 73.8/100 (good match, confidence medium)
+  - Chris Richards → PSG at CB: good match (73.8/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
+  - ⚠ Current club publicly not selling.
 
 ### LB — low priority
 Profile: young athletic LB to understudy Nuno Mendes  
 Why: Digne (33) signed as a one-to-two-season stopgap  
 Budget: €25m · wage ceiling €4m net
 
-- **Emre Kaya (demo)** — 72.0/100 (good match, confidence demo)
-  - Emre Kaya (demo) → PSG at LB: good match (72.0/100). Driven by statistical fit and financial feasibility; weakest area is cultural adaptation (45).
+- **Alejandro Grimaldo** — 66.3/100 (good match, confidence medium)
+  - Alejandro Grimaldo → PSG at LB: good match (66.3/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (45).
+- **Archie Brown** — 65.0/100 (possible, confidence medium)
+  - Archie Brown → PSG at LB: possible (65.0/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (48).
+- **Oleksandr Zinchenko** — 64.2/100 (possible, confidence medium)
+  - Oleksandr Zinchenko → PSG at LB: possible (64.2/100). Driven by financial feasibility and tactical / system fit; weakest area is age & contract (30).
 
 ## Sources
 

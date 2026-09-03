@@ -164,6 +164,24 @@
         "assists": null
       },
       "injury_flag": null
+    },
+    {
+      "name": "Ayase Ueda",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": 28,
+      "nationality": "JPN",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 25,
+        "assists": null
+      },
+      "injury_flag": null
     }
   ],
   "strengths": [
@@ -238,6 +256,6 @@
   "as_of": "2026-09-02",
   "data_quality": {
     "confidence": "low",
-    "notes": "SQUAD IS PARTIAL: only players whose presence in the 2026/27 squad is supported by a source found during research are listed; a full 20-26 man squad, shirt numbers, contract dates and per-player 2025/26 minutes could not be retrieved because the research session lost web access (search budget exhausted; fetch to transfermarkt/fbref/uefa/club sites blocked). Ages are computed from publicly known birth dates. UCL DRAW: the eight opponents are verified (Bayern Munich, Arsenal, Real Betis, AS Roma, Galatasaray, Bodø/Glimt, Slovan Bratislava, VfB Stuttgart) but only two venues could be confirmed (away at Roma and at Bodø/Glimt, from those clubs' draw reports); home list left empty per brief. League: 3rd with 61 pts verified (PSG 76, Lens 70); W/D/L and goals not retrieved. Summer window: totals (8 in for EUR 42m, 21 out for EUR 175.25m) verified via Le Petit Lillois; only three arrivals named; departures list not retrieved. Ancelotti's formation unverified."
+    "notes": "SQUAD IS PARTIAL: only players whose presence in the 2026/27 squad is supported by a source found during research are listed; a full 20-26 man squad, shirt numbers, contract dates and per-player 2025/26 minutes could not be retrieved because the research session lost web access (search budget exhausted; fetch to transfermarkt/fbref/uefa/club sites blocked). Ages are computed from publicly known birth dates. UCL DRAW: the eight opponents are verified (Bayern Munich, Arsenal, Real Betis, AS Roma, Galatasaray, Bodø/Glimt, Slovan Bratislava, VfB Stuttgart) but only two venues could be confirmed (away at Roma and at Bodø/Glimt, from those clubs' draw reports); home list left empty per brief. League: 3rd with 61 pts verified (PSG 76, Lens 70); W/D/L and goals not retrieved. Summer window: totals (8 in for EUR 42m, 21 out for EUR 175.25m) verified via Le Petit Lillois; only three arrivals named; departures list not retrieved. Ancelotti's formation unverified. | Reconciled 2026-09-02 with player-pool research: Ueda added (joined LOSC Lille 1 Sep 2026, see players/ayase_ueda.json)."
   }
 }

@@ -97,23 +97,29 @@ Profile: pressing No.9 comfortable in possession, 22-27
 Why: Only Douvikas and Kean after Morata/Gabrielloni exits  
 Budget: €25m · wage ceiling €3m net
 
-- **Tomás Reyes (demo)** — 83.0/100 (strong match, confidence demo)
-  - Tomás Reyes (demo) → Como at ST: strong match (83.0/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (61).
-- **Nicolò Tresoldi** — 57.2/100 (possible, confidence medium)
-  - Nicolò Tresoldi → Como at ST: possible (57.2/100). Driven by positional need and statistical fit; weakest area is financial feasibility (27).
+- **Ayase Ueda** — 69.1/100 (good match, confidence medium)
+  - Ayase Ueda → Como at ST: good match (69.1/100). Driven by statistical fit and positional need; weakest area is financial feasibility (50).
   - ⚠ Current club publicly not selling.
-- **Ayase Ueda** — 56.2/100 (possible, confidence low)
-  - Ayase Ueda → Como at ST: possible (56.2/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (45).
+- **Jonathan David** — 68.8/100 (good match, confidence medium)
+  - Jonathan David → Como at ST: good match (68.8/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Nicolò Tresoldi** — 68.8/100 (good match, confidence medium)
+  - Nicolò Tresoldi → Como at ST: good match (68.8/100). Driven by statistical fit and positional need; weakest area is financial feasibility (22).
+  - ⚠ Current club publicly not selling.
 
 ### DM — medium priority
 Profile: ball-winning pivot with elite passing, 21-26  
 Why: Perrone/Ricci/Da Cunha all more distributor than destroyer; UCL demands more defensive cover  
 Budget: €20m · wage ceiling €2.5m net
 
-- **João Azevedo (demo)** — 82.0/100 (strong match, confidence demo)
-  - João Azevedo (demo) → Como at DM: strong match (82.0/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (58).
-- **Victor Froholdt** — 49.0/100 (weak, confidence medium)
-  - Victor Froholdt → Como at DM: weak (49.0/100). Driven by positional need and statistical fit; weakest area is financial feasibility (13).
+- **Victor Froholdt** — 63.4/100 (possible, confidence medium)
+  - Victor Froholdt → Como at DM: possible (63.4/100). Driven by statistical fit and tactical / system fit; weakest area is financial feasibility (0).
+  - ⚠ Current club publicly not selling.
+- **Dani Ceballos** — 63.0/100 (possible, confidence medium)
+  - Dani Ceballos → Como at DM: possible (63.0/100). Driven by financial feasibility and tactical / system fit; weakest area is age & contract (30).
+  - ⚠ Current club publicly not selling.
+- **Gianluca Mancini** — 63.0/100 (possible, confidence high)
+  - Gianluca Mancini → Como at DM: possible (63.0/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
+  - ⚠ Documented discipline record (see mental_profile.notes).
   - ⚠ Current club publicly not selling.
 
 ### LB — low priority
@@ -121,8 +127,14 @@ Profile: inverted-capable, left-footed
 Why: Kaiki new to Europe; Valle sole experienced option  
 Budget: €12m · wage ceiling €1.5m net
 
-- **Emre Kaya (demo)** — 70.8/100 (good match, confidence demo)
-  - Emre Kaya (demo) → Como at LB: good match (70.8/100). Driven by statistical fit and financial feasibility; weakest area is cultural adaptation (45).
+- **Oleksandr Zinchenko** — 63.6/100 (possible, confidence medium)
+  - Oleksandr Zinchenko → Como at LB: possible (63.6/100). Driven by financial feasibility and tactical / system fit; weakest area is age & contract (30).
+- **Jayden Oosterwolde** — 62.1/100 (possible, confidence high)
+  - Jayden Oosterwolde → Como at LB: possible (62.1/100). Driven by statistical fit and tactical / system fit; weakest area is mentality & chemistry (20).
+  - ⚠ Documented discipline record (see mental_profile.notes).
+  - ⚠ Current club publicly not selling.
+- **Alejandro Grimaldo** — 60.3/100 (possible, confidence medium)
+  - Alejandro Grimaldo → Como at LB: possible (60.3/100). Driven by positional need and tactical / system fit; weakest area is age & contract (45).
 
 ## Sources
 

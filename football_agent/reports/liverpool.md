@@ -2,7 +2,7 @@
 
 **Premier League (ENG) · Pot 1 · Coach: n/a · System: n/a**  
 Data confidence: `low` · as of 2026-09-02
-> Verified: 5th place, 17W-9D-12L, 60 pts, +10 GD, 53 GA (GF=63 derived), Slot sacked 30 May 2026, UCL draw, Barcola arrival (GBP 106m guaranteed + GBP 17m add-ons, 5-year deal). HEAD COACH UNVERIFIED: Andoni Iraola was reported as the leading candidate but no appointment could be confirmed, so the name is null - this must be checked before use. UCL 2025/26 exit round, domestic cup results, top scorer, and all other summer-2026 arrivals/departures unverified (Barcola's 11 goals figure is his 2025/26 Ligue 1 total at PSG). Squad = last known first-team roster adjusted ONLY for summer-2026 moves that were source-verified; further unreported exits/loans may be missing. Per-player 2025/26 stats left null unless a source gave the number. Ages computed from public birthdates as of 2026-09-02. Research constraint: web fetch was blocked on all data sites (transfermarkt, fbref, uefa, wikipedia, club sites) and only search snippets were available.
+> Verified: 5th place, 17W-9D-12L, 60 pts, +10 GD, 53 GA (GF=63 derived), Slot sacked 30 May 2026, UCL draw, Barcola arrival (GBP 106m guaranteed + GBP 17m add-ons, 5-year deal). HEAD COACH UNVERIFIED: Andoni Iraola was reported as the leading candidate but no appointment could be confirmed, so the name is null - this must be checked before use. UCL 2025/26 exit round, domestic cup results, top scorer, and all other summer-2026 arrivals/departures unverified (Barcola's 11 goals figure is his 2025/26 Ligue 1 total at PSG). Squad = last known first-team roster adjusted ONLY for summer-2026 moves that were source-verified; further unreported exits/loans may be missing. Per-player 2025/26 stats left null unless a source gave the number. Ages computed from public birthdates as of 2026-09-02. Research constraint: web fetch was blocked on all data sites (transfermarkt, fbref, uefa, wikipedia, club sites) and only search snippets were available. | Reconciled 2026-09-02 with player-pool research: Curtis Jones removed (joined Inter, official, contract to 2031, see players/curtis_jones.json).
 
 ## 2025/26 in numbers
 
@@ -57,7 +57,6 @@ Character: US private ownership (FSG) with a data-driven, financially prudent mo
 | Ryan Gravenberch | DM | 24 | NED | n/a | starter | n/a | n/a | n/a |
 | Alexis Mac Allister | CM | 27 | ARG | n/a | starter | n/a | n/a | n/a |
 | Dominik Szoboszlai | CM | 25 | HUN | n/a | starter | n/a | n/a | n/a |
-| Curtis Jones | CM | 25 | ENG | n/a | rotation | n/a | n/a | n/a |
 | Wataru Endo | DM | 33 | JPN | n/a | backup | n/a | n/a | n/a |
 | Florian Wirtz | AM | 23 | GER | n/a | starter | n/a | n/a | n/a |
 | Mohamed Salah | RW | 34 | EGY | n/a | starter | n/a | n/a | n/a |
@@ -75,18 +74,29 @@ Profile: left-sided commanding CB, 22-26, aerially dominant, Premier League-read
 Why: Van Dijk 35; 53 goals conceded in 2025/26; Leoni (19) not yet ready  
 Budget: €70m · wage ceiling €8m net
 
-- **Marcus Oyelaran (demo)** — 89.2/100 (strong match, confidence demo)
-  - Marcus Oyelaran (demo) → Liverpool at CB: strong match (89.2/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
+- **Chris Richards** — 86.2/100 (strong match, confidence medium)
+  - Chris Richards → Liverpool at CB: strong match (86.2/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (50).
+  - ⚠ Current club publicly not selling.
+- **Fikayo Tomori** — 82.6/100 (strong match, confidence medium)
+  - Fikayo Tomori → Liverpool at CB: strong match (82.6/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+- **Jayden Oosterwolde** — 78.0/100 (strong match, confidence medium)
+  - Jayden Oosterwolde → Liverpool at CB: strong match (78.0/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (20).
+  - ⚠ Documented discipline record (see mental_profile.notes).
+  - ⚠ Current club publicly not selling.
 
 ### DM — high priority
 Profile: ball-winning No.6 with 3+ tackles+interceptions p90, 22-27  
 Why: Endo 33; Gravenberch better as a progressive No.8; defensive transition exposed all season  
 Budget: €60m · wage ceiling €7m net
 
-- **João Azevedo (demo)** — 84.5/100 (strong match, confidence demo)
-  - João Azevedo (demo) → Liverpool at DM: strong match (84.5/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
-- **Victor Froholdt** — 66.4/100 (good match, confidence medium)
-  - Victor Froholdt → Liverpool at DM: good match (66.4/100). Driven by financial feasibility and positional need; weakest area is cultural adaptation (45).
+- **Victor Froholdt** — 81.0/100 (strong match, confidence medium)
+  - Victor Froholdt → Liverpool at DM: strong match (81.0/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (70).
+  - ⚠ Current club publicly not selling.
+- **Tyler Adams** — 77.3/100 (good match, confidence medium)
+  - Tyler Adams → Liverpool at DM: good match (77.3/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
+  - ⚠ Current club publicly not selling.
+- **Curtis Jones** — 73.1/100 (good match, confidence medium)
+  - Curtis Jones → Liverpool at DM: good match (73.1/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
   - ⚠ Current club publicly not selling.
 
 ### GK — medium priority
@@ -94,20 +104,25 @@ Profile: succession No.1
 Why: Alisson 33; Mamardashvili still to establish himself as starter  
 Budget: €n/am · wage ceiling €n/am net
 
-- **Alp Yıldız (demo)** — 81.8/100 (strong match, confidence demo)
-  - Alp Yıldız (demo) → Liverpool at GK: strong match (81.8/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
+- **Noah Atubolu** — 80.5/100 (strong match, confidence medium)
+  - Noah Atubolu → Liverpool at GK: strong match (80.5/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
+  - ⚠ Current club publicly not selling.
+- **Alex Meret** — 65.0/100 (possible, confidence medium)
+  - Alex Meret → Liverpool at GK: possible (65.0/100). Driven by financial feasibility and positional need; weakest area is statistical fit (38).
 
 ### RW — medium priority
 Profile: long-term Salah successor, 21-25  
 Why: Salah 34; Chiesa is a backup  
 Budget: €60m · wage ceiling €7m net
 
-- **Tomás Reyes (demo)** — 78.5/100 (strong match, confidence demo)
-  - Tomás Reyes (demo) → Liverpool at RW: strong match (78.5/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
-- **Sofian Belkacem (demo)** — 76.4/100 (good match, confidence demo)
-  - Sofian Belkacem (demo) → Liverpool at RW: good match (76.4/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
-- **Luca Ferraro (demo)** — 70.6/100 (good match, confidence demo)
-  - Luca Ferraro (demo) → Liverpool at RW: good match (70.6/100). Driven by financial feasibility and statistical fit; weakest area is tactical / system fit (50).
+- **Ansgar Knauff** — 72.4/100 (good match, confidence medium)
+  - Ansgar Knauff → Liverpool at RW: good match (72.4/100). Driven by positional need and financial feasibility; weakest area is tactical / system fit (50).
+  - ⚠ Current club publicly not selling.
+- **Christoph Baumgartner** — 72.4/100 (good match, confidence medium)
+  - Christoph Baumgartner → Liverpool at RW: good match (72.4/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
+  - ⚠ Current club publicly not selling.
+- **Brahim Díaz** — 69.8/100 (good match, confidence medium)
+  - Brahim Díaz → Liverpool at RW: good match (69.8/100). Driven by financial feasibility and statistical fit; weakest area is tactical / system fit (50).
 
 ## Sources
 

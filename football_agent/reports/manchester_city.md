@@ -74,28 +74,44 @@ Profile: specialist RB able to invert or hold width, 21-26
 Why: No natural RB since Walker's exit; Lewis/Nunes are conversions  
 Budget: €60m · wage ceiling €8m net
 
-- **Luca Ferraro (demo)** — 89.0/100 (strong match, confidence demo)
-  - Luca Ferraro (demo) → Man City at RB: strong match (89.0/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (60).
-- **Marcus Oyelaran (demo)** — 86.3/100 (strong match, confidence demo)
-  - Marcus Oyelaran (demo) → Man City at CB: strong match (86.3/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (60).
+- **Chris Richards** — 87.0/100 (strong match, confidence medium)
+  - Chris Richards → Man City at RB: strong match (87.0/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (50).
+  - ⚠ Current club publicly not selling.
+- **Fikayo Tomori** — 81.8/100 (strong match, confidence medium)
+  - Fikayo Tomori → Man City at RB: strong match (81.8/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
+- **Tyler Adams** — 75.3/100 (good match, confidence high)
+  - Tyler Adams → Man City at RB: good match (75.3/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (58).
+  - ⚠ Current club publicly not selling.
 
 ### CB — medium priority
 Profile: right-footed ball-playing CB, 22-26, aerially strong  
 Why: Stones departed; Ake 31; Dias 29 - only Gvardiol/Khusanov are young  
 Budget: €60m · wage ceiling €8m net
 
-- **Marcus Oyelaran (demo)** — 86.3/100 (strong match, confidence demo)
-  - Marcus Oyelaran (demo) → Man City at CB: strong match (86.3/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (60).
+- **Chris Richards** — 85.6/100 (strong match, confidence medium)
+  - Chris Richards → Man City at CB: strong match (85.6/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (50).
+  - ⚠ Current club publicly not selling.
+- **Fikayo Tomori** — 79.8/100 (strong match, confidence medium)
+  - Fikayo Tomori → Man City at CB: strong match (79.8/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
+- **Jayden Oosterwolde** — 73.7/100 (good match, confidence high)
+  - Jayden Oosterwolde → Man City at CB: good match (73.7/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (20).
+  - ⚠ Documented discipline record (see mental_profile.notes).
+  - ⚠ Current club publicly not selling.
 
 ### DM — medium priority
 Profile: Rodri understudy with elite passing under pressure  
 Why: Rodri 30 with major injury history; Nico Gonzalez the only alternative  
 Budget: €50m · wage ceiling €7m net
 
-- **João Azevedo (demo)** — 79.2/100 (strong match, confidence demo)
-  - João Azevedo (demo) → Man City at DM: strong match (79.2/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (58).
-- **Victor Froholdt** — 59.7/100 (possible, confidence medium)
-  - Victor Froholdt → Man City at DM: possible (59.7/100). Driven by financial feasibility and positional need; weakest area is cultural adaptation (45).
+- **Victor Froholdt** — 76.2/100 (good match, confidence medium)
+  - Victor Froholdt → Man City at DM: good match (76.2/100). Driven by statistical fit and positional need; weakest area is age & contract (50).
+  - ⚠ Current club publicly not selling.
+- **Tyler Adams** — 75.2/100 (good match, confidence high)
+  - Tyler Adams → Man City at DM: good match (75.2/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (58).
+  - ⚠ Current club publicly not selling.
+- **Gianluca Mancini** — 72.5/100 (good match, confidence high)
+  - Gianluca Mancini → Man City at DM: good match (72.5/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (35).
+  - ⚠ Documented discipline record (see mental_profile.notes).
   - ⚠ Current club publicly not selling.
 
 ### ST — low priority
@@ -103,13 +119,15 @@ Profile: rotation No.9 or false-nine profile
 Why: Marmoush the only cover for Haaland  
 Budget: €40m · wage ceiling €6m net
 
-- **Tomás Reyes (demo)** — 76.3/100 (good match, confidence demo)
-  - Tomás Reyes (demo) → Man City at ST: good match (76.3/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
-- **Nicolò Tresoldi** — 61.2/100 (possible, confidence medium)
-  - Nicolò Tresoldi → Man City at ST: possible (61.2/100). Driven by financial feasibility and statistical fit; weakest area is positional need (45).
+- **Deniz Undav** — 72.1/100 (good match, confidence medium)
+  - Deniz Undav → Man City at ST: good match (72.1/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
   - ⚠ Current club publicly not selling.
-- **Ayase Ueda** — 54.3/100 (possible, confidence low)
-  - Ayase Ueda → Man City at ST: possible (54.3/100). Driven by statistical fit and positional need; weakest area is positional need (45).
+- **Ayase Ueda** — 69.7/100 (good match, confidence medium)
+  - Ayase Ueda → Man City at ST: good match (69.7/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
+  - ⚠ Current club publicly not selling.
+- **Nicolò Tresoldi** — 69.5/100 (good match, confidence medium)
+  - Nicolò Tresoldi → Man City at ST: good match (69.5/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
+  - ⚠ Current club publicly not selling.
 
 ## Sources
 

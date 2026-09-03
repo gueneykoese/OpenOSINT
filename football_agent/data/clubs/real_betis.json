@@ -57,7 +57,26 @@
     "departures": [],
     "net_spend_eur_m": null
   },
-  "squad": [],
+  "squad": [
+    {
+      "name": "Dani Ceballos",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": 30,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 19,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    }
+  ],
   "strengths": [],
   "weaknesses": [],
   "positional_needs": [],
@@ -86,6 +105,6 @@
   "as_of": "2026-09-02",
   "data_quality": {
     "confidence": "low",
-    "notes": "PLACEHOLDER - NOT RESEARCHED. The session-wide WebSearch budget (200 calls) was exhausted before this club could be researched, and WebFetch/curl are blocked by the network egress proxy for all football data domains tested (transfermarkt, fbref, fotmob, sofascore, flashscore, espn, bbc, skysports, wikipedia, uefa, club site). Only stable identity fields (name, country, league, city, Pot 2 as stated in the brief) are filled; all 2026/27 squad, coach, summer-window, last-season and UCL-draw fields are intentionally null/empty rather than populated from unverified memory, in line with the no-invented-data rule. Re-run research for this club once search budget is available."
+    "notes": "PLACEHOLDER - NOT RESEARCHED. The session-wide WebSearch budget (200 calls) was exhausted before this club could be researched, and WebFetch/curl are blocked by the network egress proxy for all football data domains tested (transfermarkt, fbref, fotmob, sofascore, flashscore, espn, bbc, skysports, wikipedia, uefa, club site). Only stable identity fields (name, country, league, city, Pot 2 as stated in the brief) are filled; all 2026/27 squad, coach, summer-window, last-season and UCL-draw fields are intentionally null/empty rather than populated from unverified memory, in line with the no-invented-data rule. Re-run research for this club once search budget is available. | Reconciled 2026-09-02 with player-pool research: Ceballos added (joined Real Betis on a free 1 Sep 2026, see players/dani_ceballos.json)."
   }
 }

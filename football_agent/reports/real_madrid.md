@@ -2,7 +2,7 @@
 
 **La Liga (ESP) · Pot 1 · Coach: José Mourinho · System: 4-2-3-1**  
 Data confidence: `low` · as of 2026-09-02
-> Verified: Mourinho appointed 11 June 2026 (contract to 30 June 2029, joined 13 July), 2nd in La Liga behind Barcelona (title decided 10 May 2026, Barcelona 2-0 Real Madrid), Mbappe 25 league goals as top scorer, UCL draw opponents. NOT verified: points/W/D/L/GF/GA, Copa del Rey result, the UCL quarter-final opponent, and the ENTIRE summer-2026 window (arrivals/departures lists left empty, not asserted as zero). Squad is therefore the 2025/26 roster and may be materially out of date. Mourinho's preferred formation is inferred from his career, not from 2026/27 matches. Squad = last known first-team roster adjusted ONLY for summer-2026 moves that were source-verified; further unreported exits/loans may be missing. Per-player 2025/26 stats left null unless a source gave the number. Ages computed from public birthdates as of 2026-09-02. Research constraint: web fetch was blocked on all data sites (transfermarkt, fbref, uefa, wikipedia, club sites) and only search snippets were available.
+> Verified: Mourinho appointed 11 June 2026 (contract to 30 June 2029, joined 13 July), 2nd in La Liga behind Barcelona (title decided 10 May 2026, Barcelona 2-0 Real Madrid), Mbappe 25 league goals as top scorer, UCL draw opponents. NOT verified: points/W/D/L/GF/GA, Copa del Rey result, the UCL quarter-final opponent, and the ENTIRE summer-2026 window (arrivals/departures lists left empty, not asserted as zero). Squad is therefore the 2025/26 roster and may be materially out of date. Mourinho's preferred formation is inferred from his career, not from 2026/27 matches. Squad = last known first-team roster adjusted ONLY for summer-2026 moves that were source-verified; further unreported exits/loans may be missing. Per-player 2025/26 stats left null unless a source gave the number. Ages computed from public birthdates as of 2026-09-02. Research constraint: web fetch was blocked on all data sites (transfermarkt, fbref, uefa, wikipedia, club sites) and only search snippets were available. | Reconciled 2026-09-02 with player-pool research: Ceballos removed (joined Real Betis on a free 1 Sep 2026, see players/dani_ceballos.json).
 
 ## 2025/26 in numbers
 
@@ -55,7 +55,6 @@ Character: Socio-owned institution with a powerful president; the most demanding
 | Aurelien Tchouameni | DM | 26 | FRA | n/a | starter | n/a | n/a | n/a |
 | Federico Valverde | CM | 28 | URU | n/a | starter | n/a | n/a | n/a |
 | Eduardo Camavinga | CM | 23 | FRA | n/a | rotation | n/a | n/a | n/a |
-| Dani Ceballos | CM | 30 | ESP | n/a | backup | n/a | n/a | n/a |
 | Jude Bellingham | AM | 23 | ENG | n/a | starter | n/a | n/a | n/a |
 | Arda Guler | AM | 21 | TUR | n/a | starter | n/a | n/a | n/a |
 | Brahim Diaz | RW | 27 | MAR | n/a | rotation | n/a | n/a | n/a |
@@ -73,10 +72,14 @@ Profile: press-resistant No.6/No.8 with 88%+ passing, 23-28, La Liga/UCL-ready
 Why: Tchouameni the only anchor; Mourinho's 4-2-3-1 needs two disciplined pivots; Ceballos 30  
 Budget: €80m · wage ceiling €10m net
 
-- **João Azevedo (demo)** — 88.5/100 (strong match, confidence demo)
-  - João Azevedo (demo) → Real Madrid at DM: strong match (88.5/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (74).
-- **Victor Froholdt** — 65.2/100 (possible, confidence medium)
-  - Victor Froholdt → Real Madrid at DM: possible (65.2/100). Driven by financial feasibility and positional need; weakest area is cultural adaptation (45).
+- **Victor Froholdt** — 83.4/100 (strong match, confidence medium)
+  - Victor Froholdt → Real Madrid at DM: strong match (83.4/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (70).
+  - ⚠ Current club publicly not selling.
+- **Tyler Adams** — 79.0/100 (strong match, confidence medium)
+  - Tyler Adams → Real Madrid at DM: strong match (79.0/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (58).
+  - ⚠ Current club publicly not selling.
+- **Curtis Jones** — 74.2/100 (good match, confidence medium)
+  - Curtis Jones → Real Madrid at DM: good match (74.2/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
   - ⚠ Current club publicly not selling.
 
 ### GK — medium priority
@@ -84,16 +87,28 @@ Profile: long-term No.1 under 27
 Why: Courtois 34; Lunin has sought more minutes  
 Budget: €40m · wage ceiling €6m net
 
-- **Alp Yıldız (demo)** — 81.8/100 (strong match, confidence demo)
-  - Alp Yıldız (demo) → Real Madrid at GK: strong match (81.8/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
+- **Noah Atubolu** — 78.3/100 (strong match, confidence medium)
+  - Noah Atubolu → Real Madrid at GK: strong match (78.3/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
+  - ⚠ Current club publicly not selling.
+- **Alex Meret** — 60.5/100 (possible, confidence medium)
+  - Alex Meret → Real Madrid at GK: possible (60.5/100). Driven by financial feasibility and positional need; weakest area is statistical fit (38).
 
 ### CB — medium priority
 Profile: right-footed aerial CB 23-27  
 Why: Rudiger 33 and Alaba 34 at the end of contracts; Militao injury history  
 Budget: €60m · wage ceiling €8m net
 
-- **Marcus Oyelaran (demo)** — 85.9/100 (strong match, confidence demo)
-  - Marcus Oyelaran (demo) → Real Madrid at CB: strong match (85.9/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (60).
+- **Fikayo Tomori** — 80.7/100 (strong match, confidence medium)
+  - Fikayo Tomori → Real Madrid at CB: strong match (80.7/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
+  - ⚠ Would block a young starter (Dean Huijsen, 21) — check pathway politics.
+- **Chris Richards** — 80.1/100 (strong match, confidence medium)
+  - Chris Richards → Real Madrid at CB: strong match (80.1/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (50).
+  - ⚠ Current club publicly not selling.
+  - ⚠ Would block a young starter (Dean Huijsen, 21) — check pathway politics.
+- **Jayden Oosterwolde** — 75.6/100 (good match, confidence medium)
+  - Jayden Oosterwolde → Real Madrid at CB: good match (75.6/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (20).
+  - ⚠ Documented discipline record (see mental_profile.notes).
+  - ⚠ Current club publicly not selling.
   - ⚠ Would block a young starter (Dean Huijsen, 21) — check pathway politics.
 
 ### RB — low priority
@@ -101,11 +116,15 @@ Profile: young RB to succeed Carvajal
 Why: Carvajal 34 after serious knee injury; Valverde used as cover  
 Budget: €30m · wage ceiling €5m net
 
-- **Marcus Oyelaran (demo)** — 85.9/100 (strong match, confidence demo)
-  - Marcus Oyelaran (demo) → Real Madrid at CB: strong match (85.9/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (60).
-  - ⚠ Would block a young starter (Dean Huijsen, 21) — check pathway politics.
-- **Luca Ferraro (demo)** — 76.2/100 (good match, confidence demo)
-  - Luca Ferraro (demo) → Real Madrid at RB: good match (76.2/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
+- **Fikayo Tomori** — 72.3/100 (good match, confidence medium)
+  - Fikayo Tomori → Real Madrid at RB: good match (72.3/100). Driven by statistical fit and financial feasibility; weakest area is positional need (30).
+- **Chris Richards** — 69.3/100 (good match, confidence medium)
+  - Chris Richards → Real Madrid at RB: good match (69.3/100). Driven by statistical fit and financial feasibility; weakest area is positional need (30).
+  - ⚠ Current club publicly not selling.
+- **Gianluca Mancini** — 64.8/100 (possible, confidence medium)
+  - Gianluca Mancini → Real Madrid at RB: possible (64.8/100). Driven by statistical fit and financial feasibility; weakest area is positional need (30).
+  - ⚠ Documented discipline record (see mental_profile.notes).
+  - ⚠ Current club publicly not selling.
 
 ## Sources
 

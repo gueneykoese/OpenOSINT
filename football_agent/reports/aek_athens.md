@@ -82,28 +82,43 @@ Profile: athletic, 22-27, can defend 1v1 against elite wingers
 Why: Penrice loaned out; only Lykogiannis (33) added  
 Budget: €4m · wage ceiling €1m net
 
-- **Emre Kaya (demo)** — 70.4/100 (good match, confidence demo)
-  - Emre Kaya (demo) → AEK at LB: good match (70.4/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (45).
+- **Oleksandr Zinchenko** — 71.4/100 (good match, confidence medium)
+  - Oleksandr Zinchenko → AEK at LB: good match (71.4/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (48).
+- **Jayden Oosterwolde** — 67.1/100 (good match, confidence high)
+  - Jayden Oosterwolde → AEK at LB: good match (67.1/100). Driven by statistical fit and positional need; weakest area is financial feasibility (8).
+  - ⚠ Documented discipline record (see mental_profile.notes).
+  - ⚠ Current club publicly not selling.
+- **Archie Brown** — 61.9/100 (possible, confidence medium)
+  - Archie Brown → AEK at LB: possible (61.9/100). Driven by positional need and tactical / system fit; weakest area is financial feasibility (0).
 
 ### CB — medium priority
 Profile: quick, left-sided, 22-26 with resale value  
 Why: Vida/Moukoudi ageing; Alexiou only on loan  
 Budget: €5m · wage ceiling €1.2m net
 
-- **Marcus Oyelaran (demo)** — 70.1/100 (good match, confidence demo)
-  - Marcus Oyelaran (demo) → AEK at CB: good match (70.1/100). Driven by statistical fit and positional need; weakest area is financial feasibility (12).
+- **Jayden Oosterwolde** — 67.5/100 (good match, confidence high)
+  - Jayden Oosterwolde → AEK at CB: good match (67.5/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (20).
+  - ⚠ Documented discipline record (see mental_profile.notes).
+  - ⚠ Current club publicly not selling.
+- **Fikayo Tomori** — 64.9/100 (possible, confidence medium)
+  - Fikayo Tomori → AEK at CB: possible (64.9/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
+- **Chris Richards** — 63.8/100 (possible, confidence medium)
+  - Chris Richards → AEK at CB: possible (63.8/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
+  - ⚠ Current club publicly not selling.
 
 ### ST — medium priority
 Profile: mobile pressing forward, under 26  
 Why: Jović (28) and Varga (31) are target-man types; no young succession  
 Budget: €6m · wage ceiling €1.5m net
 
-- **Tomás Reyes (demo)** — 72.0/100 (good match, confidence demo)
-  - Tomás Reyes (demo) → AEK at ST: good match (72.0/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (45).
-- **Ayase Ueda** — 56.7/100 (possible, confidence low)
-  - Ayase Ueda → AEK at ST: possible (56.7/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (45).
-- **Nicolò Tresoldi** — 51.5/100 (weak, confidence medium)
-  - Nicolò Tresoldi → AEK at ST: weak (51.5/100). Driven by positional need and statistical fit; weakest area is financial feasibility (0).
+- **Deniz Undav** — 63.1/100 (possible, confidence medium)
+  - Deniz Undav → AEK at ST: possible (63.1/100). Driven by statistical fit and tactical / system fit; weakest area is financial feasibility (0).
+  - ⚠ Current club publicly not selling.
+- **Ayase Ueda** — 63.0/100 (possible, confidence medium)
+  - Ayase Ueda → AEK at ST: possible (63.0/100). Driven by statistical fit and tactical / system fit; weakest area is financial feasibility (0).
+  - ⚠ Current club publicly not selling.
+- **Nicolò Tresoldi** — 62.6/100 (possible, confidence medium)
+  - Nicolò Tresoldi → AEK at ST: possible (62.6/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
 
 ## Sources

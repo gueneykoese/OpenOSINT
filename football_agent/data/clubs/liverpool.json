@@ -351,24 +351,6 @@
       "injury_flag": null
     },
     {
-      "name": "Curtis Jones",
-      "position": "CM",
-      "secondary_positions": [],
-      "age": 25,
-      "nationality": "ENG",
-      "contract_until": null,
-      "shirt_no": 17,
-      "role": "rotation",
-      "stats_2025_26": {
-        "apps": null,
-        "starts": null,
-        "minutes": null,
-        "goals": null,
-        "assists": null
-      },
-      "injury_flag": null
-    },
-    {
       "name": "Wataru Endo",
       "position": "DM",
       "secondary_positions": [],
@@ -631,6 +613,6 @@
   "as_of": "2026-09-02",
   "data_quality": {
     "confidence": "low",
-    "notes": "Verified: 5th place, 17W-9D-12L, 60 pts, +10 GD, 53 GA (GF=63 derived), Slot sacked 30 May 2026, UCL draw, Barcola arrival (GBP 106m guaranteed + GBP 17m add-ons, 5-year deal). HEAD COACH UNVERIFIED: Andoni Iraola was reported as the leading candidate but no appointment could be confirmed, so the name is null - this must be checked before use. UCL 2025/26 exit round, domestic cup results, top scorer, and all other summer-2026 arrivals/departures unverified (Barcola's 11 goals figure is his 2025/26 Ligue 1 total at PSG). Squad = last known first-team roster adjusted ONLY for summer-2026 moves that were source-verified; further unreported exits/loans may be missing. Per-player 2025/26 stats left null unless a source gave the number. Ages computed from public birthdates as of 2026-09-02. Research constraint: web fetch was blocked on all data sites (transfermarkt, fbref, uefa, wikipedia, club sites) and only search snippets were available."
+    "notes": "Verified: 5th place, 17W-9D-12L, 60 pts, +10 GD, 53 GA (GF=63 derived), Slot sacked 30 May 2026, UCL draw, Barcola arrival (GBP 106m guaranteed + GBP 17m add-ons, 5-year deal). HEAD COACH UNVERIFIED: Andoni Iraola was reported as the leading candidate but no appointment could be confirmed, so the name is null - this must be checked before use. UCL 2025/26 exit round, domestic cup results, top scorer, and all other summer-2026 arrivals/departures unverified (Barcola's 11 goals figure is his 2025/26 Ligue 1 total at PSG). Squad = last known first-team roster adjusted ONLY for summer-2026 moves that were source-verified; further unreported exits/loans may be missing. Per-player 2025/26 stats left null unless a source gave the number. Ages computed from public birthdates as of 2026-09-02. Research constraint: web fetch was blocked on all data sites (transfermarkt, fbref, uefa, wikipedia, club sites) and only search snippets were available. | Reconciled 2026-09-02 with player-pool research: Curtis Jones removed (joined Inter, official, contract to 2031, see players/curtis_jones.json)."
   }
 }

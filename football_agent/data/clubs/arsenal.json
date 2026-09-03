@@ -8,23 +8,51 @@
   "ucl_2026_27": {
     "pot": 1,
     "qualified_via": "Premier League 2025/26 champions",
-    "opponents_home": ["Real Madrid", "Borussia Dortmund", "Lille", "Sabah"],
-    "opponents_away": ["Bayern Munich", "Real Betis", "Napoli", "Slavia Prague"]
+    "opponents_home": [
+      "Real Madrid",
+      "Borussia Dortmund",
+      "Lille",
+      "Sabah"
+    ],
+    "opponents_away": [
+      "Bayern Munich",
+      "Real Betis",
+      "Napoli",
+      "Slavia Prague"
+    ]
   },
   "head_coach": {
     "name": "Mikel Arteta",
     "since": "2019-12",
     "nationality": "ESP",
     "preferred_formation": "4-3-3",
-    "style_keywords": ["positional possession", "high press", "4-4-2 out of possession", "set-piece strength", "low goals conceded", "box midfield build-up"]
+    "style_keywords": [
+      "positional possession",
+      "high press",
+      "4-4-2 out of possession",
+      "set-piece strength",
+      "low goals conceded",
+      "box midfield build-up"
+    ]
   },
   "identity": {
     "playing_style": "Arteta's Arsenal play a 4-3-3 in possession that becomes a compact 4-4-2 without the ball, with Saka doing more defensive work than most elite wingers. Build-up is flexible: midfielders alternately drop into the back line or show ahead of it so progression can be tailored to the opponent. The 2025/26 title was built on the division's best defence (27 goals conceded, 19 clean sheets, lowest xGA in Europe's top five leagues at ~0.7 per game) rather than on volume attacking (71 goals, 66.1 xG). With Zubimendi at the base, Rice was released as a box-crashing No. 8; Guimaraes' arrival adds a second press-resistant carrier on the right of the three.",
-    "principles": ["defensive solidity and set-piece efficiency first", "buy established Premier League / top-five-league players in their prime (Konsa 28, Guimaraes 28, Eze 28, Gyokeres 28)", "Hale End academy pathway (Saka, Nwaneri, Lewis-Skelly, Dowman)", "long coaching continuity under Arteta since Dec 2019", "trim fringe wages each summer (Trossard, Norgaard, Kiwior, Vieira, Jesus out in 2026)"],
+    "principles": [
+      "defensive solidity and set-piece efficiency first",
+      "buy established Premier League / top-five-league players in their prime (Konsa 28, Guimaraes 28, Eze 28, Gyokeres 28)",
+      "Hale End academy pathway (Saka, Nwaneri, Lewis-Skelly, Dowman)",
+      "long coaching continuity under Arteta since Dec 2019",
+      "trim fringe wages each summer (Trossard, Norgaard, Kiwior, Vieira, Jesus out in 2026)"
+    ],
     "club_character": "Fully owned by Kroenke Sports & Entertainment since the 2018 compulsory buy-out of minority shareholders; large global fanbase, 60k Emirates Stadium, intense London media environment. Pressure is now about converting a title-winning core into European success after the 2026 Champions League final defeat on penalties.",
     "ownership": "private (Kroenke Sports & Entertainment, Stan and Josh Kroenke)",
     "political_and_social_context": "Publicly documented: fan protests against KSE in 2021 after the European Super League episode (approx. 2,000 supporters outside the Emirates); the Arsenal Supporters' Trust opposed the 2018 KSE takeover. In November 2025 the club and the Rwanda Development Board announced the end of the eight-year 'Visit Rwanda' sleeve sponsorship (approx. GBP 10m a year) at the close of 2025/26, after UN reports on Rwanda's support for M23 rebels in DR Congo prompted supporter protests (Gunners for Peace) and an AST survey in which 86% of members wanted the deal ended.",
-    "languages": ["en", "es", "pt", "fr"],
+    "languages": [
+      "en",
+      "es",
+      "pt",
+      "fr"
+    ],
     "wage_structure": "hierarchical (top earners reported ~GBP 240-300k/week; 2026/27 wage bill reported ~GBP 244m, 2nd in the Premier League)",
     "transfer_policy": "Prime-age, Premier-League-proven or top-five-league starters bought for high fees; heavy net spend (2026 summer: ~GBP 194.5m in vs ~GBP 39.6m out); loans used to develop academy players (Nwaneri to Dortmund, Setford loan); few buy-to-sell profits.",
     "injury_management_reputation": "Publicly criticised: Arteta himself called 2025/26 'worse' for injuries, with long absences for Havertz (knee surgery, out until January), Saliba (ankle, then a long-term back problem), Odegaard (shoulder/knee), Timber and Calafiori. Saliba, Timber and Eze are all sidelined at the start of 2026/27."
@@ -43,56 +71,609 @@
     "possession_pct": null,
     "ucl_result": "Final (lost to PSG 1-1 aet, 3-4 on penalties, Budapest, 30 May 2026; beat Real Madrid 5-1 agg in R16; finished 3rd in league phase)",
     "domestic_cup": "FA Cup quarter-final; EFL Cup runner-up (lost 0-2 to Manchester City in final)",
-    "top_scorer": {"name": "Viktor Gyokeres", "goals": 14},
-    "top_assister": {"name": "Martin Odegaard", "assists": 6}
+    "top_scorer": {
+      "name": "Viktor Gyokeres",
+      "goals": 14
+    },
+    "top_assister": {
+      "name": "Martin Odegaard",
+      "assists": 6
+    }
   },
   "summer_2026_window": {
     "arrivals": [
-      {"name": "Bruno Guimaraes", "from": "Newcastle United", "fee_eur_m": 87, "position": "CM"},
-      {"name": "Ezri Konsa", "from": "Aston Villa", "fee_eur_m": 59, "position": "CB"},
-      {"name": "Piero Hincapie", "from": "Bayer Leverkusen (loan made permanent)", "fee_eur_m": 40, "position": "CB"},
-      {"name": "Christos Tzolis", "from": "Club Brugge", "fee_eur_m": 39.5, "position": "LW"},
-      {"name": "Illan Meslier", "from": "Leeds United", "fee_eur_m": 0, "position": "GK"}
+      {
+        "name": "Bruno Guimaraes",
+        "from": "Newcastle United",
+        "fee_eur_m": 87,
+        "position": "CM"
+      },
+      {
+        "name": "Ezri Konsa",
+        "from": "Aston Villa",
+        "fee_eur_m": 59,
+        "position": "CB"
+      },
+      {
+        "name": "Piero Hincapie",
+        "from": "Bayer Leverkusen (loan made permanent)",
+        "fee_eur_m": 40,
+        "position": "CB"
+      },
+      {
+        "name": "Christos Tzolis",
+        "from": "Club Brugge",
+        "fee_eur_m": 39.5,
+        "position": "LW"
+      },
+      {
+        "name": "Illan Meslier",
+        "from": "Leeds United",
+        "fee_eur_m": 0,
+        "position": "GK"
+      }
     ],
     "departures": [
-      {"name": "Jakub Kiwior", "to": "FC Porto (loan option exercised)", "fee_eur_m": 17, "position": "CB"},
-      {"name": "Leandro Trossard", "to": "Besiktas", "fee_eur_m": 18, "position": "LW"},
-      {"name": "Gabriel Jesus", "to": "FC Barcelona", "fee_eur_m": 10, "position": "ST"},
-      {"name": "Christian Norgaard", "to": "Everton", "fee_eur_m": 8, "position": "DM"},
-      {"name": "Fabio Vieira", "to": "FC Porto (reported; one source says Hamburg)", "fee_eur_m": 9, "position": "AM"},
-      {"name": "Ethan Nwaneri", "to": "Borussia Dortmund (season loan, no option)", "fee_eur_m": 0, "position": "AM"},
-      {"name": "Tommy Setford", "to": "season loan (club not verified)", "fee_eur_m": 0, "position": "GK"}
+      {
+        "name": "Jakub Kiwior",
+        "to": "FC Porto (loan option exercised)",
+        "fee_eur_m": 17,
+        "position": "CB"
+      },
+      {
+        "name": "Leandro Trossard",
+        "to": "Besiktas",
+        "fee_eur_m": 18,
+        "position": "LW"
+      },
+      {
+        "name": "Gabriel Jesus",
+        "to": "FC Barcelona",
+        "fee_eur_m": 10,
+        "position": "ST"
+      },
+      {
+        "name": "Christian Norgaard",
+        "to": "Everton",
+        "fee_eur_m": 8,
+        "position": "DM"
+      },
+      {
+        "name": "Fabio Vieira",
+        "to": "FC Porto (reported; one source says Hamburg)",
+        "fee_eur_m": 9,
+        "position": "AM"
+      },
+      {
+        "name": "Ethan Nwaneri",
+        "to": "Borussia Dortmund (season loan, no option)",
+        "fee_eur_m": 0,
+        "position": "AM"
+      },
+      {
+        "name": "Tommy Setford",
+        "to": "season loan (club not verified)",
+        "fee_eur_m": 0,
+        "position": "GK"
+      }
     ],
     "net_spend_eur_m": 180
   },
   "squad": [
-    {"name": "David Raya", "position": "GK", "secondary_positions": [], "age": 30, "nationality": "ESP", "contract_until": null, "shirt_no": 1, "role": "starter", "stats_2025_26": {"apps": 37, "starts": 37, "minutes": 3330, "goals": 0, "assists": 0}, "injury_flag": null},
-    {"name": "Kepa Arrizabalaga", "position": "GK", "secondary_positions": [], "age": 31, "nationality": "ESP", "contract_until": null, "shirt_no": null, "role": "backup", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 0, "assists": 0}, "injury_flag": null},
-    {"name": "Illan Meslier", "position": "GK", "secondary_positions": [], "age": 26, "nationality": "FRA", "contract_until": null, "shirt_no": 30, "role": "backup", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 0, "assists": 0}, "injury_flag": null},
-    {"name": "William Saliba", "position": "CB", "secondary_positions": [], "age": 25, "nationality": "FRA", "contract_until": null, "shirt_no": 2, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 1, "assists": null}, "injury_flag": "long-term back problem (return expected Sep/Oct 2026)"},
-    {"name": "Gabriel Magalhaes", "position": "CB", "secondary_positions": [], "age": 28, "nationality": "BRA", "contract_until": null, "shirt_no": 6, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 3, "assists": null}, "injury_flag": null},
-    {"name": "Ezri Konsa", "position": "CB", "secondary_positions": ["RB"], "age": 28, "nationality": "ENG", "contract_until": 2030, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
-    {"name": "Cristhian Mosquera", "position": "CB", "secondary_positions": ["RB"], "age": 22, "nationality": "ESP", "contract_until": null, "shirt_no": 3, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": "minor (precautionary withdrawal vs Aston Villa, Aug 2026; doubt for early September)"},
-    {"name": "Piero Hincapie", "position": "CB", "secondary_positions": ["LB"], "age": 24, "nationality": "ECU", "contract_until": null, "shirt_no": 5, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 1, "assists": null}, "injury_flag": null},
-    {"name": "Ben White", "position": "RB", "secondary_positions": ["CB"], "age": 28, "nationality": "ENG", "contract_until": null, "shirt_no": 4, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
-    {"name": "Jurrien Timber", "position": "RB", "secondary_positions": ["CB", "LB"], "age": 25, "nationality": "NED", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 3, "assists": null}, "injury_flag": "groin surgery; missed pre-season and first three games, return pencilled for late Sep 2026"},
-    {"name": "Riccardo Calafiori", "position": "LB", "secondary_positions": ["CB"], "age": 24, "nationality": "ITA", "contract_until": null, "shirt_no": 33, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 1, "assists": null}, "injury_flag": null},
-    {"name": "Myles Lewis-Skelly", "position": "LB", "secondary_positions": ["CM"], "age": 19, "nationality": "ENG", "contract_until": null, "shirt_no": 49, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
-    {"name": "Oleksandr Zinchenko", "position": "LB", "secondary_positions": ["CM"], "age": 29, "nationality": "UKR", "contract_until": null, "shirt_no": null, "role": "backup", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
-    {"name": "Martin Zubimendi", "position": "DM", "secondary_positions": ["CM"], "age": 27, "nationality": "ESP", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": 3001, "goals": 5, "assists": null}, "injury_flag": null},
-    {"name": "Declan Rice", "position": "CM", "secondary_positions": ["DM"], "age": 27, "nationality": "ENG", "contract_until": null, "shirt_no": null, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": 3099, "goals": 4, "assists": 5}, "injury_flag": null},
-    {"name": "Bruno Guimaraes", "position": "CM", "secondary_positions": ["DM"], "age": 28, "nationality": "BRA", "contract_until": null, "shirt_no": 39, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
-    {"name": "Martin Odegaard", "position": "AM", "secondary_positions": ["CM"], "age": 27, "nationality": "NOR", "contract_until": null, "shirt_no": 8, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 1, "assists": 6}, "injury_flag": null},
-    {"name": "Mikel Merino", "position": "CM", "secondary_positions": ["ST", "AM"], "age": 30, "nationality": "ESP", "contract_until": null, "shirt_no": 23, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 4, "assists": null}, "injury_flag": null},
-    {"name": "Eberechi Eze", "position": "AM", "secondary_positions": ["LW"], "age": 28, "nationality": "ENG", "contract_until": null, "shirt_no": 11, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 7, "assists": null}, "injury_flag": "severe calf injury, at least one month out from late Aug 2026"},
-    {"name": "Kai Havertz", "position": "ST", "secondary_positions": ["AM", "CM"], "age": 27, "nationality": "GER", "contract_until": null, "shirt_no": null, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 2, "assists": null}, "injury_flag": null},
-    {"name": "Bukayo Saka", "position": "RW", "secondary_positions": ["LW"], "age": 24, "nationality": "ENG", "contract_until": null, "shirt_no": 7, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 7, "assists": 3}, "injury_flag": null},
-    {"name": "Noni Madueke", "position": "RW", "secondary_positions": ["LW"], "age": 23, "nationality": "ENG", "contract_until": null, "shirt_no": 20, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 3, "assists": null}, "injury_flag": null},
-    {"name": "Gabriel Martinelli", "position": "LW", "secondary_positions": ["ST"], "age": 25, "nationality": "BRA", "contract_until": 2027, "shirt_no": 12, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 1, "assists": null}, "injury_flag": null},
-    {"name": "Christos Tzolis", "position": "LW", "secondary_positions": ["RW", "AM"], "age": 24, "nationality": "GRE", "contract_until": null, "shirt_no": 17, "role": "rotation", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
-    {"name": "Reiss Nelson", "position": "RW", "secondary_positions": ["LW"], "age": 26, "nationality": "ENG", "contract_until": null, "shirt_no": 24, "role": "backup", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": null, "assists": null}, "injury_flag": null},
-    {"name": "Viktor Gyokeres", "position": "ST", "secondary_positions": [], "age": 28, "nationality": "SWE", "contract_until": null, "shirt_no": 14, "role": "starter", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 14, "assists": null}, "injury_flag": null},
-    {"name": "Max Dowman", "position": "AM", "secondary_positions": ["RW"], "age": 16, "nationality": "ENG", "contract_until": null, "shirt_no": null, "role": "prospect", "stats_2025_26": {"apps": null, "starts": null, "minutes": null, "goals": 1, "assists": null}, "injury_flag": null}
+    {
+      "name": "David Raya",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 30,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 1,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": 37,
+        "starts": 37,
+        "minutes": 3330,
+        "goals": 0,
+        "assists": 0
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Kepa Arrizabalaga",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 31,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 0,
+        "assists": 0
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Illan Meslier",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 26,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 30,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 0,
+        "assists": 0
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "William Saliba",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 25,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 2,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 1,
+        "assists": null
+      },
+      "injury_flag": "long-term back problem (return expected Sep/Oct 2026)"
+    },
+    {
+      "name": "Gabriel Magalhaes",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": 28,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": 6,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 3,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ezri Konsa",
+      "position": "CB",
+      "secondary_positions": [
+        "RB"
+      ],
+      "age": 28,
+      "nationality": "ENG",
+      "contract_until": 2030,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Cristhian Mosquera",
+      "position": "CB",
+      "secondary_positions": [
+        "RB"
+      ],
+      "age": 22,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 3,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": "minor (precautionary withdrawal vs Aston Villa, Aug 2026; doubt for early September)"
+    },
+    {
+      "name": "Piero Hincapie",
+      "position": "CB",
+      "secondary_positions": [
+        "LB"
+      ],
+      "age": 24,
+      "nationality": "ECU",
+      "contract_until": null,
+      "shirt_no": 5,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 1,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ben White",
+      "position": "RB",
+      "secondary_positions": [
+        "CB"
+      ],
+      "age": 28,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": 4,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Jurrien Timber",
+      "position": "RB",
+      "secondary_positions": [
+        "CB",
+        "LB"
+      ],
+      "age": 25,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 3,
+        "assists": null
+      },
+      "injury_flag": "groin surgery; missed pre-season and first three games, return pencilled for late Sep 2026"
+    },
+    {
+      "name": "Riccardo Calafiori",
+      "position": "LB",
+      "secondary_positions": [
+        "CB"
+      ],
+      "age": 24,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": 33,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 1,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Myles Lewis-Skelly",
+      "position": "LB",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": 19,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": 49,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Oleksandr Zinchenko",
+      "position": "LB",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": 29,
+      "nationality": "UKR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null,
+      "note": "status unresolved — reported released by Ajax Jun 2026"
+    },
+    {
+      "name": "Martin Zubimendi",
+      "position": "DM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": 27,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": 3001,
+        "goals": 5,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Declan Rice",
+      "position": "CM",
+      "secondary_positions": [
+        "DM"
+      ],
+      "age": 27,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": 3099,
+        "goals": 4,
+        "assists": 5
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Bruno Guimaraes",
+      "position": "CM",
+      "secondary_positions": [
+        "DM"
+      ],
+      "age": 28,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": 39,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Martin Odegaard",
+      "position": "AM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": 27,
+      "nationality": "NOR",
+      "contract_until": null,
+      "shirt_no": 8,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 1,
+        "assists": 6
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Mikel Merino",
+      "position": "CM",
+      "secondary_positions": [
+        "ST",
+        "AM"
+      ],
+      "age": 30,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 23,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 4,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Eberechi Eze",
+      "position": "AM",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": 28,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": 11,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 7,
+        "assists": null
+      },
+      "injury_flag": "severe calf injury, at least one month out from late Aug 2026"
+    },
+    {
+      "name": "Kai Havertz",
+      "position": "ST",
+      "secondary_positions": [
+        "AM",
+        "CM"
+      ],
+      "age": 27,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 2,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Bukayo Saka",
+      "position": "RW",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": 24,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": 7,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 7,
+        "assists": 3
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Noni Madueke",
+      "position": "RW",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": 23,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": 20,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 3,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Gabriel Martinelli",
+      "position": "LW",
+      "secondary_positions": [
+        "ST"
+      ],
+      "age": 25,
+      "nationality": "BRA",
+      "contract_until": 2027,
+      "shirt_no": 12,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 1,
+        "assists": null
+      },
+      "injury_flag": null,
+      "note": "status unresolved — reported Al Hilal move (unofficial)"
+    },
+    {
+      "name": "Christos Tzolis",
+      "position": "LW",
+      "secondary_positions": [
+        "RW",
+        "AM"
+      ],
+      "age": 24,
+      "nationality": "GRE",
+      "contract_until": null,
+      "shirt_no": 17,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Viktor Gyokeres",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": 28,
+      "nationality": "SWE",
+      "contract_until": null,
+      "shirt_no": 14,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 14,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Max Dowman",
+      "position": "AM",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": 16,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 1,
+        "assists": null
+      },
+      "injury_flag": null
+    }
   ],
   "strengths": [
     "Best defence in Europe's top five leagues in 2025/26: 27 goals conceded, 28.5 xGA (~0.7 per game), 19 clean sheets; Raya named best goalkeeper.",
@@ -111,16 +692,61 @@
     "Left-wing output: Martinelli scored 1 PL goal in 2025/26 and is in the final year of his contract; Tzolis is unproven in the Premier League."
   ],
   "positional_needs": [
-    {"position": "LW", "priority": "high", "profile": "left-footed or inverted left winger with 10+ goal output, 21-26, PL-adaptable", "reason": "Trossard sold, Martinelli managed 1 PL goal and his deal ends 2027; Eze injured; Tzolis unproven", "budget_eur_m": 60, "wage_ceiling_eur_m_net": 7},
-    {"position": "RB", "priority": "medium", "profile": "athletic right-back comfortable inverting, 22-27, strong 1v1 defender", "reason": "Timber's recurring groin problem and White's decline leave the right side dependent on converted centre-backs", "budget_eur_m": 45, "wage_ceiling_eur_m_net": 5},
-    {"position": "ST", "priority": "medium", "profile": "mobile second striker / rotation No. 9, 20-25, pressing profile", "reason": "Jesus sold to Barcelona; Havertz injury history; Gyokeres has no natural deputy", "budget_eur_m": 40, "wage_ceiling_eur_m_net": 5},
-    {"position": "GK", "priority": "low", "profile": "young sweeper-keeper, 21-25, to succeed Raya (31 in Sept 2026)", "reason": "Kepa is a short-term backup; Meslier signed as free-transfer cover; Setford loaned out", "budget_eur_m": 25, "wage_ceiling_eur_m_net": 3}
+    {
+      "position": "LW",
+      "priority": "high",
+      "profile": "left-footed or inverted left winger with 10+ goal output, 21-26, PL-adaptable",
+      "reason": "Trossard sold, Martinelli managed 1 PL goal and his deal ends 2027; Eze injured; Tzolis unproven",
+      "budget_eur_m": 60,
+      "wage_ceiling_eur_m_net": 7
+    },
+    {
+      "position": "RB",
+      "priority": "medium",
+      "profile": "athletic right-back comfortable inverting, 22-27, strong 1v1 defender",
+      "reason": "Timber's recurring groin problem and White's decline leave the right side dependent on converted centre-backs",
+      "budget_eur_m": 45,
+      "wage_ceiling_eur_m_net": 5
+    },
+    {
+      "position": "ST",
+      "priority": "medium",
+      "profile": "mobile second striker / rotation No. 9, 20-25, pressing profile",
+      "reason": "Jesus sold to Barcelona; Havertz injury history; Gyokeres has no natural deputy",
+      "budget_eur_m": 40,
+      "wage_ceiling_eur_m_net": 5
+    },
+    {
+      "position": "GK",
+      "priority": "low",
+      "profile": "young sweeper-keeper, 21-25, to succeed Raya (31 in Sept 2026)",
+      "reason": "Kepa is a short-term backup; Meslier signed as free-transfer cover; Setford loaned out",
+      "budget_eur_m": 25,
+      "wage_ceiling_eur_m_net": 3
+    }
   ],
   "position_benchmarks": {
-    "ST": {"goals_p90": null, "assists_p90": null, "shots_p90": null, "pressures_p90": null},
-    "CM": {"pass_completion_pct": null, "progressive_passes_p90": null, "tackles_interceptions_p90": null},
-    "CB": {"aerials_won_pct": null, "tackles_interceptions_p90": null, "pass_completion_pct": null},
-    "LW": {"goals_p90": null, "assists_p90": null, "dribbles_p90": null}
+    "ST": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "shots_p90": null,
+      "pressures_p90": null
+    },
+    "CM": {
+      "pass_completion_pct": null,
+      "progressive_passes_p90": null,
+      "tackles_interceptions_p90": null
+    },
+    "CB": {
+      "aerials_won_pct": null,
+      "tackles_interceptions_p90": null,
+      "pass_completion_pct": null
+    },
+    "LW": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "dribbles_p90": null
+    }
   },
   "sources": [
     "https://www.arsenal.com/news/202627-champions-league-draw-our-eight-opponents-aatiP0f2okvk",
@@ -161,6 +787,6 @@
   "as_of": "2026-09-02",
   "data_quality": {
     "confidence": "medium",
-    "notes": "Coach, 2025/26 league table (85 pts, 26-7-5, 71-27), UCL final, cup results, draw opponents (home/away split) and the five permanent arrivals are source-verified via search snippets. Direct page fetches were blocked for every sports domain, so per-player apps/starts/minutes are null except Raya, Rice and Zubimendi; PL goals/assists come from end-of-season scorer lists. Squad list is the official 2026/27 squad-number release minus confirmed deadline-day exits (Jesus, Nwaneri, Setford, Vieira); Zinchenko's status is unconfirmed (listed for sale, no verified exit) and Havertz/Kepa/Rice/Zubimendi/Dowman shirt numbers were not in the retrieved snippet. Fabio Vieira destination conflicts between sources (Porto GBP 7.7m vs Hamburg). Fees converted GBP->EUR at ~1.16 (Guimaraes GBP 75m, Konsa GBP 51m+4m, Hincapie GBP 34.5m, Tzolis GBP 34m; Kiwior EUR 17m+5m; Trossard GBP 15.3-17m; Jesus GBP 8.6m initial; Norgaard GBP 7m); net spend from Sports Mole GBP 194.5m in / 39.6m out. Contract expiry years are null except Konsa (4-year deal to 2030) and Martinelli (2027). Ages computed from public dates of birth as of 2026-09-02. Position benchmarks left null: no per-90 data was retrievable. Possession % not found."
+    "notes": "Coach, 2025/26 league table (85 pts, 26-7-5, 71-27), UCL final, cup results, draw opponents (home/away split) and the five permanent arrivals are source-verified via search snippets. Direct page fetches were blocked for every sports domain, so per-player apps/starts/minutes are null except Raya, Rice and Zubimendi; PL goals/assists come from end-of-season scorer lists. Squad list is the official 2026/27 squad-number release minus confirmed deadline-day exits (Jesus, Nwaneri, Setford, Vieira); Zinchenko's status is unconfirmed (listed for sale, no verified exit) and Havertz/Kepa/Rice/Zubimendi/Dowman shirt numbers were not in the retrieved snippet. Fabio Vieira destination conflicts between sources (Porto GBP 7.7m vs Hamburg). Fees converted GBP->EUR at ~1.16 (Guimaraes GBP 75m, Konsa GBP 51m+4m, Hincapie GBP 34.5m, Tzolis GBP 34m; Kiwior EUR 17m+5m; Trossard GBP 15.3-17m; Jesus GBP 8.6m initial; Norgaard GBP 7m); net spend from Sports Mole GBP 194.5m in / 39.6m out. Contract expiry years are null except Konsa (4-year deal to 2030) and Martinelli (2027). Ages computed from public dates of birth as of 2026-09-02. Position benchmarks left null: no per-90 data was retrievable. Possession % not found. | Reconciled 2026-09-02 with player-pool research: Reiss Nelson removed (joined Feyenoord on a free, 1-year deal, see players/reiss_nelson.json). | UNRESOLVED: player-pool research (low confidence) reports Martinelli agreed a move to Al Hilal and Zinchenko was released by Ajax on 30 Jun 2026; both are still listed here pending an official source."
   }
 }

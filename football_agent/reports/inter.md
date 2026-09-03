@@ -2,7 +2,7 @@
 
 **Serie A (ITA) · Pot 1 · Coach: Cristian Chivu · System: 3-5-2**  
 Data confidence: `medium` · as of 2026-09-02
-> Verified: Chivu as coach for 2026/27 (contract to 2027, extension expected), full Serie A line (87 pts, 27-6-5, 89-35), title clinched 3 May 2026, UCL draw, round-of-16 exit to Bodo/Glimt (aggregate not confirmed). NOT verified: Coppa Italia/Supercoppa results, top scorer/assister, and the ENTIRE summer-2026 window (lists left empty, not asserted as zero). Squad is the 2025/26 roster; several veterans (Acerbi, Mkhitaryan, Darmian, de Vrij, Sommer) were on expiring deals and may have left. Squad = last known first-team roster adjusted ONLY for summer-2026 moves that were source-verified; further unreported exits/loans may be missing. Per-player 2025/26 stats left null unless a source gave the number. Ages computed from public birthdates as of 2026-09-02. Research constraint: web fetch was blocked on all data sites (transfermarkt, fbref, uefa, wikipedia, club sites) and only search snippets were available.
+> Verified: Chivu as coach for 2026/27 (contract to 2027, extension expected), full Serie A line (87 pts, 27-6-5, 89-35), title clinched 3 May 2026, UCL draw, round-of-16 exit to Bodo/Glimt (aggregate not confirmed). NOT verified: Coppa Italia/Supercoppa results, top scorer/assister, and the ENTIRE summer-2026 window (lists left empty, not asserted as zero). Squad is the 2025/26 roster; several veterans (Acerbi, Mkhitaryan, Darmian, de Vrij, Sommer) were on expiring deals and may have left. Squad = last known first-team roster adjusted ONLY for summer-2026 moves that were source-verified; further unreported exits/loans may be missing. Per-player 2025/26 stats left null unless a source gave the number. Ages computed from public birthdates as of 2026-09-02. Research constraint: web fetch was blocked on all data sites (transfermarkt, fbref, uefa, wikipedia, club sites) and only search snippets were available. | Reconciled 2026-09-02 with player-pool research: Curtis Jones added (joined Inter, official, contract to 2031, see players/curtis_jones.json).
 
 ## 2025/26 in numbers
 
@@ -62,6 +62,7 @@ Character: Owned since May 2024 by US fund Oaktree after the Suning default; aus
 | Marcus Thuram | ST | 29 | FRA | n/a | starter | n/a | n/a | n/a |
 | Ange-Yoan Bonny | ST | 22 | FRA | n/a | rotation | n/a | n/a | n/a |
 | Francesco Pio Esposito | ST | 21 | ITA | n/a | rotation | n/a | n/a | n/a |
+| Curtis Jones | CM | 25 | ENG | n/a | rotation | n/a | n/a | n/a |
 
 ## Positional needs & recommended targets
 
@@ -70,28 +71,40 @@ Profile: left-footed CB comfortable in a back three, 22-27, cost-controlled (<= 
 Why: Acerbi 38 and de Vrij 34 at the end; Bastoni needs a long-term partner  
 Budget: €30m · wage ceiling €4m net
 
-- **Marcus Oyelaran (demo)** — 83.6/100 (strong match, confidence demo)
-  - Marcus Oyelaran (demo) → Inter at CB: strong match (83.6/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+- **Fikayo Tomori** — 85.8/100 (strong match, confidence medium)
+  - Fikayo Tomori → Inter at CB: strong match (85.8/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
+- **Chris Richards** — 85.1/100 (strong match, confidence medium)
+  - Chris Richards → Inter at CB: strong match (85.1/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (50).
+  - ⚠ Current club publicly not selling.
+- **Gianluca Mancini** — 82.2/100 (strong match, confidence high)
+  - Gianluca Mancini → Inter at CB: strong match (82.2/100). Driven by statistical fit and positional need; weakest area is age & contract (30).
+  - ⚠ Documented discipline record (see mental_profile.notes).
+  - ⚠ Current club publicly not selling.
 
 ### GK — high priority
 Profile: starting-quality GK under 30 with strong distribution  
 Why: Sommer 37; Martinez unconvincing as starter  
 Budget: €20m · wage ceiling €3m net
 
-- **Alp Yıldız (demo)** — 86.4/100 (strong match, confidence demo)
-  - Alp Yıldız (demo) → Inter at GK: strong match (86.4/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
+- **Noah Atubolu** — 77.2/100 (good match, confidence medium)
+  - Noah Atubolu → Inter at GK: good match (77.2/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
+  - ⚠ Current club publicly not selling.
+- **Alex Meret** — 71.2/100 (good match, confidence medium)
+  - Alex Meret → Inter at GK: good match (71.2/100). Driven by positional need and financial feasibility; weakest area is statistical fit (38).
 
 ### CM — medium priority
 Profile: box-to-box No.8 with running power, 21-26  
 Why: Mkhitaryan 37, Zielinski 32; Sucic/Diouf are the only young options  
 Budget: €30m · wage ceiling €3.5m net
 
-- **Sofian Belkacem (demo)** — 75.0/100 (good match, confidence demo)
-  - Sofian Belkacem (demo) → Inter at CM: good match (75.0/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
-- **João Azevedo (demo)** — 72.2/100 (good match, confidence demo)
-  - João Azevedo (demo) → Inter at CM: good match (72.2/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
-- **Victor Froholdt** — 57.5/100 (possible, confidence medium)
-  - Victor Froholdt → Inter at CM: possible (57.5/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (45).
+- **Christoph Baumgartner** — 71.4/100 (good match, confidence medium)
+  - Christoph Baumgartner → Inter at CM: good match (71.4/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
+  - ⚠ Current club publicly not selling.
+- **Victor Froholdt** — 65.9/100 (possible, confidence medium)
+  - Victor Froholdt → Inter at CM: possible (65.9/100). Driven by statistical fit and positional need; weakest area is financial feasibility (28).
+  - ⚠ Current club publicly not selling.
+- **Curtis Jones** — 63.0/100 (possible, confidence medium)
+  - Curtis Jones → Inter at CM: possible (63.0/100). Driven by positional need and statistical fit; weakest area is statistical fit (50).
   - ⚠ Current club publicly not selling.
 
 ### LB — medium priority
@@ -99,8 +112,14 @@ Profile: attacking left wing-back, 20-25
 Why: Dimarco 33 with no natural successor  
 Budget: €25m · wage ceiling €3m net
 
-- **Emre Kaya (demo)** — 79.1/100 (strong match, confidence demo)
-  - Emre Kaya (demo) → Inter at LB: strong match (79.1/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (45).
+- **Jayden Oosterwolde** — 71.6/100 (good match, confidence high)
+  - Jayden Oosterwolde → Inter at LB: good match (71.6/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (20).
+  - ⚠ Documented discipline record (see mental_profile.notes).
+  - ⚠ Current club publicly not selling.
+- **Mamadou Sarr** — 70.5/100 (good match, confidence medium)
+  - Mamadou Sarr → Inter at LB: good match (70.5/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
+- **Archie Brown** — 70.1/100 (good match, confidence medium)
+  - Archie Brown → Inter at LB: good match (70.1/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ## Sources
 

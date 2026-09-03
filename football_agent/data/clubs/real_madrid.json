@@ -385,24 +385,6 @@
       "injury_flag": null
     },
     {
-      "name": "Dani Ceballos",
-      "position": "CM",
-      "secondary_positions": [],
-      "age": 30,
-      "nationality": "ESP",
-      "contract_until": null,
-      "shirt_no": 19,
-      "role": "backup",
-      "stats_2025_26": {
-        "apps": null,
-        "starts": null,
-        "minutes": null,
-        "goals": null,
-        "assists": null
-      },
-      "injury_flag": null
-    },
-    {
       "name": "Jude Bellingham",
       "position": "AM",
       "secondary_positions": [
@@ -667,6 +649,6 @@
   "as_of": "2026-09-02",
   "data_quality": {
     "confidence": "low",
-    "notes": "Verified: Mourinho appointed 11 June 2026 (contract to 30 June 2029, joined 13 July), 2nd in La Liga behind Barcelona (title decided 10 May 2026, Barcelona 2-0 Real Madrid), Mbappe 25 league goals as top scorer, UCL draw opponents. NOT verified: points/W/D/L/GF/GA, Copa del Rey result, the UCL quarter-final opponent, and the ENTIRE summer-2026 window (arrivals/departures lists left empty, not asserted as zero). Squad is therefore the 2025/26 roster and may be materially out of date. Mourinho's preferred formation is inferred from his career, not from 2026/27 matches. Squad = last known first-team roster adjusted ONLY for summer-2026 moves that were source-verified; further unreported exits/loans may be missing. Per-player 2025/26 stats left null unless a source gave the number. Ages computed from public birthdates as of 2026-09-02. Research constraint: web fetch was blocked on all data sites (transfermarkt, fbref, uefa, wikipedia, club sites) and only search snippets were available."
+    "notes": "Verified: Mourinho appointed 11 June 2026 (contract to 30 June 2029, joined 13 July), 2nd in La Liga behind Barcelona (title decided 10 May 2026, Barcelona 2-0 Real Madrid), Mbappe 25 league goals as top scorer, UCL draw opponents. NOT verified: points/W/D/L/GF/GA, Copa del Rey result, the UCL quarter-final opponent, and the ENTIRE summer-2026 window (arrivals/departures lists left empty, not asserted as zero). Squad is therefore the 2025/26 roster and may be materially out of date. Mourinho's preferred formation is inferred from his career, not from 2026/27 matches. Squad = last known first-team roster adjusted ONLY for summer-2026 moves that were source-verified; further unreported exits/loans may be missing. Per-player 2025/26 stats left null unless a source gave the number. Ages computed from public birthdates as of 2026-09-02. Research constraint: web fetch was blocked on all data sites (transfermarkt, fbref, uefa, wikipedia, club sites) and only search snippets were available. | Reconciled 2026-09-02 with player-pool research: Ceballos removed (joined Real Betis on a free 1 Sep 2026, see players/dani_ceballos.json)."
   }
 }
