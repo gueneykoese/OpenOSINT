@@ -34,7 +34,7 @@
     ]
   },
   "identity": {
-    "playing_style": "Under Van Persie (2025/26) Feyenoord played an aggressive, front-foot 4-3-3 built around striker Ayase Ueda, who won the Eredivisie golden boot with 25 league goals; the side scored 70 but conceded 44 in 34 games, i.e. attack-heavy and defensively porous. Van Bronckhorst, appointed 17 June 2026 on a two-year deal, historically favours a more controlled possession 4-3-3 with wide wingers and a ball-playing pivot.",
+    "playing_style": "Under Van Persie (2025/26) Feyenoord played an aggressive, front-foot 4-3-3 built around striker Ayase Ueda, who won the Eredivisie golden boot with 25 league goals; the side scored 70 but conceded 44 in 34 games, i.e. attack-heavy and defensively porous. Van Bronckhorst, appointed 17 June 2026 on a two-year deal, has started 2026/27 in a 4-3-3 (Ernst; Read, St. Juste, Watanabe/Kraaijeveld, Mármol; Vanhoutte, Valente, Zechiël; Hadj Moussa, Ueda, Diarra) - Ueda was then sold to Lille on deadline day, leaving Ferri/Tengstedt as the No. 9 options.",
     "principles": [
       "develop-and-sell (Eredivisie business model)",
       "strong academy pathway (Varkenoord)",
@@ -49,7 +49,7 @@
       "en"
     ],
     "wage_structure": "hierarchical but capped by Eredivisie economics; top earners well below Pot 1-2 clubs (exact figures unknown)",
-    "transfer_policy": "buy-low/sell-high; regular sales of best performers to Premier League/Serie A; reinvests in 20-25-year-olds; occasional experienced free agents (e.g. Jerry St. Juste Jan 2026, Raheem Sterling short-term Feb-Jun 2026)",
+    "transfer_policy": "buy-low/sell-high; summer 2026: Ueda sold to Lille (EUR 15-20m), Ahmedhodzic to Burnley (~EUR 7m), Hwang to Porto, Wellenreuther to Wolfsburg; reinvested in Ernst (~EUR 5m), Ferri (~EUR 9m), Vanhoutte (EUR 5.5m) plus free agents Mármol, Nelson, Kastenmeier and a Javi López loan; a smaller squad with fewer players loaned out (1908.nl)",
     "injury_management_reputation": null
   },
   "last_season_2025_26": {
@@ -64,7 +64,7 @@
     "xg_for": null,
     "xg_against": null,
     "possession_pct": null,
-    "ucl_result": "Did not play UCL (Europa League league phase; exit round not verified)",
+    "ucl_result": "Did not play UCL (Europa League: eliminated in the league phase, 29th with 6 pts from 8 games after losing 1-2 at Real Betis on 29 Jan 2026)",
     "domestic_cup": "KNVB Beker: second round",
     "top_scorer": {
       "name": "Ayase Ueda",
@@ -78,18 +78,120 @@
   "summer_2026_window": {
     "arrivals": [
       {
+        "name": "Tjark Ernst",
+        "from": "Hertha BSC",
+        "fee_eur_m": 5,
+        "position": "GK"
+      },
+      {
+        "name": "Nacho Ferri",
+        "from": "unverified (reported fee ~EUR 9m)",
+        "fee_eur_m": 9,
+        "position": "ST"
+      },
+      {
         "name": "Charles Vanhoutte",
         "from": "OGC Nice",
-        "fee_eur_m": null,
+        "fee_eur_m": 5.5,
         "position": "DM"
+      },
+      {
+        "name": "Mika Mármol",
+        "from": "UD Las Palmas (free)",
+        "fee_eur_m": 0,
+        "position": "LB"
+      },
+      {
+        "name": "Reiss Nelson",
+        "from": "free agent (Arsenal contract terminated); one-year deal",
+        "fee_eur_m": 0,
+        "position": "RW"
+      },
+      {
+        "name": "Florian Kastenmeier",
+        "from": "free agent; one-year deal with option",
+        "fee_eur_m": 0,
+        "position": "GK"
+      },
+      {
+        "name": "Javi López",
+        "from": "Real Sociedad (loan with purchase option)",
+        "fee_eur_m": 0,
+        "position": "LB"
       }
     ],
     "departures": [
+      {
+        "name": "Ayase Ueda",
+        "to": "LOSC Lille (1 Sep 2026, contract to 2030) - fee EUR 15m per Le Petit Lillois, 'at least EUR 20m' per Goal/GFFN",
+        "fee_eur_m": 15,
+        "position": "ST"
+      },
+      {
+        "name": "Anel Ahmedhodzic",
+        "to": "Burnley (Aug 2026, ~EUR 7m plus bonuses and sell-on)",
+        "fee_eur_m": 7,
+        "position": "CB"
+      },
+      {
+        "name": "Timon Wellenreuther",
+        "to": "VfL Wolfsburg",
+        "fee_eur_m": null,
+        "position": "GK"
+      },
+      {
+        "name": "In-beom Hwang",
+        "to": "FC Porto",
+        "fee_eur_m": null,
+        "position": "CM"
+      },
+      {
+        "name": "Ramiz Zerrouki",
+        "to": "FC Twente (permanent)",
+        "fee_eur_m": null,
+        "position": "DM"
+      },
+      {
+        "name": "Jeyland Mitchell",
+        "to": "Sturm Graz",
+        "fee_eur_m": null,
+        "position": "CB"
+      },
+      {
+        "name": "Plamen Andreev",
+        "to": "Debreceni VSC",
+        "fee_eur_m": null,
+        "position": "GK"
+      },
+      {
+        "name": "Gernot Trauner",
+        "to": "free transfer",
+        "fee_eur_m": 0,
+        "position": "CB"
+      },
+      {
+        "name": "Calvin Stengs",
+        "to": "contract terminated",
+        "fee_eur_m": 0,
+        "position": "AM"
+      },
       {
         "name": "Raheem Sterling",
         "to": "contract expired (Feb-Jun 2026 short-term deal)",
         "fee_eur_m": 0,
         "position": "LW"
+      },
+      {
+        "name": "Jaden Slory",
+        "to": "Willem II (loan)",
+        "fee_eur_m": 0,
+        "position": "RW"
+      },
+      {
+        "name": "Jan Plug",
+        "to": "Excelsior (loan)",
+        "fee_eur_m": 0,
+        "position": "CB"
       },
       {
         "name": "Steven Benda",
@@ -102,14 +204,106 @@
   },
   "squad": [
     {
-      "name": "Anel Ahmedhodzic",
+      "name": "Tjark Ernst",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "GER",
+      "contract_until": null,
+      "shirt_no": 1,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Florian Kastenmeier",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 29,
+      "nationality": "GER",
+      "contract_until": 2027,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Bart Nieuwkoop",
+      "position": "RB",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": null,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": 2,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Thomas Beelen",
       "position": "CB",
       "secondary_positions": [],
-      "age": 27,
-      "nationality": "BIH",
+      "age": null,
+      "nationality": "NED",
       "contract_until": null,
-      "shirt_no": null,
+      "shirt_no": 3,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Tsuyoshi Watanabe",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "JPN",
+      "contract_until": null,
+      "shirt_no": 4,
       "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": "Injured in pre-season friendly v Atalanta; back in the XI by late Aug 2026"
+    },
+    {
+      "name": "Gijs Smal",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": 5,
+      "role": "rotation",
       "stats_2025_26": {
         "apps": null,
         "starts": null,
@@ -128,7 +322,47 @@
       "age": 29,
       "nationality": "NED",
       "contract_until": null,
-      "shirt_no": null,
+      "shirt_no": 6,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Jordan Bos",
+      "position": "LB",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": null,
+      "nationality": "AUS",
+      "contract_until": null,
+      "shirt_no": 15,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Javi López",
+      "position": "LB",
+      "secondary_positions": [
+        "CB"
+      ],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 16,
       "role": "rotation",
       "stats_2025_26": {
         "apps": null,
@@ -146,7 +380,184 @@
       "age": 29,
       "nationality": "NED",
       "contract_until": null,
-      "shirt_no": null,
+      "shirt_no": 20,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Thijs Kraaijeveld",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": 24,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Givairo Read",
+      "position": "RB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": 26,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Mika Mármol",
+      "position": "LB",
+      "secondary_positions": [
+        "CB"
+      ],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 35,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Jakub Moder",
+      "position": "CM",
+      "secondary_positions": [
+        "DM"
+      ],
+      "age": null,
+      "nationality": "POL",
+      "contract_until": null,
+      "shirt_no": 7,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Gjivai Zechiël",
+      "position": "CM",
+      "secondary_positions": [
+        "DM"
+      ],
+      "age": null,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": 8,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Luciano Valente",
+      "position": "AM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": null,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": 10,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Sem Steijn",
+      "position": "AM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": null,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": 14,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Oussama Targhalline",
+      "position": "DM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": null,
+      "nationality": "MAR",
+      "contract_until": null,
+      "shirt_no": 28,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Luka Ivanušec",
+      "position": "AM",
+      "secondary_positions": [
+        "LW",
+        "RW"
+      ],
+      "age": null,
+      "nationality": "CRO",
+      "contract_until": null,
+      "shirt_no": 33,
       "role": "rotation",
       "stats_2025_26": {
         "apps": null,
@@ -166,7 +577,81 @@
       "age": 27,
       "nationality": "BEL",
       "contract_until": null,
-      "shirt_no": null,
+      "shirt_no": 34,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Gonçalo Borges",
+      "position": "RW",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": null,
+      "nationality": "POR",
+      "contract_until": null,
+      "shirt_no": 11,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Casper Tengstedt",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "DEN",
+      "contract_until": null,
+      "shirt_no": 17,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Nacho Ferri",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 19,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Anis Hadj Moussa",
+      "position": "RW",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ALG",
+      "contract_until": null,
+      "shirt_no": 23,
       "role": "starter",
       "stats_2025_26": {
         "apps": null,
@@ -185,9 +670,27 @@
       ],
       "age": 26,
       "nationality": "ENG",
-      "contract_until": null,
-      "shirt_no": 24,
+      "contract_until": 2027,
+      "shirt_no": null,
       "role": "rotation",
+      "stats_2025_26": {
+        "apps": 14,
+        "starts": null,
+        "minutes": null,
+        "goals": 1,
+        "assists": 2
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Gaoussou Diarra",
+      "position": "LW",
+      "secondary_positions": [],
+      "age": 22,
+      "nationality": "MLI",
+      "contract_until": 2029,
+      "shirt_no": null,
+      "role": "starter",
       "stats_2025_26": {
         "apps": null,
         "starts": null,
@@ -199,31 +702,32 @@
     }
   ],
   "strengths": [
-    "Elite Eredivisie goal threat: Ueda's 25 league goals (golden boot) and 70 team goals in 2025/26, second only to champions PSV.",
+    "Elite Eredivisie goal threat in 2025/26: 70 team goals, second only to champions PSV (but golden-boot winner Ueda has now been sold).",
     "Home advantage at De Kuip, historically one of the toughest away trips in Dutch/European football.",
-    "Stable, experienced coach who knows the club (Van Bronckhorst won the KNVB Cup 2016 and Eredivisie 2017 in his first spell).",
-    "Recruitment record of turning modest fees into big sales gives financial headroom."
+    "Stable, experienced coach who knows the club (Van Bronckhorst won the KNVB Cup 2016 and Eredivisie 2017 in his first spell) and has fielded a settled 4-3-3 from matchday 1.",
+    "Recruitment record of turning modest fees into big sales (Ueda, Ahmedhodzic, Timber buy-back clause) gives financial headroom; seven new signings and a leaner squad."
   ],
   "weaknesses": [
     "44 goals conceded in 34 league games (1.29/game) is too many for a title challenger and will be exposed against Pot 1-2 attacks (Barcelona, Inter).",
-    "Early KNVB Cup exit (round 2) and failure to keep pace with PSV (title decided 5 April) point to inconsistency.",
-    "Coaching change in June 2026 means a new system being installed while the Champions League starts.",
-    "Dependence on one striker for goals; loss/injury of Ueda would remove a large share of output."
+    "Europa League league-phase exit (29th, 6 pts) and an early KNVB Cup exit (round 2) point to inconsistency outside the league.",
+    "Ueda (25 league goals) sold on deadline day with no like-for-like replacement: Ferri (unproven) and Tengstedt are the No. 9 options.",
+    "Centre-back churn: Ahmedhodzic and Trauner gone, Watanabe injured in pre-season; St. Juste (29) and Kraaijeveld started the opener.",
+    "Diarra (LW) scored 0 in 7 Eredivisie apps last season yet started the first games; wide depth relies on the 26-year-old free agent Nelson."
   ],
   "positional_needs": [
     {
-      "position": "CB",
+      "position": "ST",
       "priority": "high",
-      "profile": "left-sided, quick, comfortable defending high line, 22-27",
-      "reason": "44 league goals conceded; St. Juste (29) is a stop-gap signing",
+      "profile": "20-goal Eredivisie-level No. 9 with pressing profile, 22-27",
+      "reason": "Ueda (25 league goals) sold to Lille on 1 Sep 2026; Ferri and Tengstedt are the only strikers",
       "budget_eur_m": null,
       "wage_ceiling_eur_m_net": null
     },
     {
-      "position": "ST",
-      "priority": "medium",
-      "profile": "rotation/backup 9 with pressing profile",
-      "reason": "over-reliance on Ueda for goals; Sterling's short-term deal has expired",
+      "position": "CB",
+      "priority": "high",
+      "profile": "left-sided, quick, comfortable defending a high line, 22-27",
+      "reason": "44 league goals conceded; Ahmedhodzic sold, Trauner released; Watanabe injury-prone in pre-season",
       "budget_eur_m": null,
       "wage_ceiling_eur_m_net": null
     },
@@ -231,7 +735,7 @@
       "position": "LW",
       "priority": "medium",
       "profile": "direct 1v1 winger, resale value",
-      "reason": "Sterling departed; wide creativity thin",
+      "reason": "Sterling departed; Diarra unproductive in 2025/26; Nelson is on a one-year deal",
       "budget_eur_m": null,
       "wage_ceiling_eur_m_net": null
     }
@@ -264,11 +768,30 @@
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_Feyenoord_season",
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_Eredivisie",
     "https://www.fotmob.com/teams/10235/transfers/feyenoord",
-    "https://dailysports.net/team/feyenoord/transfers/"
+    "https://dailysports.net/team/feyenoord/transfers/",
+    "https://www.fr-fans.nl/selectie",
+    "https://www.fr12.nl/nieuws/feyenoord-maakt-rugnummers-voor-seizoen-20262027-bekend",
+    "https://1908.nl/artikelen/balans-na-transferdeadline-zeven-versterkingen-kleinere-selectie-en-minder-spelers-verhuurd",
+    "https://1908.nl/artikelen/tussenbalans-selectie-20262027-feyenoord-zag-deze-spelers-komen-en-vertrekken",
+    "https://www.fr12.nl/transfernieuws/transferbalans-zomer-2026-feyenoord-ziet-ruim-tien-spelers-vertrekken",
+    "https://www.feyenoord.com/en/news/anel-ahmedhodzic-leaves-feyenoord-for-burnley-fc-200826",
+    "https://www.fcupdate.nl/voetbalnieuws/2026/08/feyenoord-verkoopt-ahmedhodzic-dit-is-de-transfersom",
+    "https://1908.nl/artikelen/feyenoord-haalt-transfervrije-duitse-keeper-kastenmeier-naar-de-kuip",
+    "https://www.vi.nl/nieuws/nelson-is-weer-speler-van-feyenoord-ik-ben-de-club-blijven-volgen",
+    "https://www.voetbalrotterdam.nl/2026/09/reiss-nelson-keert-transfervrij-terug-bij-feyenoord/",
+    "https://www.feyenoord.com/nl/news/feyenoord-contracteert-vleugelspeler-gaoussou-diarra-040725",
+    "https://www.fr-fans.nl/nieuws/78413/opstelling-van-bronckhorst-kiest-voor-diarra",
+    "https://feyenoord.headliner.nl/item/opstelling-feyenoord-van-bronckhorst-maakt-eerste-basiself-bekend-fr12-76538",
+    "https://www.feyenoordpings.nl/vermoedelijke-opstelling-feyenoord-in-actie-tegen-ado-den-haag/",
+    "https://www.feyenoord.com/nl/news/feyenoord-uitgeschakeld-in-europa-league-290126",
+    "https://www.feyenoord.com/en/news/quinten-timber-leaves-immediately-for-olympique-marseille-230126",
+    "https://www.feyenoord.com/en/news/cyle-larin-returns-to-rcd-mallorca-020226",
+    "https://lepetitlillois.com/2026/09/01/vingt-neuf-mouvements-enregistres-le-bilan-du-mercato-estival-2026-2027-du-losc/",
+    "https://www.vi.nl/nieuws/veerman-voor-tweede-keer-assistkoning-eredivisie-imposante-passstatistieken"
   ],
-  "as_of": "2026-09-02",
+  "as_of": "2026-09-03",
   "data_quality": {
     "confidence": "medium",
-    "notes": "SQUAD IS PARTIAL: only players whose presence in the 2026/27 squad is supported by a source found during research are listed; a full 20-26 man squad, shirt numbers, contract dates and per-player 2025/26 minutes could not be retrieved because the research session lost web access (search budget exhausted; fetch to transfermarkt/fbref/uefa/club sites blocked). Ages are computed from publicly known birth dates. League table (2nd, 65 pts, 19-8-7, 70-44), coach (Van Bronckhorst, 17 Jun 2026), UCL opponents (club statement 27 Aug 2026) and Ueda's 25 league goals are source-verified. Europa League exit round, full summer window (only Vanhoutte arrival verified), top assister, xG and wage/budget figures unverified. Identity/ownership text is from general public knowledge, not a fetched 2026 source. | Reconciled 2026-09-02 with player-pool research: Ueda removed (joined LOSC Lille 1 Sep 2026, see players/ayase_ueda.json). | Reconciled 2026-09-02 with player-pool research: Reiss Nelson added (joined Feyenoord on a free, 1-year deal, see players/reiss_nelson.json)."
+    "notes": "Updated 2026-09-03 from search snippets. VERIFIED: coach Van Bronckhorst (17 Jun 2026, 2-year deal; 4-3-3 in the opening Eredivisie XIs); table 2nd, 65 pts, 19-8-7, 70-44; UCL opponents with venues (club statement 27 Aug); EL 2025/26 league-phase exit (29th, 6 pts); Ueda 25 goals. SQUAD (26) = FR-Fans/FR12 2026-27 selectie with shirt numbers, minus Ueda (sold 1 Sep) and Ahmedhodzic (sold to Burnley 20 Aug - REMOVED from the earlier skeleton), plus Kastenmeier (1908.nl), Nelson (VI/VoetbalRotterdam) and Diarra (club site 2025; started the first 2026/27 games). Youth keepers Berger/Bossin and youngsters Wessels, Van den Elshout, Lotomba omitted. Nelson's shirt number is NOT sourced (an earlier '24' was dropped: FR-Fans gives 24 to Kraaijeveld). Roles from the matchday-1/ADO line-ups; Ferri's role after Ueda's sale is not yet observed. Ferri's selling club not retrieved. Fee conflict on Ueda: EUR 15m (Le Petit Lillois) vs 'at least EUR 20m' (Goal/GFFN) - 15 recorded. Ages only St. Juste 29, Deijl 29, Vanhoutte 27, Nelson 26, Kastenmeier 29, Diarra 22. Per-player 2025/26 stats only Nelson (Brentford loan, 14 apps 1G 2A). Top assister unverified (league assist king was PSV's Veerman, 14). Quinten Timber left in Jan 2026 (Marseille) and Larin in Feb 2026 - not summer moves. Net spend null (several departure fees missing)."
   }
 }

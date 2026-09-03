@@ -51,22 +51,22 @@
       "es"
     ],
     "wage_structure": "hierarchical with a firm ceiling; the club historically refuses to break its wage scale for individuals",
-    "transfer_policy": "data-and-scouting-led buys from mid-tier leagues, sells stars at peak value; heavy squad turnover in summer 2026 (see window)",
+    "transfer_policy": "Loan-with-obligation model: the 2025 loans of Højlund, Alisson Santos, Milinković-Savić and Lucca were all converted in summer 2026 (~EUR 67m in buy-outs plus Badiashile's paid loan), financed partly by ~EUR 42m of sales (Gutiérrez EUR 30m the largest); fringe players (Ngonge, Folorunsho, Mazzocchi, Lindstrøm, Cajuste) moved out on loans.",
     "injury_management_reputation": null
   },
   "last_season_2025_26": {
     "league_position": 2,
     "points": 76,
-    "played": null,
+    "played": 38,
     "won": null,
     "drawn": null,
     "lost": null,
-    "goals_for": null,
-    "goals_against": null,
+    "goals_for": 58,
+    "goals_against": 36,
     "xg_for": null,
     "xg_against": null,
     "possession_pct": null,
-    "ucl_result": "Participated (elimination round not verified)",
+    "ucl_result": "League phase exit (finished outside the top 24 after losing 2-3 at home to Chelsea on matchday 8, 28 Jan 2026)",
     "domestic_cup": "Coppa Italia: quarter-final",
     "top_scorer": {
       "name": "Rasmus Højlund",
@@ -80,90 +80,120 @@
   "summer_2026_window": {
     "arrivals": [
       {
-        "name": "Benoît Badiashile",
-        "from": "Chelsea",
+        "name": "Rasmus Højlund",
+        "from": "Manchester United (loan obligation triggered by UCL qualification; EUR 6m loan fee paid in 2025; contract to 2030)",
+        "fee_eur_m": 44,
+        "position": "ST"
+      },
+      {
+        "name": "Alisson Santos",
+        "from": "Sporting CP (loan option exercised; EUR 3.5m loan fee paid in 2025)",
+        "fee_eur_m": 15,
+        "position": "LW"
+      },
+      {
+        "name": "Vanja Milinković-Savić",
+        "from": "Torino (loan obligation; EUR 15m loan fee paid in 2025)",
+        "fee_eur_m": 6,
+        "position": "GK"
+      },
+      {
+        "name": "Lorenzo Lucca",
+        "from": "Udinese (loan obligation exercised; fee not retrieved)",
         "fee_eur_m": null,
+        "position": "ST"
+      },
+      {
+        "name": "Benoît Badiashile",
+        "from": "Chelsea (paid loan EUR 3m, purchase option EUR 27m)",
+        "fee_eur_m": 3,
         "position": "CB"
       },
       {
-        "name": "Dinis Rodrigues",
-        "from": "FC Sion",
+        "name": "Costantino Favasuli",
+        "from": "Catanzaro",
         "fee_eur_m": null,
-        "position": "ST"
+        "position": "RB"
       }
     ],
     "departures": [
       {
-        "name": "Romelu Lukaku",
-        "to": "Fenerbahçe",
-        "fee_eur_m": null,
-        "position": "ST"
-      },
-      {
-        "name": "Noa Lang",
-        "to": "Galatasaray",
-        "fee_eur_m": null,
-        "position": "LW"
-      },
-      {
-        "name": "Lorenzo Lucca",
-        "to": "Nottingham Forest",
-        "fee_eur_m": null,
-        "position": "ST"
-      },
-      {
         "name": "Miguel Gutiérrez",
         "to": "Bayer Leverkusen",
-        "fee_eur_m": null,
+        "fee_eur_m": 30,
         "position": "LB"
       },
       {
-        "name": "Rafa Marín",
-        "to": "Villarreal (end of loan)",
-        "fee_eur_m": 0,
-        "position": "CB"
+        "name": "Romelu Lukaku",
+        "to": "Fenerbahçe",
+        "fee_eur_m": 6,
+        "position": "ST"
       },
       {
-        "name": "Jens Cajuste",
-        "to": "Ipswich Town",
-        "fee_eur_m": null,
-        "position": "CM"
+        "name": "Giovanni Simeone",
+        "to": "Torino (loan option exercised)",
+        "fee_eur_m": 7.2,
+        "position": "ST"
       },
       {
-        "name": "Jesper Lindstrøm",
-        "to": "Red Bull Salzburg",
-        "fee_eur_m": null,
+        "name": "Luis Hasa",
+        "to": "Frosinone",
+        "fee_eur_m": 2.5,
         "position": "AM"
       },
       {
-        "name": "Cyril Ngonge",
-        "to": "Monza",
-        "fee_eur_m": null,
-        "position": "RW"
-      },
-      {
-        "name": "Michael Folorunsho",
-        "to": "Monza",
-        "fee_eur_m": null,
-        "position": "CM"
+        "name": "Alessio Zerbin",
+        "to": "Frosinone",
+        "fee_eur_m": 2,
+        "position": "LW"
       },
       {
         "name": "Walid Cheddira",
         "to": "Avellino",
-        "fee_eur_m": null,
+        "fee_eur_m": 2.5,
         "position": "ST"
       },
       {
+        "name": "Cyril Ngonge",
+        "to": "Monza (paid loan)",
+        "fee_eur_m": 1,
+        "position": "RW"
+      },
+      {
+        "name": "Michael Folorunsho",
+        "to": "Monza (paid loan)",
+        "fee_eur_m": 0.5,
+        "position": "CM"
+      },
+      {
         "name": "Pasquale Mazzocchi",
-        "to": "Venezia",
-        "fee_eur_m": null,
+        "to": "Venezia (paid loan)",
+        "fee_eur_m": 0.5,
         "position": "RB"
       },
       {
-        "name": "Luca Marianucci",
-        "to": "Torino",
-        "fee_eur_m": null,
-        "position": "CB"
+        "name": "Emanuele Rao",
+        "to": "Pisa (paid loan)",
+        "fee_eur_m": 1,
+        "position": "RW"
+      },
+      {
+        "name": "Jesper Lindstrøm",
+        "to": "Red Bull Salzburg (loan)",
+        "fee_eur_m": 0,
+        "position": "AM"
+      },
+      {
+        "name": "Jens Cajuste",
+        "to": "Málaga (free loan with option)",
+        "fee_eur_m": 0,
+        "position": "CM"
+      },
+      {
+        "name": "Eljif Elmas",
+        "to": "RB Leipzig (end of loan)",
+        "fee_eur_m": 0,
+        "position": "AM"
       },
       {
         "name": "Juan Jesus",
@@ -172,15 +202,87 @@
         "position": "CB"
       }
     ],
-    "net_spend_eur_m": null
+    "net_spend_eur_m": 29
   },
   "squad": [
     {
-      "name": "Rasmus Højlund",
-      "position": "ST",
+      "name": "Alex Meret",
+      "position": "GK",
       "secondary_positions": [],
-      "age": 23,
-      "nationality": "DEN",
+      "age": null,
+      "nationality": "ITA",
+      "contract_until": 2027,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Vanja Milinković-Savić",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "SRB",
+      "contract_until": null,
+      "shirt_no": 32,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Nikita Contini",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Amir Rrahmani",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "KOS",
+      "contract_until": 2027,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Sam Beukema",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "NED",
       "contract_until": null,
       "shirt_no": null,
       "role": "starter",
@@ -188,7 +290,25 @@
         "apps": null,
         "starts": null,
         "minutes": null,
-        "goals": 12,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Rafa Marín",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
         "assists": null
       },
       "injury_flag": null
@@ -201,7 +321,340 @@
       "nationality": "FRA",
       "contract_until": null,
       "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Alessandro Buongiorno",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": "Injured; excluded from both the UEFA list and the Serie A list (Sep 2026); return expected in about a month per Italian reports"
+    },
+    {
+      "name": "Giovanni Di Lorenzo",
+      "position": "RB",
+      "secondary_positions": [
+        "CB"
+      ],
+      "age": null,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": null,
       "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Costantino Favasuli",
+      "position": "RB",
+      "secondary_positions": [
+        "LB"
+      ],
+      "age": null,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": 2,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Leonardo Spinazzola",
+      "position": "LB",
+      "secondary_positions": [
+        "LW",
+        "RB"
+      ],
+      "age": null,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Mathías Olivera",
+      "position": "LB",
+      "secondary_positions": [
+        "CB"
+      ],
+      "age": null,
+      "nationality": "URU",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Stanislav Lobotka",
+      "position": "DM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": null,
+      "nationality": "SVK",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Scott McTominay",
+      "position": "CM",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": null,
+      "nationality": "SCO",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "André-Frank Zambo Anguissa",
+      "position": "CM",
+      "secondary_positions": [
+        "DM"
+      ],
+      "age": null,
+      "nationality": "CMR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Kevin De Bruyne",
+      "position": "CM",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": null,
+      "nationality": "BEL",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Billy Gilmour",
+      "position": "CM",
+      "secondary_positions": [
+        "DM"
+      ],
+      "age": null,
+      "nationality": "SCO",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Antonio Vergara",
+      "position": "CM",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": null,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Matteo Politano",
+      "position": "RW",
+      "secondary_positions": [
+        "RB"
+      ],
+      "age": null,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "David Neres",
+      "position": "RW",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": null,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Alisson Santos",
+      "position": "LW",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": 27,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Noa Lang",
+      "position": "LW",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": null,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Rasmus Højlund",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": 23,
+      "nationality": "DEN",
+      "contract_until": 2030,
+      "shirt_no": 19,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 12,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Lorenzo Lucca",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
       "stats_2025_26": {
         "apps": null,
         "starts": null,
@@ -213,39 +666,41 @@
     }
   ],
   "strengths": [
-    "Second-best team in Italy two seasons running (Scudetto 2025, 2nd with 76 pts in 2026).",
-    "Allegri's record of defensive organisation suits a league-phase format where avoiding defeats matters.",
-    "Højlund (12 league / 16 total goals in 2025/26) is a young, improving focal point.",
-    "Financially disciplined ownership; no FFP-driven fire sales."
+    "Second-best team in Italy two seasons running (Scudetto 2025, 2nd with 76 pts, 58-36 in 2025/26).",
+    "Allegri's record of defensive organisation suits a league-phase format where avoiding defeats matters; 4-3-3 with Lobotka-McTominay-Anguissa confirmed in the 2-0 opening win at Genoa.",
+    "Højlund (12 league / 16 total goals in 2025/26) is a young, improving focal point, now owned outright to 2030 with Lucca as cover.",
+    "Core retained and renewed: Meret and Rrahmani to 2027; Lang, Lucca, Rafa Marín all registered on the UEFA list despite earlier exit rumours.",
+    "Financially disciplined ownership; ~EUR 42m of sales covered a large share of the buy-outs."
   ],
   "weaknesses": [
-    "Very large squad turnover (13+ verified departures incl. Lukaku, Lang, Lucca) plus a coaching change means a new identity is being built during the league phase.",
-    "Allegri's teams typically generate lower chance volume; goal supply beyond Højlund is unverified after Lukaku/Lucca exits.",
-    "Failed to defend the 2025 title (7 pts behind Inter) and exited the Coppa Italia at the quarter-final.",
-    "Champions League 2025/26 outcome could not be verified as a positive."
+    "Coaching change from Conte to Allegri means a new identity is being built during the league phase; fourteen departures in one summer.",
+    "Allegri's teams typically generate lower chance volume; goal supply beyond Højlund (Lucca, Alisson Santos, Neres) is unproven at this level.",
+    "Failed to defend the 2025 title (7 pts behind Inter), exited the Coppa Italia at the quarter-final and went out of the 2025/26 Champions League in the league phase.",
+    "Buongiorno injured and unregistered; centre-back depth relies on Beukema, Rafa Marín and the new loanee Badiashile.",
+    "Left-back: Gutiérrez sold for EUR 30m; Spinazzola and Olivera are the only options."
   ],
   "positional_needs": [
     {
-      "position": "ST",
-      "priority": "high",
-      "profile": "physical target 9 as alternative to Højlund, 23-28",
-      "reason": "Lukaku (to Fenerbahçe) and Lucca (to Nottingham Forest) both left; only Dinis Rodrigues verified as an incoming forward",
-      "budget_eur_m": null,
-      "wage_ceiling_eur_m_net": null
-    },
-    {
-      "position": "LW",
-      "priority": "high",
-      "profile": "direct dribbler, left-footed or inverted",
-      "reason": "Noa Lang sold to Galatasaray",
-      "budget_eur_m": null,
-      "wage_ceiling_eur_m_net": null
-    },
-    {
       "position": "LB",
       "priority": "medium",
-      "profile": "attacking full-back comfortable in back four or as wing-back",
-      "reason": "Miguel Gutiérrez left for Bayer Leverkusen",
+      "profile": "attacking full-back comfortable in back four or as wing-back, 22-27",
+      "reason": "Miguel Gutiérrez sold to Bayer Leverkusen (EUR 30m); Spinazzola and Olivera remain",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    },
+    {
+      "position": "CB",
+      "priority": "medium",
+      "profile": "left-footed ball-playing CB, 23-27",
+      "reason": "Buongiorno injured and left off the UEFA list; Badiashile is a loan with a EUR 27m option",
+      "budget_eur_m": null,
+      "wage_ceiling_eur_m_net": null
+    },
+    {
+      "position": "ST",
+      "priority": "low",
+      "profile": "physical alternative to Højlund",
+      "reason": "Lukaku and Simeone left; Lucca retained as the only cover",
       "budget_eur_m": null,
       "wage_ceiling_eur_m_net": null
     }
@@ -280,11 +735,34 @@
     "https://www.napolitoday.it/sport/ssc-napoli/acquisti-cessioni-napoli-calciomercato-2026-2027.html",
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_SSC_Napoli_season",
     "https://en.wikipedia.org/wiki/2025%E2%80%9326_Coppa_Italia",
-    "https://www.futbolfantasy.com/mercado-de-fichajes-del-villarreal-altas-bajas/verano-2026"
+    "https://www.futbolfantasy.com/mercado-de-fichajes-del-villarreal-altas-bajas/verano-2026",
+    "https://www.calcionapoli1926.it/ultimissime-calcio-napoli/lista-champions-napoli-uefa-allegri/",
+    "https://football-italia.net/napoli-squad-list-2026-27-champions-league/",
+    "https://www.pianetazzurro.it/2026/09/03/lista-champions-napoli-restano-fuori-marianucci-giovane-e-buongiorno-dentro-i-due-neo-acquisti/",
+    "https://www.mondonapoli.it/news/2026/09/03/ssc-napoli-la-lista-champions-per-la-league-phase-2026-27-tre-gli-esclusi/",
+    "https://www.fantamaster.it/champions-league-lista-uefa-inter-napoli-como-fuori-buongiorno/",
+    "https://sport.sky.it/calcio/serie-a/classifica-serie-a-2025-2026",
+    "https://www.iamcalcio.it/dettagli/3/serie-a/2/napoli/65668/2025-2026.html",
+    "https://iltorinese.it/2026/01/29/champions-league-2025-26-juve-inter-e-atalanta-ai-playoff-napoli-eliminato/",
+    "https://sport.sky.it/calcio/champions-league/2026/01/28/champions-league-2025-2026-qualificate-ottavi-playoff-eliminate-verdetti",
+    "https://www.siamoilnapoli.it/2026/09/02/napoli-dalle-cessioni-arrivano-42-milioni-gutierrez-guida-gli-incassi/",
+    "https://www.calcionapoli1926.it/calciomercato-napoli/calciomercato-napoli-il-bottino-delle-uscite-azzurre-gutierrez-e-lukaku-le-piu-importanti/",
+    "https://www.calcionapoli1926.it/calciomercato-napoli/mercato-napoli-de-laurentiis-badiashile-favasuli-riscatti/",
+    "https://www.goal.com/it/liste/ufficiale-il-riscatto-di-hojlund-quanto-spende-il-napoli-le-cifre-dell-affare-col-manchester-united-nel-contratto-c-e-una-clausola-rescissoria/blta3c65ee98c13dc90",
+    "https://www.diretta.it/news/calcio-serie-a-napoli-scatta-il-riscatto-di-h-jlund-operazione-da-50-milioni-e-contratto-fino-al-2030/vVsVLsk4/",
+    "https://www.goal.com/it/liste/alisson-santos-hojlund-napoli-riscatto-cifre-formula/bltf4ef77a45a8b824f",
+    "https://www.ilnapolista.it/2026/07/riscatti-napoli-90-milioni-hojlund-lucca-gila/",
+    "https://www.ilfattoquotidiano.it/2026/08/20/serie-a-2026-27-acquisti-cessioni-formazioni-tipo-squadre/8483691/14/",
+    "https://www.dazn.com/it-IT/news/calcio/rosa-aggiornata-napoli-2026-27-tutti-i-giocatori-ruoli-e-numeri-di-maglia/lgg7pu90r7vs1qy2cz0xjq7vy",
+    "https://www.calcionapolinews.it/2026/08/numeri-maglia-stagione-2026-27/",
+    "https://www.dazn.com/it-IT/news/calcio/probabile-formazione-napoli-modulo-titolari-ballottaggi/pdr93cfzxz4y1lm86aplq1n33",
+    "https://www.spazionapoli.it/2026/07/07/formazione-tipo-napoli-2026-27-titolari-modulo-allegri/",
+    "https://www.goal.com/it/liste/meret-rinnova-col-napoli-sara-il-portiere-del-futuro-ingaggio-e-durata-del-contratto/blt6d6c4ad189da88f1",
+    "https://www.calcionapoli24.it/notizie/rinnovo-rrahmani-contratto-napoli-n562857.html"
   ],
-  "as_of": "2026-09-02",
+  "as_of": "2026-09-03",
   "data_quality": {
     "confidence": "medium",
-    "notes": "SQUAD IS PARTIAL: only players whose presence in the 2026/27 squad is supported by a source found during research are listed; a full 20-26 man squad, shirt numbers, contract dates and per-player 2025/26 minutes could not be retrieved because the research session lost web access (search budget exhausted; fetch to transfermarkt/fbref/uefa/club sites blocked). Ages are computed from publicly known birth dates. Verified: coach Allegri (3 Jul 2026, to 2029), UCL opponents with venues (club site), 2nd place with 76 pts (Inter 83), Coppa Italia QF, Højlund 12/16 goals. Transfer list comes from a NapoliToday summary that gives counterpart club and role but not direction; direction was inferred only where unambiguous (players previously owned by Napoli = departures; Badiashile from Chelsea and Dinis Rodrigues from Sion = arrivals). Fees, W/D/L, goals for/against, UCL 2025/26 exit round and top assister not retrieved. Allegri formation is his historical preference, not observed 2026/27 usage."
+    "notes": "Updated 2026-09-03 from search snippets. VERIFIED: Allegri (3 Jul 2026, to 2029; 4-3-3 used in the 2-0 win at Genoa on 22 Aug); Serie A 2nd, 76 pts, 58-36 (Sky Sport/IamCalcio final table) - W/D/L not retrieved; UCL 2025/26 league-phase exit (lost 2-3 to Chelsea MD8); Coppa Italia QF; all eight opponents with venues. SQUAD = the 23-man UEFA List A (SSC Napoli communique 2 Sep 2026, via CalcioNapoli1926/Football Italia) plus Buongiorno (injured, unregistered). CORRECTIONS to the earlier skeleton: Lang, Lucca and Rafa Marín were NOT sold - all three are on the UEFA list; Marianucci was not sold to Torino (he is at Napoli but left off the list); Cajuste went to Málaga (not Ipswich) on loan. Departures/fees from SiamoIlNapoli/CalcioNapoli1926 (total ~EUR 42m); buy-outs from Goal/Il Napolista (Højlund 44 + 6 loan, Alisson 15 + 3.5, Milinković-Savić 6 + 15, Lucca fee not retrieved); Badiashile EUR 3m loan / EUR 27m option; net_spend 29 = ~EUR 71m invested (CalcioNapoli1926) minus ~EUR 42m sales, approximate. Positions from Italian squad pages; roles from the Genoa starting XI and DAZN/SpazioNapoli formation analyses. Shirt numbers only where sourced (Højlund 19, Alisson 27, Favasuli 2, Milinković-Savić 32). Ages only Højlund 23, Badiashile 25. Contracts: Meret 2027, Rrahmani 2027 (+auto-renewal option), Højlund 2030. Per-player 2025/26 stats only Højlund (12 league goals); top assister, xG, budgets unverified."
   }
 }

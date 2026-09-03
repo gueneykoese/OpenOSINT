@@ -7,60 +7,608 @@
   "city": "Eindhoven",
   "ucl_2026_27": {
     "pot": 2,
-    "qualified_via": null,
-    "opponents_home": [],
-    "opponents_away": []
+    "qualified_via": "Eredivisie 2025/26 champions (27th title, clinched 5 Apr 2026)",
+    "opponents_home": [
+      "Atletico Madrid",
+      "Club Brugge",
+      "VfB Stuttgart",
+      "Shakhtar Donetsk"
+    ],
+    "opponents_away": [
+      "Real Madrid",
+      "FC Porto",
+      "RB Leipzig",
+      "Viking FK"
+    ]
   },
   "head_coach": {
-    "name": null,
-    "since": null,
-    "nationality": null,
-    "preferred_formation": null,
-    "style_keywords": []
+    "name": "Peter Bosz",
+    "since": "2023-07",
+    "nationality": "NED",
+    "preferred_formation": "4-3-3 (back-three variant trialled in pre-season 2026)",
+    "style_keywords": [
+      "possession dominance and dictating tempo",
+      "aggressive high press - 'never let the opponent have the ball'",
+      "positional play seeking superiorities",
+      "verticality and fluidity in the final third",
+      "record-breaking attack (101 Eredivisie goals in 2025/26)",
+      "stated 2026/27 priority: cut the 45 goals conceded"
+    ]
   },
   "identity": {
-    "playing_style": null,
-    "principles": [],
-    "club_character": null,
-    "ownership": null,
-    "political_and_social_context": null,
-    "languages": [],
-    "wage_structure": "unknown",
-    "transfer_policy": null,
+    "playing_style": "Bosz's PSV are a possession-dominant, high-pressing 4-3-3 side that controls games through short passing and positional play, with fluid movement in the final third; the 2025/26 champions scored 101 league goals (27-3-4, 84 points, 19 ahead of Feyenoord). The flip side was 45 goals conceded and a 28th-place UCL league-phase exit, so Bosz has publicly made defensive solidity the priority for 2026/27 while keeping the attacking identity; a back-three was tested in pre-season.",
+    "principles": [
+      "develop-and-sell to the elite: Saibari to Bayern for ~EUR 50m (club record) follows Tillman/Lang/Bakayoko sales",
+      "reinvest selectively in Eredivisie-proven Dutch talent (Mijnans EUR 13m from AZ) and cheap experienced back-ups (Kovar, Drommel)",
+      "promote from Jong PSV (Merien, Van den Berg) and keep a young core (Babadi, Abed, Bajraktarevic, Van Bommel)",
+      "coach continuity: Bosz contracted to mid-2028; GM Marcel Brands to 2029",
+      "three titles in four seasons; UCL participation is a structural revenue pillar"
+    ],
+    "club_character": "Foundation-owned, corporate-rooted club (founded by Philips) with a stable, low-drama boardroom culture and a loyal, family-oriented fanbase at the Philips Stadion; pressure is about titles and UCL knockout progress rather than survival. Dutch media scrutiny is intense but civil; the club's 2025/26 UCL failure (28th) was the main criticism of a title season.",
+    "ownership": "PSV NV (since 1 July 1999); its shares are held by the Stichting PSV Voetbal (board chaired by Eric van Schagen) plus one special/priority share held by the members' association Eindhovense Voetbalvereniging PSV. Philips is main sponsor, not a shareholder. General director Marcel Brands (since 2022, contract to mid-2029).",
+    "political_and_social_context": "Publicly documented: PSV is historically the Philips company club and retains Philips as main sponsor; foundation-board changes announced by the club. No institution-level controversies were found in this research.",
+    "languages": [
+      "nl",
+      "en"
+    ],
+    "wage_structure": "unknown (hierarchical in practice - Perisic, Schouten, Veerman presumed at the top; not verified)",
+    "transfer_policy": "Sell one star per summer to a top-five league at EUR 30-50m (Saibari 2026, Tillman/Lang 2025, Bakayoko), buy Eredivisie-proven Dutch players and Bundesliga back-ups at EUR 5-15m, promote Jong PSV graduates; targets are 20-25 with resale value.",
     "injury_management_reputation": null
   },
   "last_season_2025_26": {
-    "league_position": null,
-    "points": null,
-    "played": null,
-    "won": null,
-    "drawn": null,
-    "lost": null,
-    "goals_for": null,
-    "goals_against": null,
+    "league_position": 1,
+    "points": 84,
+    "played": 34,
+    "won": 27,
+    "drawn": 3,
+    "lost": 4,
+    "goals_for": 101,
+    "goals_against": 45,
     "xg_for": null,
     "xg_against": null,
     "possession_pct": null,
-    "ucl_result": null,
-    "domestic_cup": null,
+    "ucl_result": "League phase - eliminated in 28th place (lost final three matches incl. vs Bayern)",
+    "domestic_cup": "KNVB Beker semi-final (lost 2-3 at NEC, 3 Mar 2026)",
     "top_scorer": {
-      "name": null,
-      "goals": null
+      "name": "Ricardo Pepi",
+      "goals": 19
     },
     "top_assister": {
-      "name": null,
-      "assists": null
+      "name": "Joey Veerman",
+      "assists": 14
     }
   },
   "summer_2026_window": {
-    "arrivals": [],
-    "departures": [],
+    "arrivals": [
+      {
+        "name": "Sven Mijnans",
+        "from": "AZ Alkmaar",
+        "fee_eur_m": 13.0,
+        "position": "CM"
+      },
+      {
+        "name": "Matej Kovar",
+        "from": "Bayer Leverkusen",
+        "fee_eur_m": 5.0,
+        "position": "GK"
+      },
+      {
+        "name": "Joel Drommel",
+        "from": "Sparta Rotterdam",
+        "fee_eur_m": null,
+        "position": "GK"
+      },
+      {
+        "name": "Fabian Merien",
+        "from": "Jong PSV (promoted)",
+        "fee_eur_m": 0,
+        "position": null
+      },
+      {
+        "name": "Joel van den Berg",
+        "from": "Jong PSV (promoted)",
+        "fee_eur_m": 0,
+        "position": null
+      }
+    ],
+    "departures": [
+      {
+        "name": "Ismael Saibari",
+        "to": "Bayern Munich",
+        "fee_eur_m": 50.0,
+        "position": "AM"
+      },
+      {
+        "name": "Anass Salah-Eddine",
+        "to": "AS Roma (end of loan)",
+        "fee_eur_m": 0,
+        "position": "LB"
+      },
+      {
+        "name": "Niek Schiks",
+        "to": "RKC Waalwijk (loan)",
+        "fee_eur_m": 0,
+        "position": "GK"
+      }
+    ],
     "net_spend_eur_m": null
   },
-  "squad": [],
-  "strengths": [],
-  "weaknesses": [],
-  "positional_needs": [],
+  "squad": [
+    {
+      "name": "Nick Olij",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": 1,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Matej Kovar",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "CZE",
+      "contract_until": null,
+      "shirt_no": 32,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Joel Drommel",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Sergino Dest",
+      "position": "RB",
+      "secondary_positions": [
+        "LB",
+        "RW"
+      ],
+      "age": null,
+      "nationality": "USA",
+      "contract_until": null,
+      "shirt_no": 8,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Kiliann Sildillia",
+      "position": "RB",
+      "secondary_positions": [
+        "CB"
+      ],
+      "age": null,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 25,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ryan Flamingo",
+      "position": "CB",
+      "secondary_positions": [
+        "RB"
+      ],
+      "age": null,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": 6,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Yarek Gasiorowski",
+      "position": "CB",
+      "secondary_positions": [
+        "LB"
+      ],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 3,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Armando Obispo",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "CUW",
+      "contract_until": null,
+      "shirt_no": 4,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Mauro Junior",
+      "position": "LB",
+      "secondary_positions": [
+        "CM",
+        "RB"
+      ],
+      "age": null,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": 17,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Jerdy Schouten",
+      "position": "DM",
+      "secondary_positions": [
+        "CB"
+      ],
+      "age": null,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Joey Veerman",
+      "position": "CM",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": null,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": 14
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Sven Mijnans",
+      "position": "CM",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": null,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": 21,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Guus Til",
+      "position": "AM",
+      "secondary_positions": [
+        "CM",
+        "ST"
+      ],
+      "age": null,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Isaac Babadi",
+      "position": "AM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": null,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Tai Abed",
+      "position": "AM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": null,
+      "nationality": "ISR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ivan Perisic",
+      "position": "LW",
+      "secondary_positions": [
+        "RW",
+        "LB"
+      ],
+      "age": null,
+      "nationality": "CRO",
+      "contract_until": null,
+      "shirt_no": 5,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ruben van Bommel",
+      "position": "LW",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": null,
+      "nationality": "NED",
+      "contract_until": null,
+      "shirt_no": 7,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Couhaib Driouech",
+      "position": "LW",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": null,
+      "nationality": "MAR",
+      "contract_until": null,
+      "shirt_no": 11,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Dennis Man",
+      "position": "RW",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": null,
+      "nationality": "ROU",
+      "contract_until": null,
+      "shirt_no": 27,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Esmir Bajraktarevic",
+      "position": "RW",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": null,
+      "nationality": "USA",
+      "contract_until": null,
+      "shirt_no": 19,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ricardo Pepi",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "USA",
+      "contract_until": null,
+      "shirt_no": 9,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 19,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Alassane Plea",
+      "position": "ST",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": null,
+      "nationality": "FRA",
+      "contract_until": null,
+      "shirt_no": 14,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    }
+  ],
+  "strengths": [
+    "Most dominant domestic side in the pool: 84 points and 101 goals in 2025/26, title won with six rounds to spare.",
+    "Proven scorers retained: Pepi (19 goals, 16 in the league) plus Man, Perisic (kept despite exit talk) and Til.",
+    "Elite creator in Veerman (14 Eredivisie assists) with Schouten anchoring midfield.",
+    "Coach and boardroom stability (Bosz to 2028, Brands to 2029) and a clear positional-play identity.",
+    "Record Saibari sale (~EUR 50m) gives financial headroom without weakening the first XI's defence."
+  ],
+  "weaknesses": [
+    "Defensive fragility: 45 league goals conceded by a champion and 28th in the UCL league phase; Bosz himself flagged it.",
+    "Saibari's 19 goals from midfield not directly replaced - Mijnans is the only creative arrival.",
+    "Left-back is thin after Salah-Eddine's return to Roma: Mauro Junior is the only natural option (no. 2 shirt left vacant).",
+    "Ageing key attackers (Perisic 37, Plea) against a very young bench (Babadi, Abed, Bajraktarevic).",
+    "Goalkeeping hierarchy unsettled after a summer of changes (Olij vs new signing Kovar)."
+  ],
+  "positional_needs": [
+    {
+      "position": "LB",
+      "priority": "high",
+      "profile": "attacking left-back comfortable in a high line, 21-26",
+      "reason": "Salah-Eddine returned to Roma; the no. 2 shirt is vacant and Mauro Junior is the only natural LB.",
+      "budget_eur_m": 10,
+      "wage_ceiling_eur_m_net": 1.5
+    },
+    {
+      "position": "CB",
+      "priority": "medium",
+      "profile": "dominant, quick centre-back for a high line, 22-27",
+      "reason": "45 conceded in 2025/26; Bosz's stated priority is defensive improvement.",
+      "budget_eur_m": 15,
+      "wage_ceiling_eur_m_net": 2
+    },
+    {
+      "position": "AM",
+      "priority": "medium",
+      "profile": "goal-scoring No. 10/No. 8 from midfield, 20-25",
+      "reason": "Saibari (19 goals) sold to Bayern.",
+      "budget_eur_m": 15,
+      "wage_ceiling_eur_m_net": 1.5
+    }
+  ],
   "position_benchmarks": {
     "ST": {
       "goals_p90": null,
@@ -80,12 +628,42 @@
     }
   },
   "sources": [
-    "https://www.uefa.com/uefachampionsleague/news/02a8-215821715a96-9a3b43fad585-1000--uefa-champions-league-league-phase-draw/",
-    "https://www.espn.com/soccer/story/_/id/49736233/champions-league-phase-draw-seeding-pots-2026-2027"
+    "https://www.vandaaginside.nl/artikelen/officieel-peter-bosz-nieuwe-hoofdtrainer-van-psv",
+    "https://www.voetbalprimeur.nl/nieuws/2112542/dit-zijn-alle-trainers-in-de-eredivisie-voor-het-seizoen-2026-2027.html",
+    "https://nl.wikipedia.org/wiki/PSV_in_het_seizoen_2026/27_(mannen)",
+    "https://www.goal.com/en-za/news/season-preview-psv-2026-27-bosz-chase-title-number-four-but-have-another-mission-too/bltd94f628fb67d726b",
+    "https://www.voetbalzone.nl/nieuws/seizoensvoorbeschouwing-psv-2026-27-bosz-jaagt-op-landstitel-nummer-vier-maar-heeft-nog-een-missie/bltd94f628fb67d726b",
+    "https://totalfootballanalysis.com/head-coach-analysis/peter-bosz-at-psv-eindhoven-2023-24-tactical-analysis-tactics",
+    "https://www.eurosport.nl/voetbal/uefa-champions-league/2026-2027/loting-champions-league-levert-psv-pittige-groepsfase-op-feyenoord-tegen-inter-en-fc-barcelona_sto23331765/story.shtml",
+    "https://www.psv.nl/ticketinfo/veelgestelde-vragen/informatie-league-phase-uefa-champions-league-2026-2027",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Eredivisie",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_PSV_Eindhoven_season",
+    "https://nl.wikipedia.org/wiki/PSV_in_het_seizoen_2025/26_(mannen)",
+    "https://www.fcupdate.nl/voetbalcompetities/nederland/eredivisie/stand/2025-2026",
+    "https://www.supver-psv.nl/cgi-bin/algemeen/wedstrijd.pl?nummer=1493",
+    "https://nl.wikipedia.org/wiki/KNVB_Beker_2025/26_(mannen)",
+    "https://www.fotmob.com/leagues/57/stats/season/27131/players/goals/team/8640/psv",
+    "https://www.topscorervoetbal.nl/eredivisie/seizoen-2025/2026",
+    "https://psvstats.nl/nl/players",
+    "https://www.psvinside.nl/en/news/psvs-provisional-squad-numbers-for-20262027-in-a-list",
+    "https://www.voetbalprimeur.nl/nieuws/2115950/psv-maakt-rugnummers-bekend.html",
+    "https://www.psvfans.nl/psv-maakt-rugnummers-bekend-van-de-selectie-voor-nieuwe-seizoen/",
+    "https://www.supver-psv.nl/nl/seizoen/selectie.html",
+    "https://www.goal.com/en/team/psv-eindhoven/squad/24fvcruwqrqvqa3aonf8c3zuy",
+    "https://goalscore.nl/psv-selectie/",
+    "https://www.voetbal4u.com/psv-spelersselectie-2026-2027/",
+    "https://www.voetbalnieuws.nl/nieuws/2109933/zo-verloopt-de-zomerse-transferperiode-van-psv-richting-het-seizoen-2026-2027.html",
+    "https://www.psvinside.nl/transfernieuws/handig-overzicht-dit-zijn-alle-inkomende-en-uitgaande-transfers-van-psv",
+    "https://goalscore.nl/psv-transfers/",
+    "https://www.fcupdate.nl/voetbalteams/nederland/psv/transfers",
+    "https://www.psv.nl/club/organisatie/structuur",
+    "https://www.psv.nl/media/artikel/nieuws-wisselingen-in-het-bestuur-van-de-stichting-psv-voetbal",
+    "https://nos.nl/artikel/2595780-algemeen-directeur-brands-verlengt-tot-2029-bij-psv",
+    "https://www.businessinsider.nl/het-grote-geld-van-psv/"
   ],
-  "as_of": "2026-09-02",
+  "as_of": "2026-09-03",
   "data_quality": {
-    "confidence": "low",
-    "notes": "PLACEHOLDER - NOT RESEARCHED. The session-wide WebSearch budget (200 calls) was exhausted before this club could be researched, and WebFetch/curl are blocked by the network egress proxy for all football data domains tested (transfermarkt, fbref, fotmob, sofascore, flashscore, espn, bbc, skysports, wikipedia, uefa, club site). Only stable identity fields (name, country, league, city, Pot 2 as stated in the brief) are filled; all 2026/27 squad, coach, summer-window, last-season and UCL-draw fields are intentionally null/empty rather than populated from unverified memory, in line with the no-invented-data rule. Re-run research for this club once search budget is available."
+    "confidence": "medium",
+    "notes": "Search-snippet research only. VERIFIED: coach Peter Bosz retained for 2026/27, contract to mid-2028 (Voetbalprimeur trainers list, Wikipedia 2026/27 season page); his start date 2023-07 is from the 2023 appointment article. UCL draw 4H (Shakhtar 10 Sep, Club Brugge 4 Nov, Atletico 9 Dec, Stuttgart 27 Jan) / 4A (Porto, Leipzig, Viking, Real Madrid) per Eurosport/PSV.nl - consistent with our Porto (PSV away at Porto) and Club Brugge (Brugge away at PSV) files. Table 1st/84/34/27-3-4/101-45 (Wikipedia, FCUpdate). UCL 28th in league phase (nl.wikipedia); KNVB Beker SF lost 2-3 at NEC (supporters' association match page). Top scorer: Pepi 19 in all competitions (16 Eredivisie) - Saibari ALSO scored 19 in all competitions per the same snippet, Pepi chosen as the retained player; earlier 'Til 10 goals' snippet was mid-season and discarded. Veerman 14 assists = Eredivisie only. TRANSFERS: 2026 window per Voetbalnieuws/PSV Inside (Kovar EUR 5m, Mijnans EUR 13m, Drommel fee unknown, Saibari ~EUR 50m 'approximately', Salah-Eddine loan end, Schiks loan); a search result listing Lang/Tillman/Boscagli/Benitez departures was the 2025 window and was IGNORED. Squad numbers from the provisional 2026/27 list (PSV Inside/Voetbalprimeur/Voetbal4U); Schouten, Veerman, Til, Babadi, Abed, Drommel numbers not seen. Names 'Wanner' and 'Fernandez' appeared in one roster snippet but could not be verified and are omitted; promoted youngsters Merien and Van den Berg omitted from the squad (positions unknown). Ages, contracts, per-player stats null except sourced goals/assists; Perisic's age (37) in weaknesses is from his public birth year (1989). Positions/roles are analyst judgements; budgets are guesses; xG/possession null."
   }
 }

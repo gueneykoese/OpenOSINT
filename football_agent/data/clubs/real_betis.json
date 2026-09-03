@@ -7,61 +7,445 @@
   "city": "Seville",
   "ucl_2026_27": {
     "pot": 2,
-    "qualified_via": null,
-    "opponents_home": [],
-    "opponents_away": []
+    "qualified_via": "La Liga 2025/26 5th place - European Performance Spot (Spain's extra UCL place); first UCL since 2005/06",
+    "opponents_home": [
+      "Arsenal",
+      "FC Porto",
+      "Feyenoord",
+      "Como"
+    ],
+    "opponents_away": [
+      "Bayern Munich",
+      "Borussia Dortmund",
+      "Lille",
+      "Slovan Bratislava"
+    ]
   },
   "head_coach": {
-    "name": null,
-    "since": null,
-    "nationality": null,
-    "preferred_formation": null,
-    "style_keywords": []
+    "name": "Manuel Pellegrini",
+    "since": "2020-07",
+    "nationality": "CHI",
+    "preferred_formation": "4-2-3-1",
+    "style_keywords": [
+      "possession-based, positional attacking football",
+      "creative No. 10 (Isco/Lo Celso) as the hub",
+      "wide 1v1 threats (Antony, Abde)",
+      "calm, low-rotation management",
+      "seventh season in charge - longest-serving La Liga coach",
+      "contract extended to 30 Jun 2027"
+    ]
   },
   "identity": {
-    "playing_style": null,
-    "principles": [],
-    "club_character": null,
-    "ownership": null,
-    "political_and_social_context": null,
-    "languages": [],
-    "wage_structure": "unknown",
-    "transfer_policy": null,
+    "playing_style": "Pellegrini's Betis play a patient, possession-oriented 4-2-3-1 in which the playmaker (Isco, Lo Celso) links a double pivot to two direct wingers - Antony on the right (12 goals, 9 assists by April 2026) and Abde on the left - with a mobile No. 9 (Cucho, now joined by Parrott). The 2025/26 side drew 15 of 38 league games and conceded 48, finishing 5th on 60 points, but reached the Europa League quarter-finals and secured a first UCL appearance in 21 years via Spain's European performance spot.",
+    "principles": [
+      "stability: Pellegrini since 2020 (Copa del Rey 2022, Conference League final 2025, UCL 2026)",
+      "balance experienced free/low-fee signings (Isco, Lo Celso, Bartra, Ceballos free 2026) with young resale assets (Bernal EUR 9.5-10.5m with EUR 50m clause, Parrott EUR 16m+4m to 2031)",
+      "sell to fund: Altimira to Sporting EUR 18.2m; loan-to-buy where possible (Antony 2025, Amrabat returned)",
+      "Nuevo Villamarin stadium rebuild - playing at La Cartuja meanwhile",
+      "cantera pathway (Angel Ortiz, Pablo Garcia promoted)"
+    ],
+    "club_character": "One of Spain's best-supported clubs (60,000-plus season-ticket base) with a famously loyal, emotional fanbase ('Betis manque pierda') and a fierce city rivalry with Sevilla FC. Big-club atmosphere with mid-table historical resources; pressure is high but the boardroom has been unusually stable. Playing temporarily at the Estadio La Cartuja while the Benito Villamarin is rebuilt.",
+    "ownership": "Real Betis Balompie SAD, publicly held with two dominant private shareholders: president Angel Haro (Wingenia holding) and vice-president Jose Miguel Lopez Catalan, ~19.5% each (~39% together); board members Haro, Lopez Catalan, Jose Maria Pagola and Ricardo Diaz re-elected at the shareholders' meeting.",
+    "political_and_social_context": "Publicly documented: the club's shareholders' meeting approved growth accounts and progress on the Nuevo Villamarin project; Betis has run the Forever Green sustainability programme. The 2025/26 Copa quarter-final and Europa League ties were played at La Cartuja during the stadium works. No institution-level controversies found in this research.",
+    "languages": [
+      "es",
+      "en",
+      "pt"
+    ],
+    "wage_structure": "unknown (Isco, Lo Celso, Antony presumed at the top - not verified)",
+    "transfer_policy": "Value-driven under Manu Fajardo: free agents with pedigree (Ceballos, Isco, Lo Celso), part-ownership/loan structures (Fran Garcia EUR 4m for 50%, Conde loan, Antony), one or two EUR 10-20m bets on 22-25-year-olds (Parrott, Bernal) financed by selling academy/young assets (Altimira EUR 18.2m).",
     "injury_management_reputation": null
   },
   "last_season_2025_26": {
-    "league_position": null,
-    "points": null,
-    "played": null,
-    "won": null,
-    "drawn": null,
-    "lost": null,
-    "goals_for": null,
-    "goals_against": null,
+    "league_position": 5,
+    "points": 60,
+    "played": 38,
+    "won": 15,
+    "drawn": 15,
+    "lost": 8,
+    "goals_for": 59,
+    "goals_against": 48,
     "xg_for": null,
     "xg_against": null,
     "possession_pct": null,
-    "ucl_result": null,
-    "domestic_cup": null,
+    "ucl_result": "Not in UCL - UEFA Europa League quarter-final (lost 3-5 on aggregate to Braga; 2-4 at La Cartuja on 16 Apr 2026)",
+    "domestic_cup": "Copa del Rey quarter-final (lost 1-5 to Atletico Madrid)",
     "top_scorer": {
-      "name": null,
-      "goals": null
+      "name": "Antony",
+      "goals": 12
     },
     "top_assister": {
-      "name": null,
-      "assists": null
+      "name": "Antony",
+      "assists": 9
     }
   },
   "summer_2026_window": {
-    "arrivals": [],
-    "departures": [],
+    "arrivals": [
+      {
+        "name": "Troy Parrott",
+        "from": "AZ Alkmaar",
+        "fee_eur_m": 16.0,
+        "position": "ST"
+      },
+      {
+        "name": "Facundo Bernal",
+        "from": "Fluminense",
+        "fee_eur_m": 9.5,
+        "position": "DM"
+      },
+      {
+        "name": "Fran Garcia",
+        "from": "Real Madrid (50% of rights)",
+        "fee_eur_m": 4.0,
+        "position": "LB"
+      },
+      {
+        "name": "Dani Ceballos",
+        "from": "Real Madrid (free agent)",
+        "fee_eur_m": 0,
+        "position": "CM"
+      },
+      {
+        "name": "Diego Conde",
+        "from": "Villarreal (loan)",
+        "fee_eur_m": 0,
+        "position": "GK"
+      },
+      {
+        "name": "Angel Ortiz",
+        "from": "Betis Deportivo (promoted)",
+        "fee_eur_m": 0,
+        "position": "RB"
+      }
+    ],
+    "departures": [
+      {
+        "name": "Sergi Altimira",
+        "to": "Sporting CP",
+        "fee_eur_m": 18.2,
+        "position": "DM"
+      },
+      {
+        "name": "Sofyan Amrabat",
+        "to": "Fenerbahce (end of loan)",
+        "fee_eur_m": 0,
+        "position": "DM"
+      },
+      {
+        "name": "Ricardo Rodriguez",
+        "to": "free agent",
+        "fee_eur_m": 0,
+        "position": "LB"
+      },
+      {
+        "name": "Cedric Bakambu",
+        "to": "free agent",
+        "fee_eur_m": 0,
+        "position": "ST"
+      },
+      {
+        "name": "Chimy Avila",
+        "to": "free agent",
+        "fee_eur_m": 0,
+        "position": "ST"
+      },
+      {
+        "name": "Adrian San Miguel",
+        "to": "retired",
+        "fee_eur_m": 0,
+        "position": "GK"
+      }
+    ],
     "net_spend_eur_m": null
   },
   "squad": [
     {
+      "name": "Alvaro Valles",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 1,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Diego Conde",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": "season loan from Villarreal (reported)"
+    },
+    {
+      "name": "Hector Bellerin",
+      "position": "RB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 2,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Angel Ortiz",
+      "position": "RB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 12,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Diego Llorente",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 3,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Natan",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": 4,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Marc Bartra",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 5,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Valentin Gomez",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ARG",
+      "contract_until": null,
+      "shirt_no": 16,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Fran Garcia",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": 2030,
+      "shirt_no": 11,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Junior Firpo",
+      "position": "LB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "DOM",
+      "contract_until": null,
+      "shirt_no": 23,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Facundo Bernal",
+      "position": "DM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": null,
+      "nationality": "URU",
+      "contract_until": 2030,
+      "shirt_no": 6,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Marc Roca",
+      "position": "DM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 21,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Pablo Fornals",
+      "position": "CM",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 8,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Alvaro Fidalgo",
+      "position": "CM",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 15,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Nelson Deossa",
+      "position": "CM",
+      "secondary_positions": [
+        "DM"
+      ],
+      "age": null,
+      "nationality": "COL",
+      "contract_until": null,
+      "shirt_no": 18,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
       "name": "Dani Ceballos",
       "position": "CM",
-      "secondary_positions": [],
+      "secondary_positions": [
+        "DM",
+        "AM"
+      ],
       "age": 30,
       "nationality": "ESP",
       "contract_until": null,
@@ -75,11 +459,226 @@
         "assists": null
       },
       "injury_flag": null
+    },
+    {
+      "name": "Giovani Lo Celso",
+      "position": "AM",
+      "secondary_positions": [
+        "CM",
+        "LW"
+      ],
+      "age": null,
+      "nationality": "ARG",
+      "contract_until": null,
+      "shirt_no": 20,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Isco",
+      "position": "AM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 22,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Antony",
+      "position": "RW",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": null,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": 7,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 12,
+        "assists": 9
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Aitor Ruibal",
+      "position": "RW",
+      "secondary_positions": [
+        "RB"
+      ],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Pablo Garcia",
+      "position": "RW",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ez Abde",
+      "position": "LW",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": null,
+      "nationality": "MAR",
+      "contract_until": null,
+      "shirt_no": 10,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Rodrigo Riquelme",
+      "position": "LW",
+      "secondary_positions": [
+        "AM",
+        "LB"
+      ],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 17,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Cucho Hernandez",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "COL",
+      "contract_until": null,
+      "shirt_no": 9,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Troy Parrott",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "IRL",
+      "contract_until": 2031,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
     }
   ],
-  "strengths": [],
-  "weaknesses": [],
-  "positional_needs": [],
+  "strengths": [
+    "Elite creativity for a Pot-2 side: Isco, Lo Celso and Fornals behind Antony (12 goals/9 assists by April 2026) and Abde.",
+    "Continuity and calm: Pellegrini's seventh season, contract to 2027, and a stable board; Conference League final (2025) and EL quarter-final (2026) give recent European experience.",
+    "Reinforced spine: Parrott (EUR 16m+4m) adds a second No. 9, Bernal and Ceballos rebuild the pivot after Altimira/Amrabat left.",
+    "Hard to beat in Europe at La Cartuja; big-crowd atmosphere in a 60,000-capacity venue.",
+    "Balanced full-back depth (Bellerin/Ortiz, Fran Garcia/Firpo)."
+  ],
+  "weaknesses": [
+    "Drew 15 of 38 league games and conceded 48 - a lack of killer instinct and defensive solidity against a UCL schedule (Arsenal, Bayern, Dortmund).",
+    "Ageing core: Isco, Bartra, Bellerin, Lo Celso and Ceballos are all 30-plus - fitness risk over a 50-plus-game season.",
+    "Collapsed from 2-0 up to lose 2-4 to Braga (EL QF) and lost 1-5 at home to Atletico (Copa QF) - concentration under pressure.",
+    "Goalkeeping: Valles plus a loanee back-up after Adrian's retirement.",
+    "Squad-number squeeze (only two free numbers by late August) signals a full, hard-to-trim squad with limited flexibility."
+  ],
+  "positional_needs": [
+    {
+      "position": "CB",
+      "priority": "high",
+      "profile": "fast, aerially dominant centre-back, 23-27, left-footed preferred",
+      "reason": "48 conceded in the league; Bartra and Llorente are 30-plus, Natan and Gomez the only younger options.",
+      "budget_eur_m": 15,
+      "wage_ceiling_eur_m_net": 2.5
+    },
+    {
+      "position": "DM",
+      "priority": "medium",
+      "profile": "athletic ball-winning No. 6 with UCL experience, 24-28",
+      "reason": "Altimira sold and Amrabat returned to Fenerbahce; Bernal is 22 and new to Europe.",
+      "budget_eur_m": 12,
+      "wage_ceiling_eur_m_net": 2
+    },
+    {
+      "position": "GK",
+      "priority": "low",
+      "profile": "experienced back-up/challenger, 26-32",
+      "reason": "Adrian retired; Conde is only on loan.",
+      "budget_eur_m": 5,
+      "wage_ceiling_eur_m_net": 1
+    }
+  ],
   "position_benchmarks": {
     "ST": {
       "goals_p90": null,
@@ -99,12 +698,45 @@
     }
   },
   "sources": [
-    "https://www.uefa.com/uefachampionsleague/news/02a8-215821715a96-9a3b43fad585-1000--uefa-champions-league-league-phase-draw/",
-    "https://www.espn.com/soccer/story/_/id/49736233/champions-league-phase-draw-seeding-pots-2026-2027"
+    "https://www.realbetisbalompie.es/noticias/actualidad/manuel-pellegrini-amplia-su-vinculacion-con-el-real-betis-balompie-26905",
+    "https://espndeportes.espn.com/futbol/espana/nota/_/id/16016618/pellegrini-extiende-su-contrato-con-betis-hasta-2027",
+    "https://www.fichajes.com/equipo/real-betis-balompie/plantilla/",
+    "https://www.betfair.es/blog/futbol/futbol-espanol/laliga/real-betis-fichajes-plantilla-y-alineacion-ideal-para-la-temporada-202627-030826-1377.html",
+    "https://www.sevillaactualidad.com/deportes/betis/597619-el-calendario-del-betis-en-la-champions-league-2026-2027-fechas-y-horarios-de-todos-sus-partidos/",
+    "https://www.elmira.es/articulo/futbol/son-rivales-real-betis-vuelta-champions-league/20260827185633613727.html",
+    "https://www.eldesmarque.com/futbol/champions-league/20260829/real-betis-calendario-horarios-champions-league_18_020038561.html",
+    "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--do-not-publish-202627-champions-league-all-the-league-phase-fixtures/",
+    "https://es-us.noticias.yahoo.com/sorteo-champions-league-2026-27-203906680.html",
+    "https://es.wikipedia.org/wiki/Anexo:Temporada_2025-26_del_Real_Betis_Balompi%C3%A9",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_La_Liga",
+    "https://es.uefa.com/uefachampionsleague/news/02a2-1fdc0b79133b-6b91b498f46d-1000--uefa-champions-league-2026-27-liverpool-y-real-betis-se-as/",
+    "https://mundobetis.com/2026/05/29/las-notas-del-betis-2025-26-uno-por-uno-de-la-historica-clasificacion-a-champions/",
+    "https://www.cope.es/programas/tiempo-de-juego/cronica/directo-betis-sporting-braga-europa-league-vuelta-1-4-16-20260416_3347128.html",
+    "https://www.eurosport.es/futbol/europa-league/2025-2026/live-betis-braga_mtc1601504/live-commentary.shtml",
+    "https://www.realbetisbalompie.es/noticias/actualidad/el-real-betis-cae-eliminado-de-la-copa-del-rey-5-1-30938",
+    "https://mundobetis.com/2026/03/30/los-jugadores-con-mejor-rendimiento-del-real-betis-2025-26/",
+    "https://x.com/OptaJose/status/2050990115476922510",
+    "https://www.fotmob.com/es-419/leagues/87/stats/season/27233/players/goals/team/8603/real-betisplayersteams",
+    "https://www.realbetisbalompie.es/primer-equipo/plantilla/",
+    "https://www.laliga.com/en-GB/clubs/real-betis/squad",
+    "https://www.eldesmarque.com/futbol/mercado-de-fichajes/20260821/dorsales-libres-betis-fichaje-troy-parrott_18_019991354.html",
+    "https://www.fichajes.net/noticias/oficial-troy-parrott-nuevo-jugador-betis-20260820.html",
+    "https://www.futbolfantasy.com/laliga/noticias/149251-el-betis-cierra-con-el-az-el-fichaje-de-troy-parrott",
+    "https://www.sofascore.com/es/news/el-real-betis-ficha-a-fran-garcia-procedente-del-real-madrid-por-4-millones-de-euros-que-aporta",
+    "https://www.futbolfantasy.com/laliga/noticias/147076-betis-y-real-madrid-acuerdan-el-traspaso-del-50-de-fran-garcia",
+    "https://defensacentral.com/actualidad/es-oficial-madrid-anuncia-traspaso-fran-garcia-betis-firma-hasta-ano-2030_340555_102.html",
+    "https://www.futbolfantasy.com/laliga/noticias/146999-facundo-bernal-primer-fichaje-betis-traspaso-acordado-fluminense",
+    "https://www.lance.com.br/fluminense/fluminense-anuncia-venda-de-facundo-bernal-ao-betis.html",
+    "https://www.futbolfantasy.com/mercado-de-fichajes-del-betis-altas-bajas/verano-2026",
+    "https://www.fichajes.com/equipo/real-betis-balompie/altas-bajas/",
+    "https://www.ojogo.pt/futebol/artigo/oficial-altimira-e-o-quinto-reforco-do-sporting-para-202627/18101092",
+    "https://www.realbetisbalompie.es/club/consejo-de-administracion/",
+    "https://www.101tv.es/el-real-betis-consolida-su-crecimiento-en-la-junta-de-accionista-y-avanza-hacia-el-nuevo-villamarin",
+    "https://elcierredigital.com/pizarra-deportiva/angel-haro-millonario-controla-real-betis-tras-rastro-lopera"
   ],
-  "as_of": "2026-09-02",
+  "as_of": "2026-09-03",
   "data_quality": {
-    "confidence": "low",
-    "notes": "PLACEHOLDER - NOT RESEARCHED. The session-wide WebSearch budget (200 calls) was exhausted before this club could be researched, and WebFetch/curl are blocked by the network egress proxy for all football data domains tested (transfermarkt, fbref, fotmob, sofascore, flashscore, espn, bbc, skysports, wikipedia, uefa, club site). Only stable identity fields (name, country, league, city, Pot 2 as stated in the brief) are filled; all 2026/27 squad, coach, summer-window, last-season and UCL-draw fields are intentionally null/empty rather than populated from unverified memory, in line with the no-invented-data rule. Re-run research for this club once search budget is available. | Reconciled 2026-09-02 with player-pool research: Ceballos added (joined Real Betis on a free 1 Sep 2026, see players/dani_ceballos.json)."
+    "confidence": "medium",
+    "notes": "Search-snippet research only. VERIFIED: coach Pellegrini (contract extended to 30 Jun 2027; listed as 2026/27 coach, 7th season - club site/ESPN/Fichajes); start date 2020-07 from public record. UCL draw: the eight opponents are consistent across sources; the home/away split had ONE conflicting snippet (Elmira: Dortmund home/Arsenal away) versus the dated calendar (Sevilla Actualidad/UEFA: Lille a. 8 Sep, Porto h. 14 Oct, Dortmund a. 4 Nov, Slovan a. 24 Nov, Como h. 9 Dec, Bayern a. 27 Jan) - resolved in favour of the dated calendar and cross-checked against our Arsenal, Porto, Feyenoord, Como, Bayern, Dortmund and Slovan files, which all agree. Table: 5th/60 pts/15-15-8/59 GF (es.wikipedia snippet); GOALS AGAINST 48 IS DERIVED from the stated +11 goal difference, not read directly. Qualification via Spain's European Performance Spot (UEFA.com). EL QF exit to Braga and Copa QF 1-5 to Atletico verified (club site headline '5-1'; one snippet said 0-5). Top scorer/assister Antony 12 goals / 9 assists is a MundoBetis figure as of late April 2026 (all competitions) - season-final totals not found; Opta's league-only figure was 7G/6A in 28 games. SQUAD (25): numbers 1-23 from the club's official plantilla list; Parrott (no. 14 or 25 - not confirmed), Conde, Ruibal and Pablo Garcia numbers unknown; Ceballos no. 19/age 30 carried over from players/dani_ceballos.json; Riquelme no. 17 per official list. Pau Lopez not on the official list and omitted. Contract years only where sourced (Fran Garcia 2030, Bernal 2030, Parrott 2031). Bernal fee reported as EUR 9.5m or 10.5m; Parrott EUR 16m + 4m variables; Fran Garcia EUR 4m for 50% of rights; Altimira EUR 18.2m (O Jogo). Ceballos free (1 Sep 2026) and Amrabat's return to Fenerbahce reconciled from our other research; Ceballos' arrival club is Real Madrid per our player file. Departure list from FutbolFantasy summary; other exits (loans of fringe players) may be missing. Ages in weaknesses ('30-plus') are from public birth years, not re-sourced. Positions/roles are analyst judgements; budgets are guesses; xG/possession/per-player stats null."
   }
 }

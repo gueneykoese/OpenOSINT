@@ -3,75 +3,817 @@
   "name": "Sporting Clube de Portugal",
   "short_name": "Sporting CP",
   "country": "POR",
-  "league": "Liga Portugal",
+  "league": "Primeira Liga",
   "city": "Lisbon",
   "ucl_2026_27": {
     "pot": 2,
-    "qualified_via": null,
+    "qualified_via": "Primeira Liga 2025/26 runner-up (82 pts, behind FC Porto)",
     "opponents_home": [
+      "Barcelona",
+      "Manchester United",
+      "Galatasaray",
       "LASK"
     ],
     "opponents_away": [
-      "Lens",
-      "Man City"
+      "Manchester City",
+      "Roma",
+      "Shakhtar Donetsk",
+      "Lens"
     ]
   },
   "head_coach": {
-    "name": null,
-    "since": null,
-    "nationality": null,
-    "preferred_formation": null,
-    "style_keywords": []
+    "name": "Rui Borges",
+    "since": "2024-12",
+    "nationality": "POR",
+    "preferred_formation": "4-2-3-1 (own system introduced from pre-season 2025; 3-4-3 inherited from Amorim kept as a fallback)",
+    "style_keywords": [
+      "high goal output (200 goals in his first 89 games, 2.2 per game)",
+      "possession with a midfielder dropping into a back three in build-up",
+      "inverted right-back to create midfield overloads",
+      "emphasis on defensive balance",
+      "adaptable between back-four and back-three in-game",
+      "very young squad (average ~21 in Aug 2026)"
+    ]
   },
   "identity": {
-    "playing_style": null,
-    "principles": [],
-    "club_character": null,
-    "ownership": null,
-    "political_and_social_context": null,
+    "playing_style": "Under Rui Borges, Sporting build patiently with one midfielder (formerly Hjulmand) dropping between the centre-backs and the right-back tucking inside, then attack at volume - 89 league goals (best in Portugal) in 2025/26 and 2.2 goals per game across his first 89 matches. Borges has never coached a back-three side by preference and has gradually moved from Amorim's 3-4-3 to his own back-four model, prioritising more defensive balance than his predecessor. The 2026/27 side is a rebuilt, very young group (average age around 21) after record sales.",
+    "principles": [
+      "develop-and-sell at record prices (Quenda EUR 50m, Trincao ~EUR 44m, Hjulmand EUR 40m+5m, Diomande EUR 40m) with huge release clauses on new signings (EUR 80m on Altimira, Ba, Kaique)",
+      "reinvest sales into young, high-upside profiles (10 signings for 2026/27, EUR 116m+ spent)",
+      "coach continuity: Rui Borges contracted to 2028",
+      "academy pathway (Alcochete) - Rafael Nel handed the no. 9, Flavio Goncalves and Joao Simoes in the senior group",
+      "win the title while competing in the UCL after two league titles (2024, 2025) and a runner-up finish"
+    ],
+    "club_character": "One of Portugal's 'big three', with a large, passionate fanbase at the Estadio Jose Alvalade and heavy daily coverage from A Bola, Record and O Jogo. High pressure after losing the title to Porto and the Taca de Portugal final to second-tier Torreense in May 2026; fans are watching a wholesale squad rebuild after the biggest sales window in club history.",
+    "ownership": "Member-owned club (Sporting Clube de Portugal) controlling Sporting SAD (listed). President Frederico Varandas re-elected 14 March 2026 with 89.47% of votes for a third mandate to 2030; he also chairs the SAD board (Salgado Zenha, Bernardo, Dias Ferreira, Pinto de Abreu as members).",
+    "political_and_social_context": "Publicly documented: the SAD approved a bonus for Varandas and the board after the title-winning seasons (Soccerway/press); summer 2026 saw an unprecedented sales programme (EUR 117m+ received by early August, A Bola) that was publicly debated in the Portuguese press. No institution-level controversies beyond that were found in this research.",
     "languages": [
       "pt",
-      "en"
+      "es",
+      "en",
+      "fr"
     ],
-    "wage_structure": null,
-    "transfer_policy": null,
-    "injury_management_reputation": null
+    "wage_structure": "unknown (Luis Suarez and the senior internationals presumed at the top - not verified)",
+    "transfer_policy": "Sell at peak to the Premier League, Saudi Arabia and Spain; buy 20-24-year-olds from Portugal (Zalazar EUR 30m from Braga, Ba EUR 21m from Famalicao, Lima EUR 4m from AVS), Serie A/La Liga (Doumbia, Altimira) and smaller leagues (Andersen from Hacken, Zekri from Mechelen, Kaique from Palmeiras), plus one Premier League loan (Derry). Standard EUR 80m clauses.",
+    "injury_management_reputation": "Nuno Santos and St. Juste were handed to the medical department at the July 2026 presentation; no wider public criticism of the medical department found."
   },
   "last_season_2025_26": {
-    "league_position": null,
-    "points": null,
-    "played": null,
-    "won": null,
-    "drawn": null,
-    "lost": null,
-    "goals_for": null,
-    "goals_against": null,
+    "league_position": 2,
+    "points": 82,
+    "played": 34,
+    "won": 25,
+    "drawn": 7,
+    "lost": 2,
+    "goals_for": 89,
+    "goals_against": 24,
     "xg_for": null,
     "xg_against": null,
     "possession_pct": null,
-    "ucl_result": null,
-    "domestic_cup": null,
-    "top_scorer": null,
-    "top_assister": null
+    "ucl_result": "Quarter-final (lost 0-1 on aggregate to Arsenal; 0-0 at the Emirates on 15 Apr 2026)",
+    "domestic_cup": "Taca de Portugal runner-up (lost 1-2 a.e.t. to Torreense, 24 May 2026); Taca da Liga result not verified",
+    "top_scorer": {
+      "name": "Luis Suarez",
+      "goals": 38
+    },
+    "top_assister": {
+      "name": "Francisco Trincao",
+      "assists": 10
+    }
   },
   "summer_2026_window": {
-    "arrivals": [],
-    "departures": [],
+    "arrivals": [
+      {
+        "name": "Rodrigo Zalazar",
+        "from": "SC Braga",
+        "fee_eur_m": 30.0,
+        "position": "AM"
+      },
+      {
+        "name": "Ibrahima Ba",
+        "from": "Famalicao",
+        "fee_eur_m": 21.0,
+        "position": "CB"
+      },
+      {
+        "name": "Issa Doumbia",
+        "from": "Venezia",
+        "fee_eur_m": 20.5,
+        "position": "CM"
+      },
+      {
+        "name": "Sergi Altimira",
+        "from": "Real Betis",
+        "fee_eur_m": 18.2,
+        "position": "DM"
+      },
+      {
+        "name": "Nestory Irankunda",
+        "from": "Watford",
+        "fee_eur_m": 15.0,
+        "position": "RW"
+      },
+      {
+        "name": "Pedro Lima",
+        "from": "AVS",
+        "fee_eur_m": 4.0,
+        "position": "CM"
+      },
+      {
+        "name": "Moncef Zekri",
+        "from": "KV Mechelen",
+        "fee_eur_m": 3.0,
+        "position": "CB"
+      },
+      {
+        "name": "Silas Andersen",
+        "from": "BK Hacken",
+        "fee_eur_m": null,
+        "position": "CM"
+      },
+      {
+        "name": "Kaique Pereira",
+        "from": "Palmeiras",
+        "fee_eur_m": null,
+        "position": "GK"
+      },
+      {
+        "name": "Jesse Derry",
+        "from": "Chelsea (loan)",
+        "fee_eur_m": 0,
+        "position": "CM"
+      }
+    ],
+    "departures": [
+      {
+        "name": "Geovany Quenda",
+        "to": "Chelsea",
+        "fee_eur_m": 50.0,
+        "position": "RW"
+      },
+      {
+        "name": "Francisco Trincao",
+        "to": "Al Ahli",
+        "fee_eur_m": 43.7,
+        "position": "RW"
+      },
+      {
+        "name": "Morten Hjulmand",
+        "to": "Atletico Madrid",
+        "fee_eur_m": 40.0,
+        "position": "DM"
+      },
+      {
+        "name": "Ousmane Diomande",
+        "to": "Nottingham Forest",
+        "fee_eur_m": 40.0,
+        "position": "CB"
+      },
+      {
+        "name": "Pedro Goncalves",
+        "to": "Al Ittihad",
+        "fee_eur_m": null,
+        "position": "AM"
+      }
+    ],
     "net_spend_eur_m": null
   },
-  "squad": [],
-  "strengths": [],
-  "weaknesses": [],
-  "positional_needs": [],
-  "position_benchmarks": {},
-  "sources": [
-    "https://www.uefa.com/uefachampionsleague/news/02a8-215821715a96-9a3b43fad585-1000--uefa-champions-league-league-phase-draw/",
-    "https://bleacherreport.com/articles/25489784-champions-league-draw-2026-27-schedule-dates-league-phase-fixtures",
-    "https://www.espn.com/soccer/story/_/id/49736233/champions-league-phase-draw-seeding-pots-2026-2027"
+  "squad": [
+    {
+      "name": "Rui Silva",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "POR",
+      "contract_until": null,
+      "shirt_no": 1,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Kaique Pereira",
+      "position": "GK",
+      "secondary_positions": [],
+      "age": 23,
+      "nationality": "BRA",
+      "contract_until": 2031,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ivan Fresneda",
+      "position": "RB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "ESP",
+      "contract_until": null,
+      "shirt_no": 22,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Georgios Vagiannidis",
+      "position": "RB",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": null,
+      "nationality": "GRE",
+      "contract_until": null,
+      "shirt_no": 13,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Zeno Debast",
+      "position": "CB",
+      "secondary_positions": [
+        "DM"
+      ],
+      "age": null,
+      "nationality": "BEL",
+      "contract_until": null,
+      "shirt_no": 6,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Goncalo Inacio",
+      "position": "CB",
+      "secondary_positions": [
+        "LB"
+      ],
+      "age": null,
+      "nationality": "POR",
+      "contract_until": 2027,
+      "shirt_no": 25,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Ibrahima Ba",
+      "position": "CB",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "SEN",
+      "contract_until": 2031,
+      "shirt_no": 55,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Eduardo Quaresma",
+      "position": "CB",
+      "secondary_positions": [
+        "RB"
+      ],
+      "age": null,
+      "nationality": "POR",
+      "contract_until": null,
+      "shirt_no": 72,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Moncef Zekri",
+      "position": "CB",
+      "secondary_positions": [
+        "RB"
+      ],
+      "age": null,
+      "nationality": "MAR",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Maximiliano Araujo",
+      "position": "LB",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": null,
+      "nationality": "URU",
+      "contract_until": null,
+      "shirt_no": 20,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Sergi Altimira",
+      "position": "DM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": 24,
+      "nationality": "ESP",
+      "contract_until": 2031,
+      "shirt_no": 5,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Silas Andersen",
+      "position": "CM",
+      "secondary_positions": [
+        "DM"
+      ],
+      "age": null,
+      "nationality": "DEN",
+      "contract_until": 2031,
+      "shirt_no": 4,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Issa Doumbia",
+      "position": "CM",
+      "secondary_positions": [
+        "DM"
+      ],
+      "age": null,
+      "nationality": "ITA",
+      "contract_until": null,
+      "shirt_no": 77,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Giorgi Kochorashvili",
+      "position": "CM",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": null,
+      "nationality": "GEO",
+      "contract_until": null,
+      "shirt_no": 14,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Daniel Braganca",
+      "position": "CM",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": null,
+      "nationality": "POR",
+      "contract_until": null,
+      "shirt_no": 23,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Jesse Derry",
+      "position": "CM",
+      "secondary_positions": [
+        "AM"
+      ],
+      "age": null,
+      "nationality": "ENG",
+      "contract_until": null,
+      "shirt_no": 28,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": "season loan from Chelsea (reported)"
+    },
+    {
+      "name": "Pedro Lima",
+      "position": "CM",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": 21,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Rodrigo Zalazar",
+      "position": "AM",
+      "secondary_positions": [
+        "LW",
+        "CM"
+      ],
+      "age": null,
+      "nationality": "URU",
+      "contract_until": null,
+      "shirt_no": 17,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Geny Catamo",
+      "position": "RW",
+      "secondary_positions": [
+        "LW",
+        "RB"
+      ],
+      "age": null,
+      "nationality": "MOZ",
+      "contract_until": null,
+      "shirt_no": 10,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Nestory Irankunda",
+      "position": "RW",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": null,
+      "nationality": "AUS",
+      "contract_until": 2031,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Nuno Santos",
+      "position": "LW",
+      "secondary_positions": [
+        "LB"
+      ],
+      "age": null,
+      "nationality": "POR",
+      "contract_until": null,
+      "shirt_no": 11,
+      "role": "backup",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": "handed to the medical department at the July 2026 squad presentation (Soccerway); fitness as of Sept 2026 not verified"
+    },
+    {
+      "name": "Souleymane Faye",
+      "position": "LW",
+      "secondary_positions": [
+        "RW"
+      ],
+      "age": null,
+      "nationality": "SEN",
+      "contract_until": null,
+      "shirt_no": 15,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Luis Guilherme",
+      "position": "LW",
+      "secondary_positions": [
+        "AM",
+        "RW"
+      ],
+      "age": null,
+      "nationality": "BRA",
+      "contract_until": null,
+      "shirt_no": 31,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Luis Suarez",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "COL",
+      "contract_until": null,
+      "shirt_no": 91,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": 38,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Fotis Ioannidis",
+      "position": "ST",
+      "secondary_positions": [],
+      "age": null,
+      "nationality": "GRE",
+      "contract_until": null,
+      "shirt_no": 7,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    },
+    {
+      "name": "Rafael Nel",
+      "position": "ST",
+      "secondary_positions": [
+        "LW"
+      ],
+      "age": null,
+      "nationality": "POR",
+      "contract_until": null,
+      "shirt_no": 9,
+      "role": "prospect",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
+    }
   ],
-  "as_of": "2026-09-02",
+  "strengths": [
+    "Most prolific attack in Portugal in 2025/26 (89 league goals; 51 at home) and only two league defeats, none away (12-5-0).",
+    "Luis Suarez: 38 goals in all competitions in 2025/26 including 5 in 12 UCL games - a proven UCL-level No. 9 retained despite the sales.",
+    "Deep UCL experience as a club: quarter-finalists in 2025/26 (eliminated 0-1 on aggregate by Arsenal).",
+    "Financial firepower from record sales (EUR 117m+ received) reinvested in ten young signings; EUR 80m clauses protect asset value.",
+    "Coach stability: Rui Borges contracted to 2028 with a 2.2-goals-per-game record over 89 matches."
+  ],
+  "weaknesses": [
+    "Leadership and spine gutted in one window: captain Hjulmand, Diomande, Trincao (10 league assists), Pote and Quenda all sold.",
+    "Very young, largely unproven group (average age ~21 per Borges) with 10 new signings to integrate while playing Barcelona, City, United and Roma.",
+    "Defensive concessions in a chaotic 2025/26 (24 conceded, 2 home defeats) and two cup-final/quarter-final exits show a gap to elite level; Torreense final loss exposed mentality under pressure.",
+    "Reliance on Suarez for goals: Ioannidis and 19-year-old Nel are the only alternatives after Trincao/Pote left.",
+    "Tactical identity still in transition between Amorim's 3-4-3 and Borges's back-four."
+  ],
+  "positional_needs": [
+    {
+      "position": "DM",
+      "priority": "high",
+      "profile": "experienced No. 6 who can drop into the back line in build-up, 24-28, leadership",
+      "reason": "Hjulmand (captain) sold to Atletico; Altimira and Doumbia are new and young.",
+      "budget_eur_m": 20,
+      "wage_ceiling_eur_m_net": 2.5
+    },
+    {
+      "position": "CB",
+      "priority": "medium",
+      "profile": "right-footed, fast, aerially strong, 22-26, UCL-ready",
+      "reason": "Diomande sold; Ba and Zekri are step-up signings, Inacio's contract runs to 2027.",
+      "budget_eur_m": 15,
+      "wage_ceiling_eur_m_net": 2
+    },
+    {
+      "position": "RW",
+      "priority": "medium",
+      "profile": "creative wide player with assists, 21-25",
+      "reason": "Trincao (10 assists) and Quenda gone; Irankunda unproven at this level.",
+      "budget_eur_m": 15,
+      "wage_ceiling_eur_m_net": 2
+    },
+    {
+      "position": "ST",
+      "priority": "low",
+      "profile": "back-up No. 9, 20-24, resale value",
+      "reason": "Suarez dependency; Nel is a 19-year-old prospect.",
+      "budget_eur_m": 10,
+      "wage_ceiling_eur_m_net": 1.5
+    }
+  ],
+  "position_benchmarks": {
+    "ST": {
+      "goals_p90": null,
+      "assists_p90": null,
+      "shots_p90": null,
+      "pressures_p90": null
+    },
+    "CM": {
+      "pass_completion_pct": null,
+      "progressive_passes_p90": null,
+      "tackles_interceptions_p90": null
+    },
+    "CB": {
+      "pass_completion_pct": null,
+      "aerials_won_pct": null,
+      "tackles_interceptions_p90": null
+    }
+  },
+  "sources": [
+    "https://www.sporting.pt/en",
+    "https://www.ojogo.pt/futebol/artigo/rui-borges-transmitiu-satisfacao-ao-plantel-apos-jogo-frente-ao-alverca/18119656",
+    "https://www.abola.pt/noticias/confira-a-marca-que-o-sporting-de-rui-borges-atingiu-2026082917121753567",
+    "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/20260827-121151-em-direto-siga-a-conferencia-de-rui-borges-de-antevisao-ao-jogo-com-o-rio-ave",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Sporting_CP_season",
+    "https://www.ojogo.pt/futebol/artigo/confira-os-adversarios-do-sporting-na-fase-regular-da-liga-dos-campeoes/18120594",
+    "https://www.dn.pt/11x11/sorteio-da-champions-sporting-defronta-bara-e-gigantes-de-manchester-fc-porto-contra-man-city-e-liverpool",
+    "https://observador.pt/2026/08/27/sorteio-liga-dos-campeoes-fc-porto-e-sporting-ficam-a-conhecer-adversarios-na-1-a-fase-da-champions/",
+    "https://www.ligaportugal.pt/news/28459/sporting-cp-conhece-adversarios-na-uefa-champions-league",
+    "https://pt.uefa.com/uefachampionsleague/news/02a8-2173257c6046-237fb0d707f1-1000--sorteio-da-fase-de-liga-da-champions-league-todos-os-adevers/",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Sporting_CP_season",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Primeira_Liga",
+    "https://observador.pt/2026/05/16/sporting-e-benfica-nao-mudaram-o-fc-porto-e-que-foi-muito-melhor-como-ficaram-as-contas-da-primeira-liga-2025-26/",
+    "https://www.espn.com/soccer/match/_/gameId/401862890/sporting-cp-arsenal",
+    "https://www.fpf.pt/pt/News/Todas-as-not%C3%ADcias/Not%C3%ADcia/news/48364",
+    "https://en.wikipedia.org/wiki/2026_Ta%C3%A7a_de_Portugal_final",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Ta%C3%A7a_de_Portugal",
+    "https://www.zerozero.pt/equipa/sporting/estatisticas",
+    "https://www.fotmob.com/pt-PT/teams/9768/overview/sporting-cp,teams",
+    "https://pt.uefa.com/uefachampionsleague/clubs/players/250147458--luis-suarez/statistics/",
+    "https://www.zerozero.pt/jogador/luis-suarez/504173",
+    "https://foradejogo.pt/sporting-cp-revela-os-novos-numeros-dos-jogadores-para-2026-27/109748/",
+    "https://www.zerozero.pt/noticias/sporting-apresenta-30-jogadores-conheca-os-nomes-e-a-numeracao/1162031",
+    "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/sporting-apresenta-se-com-27-jogadores-mas-a-espera-de-mais-2-as-novidades-na-numeracao",
+    "https://www.record.pt/futebol/futebol-nacional/liga-betclic/sporting/detalhe/vinte-e-nove-jogadores-e-sem-11-internacionais-conheca-o-esqueleto-do-sporting-para-2026-27",
+    "https://pt.soccerway.com/noticias/futebol-amigavel-clubes-sporting-apresenta-27-jogadores-nuno-santos-e-st-juste-entregues-ao-departamento-medico/SMsPRY6s",
+    "https://www.espn.com/soccer/team/squad/_/id/2250/sporting-cp",
+    "https://pt.uefa.com/uefachampionsleague/clubs/50149--sporting-cp/squad/",
+    "https://www.noticiasaominuto.com/desporto/3042045/entra-um-e-sai-outro-rui-silva-vai-ter-nova-concorrencia-no-sporting",
+    "https://www.dazn.com/pt-PT/news/futebol/sporting-bate-recordes-no-mercado-de-transferencias/batq0jhb6o0p1g41n1s810ob3",
+    "https://www.abola.pt/noticias/muitos-milhoes-a-sair-e-a-entrar-nunca-se-viu-um-mercado-assim-em-alvalade-2026080614512939599",
+    "https://www.ojogo.pt/futebol/artigo/oficial-altimira-e-o-quinto-reforco-do-sporting-para-202627/18101092",
+    "https://www.sporting.pt/en/news/football/main-team/2026-08-29/kaique-pereira-joins-sporting-cp",
+    "https://www.rtp.pt/noticias/futebol-nacional/sporting-contrata-guarda-redes-kaique-pereira-ao-palmeiras_d1762266",
+    "https://www.abola.pt/noticias/kaique-a-caminho-e-zekri-assina-ja-em-lisboa-2026082323060480456",
+    "https://www.publico.pt/2026/06/09/desporto/noticia/dinamarques-silas-andersen-quarto-reforco-sporting-202627-2177688",
+    "https://maisfutebol.iol.pt/sporting/ibrahima-ba/oficial-ibrahima-ba-e-reforco-do-sporting",
+    "https://www.betinf.com/portugal_transfer.htm",
+    "https://www.abola.pt/noticias/hjulmand-e-trincao-dao-90-milhoes-ao-sporting-2026070622072110636",
+    "https://observador.pt/2026/07/09/o-mercado-do-sporting-hjulmand-a-caminho-de-madrid-para-assinar-pelo-atletico-trincao-sera-proxima-venda-e-derry-esta-confirmado/",
+    "https://observador.pt/2026/07/13/a-primeira-de-duas-vendas-das-arabias-trincao-no-al-ahli-pote-e-o-proximo-mas-ainda-vai-chegar-mais-um-medio-ofensivo/",
+    "https://leonino.pt/oficial-trincao-deixa-sporting-e-ruma-ao-al-ahli-confira-os-detalhes-do-negocio",
+    "https://pt.soccerway.com/noticias/futebol-liga-portugal-betclic-confirmado-quenda-vai-ser-jogador-do-chelsea-em-2026/0z3fTCWF",
+    "https://jornaleconomico.sapo.pt/noticias/venda-de-diomande-por-40-milhoes-ao-nottingham-forest-no-top-10-das-mais-caras-do-sporting-cp/",
+    "https://golo.fm/destaque/sporting-fecha-venda-de-diomande-por-40-milhoes-de-euros/",
+    "https://www.noticiasaominuto.com/desporto/3035330/impasse-desfeito-pote-deixa-sporting-rumo-a-arabia-saudita",
+    "https://www.abola.pt/noticias/al-ittihad-abre-vaga-de-estrangeiro-para-receber-pote-2026081714381077576",
+    "https://www.abola.pt/noticias/eleicoes-sporting-frederico-varandas-arrasador-ganha-com-8947porcento-2026031422542059596",
+    "https://www.ligaportugal.pt/news/27187/frederico-varandas-reeleito-presidente-do-sporting-cp",
+    "https://pt.soccerway.com/noticias/futebol-liga-portugal-sad-do-sporting-aprova-premio-a-frederico-varandas-e-bonus-a-restante-direcao/IVWpNKtA",
+    "https://tacticalfootballanalysis.com/rui-borges-sporting-tactics-2025-2026-tactical-analysis/",
+    "https://fairplay.pt/futebol/a-mudanca-tatica-de-rui-borges-e-os-seus-efeitos-no-sporting/",
+    "https://bolanarede.pt/especial-bola-na-rede/atualidade/rui-borges-ja-tomou-decisao-quanto-ao-sistema-tatico-do-sporting-na-proxima-temporada/",
+    "https://www.abola.pt/noticias/rui-borges-quer-um-novo-sporting-saiba-o-que-o-treinador-tem-em-mente-2025071522431227227",
+    "https://pt.soccerway.com/noticias/futebol-liga-portugal-oficial-goncalo-inacio-acerta-renovacao-com-o-sporting-ate-2027/zPtSlVRk"
+  ],
+  "as_of": "2026-09-03",
   "data_quality": {
-    "confidence": "low",
-    "notes": "SKELETON — not researched: the session's web-search budget was exhausted before this club was reached and the egress proxy blocks football data sites. Only the pot (UEFA/ESPN pot announcement) and the draw opponents cross-referenced from other researched club files are recorded; opponent lists are therefore PARTIAL (only fixtures visible from the other side). Squad, coach, 2025/26 numbers and needs must be researched before this club can be used for matching."
+    "confidence": "medium",
+    "notes": "Search-snippet research only. VERIFIED: coach Rui Borges (in charge Dec 2024, active late Aug 2026 per O Jogo/A Bola/Record; club site states contract to 2028); UCL draw 4H (Barcelona, Man United, Galatasaray, LASK) / 4A (Man City, Roma, Shakhtar, Lens) - O Jogo, DN, Observador, Liga Portugal agree, consistent with our Barcelona and LASK/Lens/City files; league table 2nd/82/34/25-7-2/89-24 (Wikipedia season page, Observador); UCL QF exit to Arsenal (ESPN/FPF); Taca final lost 1-2 aet to Torreense (Wikipedia). CONFLICT: Suarez league goals reported as 22 (one snippet, probably mid-season) vs 28 league / 38 all competitions (Wikipedia season page + UEFA 5 in 12 UCL games) - 38 total used. Trincao 10 assists (league) from FotMob snippet. SQUAD: based on the 30-man presentation list with numbers (zerozero/Record, July 2026) MINUS confirmed sales (Diomande to Forest EUR 40m; Pedro Goncalves to Al Ittihad - reported 'impasse resolved' but final fee 25-30m not confirmed, fee left null) PLUS late arrivals Irankunda, Zekri, Kaique (numbers not found). Hidemasa Morita does not appear in the presentation list and is excluded pending verification; Joao Virginia (no. 12 at the July presentation) omitted because a late-August report suggested a goalkeeper exit after Kaique's arrival - status unverified; Joao Simoes, Flavio Goncalves, Diego Callai and no. 97 omitted to stay within 26. Quenda EUR 50m was agreed in 2025 for a 2026 move (Soccerway) and is listed as a 2026 departure. Trincao fee converted from ~USD 50m (~EUR 43.7m, DN) - approximate. Hjulmand EUR 40m + 5m variables (Observador). A Bola (6 Aug) totals EUR 116m spent / 117m received before later deals - net spend left null. Positions/roles are analyst judgements; ages only where sourced (Altimira 24, Kaique 23); contract years only where sourced (Andersen, Ba, Kaique, Irankunda 2031; Inacio 2027; Altimira five-year deal = 2031). Formation is an inference from tactical analyses (Borges's back-four vs inherited 3-4-3). Budgets are guesses; xG/possession/per-player stats null; Taca da Liga result not verified."
   }
 }
