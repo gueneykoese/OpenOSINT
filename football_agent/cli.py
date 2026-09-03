@@ -149,6 +149,14 @@ def cmd_culture(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_dashboard(args: argparse.Namespace) -> int:
+    from .dashboard import build
+
+    out = build(Path(args.out), include_demo=_INCLUDE_DEMO)
+    print(f"wrote {out} ({out.stat().st_size // 1024} KB)")
+    return 0
+
+
 def cmd_serve(args: argparse.Namespace) -> int:
     import uvicorn
 
@@ -205,6 +213,9 @@ def main(argv: list[str] | None = None) -> int:
     s.add_argument("from_country")
     s.add_argument("to_country")
     s.set_defaults(fn=cmd_culture)
+    s = sub.add_parser("dashboard", help="build the self-contained HTML dashboard")
+    s.add_argument("--out", default="football_agent/reports/dashboard.html")
+    s.set_defaults(fn=cmd_dashboard)
     s = sub.add_parser("serve", help="run the FastAPI backend")
     s.add_argument("--host", default="127.0.0.1")
     s.add_argument("--port", type=int, default=8090)

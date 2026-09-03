@@ -1,0 +1,434 @@
+<title>Menajer Motoru</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --bg:#EDF0F4; --panel:#FFFFFF; --panel2:#F4F6F9; --ink:#141A24; --ink2:#4A5566; --ink3:#7A8494; --line:#D8DEE6; --grid:#E6EAF0;
+  --accent:#0F8F7E; --accent-ink:#0A6B5F; --accent-soft:#D9F1EC;
+  --s1:#0F8F7E; --s2:#E07A1F; --s3:#6B4FC7;
+  --good:#0ca30c; --warn:#B5720A; --warn-soft:#FBEFD6; --crit:#C43B3B; --crit-soft:#F8E1DD;
+  --display:"Barlow Condensed","Arial Narrow",Impact,sans-serif; --body:"IBM Plex Sans",system-ui,sans-serif; --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0F141C; --panel:#171E29; --panel2:#1E2735; --ink:#EDF0F4; --ink2:#B4BDCB; --ink3:#7E899A; --line:#2A3443; --grid:#232D3B;
+  --accent:#22A896; --accent-ink:#7EDCCB; --accent-soft:#143530;
+  --s1:#22A896; --s2:#D4782E; --s3:#8F7FE0;
+  --good:#0ca30c; --warn:#E0A43A; --warn-soft:#3A2D12; --crit:#E0705E; --crit-soft:#3F1F1A;}}
+:root[data-theme="dark"]{
+  --bg:#0F141C; --panel:#171E29; --panel2:#1E2735; --ink:#EDF0F4; --ink2:#B4BDCB; --ink3:#7E899A; --line:#2A3443; --grid:#232D3B;
+  --accent:#22A896; --accent-ink:#7EDCCB; --accent-soft:#143530;
+  --s1:#22A896; --s2:#D4782E; --s3:#8F7FE0;
+  --good:#0ca30c; --warn:#E0A43A; --warn-soft:#3A2D12; --crit:#E0705E; --crit-soft:#3F1F1A;}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:14px;line-height:1.5;margin:0}
+a{color:var(--accent-ink)}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.top{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:14px 24px;background:var(--panel);border-bottom:1px solid var(--line);flex-wrap:wrap;position:sticky;top:0;z-index:5}
+.brand{display:flex;align-items:center;gap:12px}
+.brand .mark{width:34px;height:34px;border-radius:50%;background:var(--accent);display:grid;place-items:center;color:#fff;font-family:var(--display);font-weight:700;font-size:18px}
+.brand h1{font-family:var(--display);font-weight:700;font-size:26px;margin:0;line-height:1}
+.brand small{display:block;font-family:var(--body);font-weight:400;font-size:12px;color:var(--ink3)}
+.roles{display:flex;background:var(--panel2);border:1px solid var(--line);border-radius:999px;padding:3px}
+.roles button{border:0;background:none;padding:7px 16px;border-radius:999px;color:var(--ink2);cursor:pointer;font-weight:500}
+.roles button[aria-selected="true"]{background:var(--accent);color:#fff}
+main{padding:20px 24px 56px;max-width:1440px;margin:0 auto}
+.hidden{display:none !important}
+.notice{background:var(--warn-soft);border-left:4px solid var(--warn);padding:8px 14px;margin:0 0 16px;font-size:13px;max-width:100ch}
+.notice b{color:var(--warn)}
+.chips{display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:0 0 14px}
+.chips .lbl{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--ink3);margin-right:4px}
+.chip{border:1px solid var(--line);background:var(--panel);border-radius:999px;padding:5px 12px;cursor:pointer;display:inline-flex;align-items:center;gap:7px;font-size:13px}
+.chip[aria-selected="true"]{border-color:var(--accent);background:var(--accent-soft);color:var(--accent-ink);font-weight:500}
+.chip .dot{width:8px;height:8px;border-radius:50%;background:var(--ink3)}
+.chip .dot.medium{background:var(--s1)}.chip .dot.high{background:var(--good)}.chip .dot.low{background:var(--warn)}
+.tag{display:inline-block;font-size:10.5px;text-transform:uppercase;letter-spacing:.06em;padding:2px 8px;border-radius:4px;border:1px solid var(--line);color:var(--ink2);white-space:nowrap;vertical-align:middle}
+.tag.medium{border-color:var(--s1);color:var(--accent-ink)}.tag.low{border-color:var(--warn);color:var(--warn)}.tag.high{border-color:var(--good);color:var(--good)}
+.tag.prio-high{background:var(--crit-soft);color:var(--crit);border-color:transparent}.tag.prio-medium{background:var(--warn-soft);color:var(--warn);border-color:transparent}.tag.prio-low{background:var(--panel2);border-color:transparent}
+.hero{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:20px 22px;display:grid;grid-template-columns:1.3fr 1fr;gap:20px;align-items:start}
+@media (max-width:900px){.hero{grid-template-columns:1fr}}
+.hero h2{font-family:var(--display);font-weight:700;font-size:34px;margin:0;line-height:1;text-wrap:balance}
+.hero .meta{color:var(--ink2);margin:6px 0 0;font-size:13px}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(92px,1fr));gap:8px}
+.tile{background:var(--panel2);border-radius:8px;padding:10px 12px}
+.tile b{display:block;font-family:var(--display);font-size:26px;font-weight:600;line-height:1}
+.tile span{font-size:10.5px;text-transform:uppercase;letter-spacing:.07em;color:var(--ink3)}
+.grid{display:grid;gap:16px;margin-top:16px}
+.g2{grid-template-columns:1fr 1fr}.g3{grid-template-columns:1fr 1fr 1fr}.g21{grid-template-columns:2fr 1fr}.g12{grid-template-columns:1fr 2fr}
+@media (max-width:1000px){.g2,.g3,.g21,.g12{grid-template-columns:1fr}}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px 18px;min-width:0}
+.card h3{font-family:var(--display);font-weight:600;font-size:17px;letter-spacing:.03em;text-transform:uppercase;margin:0 0 2px;color:var(--ink2)}
+.card .sub{font-size:12.5px;color:var(--ink3);margin:0 0 10px;max-width:70ch}
+svg.chart{width:100%;height:auto;display:block;overflow:visible}
+svg text{font-family:var(--body);fill:var(--ink2)}
+svg .mono{font-family:var(--mono);font-variant-numeric:tabular-nums}
+.tip{position:fixed;pointer-events:none;background:var(--ink);color:var(--bg);padding:6px 9px;border-radius:6px;font-size:12px;max-width:280px;z-index:20;box-shadow:0 4px 14px rgba(0,0,0,.2);display:none;line-height:1.35}
+.tip b{display:block;font-weight:600}
+.needs{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(300px,1fr))}
+.need{border:1px solid var(--line);border-radius:10px;padding:12px 14px;background:var(--panel2);border-left-width:5px}
+.need.high{border-left-color:var(--crit)}.need.medium{border-left-color:var(--warn)}.need.low{border-left-color:var(--ink3)}
+.need h4{margin:0;font-family:var(--display);font-size:22px;font-weight:700;display:flex;justify-content:space-between;align-items:center}
+.need .prof{font-size:12.5px;color:var(--ink2);margin:4px 0 8px}
+.cand{display:grid;grid-template-columns:1fr 110px 44px;gap:8px;align-items:center;padding:6px 8px;border-radius:6px;cursor:pointer;border:0;background:none;width:100%;text-align:left}
+.cand:hover,.cand[aria-selected="true"]{background:var(--panel)}
+.cand .nm{font-weight:500;font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.cand .nm small{display:block;font-weight:400;color:var(--ink3);font-size:11px}
+.cand .bar{height:8px;background:var(--grid);border-radius:4px;overflow:hidden}
+.cand .bar i{display:block;height:100%;background:var(--s1);border-radius:4px}
+.cand .val{font-family:var(--mono);text-align:right;font-variant-numeric:tabular-nums;font-size:13px}
+.detail{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px 18px;position:sticky;top:76px}
+.detail h3{margin-top:0}
+.score{font-family:var(--display);font-weight:700;font-size:44px;line-height:1;color:var(--accent-ink)}
+.verdict{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--ink2)}
+.dims{display:grid;grid-template-columns:130px 1fr 36px;gap:3px 8px;font-size:12px;align-items:center;margin-top:8px}
+.dims .bar{height:7px;background:var(--grid);border-radius:4px;position:relative}
+.dims .bar i{position:absolute;left:0;top:0;bottom:0;background:var(--s1);border-radius:4px}
+.dims .bar i.w{opacity:.45}
+.dims .v{font-family:var(--mono);text-align:right;font-variant-numeric:tabular-nums}
+.expl{font-size:12px;color:var(--ink2);margin:8px 0 0;padding-left:16px}
+.expl li{margin:3px 0}
+.flag{font-size:12px;padding:5px 9px;margin:6px 0 0;border-left:3px solid var(--crit);background:var(--crit-soft);border-radius:0 6px 6px 0}
+.review{font-size:12px;padding:5px 9px;margin:6px 0 0;border-left:3px solid var(--warn);background:var(--warn-soft);border-radius:0 6px 6px 0}
+ul.plain{margin:0;padding-left:18px}ul.plain li{margin:3px 0}
+table{border-collapse:collapse;width:100%;font-size:12.5px}
+.tw{overflow-x:auto}
+th{text-align:left;font-size:10.5px;text-transform:uppercase;letter-spacing:.06em;color:var(--ink3);font-weight:500;padding:6px 8px;border-bottom:1px solid var(--line)}
+td{padding:6px 8px;border-bottom:1px solid var(--grid);vertical-align:top}
+td.num,th.num{text-align:right;font-family:var(--mono);font-variant-numeric:tabular-nums}
+details summary{cursor:pointer;color:var(--ink2);font-size:13px}
+.search{font:inherit;padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink);min-width:220px}
+select,input[type=number]{font:inherit;padding:6px 8px;background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:6px}
+.row{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+.legend{display:flex;gap:14px;font-size:12px;color:var(--ink2);flex-wrap:wrap;margin-top:6px}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:5px;vertical-align:-1px}
+figure{margin:0}figcaption{font-size:12px;color:var(--ink3);margin-top:6px}
+.heat{overflow-x:auto}
+.empty{color:var(--ink3);font-size:13px;padding:8px 0}
+.kv{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;font-size:13px}
+.kv dt{color:var(--ink3)}.kv dd{margin:0}
+@media (prefers-reduced-motion:no-preference){.cand .bar i,.dims .bar i{transition:width .35s ease}}
+</style>
+
+<header class="top">
+  <div class="brand"><div class="mark">M</div><div><h1>Menajer Motoru</h1><small>AI destekli futbolcu menajerliği · 2026/27 Şampiyonlar Ligi pilotu</small></div></div>
+  <div class="roles" role="tablist" aria-label="Görünüm">
+    <button role="tab" data-role="club" aria-selected="true">Kulüp yöneticisi</button>
+    <button role="tab" data-role="player" aria-selected="false">Futbolcu</button>
+    <button role="tab" data-role="agent" aria-selected="false">Menajer</button>
+  </div>
+</header>
+<div class="tip" id="tip"></div>
+<main>
+  <div class="notice"><b>Veri notu.</b> Puanlar deterministik motorun çıktısıdır; havuzdaki 39 oyuncu ve 36 kulüp gerçek ve kaynaklıdır. Her kaydın güven etiketi ve doğrulanamayan alanları görünür. Bu bir pilottır: kadro/istatistik verisi üretimde lisanslı sağlayıcıdan gelmelidir.</div>
+
+  <!-- ================= CLUB VIEW ================= -->
+  <section id="view-club">
+    <div class="chips" id="clubChips"></div>
+    <div id="clubHero" class="hero"></div>
+    <div class="grid g2">
+      <div class="card"><h3>Kadro haritası: yaş × pozisyon</h3><p class="sub">Her nokta bir oyuncu. Dolu nokta ilk 11, boş nokta rotasyon/yedek. Üzerine gelin.</p><div id="squadDot"></div></div>
+      <div class="card"><h3>Sözleşme bitiş yılları</h3><p class="sub">Kaç oyuncunun sözleşmesi hangi yaz bitiyor. 2027 çubuğu bu sezonun pazarlık kaldıracı.</p><div id="contractBars"></div></div>
+    </div>
+    <div class="grid g21">
+      <div>
+        <div class="card"><h3>Pozisyonel ihtiyaçlar ve önerilen adaylar</h3><p class="sub">Öncelik şeridi: kırmızı yüksek, amber orta. Adaya tıklayın; sağda 8 boyutlu analiz açılır.</p><div class="needs" id="needs"></div></div>
+        <div class="grid g2">
+          <div class="card"><h3>Artılar</h3><ul class="plain" id="strengths"></ul></div>
+          <div class="card"><h3>Eksiler</h3><ul class="plain" id="weaknesses"></ul></div>
+        </div>
+        <div class="card"><h3>Kimlik ve bağlam</h3><div id="identity"></div></div>
+        <div class="card"><h3>Güncel kadro</h3><div class="tw" id="squadTable"></div></div>
+      </div>
+      <div class="detail" id="clubDetail"></div>
+    </div>
+  </section>
+
+  <!-- ================= PLAYER VIEW ================= -->
+  <section id="view-player" class="hidden">
+    <div class="row" style="margin-bottom:10px"><input class="search" id="pSearch" placeholder="Oyuncu ara…" aria-label="Oyuncu ara"><div class="chips" id="posChips" style="margin:0"></div></div>
+    <div class="chips" id="playerChips"></div>
+    <div id="playerHero" class="hero"></div>
+    <div class="grid g12">
+      <div class="card"><h3>En uygun kulüpler</h3><p class="sub">Motorun sıraladığı ilk 6 kulüp. Çubuğa tıklayın; sağdaki analiz o kulübe geçer.</p><div id="clubBars"></div></div>
+      <div class="card" id="playerDetailCard"><h3>Eşleşme analizi</h3><div id="playerDetail"></div></div>
+    </div>
+    <div class="grid g2">
+      <div class="card"><h3>Kültürel mesafe (Hofstede 5-D)</h3><p class="sub" id="hofSub"></p><div id="hofChart"></div></div>
+      <div class="card"><h3>Profil</h3><div id="playerProfile"></div></div>
+    </div>
+  </section>
+
+  <!-- ================= AGENT VIEW ================= -->
+  <section id="view-agent" class="hidden">
+    <div class="grid g2" style="margin-top:0">
+      <div class="card"><h3>Motor nasıl çalışır</h3>
+        <figure>
+        <svg class="chart" viewBox="0 0 640 300" role="img" aria-label="Kaynaklı veri iki dosya türüne akar, motor sekiz boyutta puanlar, toplam ve bayraklar insan incelemesine gider, Claude yalnızca anlatır">
+          <defs><marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="currentColor"/></marker></defs>
+          <g fill="none" stroke="currentColor" stroke-width="1.2" color="var(--ink2)">
+            <rect x="10" y="20" width="130" height="54" rx="8"/>
+            <rect x="10" y="110" width="130" height="54" rx="8"/>
+            <rect x="200" y="20" width="150" height="144" rx="8" stroke="var(--s1)" stroke-width="1.8"/>
+            <rect x="410" y="20" width="110" height="54" rx="8"/>
+            <rect x="410" y="110" width="110" height="54" rx="8"/>
+            <rect x="200" y="215" width="150" height="54" rx="8" stroke-dasharray="4 3"/>
+            <rect x="410" y="215" width="110" height="54" rx="8"/>
+            <line x1="140" y1="47" x2="198" y2="60" marker-end="url(#arw)"/>
+            <line x1="140" y1="137" x2="198" y2="124" marker-end="url(#arw)"/>
+            <line x1="350" y1="60" x2="408" y2="47" marker-end="url(#arw)"/>
+            <line x1="350" y1="124" x2="408" y2="137" marker-end="url(#arw)"/>
+            <line x1="465" y1="74" x2="465" y2="108" marker-end="url(#arw)"/>
+            <line x1="465" y1="164" x2="465" y2="213" marker-end="url(#arw)"/>
+            <line x1="410" y1="242" x2="352" y2="242" marker-end="url(#arw)" stroke-dasharray="4 3"/>
+          </g>
+          <g font-size="12" fill="var(--ink)">
+            <text x="75" y="42" text-anchor="middle" font-weight="600">Kulüp dosyaları</text><text x="75" y="60" text-anchor="middle" font-size="10.5" fill="var(--ink3)">36 · kadro, ihtiyaç, kimlik</text>
+            <text x="75" y="132" text-anchor="middle" font-weight="600">Oyuncu dosyaları</text><text x="75" y="150" text-anchor="middle" font-size="10.5" fill="var(--ink3)">39 · istatistik, stil, kayıt</text>
+            <text x="275" y="42" text-anchor="middle" font-weight="600">Eşleştirme motoru</text>
+            <text x="275" y="62" text-anchor="middle" font-size="10.5" fill="var(--ink3)">8 boyut × ağırlık</text>
+            <text x="275" y="82" text-anchor="middle" font-size="10.5" fill="var(--ink3)">ihtiyaç .20 · istatistik .20</text>
+            <text x="275" y="98" text-anchor="middle" font-size="10.5" fill="var(--ink3)">taktik .15 · finans .15</text>
+            <text x="275" y="114" text-anchor="middle" font-size="10.5" fill="var(--ink3)">mental .10 · sakatlık .08</text>
+            <text x="275" y="130" text-anchor="middle" font-size="10.5" fill="var(--ink3)">kültür (Hofstede) .07 · yaş .05</text>
+            <text x="275" y="150" text-anchor="middle" font-size="10.5" fill="var(--ink3)">deterministik, açıklanabilir</text>
+            <text x="465" y="42" text-anchor="middle" font-weight="600">Puan 0–100</text><text x="465" y="60" text-anchor="middle" font-size="10.5" fill="var(--ink3)">+ boyut gerekçeleri</text>
+            <text x="465" y="132" text-anchor="middle" font-weight="600">Bayraklar</text><text x="465" y="150" text-anchor="middle" font-size="10.5" fill="var(--ink3)">sakatlık, disiplin, yol kapama</text>
+            <text x="465" y="237" text-anchor="middle" font-weight="600">İnsan incelemesi</text><text x="465" y="255" text-anchor="middle" font-size="10.5" fill="var(--ink3)">siyasi/sosyal bağlam puanlanmaz</text>
+            <text x="275" y="237" text-anchor="middle" font-weight="600">Claude memo (opsiyonel)</text><text x="275" y="255" text-anchor="middle" font-size="10.5" fill="var(--ink3)">anlatır, itiraz eder; puanlamaz</text>
+            <text x="168" y="40" text-anchor="middle" font-size="10" fill="var(--ink3)">yükle</text>
+            <text x="380" y="40" text-anchor="middle" font-size="10" fill="var(--ink3)">toplam</text>
+            <text x="380" y="146" text-anchor="middle" font-size="10" fill="var(--ink3)">tespit</text>
+            <text x="380" y="235" text-anchor="middle" font-size="10" fill="var(--ink3)">taslak</text>
+          </g>
+          <text x="10" y="292" font-size="10.5" fill="var(--ink3)">Kaynaklar (UEFA, kulüp siteleri, transfer/istatistik siteleri) → her kayıtta URL + tarih; doğrulanamayan alan null kalır.</text>
+        </svg>
+        <figcaption>Veri iki dosya türünde toplanır, motor sekiz boyutta puanlar; siyasi ve sosyal bağlam puana girmez, insan incelemesine gider.</figcaption></figure>
+      </div>
+      <div class="card"><h3>Karşılıklı eşleşme matrisi</h3><p class="sub">Oyuncu kulübün ilk 5 adayında <em>ve</em> kulüp oyuncunun ilk 5 kulübünde. Renk puanı gösterir; hücreye gelin, tıklayın.</p><div class="heat" id="heat"></div><div class="legend" id="heatLegend"></div></div>
+    </div>
+    <div class="grid g2">
+      <div class="card"><h3>Hofstede 5-D keşfi</h3><p class="sub">İki ülke seçin. Mesafe: Kogut-Singh; puan = 100 − 22 × mesafe (taban 5).</p>
+        <div class="row" style="margin-bottom:8px"><select id="hFrom"></select><span>→</span><select id="hTo"></select><span class="score" id="hScore" style="font-size:30px"></span></div>
+        <div id="hExplore"></div><ul class="plain" id="hRead" style="font-size:12.5px;margin-top:8px"></ul></div>
+      <div class="card"><h3>%2 komisyon</h3><p class="sub">Ücret tabanı = bonservis + sözleşme yılı × brüt maaş. Piyasa karşılaştırması %10; FIFA tavanları (maaşta %3/%5, bonserviste %10) içinde.</p>
+        <div class="row" style="margin-bottom:8px">
+          <label>Bonservis M€ <input id="cFee" type="number" value="35" step="1" style="width:86px"></label>
+          <label>Brüt maaş M€/yıl <input id="cSal" type="number" value="4" step="0.5" style="width:86px"></label>
+          <label>Yıl <input id="cYrs" type="number" value="4" min="1" style="width:64px"></label>
+        </div>
+        <div id="commChart"></div></div>
+    </div>
+    <div class="card" style="margin-top:16px"><h3>Veri durumu: 36 kulüp</h3><p class="sub">Güven etiketi, kadro büyüklüğü, kaynak sayısı. Kadrosu 0 olan dosyalar şema-tamam iskelettir; araştırma bütçesi ve proxy engeli nedeniyle henüz doldurulmadı.</p><div id="statusChart"></div><div class="tw" id="statusTable"></div></div>
+  </section>
+</main>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+const D = JSON.parse(document.getElementById('data').textContent);
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const na = v => (v === null || v === undefined || v === '' ? '—' : v);
+const VERD = {"strong match":"güçlü eşleşme","good match":"iyi eşleşme","possible":"olası","weak":"zayıf","no fit":"uyumsuz"};
+const PRIO = {high:"yüksek",medium:"orta",low:"düşük"};
+const POS = ["GK","CB","LB","RB","DM","CM","AM","LW","RW","ST"];
+const tag = c => `<span class="tag ${esc(c)}">${esc(c)}</span>`;
+const store = {get(k){try{return localStorage.getItem(k)}catch(e){return null}}, set(k,v){try{localStorage.setItem(k,v)}catch(e){}}};
+
+// ---- tooltip
+const tip = $('#tip');
+function showTip(e, html){ tip.innerHTML = html; tip.style.display='block'; moveTip(e); }
+function moveTip(e){ const x = e.clientX + 12, y = e.clientY + 12; tip.style.left = Math.min(x, window.innerWidth - tip.offsetWidth - 8) + 'px'; tip.style.top = Math.min(y, window.innerHeight - tip.offsetHeight - 8) + 'px'; }
+function hideTip(){ tip.style.display='none'; }
+function bindTips(root){ root.querySelectorAll('[data-tip]').forEach(el => { el.addEventListener('mouseenter', e => showTip(e, el.dataset.tip)); el.addEventListener('mousemove', moveTip); el.addEventListener('mouseleave', hideTip); el.addEventListener('focus', e => { const r = el.getBoundingClientRect(); showTip({clientX:r.left, clientY:r.bottom}, el.dataset.tip); }); el.addEventListener('blur', hideTip); }); }
+
+// ---- roles
+function setRole(r){ document.querySelectorAll('.roles button').forEach(b => b.setAttribute('aria-selected', b.dataset.role === r)); ['club','player','agent'].forEach(v => $('#view-'+v).classList.toggle('hidden', v !== r)); store.set('role', r); if (r === 'agent') drawAgent(); }
+document.querySelectorAll('.roles button').forEach(b => b.addEventListener('click', () => setRole(b.dataset.role)));
+
+// ---- shared: radar + dimension list
+function radar(dims, size=260){
+  const cx=size/2, cy=size/2, R=size/2-34, n=dims.length;
+  const pt=(i,v)=>{const a=-Math.PI/2+i*2*Math.PI/n; return [cx+Math.cos(a)*R*v/100, cy+Math.sin(a)*R*v/100];};
+  let s=`<svg class="chart" viewBox="0 0 ${size} ${size}" role="img" aria-label="Sekiz boyutlu eşleşme radarı">`;
+  [25,50,75,100].forEach(r=>{ s+=`<polygon points="${dims.map((_,i)=>pt(i,r).join(',')).join(' ')}" fill="none" stroke="var(--grid)"/>`; });
+  dims.forEach((d,i)=>{ const [x,y]=pt(i,100); s+=`<line x1="${cx}" y1="${cy}" x2="${x}" y2="${y}" stroke="var(--grid)"/>`; });
+  s+=`<polygon points="${dims.map((d,i)=>pt(i,d.score).join(',')).join(' ')}" fill="var(--s1)" fill-opacity=".22" stroke="var(--s1)" stroke-width="2"/>`;
+  dims.forEach((d,i)=>{ const [x,y]=pt(i,d.score); const [lx,ly]=pt(i,122); const short={need_fit:'İhtiyaç',statistical_fit:'İstatistik',tactical_fit:'Taktik',financial:'Finans',age_contract:'Yaş/sözl.',injury_risk:'Sakatlık',mental_chemistry:'Mental',cultural_fit:'Kültür'}[d.key]||d.label;
+    s+=`<circle cx="${x}" cy="${y}" r="5" fill="var(--panel)" stroke="var(--s1)" stroke-width="2" tabindex="0" data-tip="<b>${esc(d.label)}: ${d.score.toFixed(0)}</b>ağırlık ${d.weight} · veri kapsamı ${Math.round(d.data_coverage*100)}%<br>${esc(d.explanation)}"/>`;
+    s+=`<text x="${lx}" y="${ly+4}" font-size="10.5" text-anchor="middle">${short}</text>`; });
+  return s+'</svg>';
+}
+function dimList(r){ return `<div class="dims">${r.dimensions.map(d=>`<div>${esc(d.label)}</div><div class="bar"><i class="${d.data_coverage<0.5?'w':''}" style="width:${d.score}%"></i></div><div class="v">${d.score.toFixed(0)}</div>`).join('')}</div>`; }
+function matchDetail(r, title, sub){
+  return `<h3>${esc(title)}</h3><p class="sub">${esc(sub)}</p>
+  <div class="row" style="justify-content:space-between"><span class="score">${r.total.toFixed(1)}</span><span class="verdict">${VERD[r.verdict]||r.verdict}<br>güven ${esc(r.confidence)} · poz ${esc(r.position)}</span></div>
+  ${radar(r.dimensions)}
+  ${dimList(r)}
+  ${r.red_flags.map(f=>`<div class="flag">⚑ ${esc(f)}</div>`).join('')}
+  ${r.human_review.map(f=>`<div class="review">${esc(f)}</div>`).join('')}
+  <details style="margin-top:8px"><summary>Boyut gerekçeleri</summary><ul class="expl">${r.dimensions.map(d=>`<li><b>${esc(d.label)}</b>: ${esc(d.explanation)}</li>`).join('')}</ul></details>`;
+}
+
+// =========================== CLUB VIEW ===========================
+const clubIds = D.usable.slice().sort((a,b)=>(D.clubs[a].pot-D.clubs[b].pot)||D.clubs[a].name.localeCompare(D.clubs[b].name));
+$('#clubChips').innerHTML = `<span class="lbl">Kulüp</span>` + clubIds.map(id=>`<button class="chip" data-id="${id}" aria-selected="false"><span class="dot ${esc(D.clubs[id].confidence)}"></span>${esc(D.clubs[id].short)} <span style="color:var(--ink3);font-size:11px">P${D.clubs[id].pot}</span></button>`).join('');
+$('#clubChips').addEventListener('click', e => { const b = e.target.closest('.chip'); if (b) showClub(b.dataset.id); });
+
+function squadDotPlot(c){
+  const W=560,H=300,L=44,R=16,T=14,B=34; const pw=W-L-R, ph=H-T-B;
+  const ages = c.squad.map(p=>p.age).filter(a=>a!=null); if(!ages.length) return '<p class="empty">Kadroda yaş verisi yok.</p>';
+  const amin=Math.max(15,Math.min(...ages)-1), amax=Math.max(...ages)+1; const x=a=>L+(a-amin)/(amax-amin)*pw; const rowH=ph/POS.length; const y=p=>T+POS.indexOf(p)*rowH+rowH/2;
+  let s=`<svg class="chart" viewBox="0 0 ${W} ${H}" role="img" aria-label="Kadro yaş ve pozisyon dağılımı">`;
+  POS.forEach(p=>{ s+=`<line x1="${L}" y1="${y(p)}" x2="${L+pw}" y2="${y(p)}" stroke="var(--grid)"/><text x="${L-8}" y="${y(p)+4}" font-size="11" text-anchor="end" class="mono">${p}</text>`; });
+  for(let a=Math.ceil(amin/2)*2;a<=amax;a+=2){ s+=`<text x="${x(a)}" y="${H-12}" font-size="10.5" text-anchor="middle" class="mono">${a}</text>`; }
+  s+=`<rect x="${x(23)}" y="${T}" width="${Math.max(0,x(29)-x(23))}" height="${ph}" fill="var(--s1)" fill-opacity=".06"/><text x="${x(26)}" y="${T+10}" font-size="10" text-anchor="middle" fill="var(--ink3)">zirve yaş 23–29</text>`;
+  const seen={};
+  c.squad.forEach(p=>{ if(p.age==null||!POS.includes(p.pos)) return; const k=p.pos+'-'+p.age; seen[k]=(seen[k]||0)+1; const jit=(seen[k]-1)*7-(seen[k]>1?3:0);
+    const starter=(p.role||'')==='starter'; s+=`<circle cx="${x(p.age)}" cy="${y(p.pos)+jit}" r="6" fill="${starter?'var(--s1)':'var(--panel)'}" stroke="${p.inj?'var(--crit)':'var(--s1)'}" stroke-width="2" tabindex="0" data-tip="<b>${esc(p.name)}</b>${p.pos} · ${p.age} yaş · ${p.role||'—'} · sözleşme ${na(p.contract)}${p.inj?'<br>⚑ '+esc(p.inj):''}"/>`; });
+  return s+'</svg><div class="legend"><span><i style="background:var(--s1)"></i>ilk 11</span><span><i style="background:var(--panel);border:2px solid var(--s1)"></i>rotasyon / yedek</span><span><i style="background:var(--panel);border:2px solid var(--crit)"></i>sakat</span></div>';
+}
+function contractBars(c){
+  const counts={}; let unknown=0; c.squad.forEach(p=>{ if(p.contract==null){unknown++;return;} const k=p.contract>=2031?'2031+':String(p.contract); counts[k]=(counts[k]||0)+1; });
+  const keys=['2027','2028','2029','2030','2031+'].filter(k=>counts[k]); if(!keys.length) return `<p class="empty">Sözleşme verisi yok (${unknown} oyuncu bilinmiyor).</p>`;
+  const W=560,H=240,L=30,R=16,T=16,B=30; const pw=W-L-R, ph=H-T-B; const max=Math.max(...keys.map(k=>counts[k])); const bw=pw/keys.length;
+  let s=`<svg class="chart" viewBox="0 0 ${W} ${H}" role="img" aria-label="Sözleşme bitiş yılına göre oyuncu sayısı">`;
+  [0,Math.ceil(max/2),max].forEach(v=>{ const yy=T+ph-v/max*ph; s+=`<line x1="${L}" y1="${yy}" x2="${L+pw}" y2="${yy}" stroke="var(--grid)"/><text x="${L-6}" y="${yy+4}" font-size="10.5" text-anchor="end" class="mono">${v}</text>`; });
+  keys.forEach((k,i)=>{ const v=counts[k]; const h=v/max*ph; const names=c.squad.filter(p=>(p.contract>=2031?'2031+':String(p.contract))===k).map(p=>p.name).join(', ');
+    s+=`<rect x="${L+i*bw+bw*0.2}" y="${T+ph-h}" width="${bw*0.6}" height="${h}" rx="4" fill="${k==='2027'?'var(--s2)':'var(--s1)'}" tabindex="0" data-tip="<b>${k}: ${v} oyuncu</b>${esc(names)}"/>`;
+    s+=`<text x="${L+i*bw+bw/2}" y="${T+ph-h-6}" font-size="11" text-anchor="middle" class="mono">${v}</text><text x="${L+i*bw+bw/2}" y="${H-10}" font-size="11" text-anchor="middle" class="mono">${k}</text>`; });
+  s+='</svg>'; if(unknown) s+=`<p class="sub" style="margin-top:6px">${unknown} oyuncunun sözleşme yılı kaynaklarda doğrulanamadı.</p>`;
+  return s+'<div class="legend"><span><i style="background:var(--s2)"></i>2027: kaldıraç yılı</span><span><i style="background:var(--s1)"></i>diğer</span></div>';
+}
+let curClub=null;
+function showClub(id){
+  curClub=id; store.set('club',id); const c=D.clubs[id], L=c.last||{};
+  document.querySelectorAll('#clubChips .chip').forEach(b=>b.setAttribute('aria-selected', b.dataset.id===id));
+  const eu=(L.ucl_result||'').split('(')[0].trim();
+  $('#clubHero').innerHTML=`<div><h2>${esc(c.name)}</h2><p class="meta">${esc(c.league)} · Pot ${c.pot} · Teknik direktör <b>${na(c.coach)}</b> · Sistem ${na(c.formation)} · ${tag(c.confidence)}</p>
+    <p class="meta"><b>ŞL 26/27</b> İç: ${(c.opp_home||[]).map(esc).join(', ')||'—'} · Dış: ${(c.opp_away||[]).map(esc).join(', ')||'—'}</p>
+    <p class="meta">${c.style.map(esc).join(' · ')}</p></div>
+    <div class="tiles"><div class="tile"><b>${na(L.league_position)}</b><span>lig sırası 25/26</span></div><div class="tile"><b>${na(L.points)}</b><span>puan</span></div><div class="tile"><b>${na(L.won)}-${na(L.drawn)}-${na(L.lost)}</b><span>G-B-M</span></div><div class="tile"><b>${na(L.goals_for)}/${na(L.goals_against)}</b><span>atılan/yenilen</span></div><div class="tile"><b style="font-size:14px;line-height:1.3">${esc(eu||'—')}</b><span>Avrupa 25/26</span></div><div class="tile"><b style="font-size:14px;line-height:1.3">${L.top_scorer?esc(L.top_scorer.name)+' '+na(L.top_scorer.goals):'—'}</b><span>gol kralı</span></div></div>`;
+  $('#squadDot').innerHTML=squadDotPlot(c); $('#contractBars').innerHTML=contractBars(c);
+  $('#needs').innerHTML=c.needs.map(n=>{ const recs=c.recs[n.position]||[]; return `<div class="need ${esc(n.priority)}"><h4>${esc(n.position)} <span class="tag prio-${esc(n.priority)}">${PRIO[n.priority]} öncelik</span></h4><div class="prof">${esc(n.profile)}<br><span style="color:var(--ink3)">Neden: ${esc(n.reason)}</span><br><span class="mono" style="font-family:var(--mono);font-size:11.5px">bütçe ${n.budget==null?'—':n.budget+' M€'} · maaş tavanı ${n.wage==null?'—':n.wage+' M€ net'}</span></div>
+    ${recs.length?recs.map(r=>`<button class="cand" data-pid="${r.player_id}" data-pos="${n.position}"><span class="nm">${esc(r.player_name)}<small>${esc(D.players[r.player_id]?.club||'')} · ${VERD[r.verdict]}</small></span><span class="bar"><i style="width:${r.total}%"></i></span><span class="val">${r.total.toFixed(0)}</span></button>`).join(''):'<p class="empty">Havuzda bu pozisyonda aday yok.</p>'}</div>`; }).join('');
+  $('#strengths').innerHTML=c.strengths.map(s=>`<li>${esc(s)}</li>`).join('')||'<li class="empty">—</li>';
+  $('#weaknesses').innerHTML=c.weaknesses.map(s=>`<li>${esc(s)}</li>`).join('')||'<li class="empty">—</li>';
+  const w=c.window||{}; const win=[...(w.arrivals||[]).map(a=>`<li><b>IN</b> ${esc(a.name)} (${esc(a.position)}) ← ${na(a.from)} · ${a.fee_eur_m==null?'—':a.fee_eur_m+' M€'}</li>`),...(w.departures||[]).map(a=>`<li><b>OUT</b> ${esc(a.name)} (${esc(a.position)}) → ${na(a.to)} · ${a.fee_eur_m==null?'—':a.fee_eur_m+' M€'}</li>`)];
+  $('#identity').innerHTML=`<p style="max-width:80ch;margin:0 0 8px">${esc(c.playing_style)}</p>${c.principles.length?`<p class="sub">Prensipler: ${c.principles.map(esc).join(' · ')}</p>`:''}<p class="sub" style="max-width:80ch">${esc(c.character)}</p>${win.length?`<details><summary>Yaz 2026 penceresi (${win.length})</summary><ul class="plain" style="font-size:12.5px">${win.join('')}</ul></details>`:''}<details><summary>Veri notu ve kaynaklar (${c.sources.length})</summary><p class="sub">${esc(c.notes)}</p><ul class="plain" style="font-size:11.5px;word-break:break-all">${c.sources.map(s=>`<li><a href="${esc(s)}" target="_blank" rel="noopener">${esc(s)}</a></li>`).join('')}</ul></details>`;
+  $('#squadTable').innerHTML=`<table><tr><th>Oyuncu</th><th>Poz</th><th class="num">Yaş</th><th>Uyruk</th><th class="num">Sözl.</th><th>Rol</th><th class="num">Maç</th><th class="num">G</th><th class="num">A</th></tr>${c.squad.map(p=>`<tr><td>${esc(p.name)}${p.inj?' <span class="tag low">sakat</span>':''}</td><td>${esc(p.pos)}</td><td class="num">${na(p.age)}</td><td>${na(p.nat)}</td><td class="num">${na(p.contract)}</td><td>${na(p.role)}</td><td class="num">${na(p.apps)}</td><td class="num">${na(p.g)}</td><td class="num">${na(p.a)}</td></tr>`).join('')}</table>`;
+  const first=$('#needs .cand'); if(first) selectCand(first.dataset.pid, first.dataset.pos); else $('#clubDetail').innerHTML='<h3>Eşleşme analizi</h3><p class="empty">Bu kulüp için havuzda aday yok.</p>';
+  bindTips($('#view-club'));
+}
+function selectCand(pid,pos){
+  document.querySelectorAll('#needs .cand').forEach(b=>b.setAttribute('aria-selected', b.dataset.pid===pid&&b.dataset.pos===pos));
+  const c=D.clubs[curClub]; const r=(c.recs[pos]||[]).find(x=>x.player_id===pid); if(!r) return;
+  const p=D.players[pid]||{};
+  $('#clubDetail').innerHTML=matchDetail(r, r.player_name, `${p.club||''} · ${p.age||'?'} yaş · ${p.contract?'sözleşme '+p.contract:''} · tahmini bonservis ${p.fee==null?'—':p.fee+' M€'}`)+`<button class="chip" style="margin-top:10px" onclick="setRole('player');showPlayer('${pid}')">Oyuncu görünümünde aç →</button>`;
+  bindTips($('#clubDetail'));
+}
+$('#needs').addEventListener('click', e=>{ const b=e.target.closest('.cand'); if(b) selectCand(b.dataset.pid,b.dataset.pos); });
+
+// =========================== PLAYER VIEW ===========================
+const pids=Object.keys(D.players).sort((a,b)=>D.players[a].name.localeCompare(D.players[b].name));
+let posFilter='';
+$('#posChips').innerHTML=`<button class="chip" data-pos="" aria-selected="true">Tümü</button>`+POS.map(p=>`<button class="chip" data-pos="${p}" aria-selected="false">${p}</button>`).join('');
+function renderPlayerChips(){ const q=($('#pSearch').value||'').toLowerCase(); const list=pids.filter(id=>{const p=D.players[id]; return (!posFilter||p.pos===posFilter||p.sec.includes(posFilter))&&(!q||p.name.toLowerCase().includes(q)||(p.club||'').toLowerCase().includes(q));});
+  $('#playerChips').innerHTML=list.map(id=>`<button class="chip" data-id="${id}" aria-selected="${id===curPlayer}"><span class="dot ${esc(D.players[id].confidence)}"></span>${esc(D.players[id].name)} <span style="color:var(--ink3);font-size:11px">${esc(D.players[id].pos)}</span></button>`).join('')||'<span class="empty">Eşleşen oyuncu yok.</span>'; }
+$('#posChips').addEventListener('click', e=>{ const b=e.target.closest('.chip'); if(!b) return; posFilter=b.dataset.pos; document.querySelectorAll('#posChips .chip').forEach(x=>x.setAttribute('aria-selected',x===b)); renderPlayerChips(); });
+$('#pSearch').addEventListener('input', renderPlayerChips);
+$('#playerChips').addEventListener('click', e=>{ const b=e.target.closest('.chip'); if(b) showPlayer(b.dataset.id); });
+
+function clubBarChart(p){
+  const rs=p.clubs; if(!rs.length) return '<p class="empty">—</p>'; const W=620,H=36*rs.length+20,L=150,R=50; const pw=W-L-R;
+  let s=`<svg class="chart" viewBox="0 0 ${W} ${H}" role="img" aria-label="Oyuncu için en uygun kulüpler puan çubukları">`;
+  [50,75,100].forEach(v=>{ const x=L+v/100*pw; s+=`<line x1="${x}" y1="6" x2="${x}" y2="${H-14}" stroke="var(--grid)"/><text x="${x}" y="${H-2}" font-size="10" text-anchor="middle" class="mono">${v}</text>`; });
+  rs.forEach((r,i)=>{ const y=10+i*36; const w=r.total/100*pw; const sel=r.club_id===curPlayerClub;
+    s+=`<g class="cb" data-cid="${r.club_id}" style="cursor:pointer" tabindex="0" data-tip="<b>${esc(r.club_name)} · ${r.total.toFixed(1)}</b>${VERD[r.verdict]} · poz ${r.position} · güven ${r.confidence}${r.red_flags.length?'<br>⚑ '+esc(r.red_flags[0]):''}"><rect x="0" y="${y-4}" width="${W}" height="32" fill="${sel?'var(--panel2)':'transparent'}" rx="6"/>
+      <text x="${L-10}" y="${y+16}" font-size="12.5" text-anchor="end" font-weight="${sel?600:400}">${esc(r.club_name)}</text>
+      <rect x="${L}" y="${y+4}" width="${w}" height="16" rx="4" fill="${sel?'var(--s1)':'var(--s1)'}" fill-opacity="${sel?1:.55}"/>
+      <text x="${L+w+8}" y="${y+16}" font-size="12" class="mono">${r.total.toFixed(1)}</text>${r.red_flags.length?`<text x="${L+w+44}" y="${y+16}" font-size="12" fill="var(--crit)">⚑</text>`:''}</g>`; });
+  return s+'</svg>';
+}
+function hofBars(p, r){
+  const H=D.hofstede.countries; const HD=['pdi','idv','mas','uai','lto']; const HL={pdi:'Güç mesafesi',idv:'Bireycilik',mas:'Erillik',uai:'Belirsizlikten kaçınma',lto:'Uzun vade'};
+  const dest=D.clubs[r.club_id]?.country; const destC=H[dest]; const fam=(p.nat||[]).filter(c=>H[c]&&H[c].pdi!=null);
+  if(!destC||destC.pdi==null||!fam.length){ $('#hofSub').textContent='Bu ülke çifti için Hofstede verisi yok; motor bu alt-boyutu nötr bıraktı.'; return '<p class="empty">Veri yok.</p>'; }
+  const from=fam[0]; const a=H[from], b=destC;
+  $('#hofSub').textContent=`${a.name} (${from}) → ${b.name} (${dest}). Motor uyruk ve mevcut lig ülkesinden en yakın olanı kullanır; burada uyruk gösteriliyor.`;
+  const W=560,Hh=230,L=40,T=14,B=44,R=12; const pw=W-L-R, ph=Hh-T-B; const gw=pw/HD.length, maxv=120;
+  let s=`<svg class="chart" viewBox="0 0 ${W} ${Hh}" role="img" aria-label="Hofstede boyutları karşılaştırması">`;
+  [0,50,100].forEach(v=>{ const y=T+ph-v/maxv*ph; s+=`<line x1="${L}" y1="${y}" x2="${L+pw}" y2="${y}" stroke="var(--grid)"/><text x="${L-6}" y="${y+4}" font-size="10" text-anchor="end" class="mono">${v}</text>`; });
+  HD.forEach((d,i)=>{ const x0=L+i*gw+gw*0.16, bw=gw*0.3; const va=a[d], vb=b[d];
+    s+=`<rect x="${x0}" y="${T+ph-va/maxv*ph}" width="${bw}" height="${va/maxv*ph}" rx="3" fill="var(--s1)" tabindex="0" data-tip="<b>${HL[d]}</b>${from}: ${va}"/><rect x="${x0+bw+2}" y="${T+ph-vb/maxv*ph}" width="${bw}" height="${vb/maxv*ph}" rx="3" fill="var(--s2)" tabindex="0" data-tip="<b>${HL[d]}</b>${dest}: ${vb}"/>`;
+    s+=`<text x="${L+i*gw+gw/2}" y="${T+ph+14}" font-size="10.5" text-anchor="middle" class="mono">${d.toUpperCase()}</text><text x="${L+i*gw+gw/2}" y="${T+ph+27}" font-size="10" text-anchor="middle" class="mono" fill="${Math.abs(va-vb)>=20?'var(--crit)':'var(--ink3)'}">${va-vb>0?'+':''}${va-vb}</text>`; });
+  return s+`</svg><div class="legend"><span><i style="background:var(--s1)"></i>${esc(a.name)}</span><span><i style="background:var(--s2)"></i>${esc(b.name)}</span><span>kırmızı fark ≥ 20 puan</span></div>`;
+}
+let curPlayer=null, curPlayerClub=null;
+function showPlayer(id, cid){
+  curPlayer=id; store.set('player',id); const p=D.players[id]; curPlayerClub=cid||(p.clubs[0]&&p.clubs[0].club_id);
+  renderPlayerChips();
+  const p90=(p.stats.min&&p.stats.min>=270)?(((p.stats.g||0)+(p.stats.a||0))/p.stats.min*90).toFixed(2):'—';
+  $('#playerHero').innerHTML=`<div><h2>${esc(p.name)}</h2><p class="meta">${esc(p.pos)}${p.sec.length?' / '+p.sec.map(esc).join(', '):''} · ${na(p.age)} yaş · ${(p.nat||[]).map(esc).join('/')} · <b>${na(p.club)}</b> (${na(p.league)}) · sözleşme ${na(p.contract)} · ${tag(p.confidence)}</p><p class="meta">Durum: ${na(p.avail)} · Stil: ${p.tags.map(esc).join(', ')||'—'}</p></div>
+    <div class="tiles"><div class="tile"><b>${na(p.stats.apps)}</b><span>maç 25/26</span></div><div class="tile"><b>${na(p.stats.min)}</b><span>dakika</span></div><div class="tile"><b>${na(p.stats.g)}</b><span>gol</span></div><div class="tile"><b>${na(p.stats.a)}</b><span>asist</span></div><div class="tile"><b>${p90}</b><span>G+A / 90</span></div><div class="tile"><b>${p.fee==null?'—':p.fee}</b><span>tahmini bonservis M€</span></div></div>`;
+  $('#clubBars').innerHTML=clubBarChart(p);
+  $('#clubBars').querderAll; document.querySelectorAll('#clubBars .cb').forEach(g=>{ const go=()=>showPlayer(id,g.dataset.cid); g.addEventListener('click',go); g.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();go();}}); });
+  const r=p.clubs.find(x=>x.club_id===curPlayerClub);
+  if(r){ $('#playerDetail').innerHTML=matchDetail(r, `${p.name} → ${r.club_name}`, `${D.clubs[r.club_id]?.league||''} · hoca ${D.clubs[r.club_id]?.coach||'—'} · pozisyon ${r.position}`)+`<button class="chip" style="margin-top:10px" onclick="setRole('club');showClub('${r.club_id}')">Kulüp görünümünde aç →</button>`; $('#hofChart').innerHTML=hofBars(p,r); }
+  else { $('#playerDetail').innerHTML='<p class="empty">Sıralama yok.</p>'; $('#hofChart').innerHTML=''; }
+  const m=p.mental||{}; const ml={leadership:'liderlik',coachability:'koçlanabilirlik',resilience:'dayanıklılık',discipline:'disiplin'};
+  $('#playerProfile').innerHTML=`<dl class="kv"><dt>Piyasa / bonservis</dt><dd>${na(p.fee)} M€ tahmini · net maaş ${na(p.wage)} M€</dd><dt>Diller</dt><dd>${p.langs.map(esc).join(', ')||'—'}</dd><dt>Sakatlık kaydı</dt><dd>${p.inj.length?p.inj.map(i=>`${esc(i.type)} (${esc(i.season)}, ${na(i.days_out)} gün)`).join('; '):'belgelenmiş yok'}</dd></dl>
+    <div class="dims" style="grid-template-columns:120px 1fr 30px;margin-top:10px">${Object.keys(ml).map(k=>`<div>${ml[k]}</div><div class="bar"><i style="width:${m[k]!=null?m[k]/5*100:0}%;${m[k]==null?'opacity:.2':''}"></i></div><div class="v">${m[k]==null?'—':m[k]+'/5'}</div></div>`).join('')}</div>
+    <p class="sub" style="margin-top:6px">Mental profil yalnızca kamuya açık kayıttan (kartlar, belgelenmiş anlaşmazlıklar, hoca demeçleri); boş = kayıt yok.</p>
+    <details><summary>Veri notu ve kaynaklar (${(p.sources||[]).length})</summary><p class="sub">${esc(p.notes)}</p><ul class="plain" style="font-size:11.5px;word-break:break-all">${(p.sources||[]).map(x=>`<li><a href="${esc(x)}" target="_blank" rel="noopener">${esc(x)}</a></li>`).join('')}</ul></details>`;
+  bindTips($('#view-player'));
+}
+
+// =========================== AGENT VIEW ===========================
+let agentDrawn=false;
+function drawAgent(){ if(agentDrawn) return; agentDrawn=true;
+  // heatmap
+  const cols=clubIds; const rowsMap={}; D.mutual.forEach(r=>{ (rowsMap[r.player_id]=rowsMap[r.player_id]||{})[r.club_id]=r; });
+  const rows=Object.keys(rowsMap).sort((a,b)=>Math.max(...Object.values(rowsMap[b]).map(r=>r.total))-Math.max(...Object.values(rowsMap[a]).map(r=>r.total)));
+  const cw=46, rh=26, L=170, T=70; const W=L+cols.length*cw+10, H=T+rows.length*rh+10;
+  const col=v=>{ const t=Math.max(0,Math.min(1,(v-60)/40)); return `color-mix(in oklab, var(--accent-soft), var(--s1) ${Math.round(20+t*80)}%)`; };
+  let s=`<svg class="chart" viewBox="0 0 ${W} ${H}" style="min-width:${W}px" role="img" aria-label="Oyuncu-kulüp karşılıklı eşleşme ısı haritası">`;
+  cols.forEach((c,j)=>{ s+=`<text transform="translate(${L+j*cw+cw/2},${T-8}) rotate(-45)" font-size="11" text-anchor="start">${esc(D.clubs[c].short)}</text>`; });
+  rows.forEach((pid,i)=>{ s+=`<text x="${L-8}" y="${T+i*rh+rh/2+4}" font-size="12" text-anchor="end">${esc(D.players[pid].name)}</text>`;
+    cols.forEach((c,j)=>{ const r=rowsMap[pid][c]; if(r){ s+=`<rect class="hm" data-pid="${pid}" data-cid="${c}" x="${L+j*cw+1}" y="${T+i*rh+1}" width="${cw-2}" height="${rh-2}" rx="4" fill="${col(r.total)}" style="cursor:pointer" tabindex="0" data-tip="<b>${esc(r.player_name)} → ${esc(r.club_name)}: ${r.total.toFixed(1)}</b>${VERD[r.verdict]} · ${r.position} · güven ${r.confidence}"/><text x="${L+j*cw+cw/2}" y="${T+i*rh+rh/2+4}" font-size="10.5" text-anchor="middle" class="mono" fill="var(--ink)">${r.total.toFixed(0)}</text>`; } else s+=`<rect x="${L+j*cw+1}" y="${T+i*rh+1}" width="${cw-2}" height="${rh-2}" rx="4" fill="var(--panel2)"/>`; }); });
+  $('#heat').innerHTML=s+'</svg>'; $('#heatLegend').innerHTML=`<span><i style="background:${col(60)}"></i>60</span><span><i style="background:${col(75)}"></i>75</span><span><i style="background:${col(90)}"></i>90+</span><span>boş = karşılıklı değil</span>`;
+  document.querySelectorAll('#heat .hm').forEach(el=>{ const go=()=>{ setRole('player'); showPlayer(el.dataset.pid, el.dataset.cid); window.scrollTo({top:0}); }; el.addEventListener('click',go); el.addEventListener('keydown',e=>{if(e.key==='Enter'){go();}}); });
+  // hofstede explorer
+  const H_=D.hofstede.countries; const HD=['pdi','idv','mas','uai','lto']; const HL={pdi:'Güç Mesafesi',idv:'Bireycilik',mas:'Erillik',uai:'Belirsizlikten Kaçınma',lto:'Uzun Vadeli Yönelim'};
+  const READ={pdi:['aşina kültür daha hiyerarşik: daha yatay hoca-oyuncu ilişkisi ve öz-yönetim beklentisi','kulüp kültürü daha hiyerarşik: tepeden inme hoca, açık itiraza az alan'],idv:['oyuncu daha bireyci kültürden: kulüp ortamı daha grup odaklı','oyuncu daha kolektivist kültürden: kulüp ortamı daha bireyci, otomatik grup desteği az'],mas:['aşina kültür daha rekabet odaklı: soyunma odası daha yumuşak gelebilir','kulüp kültürü daha rekabet odaklı: daha sert performans kültürü ve medya'],uai:['aşina kültür belirsizliğe az toleranslı: gevşek yapılar huzursuz edebilir','kulüp kültürü belirsizlikten çok kaçınır: daha çok kural ve sabit rutin'],lto:['aşina kültür daha uzun vadeli: piyasa anlık sonuca değer verir','kulüp kültürü daha uzun vadeli: sabır ve gelişim yolu öncelikli']};
+  const codes=Object.keys(H_).filter(c=>!c.startsWith('_')&&H_[c].pdi!=null).sort((a,b)=>H_[a].name.localeCompare(H_[b].name));
+  const variance={}; HD.forEach(d=>{ const v=Object.keys(H_).filter(c=>!H_[c].alias_of).map(c=>H_[c][d]).filter(x=>x!=null); const m=v.reduce((a,b)=>a+b,0)/v.length; variance[d]=v.reduce((a,b)=>a+(b-m)**2,0)/(v.length-1); });
+  const opts=codes.map(c=>`<option value="${c}">${esc(H_[c].name)} (${c})</option>`).join(''); $('#hFrom').innerHTML=opts; $('#hTo').innerHTML=opts; $('#hFrom').value='TUR'; $('#hTo').value='ENG';
+  function drawH(){ const a=$('#hFrom').value,b=$('#hTo').value; const cd=HD.map(d=>(H_[a][d]-H_[b][d])**2/variance[d]).reduce((x,y)=>x+y,0)/HD.length; const sc=Math.max(5,Math.min(100,100-22*cd));
+    $('#hScore').textContent=`${sc.toFixed(0)}/100 · mesafe ${cd.toFixed(2)}`;
+    const W=560,Hh=220,L=40,T=14,B=30,R=12; const pw=W-L-R, ph=Hh-T-B; const gw=pw/HD.length, maxv=120;
+    let s=`<svg class="chart" viewBox="0 0 ${W} ${Hh}" role="img" aria-label="Hofstede boyutları iki ülke">`;
+    [0,50,100].forEach(v=>{ const y=T+ph-v/maxv*ph; s+=`<line x1="${L}" y1="${y}" x2="${L+pw}" y2="${y}" stroke="var(--grid)"/><text x="${L-6}" y="${y+4}" font-size="10" text-anchor="end" class="mono">${v}</text>`; });
+    HD.forEach((d,i)=>{ const x0=L+i*gw+gw*0.16, bw=gw*0.3; const va=H_[a][d], vb=H_[b][d]; s+=`<rect x="${x0}" y="${T+ph-va/maxv*ph}" width="${bw}" height="${va/maxv*ph}" rx="3" fill="var(--s1)" tabindex="0" data-tip="<b>${HL[d]}</b>${a}: ${va}"/><rect x="${x0+bw+2}" y="${T+ph-vb/maxv*ph}" width="${bw}" height="${vb/maxv*ph}" rx="3" fill="var(--s2)" tabindex="0" data-tip="<b>${HL[d]}</b>${b}: ${vb}"/><text x="${L+i*gw+gw/2}" y="${T+ph+14}" font-size="10.5" text-anchor="middle" class="mono">${d.toUpperCase()}</text>`; });
+    $('#hExplore').innerHTML=s+`</svg><div class="legend"><span><i style="background:var(--s1)"></i>${esc(H_[a].name)}</span><span><i style="background:var(--s2)"></i>${esc(H_[b].name)}</span></div>`;
+    const gaps=HD.map(d=>({d,g:H_[a][d]-H_[b][d]})).sort((x,y)=>Math.abs(y.g)-Math.abs(x.g));
+    $('#hRead').innerHTML=gaps.map(({d,g})=>`<li><b>${HL[d]} ${g>0?'+':''}${g}</b>${Math.abs(g)<20?' (küçük fark)':''}: ${READ[d][g>0?0:1]}</li>`).join(''); bindTips($('#hExplore')); }
+  $('#hFrom').addEventListener('change',drawH); $('#hTo').addEventListener('change',drawH); drawH();
+  // commission
+  function drawC(){ const f=+$('#cFee').value||0,s_=+$('#cSal').value||0,y=Math.max(1,+$('#cYrs').value||1); const base=f+s_*y; const ours=base*0.02, mkt=base*0.10; const W=560,H=150,L=120,R=90; const pw=W-L-R; const max=mkt||1;
+    const bar=(lab,v,yy,fill)=>`<text x="${L-10}" y="${yy+18}" font-size="12.5" text-anchor="end">${lab}</text><rect x="${L}" y="${yy}" width="${Math.max(2,v/max*pw)}" height="26" rx="4" fill="${fill}" tabindex="0" data-tip="<b>${lab}</b>${v.toFixed(2)} M€ (taban ${base.toFixed(1)} M€)"/><text x="${L+v/max*pw+8}" y="${yy+18}" font-size="12.5" class="mono">${v.toFixed(2)} M€</text>`;
+    $('#commChart').innerHTML=`<svg class="chart" viewBox="0 0 ${W} ${H}" role="img" aria-label="Komisyon karşılaştırması">${bar('Bizim ücret (%2)',ours,20,'var(--s1)')}${bar('Piyasa (%10)',mkt,66,'var(--ink3)')}<text x="${L}" y="${H-12}" font-size="12.5">Taraflara kalan fark: <tspan font-weight="600">${(mkt-ours).toFixed(2)} M€</tspan> · ücret tabanı ${base.toFixed(1)} M€</text></svg>`; bindTips($('#commChart')); }
+  ['#cFee','#cSal','#cYrs'].forEach(s_=>$(s_).addEventListener('input',drawC)); drawC();
+  // status
+  const st=D.status.slice().sort((a,b)=>(a.pot||9)-(b.pot||9)||a.club_id.localeCompare(b.club_id)); const W=Math.max(700, st.length*26), Hh=190, L=30, T=10, B=70; const pw=W-L-20, ph=Hh-T-B; const bw=pw/st.length; const max=Math.max(...st.map(c=>c.squad_size),1);
+  let s2=`<svg class="chart" viewBox="0 0 ${W} ${Hh}" role="img" aria-label="Kulüp başına araştırılmış kadro büyüklüğü">`;
+  [0,15,max].forEach(v=>{ const y=T+ph-v/max*ph; s2+=`<line x1="${L}" y1="${y}" x2="${L+pw}" y2="${y}" stroke="${v===15?'var(--s2)':'var(--grid)'}" stroke-dasharray="${v===15?'4 3':''}"/><text x="${L-6}" y="${y+4}" font-size="10" text-anchor="end" class="mono">${v}</text>`; });
+  st.forEach((c,i)=>{ const h=c.squad_size/max*ph; const ok=D.usable.includes(c.club_id); s2+=`<rect x="${L+i*bw+bw*0.15}" y="${T+ph-h}" width="${bw*0.7}" height="${Math.max(h,1)}" rx="3" fill="${ok?'var(--s1)':'var(--ink3)'}" fill-opacity="${ok?1:.5}" tabindex="0" data-tip="<b>${esc(c.club_id)}</b>güven ${c.confidence} · kadro ${c.squad_size} · ihtiyaç ${c.needs} · kaynak ${c.sources}<br>${esc((c.notes||'').slice(0,200))}"/><text transform="translate(${L+i*bw+bw/2},${T+ph+6}) rotate(55)" font-size="9.5" text-anchor="start" class="mono">${esc(c.club_id.replace(/_/g,' ').slice(0,16))}</text>`; });
+  $('#statusChart').innerHTML=s2+'</svg><div class="legend"><span><i style="background:var(--s1)"></i>eşleştirmeye uygun</span><span><i style="background:var(--ink3);opacity:.5"></i>eksik / iskelet</span><span>kesik çizgi: 15 oyuncu eşiği</span></div>';
+  $('#statusTable').innerHTML=`<table><tr><th>Kulüp</th><th class="num">Pot</th><th>Güven</th><th>Hoca</th><th class="num">Kadro</th><th class="num">İhtiyaç</th><th class="num">Rakip</th><th class="num">Kaynak</th></tr>${st.map(c=>`<tr><td>${esc(c.club_id)}</td><td class="num">${na(c.pot)}</td><td>${tag(c.confidence)}</td><td>${na(c.coach)}</td><td class="num">${c.squad_size}</td><td class="num">${c.needs}</td><td class="num">${c.opponents}</td><td class="num">${c.sources}</td></tr>`).join('')}</table>`;
+  bindTips($('#view-agent'));
+}
+
+// ---- boot
+showClub(store.get('club') && D.clubs[store.get('club')] ? store.get('club') : 'arsenal');
+showPlayer(store.get('player') && D.players[store.get('player')] ? store.get('player') : pids[0]);
+setRole(['club','player','agent'].includes(store.get('role')) ? store.get('role') : 'club');
+</script>
