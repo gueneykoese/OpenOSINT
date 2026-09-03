@@ -149,6 +149,37 @@ def cmd_culture(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_bonus(args: argparse.Namespace) -> int:
+    from .incentives import build_plan
+
+    e = _engine()
+    if args.player not in e.players or args.club not in e.clubs:
+        print("unknown player or club", file=sys.stderr)
+        return 2
+    p, c = e.players[args.player], e.clubs[args.club]
+    plan = build_plan(
+        e.score(p, c), p, c, gross_salary_eur_m=args.salary, bonus_rate=args.rate, mode=args.mode
+    )
+    if args.json:
+        print(json.dumps(plan.to_dict(), indent=2, ensure_ascii=False))
+        return 0
+    print(
+        f"{p.name} -> {c.short_name} ({plan.position}) | brüt maaş {plan.gross_salary_eur_m} M€ | havuz {plan.pool_eur_m * 1000:.0f} k€/sezon | mod {plan.mode}"
+    )
+    for k in plan.kpis:
+        print(f"  [{k.share * 100:4.0f}%] {k.title}: {k.metric} -> hedef {k.target} {k.unit}")
+        print(f"         doğrulama: {k.verify}")
+    for t in plan.team_targets:
+        print(f"  takım: {t.title}: {t.target}")
+    print(
+        f"  ekonomi: ücretimiz {plan.economics['our_fee_eur_m']} M€, tam başarıda bonus {plan.economics['max_bonus_over_contract_eur_m']} M€ "
+        f"({plan.economics['max_bonus_share_of_fee_pct']}% of fee)"
+    )
+    for n in plan.notes:
+        print("  not:", n)
+    return 0
+
+
 def cmd_dashboard(args: argparse.Namespace) -> int:
     from .dashboard import build
 
@@ -213,6 +244,14 @@ def main(argv: list[str] | None = None) -> int:
     s.add_argument("from_country")
     s.add_argument("to_country")
     s.set_defaults(fn=cmd_culture)
+    s = sub.add_parser("bonus", help="success-bonus plan for a player at a club")
+    s.add_argument("player")
+    s.add_argument("club")
+    s.add_argument("--salary", type=float, help="gross annual salary, EUR m")
+    s.add_argument("--rate", type=float, default=0.05)
+    s.add_argument("--mode", choices=["bonus", "fee_rebate"], default="bonus")
+    s.add_argument("--json", action="store_true")
+    s.set_defaults(fn=cmd_bonus)
     s = sub.add_parser("dashboard", help="build the self-contained HTML dashboard")
     s.add_argument("--out", default="football_agent/reports/dashboard.html")
     s.set_defaults(fn=cmd_dashboard)

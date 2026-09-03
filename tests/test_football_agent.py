@@ -265,3 +265,28 @@ def test_hofstede_distance_is_symmetric_and_zero_for_same_country():
     cd, frm, gaps, score = m.adaptation(["TUR", "ESP"], "GBR")
     assert frm == "ESP" and 0 < score < 100 and gaps[0][0] in ("idv", "uai", "pdi")
     assert m.distance_to_score(0) == 100 and m.distance_to_score(10) == 5
+
+
+def test_bonus_plan_derives_from_driving_dimensions(engine):
+    from football_agent.incentives import build_plan
+
+    p, c = engine.players["young_striker"], engine.clubs["test_fc"]
+    r = engine.score(p, c)
+    plan = build_plan(r, p, c, gross_salary_eur_m=1.0)
+    assert plan.pool_eur_m == pytest.approx(0.05)  # EUR 50k on EUR 1m
+    assert plan.kpis and abs(sum(k.share for k in plan.kpis) - 1.0) < 1e-6
+    assert all(k.dimension not in ("financial", "age_contract") for k in plan.kpis)
+    keys = {k.key for k in plan.kpis}
+    assert "starter_share" in keys and "goal_contrib_p90" in keys
+    # full success with both team targets → pool × 1.25
+    full = plan.evaluate(
+        {k.key: (0.0 if not k.higher_is_better else k.target) for k in plan.kpis},
+        team_targets_met=2,
+    )
+    assert full["payout_eur_m"] == pytest.approx(0.05 * 1.25, abs=1e-6)
+    # nothing measured → nothing paid
+    assert plan.evaluate({})["payout_eur_m"] == 0
+    # partial: 85% of target sits half-way between the 70% floor and 100%
+    k = next(k for k in plan.kpis if k.key == "goal_contrib_p90")
+    assert k.attainment(k.target * 0.85) == pytest.approx(0.5, abs=0.01)
+    assert plan.economics["our_fee_eur_m"] > 0 and plan.to_dict()["mode"] == "bonus"

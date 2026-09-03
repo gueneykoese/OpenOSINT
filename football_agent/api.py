@@ -11,6 +11,7 @@ from fastapi import FastAPI, HTTPException, Query
 from . import __version__
 from .commission import quote
 from .culture import DIMENSION_LABELS, load_model
+from .incentives import build_plan
 from .llm import narrate
 from .loader import dataset_status, load_clubs, load_players, validate_dataset
 from .matching import MatchEngine
@@ -211,3 +212,51 @@ def culture_distance(from_country: str, to_country: str) -> dict:
         "sources": m.sources,
         "note": m.note,
     }
+
+
+@app.get("/match/{player_id}/{club_id}/bonus-plan")
+def bonus_plan(
+    player_id: str,
+    club_id: str,
+    gross_salary_eur_m: Optional[float] = None,
+    bonus_rate: float = 0.05,
+    mode: str = "bonus",
+    contract_years: int = 4,
+) -> dict:
+    """Success-bonus plan derived from the dimensions that drove the match."""
+    e = engine()
+    p, c = e.players.get(player_id), e.clubs.get(club_id)
+    if not p or not c:
+        raise HTTPException(404, "unknown player or club")
+    if mode not in ("bonus", "fee_rebate"):
+        raise HTTPException(422, "mode must be bonus or fee_rebate")
+    r = e.score(p, c)
+    plan = build_plan(
+        r,
+        p,
+        c,
+        gross_salary_eur_m=gross_salary_eur_m,
+        bonus_rate=bonus_rate,
+        mode=mode,
+        contract_years=contract_years,
+    )
+    return {"match": r.to_dict(), "plan": plan.to_dict()}
+
+
+@app.post("/match/{player_id}/{club_id}/bonus-plan/evaluate")
+def bonus_evaluate(
+    player_id: str,
+    club_id: str,
+    actuals: dict[str, Optional[float]],
+    team_targets_met: int = 0,
+    gross_salary_eur_m: Optional[float] = None,
+    bonus_rate: float = 0.05,
+) -> dict:
+    e = engine()
+    p, c = e.players.get(player_id), e.clubs.get(club_id)
+    if not p or not c:
+        raise HTTPException(404, "unknown player or club")
+    plan = build_plan(
+        e.score(p, c), p, c, gross_salary_eur_m=gross_salary_eur_m, bonus_rate=bonus_rate
+    )
+    return plan.evaluate(actuals, team_targets_met)

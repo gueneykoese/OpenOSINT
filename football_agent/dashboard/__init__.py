@@ -6,6 +6,7 @@ import json
 from pathlib import Path
 
 from ..commission import quote
+from ..incentives import build_plan
 from ..loader import DATA_DIR, dataset_status, load_clubs, load_players
 from ..matching import MatchEngine
 
@@ -108,6 +109,10 @@ def export_data(include_demo: bool = False) -> dict:
             "langs": p.languages,
             "sources": p.sources,
             "clubs": [r.to_dict() for r in e.rank_clubs_for_player(pid, limit=6)],
+            "bonus": {
+                r.club_id: build_plan(r, p, clubs[r.club_id]).to_dict()
+                for r in e.rank_clubs_for_player(pid, limit=6)
+            },
         }
     return out
 

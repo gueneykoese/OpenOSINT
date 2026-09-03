@@ -64,6 +64,28 @@ uv run python -m football_agent culture TUR ENG      # mesafe + boyut bazlı oku
 curl 'localhost:8090/culture/distance?from_country=BRA&to_country=ESP'
 ```
 
+### Başarı bonusu (`incentives.py`)
+
+Yerleştirdiğimiz oyuncu yeni kulübünde başarılı olursa bonus öderiz. "Başarı" belirsiz bırakılmaz: motorun o
+kulübü önermesine yol açan boyutlar, ölçülebilir ve kulübe özgü sezon hedeflerine çevrilir.
+
+* Havuz: brüt yıllık maaşın **%5**'i (1 M€ maaşta 50 k€). Boyut ağırlığıyla orantılı paylaştırılır.
+* Hedef türetme: ihtiyaç → ilk 11 dakika payı ≥ %60; istatistik → kulübün pozisyon kıyas değeri (G+A/90, pas isabeti,
+  dakika); taktik → ikinci yarıda ilk 11 başlangıç payı ≥ %65; mental → 0 kırmızı kart ve kamuya açık anlaşmazlık;
+  sakatlık → maç günlerinin ≥ %85'inde hazır; kültür → yerel dil B1 + yerel dilde medya görüşmeleri. Finans ve yaş
+  boyutları oyuncunun kontrolünde olmadığı için hedefe dönüşmez.
+* Kısmi başarı: hedefin %70'i altı ödenmez, %70–100 doğrusal. Kulüp hedefleri (geçen sezonki lig sırasını korumak,
+  ŞL lig aşamasında ilk 24) çarpan: biri +%10, ikisi +%25.
+* Ekonomi her planda yazılı: bonus bizim %2 komisyonumuzdan çıkar; tam başarıda komisyonun ne kadarının geri
+  verildiği hesaplanır (%60'ı aşarsa uyarı).
+* **Hukuki not**: menajerin müvekkile nakit ödemesi FIFA Futbol Menajerliği Yönetmeliği ve ulusal kurallar
+  açısından incelenmeli. `mode="fee_rebate"` aynı ekonomik etkiyi komisyon indirimi olarak kurar.
+
+```bash
+uv run python -m football_agent bonus nicolo_tresoldi bayern_munich --salary 1.0
+curl 'localhost:8090/match/nicolo_tresoldi/bayern_munich/bonus-plan?gross_salary_eur_m=1'
+```
+
 ## Hızlı başlangıç
 
 ```bash
