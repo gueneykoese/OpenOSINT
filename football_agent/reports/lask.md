@@ -97,8 +97,8 @@ Budget: €3m · wage ceiling €0.7m net
 - **Chris Richards** — 68.9/100 (good match, confidence medium)
   - Chris Richards → LASK at CB: good match (68.9/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
   - ⚠ Current club publicly not selling.
-- **Fikayo Tomori** — 68.6/100 (good match, confidence medium)
-  - Fikayo Tomori → LASK at CB: good match (68.6/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
+- **Fikayo Tomori** — 68.5/100 (good match, confidence medium)
+  - Fikayo Tomori → LASK at CB: good match (68.5/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
 - **Jayden Oosterwolde** — 64.1/100 (possible, confidence high)
   - Jayden Oosterwolde → LASK at CB: possible (64.1/100). Driven by statistical fit and positional need; weakest area is financial feasibility (8).
   - ⚠ Documented discipline record (see mental_profile.notes).
@@ -114,8 +114,8 @@ Budget: €2m · wage ceiling €0.5m net
 - **Chris Richards** — 60.9/100 (possible, confidence medium)
   - Chris Richards → LASK at RB: possible (60.9/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
   - ⚠ Current club publicly not selling.
-- **Gianluca Mancini** — 56.0/100 (possible, confidence high)
-  - Gianluca Mancini → LASK at RB: possible (56.0/100). Driven by statistical fit and positional need; weakest area is financial feasibility (8).
+- **Gianluca Mancini** — 55.9/100 (possible, confidence high)
+  - Gianluca Mancini → LASK at RB: possible (55.9/100). Driven by statistical fit and positional need; weakest area is financial feasibility (8).
   - ⚠ Documented discipline record (see mental_profile.notes).
   - ⚠ Current club publicly not selling.
 

@@ -92,8 +92,8 @@ Profile: physical ball-winning No.6, 22-27
 Why: Palhinha departed; Kimmich 31; Pavlovic/Bischof are still developing  
 Budget: €50m · wage ceiling €8m net
 
-- **Victor Froholdt** — 72.8/100 (good match, confidence medium)
-  - Victor Froholdt → Bayern at DM: good match (72.8/100). Driven by statistical fit and financial feasibility; weakest area is cultural adaptation (48).
+- **Victor Froholdt** — 72.9/100 (good match, confidence medium)
+  - Victor Froholdt → Bayern at DM: good match (72.9/100). Driven by statistical fit and financial feasibility; weakest area is positional need (48).
   - ⚠ Current club publicly not selling.
 - **Tyler Adams** — 71.1/100 (good match, confidence high)
   - Tyler Adams → Bayern at DM: good match (71.1/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (45).
@@ -119,8 +119,8 @@ Profile: specialist attacking RB
 Why: Laimer is a midfielder by trade; Boey set to leave  
 Budget: €30m · wage ceiling €5m net
 
-- **Chris Richards** — 71.9/100 (good match, confidence medium)
-  - Chris Richards → Bayern at RB: good match (71.9/100). Driven by statistical fit and financial feasibility; weakest area is positional need (30).
+- **Chris Richards** — 71.8/100 (good match, confidence medium)
+  - Chris Richards → Bayern at RB: good match (71.8/100). Driven by statistical fit and financial feasibility; weakest area is positional need (30).
   - ⚠ Current club publicly not selling.
 - **Fikayo Tomori** — 71.2/100 (good match, confidence medium)
   - Fikayo Tomori → Bayern at RB: good match (71.2/100). Driven by statistical fit and financial feasibility; weakest area is positional need (30).

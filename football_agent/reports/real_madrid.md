@@ -75,8 +75,8 @@ Budget: €80m · wage ceiling €10m net
 - **Victor Froholdt** — 83.4/100 (strong match, confidence medium)
   - Victor Froholdt → Real Madrid at DM: strong match (83.4/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (70).
   - ⚠ Current club publicly not selling.
-- **Tyler Adams** — 79.0/100 (strong match, confidence medium)
-  - Tyler Adams → Real Madrid at DM: strong match (79.0/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (58).
+- **Tyler Adams** — 78.9/100 (strong match, confidence medium)
+  - Tyler Adams → Real Madrid at DM: strong match (78.9/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (58).
   - ⚠ Current club publicly not selling.
 - **Curtis Jones** — 74.2/100 (good match, confidence medium)
   - Curtis Jones → Real Madrid at DM: good match (74.2/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
@@ -101,8 +101,8 @@ Budget: €60m · wage ceiling €8m net
 - **Fikayo Tomori** — 80.7/100 (strong match, confidence medium)
   - Fikayo Tomori → Real Madrid at CB: strong match (80.7/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
   - ⚠ Would block a young starter (Dean Huijsen, 21) — check pathway politics.
-- **Chris Richards** — 80.1/100 (strong match, confidence medium)
-  - Chris Richards → Real Madrid at CB: strong match (80.1/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (50).
+- **Chris Richards** — 80.0/100 (strong match, confidence medium)
+  - Chris Richards → Real Madrid at CB: strong match (80.0/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (50).
   - ⚠ Current club publicly not selling.
   - ⚠ Would block a young starter (Dean Huijsen, 21) — check pathway politics.
 - **Jayden Oosterwolde** — 75.6/100 (good match, confidence medium)
@@ -118,8 +118,8 @@ Budget: €30m · wage ceiling €5m net
 
 - **Fikayo Tomori** — 72.3/100 (good match, confidence medium)
   - Fikayo Tomori → Real Madrid at RB: good match (72.3/100). Driven by statistical fit and financial feasibility; weakest area is positional need (30).
-- **Chris Richards** — 69.3/100 (good match, confidence medium)
-  - Chris Richards → Real Madrid at RB: good match (69.3/100). Driven by statistical fit and financial feasibility; weakest area is positional need (30).
+- **Chris Richards** — 69.2/100 (good match, confidence medium)
+  - Chris Richards → Real Madrid at RB: good match (69.2/100). Driven by statistical fit and financial feasibility; weakest area is positional need (30).
   - ⚠ Current club publicly not selling.
 - **Gianluca Mancini** — 64.8/100 (possible, confidence medium)
   - Gianluca Mancini → Real Madrid at RB: possible (64.8/100). Driven by statistical fit and financial feasibility; weakest area is positional need (30).

@@ -118,11 +118,11 @@ Budget: €60m · wage ceiling €7m net
 - **Ansgar Knauff** — 72.4/100 (good match, confidence medium)
   - Ansgar Knauff → Liverpool at RW: good match (72.4/100). Driven by positional need and financial feasibility; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
-- **Christoph Baumgartner** — 72.4/100 (good match, confidence medium)
-  - Christoph Baumgartner → Liverpool at RW: good match (72.4/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
+- **Christoph Baumgartner** — 72.3/100 (good match, confidence medium)
+  - Christoph Baumgartner → Liverpool at RW: good match (72.3/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
   - ⚠ Current club publicly not selling.
-- **Brahim Díaz** — 69.8/100 (good match, confidence medium)
-  - Brahim Díaz → Liverpool at RW: good match (69.8/100). Driven by financial feasibility and statistical fit; weakest area is tactical / system fit (50).
+- **Brahim Díaz** — 69.7/100 (good match, confidence medium)
+  - Brahim Díaz → Liverpool at RW: good match (69.7/100). Driven by financial feasibility and statistical fit; weakest area is tactical / system fit (50).
 
 ## Sources
 

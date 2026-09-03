@@ -109,8 +109,8 @@ Budget: €50m · wage ceiling €7m net
 - **Tyler Adams** — 75.2/100 (good match, confidence high)
   - Tyler Adams → Man City at DM: good match (75.2/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (58).
   - ⚠ Current club publicly not selling.
-- **Gianluca Mancini** — 72.5/100 (good match, confidence high)
-  - Gianluca Mancini → Man City at DM: good match (72.5/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (35).
+- **Gianluca Mancini** — 72.4/100 (good match, confidence high)
+  - Gianluca Mancini → Man City at DM: good match (72.4/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (35).
   - ⚠ Documented discipline record (see mental_profile.notes).
   - ⚠ Current club publicly not selling.
 
@@ -122,11 +122,11 @@ Budget: €40m · wage ceiling €6m net
 - **Deniz Undav** — 72.1/100 (good match, confidence medium)
   - Deniz Undav → Man City at ST: good match (72.1/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
   - ⚠ Current club publicly not selling.
-- **Ayase Ueda** — 69.7/100 (good match, confidence medium)
-  - Ayase Ueda → Man City at ST: good match (69.7/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
+- **Ayase Ueda** — 69.6/100 (good match, confidence medium)
+  - Ayase Ueda → Man City at ST: good match (69.6/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
   - ⚠ Current club publicly not selling.
-- **Nicolò Tresoldi** — 69.5/100 (good match, confidence medium)
-  - Nicolò Tresoldi → Man City at ST: good match (69.5/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
+- **Nicolò Tresoldi** — 69.4/100 (good match, confidence medium)
+  - Nicolò Tresoldi → Man City at ST: good match (69.4/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
   - ⚠ Current club publicly not selling.
 
 ## Sources

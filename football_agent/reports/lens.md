@@ -77,10 +77,10 @@ Profile: box-to-box destroyer, 21-26, high resale
 Why: Sangaré sold for EUR 48m; no like-for-like replacement  
 Budget: €15m · wage ceiling €2m net
 
-- **Oleksandr Zinchenko** — 67.9/100 (good match, confidence medium)
-  - Oleksandr Zinchenko → Lens at DM: good match (67.9/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
-- **Dani Ceballos** — 67.0/100 (good match, confidence medium)
-  - Dani Ceballos → Lens at DM: good match (67.0/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
+- **Oleksandr Zinchenko** — 68.0/100 (good match, confidence medium)
+  - Oleksandr Zinchenko → Lens at DM: good match (68.0/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
+- **Dani Ceballos** — 66.9/100 (good match, confidence medium)
+  - Dani Ceballos → Lens at DM: good match (66.9/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
   - ⚠ Current club publicly not selling.
 - **Tyler Adams** — 64.6/100 (possible, confidence high)
   - Tyler Adams → Lens at DM: possible (64.6/100). Driven by positional need and statistical fit; weakest area is financial feasibility (0).

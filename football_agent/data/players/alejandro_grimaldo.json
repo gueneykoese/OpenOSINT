@@ -13,15 +13,15 @@
   ],
   "preferred_foot": "left",
   "height_cm": 171,
-  "current_club": "Bayer 04 Leverkusen",
-  "current_club_league": "Bundesliga",
-  "contract_until": 2027,
+  "current_club": "Atlético de Madrid",
+  "current_club_league": "La Liga",
+  "contract_until": 2030,
   "market_value_eur_m": 24,
-  "estimated_fee_eur_m": 15,
+  "estimated_fee_eur_m": null,
   "wage_eur_m_net": null,
   "release_clause_eur_m": null,
   "agent_status": "represented",
-  "availability": "open to move",
+  "availability": "not for sale",
   "stats_2025_26": {
     "competition": "Bundesliga",
     "apps": 29,
@@ -81,11 +81,13 @@
     "https://www.sportbusy.com/players/soccer/166396/",
     "https://www.bundesliga.com/en/player/alejandro-grimaldo",
     "https://bulinews.com/leverkusen-grimaldo-the-subject-interest-juventus",
-    "https://onefootball.com/en/news/barcelona-plot-transfer-of-leverkusen-star-alejandro-grimaldo-41039579"
+    "https://onefootball.com/en/news/barcelona-plot-transfer-of-leverkusen-star-alejandro-grimaldo-41039579",
+    "https://www.football-espana.net/2026/06/29/grimaldo-atletico-madrid-transfer-fee",
+    "https://www.france24.com/en/live-news/20260630-grimaldo-realises-goal-of-atletico-madrid-move-from-leverkusen"
   ],
   "as_of": "2026-09-02",
   "data_quality": {
     "confidence": "medium",
-    "notes": "Leverkusen retained as post-window club: summer 2026 links to Juventus, Barcelona, Bayern, Milan and Chelsea were found but NO completed transfer; not explicitly re-verified after 1 Sep 2026. Contract to 2027 (joined free 2023). market_value_eur_m = Transfermarkt EUR 24.0m (2026). 2025/26 Bundesliga stats vary by aggregator: 8 goals / 7 assists in 24-25 apps (SportBusy) vs 8 goals / 8 assists in 29 apps (Bundesliga.com snippet); the higher, later-looking figure is recorded. All-competitions total reported as 14 goals / 12 assists. Minutes/starts null. estimated_fee_eur_m 15 reflects the repeatedly reported ~EUR 15m price for a 30-year-old in his final contract year."
+    "notes": "CORRECTED 2026-09-03 from the Atlético dossier research: joined Atlético de Madrid from Leverkusen for ~€20m (Football España 29 Jun 2026, France24 30 Jun 2026), contract to 2030, shirt 22. Just signed, so not a realistic January/summer-2027 target; kept in the pool for completeness. | Earlier note: Leverkusen retained as post-window club: summer 2026 links to Juventus, Barcelona, Bayern, Milan and Chelsea were found but NO completed transfer; not explicitly re-verified after 1 Sep 2026. Contract to 2027 (joined free 2023). market_value_eur_m = Transfermarkt EUR 24.0m (2026). 2025/26 Bundesliga stats vary by aggregator: 8 goals / 7 assists in 24-25 apps (SportBusy) vs 8 goals / 8 assists in 29 apps (Bundesliga.com snippet); the higher, later-looking figure is recorded. All-competitions total reported as 14 goals / 12 assists. Minutes/starts null. estimated_fee_eur_m 15 reflects the repeatedly reported ~EUR 15m price for a 30-year-old in his final contract year."
   }
 }

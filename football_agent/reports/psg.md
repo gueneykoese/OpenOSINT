@@ -89,8 +89,8 @@ Budget: €80m · wage ceiling €12m net
 - **Ayase Ueda** — 80.9/100 (strong match, confidence medium)
   - Ayase Ueda → PSG at ST: strong match (80.9/100). Driven by statistical fit and positional need; weakest area is age & contract (50).
   - ⚠ Current club publicly not selling.
-- **Deniz Undav** — 76.7/100 (good match, confidence medium)
-  - Deniz Undav → PSG at ST: good match (76.7/100). Driven by statistical fit and positional need; weakest area is age & contract (30).
+- **Deniz Undav** — 76.6/100 (good match, confidence medium)
+  - Deniz Undav → PSG at ST: good match (76.6/100). Driven by statistical fit and positional need; weakest area is age & contract (30).
   - ⚠ Current club publicly not selling.
 
 ### CB — medium priority
@@ -113,12 +113,12 @@ Profile: young athletic LB to understudy Nuno Mendes
 Why: Digne (33) signed as a one-to-two-season stopgap  
 Budget: €25m · wage ceiling €4m net
 
-- **Alejandro Grimaldo** — 66.3/100 (good match, confidence medium)
-  - Alejandro Grimaldo → PSG at LB: good match (66.3/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (45).
 - **Archie Brown** — 65.0/100 (possible, confidence medium)
   - Archie Brown → PSG at LB: possible (65.0/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (48).
-- **Oleksandr Zinchenko** — 64.2/100 (possible, confidence medium)
-  - Oleksandr Zinchenko → PSG at LB: possible (64.2/100). Driven by financial feasibility and tactical / system fit; weakest area is age & contract (30).
+- **Oleksandr Zinchenko** — 64.3/100 (possible, confidence medium)
+  - Oleksandr Zinchenko → PSG at LB: possible (64.3/100). Driven by financial feasibility and tactical / system fit; weakest area is age & contract (30).
+- **Mamadou Sarr** — 63.6/100 (possible, confidence medium)
+  - Mamadou Sarr → PSG at LB: possible (63.6/100). Driven by financial feasibility and statistical fit; weakest area is positional need (36).
 
 ## Sources
 

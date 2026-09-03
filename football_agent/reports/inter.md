@@ -118,8 +118,8 @@ Budget: €25m · wage ceiling €3m net
   - ⚠ Current club publicly not selling.
 - **Mamadou Sarr** — 70.5/100 (good match, confidence medium)
   - Mamadou Sarr → Inter at LB: good match (70.5/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
-- **Archie Brown** — 70.1/100 (good match, confidence medium)
-  - Archie Brown → Inter at LB: good match (70.1/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Archie Brown** — 70.0/100 (good match, confidence medium)
+  - Archie Brown → Inter at LB: good match (70.0/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ## Sources
 

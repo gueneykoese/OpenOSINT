@@ -111,8 +111,8 @@ Profile: ball-winning pivot with elite passing, 21-26
 Why: Perrone/Ricci/Da Cunha all more distributor than destroyer; UCL demands more defensive cover  
 Budget: €20m · wage ceiling €2.5m net
 
-- **Victor Froholdt** — 63.4/100 (possible, confidence medium)
-  - Victor Froholdt → Como at DM: possible (63.4/100). Driven by statistical fit and tactical / system fit; weakest area is financial feasibility (0).
+- **Victor Froholdt** — 63.3/100 (possible, confidence medium)
+  - Victor Froholdt → Como at DM: possible (63.3/100). Driven by statistical fit and tactical / system fit; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
 - **Dani Ceballos** — 63.0/100 (possible, confidence medium)
   - Dani Ceballos → Como at DM: possible (63.0/100). Driven by financial feasibility and tactical / system fit; weakest area is age & contract (30).
@@ -127,14 +127,14 @@ Profile: inverted-capable, left-footed
 Why: Kaiki new to Europe; Valle sole experienced option  
 Budget: €12m · wage ceiling €1.5m net
 
-- **Oleksandr Zinchenko** — 63.6/100 (possible, confidence medium)
-  - Oleksandr Zinchenko → Como at LB: possible (63.6/100). Driven by financial feasibility and tactical / system fit; weakest area is age & contract (30).
+- **Oleksandr Zinchenko** — 63.7/100 (possible, confidence medium)
+  - Oleksandr Zinchenko → Como at LB: possible (63.7/100). Driven by financial feasibility and tactical / system fit; weakest area is age & contract (30).
 - **Jayden Oosterwolde** — 62.1/100 (possible, confidence high)
   - Jayden Oosterwolde → Como at LB: possible (62.1/100). Driven by statistical fit and tactical / system fit; weakest area is mentality & chemistry (20).
   - ⚠ Documented discipline record (see mental_profile.notes).
   - ⚠ Current club publicly not selling.
-- **Alejandro Grimaldo** — 60.3/100 (possible, confidence medium)
-  - Alejandro Grimaldo → Como at LB: possible (60.3/100). Driven by positional need and tactical / system fit; weakest area is age & contract (45).
+- **Archie Brown** — 56.1/100 (possible, confidence medium)
+  - Archie Brown → Como at LB: possible (56.1/100). Driven by positional need and statistical fit; weakest area is financial feasibility (33).
 
 ## Sources
 

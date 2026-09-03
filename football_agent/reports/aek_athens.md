@@ -82,10 +82,10 @@ Profile: athletic, 22-27, can defend 1v1 against elite wingers
 Why: Penrice loaned out; only Lykogiannis (33) added  
 Budget: €4m · wage ceiling €1m net
 
-- **Oleksandr Zinchenko** — 71.4/100 (good match, confidence medium)
-  - Oleksandr Zinchenko → AEK at LB: good match (71.4/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (48).
-- **Jayden Oosterwolde** — 67.1/100 (good match, confidence high)
-  - Jayden Oosterwolde → AEK at LB: good match (67.1/100). Driven by statistical fit and positional need; weakest area is financial feasibility (8).
+- **Oleksandr Zinchenko** — 71.5/100 (good match, confidence medium)
+  - Oleksandr Zinchenko → AEK at LB: good match (71.5/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (50).
+- **Jayden Oosterwolde** — 67.0/100 (good match, confidence high)
+  - Jayden Oosterwolde → AEK at LB: good match (67.0/100). Driven by statistical fit and positional need; weakest area is financial feasibility (8).
   - ⚠ Documented discipline record (see mental_profile.notes).
   - ⚠ Current club publicly not selling.
 - **Archie Brown** — 61.9/100 (possible, confidence medium)
@@ -96,14 +96,14 @@ Profile: quick, left-sided, 22-26 with resale value
 Why: Vida/Moukoudi ageing; Alexiou only on loan  
 Budget: €5m · wage ceiling €1.2m net
 
-- **Jayden Oosterwolde** — 67.5/100 (good match, confidence high)
-  - Jayden Oosterwolde → AEK at CB: good match (67.5/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (20).
+- **Jayden Oosterwolde** — 67.4/100 (good match, confidence high)
+  - Jayden Oosterwolde → AEK at CB: good match (67.4/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (20).
   - ⚠ Documented discipline record (see mental_profile.notes).
   - ⚠ Current club publicly not selling.
-- **Fikayo Tomori** — 64.9/100 (possible, confidence medium)
-  - Fikayo Tomori → AEK at CB: possible (64.9/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
-- **Chris Richards** — 63.8/100 (possible, confidence medium)
-  - Chris Richards → AEK at CB: possible (63.8/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
+- **Fikayo Tomori** — 64.8/100 (possible, confidence medium)
+  - Fikayo Tomori → AEK at CB: possible (64.8/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
+- **Chris Richards** — 63.6/100 (possible, confidence medium)
+  - Chris Richards → AEK at CB: possible (63.6/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
   - ⚠ Current club publicly not selling.
 
 ### ST — medium priority

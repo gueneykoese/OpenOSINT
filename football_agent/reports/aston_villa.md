@@ -146,8 +146,8 @@ Budget: €25m · wage ceiling €4m net
   - Leandro Trossard → Aston Villa at AM: good match (66.5/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
   - ⚠ Current club publicly not selling.
   - ⚠ Would block a young starter (Johan Manzambi, 20) — check pathway politics.
-- **Christoph Baumgartner** — 66.4/100 (good match, confidence medium)
-  - Christoph Baumgartner → Aston Villa at AM: good match (66.4/100). Driven by statistical fit and positional need; weakest area is positional need (45).
+- **Christoph Baumgartner** — 66.3/100 (good match, confidence medium)
+  - Christoph Baumgartner → Aston Villa at AM: good match (66.3/100). Driven by statistical fit and positional need; weakest area is positional need (45).
   - ⚠ Current club publicly not selling.
   - ⚠ Would block a young starter (Johan Manzambi, 20) — check pathway politics.
 - **Reiss Nelson** — 61.7/100 (possible, confidence medium)

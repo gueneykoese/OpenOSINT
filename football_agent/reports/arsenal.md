@@ -91,14 +91,13 @@ Profile: left-footed or inverted left winger with 10+ goal output, 21-26, PL-ada
 Why: Trossard sold, Martinelli managed 1 PL goal and his deal ends 2027; Eze injured; Tzolis unproven  
 Budget: €60m · wage ceiling €7m net
 
-- **Christoph Baumgartner** — 80.1/100 (strong match, confidence medium)
-  - Christoph Baumgartner → Arsenal at LW: strong match (80.1/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
+- **Christoph Baumgartner** — 80.0/100 (strong match, confidence medium)
+  - Christoph Baumgartner → Arsenal at LW: strong match (80.0/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
 - **Archie Brown** — 79.6/100 (strong match, confidence medium)
   - Archie Brown → Arsenal at LW: strong match (79.6/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Ansgar Knauff** — 78.8/100 (strong match, confidence medium)
-  - Ansgar Knauff → Arsenal at LW: strong match (78.8/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
-  - ⚠ Current club publicly not selling.
+- **Reiss Nelson** — 78.8/100 (strong match, confidence medium)
+  - Reiss Nelson → Arsenal at LW: strong match (78.8/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### RB — medium priority
 Profile: athletic right-back comfortable inverting, 22-27, strong 1v1 defender  
@@ -134,8 +133,8 @@ Profile: young sweeper-keeper, 21-25, to succeed Raya (31 in Sept 2026)
 Why: Kepa is a short-term backup; Meslier signed as free-transfer cover; Setford loaned out  
 Budget: €25m · wage ceiling €3m net
 
-- **Noah Atubolu** — 74.5/100 (good match, confidence medium)
-  - Noah Atubolu → Arsenal at GK: good match (74.5/100). Driven by statistical fit and financial feasibility; weakest area is positional need (53).
+- **Noah Atubolu** — 74.4/100 (good match, confidence medium)
+  - Noah Atubolu → Arsenal at GK: good match (74.4/100). Driven by statistical fit and financial feasibility; weakest area is positional need (53).
   - ⚠ Current club publicly not selling.
 - **Alex Meret** — 54.8/100 (possible, confidence medium)
   - Alex Meret → Arsenal at GK: possible (54.8/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (21).

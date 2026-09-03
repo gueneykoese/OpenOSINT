@@ -86,14 +86,14 @@ Profile: athletic, overlapping left-back, 21-26, Turkish or EU passport preferre
 Why: Archie Brown and Oosterwolde were both publicly put up for sale in July 2026 (EUR 15m / EUR 25m asks); Aké is the only natural cover and is 31.  
 Budget: €n/am · wage ceiling €n/am net
 
-- **Jayden Oosterwolde** — 79.4/100 (strong match, confidence high)
-  - Jayden Oosterwolde → Fenerbahçe at LB: strong match (79.4/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (20).
+- **Jayden Oosterwolde** — 79.3/100 (strong match, confidence high)
+  - Jayden Oosterwolde → Fenerbahçe at LB: strong match (79.3/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (20).
   - ⚠ Documented discipline record (see mental_profile.notes).
   - ⚠ Current club publicly not selling.
 - **David Raum** — 73.7/100 (good match, confidence medium)
   - David Raum → Fenerbahçe at LB: good match (73.7/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Alejandro Grimaldo** — 71.5/100 (good match, confidence medium)
-  - Alejandro Grimaldo → Fenerbahçe at LB: good match (71.5/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Oleksandr Zinchenko** — 71.5/100 (good match, confidence medium)
+  - Oleksandr Zinchenko → Fenerbahçe at LB: good match (71.5/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### ST — medium priority
 Profile: mobile, pressing No.9 with resale value, 22-26  
@@ -117,8 +117,8 @@ Budget: €n/am · wage ceiling €n/am net
 - **Victor Froholdt** — 69.5/100 (good match, confidence medium)
   - Victor Froholdt → Fenerbahçe at DM: good match (69.5/100). Driven by statistical fit and positional need; weakest area is financial feasibility (28).
   - ⚠ Current club publicly not selling.
-- **Gianluca Mancini** — 66.5/100 (good match, confidence high)
-  - Gianluca Mancini → Fenerbahçe at DM: good match (66.5/100). Driven by statistical fit and financial feasibility; weakest area is positional need (42).
+- **Gianluca Mancini** — 66.4/100 (good match, confidence high)
+  - Gianluca Mancini → Fenerbahçe at DM: good match (66.4/100). Driven by statistical fit and financial feasibility; weakest area is positional need (42).
   - ⚠ Documented discipline record (see mental_profile.notes).
   - ⚠ Current club publicly not selling.
 - **Dani Ceballos** — 64.4/100 (possible, confidence medium)
@@ -130,8 +130,8 @@ Profile: young Turkish goalkeeper as successor
 Why: Ederson is 33; Livaković returned from loan and is 31.  
 Budget: €n/am · wage ceiling €n/am net
 
-- **Noah Atubolu** — 70.2/100 (good match, confidence medium)
-  - Noah Atubolu → Fenerbahçe at GK: good match (70.2/100). Driven by statistical fit and financial feasibility; weakest area is positional need (48).
+- **Noah Atubolu** — 70.1/100 (good match, confidence medium)
+  - Noah Atubolu → Fenerbahçe at GK: good match (70.1/100). Driven by statistical fit and financial feasibility; weakest area is positional need (48).
   - ⚠ Current club publicly not selling.
 - **Alex Meret** — 60.4/100 (possible, confidence medium)
   - Alex Meret → Fenerbahçe at GK: possible (60.4/100). Driven by financial feasibility and positional need; weakest area is statistical fit (38).

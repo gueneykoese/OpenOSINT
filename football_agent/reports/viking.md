@@ -75,8 +75,8 @@ Budget: €1.5m · wage ceiling €0.4m net
 - **Chris Richards** — 70.8/100 (good match, confidence medium)
   - Chris Richards → Viking at CB: good match (70.8/100). Driven by positional need and statistical fit; weakest area is financial feasibility (10).
   - ⚠ Current club publicly not selling.
-- **Fikayo Tomori** — 69.3/100 (good match, confidence medium)
-  - Fikayo Tomori → Viking at CB: good match (69.3/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
+- **Fikayo Tomori** — 69.4/100 (good match, confidence medium)
+  - Fikayo Tomori → Viking at CB: good match (69.4/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
 - **Jayden Oosterwolde** — 66.2/100 (good match, confidence medium)
   - Jayden Oosterwolde → Viking at CB: good match (66.2/100). Driven by positional need and statistical fit; weakest area is financial feasibility (8).
   - ⚠ Documented discipline record (see mental_profile.notes).
@@ -104,8 +104,8 @@ Budget: €1.5m · wage ceiling €0.35m net
 - **Ayase Ueda** — 61.1/100 (possible, confidence medium)
   - Ayase Ueda → Viking at ST: possible (61.1/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
-- **Deniz Undav** — 60.6/100 (possible, confidence medium)
-  - Deniz Undav → Viking at ST: possible (60.6/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
+- **Deniz Undav** — 60.5/100 (possible, confidence medium)
+  - Deniz Undav → Viking at ST: possible (60.5/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
 - **Nicolò Tresoldi** — 60.2/100 (possible, confidence medium)
   - Nicolò Tresoldi → Viking at ST: possible (60.2/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
