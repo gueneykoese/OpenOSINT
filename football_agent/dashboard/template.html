@@ -59,6 +59,7 @@ main{padding:20px 24px 56px;max-width:1440px;margin:0 auto}
 .card h3{font-family:var(--display);font-weight:600;font-size:17px;letter-spacing:.03em;text-transform:uppercase;margin:0 0 2px;color:var(--ink2)}
 .card .sub{font-size:12.5px;color:var(--ink3);margin:0 0 10px;max-width:70ch}
 svg.chart{width:100%;height:auto;display:block;overflow:visible}
+svg.radar{max-width:340px;margin:0 auto}
 svg text{font-family:var(--body);fill:var(--ink2)}
 svg .mono{font-family:var(--mono);font-variant-numeric:tabular-nums}
 .tip{position:fixed;pointer-events:none;background:var(--ink);color:var(--bg);padding:6px 9px;border-radius:6px;font-size:12px;max-width:280px;z-index:20;box-shadow:0 4px 14px rgba(0,0,0,.2);display:none;line-height:1.35}
@@ -147,7 +148,7 @@ figure{margin:0}figcaption{font-size:12px;color:var(--ink3);margin-top:6px}
     <div class="row" style="margin-bottom:10px"><input class="search" id="pSearch" placeholder="Oyuncu ara…" aria-label="Oyuncu ara"><div class="chips" id="posChips" style="margin:0"></div></div>
     <div class="chips" id="playerChips"></div>
     <div id="playerHero" class="hero"></div>
-    <div class="grid g12">
+    <div class="grid g2">
       <div class="card"><h3>En uygun kulüpler</h3><p class="sub">Motorun sıraladığı ilk 6 kulüp. Çubuğa tıklayın; sağdaki analiz o kulübe geçer.</p><div id="clubBars"></div></div>
       <div class="card" id="playerDetailCard"><h3>Eşleşme analizi</h3><div id="playerDetail"></div></div>
     </div>
@@ -167,37 +168,37 @@ figure{margin:0}figcaption{font-size:12px;color:var(--ink3);margin-top:6px}
           <g fill="none" stroke="currentColor" stroke-width="1.2" color="var(--ink2)">
             <rect x="10" y="20" width="130" height="54" rx="8"/>
             <rect x="10" y="110" width="130" height="54" rx="8"/>
-            <rect x="200" y="20" width="150" height="144" rx="8" stroke="var(--s1)" stroke-width="1.8"/>
-            <rect x="410" y="20" width="110" height="54" rx="8"/>
-            <rect x="410" y="110" width="110" height="54" rx="8"/>
-            <rect x="200" y="215" width="150" height="54" rx="8" stroke-dasharray="4 3"/>
-            <rect x="410" y="215" width="110" height="54" rx="8"/>
-            <line x1="140" y1="47" x2="198" y2="60" marker-end="url(#arw)"/>
-            <line x1="140" y1="137" x2="198" y2="124" marker-end="url(#arw)"/>
-            <line x1="350" y1="60" x2="408" y2="47" marker-end="url(#arw)"/>
-            <line x1="350" y1="124" x2="408" y2="137" marker-end="url(#arw)"/>
-            <line x1="465" y1="74" x2="465" y2="108" marker-end="url(#arw)"/>
-            <line x1="465" y1="164" x2="465" y2="213" marker-end="url(#arw)"/>
-            <line x1="410" y1="242" x2="352" y2="242" marker-end="url(#arw)" stroke-dasharray="4 3"/>
+            <rect x="185" y="20" width="185" height="144" rx="8" stroke="var(--s1)" stroke-width="1.8"/>
+            <rect x="420" y="20" width="200" height="54" rx="8"/>
+            <rect x="420" y="110" width="200" height="54" rx="8"/>
+            <rect x="175" y="215" width="205" height="54" rx="8" stroke-dasharray="4 3"/>
+            <rect x="420" y="215" width="200" height="54" rx="8"/>
+            <line x1="140" y1="47" x2="183" y2="60" marker-end="url(#arw)"/>
+            <line x1="140" y1="137" x2="183" y2="124" marker-end="url(#arw)"/>
+            <line x1="370" y1="60" x2="418" y2="47" marker-end="url(#arw)"/>
+            <line x1="370" y1="124" x2="418" y2="137" marker-end="url(#arw)"/>
+            <line x1="520" y1="74" x2="520" y2="108" marker-end="url(#arw)"/>
+            <line x1="520" y1="164" x2="520" y2="213" marker-end="url(#arw)"/>
+            <line x1="420" y1="242" x2="382" y2="242" marker-end="url(#arw)" stroke-dasharray="4 3"/>
           </g>
           <g font-size="12" fill="var(--ink)">
             <text x="75" y="42" text-anchor="middle" font-weight="600">Kulüp dosyaları</text><text x="75" y="60" text-anchor="middle" font-size="10.5" fill="var(--ink3)">36 · kadro, ihtiyaç, kimlik</text>
             <text x="75" y="132" text-anchor="middle" font-weight="600">Oyuncu dosyaları</text><text x="75" y="150" text-anchor="middle" font-size="10.5" fill="var(--ink3)">39 · istatistik, stil, kayıt</text>
-            <text x="275" y="42" text-anchor="middle" font-weight="600">Eşleştirme motoru</text>
-            <text x="275" y="62" text-anchor="middle" font-size="10.5" fill="var(--ink3)">8 boyut × ağırlık</text>
-            <text x="275" y="82" text-anchor="middle" font-size="10.5" fill="var(--ink3)">ihtiyaç .20 · istatistik .20</text>
-            <text x="275" y="98" text-anchor="middle" font-size="10.5" fill="var(--ink3)">taktik .15 · finans .15</text>
-            <text x="275" y="114" text-anchor="middle" font-size="10.5" fill="var(--ink3)">mental .10 · sakatlık .08</text>
-            <text x="275" y="130" text-anchor="middle" font-size="10.5" fill="var(--ink3)">kültür (Hofstede) .07 · yaş .05</text>
-            <text x="275" y="150" text-anchor="middle" font-size="10.5" fill="var(--ink3)">deterministik, açıklanabilir</text>
-            <text x="465" y="42" text-anchor="middle" font-weight="600">Puan 0–100</text><text x="465" y="60" text-anchor="middle" font-size="10.5" fill="var(--ink3)">+ boyut gerekçeleri</text>
-            <text x="465" y="132" text-anchor="middle" font-weight="600">Bayraklar</text><text x="465" y="150" text-anchor="middle" font-size="10.5" fill="var(--ink3)">sakatlık, disiplin, yol kapama</text>
-            <text x="465" y="237" text-anchor="middle" font-weight="600">İnsan incelemesi</text><text x="465" y="255" text-anchor="middle" font-size="10.5" fill="var(--ink3)">siyasi/sosyal bağlam puanlanmaz</text>
-            <text x="275" y="237" text-anchor="middle" font-weight="600">Claude memo (opsiyonel)</text><text x="275" y="255" text-anchor="middle" font-size="10.5" fill="var(--ink3)">anlatır, itiraz eder; puanlamaz</text>
-            <text x="168" y="40" text-anchor="middle" font-size="10" fill="var(--ink3)">yükle</text>
-            <text x="380" y="40" text-anchor="middle" font-size="10" fill="var(--ink3)">toplam</text>
-            <text x="380" y="146" text-anchor="middle" font-size="10" fill="var(--ink3)">tespit</text>
-            <text x="380" y="235" text-anchor="middle" font-size="10" fill="var(--ink3)">taslak</text>
+            <text x="277" y="42" text-anchor="middle" font-weight="600">Eşleştirme motoru</text>
+            <text x="277" y="62" text-anchor="middle" font-size="10.5" fill="var(--ink3)">8 boyut × ağırlık</text>
+            <text x="277" y="82" text-anchor="middle" font-size="10.5" fill="var(--ink3)">ihtiyaç .20 · istatistik .20</text>
+            <text x="277" y="98" text-anchor="middle" font-size="10.5" fill="var(--ink3)">taktik .15 · finans .15</text>
+            <text x="277" y="114" text-anchor="middle" font-size="10.5" fill="var(--ink3)">mental .10 · sakatlık .08</text>
+            <text x="277" y="130" text-anchor="middle" font-size="10.5" fill="var(--ink3)">kültür (Hofstede) .07 · yaş .05</text>
+            <text x="277" y="150" text-anchor="middle" font-size="10.5" fill="var(--ink3)">deterministik, açıklanabilir</text>
+            <text x="520" y="42" text-anchor="middle" font-weight="600">Puan 0–100</text><text x="520" y="60" text-anchor="middle" font-size="10.5" fill="var(--ink3)">+ boyut gerekçeleri</text>
+            <text x="520" y="132" text-anchor="middle" font-weight="600">Bayraklar</text><text x="520" y="150" text-anchor="middle" font-size="10.5" fill="var(--ink3)">sakatlık, disiplin, yol kapama</text>
+            <text x="520" y="237" text-anchor="middle" font-weight="600">İnsan incelemesi</text><text x="520" y="255" text-anchor="middle" font-size="10.5" fill="var(--ink3)">siyasi/sosyal bağlam puanlanmaz</text>
+            <text x="277" y="237" text-anchor="middle" font-weight="600">Claude memo (opsiyonel)</text><text x="277" y="255" text-anchor="middle" font-size="10.5" fill="var(--ink3)">anlatır, itiraz eder; puanlamaz</text>
+            <text x="160" y="40" text-anchor="middle" font-size="10" fill="var(--ink3)">yükle</text>
+            <text x="394" y="40" text-anchor="middle" font-size="10" fill="var(--ink3)">toplam</text>
+            <text x="394" y="146" text-anchor="middle" font-size="10" fill="var(--ink3)">tespit</text>
+            <text x="400" y="235" text-anchor="middle" font-size="10" fill="var(--ink3)">taslak</text>
           </g>
           <text x="10" y="292" font-size="10.5" fill="var(--ink3)">Kaynaklar (UEFA, kulüp siteleri, transfer/istatistik siteleri) → her kayıtta URL + tarih; doğrulanamayan alan null kalır.</text>
         </svg>
@@ -248,7 +249,7 @@ document.querySelectorAll('.roles button').forEach(b => b.addEventListener('clic
 function radar(dims, size=260){
   const cx=size/2, cy=size/2, R=size/2-34, n=dims.length;
   const pt=(i,v)=>{const a=-Math.PI/2+i*2*Math.PI/n; return [cx+Math.cos(a)*R*v/100, cy+Math.sin(a)*R*v/100];};
-  let s=`<svg class="chart" viewBox="0 0 ${size} ${size}" role="img" aria-label="Sekiz boyutlu eşleşme radarı">`;
+  let s=`<svg class="chart radar" viewBox="0 0 ${size} ${size}" role="img" aria-label="Sekiz boyutlu eşleşme radarı">`;
   [25,50,75,100].forEach(r=>{ s+=`<polygon points="${dims.map((_,i)=>pt(i,r).join(',')).join(' ')}" fill="none" stroke="var(--grid)"/>`; });
   dims.forEach((d,i)=>{ const [x,y]=pt(i,100); s+=`<line x1="${cx}" y1="${cy}" x2="${x}" y2="${y}" stroke="var(--grid)"/>`; });
   s+=`<polygon points="${dims.map((d,i)=>pt(i,d.score).join(',')).join(' ')}" fill="var(--s1)" fill-opacity=".22" stroke="var(--s1)" stroke-width="2"/>`;
@@ -338,14 +339,14 @@ $('#pSearch').addEventListener('input', renderPlayerChips);
 $('#playerChips').addEventListener('click', e=>{ const b=e.target.closest('.chip'); if(b) showPlayer(b.dataset.id); });
 
 function clubBarChart(p){
-  const rs=p.clubs; if(!rs.length) return '<p class="empty">—</p>'; const W=620,H=36*rs.length+20,L=150,R=50; const pw=W-L-R;
+  const rs=p.clubs; if(!rs.length) return '<p class="empty">—</p>'; const W=520,H=38*rs.length+22,L=130,R=60; const pw=W-L-R;
   let s=`<svg class="chart" viewBox="0 0 ${W} ${H}" role="img" aria-label="Oyuncu için en uygun kulüpler puan çubukları">`;
-  [50,75,100].forEach(v=>{ const x=L+v/100*pw; s+=`<line x1="${x}" y1="6" x2="${x}" y2="${H-14}" stroke="var(--grid)"/><text x="${x}" y="${H-2}" font-size="10" text-anchor="middle" class="mono">${v}</text>`; });
-  rs.forEach((r,i)=>{ const y=10+i*36; const w=r.total/100*pw; const sel=r.club_id===curPlayerClub;
+  [50,75,100].forEach(v=>{ const x=L+v/100*pw; s+=`<line x1="${x}" y1="6" x2="${x}" y2="${H-16}" stroke="var(--grid)"/><text x="${x}" y="${H-3}" font-size="11" text-anchor="middle" class="mono">${v}</text>`; });
+  rs.forEach((r,i)=>{ const y=10+i*38; const w=r.total/100*pw; const sel=r.club_id===curPlayerClub;
     s+=`<g class="cb" data-cid="${r.club_id}" style="cursor:pointer" tabindex="0" data-tip="<b>${esc(r.club_name)} · ${r.total.toFixed(1)}</b>${VERD[r.verdict]} · poz ${r.position} · güven ${r.confidence}${r.red_flags.length?'<br>⚑ '+esc(r.red_flags[0]):''}"><rect x="0" y="${y-4}" width="${W}" height="32" fill="${sel?'var(--panel2)':'transparent'}" rx="6"/>
-      <text x="${L-10}" y="${y+16}" font-size="12.5" text-anchor="end" font-weight="${sel?600:400}">${esc(r.club_name)}</text>
+      <text x="${L-10}" y="${y+17}" font-size="14" text-anchor="end" font-weight="${sel?600:400}">${esc(r.club_name)}</text>
       <rect x="${L}" y="${y+4}" width="${w}" height="16" rx="4" fill="${sel?'var(--s1)':'var(--s1)'}" fill-opacity="${sel?1:.55}"/>
-      <text x="${L+w+8}" y="${y+16}" font-size="12" class="mono">${r.total.toFixed(1)}</text>${r.red_flags.length?`<text x="${L+w+44}" y="${y+16}" font-size="12" fill="var(--crit)">⚑</text>`:''}</g>`; });
+      <text x="${L+w+8}" y="${y+17}" font-size="13" class="mono">${r.total.toFixed(1)}</text>${r.red_flags.length?`<text x="${L+w+46}" y="${y+17}" font-size="13" fill="var(--crit)">⚑</text>`:''}</g>`; });
   return s+'</svg>';
 }
 function hofBars(p, r){
@@ -370,7 +371,7 @@ function showPlayer(id, cid){
   $('#playerHero').innerHTML=`<div><h2>${esc(p.name)}</h2><p class="meta">${esc(p.pos)}${p.sec.length?' / '+p.sec.map(esc).join(', '):''} · ${na(p.age)} yaş · ${(p.nat||[]).map(esc).join('/')} · <b>${na(p.club)}</b> (${na(p.league)}) · sözleşme ${na(p.contract)} · ${tag(p.confidence)}</p><p class="meta">Durum: ${na(p.avail)} · Stil: ${p.tags.map(esc).join(', ')||'—'}</p></div>
     <div class="tiles"><div class="tile"><b>${na(p.stats.apps)}</b><span>maç 25/26</span></div><div class="tile"><b>${na(p.stats.min)}</b><span>dakika</span></div><div class="tile"><b>${na(p.stats.g)}</b><span>gol</span></div><div class="tile"><b>${na(p.stats.a)}</b><span>asist</span></div><div class="tile"><b>${p90}</b><span>G+A / 90</span></div><div class="tile"><b>${p.fee==null?'—':p.fee}</b><span>tahmini bonservis M€</span></div></div>`;
   $('#clubBars').innerHTML=clubBarChart(p);
-  $('#clubBars').querderAll; document.querySelectorAll('#clubBars .cb').forEach(g=>{ const go=()=>showPlayer(id,g.dataset.cid); g.addEventListener('click',go); g.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();go();}}); });
+  document.querySelectorAll('#clubBars .cb').forEach(g=>{ const go=()=>showPlayer(id,g.dataset.cid); g.addEventListener('click',go); g.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();go();}}); });
   const r=p.clubs.find(x=>x.club_id===curPlayerClub);
   if(r){ $('#playerDetail').innerHTML=matchDetail(r, `${p.name} → ${r.club_name}`, `${D.clubs[r.club_id]?.league||''} · hoca ${D.clubs[r.club_id]?.coach||'—'} · pozisyon ${r.position}`)+`<button class="chip" style="margin-top:10px" onclick="setRole('club');showClub('${r.club_id}')">Kulüp görünümünde aç →</button>`; $('#hofChart').innerHTML=hofBars(p,r); }
   else { $('#playerDetail').innerHTML='<p class="empty">Sıralama yok.</p>'; $('#hofChart').innerHTML=''; }
@@ -388,7 +389,7 @@ function drawAgent(){ if(agentDrawn) return; agentDrawn=true;
   // heatmap
   const cols=clubIds; const rowsMap={}; D.mutual.forEach(r=>{ (rowsMap[r.player_id]=rowsMap[r.player_id]||{})[r.club_id]=r; });
   const rows=Object.keys(rowsMap).sort((a,b)=>Math.max(...Object.values(rowsMap[b]).map(r=>r.total))-Math.max(...Object.values(rowsMap[a]).map(r=>r.total)));
-  const cw=46, rh=26, L=170, T=70; const W=L+cols.length*cw+10, H=T+rows.length*rh+10;
+  const cw=40, rh=26, L=150, T=72; const W=L+cols.length*cw+10, H=T+rows.length*rh+10;
   const col=v=>{ const t=Math.max(0,Math.min(1,(v-60)/40)); return `color-mix(in oklab, var(--accent-soft), var(--s1) ${Math.round(20+t*80)}%)`; };
   let s=`<svg class="chart" viewBox="0 0 ${W} ${H}" style="min-width:${W}px" role="img" aria-label="Oyuncu-kulüp karşılıklı eşleşme ısı haritası">`;
   cols.forEach((c,j)=>{ s+=`<text transform="translate(${L+j*cw+cw/2},${T-8}) rotate(-45)" font-size="11" text-anchor="start">${esc(D.clubs[c].short)}</text>`; });
@@ -418,10 +419,10 @@ function drawAgent(){ if(agentDrawn) return; agentDrawn=true;
     $('#commChart').innerHTML=`<svg class="chart" viewBox="0 0 ${W} ${H}" role="img" aria-label="Komisyon karşılaştırması">${bar('Bizim ücret (%2)',ours,20,'var(--s1)')}${bar('Piyasa (%10)',mkt,66,'var(--ink3)')}<text x="${L}" y="${H-12}" font-size="12.5">Taraflara kalan fark: <tspan font-weight="600">${(mkt-ours).toFixed(2)} M€</tspan> · ücret tabanı ${base.toFixed(1)} M€</text></svg>`; bindTips($('#commChart')); }
   ['#cFee','#cSal','#cYrs'].forEach(s_=>$(s_).addEventListener('input',drawC)); drawC();
   // status
-  const st=D.status.slice().sort((a,b)=>(a.pot||9)-(b.pot||9)||a.club_id.localeCompare(b.club_id)); const W=Math.max(700, st.length*26), Hh=190, L=30, T=10, B=70; const pw=W-L-20, ph=Hh-T-B; const bw=pw/st.length; const max=Math.max(...st.map(c=>c.squad_size),1);
-  let s2=`<svg class="chart" viewBox="0 0 ${W} ${Hh}" role="img" aria-label="Kulüp başına araştırılmış kadro büyüklüğü">`;
-  [0,15,max].forEach(v=>{ const y=T+ph-v/max*ph; s2+=`<line x1="${L}" y1="${y}" x2="${L+pw}" y2="${y}" stroke="${v===15?'var(--s2)':'var(--grid)'}" stroke-dasharray="${v===15?'4 3':''}"/><text x="${L-6}" y="${y+4}" font-size="10" text-anchor="end" class="mono">${v}</text>`; });
-  st.forEach((c,i)=>{ const h=c.squad_size/max*ph; const ok=D.usable.includes(c.club_id); s2+=`<rect x="${L+i*bw+bw*0.15}" y="${T+ph-h}" width="${bw*0.7}" height="${Math.max(h,1)}" rx="3" fill="${ok?'var(--s1)':'var(--ink3)'}" fill-opacity="${ok?1:.5}" tabindex="0" data-tip="<b>${esc(c.club_id)}</b>güven ${c.confidence} · kadro ${c.squad_size} · ihtiyaç ${c.needs} · kaynak ${c.sources}<br>${esc((c.notes||'').slice(0,200))}"/><text transform="translate(${L+i*bw+bw/2},${T+ph+6}) rotate(55)" font-size="9.5" text-anchor="start" class="mono">${esc(c.club_id.replace(/_/g,' ').slice(0,16))}</text>`; });
+  const st=D.status.slice().sort((a,b)=>(a.pot||9)-(b.pot||9)||a.club_id.localeCompare(b.club_id)); const W2=Math.max(700, st.length*26), H2=190, L2=30, T2=10, B2=70; const pw2=W2-L2-20, ph2=H2-T2-B2; const bw2=pw2/st.length; const max2=Math.max(...st.map(c=>c.squad_size),1);
+  let s2=`<svg class="chart" viewBox="0 0 ${W2} ${H2}" role="img" aria-label="Kulüp başına araştırılmış kadro büyüklüğü">`;
+  [0,15,max2].forEach(v=>{ const y=T2+ph2-v/max2*ph2; s2+=`<line x1="${L2}" y1="${y}" x2="${L2+pw2}" y2="${y}" stroke="${v===15?'var(--s2)':'var(--grid)'}" stroke-dasharray="${v===15?'4 3':''}"/><text x="${L2-6}" y="${y+4}" font-size="10" text-anchor="end" class="mono">${v}</text>`; });
+  st.forEach((c,i)=>{ const h=c.squad_size/max2*ph2; const ok=D.usable.includes(c.club_id); s2+=`<rect x="${L2+i*bw2+bw2*0.15}" y="${T2+ph2-h}" width="${bw2*0.7}" height="${Math.max(h,1)}" rx="3" fill="${ok?'var(--s1)':'var(--ink3)'}" fill-opacity="${ok?1:.5}" tabindex="0" data-tip="<b>${esc(c.club_id)}</b>güven ${c.confidence} · kadro ${c.squad_size} · ihtiyaç ${c.needs} · kaynak ${c.sources}<br>${esc((c.notes||'').slice(0,200))}"/><text transform="translate(${L2+i*bw2+bw2/2},${T2+ph2+6}) rotate(55)" font-size="9.5" text-anchor="start" class="mono">${esc(c.club_id.replace(/_/g,' ').slice(0,16))}</text>`; });
   $('#statusChart').innerHTML=s2+'</svg><div class="legend"><span><i style="background:var(--s1)"></i>eşleştirmeye uygun</span><span><i style="background:var(--ink3);opacity:.5"></i>eksik / iskelet</span><span>kesik çizgi: 15 oyuncu eşiği</span></div>';
   $('#statusTable').innerHTML=`<table><tr><th>Kulüp</th><th class="num">Pot</th><th>Güven</th><th>Hoca</th><th class="num">Kadro</th><th class="num">İhtiyaç</th><th class="num">Rakip</th><th class="num">Kaynak</th></tr>${st.map(c=>`<tr><td>${esc(c.club_id)}</td><td class="num">${na(c.pot)}</td><td>${tag(c.confidence)}</td><td>${na(c.coach)}</td><td class="num">${c.squad_size}</td><td class="num">${c.needs}</td><td class="num">${c.opponents}</td><td class="num">${c.sources}</td></tr>`).join('')}</table>`;
   bindTips($('#view-agent'));
