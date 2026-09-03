@@ -61,11 +61,11 @@
     "coachability": null,
     "resilience": null,
     "discipline": null,
-    "notes": "Public record: the Ajax club statement (Ajax.nl / NV, Jun 2026) said his contract would not be renewed at the club's discretion after he played roughly 25 minutes before injury. Has been publicly vocal on Ukraine (widely reported since 2022); no disciplinary issues documented in sources used."
+    "notes": "Public record: after the Ajax knee injury he said publicly 'I feel really sorry and guilty' (Goal, 2026). Ajax statement (Jun 2026) said his contract would not be renewed at the club's discretion. Publicly vocal on Ukraine since 2022; no disciplinary issues documented in sources used."
   },
   "injury_history": [
     {
-      "type": "knee injury (sidelined for rest of 2025/26 after ~25 minutes for Ajax)",
+      "type": "knee injury requiring surgery - suffered ~2.5 minutes into Ajax home debut (Feb 2026), out for rest of season (Ajax statement via Goal)",
       "season": "2025/26",
       "days_out": null
     },
@@ -92,11 +92,13 @@
     "https://english.ajax.nl/articles/ajax-signs-oleksandr-zinchenko",
     "https://english.nv.ua/nation/oleksandr-zinchenko-is-leaving-ajax-his-contract-will-not-be-renewed-at-club-s-discretion-50606539.html",
     "https://unn.ua/en/news/zinchenko-left-ajax-as-a-free-agent",
-    "https://tribuna.com/en/blogs/free-agent-recovering-and-29-what-next-for-oleksandr-zinchen/"
+    "https://tribuna.com/en/blogs/free-agent-recovering-and-29-what-next-for-oleksandr-zinchen/",
+    "https://www.goal.com/en-us/lists/devastated-oleksandr-zinchenko-sorry-guilty/blt30ab35136f708dda",
+    "https://www.arsenal.com/news/oleksandr-zinchenko-joins-ajax-permanent-deal"
   ],
   "as_of": "2026-09-02",
   "data_quality": {
     "confidence": "low",
-    "notes": "2025/26 path (Flashscore/Soccerway): Arsenal -> Nottingham Forest loan (31 Aug 2025-30 Jan 2026) -> permanent to Ajax 31 Jan/1 Feb 2026 for EUR 1.5m on a short contract to 30 Jun 2026 -> released as free agent 30 Jun 2026 (Ajax did not renew, per club statement). NO new club found in searches as of Jul-Aug 2026 snippets, so current_club = unattached; if he signed somewhere in late August this file is out of date - re-verify. Forest loan appearances/minutes not captured (null); only the Ajax stint (2 apps, injured after ~25 min) is recorded. market_value_eur_m = EUR 9.8m (Transfermarkt figure as shown on Soccerway/Spotrac, 2026). estimated_fee_eur_m = 0 because he is a free agent (signing-on fee/wages are the real cost; wage null). Preferred foot deliberately null (not verified). Injury days_out null."
+    "notes": "2025/26 path (Flashscore/Soccerway): Arsenal -> Nottingham Forest loan (31 Aug 2025-30 Jan 2026) -> permanent to Ajax 31 Jan/1 Feb 2026 for EUR 1.5m on a short contract to 30 Jun 2026 -> released as free agent 30 Jun 2026 (Ajax did not renew, per club statement). NO new club found in searches as of Jul-Aug 2026 snippets, so current_club = unattached; if he signed somewhere in late August this file is out of date - re-verify. Forest loan appearances/minutes not captured (null); only the Ajax stint (2 apps, injured after ~25 min) is recorded. market_value_eur_m = EUR 9.8m (Transfermarkt figure as shown on Soccerway/Spotrac, 2026). estimated_fee_eur_m = 0 because he is a free agent (signing-on fee/wages are the real cost; wage null). Preferred foot deliberately null (not verified). Injury days_out null. A second search (Sep 2026) again found no new club; the most recent items concern his Feb 2026 knee surgery - he may still be rehabilitating."
   }
 }

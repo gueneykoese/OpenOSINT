@@ -1,0 +1,97 @@
+{
+  "player_id": "tyler_adams",
+  "name": "Tyler Adams",
+  "age": 27,
+  "date_of_birth": "1999-02-14",
+  "nationality": [
+    "USA"
+  ],
+  "position": "DM",
+  "secondary_positions": [
+    "CM",
+    "RB"
+  ],
+  "preferred_foot": "right",
+  "height_cm": 175,
+  "current_club": "AFC Bournemouth",
+  "current_club_league": "Premier League",
+  "contract_until": 2028,
+  "market_value_eur_m": 25,
+  "estimated_fee_eur_m": 45,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": 25,
+    "starts": 21,
+    "minutes": 1779,
+    "goals": 2,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "high-intensity ball-winning No.6 / destroyer",
+      "elite pressing and counter-pressing engine (Red Bull school: RBNY, Leipzig)",
+      "tenacious tackler, high card count (8 yellows in 25 PL games)",
+      "short, safe distribution rather than creative passing",
+      "injury history: long-term back/hamstring layoffs 2023-24 (public record)"
+    ],
+    "best_system": [
+      "4-2-3-1 / 4-4-2 high press with man-oriented pressing (Iraola template)",
+      "double pivot next to a passer"
+    ],
+    "weak_in": [
+      "lone pivot in a possession side needing line-breaking passes",
+      "deep low block with little pressing"
+    ]
+  },
+  "mental_profile": {
+    "leadership": 4,
+    "coachability": null,
+    "resilience": null,
+    "discipline": 3,
+    "notes": "Leadership 4/5 on public record: USMNT captain at the 2022 World Cup and a senior figure at Bournemouth (club Player of the Month Feb 2025). Discipline 3/5: 8 yellows in 25 PL games 2025/26. No public disputes found; Bournemouth publicly refused to sell despite Man United/Liverpool/Newcastle interest (Aug 2026)."
+  },
+  "injury_history": [
+    {
+      "type": "hamstring/back - long-term absences (missed most of 2023/24 after surgery; public record)",
+      "season": "2023/24",
+      "days_out": null
+    }
+  ],
+  "off_pitch": {
+    "languages": [
+      "en",
+      "de"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": "High-profile USMNT figure ahead of the 2026 World Cup in the US; strong US commercial appeal (public profile).",
+    "notes": "English native; German from RB Leipzig spell 2019-22 (inferred)."
+  },
+  "sources": [
+    "https://www.spotrac.com/epl/player/_/id/78305/tyler-adams",
+    "https://www.footballtransfers.com/en/players/tyler-adams",
+    "https://thepeoplesperson.com/2026/07/06/tyler-adams-united-learn-bournemouths-asking-price-312349/",
+    "https://theanalyst.com/players/2768/tyler-adams",
+    "https://www.premierleague.com/en/players/200785/tyler-adams/stats",
+    "https://thehardtackle.com/transfer-news/2026/08/22/bournemouth-hesitant-to-sell-tyler-adams-amid-liverpool-links/",
+    "https://sports.yahoo.com/articles/bournemouths-stance-accepting-tyler-adams-180000815.html"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "high",
+    "notes": "CLUB AFTER SUMMER 2026: AFC Bournemouth - club publicly refused to sell before the deadline despite Manchester United, Liverpool (Iraola reunion) and Newcastle interest (Aug 2026 reports); no transfer occurred. Contract to 30 Jun 2028 (Spotrac). market_value_eur_m = Transfermarkt ~EUR 25m (2026). estimated_fee_eur_m 45 reflects Bournemouth's reported GBP 40-50m asking price (Jul 2026), well above MV - researcher's judgement of the realistic price. 2025/26 PL: 25 apps (21 starts), 1,779 min, 2 goals, 2 assists, 8 yellows (Opta Analyst / PL). Injury history entry is from general public record of his 2023/24 layoff; days_out not sourced. Height from public profiles."
+  }
+}

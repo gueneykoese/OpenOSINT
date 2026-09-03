@@ -1,0 +1,90 @@
+{
+  "player_id": "kevin_danso",
+  "name": "Kevin Danso",
+  "age": 27,
+  "date_of_birth": "1998-09-19",
+  "nationality": [
+    "AUT"
+  ],
+  "position": "CB",
+  "secondary_positions": [
+    "RB"
+  ],
+  "preferred_foot": "right",
+  "height_cm": 190,
+  "current_club": "Sunderland (loan from Tottenham Hotspur)",
+  "current_club_league": "Premier League",
+  "contract_until": 2030,
+  "market_value_eur_m": 20,
+  "estimated_fee_eur_m": 26,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": 11,
+    "starts": 11,
+    "minutes": null,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "big, physical right-sided centre-back with recovery pace",
+      "aggressive front-foot duel winner (Lens back-three background)",
+      "aerially strong; long diagonal passing",
+      "limited Spurs game time in 2025/26 (11 PL apps) but started 6 of De Zerbi's 7 run-in games",
+      "Austria international; Premier League and Ligue 1 experience"
+    ],
+    "best_system": [
+      "back three with man-oriented pressing (Lens/Franck Haise template)",
+      "4-2-3-1 with a proactive defensive line"
+    ],
+    "weak_in": [
+      "possession-heavy build-up requiring a line-breaking passer",
+      "very deep block against low crosses"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record: Roberto De Zerbi confirmed Danso was one of three players who asked to leave Tottenham in summer 2026 (Spurs Web / Last Word on Sports, 1 Sep 2026). 4 yellows, 0 reds in 11 PL games 2025/26."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "de",
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "Austrian native (German); raised partly in England (MK Dons academy) - English fluent (public record). Ghanaian heritage."
+  },
+  "sources": [
+    "https://www.capology.com/player/kevin-danso-36057/",
+    "https://www.footballtransfers.com/en/players/kevin-danso",
+    "https://www.tottenhamhotspur.com/player/135720/kevin-danso",
+    "https://www.spurs-web.com/spurs-news/ten-stats-that-show-kevin-danso-will-push-thomas-frank-for-more-starts-at-tottenham/",
+    "https://www.sportsmole.co.uk/football/spurs/transfer-talk/news/tottenham-announce-danso-loan-exit-to-pl-rival-club_604238.html",
+    "https://lastwordonsports.com/football/2026/09/01/tottenham-sunderland-danso/",
+    "https://www.spurs-web.com/spurs-news/here-we-go-tottenham-loan-kevin-danso-price-tag-revealed-on-obligation-to-buy/"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "high",
+    "notes": "CLUB AFTER SUMMER 2026: deadline-day (1 Sep 2026) loan Tottenham -> Sunderland, announced by Spurs (Sports Mole): GBP 2.5m loan fee, obligation to buy GBP 22.25m if Sunderland stay in the Premier League, then a four-year contract (+1). Parent-club contract with Tottenham runs to Jun 2030 (Capology). market_value_eur_m = Transfermarkt EUR 20m (2026, down from ~25m). 2025/26: 36 apps all competitions (Tottenham official); PL 11 apps/11 starts, 0G 0A, 4Y (ESPN); UCL 4 apps, 199 min. PL minutes null. estimated_fee_eur_m 26 = EUR equivalent of the Sunderland obligation (~GBP 22.25m). Not realistically available in Jan 2027; summer 2027 depends on Sunderland's survival."
+  }
+}

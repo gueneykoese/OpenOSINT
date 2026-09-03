@@ -1,0 +1,91 @@
+{
+  "player_id": "ayyoub_bouaddi",
+  "name": "Ayyoub Bouaddi",
+  "age": 18,
+  "date_of_birth": "2007-10-02",
+  "nationality": [
+    "FRA",
+    "MAR"
+  ],
+  "position": "CM",
+  "secondary_positions": [
+    "DM",
+    "AM"
+  ],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Manchester City",
+  "current_club_league": "Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 110,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Ligue 1",
+    "apps": 30,
+    "starts": null,
+    "minutes": 2330,
+    "goals": 0,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "press-resistant teenage midfielder with exceptional composure on the ball",
+      "receives between the lines and turns; high pass security",
+      "covers ground as an 8 or 6; versatile across the midfield line",
+      "low direct goal involvement so far (0G 1A Ligue 1 2025/26)",
+      "96 senior apps for Lille before turning 19"
+    ],
+    "best_system": [
+      "positional-play 4-3-3 (Guardiola template)",
+      "possession-dominant 4-2-3-1 as a double pivot"
+    ],
+    "weak_in": [
+      "direct, physical second-ball football",
+      "roles judged on goals/assists"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record: scouting write-ups (TFA, Foot-Africa) stress maturity and composure for his age; no disciplinary or public-conduct issues found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "fr",
+      "ar"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "French native; Moroccan heritage - Arabic listed as probable family language, not sourced. Eligible for France and Morocco; senior allegiance not verified here."
+  },
+  "sources": [
+    "https://www.mancity.com/news/mens/ayyoub-bouaddi-completes-move-to-manchester-city-63923333",
+    "https://foot-africa.com/en/news/transfer-market-ayyoub-bouaddis-value-already-reaches-100-million-euros-1312198/",
+    "https://www.footballtransfers.com/en/players/ayyoub-bouaddi",
+    "https://www.fotmob.com/players/1561552/ayyoub-bouaddi",
+    "https://ligue1.com/en/player-sheet/l1_championship_player_2025_158_90486/statistics",
+    "https://totalfootballanalysis.com/player-analysis/ayyoub-bouaddi-scout-report-lille-2025-2026-analysis-tactics"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "CLUB AFTER SUMMER 2026: Manchester City - official club article 'Bouaddi completes move to City' (mancity.com, 2026) and aggregator entry of a Lille -> Man City transfer at EUR 95m. Contract length NOT recorded: one snippet said '18-month contract', which is implausible for a EUR 95m teenager and is likely an aggregator error - left null. market_value_eur_m null: only ETV ranges (EUR 39-48m) seen, Transfermarkt figure not captured; a 'EUR 100m valuation' quoted by Foot-Africa refers to Lille's asking price. 2025/26 Ligue 1: 30 apps, 2,330 min, 0 goals, 1 assist; 42 apps all competitions (FotMob/Ligue1.com). estimated_fee_eur_m 110 = researcher estimate of what City would demand in 2027 (above the EUR 95m paid); effectively not for sale. Height, foot from public profiles; preferred foot right per aggregator listings (not double-checked)."
+  }
+}

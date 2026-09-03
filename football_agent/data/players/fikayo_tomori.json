@@ -1,0 +1,92 @@
+{
+  "player_id": "fikayo_tomori",
+  "name": "Fikayo Tomori",
+  "age": 28,
+  "date_of_birth": "1997-12-19",
+  "nationality": [
+    "ENG",
+    "CAN",
+    "NGA"
+  ],
+  "position": "CB",
+  "secondary_positions": [
+    "RB"
+  ],
+  "preferred_foot": "right",
+  "height_cm": 185,
+  "current_club": "AC Milan",
+  "current_club_league": "Serie A",
+  "contract_until": 2027,
+  "market_value_eur_m": 17,
+  "estimated_fee_eur_m": 15,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "for sale",
+  "stats_2025_26": {
+    "competition": "Serie A",
+    "apps": 33,
+    "starts": null,
+    "minutes": 2563,
+    "goals": 0,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "recovery-pace centre-back built for a high line",
+      "aggressive front-foot defender, steps out to engage",
+      "right-footed, comfortable on either side of a back four/three",
+      "Serie A winner 2021/22 (Milan) and Premier League experience (Chelsea)",
+      "concentration lapses and card count (6Y 1R in 2025/26) are the public criticisms"
+    ],
+    "best_system": [
+      "high-pressing 4-2-3-1 / 4-3-3 with a high defensive line",
+      "back three needing pace on the outside"
+    ],
+    "weak_in": [
+      "deep block asking for aerial dominance and box defending",
+      "build-up roles requiring line-breaking passes"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record: excluded from Ruben Amorim's Milan project for several weeks in summer 2026, travelled to London with his agents to negotiate with Fulham, then was reinstated to the squad after the window closed (MilanReports/FootItalia, 1-2 Sep 2026). No public dispute quotes from the player were found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "en",
+      "it"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "Born in Canada to Nigerian parents, raised in England (public record). Italian assumed after five seasons at Milan - not directly sourced."
+  },
+  "sources": [
+    "https://onefootball.com/en/news/transfermarkt-tomoris-market-value-rises-to-40m-as-milan-can-be-please-with-purchase-33957732",
+    "https://www.transferfeed.com/transfers/fikayo-tomori-milan-fulham/47859301",
+    "https://www.sportbusy.com/players/soccer/236210/",
+    "https://www.fotmob.com/players/749662/fikayo-tomori",
+    "https://www.footitalia.com/news/milan-transfer-news-endrick-tomori",
+    "https://milanreports.com/2026/09/02/tomori-reinsated-fofana-sevilla/",
+    "https://ca.sports.yahoo.com/news/why-fulham-failed-sign-fikayo-215000782.html"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "high",
+    "notes": "CLUB AFTER SUMMER 2026: stays at AC Milan - the ~EUR 15m Fulham move collapsed on deadline day (no club-to-club agreement, no personal terms) and he was reinstated into Amorim's squad (MilanReports 2 Sep, FootItalia, Yahoo). Contract to 30 Jun 2027 (TransferFeed). market_value_eur_m = Transfermarkt EUR 17.0m (2026; another source shows 19.9m). estimated_fee_eur_m 15 mirrors Milan's reported Jul 2026 asking range (EUR 15-20m) and the Fulham fee - as a player entering his final contract year who was publicly surplus, January 2027 availability is realistic. 2025/26 Serie A: aggregators give 33 apps (FotMob: 2,563 min, 6Y 1R, 15 clean sheets) or 36 apps (SportBusy); 33 recorded, starts null; 0 goals 2 assists. Nationality: England international with Canadian birth and Nigerian heritage (public record)."
+  }
+}

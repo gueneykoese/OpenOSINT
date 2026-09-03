@@ -1,0 +1,91 @@
+{
+  "player_id": "alejandro_grimaldo",
+  "name": "Alejandro Grimaldo",
+  "age": 30,
+  "date_of_birth": "1995-09-20",
+  "nationality": [
+    "ESP"
+  ],
+  "position": "LB",
+  "secondary_positions": [
+    "LWB",
+    "LW"
+  ],
+  "preferred_foot": "left",
+  "height_cm": 171,
+  "current_club": "Bayer 04 Leverkusen",
+  "current_club_league": "Bundesliga",
+  "contract_until": 2027,
+  "market_value_eur_m": 24,
+  "estimated_fee_eur_m": 15,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": 29,
+    "starts": null,
+    "minutes": null,
+    "goals": 8,
+    "assists": 8,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed attacking left-back / wing-back with elite set-piece delivery",
+      "free-kick and long-range goal threat (8 Bundesliga goals 2025/26; 14 in all comps)",
+      "high-volume crosser and cut-back creator",
+      "undersized (171 cm) - aerially weak",
+      "best as a wing-back with cover behind him"
+    ],
+    "best_system": [
+      "3-4-2-1 / 3-4-3 with attacking wing-backs (Xabi Alonso-era Leverkusen template)",
+      "4-3-3 with a very high LB and inverted LW"
+    ],
+    "weak_in": [
+      "flat back four defending crosses/aerials",
+      "deep-block full-back role"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record: multiple reports (Bulinews/OneFootball, Goal, summer 2026) that he was 'considering a change of scenery' with one year left; no disciplinary issues found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "es",
+      "pt",
+      "de"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "Spanish native; Portuguese after seven seasons at Benfica; German after three seasons in Leverkusen (latter two inferred from career, not directly sourced)."
+  },
+  "sources": [
+    "https://www.footballtransfers.com/en/players/alex-grimaldo",
+    "https://www.transferfeed.com/transfers/alejandro-grimaldo-bayer-04-leverkusen/19061404",
+    "https://www.sportbusy.com/players/soccer/166396/",
+    "https://www.bundesliga.com/en/player/alejandro-grimaldo",
+    "https://bulinews.com/leverkusen-grimaldo-the-subject-interest-juventus",
+    "https://onefootball.com/en/news/barcelona-plot-transfer-of-leverkusen-star-alejandro-grimaldo-41039579"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Leverkusen retained as post-window club: summer 2026 links to Juventus, Barcelona, Bayern, Milan and Chelsea were found but NO completed transfer; not explicitly re-verified after 1 Sep 2026. Contract to 2027 (joined free 2023). market_value_eur_m = Transfermarkt EUR 24.0m (2026). 2025/26 Bundesliga stats vary by aggregator: 8 goals / 7 assists in 24-25 apps (SportBusy) vs 8 goals / 8 assists in 29 apps (Bundesliga.com snippet); the higher, later-looking figure is recorded. All-competitions total reported as 14 goals / 12 assists. Minutes/starts null. estimated_fee_eur_m 15 reflects the repeatedly reported ~EUR 15m price for a 30-year-old in his final contract year."
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "player_id": "leandro_trossard",
+  "name": "Leandro Trossard",
+  "age": 31,
+  "date_of_birth": "1994-12-04",
+  "nationality": [
+    "BEL"
+  ],
+  "position": "LW",
+  "secondary_positions": [
+    "ST",
+    "AM",
+    "RW"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Beşiktaş JK",
+  "current_club_league": "Süper Lig",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 12,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Premier League (Arsenal)",
+    "apps": 31,
+    "starts": 21,
+    "minutes": 2007,
+    "goals": 6,
+    "assists": 6,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "versatile left-footed attacker (LW / false nine / No.10)",
+      "efficient finisher, low-touch high-output",
+      "super-sub profile (10 sub apps 2025/26)",
+      "Premier League champion 2025/26 with Arsenal"
+    ],
+    "best_system": [
+      "4-3-3 positional-possession side"
+    ],
+    "weak_in": [
+      "physical duel-heavy target role",
+      "full-season 90-minute workload at 31"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record: 2 yellow cards 2025/26; described as 'exploring opportunities' after an Arsenal contract offer (SI, 2026); the Beşiktaş move was agreed quickly during the World Cup break (Yahoo). No disciplinary controversies found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "nl",
+      "fr",
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "Dutch-speaking Belgian (Limburg); French/English listed as Belgian/Premier League working languages - not individually verified."
+  },
+  "sources": [
+    "https://www.skysports.com/football/news/11670/13563271/leandro-trossard-arsenal-confirm-winger-joining-besiktas-in-lb17m-deal",
+    "https://sports.yahoo.com/articles/leandro-trossard-leaves-arsenal-signing-162656698.html",
+    "https://www.si.com/soccer/arsenal-forward-exploring-opportunities-contract-offer",
+    "https://theanalyst.com/players/3773/leandro-trossard",
+    "https://one-versus-one.com/en/players/Leandro-Trossard",
+    "https://www.footballtransfers.com/en/players/leandro-trossard"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "high",
+    "notes": "Club after summer 2026: Beşiktaş - Arsenal officially confirmed the sale (Sky Sports): GBP 17m (GBP 15.3m + 1.7m add-ons, ~EUR 20m), three-year contract to 2029 with a one-year option. 2025/26 PL: 31 apps, 21 starts, 2,007 min, 6 G, 6 A (Opta Analyst / one-versus-one snippets). Transfermarkt value not retrieved (FootballTransfers EUR 12.4-15.1m) -> null. estimated_fee_eur_m 12 = researcher's estimate for a 31/32-year-old one year into a Turkish contract; a return to a UCL club in 2027 would more likely be at a modest fee or via a Saudi bid (Al-Ittihad offered ~EUR 35m in 2025, Goal). date_of_birth is from the researcher's prior knowledge (widely published), not from a fetched source in this session; treat as high-probability but re-check before contractual use. Wage/height null; left-footed is from public scouting consensus, not a fetched source."
+  }
+}

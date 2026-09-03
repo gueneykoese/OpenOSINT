@@ -1,0 +1,95 @@
+{
+  "player_id": "dani_ceballos",
+  "name": "Dani Ceballos",
+  "age": 30,
+  "date_of_birth": "1996-08-07",
+  "nationality": [
+    "ESP"
+  ],
+  "position": "CM",
+  "secondary_positions": [
+    "AM",
+    "DM"
+  ],
+  "preferred_foot": "right",
+  "height_cm": 179,
+  "current_club": "Real Betis",
+  "current_club_league": "La Liga",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 8,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "La Liga",
+    "apps": 16,
+    "starts": 4,
+    "minutes": null,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "technical, press-resistant central midfielder",
+      "tempo-setter and ball retainer in tight spaces",
+      "limited athletic output and defensive range",
+      "injury-prone in recent seasons (muscle injuries)",
+      "squad-rotation profile at elite level, starter at upper-mid La Liga level"
+    ],
+    "best_system": [
+      "possession-based 4-3-3 / 4-2-3-1 as an 8",
+      "teams that dominate the ball domestically"
+    ],
+    "weak_in": [
+      "transition-heavy, high-intensity pressing systems",
+      "box-to-box running role"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record: Real Madrid and Ceballos mutually terminated his contract on 26 Jun 2026 a year early after diminishing game time (Managing Madrid, Goal); he chose a Betis return over Ajax (Goal). No disciplinary issues found."
+  },
+  "injury_history": [
+    {
+      "type": "muscle injury (reported during 2025/26)",
+      "season": "2025/26",
+      "days_out": null
+    }
+  ],
+  "off_pitch": {
+    "languages": [
+      "es",
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "Spanish native; English from two seasons on loan at Arsenal (2019-21)."
+  },
+  "sources": [
+    "https://www.managingmadrid.com/109527/ceballos-leaves-real-madrid-2026",
+    "https://www.goal.com/en-us/lists/real-madrid-agree-terminate-midfielder-contract-ajax-transfer-la-liga/blt490f3b87e67a0098",
+    "https://technosports.co.in/dani-ceballos-signs-real-betis-until-june-2029/",
+    "https://footystats.org/players/spain/dani-ceballos",
+    "https://www.uefa.com/uefachampionsleague/clubs/players/250086709--dani-ceballos/statistics/"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "high",
+    "notes": "CLUB AFTER SUMMER 2026: Real Betis - contract terminated by mutual consent at Real Madrid on 26 Jun 2026 (official, Managing Madrid), signed for Betis on a free until Jun 2029 with an option for a fourth year, announced 1 Sep 2026 (Technosports/Goal). Betis official release not seen but multiple outlets concur. market_value_eur_m null: no Transfermarkt figure was captured in snippets. 2025/26 at Real Madrid: 16 La Liga apps, 4 starts, 0G 0A, 1 yellow (FootyStats/Goal); 23 apps across all competitions. estimated_fee_eur_m 8 = researcher estimate of Betis' likely asking price for a just-signed 30-year-old; realistically not available in Jan 2027."
+  }
+}

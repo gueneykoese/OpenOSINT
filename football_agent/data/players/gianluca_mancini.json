@@ -1,0 +1,89 @@
+{
+  "player_id": "gianluca_mancini",
+  "name": "Gianluca Mancini",
+  "age": 30,
+  "date_of_birth": "1996-04-17",
+  "nationality": [
+    "ITA"
+  ],
+  "position": "CB",
+  "secondary_positions": [
+    "RB",
+    "DM"
+  ],
+  "preferred_foot": "right",
+  "height_cm": 190,
+  "current_club": "AS Roma",
+  "current_club_league": "Serie A",
+  "contract_until": 2029,
+  "market_value_eur_m": 15,
+  "estimated_fee_eur_m": 18,
+  "wage_eur_m_net": 3.5,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Serie A",
+    "apps": 36,
+    "starts": 36,
+    "minutes": 3068,
+    "goals": 4,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "combative right-sided centre-back, aggressive man-marker",
+      "set-piece goal threat (4 Serie A + 1 UEL goal 2025/26)",
+      "comfortable in a back three or four; can fill in at RB or DM",
+      "high card count and provocative on-pitch persona (9Y in Serie A, red in UEL)",
+      "ever-present starter (36/36 Serie A starts)"
+    ],
+    "best_system": [
+      "back three (RCB) with man-oriented pressing",
+      "mid-block 4-3-3 with an aggressive defensive line"
+    ],
+    "weak_in": [
+      "zonal, passive low block",
+      "pure ball-playing/possession CB role"
+    ]
+  },
+  "mental_profile": {
+    "leadership": 4,
+    "coachability": null,
+    "resilience": null,
+    "discipline": 2,
+    "notes": "Public record: Roma vice-captain and long-serving senior player; coach publicly asked to keep him and club agreed extension to 2029 (TransferFeed). Discipline 2/5 on public record: 9 yellows in Serie A plus a red card in the Europa League 2025/26; has a history of publicly discussed provocations toward Lazio fans (derby incidents, 2024)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "it"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.capology.com/player/gianluca-mancini-35172/profile/",
+    "https://www.transferfeed.com/transfers/gianluca-mancini-roma/21555462",
+    "https://www.footballtransfers.com/en/players/gianluca-mancini",
+    "https://theanalyst.com/players/4463/gianluca-mancini",
+    "https://footystats.org/players/italy/gianluca-mancini",
+    "https://www.uefa.com/uefaeuropaleague/clubs/players/250075982--gianluca-mancini/statistics"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Roma retained as post-window club: no exit report found; contract extension to Jun 2029 (+1 option) reported by TransferFeed with salary rising from EUR 3.0m to at least 3.5m net + bonuses - the extension is recorded but an official Roma announcement was not seen, hence medium (Capology still shows 2027). market_value_eur_m = Transfermarkt EUR 15.0m (2026). 2025/26 Serie A: 36 apps/36 starts, 3,068 min, 4 goals, 2 assists, 9 yellows, 16 clean sheets (Opta Analyst/FootyStats); UEL: 9 apps, 627 min, 1 goal, 3Y 1R (UEFA). estimated_fee_eur_m 18 = researcher estimate: Roma just extended him so any fee would be above MV. wage_eur_m_net 3.5 per reported new deal."
+  }
+}

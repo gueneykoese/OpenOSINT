@@ -1,0 +1,89 @@
+{
+  "player_id": "reiss_nelson",
+  "name": "Reiss Nelson",
+  "age": 26,
+  "date_of_birth": "1999-12-10",
+  "nationality": [
+    "ENG"
+  ],
+  "position": "RW",
+  "secondary_positions": [
+    "LW",
+    "AM"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Feyenoord",
+  "current_club_league": "Eredivisie",
+  "contract_until": 2027,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 3,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Premier League (Brentford, loan)",
+    "apps": 14,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "quick dribbling winger",
+      "fringe player since 2023 (Arsenal, Fulham loan, Brentford loan)",
+      "previous Feyenoord loan 2021/22: 32 apps, Conference League finalist",
+      "free-agent signing on a one-season deal"
+    ],
+    "best_system": [
+      "Eredivisie-style open 4-3-3 with space to run at defenders"
+    ],
+    "weak_in": [
+      "consistent starter over a full season - no evidence since 2021/22",
+      "defensive work-rate in a Premier League press"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record: Arsenal and Nelson agreed a mutual contract termination in Aug 2026 after 18 years at the club (Arsenal.com); a GBP 3m West Ham move did not complete. No disciplinary items found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "en",
+      "nl",
+      "de"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "Dutch/German listed only because of Feyenoord (2021/22, now) and Hoffenheim (2018/19) spells - not verified."
+  },
+  "sources": [
+    "https://www.arsenal.com/news/reiss-nelson-leaves-arsenal-aK7qJ9T658rj",
+    "https://www.goal.com/en-us/lists/reiss-nelson-leaves-arsenal-contract/blt3fa2c034888cc184",
+    "https://dailycannon.com/2026/09/nelson-feyenoord-free-transfer-arsenal/",
+    "https://dailysports.net/news/official-arsenal-winger-joins-feyenoord/",
+    "https://www.brentfordfc.com/en/news/article/first-team-reiss-nelson-arsenal-brentford-loan",
+    "https://en.wikipedia.org/wiki/Reiss_Nelson"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "IMPORTANT CORRECTION to the target brief: NOT an Arsenal player. Arsenal terminated his contract by mutual consent (Aug 2026, official); he then joined Feyenoord on a free after the Dutch deadline (early Sep 2026) on a contract covering 2026/27 only (Dailysports/Daily Cannon snippets) -> contract_until 2027 and he would be a free agent in summer 2027. The 'official' Feyenoord confirmation is from secondary outlets, not feyenoord.nl. 2025/26 (Brentford loan): 14 apps, 1 G, 2 A (Wikipedia snippet); minutes/starts null. Transfermarkt value not retrieved -> null. estimated_fee_eur_m 3 = researcher's estimate for a January 2027 buy-out of a one-year deal; EUR 0 in summer 2027. date_of_birth is from the researcher's prior knowledge (widely published), not from a fetched source in this session; treat as high-probability but re-check before contractual use. Foot/height/wage null."
+  }
+}

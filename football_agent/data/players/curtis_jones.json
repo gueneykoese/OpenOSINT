@@ -16,7 +16,7 @@
   "height_cm": 185,
   "current_club": "Inter Milan",
   "current_club_league": "Serie A",
-  "contract_until": null,
+  "contract_until": 2031,
   "market_value_eur_m": 33.3,
   "estimated_fee_eur_m": 35,
   "wage_eur_m_net": null,
@@ -79,11 +79,13 @@
     "https://www.thisisanfield.com/2026/08/curtis-jones-deal-agreed-liverpool-accept-30m-inter-milan/",
     "https://www.lfchistory.net/players/1322/games-per-season/135",
     "https://www.premierleague.com/en/players/206915/curtis-jones/stats",
-    "https://tribuna.com/en/persons/curtis-jones/stat/2025-2026/epl/"
+    "https://tribuna.com/en/persons/curtis-jones/stat/2025-2026/epl/",
+    "https://www.espn.com/football/story/_/id/49667878/inter-milan-confirm-curtis-jones-signing-liverpool",
+    "https://sports.yahoo.com/articles/inter-milan-sign-curtis-jones-233000249.html"
   ],
   "as_of": "2026-09-02",
   "data_quality": {
-    "confidence": "medium",
-    "notes": "CLUB AFTER SUMMER 2026: This Is Anfield (Aug 2026) reports Liverpool accepted/verbally agreed a GBP 30m (~EUR 35m) sale to Inter Milan with the player in the final year of his contract (to 30 Jun 2027 per Spotrac). Official Inter announcement not seen in snippets -> medium confidence; if the deal fell through he is a Liverpool player on an expiring contract (which would make him a strong Jan/summer 2027 target). contract_until null because Inter terms unknown. market_value_eur_m = EUR 33.3m (Transfermarkt figure as relayed by Soccerway/Spotrac; date not visible). estimated_fee_eur_m 35 = reported GBP 30m converted, i.e. what Inter paid. 2025/26: all-competitions 48 apps (20 as sub), 3 goals, 2 assists (LFChistory); PL 34 apps, 1 goal, 2 assists; UCL 7 apps 0G 0A. Minutes/starts null. Secondary positions reflect publicly reported deployments under Arne Slot."
+    "confidence": "high",
+    "notes": "CLUB AFTER SUMMER 2026: Inter Milan - OFFICIAL. ESPN/Yahoo (Aug 2026): Inter confirmed the signing on a five-year contract to 2031; initial fee EUR 30m + up to EUR 5m add-ons, Liverpool keep a 10% sell-on. market_value_eur_m = EUR 33.3m (Transfermarkt figure as relayed by Soccerway/Spotrac; date not visible). estimated_fee_eur_m 35 = fee paid incl. add-ons; realistically not available in Jan 2027. 2025/26 at Liverpool: all-competitions 48 apps (20 as sub), 3 goals, 2 assists (LFChistory); PL 34 apps, 1 goal, 2 assists; UCL 7 apps 0G 0A. Minutes/starts null. Secondary positions reflect publicly reported deployments under Arne Slot."
   }
 }

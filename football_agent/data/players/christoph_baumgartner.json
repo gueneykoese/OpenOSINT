@@ -1,0 +1,90 @@
+{
+  "player_id": "christoph_baumgartner",
+  "name": "Christoph Baumgartner",
+  "age": 27,
+  "date_of_birth": "1999-08-01",
+  "nationality": [
+    "AUT"
+  ],
+  "position": "AM",
+  "secondary_positions": [
+    "RW",
+    "LW",
+    "CM"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "RB Leipzig",
+  "current_club_league": "Bundesliga",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 30,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": 33,
+    "starts": 32,
+    "minutes": 2793,
+    "goals": 13,
+    "assists": 8,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "box-arriving attacking midfielder",
+      "pressing engine (Rangnick-school Austria)",
+      "career-best 13 G / 8 A Bundesliga 2025/26",
+      "near ever-present (32 starts of 34)",
+      "versatile across the front line"
+    ],
+    "best_system": [
+      "4-2-2-2 / 4-2-3-1 high press with vertical passing"
+    ],
+    "weak_in": [
+      "deep-lying playmaker role",
+      "touchline winger holding width"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record: Austria regular; no disciplinary controversies found in this session. Bundesliga.com profiled him as a 2026 World Cup star of the league."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "de",
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://theanalyst.com/players/377/christoph-baumgartner",
+    "https://www.bundesliga.com/en/bundesliga/news/world-cup-stars-christoph-baumgartner-rb-leipzig-austria-rangnick-36812",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_RB_Leipzig_season",
+    "https://www.fotmob.com/players/747718/christoph-baumgartner",
+    "https://rbleipzig.com/en/teams/mens/christoph-baumgartner",
+    "https://www.footballtransfers.com/en/players/christoph-baumgartner"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Club after summer 2026: RB Leipzig - no summer-2026 move found in any snippet; not re-verified against an official 2026/27 squad list. Contract to 30 Jun 2028 (signed 2023 from Hoffenheim, EUR 27m). 2025/26 Bundesliga: 33 apps, 32 starts, 2,793 min, 13 G, 8 A (Opta Analyst / Bundesliga.com snippets). Transfermarkt value NOT retrieved (FotMob 18.2, Soccerway 21-31, FootballTransfers 13.6-16.6 - wide spread) -> null. estimated_fee_eur_m 30 = researcher's estimate after a career-best season with two years left. date_of_birth is from the researcher's prior knowledge (widely published), not from a fetched source in this session; treat as high-probability but re-check before contractual use. Foot/height/wage null."
+  }
+}

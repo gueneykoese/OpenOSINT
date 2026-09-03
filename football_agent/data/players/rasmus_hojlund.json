@@ -1,0 +1,86 @@
+{
+  "player_id": "rasmus_hojlund",
+  "name": "Rasmus Højlund",
+  "age": 23,
+  "date_of_birth": "2003-02-04",
+  "nationality": [
+    "DNK"
+  ],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "SSC Napoli",
+  "current_club_league": "Serie A",
+  "contract_until": 2031,
+  "market_value_eur_m": 35.0,
+  "estimated_fee_eur_m": 55,
+  "wage_eur_m_net": 5.0,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "All competitions (Napoli)",
+    "apps": 44,
+    "starts": null,
+    "minutes": null,
+    "goals": 16,
+    "assists": 8,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "powerful running No.9",
+      "transition striker, attacks the channels",
+      "16 G / 8 A in 44 apps all comps 2025/26",
+      "first career trophy with Napoli (Goal)"
+    ],
+    "best_system": [
+      "Conte-style 4-3-3 / 3-4-2-1 with early service in behind"
+    ],
+    "weak_in": [
+      "back-to-goal hold-up play under pressure",
+      "slow possession build-up"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record: made a widely reported 'dig' at Manchester United after winning his first trophy with Napoli (Goal, 2026). No disciplinary items found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "da",
+      "en",
+      "it"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "Italian listed from Atalanta and Napoli spells - not individually verified."
+  },
+  "sources": [
+    "https://www.rte.ie/sport/soccer/2026/0603/1576559-napoli-have-signed-denmark-striker-rasmus-hojlund-from-manchester-united/",
+    "https://www.espn.com/soccer/story/_/id/48955010/rasmus-hojlund-seals-permanent-move-napoli-manchester-united",
+    "https://www.manutd.com/en/news/transfer-news-hojlund-signs-for-napoli-on-permanent-deal",
+    "https://www.beinsports.com/en-us/soccer/serie-a/articles/rasmus-hojlund-signs-with-napoli-on-a-permanent-transfer-from-manchester-united-for-58-million-after-a-successful-loan-2026-06-03",
+    "https://onefootball.com/en/news/bonus-release-clause-details-behind-hojlunds-napoli-contract-revealed-41627903",
+    "https://dailysports.net/news/it-is-known-how-many-years-rasmus-hojlund-will-sign-with-napoli-and-what-his-salary-will-be/"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "high",
+    "notes": "Club after summer 2026: Napoli - permanent transfer from Manchester United completed 3 Jun 2026 (Man Utd official / RTE / ESPN): EUR 44m + EUR 6m loan fee = EUR 50m (beIN reports 58m incl. add-ons). Contract: five years to 2031 with EUR ~5m net/season (Dailysports/OneFootball pre-deal reports; RTE/ESPN say 'until 2030' with an option year - 2031 used, discrepancy flagged). 2025/26: 16 G, 8 A in 44 apps ALL competitions (RTE); Serie A-only split, minutes, starts not retrieved -> null. market_value_eur_m 35.0 = Transfermarkt per search snippet (date not given; other estimators 43-48). estimated_fee_eur_m 55 = researcher's estimate (Napoli need profit on EUR 50m; a release clause was mentioned in reports but its value was not retrieved -> release_clause null). date_of_birth is from the researcher's prior knowledge (widely published), not from a fetched source in this session; treat as high-probability but re-check before contractual use. "
+  }
+}

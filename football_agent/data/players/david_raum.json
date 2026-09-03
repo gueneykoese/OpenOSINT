@@ -1,0 +1,90 @@
+{
+  "player_id": "david_raum",
+  "name": "David Raum",
+  "age": 28,
+  "date_of_birth": "1998-04-22",
+  "nationality": [
+    "GER"
+  ],
+  "position": "LB",
+  "secondary_positions": [
+    "LWB"
+  ],
+  "preferred_foot": "left",
+  "height_cm": 180,
+  "current_club": "RB Leipzig",
+  "current_club_league": "Bundesliga",
+  "contract_until": 2027,
+  "market_value_eur_m": 22,
+  "estimated_fee_eur_m": 30,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": 40,
+  "agent_status": "represented",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": 30,
+    "starts": null,
+    "minutes": null,
+    "goals": 3,
+    "assists": 7,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": 2.89,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed, high-energy attacking left-back",
+      "elite crossing volume and early deliveries into the box",
+      "club captain - vocal organiser",
+      "aggressive, occasionally rash in duels (6 yellows)",
+      "less secure defending in-to-out runners behind him"
+    ],
+    "best_system": [
+      "4-2-2-2 / 4-4-2 Red Bull pressing template",
+      "3-4-3 as an attacking wing-back"
+    ],
+    "weak_in": [
+      "slow possession game asking the LB to invert into midfield",
+      "deep block with little attacking licence"
+    ]
+  },
+  "mental_profile": {
+    "leadership": 4,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Leadership 4/5 on public record: Leipzig captain in 2025/26 and confirmed as captain again for 2026/27 by new coach Martin Demichelis. Publicly stated (Aug 2026, Bulinews/Yahoo) he would 'definitely play one more year' at Leipzig and had received no other offer; open to contract talks but none held."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "de",
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "German native; English from national-team/media appearances (not directly sourced)."
+  },
+  "sources": [
+    "https://www.fotmob.com/players/806669/david-raum",
+    "https://www.transferfeed.com/players/david-raum/17406",
+    "https://www.bundesliga.com/en/bundesliga/player/david-raum/stats",
+    "https://footystats.org/players/germany/david-raum",
+    "https://bulinews.com/raum-confirms-stay-leipzig-until-least-the-end-his-current-contract",
+    "https://sports.yahoo.com/articles/david-raum-opens-door-contract-121100900.html",
+    "https://strettynews.com/2026/08/27/david-raum-transfer-united/"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "high",
+    "notes": "CLUB AFTER SUMMER 2026: RB Leipzig - player publicly confirmed in Aug 2026 he stays for 2026/27; Manchester United interest (late Aug) did not produce a deal per snippets. Contract to 30 Jun 2027, no extension talks yet. market_value_eur_m = Transfermarkt EUR 22.0m (May 2026 per report; 22.8m on a later aggregator). release_clause_eur_m 40 = widely reported ~GBP 34m / EUR 40m clause; intermediaries suggested a negotiated fee under GBP 30m. estimated_fee_eur_m 30 = researcher estimate for Jan/summer 2027 given the expiring contract (free agent from Jul 2027 if not extended). 2025/26 Bundesliga: 30 apps, 3 goals, 7 assists, 6 yellows, 11 clean sheets; tackles+interceptions p90 = 1.73 + 1.16 = 2.89 (FootyStats). Minutes/starts null."
+  }
+}

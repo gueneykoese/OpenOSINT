@@ -1,0 +1,90 @@
+{
+  "player_id": "jonathan_david",
+  "name": "Jonathan David",
+  "age": 26,
+  "date_of_birth": "2000-01-14",
+  "nationality": [
+    "CAN",
+    "USA",
+    "HTI"
+  ],
+  "position": "ST",
+  "secondary_positions": [
+    "AM",
+    "LW"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Juventus FC (on loan at Atlético Madrid, 2026/27)",
+  "current_club_league": "La Liga (loan) / Serie A (parent)",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 25,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "All competitions (Juventus)",
+    "apps": 28,
+    "starts": null,
+    "minutes": null,
+    "goals": 5,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "quick, intelligent No.9 with 100+ Lille goals",
+      "poacher / channel runner",
+      "difficult debut Serie A season (5 goals in 28 apps)",
+      "Canada captain-level international"
+    ],
+    "best_system": [
+      "4-4-2 / 4-2-3-1 pressing side with early crosses and cut-backs (Lille template)"
+    ],
+    "weak_in": [
+      "slow build-up as a lone striker",
+      "target-man aerial role"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record: said from Canada's World Cup camp (June 2026) he wanted to stay and revive his Juventus career, then accepted the Atlético loan (Black & White & Read All Over). No disciplinary items found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "fr",
+      "en",
+      "es"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "Grew up in Ottawa (French/English); Spanish listed from Atlético move - not verified. Born in Brooklyn, Haitian parents - public record."
+  },
+  "sources": [
+    "https://www.juventus.com/en/news/articles/jonathan-david-joins-juventus",
+    "https://www.blackwhitereadallover.com/juventus-transfer-rumors-news/41123/officially-official-jonathan-david-leaves-juventus-on-loan-to-atletico-madrid",
+    "https://www.blackwhitereadallover.com/juventus-transfer-rumors-news/41072/jonathan-david-juventus-atletico-madrid-2026-serie-a-la-liga-summer-transfer-rumors",
+    "https://www.juvefc.com/jonathan-david-juventus-future/",
+    "https://au.soccerway.com/player/david-jonathan/CSvtXj2E"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Club after summer 2026: contract owned by Juventus, on a season-long loan at Atlético Madrid for 2026/27 with a EUR 25m purchase option payable over four years (Juventus announcement via BWRAO). Contract to 2030 is from his free-transfer signing in summer 2025 (five-year deal, researcher's recollection - not re-verified this session). 2025/26: 5 goals in 28 apps all competitions (BWRAO/Juvefc snippets); assists/minutes/starts null. Transfermarkt value not retrieved -> null. estimated_fee_eur_m 25 = the option price Atlético hold; if they decline, Juventus would likely accept a similar or lower fee in summer 2027. date_of_birth is from the researcher's prior knowledge (widely published), not from a fetched source in this session; treat as high-probability but re-check before contractual use. Foot/height/wage null. Nationality: CAN (international), USA (birth), HTI (heritage) - only CAN is sporting nationality."
+  }
+}

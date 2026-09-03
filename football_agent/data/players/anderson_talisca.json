@@ -1,0 +1,90 @@
+{
+  "player_id": "anderson_talisca",
+  "name": "Anderson Talisca",
+  "age": 32,
+  "date_of_birth": "1994-02-01",
+  "nationality": [
+    "BRA"
+  ],
+  "position": "AM",
+  "secondary_positions": [
+    "ST",
+    "CM"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Fenerbahçe SK",
+  "current_club_league": "Süper Lig",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 8,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Süper Lig",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 19,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "tall attacking midfielder / second striker",
+      "long-range shooting, set pieces",
+      "goal-heavy No.10 (19 league goals, 27 all comps 2025/26)",
+      "Fenerbahçe top scorer 2025/26"
+    ],
+    "best_system": [
+      "4-2-3-1 with licence to arrive late in the box"
+    ],
+    "weak_in": [
+      "high-intensity pressing system",
+      "wide role"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record: accepted a salary cut from ~EUR 12m to EUR 5.5m gross per year to extend with Fenerbahçe in Feb 2026 (Fanatik); Corinthians and other Brazilian clubs enquired and Fenerbahçe held firm (Daily Sabah). No disciplinary items found in this session."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "pt",
+      "tr",
+      "es",
+      "zh"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "Turkish/Spanish/Chinese listed from long spells at Beşiktaş/Fenerbahçe, Benfica (Portuguese), Al-Nassr and Guangzhou - not verified beyond Portuguese."
+  },
+  "sources": [
+    "https://tribuna.com/en/news/2026-02-08-fenerbahce-extend-anderson-taliscas-contract-until-2028/",
+    "https://www.fanatik.com.tr/en/anderson-taliscas-big-sacrifice-here-is-his-new-salary-at-fenerbahce-2611549",
+    "https://www.transferfeed.com/transfers/talisca-fenerbahce/25591284",
+    "https://www.dailysabah.com/sports/football/talisca-in-demand-as-corinthians-circle-but-fenerbahce-hold-firm",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Fenerbah%C3%A7e_S.K._season",
+    "https://en.wikipedia.org/wiki/Talisca"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "IMPORTANT CORRECTION to the target brief: Talisca did NOT leave Fenerbahçe on expiry in June 2026 and is NOT a free agent. Fenerbahçe extended his contract in early February 2026 (announced 8-9 Feb) to the end of 2027/28 on a reduced EUR 5.5m gross salary (Tribuna/Fanatik/TransferFeed). Whether he stayed through the summer 2026 window was not separately verified, but Daily Sabah (2026) reports Fenerbahçe rejected Brazilian interest. 2025/26: 19 Süper Lig goals, 27 all comps, club top scorer (Fenerbahçe season Wikipedia snippet); apps/assists/minutes not retrieved -> null. Transfermarkt value not retrieved -> null. estimated_fee_eur_m 8 = researcher's estimate for a 33-year-old (by summer 2027) with one year left. Wage 5.5m is GROSS so wage_eur_m_net null. date_of_birth is from the researcher's prior knowledge (widely published), not from a fetched source in this session; treat as high-probability but re-check before contractual use. "
+  }
+}

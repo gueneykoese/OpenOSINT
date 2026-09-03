@@ -1,0 +1,91 @@
+{
+  "player_id": "mamadou_sarr",
+  "name": "Mamadou Sarr",
+  "age": 20,
+  "date_of_birth": "2005-08-23",
+  "nationality": [
+    "FRA",
+    "SEN"
+  ],
+  "position": "CB",
+  "secondary_positions": [
+    "LB"
+  ],
+  "preferred_foot": "right",
+  "height_cm": 189,
+  "current_club": "Real Sociedad (loan from Chelsea)",
+  "current_club_league": "La Liga",
+  "contract_until": 2033,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 15,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "for sale",
+  "stats_2025_26": {
+    "competition": "Ligue 1 (Strasbourg, loan)",
+    "apps": null,
+    "starts": null,
+    "minutes": 1305,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "tall, athletic young centre-back with recovery pace",
+      "comfortable in a high line and in a back three (Strasbourg under Rosenior)",
+      "ball-carrying from the back; progressive passing still developing",
+      "raw decision-making, low senior minutes (about 1,300 Ligue 1 min 2025/26)",
+      "BlueCo multi-club asset (Chelsea/Strasbourg)"
+    ],
+    "best_system": [
+      "high-pressing back three with pace on the outside",
+      "development-focused team offering starting minutes"
+    ],
+    "weak_in": [
+      "deep-block box defending against physical strikers",
+      "teams needing a finished, error-free starter now"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record: placed on Chelsea's transfer list in summer 2026 (Yahoo) before a season loan to Real Sociedad without purchase option; recalled by Chelsea boss Liam Rosenior mid-2025/26 but made only 6 appearances after the recall. No disciplinary issues found (3 yellows in Ligue 1)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "French native (Lyon-born, Lens academy); Senegal international per Yahoo/Goal. English from the Chelsea spell (assumed)."
+  },
+  "sources": [
+    "https://www.espn.com/soccer/story/_/id/45477956/chelsea-complete-mamadou-sarr-transfer-rc-strasbourg",
+    "https://www.chelseafc.com/en/news/article/mamadou-sarr-returns-to-chelsea-from-strasbourg-loan",
+    "https://www.chelseafc.com/en/news/article/mamadou-sarr-completes-loan-switch",
+    "https://sports.yahoo.com/articles/official-real-sociedad-sign-mamadou-090209111.html",
+    "https://sports.yahoo.com/articles/chelsea-place-mamadou-sarr-transfer-091000100.html",
+    "https://www.fotmob.com/players/1426170/mamadou-sarr",
+    "https://www.footballcritic.com/mamadou-sarr/profile/515685"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "high",
+    "notes": "CLUB AFTER SUMMER 2026: season-long loan Chelsea -> Real Sociedad WITHOUT purchase option (Chelsea official 'completes loan switch', Yahoo 'Official'). Parent club Chelsea, contract to 2033 (eight-year deal signed Jun 2025, fee ~EUR 14m / GBP 11.9m). market_value_eur_m null - no Transfermarkt figure captured. 2025/26: first half on loan at Strasbourg - 1,305 Ligue 1 minutes, 0G 0A, 3 yellows (FotMob); 13 Ligue 1 apps (11 starts) as of Dec 2025 (FootballCritic); Chelsea's own release cites 18 apps across Ligue 1 + Conference League. Apps/starts left null because the final Ligue 1 count after the January recall was not seen. Second half: 6 apps for Chelsea after recall (7 total for Chelsea incl. Club World Cup). estimated_fee_eur_m 15 = researcher estimate (Chelsea transfer-listed him; roughly cost price). Nationality: born in France, plays for Senegal (Yahoo); FRA passport assumed from birth. DOB/height from public record."
+  }
+}

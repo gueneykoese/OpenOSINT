@@ -2,27 +2,32 @@
   "player_id": "victor_froholdt",
   "name": "Victor Froholdt",
   "age": 20,
-  "date_of_birth": null,
-  "nationality": ["DEN"],
+  "date_of_birth": "2006-02-25",
+  "nationality": [
+    "DEN"
+  ],
   "position": "CM",
-  "secondary_positions": ["DM"],
-  "preferred_foot": null,
+  "secondary_positions": [
+    "DM",
+    "AM"
+  ],
+  "preferred_foot": "right",
   "height_cm": null,
   "current_club": "FC Porto",
   "current_club_league": "Liga Portugal",
-  "contract_until": null,
-  "market_value_eur_m": null,
-  "estimated_fee_eur_m": 35,
+  "contract_until": 2030,
+  "market_value_eur_m": 29.4,
+  "estimated_fee_eur_m": 45,
   "wage_eur_m_net": null,
   "release_clause_eur_m": null,
   "agent_status": "represented",
   "availability": "not for sale",
   "stats_2025_26": {
-    "competition": "Liga Portugal",
-    "apps": null,
+    "competition": "All competitions",
+    "apps": 50,
     "starts": null,
-    "minutes": null,
-    "goals": null,
+    "minutes": 3902,
+    "goals": 8,
     "assists": null,
     "xg": null,
     "xa": null,
@@ -35,31 +40,53 @@
     "progressive_carries_p90": null
   },
   "style_profile": {
-    "tags": ["all-round central midfielder", "late-season goal/assist contributor"],
-    "best_system": [],
-    "weak_in": []
+    "tags": [
+      "all-round box-to-box central midfielder with unusual durability (50 apps, 3,902 min at age 19-20)",
+      "late-arriving goal threat from midfield (8 goals 2025/26)",
+      "press-resistant receiver, good under pressure",
+      "physically mature for age; covers ground both ways",
+      "title-winning starter in first season abroad"
+    ],
+    "best_system": [
+      "4-3-3 / 4-2-3-1 as an 8 in a dominant domestic side",
+      "transition-friendly midfield with licence to arrive in the box"
+    ],
+    "weak_in": [
+      "pure holding No.6 role",
+      "teams that want a specialist creator/No.10"
+    ]
   },
   "mental_profile": {
     "leadership": null,
     "coachability": null,
-    "resilience": null,
+    "resilience": 4,
     "discipline": null,
-    "notes": null
+    "notes": "Resilience 4/5 on public record only: made the most appearances of any Porto player in 2025/26 (50) and ranked second in minutes behind Diogo Costa in his first season abroad, in a title-winning campaign (Sporting Life/LiveScore). No disciplinary issues found."
   },
   "injury_history": [],
   "off_pitch": {
-    "languages": ["da"],
+    "languages": [
+      "da",
+      "en",
+      "pt"
+    ],
     "family_situation": null,
     "public_statements": [],
     "commercial_profile": null,
-    "notes": null
+    "notes": "Danish native; English standard for Danish players (assumed); Portuguese after one season in Porto (assumed, not sourced)."
   },
   "sources": [
+    "https://en.wikipedia.org/wiki/Victor_Froholdt",
+    "https://www.fotmob.com/players/1436856/victor-froholdt",
+    "https://au.soccerway.com/player/froholdt-victor/MT3X8wqn/transfers",
+    "https://www.sportinglife.com/football/player/victor-froholdt/122233/stats/fc-porto/41",
+    "https://www.livescore.com/en/season-stats/victor-froholdt/78629/",
+    "https://tacticalfootballanalysis.com/victor-froholdt-scout-report-porto-2025-2026-analysis/",
     "https://www.beinsports.com/en-us/soccer/primeira-liga/articles/who-are-the-rising-stars-of-liga-portugal-2026-08-10"
   ],
   "as_of": "2026-09-02",
   "data_quality": {
-    "confidence": "low",
-    "notes": "Only qualitative sourcing: beIN SPORTS (10 Aug 2026) describes him as a key component of Porto's 2025/26 title-winning midfield who added goals and assists late in the season; no numeric 2025/26 stats, contract, value or DOB could be verified (all null). Current club Porto per that Aug 2026 article; not re-verified after the 1 Sep deadline. estimated_fee_eur_m is a researcher estimate with no market-value anchor - treat as placeholder. Secondary position and style tags are inferences."
+    "confidence": "medium",
+    "notes": "BACKFILLED 2026-09-02. DOB 25 Feb 2006 (Wikipedia) -> age 20. Joined Porto from FC Copenhagen 23 Jul 2025 for EUR 20.0m; contract to 30 Jun 2030 (Soccerway/FotMob). market_value_eur_m 29.4 as shown on FotMob/Soccerway (Transfermarkt-style figure; date not visible). 2025/26 stats are ALL COMPETITIONS (competition field says so): 50 apps, 3,902 min, 8 goals (Sporting Life / LiveScore snippets); assists not captured -> null; starts null; league-only split not available. Porto retained as post-window club (no exit reports found; not explicitly re-verified after 1 Sep). estimated_fee_eur_m 45 = researcher estimate for a 20-year-old title-winning starter on a long contract (roughly 1.5x MV); previous placeholder of 35 replaced. Release clause not found (null). Preferred foot right per aggregator profiles; height null."
   }
 }

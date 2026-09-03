@@ -1,0 +1,89 @@
+{
+  "player_id": "georges_mikautadze",
+  "name": "Georges Mikautadze",
+  "age": 25,
+  "date_of_birth": "2000-10-31",
+  "nationality": [
+    "GEO",
+    "FRA"
+  ],
+  "position": "ST",
+  "secondary_positions": [
+    "AM",
+    "LW"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Villarreal CF",
+  "current_club_league": "La Liga",
+  "contract_until": 2031,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 35,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "La Liga",
+    "apps": 32,
+    "starts": null,
+    "minutes": null,
+    "goals": 13,
+    "assists": 6,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "mobile No.9 / second striker",
+      "two-footed finisher, penalty taker",
+      "creator as well as scorer (6 La Liga assists)",
+      "Villarreal top scorer 2025/26 (13 league, 15 all comps)",
+      "Georgia national-team talisman"
+    ],
+    "best_system": [
+      "4-4-2 / 4-2-3-1 with a partner striker or No.10 (Marcelino's Villarreal)"
+    ],
+    "weak_in": [
+      "isolated target-man role against deep blocks"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public record: none negative found; left Lyon in Sep 2025 amid Lyon's financial constraints (public record). Strong 2026/27 start (1 G, 1 A, FotMob rating 8.14 after 169 min)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "fr",
+      "ka",
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "Born in Lyon to Georgian parents - French and Georgian; English not verified."
+  },
+  "sources": [
+    "https://villarrealcf.es/en/welcome-georges-mikautadze/",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Villarreal_CF_season",
+    "https://www.fotmob.com/players/1117069/georges-mikautadze",
+    "https://www.footballtransfers.com/en/players/georges-mikautadze",
+    "https://onefootball.com/en/transfers/41601745"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Club after summer 2026: Villarreal (FotMob shows him active in La Liga 2026/27). Contract: Villarreal's official welcome article says six seasons to June 2031; a FootballTransfers snippet says 2028 - the official club statement is used, discrepancy flagged. 2025/26 La Liga: 32 apps, 13 G, 6 A; 15 G all comps (Wikipedia season page / FotMob snippets); minutes/starts null. Transfermarkt value not retrieved (FootballTransfers ETV EUR 22.7-27.7m, FotMob 25.2) -> null. Fee paid by Villarreal: ~EUR 31m (Sep 2025). estimated_fee_eur_m 35 = researcher's estimate (long contract, top scorer, sell-on obligations). date_of_birth is from the researcher's prior knowledge (widely published), not from a fetched source in this session; treat as high-probability but re-check before contractual use. Foot/height/wage null."
+  }
+}

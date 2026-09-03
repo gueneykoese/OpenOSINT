@@ -1,0 +1,89 @@
+{
+  "player_id": "chris_richards",
+  "name": "Chris Richards",
+  "age": 26,
+  "date_of_birth": "2000-03-28",
+  "nationality": [
+    "USA"
+  ],
+  "position": "CB",
+  "secondary_positions": [
+    "RB"
+  ],
+  "preferred_foot": "right",
+  "height_cm": 188,
+  "current_club": "Crystal Palace",
+  "current_club_league": "Premier League",
+  "contract_until": 2027,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 30,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": 33,
+    "starts": 31,
+    "minutes": 2826,
+    "goals": 1,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "athletic, ball-playing centre-back comfortable in a back three",
+      "strong in the air and in recovery duels",
+      "stepped up as defensive leader after Guehi's Jan 2026 exit",
+      "can play RCB or RB; Bayern Munich academy background",
+      "US men's national team regular"
+    ],
+    "best_system": [
+      "3-4-2-1 mid-block (Palace template)",
+      "4-2-3-1 with a proactive defensive line"
+    ],
+    "weak_in": [
+      "very deep low block with little ball involvement",
+      "systems needing an elite line-breaking passer from CB"
+    ]
+  },
+  "mental_profile": {
+    "leadership": 3,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Leadership 3/5 on public record: took on 'greater responsibility at the heart of the defence' after Marc Guehi left in January 2026 (Opta Analyst); reported as keen to stay and in 'comfortable' informal contract talks with Palace (Goal, Football Insider, Jun-Aug 2026). Only 4 yellows in 33 PL games."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "en",
+      "de"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": "English native (Alabama, USA); German from Bayern Munich / Hoffenheim spells 2018-22 (inferred, not directly sourced)."
+  },
+  "sources": [
+    "https://www.spotrac.com/epl/player/contracts/_/id/79270/chris-richards",
+    "https://www.footballtransfers.com/en/players/chris-richards",
+    "https://readcrystalpalace.com/2026/07/01/chris-richards-contract-crystal-palace-retention-priority/",
+    "https://www.goal.com/en-us/lists/usmnt-center-back-chris-richards-crystal-palace-reportedly-begin-contract-talks/blt608f86361a02edea",
+    "https://theanalyst.com/players/3951/chris-richards",
+    "https://www.premierleague.com/en/players/427623/chris-richards/stats"
+  ],
+  "as_of": "2026-09-02",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Crystal Palace retained as post-window club: Jun-Aug 2026 reporting is entirely about a contract extension (talks 'gaining momentum'), no transfer; whether the extension was signed by 2 Sep is unconfirmed, so contract_until stays 2027 (+1-year club option per Spotrac/Read Crystal Palace). market_value_eur_m null: only ETV-style ranges (EUR 19.5-24.8m) were seen, no explicit Transfermarkt figure. 2025/26 PL: 33 apps (31 starts, 2 sub), 2,826 min, 1 goal (vs Chelsea 25 Jan), 4 yellows; 50 apps and 16 clean sheets across all competitions (Opta Analyst). estimated_fee_eur_m 30 = researcher estimate for a 26-year-old PL/USMNT starter; if he signs the extension the price rises."
+  }
+}
