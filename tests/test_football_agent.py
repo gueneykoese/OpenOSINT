@@ -290,3 +290,75 @@ def test_bonus_plan_derives_from_driving_dimensions(engine):
     k = next(k for k in plan.kpis if k.key == "goal_contrib_p90")
     assert k.attainment(k.target * 0.85) == pytest.approx(0.5, abs=0.01)
     assert plan.economics["our_fee_eur_m"] > 0 and plan.to_dict()["mode"] == "bonus"
+
+
+def test_live_pipeline_detects_scripted_problems_and_recommends_bench():
+    from football_agent.live import MatchState, analyze, recommend_substitutions, simulate_match
+    from football_agent.live.models import Event
+
+    clubs = load_clubs()
+    if "arsenal" not in clubs or "real_madrid" not in clubs:
+        pytest.skip("pilot dataset not present")
+    h, a = clubs["arsenal"], clubs["real_madrid"]
+    st = MatchState(h.club_id, a.club_id)
+    keys = set()
+    for ev in simulate_match(h, a, seed=4):
+        st.apply(ev)
+        if ev.minute >= 40 and int(ev.minute * 10) % 50 == 0:
+            for ins in analyze(st, h.club_id):
+                keys.add(ins.key)
+                if ins.severity != "info" and ins.position:
+                    recs = recommend_substitutions(st, h.club_id, h, ins)
+                    assert recs and all(0 <= r.score <= 100 for r in recs)
+                    assert all(
+                        r.position != "GK" for r in recs
+                    )  # never a keeper for an outfield problem
+    assert {"flank_overload", "press_collapse"} <= keys, keys
+    snap = st.snapshot()
+    assert snap["teams"][h.club_id]["xg_total"] > 0 and snap["minute"] >= 90
+    # a substitution event swaps players and resets the clock for the incoming player
+    st.apply(
+        Event(
+            91.0,
+            h.club_id,
+            "substitution",
+            meta={"off": "Bukayo Saka", "on": "Noni Madueke", "position": "RW"},
+        )
+    )
+    assert (
+        not st.player(h.club_id, "Bukayo Saka").on_pitch
+        and st.player(h.club_id, "Noni Madueke").on_pitch
+    )
+
+
+def test_live_timeline_and_api(monkeypatch):
+    from fastapi.testclient import TestClient
+
+    from football_agent import api
+    from football_agent.live.timeline import build_timeline
+
+    clubs = load_clubs()
+    if "arsenal" not in clubs:
+        pytest.skip("pilot dataset not present")
+    tl = build_timeline(clubs["arsenal"], clubs["real_madrid"], seed=4)
+    assert tl["simulated"] is True and len(tl["frames"]) >= 90
+    assert any(f["insights"] for f in tl["frames"])
+    c = TestClient(api.app)
+    r = c.get("/live/arsenal/real_madrid/timeline")
+    assert r.status_code == 200 and r.json()["focus"] == "arsenal"
+    r = c.post(
+        "/live/arsenal/real_madrid/events",
+        json=[
+            {
+                "minute": 1.0,
+                "team": "arsenal",
+                "type": "pass",
+                "player": "Declan Rice",
+                "x": 50,
+                "y": 50,
+                "success": True,
+            }
+        ],
+    )
+    assert r.status_code == 200 and r.json()["state"]["minute"] == 1.0
+    assert c.delete("/live/arsenal/real_madrid/events").json()["status"] == "reset"

@@ -1,0 +1,210 @@
+<title>Saha Kenarı</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{--bg:#0F141C;--panel:#171E29;--panel2:#1E2735;--ink:#EDF0F4;--ink2:#B4BDCB;--ink3:#7E899A;--line:#2A3443;--grid:#232D3B;
+--accent:#22A896;--accent-ink:#7EDCCB;--s1:#22A896;--s2:#D4782E;--s3:#8F7FE0;--good:#3FBF5F;--warn:#E0A43A;--crit:#E0705E;--warn-soft:#3A2D12;--crit-soft:#3F1F1A;
+--display:"Barlow Condensed","Arial Narrow",Impact,sans-serif;--body:"IBM Plex Sans",system-ui,sans-serif;--mono:"IBM Plex Mono",ui-monospace,Menlo,monospace}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:14px;line-height:1.45;margin:0}
+button{font:inherit;color:inherit;cursor:pointer}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.top{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:16px;padding:12px 22px;background:var(--panel);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:5}
+.team{display:flex;align-items:center;gap:10px}
+.team.r{justify-content:flex-end;text-align:right}
+.crest{width:40px;height:40px;border-radius:50%;display:grid;place-items:center;font-family:var(--display);font-weight:700;font-size:13px;border:3px solid;flex:none}
+.team b{font-family:var(--display);font-size:22px;font-weight:600;display:block;line-height:1}
+.team small{color:var(--ink3);font-size:11.5px}
+.score{text-align:center}
+.score .s{font-family:var(--display);font-size:46px;font-weight:700;line-height:1;font-variant-numeric:tabular-nums;letter-spacing:.04em}
+.score .m{font-family:var(--mono);color:var(--accent-ink);font-size:14px}
+.ctrl{display:flex;gap:8px;align-items:center;justify-content:center;padding:8px 22px;background:var(--panel);border-bottom:1px solid var(--line);flex-wrap:wrap}
+.ctrl button{background:var(--panel2);border:1px solid var(--line);border-radius:8px;padding:6px 12px;color:var(--ink)}
+.ctrl button[aria-pressed="true"]{background:var(--accent);color:#0F141C;border-color:var(--accent)}
+.ctrl input[type=range]{width:min(520px,50vw)}
+.note{background:var(--warn-soft);border-left:4px solid var(--warn);padding:6px 14px;font-size:12.5px;color:var(--ink2)}
+main{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(320px,.95fr);gap:14px;padding:14px 22px 40px;max-width:1500px;margin:0 auto}
+@media (max-width:1000px){main{grid-template-columns:1fr}}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px;min-width:0}
+.card h3{font-family:var(--display);font-weight:600;font-size:16px;letter-spacing:.04em;text-transform:uppercase;margin:0 0 6px;color:var(--ink2);display:flex;justify-content:space-between;align-items:baseline}
+.card h3 small{font-family:var(--body);text-transform:none;letter-spacing:0;color:var(--ink3);font-size:11.5px}
+.stack{display:flex;flex-direction:column;gap:14px}
+.pitchwrap{background:#0f2a1a;border-radius:10px;padding:8px}
+.pitchwrap svg{width:100%;height:auto;display:block}
+svg text{font-family:var(--body)}
+.mono{font-family:var(--mono);font-variant-numeric:tabular-nums}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(96px,1fr));gap:8px;margin-top:8px}
+.tile{background:var(--panel2);border-radius:8px;padding:8px 10px}
+.tile b{display:block;font-family:var(--display);font-size:22px;font-weight:600;line-height:1}
+.tile span{font-size:10px;text-transform:uppercase;letter-spacing:.07em;color:var(--ink3)}
+.feed{display:flex;flex-direction:column;gap:10px;max-height:72vh;overflow:auto;padding-right:4px}
+.ins{border:1px solid var(--line);border-left-width:5px;border-radius:10px;padding:10px 12px;background:var(--panel2)}
+.ins.act{border-left-color:var(--crit)}.ins.watch{border-left-color:var(--warn)}.ins.info{border-left-color:var(--good)}
+.ins .h{display:flex;justify-content:space-between;gap:8px;align-items:baseline}
+.ins .h b{font-family:var(--display);font-size:19px;font-weight:600}
+.ins .min{font-family:var(--mono);color:var(--ink3);font-size:12px}
+.ins .ev{font-size:12.5px;color:var(--ink2);margin:4px 0}
+.ins .sg{font-size:12.5px;margin:4px 0 6px}
+.tag{display:inline-block;font-size:10px;text-transform:uppercase;letter-spacing:.07em;padding:2px 7px;border-radius:4px;border:1px solid var(--line);color:var(--ink2)}
+.tag.act{color:var(--crit);border-color:var(--crit)}.tag.watch{color:var(--warn);border-color:var(--warn)}.tag.info{color:var(--good);border-color:var(--good)}
+.sub{display:grid;grid-template-columns:1fr auto auto;gap:8px;align-items:center;padding:6px 8px;border-radius:8px;background:var(--panel);margin-top:4px}
+.sub .nm{font-weight:500;font-size:13px}
+.sub .nm small{display:block;color:var(--ink3);font-size:11px;font-weight:400}
+.sub .sc{font-family:var(--display);font-size:20px;font-weight:700;color:var(--accent-ink)}
+.sub button{background:var(--accent);color:#0F141C;border:0;border-radius:6px;padding:5px 10px;font-weight:600;font-size:12px}
+.sub button[disabled]{background:var(--line);color:var(--ink3);cursor:default}
+.legend{display:flex;gap:12px;font-size:11.5px;color:var(--ink3);flex-wrap:wrap;margin-top:6px}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:4px;vertical-align:-1px}
+table{border-collapse:collapse;width:100%;font-size:12.5px}
+th{text-align:left;font-size:10px;text-transform:uppercase;letter-spacing:.07em;color:var(--ink3);font-weight:500;padding:5px 6px;border-bottom:1px solid var(--line)}
+td{padding:5px 6px;border-bottom:1px solid var(--grid)}
+td.num,th.num{text-align:right;font-family:var(--mono)}
+.fat{height:6px;background:var(--grid);border-radius:3px;overflow:hidden;min-width:60px}
+.fat i{display:block;height:100%}
+.empty{color:var(--ink3);font-size:12.5px}
+.tip{position:fixed;pointer-events:none;background:#000;color:#fff;padding:6px 9px;border-radius:6px;font-size:12px;max-width:280px;z-index:20;display:none;line-height:1.35;border:1px solid var(--line)}
+.tip b{display:block}
+@media (prefers-reduced-motion:no-preference){.fat i{transition:width .4s}}
+</style>
+
+<header class="top">
+  <div class="team" id="tHome"></div>
+  <div class="score"><div class="s" id="score">0 – 0</div><div class="m" id="clock">00'</div></div>
+  <div class="team r" id="tAway"></div>
+</header>
+<div class="ctrl">
+  <button id="play" aria-pressed="true">⏸ Duraklat</button>
+  <button data-speed="1">1×</button><button data-speed="4" aria-pressed="true">4×</button><button data-speed="15">15×</button>
+  <input type="range" id="scrub" min="0" max="95" value="0" aria-label="Dakika">
+  <span class="mono" id="subsUsed">Değişiklik 0/5</span>
+</div>
+<div class="note" id="note"></div>
+<div class="tip" id="tip"></div>
+
+<main>
+  <div class="stack">
+    <div class="card"><h3>Saha durumu <small>token rengi yorgunluk · kırmızı bant rakip yüklenmesi · amber halka sarı kart</small></h3>
+      <div class="pitchwrap" id="pitch"></div>
+      <div class="legend"><span><i style="background:var(--good)"></i>taze</span><span><i style="background:var(--warn)"></i>yoruluyor</span><span><i style="background:var(--crit)"></i>düşüşte</span><span><i style="background:rgba(224,112,94,.55)"></i>rakip hücum yoğunluğu (son 15 dk)</span></div>
+    </div>
+    <div class="card"><h3>Son 15 dakika <small>pencere metrikleri</small></h3><div class="tiles" id="tiles"></div></div>
+    <div class="card"><h3>Momentum <small>15 dk pencerelerde xG · çizgi: top oranı</small></h3><div id="mom"></div></div>
+    <div class="card"><h3>Sahadaki oyuncular <small>yorgunluk endeksi: dakika + sprint düşüşü</small></h3><div id="ptable"></div></div>
+  </div>
+  <div class="stack">
+    <div class="card"><h3>Kenar içgörüleri <small id="insCount"></small></h3><div class="feed" id="feed"><p class="empty">Maç başlıyor…</p></div></div>
+    <div class="card"><h3>Yedek kulübesi</h3><div id="bench"></div></div>
+    <div class="card"><h3>Yapılan hamleler</h3><div id="moves"><p class="empty">Henüz değişiklik yok.</p></div></div>
+  </div>
+</main>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+const T = JSON.parse(document.getElementById('data').textContent);
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const KIT = {arsenal:['#EF0107','#FFFFFF','ARS'],real_madrid:['#FEBE10','#FFFFFF','RMA'],barcelona:['#A50044','#004D98','FCB'],bayern_munich:['#DC052D','#FFFFFF','FCB'],liverpool:['#C8102E','#00B2A9','LIV'],manchester_city:['#6CABDD','#1C2C5B','MCI'],psg:['#004170','#DA291C','PSG'],inter:['#010E80','#000000','INT'],fenerbahce:['#FFED00','#00205B','FB'],galatasaray:['#A90432','#FDB912','GS'],aston_villa:['#670E36','#95BFE5','AVL'],borussia_dortmund:['#FDE100','#000000','BVB'],napoli:['#12A0D7','#FFFFFF','NAP']};
+const kit = id => KIT[id] || ['#5B6B8C','#FFFFFF',(T.home.id===id?T.home.name:T.away.name).slice(0,3).toUpperCase()];
+const textOn = hex => { const c=hex.replace('#',''); const r=parseInt(c.slice(0,2),16),g=parseInt(c.slice(2,4),16),b=parseInt(c.slice(4,6),16); return (0.299*r+0.587*g+0.114*b)>170?'#111':'#fff'; };
+const initials = n => n.split(/\s+/).filter(Boolean).map(w=>w[0]).slice(0,2).join('').toUpperCase();
+const F = T.focus, OPP = F===T.home.id ? T.away.id : T.home.id;
+const SLOT = {GK:[[6,50]],CB:[[20,36],[20,64],[20,50]],LB:[[24,10]],RB:[[24,90]],DM:[[38,50],[38,36],[38,64]],CM:[[50,34],[50,66],[50,50]],AM:[[63,50],[63,34],[63,66]],LW:[[74,14]],RW:[[74,86]],ST:[[88,50],[88,36],[88,64]]};
+$('#note').textContent = T.note + ' Panel odak takım: ' + (F===T.home.id?T.home.name:T.away.name) + '.';
+const tip=$('#tip'); function showTip(e,h){tip.innerHTML=h;tip.style.display='block';moveTip(e)} function moveTip(e){tip.style.left=Math.min(e.clientX+12,innerWidth-tip.offsetWidth-8)+'px';tip.style.top=Math.min(e.clientY+12,innerHeight-tip.offsetHeight-8)+'px'} function hideTip(){tip.style.display='none'}
+function bindTips(root){root.querySelectorAll('[data-tip]').forEach(el=>{el.addEventListener('mouseenter',e=>showTip(e,el.dataset.tip));el.addEventListener('mousemove',moveTip);el.addEventListener('mouseleave',hideTip)})}
+
+// header
+function teamHtml(t, right){ const [p,s,ab]=kit(t.id); const c=`<span class="crest" style="background:${p};border-color:${s};color:${textOn(p)}">${ab}</span>`; const txt=`<div><b>${esc(t.name)}</b><small>${esc(t.formation||'')} · ${esc(t.coach||'')}</small></div>`; return right? txt+c : c+txt; }
+$('#tHome').innerHTML=teamHtml(T.home,false); $('#tAway').innerHTML=teamHtml(T.away,true);
+
+// playback state
+let idx=0, playing=true, speed=4, timer=null;
+const frames=T.frames; $('#scrub').max=frames.length-1;
+const subsDone=[]; // {minute, off, on, pos}
+const seenIns=new Map(); // key -> element
+let currentOnPitch = null; // computed per frame with subs applied
+
+function frameAt(i){ return frames[Math.max(0,Math.min(frames.length-1,i))]; }
+function fatColor(f){ return f==null?'var(--ink3)': f<0.5?'var(--good)': f<0.75?'var(--warn)':'var(--crit)'; }
+
+function render(){
+  const f=frameAt(idx); const m=f.minute;
+  $('#score').textContent=`${f.score[T.home.id]} – ${f.score[T.away.id]}`; $('#clock').textContent=`${Math.floor(m)}'`; $('#scrub').value=idx;
+  // players with client-side substitutions applied
+  const players=(f.players[F]||[]).map(p=>({...p}));
+  subsDone.filter(s=>s.minute<=m).forEach(s=>{ const off=players.find(p=>p.name===s.off); if(off){off.on_pitch=false;} const benchP=T.bench[F].find(b=>b.name===s.on); if(benchP && !players.find(p=>p.name===s.on)) players.push({name:s.on,position:s.pos||benchP.pos,on_pitch:true,minutes:Math.max(0,m-s.minute),fatigue:Math.min(1,(m-s.minute)/95*0.7),touches:0,cards:0}); });
+  currentOnPitch=players.filter(p=>p.on_pitch);
+  drawPitch(f, currentOnPitch); drawTiles(f); drawMomentum(f); drawTable(currentOnPitch); drawBench(m);
+  // insights: append new ones (frames up to idx)
+  const feed=$('#feed'); if(idx===0){feed.innerHTML='';seenIns.clear();}
+  for(let i=0;i<=idx;i++){ for(const ins of frames[i].insights){ const k=`${frames[i].minute}:${ins.key}:${(ins.players||[]).join(',')}`; if(!seenIns.has(k)){ const el=insEl(ins, frames[i].minute); seenIns.set(k,el); feed.prepend(el); } } }
+  // remove insights from the future (when scrubbing back)
+  for(const [k,el] of seenIns){ const mm=parseFloat(k.split(':')[0]); if(mm>m){el.remove();seenIns.delete(k);} }
+  if(!feed.children.length) feed.innerHTML='<p class="empty">Henüz içgörü yok; ilk 10 dakika veri toplanıyor.</p>';
+  $('#insCount').textContent=`${seenIns.size} kayıt`;
+  $('#subsUsed').textContent=`Değişiklik ${subsDone.filter(s=>s.minute<=m).length}/5`;
+}
+function insEl(ins, minute){
+  const el=document.createElement('div'); el.className='ins '+ins.severity;
+  const subs=(ins.subs||[]).map(s=>`<div class="sub"><span class="nm">${esc(s.player)} <span class="tag">${esc(s.position)}</span>${s.represented_by_us?' <span class="tag" style="color:var(--accent-ink);border-color:var(--accent)">temsil</span>':''}<small>${esc((s.reasons||[]).join(' · '))}${s.replaces?` · yerine: ${esc(s.replaces)}`:''}</small></span><span class="sc">${Math.round(s.score)}</span><button data-on="${esc(s.player)}" data-off="${esc(s.replaces||'')}" data-pos="${esc(ins.position||s.position)}" data-min="${minute}">Oyuna al</button></div>`).join('');
+  el.innerHTML=`<div class="h"><b>${esc(ins.title)}</b><span><span class="tag ${ins.severity}">${ins.severity==='act'?'müdahale':ins.severity==='watch'?'izle':'bilgi'}</span> <span class="min">${Math.floor(minute)}'</span></span></div><div class="ev">${esc(ins.evidence)}</div><div class="sg">→ ${esc(ins.suggestion)}</div>${subs}`;
+  el.querySelectorAll('button[data-on]').forEach(b=>b.addEventListener('click',()=>makeSub(b)));
+  return el;
+}
+function makeSub(b){
+  const m=frameAt(idx).minute; const used=subsDone.filter(s=>s.minute<=m).length; if(used>=5){alert('Değişiklik hakkı bitti (5).');return;}
+  if(subsDone.find(s=>s.on===b.dataset.on)){return;}
+  let off=b.dataset.off; if(!off||!currentOnPitch.find(p=>p.name===off)){ const pos=b.dataset.pos; const c=currentOnPitch.filter(p=>p.position===pos).sort((a,b)=>(b.fatigue||0)-(a.fatigue||0)); off=c[0]?c[0].name:(currentOnPitch.sort((a,b)=>(b.fatigue||0)-(a.fatigue||0))[0]||{}).name; }
+  subsDone.push({minute:m,off,on:b.dataset.on,pos:b.dataset.pos});
+  document.querySelectorAll(`button[data-on="${b.dataset.on}"]`).forEach(x=>{x.disabled=true;x.textContent='Sahada';});
+  $('#moves').innerHTML=subsDone.map(s=>`<div class="sub"><span class="nm">${Math.floor(s.minute)}' <b>${esc(s.on)}</b> ↔ ${esc(s.off)}<small>${esc(s.pos)} pozisyonu</small></span><span></span><span></span></div>`).join('');
+  render();
+}
+function drawPitch(f, players){
+  const [p,sec]=kit(F); const W=1000,H=640,X=v=>v/100*W,Y=v=>v/100*H;
+  const oppW=f.teams[OPP].windows[String(Object.keys(f.teams[OPP].windows).map(Number).sort((a,b)=>a-b).pop())]||{};
+  const lanes=oppW.attacks_by_lane||{}; const tot=Object.values(lanes).reduce((a,b)=>a+b,0)||1;
+  // opponent's LEFT lane (y<33 in their attacking frame) is our RIGHT (y>66)
+  const map={left:[66,100],centre:[33,66],right:[0,33]};
+  let s=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Saha: ilk 11 yorgunluğu ve rakip hücum yoğunluğu"><defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d7a3a"/><stop offset="1" stop-color="#1f5f2c"/></linearGradient></defs><rect width="${W}" height="${H}" fill="url(#g)"/>`;
+  Object.entries(lanes).forEach(([lane,n])=>{ const [y0,y1]=map[lane]||[33,66]; const a=Math.min(.6,(n/tot)*0.8); s+=`<rect x="20" y="${Y(y0)}" width="${W/2-20}" height="${Y(y1)-Y(y0)}" fill="#E0705E" fill-opacity="${a}"/><text x="${W/4}" y="${Y((y0+y1)/2)+5}" font-size="14" text-anchor="middle" style="fill:#fff;font-weight:600;opacity:.9">rakip %${Math.round(n/tot*100)}</text>`; });
+  s+=`<g fill="none" stroke="#e8f5e9" stroke-opacity=".7" stroke-width="2.5"><rect x="20" y="20" width="${W-40}" height="${H-40}"/><line x1="${W/2}" y1="20" x2="${W/2}" y2="${H-20}"/><circle cx="${W/2}" cy="${H/2}" r="70"/><rect x="20" y="${H/2-160}" width="150" height="320"/><rect x="${W-170}" y="${H/2-160}" width="150" height="320"/></g>`;
+  const used={};
+  players.forEach(q=>{ const slots=SLOT[q.position]||SLOT.CM; const k=used[q.position]||0; used[q.position]=k+1; const [x,y]=slots[Math.min(k,slots.length-1)]; const fc=fatColor(q.fatigue);
+    s+=`<g data-tip="<b>${esc(q.name)}</b>${q.position} · ${Math.round(q.minutes||0)} dk · yorgunluk ${q.fatigue==null?'—':Math.round(q.fatigue*100)+'%'} · temas ${q.touches||0}${q.cards?' · sarı kart':''}"><circle cx="${X(x)}" cy="${Y(y)}" r="27" fill="${p}" stroke="${q.cards?'#F5B14C':sec}" stroke-width="${q.cards?5:3}"/><circle cx="${X(x)+20}" cy="${Y(y)-18}" r="9" fill="${fc}" stroke="#0f2a1a" stroke-width="2"/><text x="${X(x)}" y="${Y(y)+5}" font-size="15" font-weight="700" text-anchor="middle" style="fill:${textOn(p)};font-family:var(--display)">${esc(initials(q.name))}</text><text x="${X(x)}" y="${Y(y)+46}" font-size="13" font-weight="600" text-anchor="middle" style="fill:#fff;paint-order:stroke;stroke:#0f2a1a;stroke-width:3px">${esc(q.name.split(' ').slice(-1)[0])}</text></g>`; });
+  s+=`<text x="${W-28}" y="${H-28}" font-size="12" text-anchor="end" style="fill:#e8f5e9;opacity:.85">${esc(F===T.home.id?T.home.name:T.away.name)} · hücum yönü → · ${Math.floor(f.minute)}'</text></svg>`;
+  $('#pitch').innerHTML=s; bindTips($('#pitch'));
+}
+function drawTiles(f){
+  const t=f.teams[F], o=f.teams[OPP]; const wk=String(Math.max(...Object.keys(t.windows).map(Number))); const w=t.windows[wk]||{}, ow=o.windows[wk]||{};
+  const tile=(v,l,warn)=>`<div class="tile" ${warn?'style="outline:1px solid var(--crit)"':''}><b>${v}</b><span>${l}</span></div>`;
+  $('#tiles').innerHTML= tile(t.possession==null?'—':t.possession+'%','top oranı') + tile(t.field_tilt==null?'—':t.field_tilt+'%','saha eğimi') + tile(t.ppda==null?'—':t.ppda,'PPDA (düşük iyi)', t.ppda!=null&&t.ppda>4) + tile((w.xg??0).toFixed(2)+' / '+(ow.xg??0).toFixed(2),'xG biz / rakip', (ow.xg||0)>(w.xg||0)+0.3) + tile(w.pass_pct==null?'—':w.pass_pct+'%','pas isabeti') + tile((w.high_turnovers||0),'yüksek top kazanma') + tile((ow.corners||0),'rakip korner', (ow.corners||0)>=3) + tile(t.xg_total+' / '+o.xg_total,'toplam xG');
+}
+function drawMomentum(f){
+  const t=f.teams[F], o=f.teams[OPP]; const ks=Object.keys(t.windows).map(Number).sort((a,b)=>a-b); const W=620,H=200,L=36,R=16,Tp=14,B=30; const pw=W-L-R, ph=H-Tp-B; const bw=pw/7;
+  const max=Math.max(0.6,...ks.map(k=>Math.max(t.windows[k].xg,(o.windows[k]||{xg:0}).xg)));
+  let s=`<svg viewBox="0 0 ${W} ${H}" style="width:100%;height:auto;display:block" role="img" aria-label="Pencere bazlı xG ve top oranı">`;
+  [0,max/2,max].forEach(v=>{const y=Tp+ph-v/max*ph; s+=`<line x1="${L}" y1="${y}" x2="${L+pw}" y2="${y}" stroke="var(--grid)"/><text x="${L-6}" y="${y+4}" font-size="10" text-anchor="end" class="mono" style="fill:var(--ink3)">${v.toFixed(1)}</text>`;});
+  ks.forEach(k=>{ const x0=L+k*bw; const a=t.windows[k].xg, b=(o.windows[k]||{xg:0}).xg; s+=`<rect x="${x0+bw*0.12}" y="${Tp+ph-a/max*ph}" width="${bw*0.34}" height="${a/max*ph}" rx="3" fill="var(--s1)"/><rect x="${x0+bw*0.52}" y="${Tp+ph-b/max*ph}" width="${bw*0.34}" height="${b/max*ph}" rx="3" fill="var(--s2)"/><text x="${x0+bw/2}" y="${H-10}" font-size="10.5" text-anchor="middle" class="mono" style="fill:var(--ink3)">${k*15}–${k*15+15}'</text>`; });
+  // possession line
+  const pts=ks.map(k=>{ const a=t.windows[k].passes, b=(o.windows[k]||{passes:0}).passes; const pos=a+b?a/(a+b):0.5; return [L+k*bw+bw/2, Tp+ph-pos*ph]; });
+  if(pts.length>1) s+=`<polyline points="${pts.map(p=>p.join(',')).join(' ')}" fill="none" stroke="var(--accent-ink)" stroke-width="2" stroke-dasharray="4 3"/>`;
+  pts.forEach(p=>{ s+=`<circle cx="${p[0]}" cy="${p[1]}" r="3.5" fill="var(--accent-ink)"/>`; });
+  s+=`<line x1="${L}" y1="${Tp+ph/2}" x2="${L+pw}" y2="${Tp+ph/2}" stroke="var(--ink3)" stroke-dasharray="2 4"/><text x="${L+pw}" y="${Tp+ph/2-4}" font-size="10" text-anchor="end" style="fill:var(--ink3)">top %50</text></svg>`;
+  $('#mom').innerHTML=s+`<div class="legend"><span><i style="background:var(--s1)"></i>${esc(F===T.home.id?T.home.name:T.away.name)} xG</span><span><i style="background:var(--s2)"></i>${esc(F===T.home.id?T.away.name:T.home.name)} xG</span><span><i style="background:var(--accent-ink)"></i>top oranı</span></div>`;
+}
+function drawTable(players){
+  const rows=players.slice().sort((a,b)=>(b.fatigue||0)-(a.fatigue||0)).map(p=>`<tr><td>${esc(p.name)}${p.cards?' <span class="tag watch">sarı</span>':''}</td><td>${esc(p.position)}</td><td class="num">${Math.round(p.minutes||0)}</td><td class="num">${p.touches||0}</td><td class="num">${p.pass_pct==null?'—':p.pass_pct+'%'}</td><td><div class="fat"><i style="width:${Math.round((p.fatigue||0)*100)}%;background:${fatColor(p.fatigue)}"></i></div></td><td class="num">${p.fatigue==null?'—':Math.round(p.fatigue*100)}</td></tr>`).join('');
+  $('#ptable').innerHTML=`<table><tr><th>Oyuncu</th><th>Poz</th><th class="num">Dk</th><th class="num">Temas</th><th class="num">Pas</th><th>Yorgunluk</th><th class="num">%</th></tr>${rows}</table>`;
+}
+function drawBench(m){
+  const [p]=kit(F); const used=new Set(subsDone.filter(s=>s.minute<=m).map(s=>s.on));
+  $('#bench').innerHTML=T.bench[F].map(b=>`<span class="tag" style="margin:2px 4px 2px 0;padding:5px 9px;border-radius:999px;${used.has(b.name)?'opacity:.4;text-decoration:line-through':''}"><span style="display:inline-grid;place-items:center;width:18px;height:18px;border-radius:50%;background:${p};color:${textOn(p)};font-size:9px;font-weight:700;margin-right:6px;vertical-align:-4px">${esc(initials(b.name))}</span>${esc(b.name)} <span style="color:var(--ink3)">${esc(b.pos)}${b.age?' · '+b.age:''}</span></span>`).join('') || '<p class="empty">Kulüp dosyasında yedek bilgisi yok.</p>';
+}
+// controls
+function tick(){ if(!playing) return; if(idx<frames.length-1){idx++;render();} else {playing=false;$('#play').textContent='↺ Başa dön';$('#play').setAttribute('aria-pressed','false');} }
+function setSpeed(sp){ speed=sp; document.querySelectorAll('[data-speed]').forEach(b=>b.setAttribute('aria-pressed', +b.dataset.speed===sp)); clearInterval(timer); timer=setInterval(tick, 1000/speed); }
+$('#play').addEventListener('click',()=>{ if(idx>=frames.length-1){ idx=0; subsDone.length=0; $('#moves').innerHTML='<p class="empty">Henüz değişiklik yok.</p>'; playing=true; } else playing=!playing; $('#play').textContent=playing?'⏸ Duraklat':'▶ Oynat'; $('#play').setAttribute('aria-pressed',playing); render(); });
+document.querySelectorAll('[data-speed]').forEach(b=>b.addEventListener('click',()=>setSpeed(+b.dataset.speed)));
+$('#scrub').addEventListener('input',e=>{ idx=+e.target.value; render(); });
+render(); setSpeed(4);
+</script>

@@ -86,6 +86,32 @@ uv run python -m football_agent bonus nicolo_tresoldi bayern_munich --salary 1.0
 curl 'localhost:8090/match/nicolo_tresoldi/bayern_munich/bonus-plan?gross_salary_eur_m=1'
 ```
 
+### Saha kenarı: teknik direktör için canlı analiz (`live/`)
+
+Kulüplere satış argümanı: aynı motor, maç sırasında hocanın önüne düşer.
+
+* **Event şeması** (`live/models.py`): pas, orta, şut (xG), ikili mücadele, pres, top kazanma, korner, sprint,
+  kart, değişiklik. 15 dakikalık pencerelerde takım metrikleri (top oranı, saha eğimi, PPDA, xG, kanat dağılımı,
+  hava topu) ve oyuncu metrikleri (temas, pas, ikili, sprint temposu, yorgunluk endeksi).
+* **İçgörü kuralları** (`live/analyzer.py`), her biri kanıt ve öneriyle: rakip kanat/merkez yüklenmesi, pres
+  çöküşü (PPDA), sprint temposu düşüşü (yorgunluk, sarı kartla birlikte), izole forvet, duran top ve hava topu
+  riski, momentum, işleyen kanat. Kıyas noktası takımın kendi ilk pencereleri; lig geneli model gerektirmez.
+* **Yedek önerisi** (`live/bench.py`): pozisyon uyumu (40) + içgörünün istediği özellikler (30; temsil ettiğimiz
+  oyuncularda stil etiketleri, diğerlerinde pozisyon varsayımı, işaretli) + tazelik ve skor durumu (30). Kimin
+  yerine gireceği yorgunluk endeksinden.
+* **Akış**: `/live/{home}/{away}/stream` SSE ile dakika başına kare; `/live/{home}/{away}/events` POST ile gerçek
+  besleme adaptörü (aynı şemaya Opta/StatsBomb/Second Spectrum bağlanır); `live-dashboard` komutu tek dosyalık
+  panel üretir (oynat/duraklat/hız, saha üzerinde yorgunluk ve rakip yoğunluğu, momentum, içgörü akışı,
+  "oyuna al").
+* **Sınır**: Bu ortamda canlı veri lisansı yok; event akışı iki kulüp dosyasından tohumlanmış **simülasyon**dur
+  ve panelde açıkça yazılıdır. Kurallar ve şema gerçek beslemeyle aynıdır.
+
+```bash
+uv run python -m football_agent live arsenal real_madrid          # metin akışı
+uv run python -m football_agent live-dashboard --home arsenal --away real_madrid --out saha_kenari.html
+curl -N 'localhost:8090/live/arsenal/real_madrid/stream?speed=4'  # SSE
+```
+
 ## Hızlı başlangıç
 
 ```bash

@@ -12,6 +12,7 @@ from . import __version__
 from .commission import quote
 from .culture import DIMENSION_LABELS, load_model
 from .incentives import build_plan
+from .live.api import router as live_router
 from .llm import narrate
 from .loader import dataset_status, load_clubs, load_players, validate_dataset
 from .matching import MatchEngine
@@ -30,6 +31,9 @@ app = FastAPI(
 def engine() -> MatchEngine:
     include_demo = os.environ.get("FOOTBALL_AGENT_INCLUDE_DEMO", "0") == "1"
     return MatchEngine(load_clubs(), load_players(include_demo=include_demo))
+
+
+app.include_router(live_router)
 
 
 @app.get("/health")

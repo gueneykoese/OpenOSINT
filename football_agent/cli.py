@@ -180,6 +180,46 @@ def cmd_bonus(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_live(args: argparse.Namespace) -> int:
+    from .live.timeline import build_timeline
+
+    e = _engine()
+    if args.home not in e.clubs or args.away not in e.clubs:
+        print("unknown club", file=sys.stderr)
+        return 2
+    tl = build_timeline(
+        e.clubs[args.home],
+        e.clubs[args.away],
+        focus=args.focus or args.home,
+        pool=e.players,
+        seed=args.seed,
+    )
+    if args.json:
+        print(json.dumps(tl, ensure_ascii=False))
+        return 0
+    print(f"{tl['home']['name']} v {tl['away']['name']} — {tl['note']}")
+    for f in tl["frames"]:
+        for ins in f["insights"]:
+            if ins["severity"] == "info" and not args.all:
+                continue
+            subs = ", ".join(f"{s['player']} ({s['score']:.0f})" for s in ins.get("subs", [])[:2])
+            print(
+                f"{f['minute']:5.0f}' {f['score']} [{ins['severity']:5}] {ins['title']}: {ins['evidence']}"
+                + (f" → {subs}" if subs else "")
+            )
+    last = tl["frames"][-1]
+    print("final", last["score"])
+    return 0
+
+
+def cmd_live_dashboard(args: argparse.Namespace) -> int:
+    from .live.dashboard import build
+
+    out = build(Path(args.out), args.home, args.away, seed=args.seed)
+    print(f"wrote {out} ({out.stat().st_size // 1024} KB)")
+    return 0
+
+
 def cmd_dashboard(args: argparse.Namespace) -> int:
     from .dashboard import build
 
@@ -252,6 +292,20 @@ def main(argv: list[str] | None = None) -> int:
     s.add_argument("--mode", choices=["bonus", "fee_rebate"], default="bonus")
     s.add_argument("--json", action="store_true")
     s.set_defaults(fn=cmd_bonus)
+    s = sub.add_parser("live", help="simulated live match: insights + bench recommendations")
+    s.add_argument("home")
+    s.add_argument("away")
+    s.add_argument("--focus")
+    s.add_argument("--seed", type=int, default=4)
+    s.add_argument("--all", action="store_true")
+    s.add_argument("--json", action="store_true")
+    s.set_defaults(fn=cmd_live)
+    s = sub.add_parser("live-dashboard", help="build the head-coach live panel (HTML)")
+    s.add_argument("--home", default="arsenal")
+    s.add_argument("--away", default="real_madrid")
+    s.add_argument("--seed", type=int, default=4)
+    s.add_argument("--out", default="football_agent/reports/live_dashboard.html")
+    s.set_defaults(fn=cmd_live_dashboard)
     s = sub.add_parser("dashboard", help="build the self-contained HTML dashboard")
     s.add_argument("--out", default="football_agent/reports/dashboard.html")
     s.set_defaults(fn=cmd_dashboard)
