@@ -1,7 +1,7 @@
 # "Türkiye'yi Karadenizliler Yönetiyor" Hipotezi — OSINT Etki Haritası (2002–2026)
 
-**Tarih:** 7 Eylül 2026
-**Kapsam:** AKP'nin iktidara geldiği Kasım 2002'den bugüne siyaset, devlet kurumları, medya, iş dünyası, dinî cemaatler, STK/meslek örgütleri, yargı/güvenlik, spor ve kültür alanlarındaki etkili kişilerin Karadeniz kökeni; bu yoğunlaşmanın siyasi, ekonomik ve sosyolojik boyutları.
+**Tarih:** 7 Eylül 2026 · **Sürüm:** 1.1 (ikinci tarama: medya genişletildi, organize suç bölümü eklendi, ~250 ek isim kontrol edildi)
+**Kapsam:** AKP'nin iktidara geldiği Kasım 2002'den bugüne siyaset, devlet kurumları, medya, iş dünyası, dinî cemaatler, STK/meslek örgütleri, yargı/güvenlik, organize suç, spor ve kültür alanlarındaki etkili kişilerin Karadeniz kökeni; bu yoğunlaşmanın siyasi, ekonomik ve sosyolojik boyutları.
 **Yöntem:** Açık kaynak (TBMM biyografileri, kurum siteleri, ulusal basın "kimdir/nereli" sayfaları, TÜİK, Dünya Bankası, akademik literatür). Her isim en az bir kaynakla teyit edildi. Teyit edilemeyenler ayrı işaretlendi.
 
 ---
@@ -11,7 +11,8 @@
 **Hipotez olduğu haliyle yanlış, daraltılmış haliyle doğru.**
 
 - **"Karadenizliler" (18 il) Türkiye'yi yönetmiyor.** Batı Karadeniz (Zonguldak, Bartın, Karabük, Bolu, Düzce, Sinop, Kastamonu, Çorum, Amasya, Tokat) elitte ve seçmen davranışında Doğu Karadeniz'den net biçimde ayrışıyor. Yüksek yargı, Genelkurmay, MİT, TCMB başkanlıklarının çoğu, TÜSİAD, ana akım medya sahipliği ve köşe yazarlığında Karadeniz ağırlığı **yok**.
-- **Doğu Karadeniz'in dar bir hattı (Trabzon'un doğu ilçeleri Of–Çaykara–Dernekpazarı–Sürmene, Rize, Bayburt) Erdoğan iktidarının çekirdek kadrosunda, müteahhitlik sermayesinde, İslami sermaye örgütlenmesinde (MÜSİAD), Diyanet'te, İsmailağa cemaatinde ve futbol yönetiminde belgelenebilir biçimde aşırı temsil ediliyor.** 2018 kabinesinde 4 Trabzonlu bakanın 3'ü tek bir vadiden (Solaklı Vadisi) geliyordu.
+- **Doğu Karadeniz'in dar bir hattı (Trabzon'un doğu ilçeleri Of–Çaykara–Dernekpazarı–Sürmene–Arsin, Rize, Bayburt) Erdoğan iktidarının çekirdek kadrosunda, müteahhitlik sermayesinde, İslami sermaye örgütlenmesinde (MÜSİAD), Diyanet'te, İsmailağa cemaatinde, futbol yönetiminde ve İstanbul yeraltı dünyasında belgelenebilir biçimde aşırı temsil ediliyor.** 2018 kabinesinde 4 Trabzonlu bakanın 3'ü tek bir vadiden (Solaklı Vadisi) geliyordu. Aynı Of–Çaykara–Sürmene hattı 1960'lardan bu yana İstanbul'un en büyük mafya ailelerini (Cevahirler, Hacısüleymanoğulları, Sarallar, Dündar Kılıç, Çakıcı) ve son dönemin en etkili suç figürünü (Sedat Peker, Rize) üretti.
+- **Medya:** Sahiplik düzeyinde (Doğan, Ciner, Kalyon/Turkuvaz, Albayrak) Karadeniz ağırlığı belirgin. Gazeteci/ekran yüzü düzeyinde ikinci taramada ~20 Karadeniz kökenli isim teyit edildi (Saymaz, Nihat Genç, Nuray Mert, Hacır, Cevizoğlu, Kartoğlu, Sobacı vb.), ancak ~70 kontrol edilen ismin çoğunluğu Karadeniz dışı; bu alanda "hegemonya" değil "görünür azınlık" söz konusu.
 - **Bu aşırı temsil "bölge lobisi"nden çok üç mekanizmayla açıklanıyor:** (1) Erdoğan'ın kişisel/aile ağı (Rize-Güneysu kökeni, Trabzonlu damatlar Albayrak ve Bayraktar), (2) 1950'lerden itibaren Karadeniz'den İstanbul'a zincir göçün yarattığı devasa hemşehri havuzu (İstanbul'da en kalabalık 10 memleket grubunun 7'si Karadeniz ili), (3) Of–Çaykara havzasının medrese/hafızlık geleneğiyle dinî bürokrasi ve cemaat liderliğine uzun süredir kadro üretmesi.
 - **Taban oranı düzeltmesi kritik:** Karadeniz illerinin ikamet nüfusu Türkiye'nin ~%9'u, ama **nüfusa kayıtlı olduğu il (kütük)** payı bunun belirgin üstünde (Samsun, Ordu, Trabzon tek başına 1,5–2 milyon kütük). Elitler "memleket" üzerinden okunduğu için doğru karşılaştırma kütük payıdır. Buna göre 2023 kabinesindeki Karadenizli oranı (5–6/18 ≈ %30) yaklaşık 2 kat aşırı temsil; aynı kabinede Konya (4/18) çok daha yüksek oranda aşırı temsil ediliyor.
 
@@ -117,9 +118,22 @@ Kaynak: [Artı Gerçek](https://artigercek.com/guncel/istanbulda-en-cok-nereli-v
 | **Kadir Topbaş** | İBB Başkanı 2004–17 | Artvin/Yusufeli | Artvin | Y |
 | **Ekrem İmamoğlu** | İBB Başkanı 2019–25 (muhalefet) | Trabzon/Akçaabat | Trabzon | Y |
 | **Koray Aydın** | MHP/İYİ Parti üst yönetimi | Trabzon/Yomra | Trabzon | Y |
+| **Müsavat Dervişoğlu** | İYİ Parti Genel Başkanı 2024– | Ankara | **Ordu – Fatsa** | Y |
+| **Ali İhsan Yavuz** | AKP Gn. Bşk. Yrd. (Seçim İşleri) | Trabzon/Yomra | Trabzon | Y |
+| **Suat Kılıç** | Spor Bakanı 2011–13; YRP yönetimi | Samsun | **Trabzon – Of – Kavakpınar** | Y |
+| **Faruk Özlü** | Sanayi Bakanı 2016–18; Düzce Bld. Bşk. 2019– | Düzce/Çilimli | Düzce | Y |
+| **Murat Karayalçın** | Başbakan Yrd./Dışişleri 1994–95; Ankara BB Bşk.; SHP GB | Samsun | **Rize – Çamlıhemşin** | Y |
+| **Engin Altay** | CHP Grup Bşk. Vekili (uzun dönem) | Sinop/Erfelek | Sinop | Y |
+| **Mehmet Bekaroğlu** | SP/CHP mv. | Rize/Fındıklı | Rize | Y |
+| **Tanju Özcan** | Bolu Bld. Bşk. 2019– (CHP) | Bolu/Mengen | Bolu | Y |
+| **Vasip Şahin** | İstanbul Valisi 2014–18; Ankara Valisi 2018–23 | Bayburt | Bayburt | Y |
+| Metin Külünk, Mücahit Birinci, Ömer İleri | AKP MKYK / Gn. Bşk. Yrd. (Olay53: "MKYK'da 7 Rizeli") | — | Rize | O |
 | **Mesut Yılmaz** (bağlam) | Başbakan 1991, 1996, 1997–99 (AKP öncesi) | İstanbul | Rize/Çayeli, Hemşin | Y |
+| **Bülent Ecevit** (bağlam) | Başbakan 1974–2002 arası 4 kez (AKP öncesi) | İstanbul | **Kastamonu – İnebolu** (baba Fahri Ecevit Kastamonu mv.) | Y |
 
-Teyit edilemeyen ama basında Karadenizli olarak geçenler `[B]`: Faruk Özlü (Düzce), Suat Kılıç (Samsun), Engin Altay (Sinop), Murat Karayalçın (Samsun), Oktay Saral (Trabzon), Ahmet Şan (Trabzon).
+Teyit edilemeyen ama basında Karadenizli olarak geçenler `[B]`: Oktay Saral (Trabzon), Ahmet Şan (Trabzon), Rıza Akpolat (Rize?).
+
+**Not:** 2002 öncesi de dahil edildiğinde son 30 yılın başbakan/cumhurbaşkanlarından Yılmaz (Rize), Ecevit (Kastamonu kökenli) ve Erdoğan (Rize) Karadeniz bağlantılıdır; Demirel, Özal, Çiller, Erbakan (Sinop doğumlu ama Kozanoğlu ailesi Adana kökenli), Gül, Davutoğlu, Yıldırım değildir. Bu, örüntünün AKP'ye özgü olmadığını, ama AKP döneminde çekirdek kadroya yayıldığını gösterir.
 
 **Kabine kesitleri (basın sayımları):**
 
@@ -178,6 +192,11 @@ AKP üst yönetimi: Milliyet "Yönetimde Karadenizli ağırlığı" haberi Erdo�
 | **Mahmut Asmalı** | MÜSİAD Bşk. 2021– | Rize – Pazar | Y |
 | **Enes Eminoğlu** | TÜGVA Bşk. 2018–23; GSB Bakan Yrd. | Trabzon – Araklı | O |
 | **Bilal Erdoğan** | TÜRGEV/TÜGVA; İlim Yayma | Rize – Güneysu (aile) | Y |
+| **Şaban Cemil Kazancı** | Kazancı Holding / Aksa Enerji; Forbes 2023 Türkiye 7. (2,5 milyar $) | Rize | O |
+| **Kalkavan ailesi** (Metin Kalkavan) | Denizcilik; İMEAK Deniz Ticaret Odası Bşk. | Rize | O |
+| **Abdürrahim Albayrak** | Altur Turizm; Galatasaray eski 2. Bşk. | Rize | O |
+| **Ahmet Nur Çebi** | Çebi Metal; Beşiktaş Bşk. 2019–24 | Trabzon – Araklı (Karabük'te büyüdü) | Y |
+| **Dursun Özbek** | Otomotiv/turizm; Galatasaray Bşk. 2015–18, 2022– | Giresun – Şebinkarahisar | Y |
 
 **"Beşli çete" testi:** Dünya Bankası'na göre dünyada en çok kamu-özel altyapı ihalesi alan ilk 10 firmanın 5'i Türk: Limak (49 milyar $, 1.), Cengiz (42,1, 3.), Kolin (40,4, 4.), Kalyon, MNG ([Cumhuriyet](https://www.cumhuriyet.com.tr/haber/besi-bir-yerde-limak-holding-cengiz-holding-kolin-kalyon-ve-mng-holding-1185161), [Politeknik](https://politeknik.org.tr/limak-cengiz-kolin-kalyon-ve-mng-dunyada-en-fazla-kamu-ihalesi-alan-ilk-10-sirket-arasinda/)). Bunlardan **Cengiz (Rize), Kalyon (Trabzon), MNG (Artvin) Karadenizli; Limak (Nihat Özdemir – Diyarbakır) ve Kolin (Celal Koloğlu – Elazığ) değil.** Makyol (Trabzon) eklenirse 6'da 4. Müteahhitlik rantında Doğu Karadeniz ağırlığı gerçek ama tekel değil.
 
@@ -202,8 +221,27 @@ AKP üst yönetimi: Milliyet "Yönetimde Karadenizli ağırlığı" haberi Erdo�
 | Fuat Uğur | Türkiye gazetesi | Samsun (doğ.; Çerkes) | O |
 | Kadir Çelik | eski ana haber sunucusu | Rize | O |
 | Seda Sayan | TV | Tokat/Pazar | O |
+| **İsmail Saymaz** | Halk TV; eski Hürriyet/Radikal | **Rize doğumlu (1980), Rize'de büyüdü; aile aslen Erzurum/Pazaryolu** | Y |
+| **Nihat Genç** | Yazar/gazeteci (ö. 2025) | Trabzon/Maçka (Faroz'da doğdu) | Y |
+| **Nuray Mert** | Köşe yazarı, siyaset bilimci | Trabzon | Y |
+| **Gürkan Hacır** | TV programcısı (Halk TV/Tele1) | Rize/Hemşin (Ankara doğ.) | Y |
+| **Hulki Cevizoğlu** | TV programcısı; AKP İzmir mv. 2023– | Giresun/Tirebolu | Y |
+| **Mustafa Kartoğlu** | Akşam GYY; eski Star Ankara temsilcisi | Rize/Çayeli | Y |
+| **Mehmet Zahid Sobacı** | TRT Genel Müdürü 2021– | Tokat/Niksar | Y |
+| **Ersoy Dede** | TRT ana haber sunucusu, yazar | Zonguldak | Y |
+| **Şaban Sevinç** | TV yorumcusu (Halk TV) | Samsun/Bafra | Y |
+| **Mehmet Ali Önel** | "Deşifre" programcısı | Artvin/Yusufeli | Y |
+| **Deniz Bayramoğlu** | Kanal D ana haber | Rize/Pazar (Malatya doğ.) | Y |
+| **Elif Çakır** | Karar yazarı | Çorum/İskilip | Y |
+| **Yavuz Bahadıroğlu** (Niyazi Birinci) | Yazar (ö. 2021); oğlu Mücahit Birinci AKP MKYK | Rize/Pazar | Y |
+| **Nuriye Akman** | Röportaj yazarı (Milliyet, Sabah, Zaman) | Samsun/Ladik | Y |
+| **Esra Erol** | ATV gündüz kuşağı | Sinop/Ayancık (İstanbul doğ.) | Y |
+| Murat Kosova | Spor spikeri | Sinop/Ayancık | O |
+| Hande Sarıoğlu | Beyaz TV sunucusu | Düzce/Akçakoca | Y |
+| Emin Pazarcı | Akşam Ankara temsilcisi | "aslen Samsunlu" (doğum yeri çelişkili) | O |
+| Nevşin Mengü | Gazeteci | Baba Kastamonu/İnebolu doğumlu; aile aslen Manisa — zayıf bağ | D |
 
-**Değerlendirme:** Medya **sahipliğinde** (Doğan, Ciner, Kalyon/Turkuvaz, Albayrak/Yeni Şafak) Karadeniz ağırlığı belirgin. **Köşe yazarlığı ve ekran yüzlerinde** ise azınlık: Altaylı (Van), Ahmet Hakan (Yozgat), Selvi (Sivas), Alçı (Kayseri), Kaplan (Çankırı), Özdil (Aksaray), Özkök (İzmir), Uğur/Can Dündar, Portakal (Aydın), Küçükkaya (Kütahya), Acun (Erzurum) vb. Karadeniz değil.
+**Değerlendirme:** Medya **sahipliğinde** (Doğan, Ciner, Kalyon/Turkuvaz, Albayrak/Yeni Şafak) ve **kamu yayıncılığı yönetiminde** (TRT GM Sobacı, RTÜK Bşk. Ebubekir Şahin) Karadeniz ağırlığı belirgin. **Köşe yazarlığı ve ekran yüzlerinde** ikinci taramada ~20 isim teyit edildi; buna karşın kontrol edilen ~70 ismin çoğunluğu Karadeniz dışı: Altaylı (Van), Ahmet Hakan (Yozgat), Selvi (Sivas), Alçı (Kayseri), Kaplan (Çankırı), Özdil (Aksaray), Özkök (İzmir), Uğur/Can Dündar, Portakal (Aydın), Küçükkaya (Kütahya), Acun (Erzurum), Ergün Diler (İzmir), Ağırel (Adana), Soykan (Kırklareli), Terkoğlu (Urfa), Pehlivan (Erzincan), Şardan (Ankara), Toker (Diyarbakır), Ahmet Şık (Adana), Aysever (İstanbul), Gültekin (Ardahan), Hande Fırat (Ankara), Zeyrek/Yarkadaş (Kars), Kübra Par (Erzincan), Latif Şimşek (Kırşehir), Yavuz Donat (Niğde), Necati Doğru (Ağrı), Cafer Mahiroğlu/Halk TV (Sivas), Karahasanoğlu/Akit (Erzincan), Serdar Karagöz/AA (Sakarya), İbrahim Eren (İstanbul). Karadenizli gazeteciler iktidar–muhalefet ekseninde de dağınık (Saymaz, Hacır, Sevinç, Mert muhalif; Kartoğlu, Cevizoğlu, Dede, Sobacı iktidar yakını). Sonuç: medya içerik üreticilerinde "görünür azınlık", hegemonya değil.
 
 ### 3.5 Din ve cemaatler
 
@@ -213,6 +251,8 @@ AKP üst yönetimi: Milliyet "Yönetimde Karadenizli ağırlığı" haberi Erdo�
 | Hasan Kılıç (İsmailağa lideri 2022–24) | Trabzon – Çaykara | Y |
 | Ahmet Mahmut Ünlü "Cübbeli Ahmet" | Giresun – Görele (Rize/Pazar'da yetişti) | O |
 | Hüsnü Bayramoğlu (Nur/Meşveret, ö. 2021) | Karabük – Safranbolu | O |
+| **Hayrettin Karaman** (Yeni Şafak; AKP döneminin en etkili fıkıh otoritesi) | Çorum (1934) | Y |
+| **Yaşar Nuri Öztürk** (reformist ilahiyatçı, ö. 2016) | Bayburt doğumlu; Trabzon/Sürmene'de büyüdü, Çaykaralı Niyazoğlu ailesi | Y |
 | Diyanet başkanları (yukarıda) | Kastamonu, Ordu, Amasya | Y |
 
 "Of ekolü": Of–Çaykara havzasının köy medreseleri ve hafızlık geleneği akademik olarak belgelenmiştir ([DergiPark – Oflu hocaların medreseleri](https://dergipark.org.tr/tr/download/article-file/351402), [Karadeniz kıraat ekolü](https://dergipark.org.tr/tr/download/article-file/4718354)). Bu ekol İsmailağa'nın 64 yıllık liderlik hattını ve Diyanet/ilahiyat kadrolarını beslemiştir. Aynı vadi (Solaklı) 2018 kabinesine 3 bakan vermiştir.
@@ -229,8 +269,42 @@ AKP üst yönetimi: Milliyet "Yönetimde Karadenizli ağırlığı" haberi Erdo�
 | Servet Yardımcı | UEFA İcra Kurulu | Rize | Y |
 | Şenol Güneş | Milli Takım TD | Trabzon | Y |
 | Fikret Orman | Beşiktaş Bşk. 2012–19 | Rize | O |
+| **Ahmet Nur Çebi** | Beşiktaş Bşk. 2019–24 | Trabzon/Araklı | Y |
+| **Dursun Özbek** | Galatasaray Bşk. 2015–18, 2022– | Giresun/Şebinkarahisar | Y |
+| Tanju Çolak | Futbol (Altın Ayakkabı 1988) | Samsun | Y |
 | Tarkan | Müzik | Rize/İkizdere | O |
+| **Orhan Gencebay** | Müzik | Samsun/İlkadım | Y |
+| **Kadir İnanır** | Sinema (ö. 2026) | Ordu/Fatsa (baba Sürmeneli) | Y |
+| Ferhan Şensoy | Tiyatro (ö. 2021) | Samsun/Çarşamba | Y |
+| Murat Boz | Pop | Zonguldak/Kdz. Ereğli | Y |
+| Mehmet Aslantuğ | Oyuncu; TİP siyaseti | Samsun/Çarşamba | O |
+| Levent Kırca | Tiyatro/TV (ö. 2015) | Samsun | O |
 | Volkan Konak, Kazım Koyuncu | Müzik / Laz kimliği | Trabzon/Maçka, Artvin/Hopa | Y |
+
+**Not:** Üç büyük İstanbul kulübünden ikisinin (Galatasaray, Beşiktaş) 2019–24 arasındaki başkanları Karadenizliydi; Fenerbahçe'de Aziz Yıldırım (Diyarbakır/Ergani, Düzce'de büyüdü) ve Ali Koç değil. TFF ile birlikte futbol yönetimi raporun en tutarlı Karadeniz kümelerinden biri.
+
+### 3.7 Organize suç ve yeraltı dünyası
+
+| Kişi / aile | Dönem ve rol | Doğum | Memleket | Siyasi bağlantı (belgeli) | Güven |
+|---|---|---|---|---|---|
+| **Sedat Peker** | Örgüt lideri; 2014–15 AKP destek mitingleri; 2021 ifşa videoları | Adapazarı | **Rize** (Batum→Rize→Adapazarı göçü) | 2015 Rize mitingi ("oluk oluk kan"); Soylu'yla kopuş 2021 | Y |
+| **Alaattin Çakıcı** | Ülkücü mafya lideri; 2020 tahliye | **Trabzon/Arsin**, Fındıklı köyü | Trabzon | Bahçeli "dava arkadaşım"; Susurluk/MİT geçmişi | Y |
+| **Dündar Kılıç** | "Babaların babası" (ö. 1999) | **Trabzon/Sürmene**, Baştımar | Trabzon | Çakıcı'nın kayınpederi | Y |
+| **Oflu İsmail** (Hacısüleymanoğlu) | 1970'ler kabadayı/kaçakçı; 2006 dönüş | Trabzon/**Of** | Trabzon | Kılıç'ın kayınbiraderi | Y |
+| **Oflu Hasan** (Cevahiroğlu) ve Cevahirler | 1950–60'lar Galata; "babaların babası" (ö. 1972) | Trabzon/**Çaykara** | Trabzon | — | Y |
+| **Sarallar** (Saral ailesi) | 2021 emniyet verisi: 347 silahlı üye, İstanbul'un 2. büyük örgütü; 2022 operasyonu 169 sanık | — | Trabzon/**Of** | Milano savcılığı dosyası (Vadi İstanbul iddiası) | Y |
+| **Camgözler** (Binali Camgöz) | İzmir merkezli örgüt; 2024'te MİT tarafından Karadağ'dan getirildi | İstanbul | **Rize/Çayeli** | — | Y |
+| **Sedat Şahin** (Şahinler) | İstanbul örgüt lideri 1990–2010'lar | **Samsun/Bafra** | Samsun | — | Y |
+| **Kürşat Yılmaz** | Ülkücü mafya; Suyolcu cinayeti | **Giresun/Yağlıdere** | Giresun | Ülkücü çevre | Y |
+| **Urfi Çetinkaya** ("Türk Escobar") | Uyuşturucu kaçakçılığı | **Trabzon/Maçka** | Trabzon | — | Y |
+| Ayhan Bora Kaplan | Ankara "Kaplanlar"; 2023–24 soruşturması | Erzurum (?) | **Gümüşhane/Torul** (aile) | Soylu ve kuzeni Sadık Soylu'yla yakınlık iddiaları | O |
+| Yaşar Avni Musullulu ("Sarı Avni") | 1980'ler uluslararası kaçakçılık | Rize | Rize | — | O |
+
+**Karşı-bulgu (Karadeniz değil):** Nuriş kardeşler (Erzurum), Daltonlar (Batman), Casperlar (Mardin), Hadi Özcan (Sapanca), Drej Ali (Urfa), Baybaşin/Cantürk (Lice), Çatlı (Nevşehir), Erol Evcil (Bursa), Falyalı (KKTC), Sezgin Baran Korkmaz (Kars), Mehmet Ağar (Ardahan/Elazığ), Sami Hoştan (Üsküp), İnci Baba–Mehmet Nabi İnciler (Urfa; popüler "Oflu Mehmet" eşleştirmesi yanlış), Hasan Heybetli (Siirt).
+
+**Tarihsel örüntü:** 1950–60'larda Karaköy–Tophane–Kasımpaşa'ya göçen Of, Çaykara, Sürmene ve Rize gençleri liman işçiliği ile kabadayılığı birlikte yürüttü; 1960'lar İstanbul'unda "mafya" denince ilk akla gelen grup "Oflular"dı ([Çay Haber](https://www.cayhaber.net/eski-istanbulun-rizeli-kabadayilari), [İzdiham](https://www.izdiham.com/gecmisten-gunumuze-istanbul-kabadayilari/)). Adliye muhabirleri 1980'lerden bugüne İstanbul yeraltını "üç Karadenizli aile" (Cevahirler–Çaykara, Hacısüleymanoğulları–Of, Sarallar–Of) üzerinden tarif eder ([Serbestiyet soruşturması](https://serbestiyet.com/haberler/sorusturma-istanbulda-yeralti-dunyasini-karadenizli-uc-aile-mi-yonetiyor-141577/)). Kılıç–Çakıcı–Oflu İsmail hattı evlilik akrabalığıyla birbirine bağlıdır. Batı Karadeniz, Tokat/Amasya/Çorum, Ordu, Artvin ve Bayburt'tan ulusal ölçekte tanınan hiçbir suç figürü bulunamadı; örüntü Of–Çaykara–Sürmene–Arsin–Maçka ve Rize–Çayeli ile sınırlıdır. Kabadayılık–Karadeniz göçü ilişkisini inceleyen hakemli çalışma bulunamadı; literatür gazetecilik derlemelerinden ibaret.
+
+**Siyasetle kesişme:** Peker (Rize) ile Soylu (Of) arasındaki 2016–2021 ilişkisi ve 2021 kopuşu, Kaplan (Torul) soruşturmasında Soylu iddiaları, Çakıcı (Arsin)–Bahçeli ilişkisi. Hemşehriliğin bu bağlarda rol oynadığı yalnızca iddia düzeyindedir; belgelenmiş değildir. Ancak iktidarın çekirdek kadrosuyla yeraltı figürlerinin aynı dar coğrafyadan (Of–Çaykara–Sürmene / Rize) gelmesi, raporun "kişisel ağ + göç demografisi" açıklamasını güçlendirir: aynı köylerden aynı mahallelere göçen kuşaklar, farklı sektörlerde (inşaat, siyaset, din, suç) paralel yükselmiştir.
 
 ---
 
@@ -284,6 +358,20 @@ AKP üst yönetimi: Milliyet "Yönetimde Karadenizli ağırlığı" haberi Erdo�
 | Albayrak Holding = Berat Albayrak ailesi | Farklı aileler; ikisi de Trabzon kökenli | [Albayrak Group – Wikipedia](https://en.wikipedia.org/wiki/Albayrak_Group) |
 | Hasan Doğan (Özel Kalem) Trabzonlu | Ankara | [Yeni Şafak](https://www.yenisafak.com/hasan-dogan-kimdir-hasan-dogan-nereli-hangi-gorevlerde-bulundu-h-4534646) |
 | Özdemir Bayraktar Trabzon doğumlu | İstanbul/Sarıyer doğumlu, aile Sürmene | [Haber7](https://www.haber7.com/biyografi/haber/3152552-ozdemir-bayraktar-kimdir-ve-aslen-nerelidir-ozdemir-bayraktarin-meslegi-ne-biyografisi) |
+| Alaattin Çakıcı Sürmeneli | Trabzon/**Arsin** Fındıklı köyü | [Haberler](https://www.haberler.com/alaattin-cakici/biyografisi/) |
+| "Oflu Mehmet" = Mehmet Nabi İnciler | İnci Baba Şanlıurfa doğumlu; Of'la ilgisi yok | [Vikipedi](https://tr.wikipedia.org/wiki/Mehmet_Nabi_%C4%B0nciler) |
+| Sami Hoştan Karadenizli | Üsküp doğumlu ("Arnavut Sami") | [Habertürk](https://www.haberturk.com/gundem/haber/52360-sami-hostan-kimdir) |
+| Aziz Yıldırım Karadenizli/Düzceli | Diyarbakır/Ergani doğumlu, Düzce'de büyüdü | [beIN](https://beinsports.com.tr/haber/aziz-yildirim-kimdir) |
+| Mehmet Ali Aydınlar (Acıbadem) Rizeli | Malatya/Arapgir | [Hürriyet](https://www.hurriyet.com.tr/sporarena/galeri-mehmet-ali-aydinlar-kimdir-nereli-kac-yasinda-eski-tff-baskani-mehmet-ali-aydinlarin-kariyeri-ve-biyografi-bilgileri-43161331) |
+| Canan Karatay Kastamonulu | Elazığ | [Habertürk](https://www.haberturk.com/canan-karatay-kimdir-kac-yasinda-canan-karatay-in-hayati-ve-biyografisi-3672157) |
+| Mustafa Demir (AKP Yerel Yönetimler Bşk., eski Bayındırlık Bakanı) Trabzonlu | Diyarbakır/Dicle doğumlu; Samsun'dan vekil seçildi | [AK Parti](https://www.akparti.org.tr/ak-kadro/baskanliklar/yerel-yonetimler/mustafa-demir/) |
+| Nihat Ergün Rizeli | Kocaeli | [Habertürk](https://www.haberturk.com/nihat-ergun-kimdir-nihat-ergun-kac-yasinda-nereli-2608041) |
+| Mustafa Çalışkan (İst. Emniyet) Trabzonlu | Nevşehir | [Sabah](https://www.sabah.com.tr/gundem/2020/06/16/mustafa-caliskan-kimdir-istanbul-il-emniyet-muduru-mustafa-caliskan-kac-yasinda-nereli) |
+| Arif Çetin (Jandarma) Karadenizli | Ankara/Kalecik | [Nokta](https://www.noktagazetesi.com.tr/jandarma-genel-komutani-arif-cetin-kimdir-kac-yasinda-nereli) |
+| Levent Kırca Artvinli/Kastamonulu | Samsun doğumlu | [Samsun Gazetesi](https://www.samsungazetesi.com/foto-galeri/samsunlu-olan-unlu-isimler-1) |
+| Ergün Diler (Takvim) Karadenizli | İzmir/Buca | [Cumhuriyet](https://www.cumhuriyet.com.tr/turkiye/ergun-diler-kimdir-ergun-diler-hangi-gazetelerde-calisti-ergun-diler-2294279) |
+| Cafer Mahiroğlu (Halk TV) Rizeli | Sivas/Gürün | [Hürriyet](https://www.hurriyet.com.tr/bilgi/galeri/cafer-mahiroglu-kimdir-kac-yasinda-nereli-halk-tvnin-sahibi-cafer-mahiroglu-hakkinda-neden-yakalama-karari-cikarildi-iste-hayati-ve-42834362) |
+| İsmail Saymaz "Rizeli" | Rize doğumlu ve Rize'de büyüdü, ama aile Erzurum/Pazaryolu kökenli — doğum yeri/memleket ayrımının tipik örneği | [Cumhuriyet](https://www.cumhuriyet.com.tr/yasam/ismail-saymaz-kimdir-kac-yasinda-ismail-saymazin-kariyeri-2080848) |
 
 ---
 
@@ -301,7 +389,10 @@ AKP üst yönetimi: Milliyet "Yönetimde Karadenizli ağırlığı" haberi Erdo�
 | Cemaatler | Kısmi | Yüksek | İsmailağa evet; Gülen, Menzil, Süleymancı hayır |
 | Müteahhitlik/kamu ihalesi | **Evet** | Yüksek | Beşli'nin 3'ü + Makyol, Albayrak |
 | Medya sahipliği | Evet | Yüksek | Doğan, Ciner, Kalyon, Albayrak |
-| Köşe yazarları/ekran | **Hayır** | Yüksek | Karadenizliler azınlık |
+| Kamu yayıncılığı yönetimi | Evet | Yüksek | TRT GM (Tokat), RTÜK Bşk. (Rize) |
+| Köşe yazarları/ekran | **Görünür azınlık** | Yüksek | ~20 teyitli isim; ~70 kontrol edilenin çoğu Karadeniz dışı |
+| Organize suç (İstanbul) | **Güçlü evet** | Yüksek | Of–Çaykara–Sürmene–Arsin + Rize: Cevahirler, Hacısüleymanoğulları, Sarallar, Kılıç, Çakıcı, Peker, Camgözler |
+| Büyük kulüp başkanlıkları | Evet (2019–24) | Yüksek | GS (Giresun), BJK (Trabzon); FB hayır |
 | TÜSİAD/TOBB/büyük burjuvazi | **Hayır** | Yüksek | — |
 | MÜSİAD | Evet (2017–) | Yüksek | — |
 | Yüksek yargı | **Hayır** | Yüksek | AYM, Yargıtay, HSK'da yok; Danıştay istisna |
@@ -325,6 +416,8 @@ AKP üst yönetimi: Milliyet "Yönetimde Karadenizli ağırlığı" haberi Erdo�
 5. **TMB "İnşaatçıların Coğrafyası":** müteahhit firmaların kurucu kütük illeri.
 6. **Vali/kaymakam/general doğum yeri veritabanı:** bürokraside Karadeniz payının nicel testi (şu an literatürde yok).
 7. **Konya karşı-hipotezi:** 2023 kabinesi Konya'nın kütük tabanına göre Karadeniz'den daha yüksek oranda aşırı temsil edildiğini gösteriyor; "Türkiye'yi Konyalılar mı yönetiyor" aynı yöntemle sınanmalı.
+8. **Doğrulanamayan kuyruk (ikinci taramada arama bütçesi bitti):** Oktay Ekşi (Giresun?), Orhan Uğuroğlu (Rize?), Ahmet Hamoğlu, Hamdi Akın, Sıtkı Ayan, Nurettin Yıldız, Bayram Ali Öztürk, Burhanettin Duran (Bolu?), Hasan Arat, Serdal Adalı, Ünal Karaman, Abdullah Avcı, Tevfik Ağansoy (Sürmene iddiası çelişkili), Cengiz Kurtoğlu, İsmail Türüt, Resul Dindar ve ~150 kültür/spor adayı. Bunların hiçbiri rapora alınmadı; sonraki oturumda TBMM/Vikipedi ile kapatılmalı.
+9. **Yeraltı–siyaset kesişimi:** Peker–Soylu, Kaplan–Soylu ve Çakıcı–Bahçeli ilişkilerinde hemşehri bağının rolü iddianame ve tanık ifadeleri üzerinden ayrıca incelenmeli; mevcut bulgular yalnızca coğrafi örtüşmeyi gösteriyor, nedenselliği değil.
 
 ---
 
@@ -339,6 +432,9 @@ AKP üst yönetimi: Milliyet "Yönetimde Karadenizli ağırlığı" haberi Erdo�
 - Karadeniz sermayesi–İmamoğlu kulisi: https://t24.com.tr/haber/akp-kulisi-partiye-secim-kazandiran-yuzde-15-lik-kitle-uzaklasti-karadeniz-sermayesi-ile-iliskiler-bozuldu,1242153
 - Sahil yolu ve Karadenizli müteahhitler: https://www.birgun.net/haber/mesut-yilmaz-dan-tayyip-erdogan-a-karadeniz-i-yok-eden-karadenizliler-180906
 - Of ekolü: https://dergipark.org.tr/tr/download/article-file/351402
+- İstanbul yeraltı dünyasında Karadenizli aileler: https://serbestiyet.com/haberler/sorusturma-istanbulda-yeralti-dunyasini-karadenizli-uc-aile-mi-yonetiyor-141577/ ; Sarallar: https://tr.wikipedia.org/wiki/Sarallar ; eski İstanbul'un Rizeli kabadayıları: https://www.cayhaber.net/eski-istanbulun-rizeli-kabadayilari
+- Peker Rize mitingi (2015): https://www.birgun.net/haber/sedat-peker-rize-de-miting-yapti-akp-ye-destek-vermek-lazim-91839 ; Peker–Soylu kopuşu: https://www.gazeteduvar.com.tr/suleyman-soyludan-sedat-peker-videosu-sonrasi-tweet-gayrinizami-harp-aparati-haber-1522838
+- AKP MKYK'da Rizeliler: https://www.olay53.com/haber/ak-parti-mkykda-7-rizeli-siyasetci-812212.htm
 - Meeker, *A Nation of Empire* (UC Press 2002): https://www.ucpress.edu/books/a-nation-of-empire/paper
 - Kurtoğlu, *Hemşehrilik ve Şehirde Siyaset* (İletişim 2004): https://iletisim.com.tr/kitap/hemsehrilik-ve-sehirde-siyaset/7779
 - Ankara'daki Oflular: https://dergipark.org.tr/tr/pub/tcd/article/369212
