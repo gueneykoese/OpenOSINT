@@ -1,6 +1,6 @@
 # "Türkiye'yi Karadenizliler Yönetiyor" Hipotezi — OSINT Etki Haritası (2002–2026)
 
-**Tarih:** 7 Eylül 2026 · **Sürüm:** 1.1 (ikinci tarama: medya genişletildi, organize suç bölümü eklendi, ~250 ek isim kontrol edildi)
+**Tarih:** 7 Eylül 2026 · **Sürüm:** 1.2 (ikinci tarama: medya genişletildi, organize suç bölümü eklendi, ~250 ek isim kontrol edildi; "Cevheri Güven Haritası"ndaki 77 isim köken açısından sınandı — Bölüm 3.8)
 **Kapsam:** AKP'nin iktidara geldiği Kasım 2002'den bugüne siyaset, devlet kurumları, medya, iş dünyası, dinî cemaatler, STK/meslek örgütleri, yargı/güvenlik, organize suç, spor ve kültür alanlarındaki etkili kişilerin Karadeniz kökeni; bu yoğunlaşmanın siyasi, ekonomik ve sosyolojik boyutları.
 **Yöntem:** Açık kaynak (TBMM biyografileri, kurum siteleri, ulusal basın "kimdir/nereli" sayfaları, TÜİK, Dünya Bankası, akademik literatür). Her isim en az bir kaynakla teyit edildi. Teyit edilemeyenler ayrı işaretlendi.
 
@@ -197,6 +197,11 @@ AKP üst yönetimi: Milliyet "Yönetimde Karadenizli ağırlığı" haberi Erdo�
 | **Abdürrahim Albayrak** | Altur Turizm; Galatasaray eski 2. Bşk. | Rize | O |
 | **Ahmet Nur Çebi** | Çebi Metal; Beşiktaş Bşk. 2019–24 | Trabzon – Araklı (Karabük'te büyüdü) | Y |
 | **Dursun Özbek** | Otomotiv/turizm; Galatasaray Bşk. 2015–18, 2022– | Giresun – Şebinkarahisar | Y |
+| **Talip Öztürk** (Öztreyler) | BMC eski hissedarı (2014–21) | Rize – Güneysu | Y |
+| **Ketenci ailesi** (Osman, Ahmet Ketenci) | İş insanı; Burak Erdoğan'ın kayınpederi/kayınbiraderi; Fenerbahçe yönetimi | Rize (Kasımpaşa) | Y |
+| **Hüseyin Başaran** (Başaran Holding) | Fındık ihracatı, havacılık, turizm | Trabzon | Y |
+| **Hasan Yeşildağ** ve kardeşleri | Türkmedya sahibi; inşaat | Rize | Y |
+| **Uğur Vergili** (Başkent İnşaat) | İnşaat | Samsun/Vezirköprü | Y |
 
 **"Beşli çete" testi:** Dünya Bankası'na göre dünyada en çok kamu-özel altyapı ihalesi alan ilk 10 firmanın 5'i Türk: Limak (49 milyar $, 1.), Cengiz (42,1, 3.), Kolin (40,4, 4.), Kalyon, MNG ([Cumhuriyet](https://www.cumhuriyet.com.tr/haber/besi-bir-yerde-limak-holding-cengiz-holding-kolin-kalyon-ve-mng-holding-1185161), [Politeknik](https://politeknik.org.tr/limak-cengiz-kolin-kalyon-ve-mng-dunyada-en-fazla-kamu-ihalesi-alan-ilk-10-sirket-arasinda/)). Bunlardan **Cengiz (Rize), Kalyon (Trabzon), MNG (Artvin) Karadenizli; Limak (Nihat Özdemir – Diyarbakır) ve Kolin (Celal Koloğlu – Elazığ) değil.** Makyol (Trabzon) eklenirse 6'da 4. Müteahhitlik rantında Doğu Karadeniz ağırlığı gerçek ama tekel değil.
 
@@ -207,6 +212,8 @@ AKP üst yönetimi: Milliyet "Yönetimde Karadenizli ağırlığı" haberi Erdo�
 | Kişi | Konum | Memleket | Güven |
 |---|---|---|---|
 | Aydın Doğan | Doğan Medya (1979–2018) | Gümüşhane | Y |
+| **Hasan Yeşildağ** ve kardeşleri | Türkmedya (Star, Akşam, Güneş, 24 TV, 360) sahibi 2018– | **Rize** | Y |
+| **Sabahattin Önkibar** | Gazeteci/yazar (eski Yeniçağ; Sözcü) | Rize/Ardeşen | Y |
 | Turgay Ciner | Habertürk, Show TV, Bloomberg HT | Artvin/Hopa | Y |
 | Cemal Kalyoncu | Turkuvaz (Sabah, ATV, A Haber) YK Bşk. | Trabzon/Çaykara | Y |
 | Serhat Albayrak | Turkuvaz CEO (Berat Albayrak'ın ağabeyi) | Trabzon/Dernekpazarı | Y |
@@ -241,7 +248,7 @@ AKP üst yönetimi: Milliyet "Yönetimde Karadenizli ağırlığı" haberi Erdo�
 | Emin Pazarcı | Akşam Ankara temsilcisi | "aslen Samsunlu" (doğum yeri çelişkili) | O |
 | Nevşin Mengü | Gazeteci | Baba Kastamonu/İnebolu doğumlu; aile aslen Manisa — zayıf bağ | D |
 
-**Değerlendirme:** Medya **sahipliğinde** (Doğan, Ciner, Kalyon/Turkuvaz, Albayrak/Yeni Şafak) ve **kamu yayıncılığı yönetiminde** (TRT GM Sobacı, RTÜK Bşk. Ebubekir Şahin) Karadeniz ağırlığı belirgin. **Köşe yazarlığı ve ekran yüzlerinde** ikinci taramada ~20 isim teyit edildi; buna karşın kontrol edilen ~70 ismin çoğunluğu Karadeniz dışı: Altaylı (Van), Ahmet Hakan (Yozgat), Selvi (Sivas), Alçı (Kayseri), Kaplan (Çankırı), Özdil (Aksaray), Özkök (İzmir), Uğur/Can Dündar, Portakal (Aydın), Küçükkaya (Kütahya), Acun (Erzurum), Ergün Diler (İzmir), Ağırel (Adana), Soykan (Kırklareli), Terkoğlu (Urfa), Pehlivan (Erzincan), Şardan (Ankara), Toker (Diyarbakır), Ahmet Şık (Adana), Aysever (İstanbul), Gültekin (Ardahan), Hande Fırat (Ankara), Zeyrek/Yarkadaş (Kars), Kübra Par (Erzincan), Latif Şimşek (Kırşehir), Yavuz Donat (Niğde), Necati Doğru (Ağrı), Cafer Mahiroğlu/Halk TV (Sivas), Karahasanoğlu/Akit (Erzincan), Serdar Karagöz/AA (Sakarya), İbrahim Eren (İstanbul). Karadenizli gazeteciler iktidar–muhalefet ekseninde de dağınık (Saymaz, Hacır, Sevinç, Mert muhalif; Kartoğlu, Cevizoğlu, Dede, Sobacı iktidar yakını). Sonuç: medya içerik üreticilerinde "görünür azınlık", hegemonya değil.
+**Değerlendirme:** Medya **sahipliğinde** (Doğan, Ciner, Kalyon/Turkuvaz, Albayrak/Yeni Şafak, Yeşildağ/Türkmedya) ve **kamu yayıncılığı yönetiminde** (TRT GM Sobacı, RTÜK Bşk. Ebubekir Şahin) Karadeniz ağırlığı belirgin. **Köşe yazarlığı ve ekran yüzlerinde** ikinci taramada ~20 isim teyit edildi; buna karşın kontrol edilen ~70 ismin çoğunluğu Karadeniz dışı: Altaylı (Van), Ahmet Hakan (Yozgat), Selvi (Sivas), Alçı (Kayseri), Kaplan (Çankırı), Özdil (Aksaray), Özkök (İzmir), Uğur/Can Dündar, Portakal (Aydın), Küçükkaya (Kütahya), Acun (Erzurum), Ergün Diler (İzmir), Ağırel (Adana), Soykan (Kırklareli), Terkoğlu (Urfa), Pehlivan (Erzincan), Şardan (Ankara), Toker (Diyarbakır), Ahmet Şık (Adana), Aysever (İstanbul), Gültekin (Ardahan), Hande Fırat (Ankara), Zeyrek/Yarkadaş (Kars), Kübra Par (Erzincan), Latif Şimşek (Kırşehir), Yavuz Donat (Niğde), Necati Doğru (Ağrı), Cafer Mahiroğlu/Halk TV (Sivas), Karahasanoğlu/Akit (Erzincan), Serdar Karagöz/AA (Sakarya), İbrahim Eren (İstanbul). Karadenizli gazeteciler iktidar–muhalefet ekseninde de dağınık (Saymaz, Hacır, Sevinç, Mert muhalif; Kartoğlu, Cevizoğlu, Dede, Sobacı iktidar yakını). Sonuç: medya içerik üreticilerinde "görünür azınlık", hegemonya değil.
 
 ### 3.5 Din ve cemaatler
 
@@ -304,7 +311,62 @@ AKP üst yönetimi: Milliyet "Yönetimde Karadenizli ağırlığı" haberi Erdo�
 
 **Tarihsel örüntü:** 1950–60'larda Karaköy–Tophane–Kasımpaşa'ya göçen Of, Çaykara, Sürmene ve Rize gençleri liman işçiliği ile kabadayılığı birlikte yürüttü; 1960'lar İstanbul'unda "mafya" denince ilk akla gelen grup "Oflular"dı ([Çay Haber](https://www.cayhaber.net/eski-istanbulun-rizeli-kabadayilari), [İzdiham](https://www.izdiham.com/gecmisten-gunumuze-istanbul-kabadayilari/)). Adliye muhabirleri 1980'lerden bugüne İstanbul yeraltını "üç Karadenizli aile" (Cevahirler–Çaykara, Hacısüleymanoğulları–Of, Sarallar–Of) üzerinden tarif eder ([Serbestiyet soruşturması](https://serbestiyet.com/haberler/sorusturma-istanbulda-yeralti-dunyasini-karadenizli-uc-aile-mi-yonetiyor-141577/)). Kılıç–Çakıcı–Oflu İsmail hattı evlilik akrabalığıyla birbirine bağlıdır. Batı Karadeniz, Tokat/Amasya/Çorum, Ordu, Artvin ve Bayburt'tan ulusal ölçekte tanınan hiçbir suç figürü bulunamadı; örüntü Of–Çaykara–Sürmene–Arsin–Maçka ve Rize–Çayeli ile sınırlıdır. Kabadayılık–Karadeniz göçü ilişkisini inceleyen hakemli çalışma bulunamadı; literatür gazetecilik derlemelerinden ibaret.
 
+**Ek:** Sarallar'ın firari yöneticisi olarak tutuklanan Ali Uğur Uzun'un (Truva Turizm) Dündar Kılıç'ın oğlu olduğu basında yer alıyor ([Gazete Birlik](https://www.gazetebirlik.com/magazin/ali-ugur-uzun-hayati-kimdir-sarallarla-baglantisi-ne-nereli-ne-is-yapiyor-mafya-mi/969383); O) — Sürmene–Of hattının kuşaklar arası sürekliliğine bir örnek daha.
+
 **Siyasetle kesişme:** Peker (Rize) ile Soylu (Of) arasındaki 2016–2021 ilişkisi ve 2021 kopuşu, Kaplan (Torul) soruşturmasında Soylu iddiaları, Çakıcı (Arsin)–Bahçeli ilişkisi. Hemşehriliğin bu bağlarda rol oynadığı yalnızca iddia düzeyindedir; belgelenmiş değildir. Ancak iktidarın çekirdek kadrosuyla yeraltı figürlerinin aynı dar coğrafyadan (Of–Çaykara–Sürmene / Rize) gelmesi, raporun "kişisel ağ + göç demografisi" açıklamasını güçlendirir: aynı köylerden aynı mahallelere göçen kuşaklar, farklı sektörlerde (inşaat, siyaset, din, suç) paralel yükselmiştir.
+
+---
+
+### 3.8 Vaka çalışması: "Cevheri Güven Haritası"ndaki isimlerin köken analizi
+
+**Kaynak ve uyarı:** Kullanıcı tarafından sağlanan 31 sayfalık *Cevheri Güven Haritası* (25.08.2024–06.09.2026 arası 84 YouTube içeriğinin transkript analizi; 7 genel şema + 24 olay dosyası). Belgenin kendisi her ilişkinin **yalnızca Güven'in iddiası** olduğunu vurgular; hiçbiri bağımsız doğrulanmış olgu değildir ve adı geçenler hakkında yargı kararı yoktur. Bu bölüm iddiaların doğruluğunu değerlendirmez; yalnızca **haritada adı geçen kişilerin bölgesel kökenini** sınar. Bir ismin burada geçmesi, o kişi hakkında herhangi bir bulgu anlamına gelmez.
+
+**Yöntem:** Şemalarda adı geçen ~150 kişiden kamuya açık biyografisi bulunan 77'si kontrol edildi. Alt düzey örgüt üyeleri ve biyografisi olmayanlar "kaynak yok" olarak bırakıldı.
+
+#### 3.8.1 Karadeniz kökenli çıkanlar
+
+| Kişi | Haritadaki konumu (Güven'in anlatısında) | Doğum | Memleket | Kaynak | Güven |
+|---|---|---|---|---|---|
+| Erdoğan ailesi (Tayyip, Bilal, Burak) | Şema 0–1, 5: merkez | İstanbul | Rize/Güneysu | önceki bölümler | Y |
+| Berat Albayrak, Bayraktar ailesi | Şema 5: "aile bloku" | İstanbul | Trabzon (Dernekpazarı, Sürmene) | önceki bölümler | Y |
+| **Ketenci ailesi** (Osman ve Ahmet Ketenci) | E4: "dünür ailesi"; Fenerbahçe yönetimi | İstanbul | **Rize** (Kasımpaşa'ya yerleşmiş; Burak Erdoğan'ın kayınpederi Osman Ketenci Rize doğumlu) | [Haber61](https://www.haber61.net/gundem/ahmet-ketenci-kimdir-nereli-kac-yasinda-serveti-ve-ne-is-yapiyor-iste-biyografisi/608648), [Bigpara](https://bigpara.hurriyet.com.tr/haberler/genel-haberler/kayinpederi-de-burak-erdogan-la-ortak_ID560326/) | Y |
+| Ali Erdoğan | E4: Erdoğan'ın yeğeni | — | Rize (aile) | dolaylı | O |
+| Mehmet Cengiz | Şema 1, E13: "emanetçi" | Rize/Kalkandere | Rize | önceki bölümler | Y |
+| Kalyon ailesi | Şema 1: "emanetçi"; havuz medyası | Trabzon/Çaykara | Trabzon | önceki bölümler | Y |
+| **Talip Öztürk** | Şema 1, E11: BMC hissedarı ("Rizeli köylü") | **Rize/Güneysu** | Rize/Güneysu (Erdoğan'ın ilçesi) | [Habertürk](https://www.haberturk.com/talip-ozturk-kimdir-nerelidir-talip-ozturk-ne-is-yapiyor-2543713), [Malumatfuruş](https://www.malumatfurus.org/talip-ozturk/) | Y |
+| **Oktay Saral** | Şema 2: "devlet istihbaratını aileye taşır" | **Trabzon/Of** | Trabzon/Of (Saral ailesi Of'un köklü, belediye başkanı çıkarmış ailesi) | [Hürriyet](https://www.hurriyet.com.tr/bilgi/galeri/oktay-saral-kimdir-kac-yasinda-ve-nereli-cumhurbaskani-basdanismani-oktay-saralin-biyografisi-42776212) | Y |
+| **Sarallar** (Saral ailesi) | Şema 2–3, 7, E12 | — | Trabzon/Of | Bölüm 3.7 | Y |
+| **Yeşildağ kardeşler** (Hasan, Ali, Zeki) | E13: Dağcı'nın "sırtını dayadığı" aile | — | **Rize** | [Cumhuriyet](https://www.cumhuriyet.com.tr/turkiye/ali-yesildag-kimdir-nereli-kac-yasinda-ali-yesildag-kimin-kardesidir-2078654) | Y |
+| Süleyman Soylu | Şema 2, 4: "baronları büyüttü" | İstanbul | Trabzon/Of | önceki bölümler | Y |
+| Sedat Peker | Şema 2, E2 | Adapazarı | Rize | Bölüm 3.7 | Y |
+| Alaattin Çakıcı | Şema 2, E3 | Trabzon/Arsin | Trabzon | Bölüm 3.7 | Y |
+| Sedat Şahin (Şahinler) | Şema 2, 7, E9 | Samsun/Bafra | Samsun | Bölüm 3.7 | Y |
+| Kürşat Yılmaz | Şema 2: "ülkücü eski kuşak" | Giresun/Yağlıdere | Giresun | Bölüm 3.7 | Y |
+| Ayhan Bora Kaplan | Şema 2 | Erzurum (?) | Gümüşhane/Torul | Bölüm 3.7 | O |
+| Ali Uğur Uzun | Şema 2–3, 7, E12: Sarallar | — | Trabzon (Dündar Kılıç'ın oğlu olduğu bildiriliyor) | [Gazete Birlik](https://www.gazetebirlik.com/magazin/ali-ugur-uzun-hayati-kimdir-sarallarla-baglantisi-ne-nereli-ne-is-yapiyor-mafya-mi/969383) | O |
+| Cübbeli Ahmet | Şema 2, 7 | İstanbul | Giresun/Görele | önceki bölümler | O |
+| **Hüseyin Başaran** (Başaran Holding, MC Havacılık) | Şema 6: Ahbap dosyası | **Trabzon** | Trabzon (fındık ticareti ailesi) | [Cumhuriyet](https://www.cumhuriyet.com.tr/yasam/huseyin-basaran-kimdir-is-insani-huseyin-basaran-kac-yasinda-nereli-2520288) | Y |
+| **Sabahattin Önkibar** | Şema 7, E22: mahkeme şahitliği | **Rize/Ardeşen** | Rize | [Biyografya](https://www.biyografya.com/tr/biographies/sabahattin-onkibar-757d39b5) | Y |
+| **Uğur Vergili** (Başkent İnşaat) | E9 | **Samsun/Vezirköprü** | Samsun | [Samsun Kent Haber](https://www.samsunkenthaber.com.tr/ugur-vergili-nereli-baskent-insaat-sahibi-ugur-vergili-kimdir/14504/) | Y |
+| Cem Küçük | Şema 7, E19 | Zonguldak | Giresun/Eynesil | önceki bölümler | Y |
+| Turgay Ciner | Şema 1: "çökme hedefi" | Artvin/Hopa | Artvin | önceki bölümler | Y |
+| Müsavat Dervişoğlu | E15 | Ankara | Ordu/Fatsa | önceki bölümler | Y |
+| Fahrettin Altun | Şema 5: "tasfiye edilen" | Stuttgart | Artvin/Şavşat | önceki bölümler | Y |
+| Ahmet Ahlatcı (Ahlatcı Holding) | Şema 5: "satışa zorlanan" taraf | Çorum | Çorum | [Hürriyet](https://www.hurriyet.com.tr/bilgi/galeri/ahmet-ahlatci-kimdir-nereli-kac-yasinda-ahlatci-holding-yonetim-kurulu-baskani-ahmet-ahlatci-hakkinda-bilgiler-43105858) | Y |
+
+#### 3.8.2 Karadeniz kökenli OLMAYANLAR (kontrol edildi)
+
+Devlet Bahçeli (Osmaniye), Mehmet Ağar (Ardahan/Elazığ), Hakan Fidan (Ankara; Yozgat/Van), Fuat Oktay (Yozgat), Akın Gürlek (Nevşehir), Efkan Ala (Erzurum), Ali Yerlikaya (Konya), Burhanettin Duran (Sakarya), Yaşar Büyükanıt (İstanbul), Maksut Serim (Kocaeli), Zekeriya Kaya (Batman), Ümit Önal (İstanbul), Selami Yıldız (İstanbul), İsmail Demir (Elazığ), Haluk Görgün (İstanbul), Arif Çetin (Ankara), Korkut Eken (Ankara), Veli Küçük (Bilecik), Mahmut Yıldırım "Yeşil" (Bingöl), Ali Türkşen (Bursa), Sedat Bucak (Urfa), Abdullah Çatlı (Nevşehir), İzzet Ulvi Yönter (Afyon), Semih Yalçın (Sivas), Celal Adan (Ağrı), Necmi Yıldırım (Ankara), Selahattin Yılmaz (Hatay/İskenderun), Kemal Çağlar Temel (Antalya), Barış Boyun (Malatya), Daltonlar–Gökdemir (Kars doğ., Batman), Casperlar–Atız (Mardin), Baygaralar (Adana, Siirt kökenli), Siirtli Naci (Siirt), Baybaşinler (Lice), Serdar Öktem (Malatya), Veysel Şahin (Sivas), Halil Falyalı (KKTC), Cemil Önal (Diyarbakır), Fedlan Kılıçaslan (kaynak belirsiz), Mübariz Mansimov (Azerbaycan), Tahir Sarıkaya (Ankara/Şereflikoçhisar), Rasim Ozan Kütahyalı (İzmir/Kütahya), Mehmet Akif Ersoy (İstanbul), Mahmut Övür (Kars), Melih Gökçek (Urfa), Fuat Tosyalı (Hatay), Demirören (Bursa), Ethem Sancak (Siirt), Halil İbrahim Bacacı (İstanbul), Ahmet Özel (Antalya), Mustafa Doğan İnal (Gaziantep), Erden Timur (Mersin/Maraş), Yusuf Akkaş (Bursa), Cahit Yüksel/Reyap (Tunceli), Fettah Tamince (Van), Mehmet Müezzinoğlu (Gümülcine), Can Holding/Kemal Can (kaynak yok), Haluk Levent (Adana), Oğuzhan Uğur (Ankara), Ece Güner (Ankara), Tuncay Özkan (Ankara/Erzincan), Enver Ören (Denizli), Gürbüz Çapan (Kars), Gürsel Tekin (Ardahan), Engin Polat (İstanbul; Malatya/Erzurum), Dilan Polat (İstanbul; Adana/Batman), Acun Ilıcalı (Erzurum), Serhat Akın (Erzincan), Doğu Perinçek (Gaziantep), Alihan Kuriş (İstanbul), Kılıçdaroğlu (Tunceli), Rıza Zarrab (İran), Yasin el-Kadı (Suudi), Mustafa Demir (Diyarbakır), Ümit Özdağ (Gaziantep), Sinan Ateş (Bursa).
+
+**Kaynak bulunamayanlar:** Mustafa Yiğit Zeren, Hakan Çevikoğlu, Kürşat Köle, Ahmet Ergün, Hasan Dağcı, Günay Önder, Hakan Cengiz, Erhan Karaal, Okan Bato (İzmir bağlantılı), Ümit Günay, Halil İbrahim Kocacık, Tevfik Ağansoy, Murathan, "Kutlu", SEKO, Ercan Ekşi, Orhan Keleş, Musa Çaça, Ezginler, Serkan/Koray Gürbüz, İsmail Terlemez.
+
+#### 3.8.3 Değerlendirme
+
+- **Sayısal tablo:** Kamuya açık biyografisi bulunan 77 kişiden **26'sı Karadeniz kökenli (%34)**, 51'i değil. Kütük taban oranı %14–15 alındığında haritada Karadeniz temsili yaklaşık **2 kat**; ancak bu, raporun kabine bulgusuyla (%28–33) aynı büyüklüktedir ve haritanın merkezine Erdoğan ailesinin konması, çevresindeki akraba ve hemşehri ağını (Ketenci, Talip Öztürk, Yeşildağ, Saral) mekanik olarak içeri çekmektedir.
+- **Kümelenme haritanın merkezindedir, çeperinde değildir.** Karadenizli isimler "aile bloku" (Erdoğan, Albayrak, Bayraktar, Ketenci), "emanetçi" olarak anılan iş insanları (Cengiz, Kalyon, Talip Öztürk–Güneysu, Yeşildağ–Rize) ve eski kuşak İstanbul yeraltı ailelerinde (Sarallar, Çakıcı, Peker, Şahin) yoğunlaşıyor. Buna karşılık haritanın "yargı–emniyet" (Gürlek, Yıldız, Bato), "derin devlet" (Ağar, Eken, Küçük, Yeşil, Çetin), "MHP" (Bahçeli, Yönter, Yalçın, Adan, Yıldırım) ve "yeni nesil çeteler" (Daltonlar, Casperlar, Baygaralar, Boyun, Naci, Baybaşin) kollarında Karadenizli **neredeyse hiç yok**; bu kollar Güneydoğu/Doğu Anadolu ve İç Anadolu kökenli.
+- **Güneysu ve Of noktasal yoğunlaşması:** Haritada Erdoğan'ın kendi ilçesi Güneysu'dan bir BMC hissedarı (Öztürk), Of'tan bir Cumhurbaşkanı Başdanışmanı (Saral), aynı ilçenin en büyük suç ailesi (Sarallar) ve İçişleri Bakanı (Soylu) bir arada. Güven'in "Oktay Saral–Sarallar" bağlantı iması, iki tarafın da Of'lu olmasına dayanıyor; **akrabalık bağı bu çalışmada doğrulanamadı** ve Saral, Of'ta yaygın bir soyadıdır.
+- **Hipoteze katkı:** Bu vaka, raporun ana bulgusunu bir kez daha teyit ediyor: "Karadenizliler Türkiye'yi yönetiyor" değil, **"Erdoğan'ın kişisel ağı Doğu Karadeniz'in birkaç ilçesinden besleniyor; devletin kurumsal aygıtı ve yeni kuşak suç ekonomisi ise başka coğrafyalardan"**. Güven'in anlatısında bile Karadenizlilik bir "bölge lobisi" olarak değil, aile–hemşehri–mahalle (Kasımpaşa) ağı olarak görünüyor.
+- **Sınırlılık:** Harita bir yayıncının iddia evrenidir; kimlerin haritaya girdiğini Güven'in ilgi alanı belirler. Oran, Türkiye elitine değil, Güven'in anlattığı ekosisteme aittir.
 
 ---
 
@@ -393,6 +455,7 @@ AKP üst yönetimi: Milliyet "Yönetimde Karadenizli ağırlığı" haberi Erdo�
 | Köşe yazarları/ekran | **Görünür azınlık** | Yüksek | ~20 teyitli isim; ~70 kontrol edilenin çoğu Karadeniz dışı |
 | Organize suç (İstanbul) | **Güçlü evet** | Yüksek | Of–Çaykara–Sürmene–Arsin + Rize: Cevahirler, Hacısüleymanoğulları, Sarallar, Kılıç, Çakıcı, Peker, Camgözler |
 | Büyük kulüp başkanlıkları | Evet (2019–24) | Yüksek | GS (Giresun), BJK (Trabzon); FB hayır |
+| Cevheri Güven haritası (77 isim) | Merkezde evet, çeperde hayır | Orta | %34 Karadenizli; aile/emanetçi/eski kuşak mafya evet; yargı, derin devlet, MHP, yeni nesil çeteler hayır |
 | TÜSİAD/TOBB/büyük burjuvazi | **Hayır** | Yüksek | — |
 | MÜSİAD | Evet (2017–) | Yüksek | — |
 | Yüksek yargı | **Hayır** | Yüksek | AYM, Yargıtay, HSK'da yok; Danıştay istisna |
