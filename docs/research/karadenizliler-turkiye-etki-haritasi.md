@@ -149,6 +149,7 @@ AKP üst yönetimi: Milliyet "Yönetimde Karadenizli ağırlığı" haberi Erdo�
 **Diyanet:** 2003–2026 arasındaki 23 yılın ~16'sında başkan Karadeniz kökenli (yalnızca Görmez, Gaziantep, istisna). Bu, raporun en güçlü kurumsal bulgularından biri.
 
 **Karşı-bulgu (Karadeniz ağırlığı YOK):**
+
 - Anayasa Mahkemesi başkanları: Kılıç (Kırşehir), Arslan (Yozgat), Özkaya (Mersin).
 - Yargıtay başkanları: Alkan (Ankara), Cirit (Balıkesir), Akarca (Siirt), Kerkez (Hatay).
 - Genelkurmay: Özkök (Manisa), Büyükanıt (İstanbul), Başbuğ (Afyon), Koşaner (İzmir), Özel (Ankara), Akar (Kayseri), Gürak (Mardin). Tek istisna Güler (Bayburt).
