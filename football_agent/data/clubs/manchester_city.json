@@ -82,7 +82,14 @@
     }
   },
   "summer_2026_window": {
-    "arrivals": [],
+    "arrivals": [
+      {
+        "name": "Iliman Ndiaye",
+        "from": "Everton",
+        "fee_eur_m": 75,
+        "position": "RW"
+      }
+    ],
     "departures": [
       {
         "name": "John Stones",
@@ -527,6 +534,27 @@
         "assists": null
       },
       "injury_flag": null
+    },
+    {
+      "name": "Iliman Ndiaye",
+      "position": "RW",
+      "secondary_positions": [
+        "AM",
+        "LW"
+      ],
+      "age": 25,
+      "nationality": "SEN",
+      "contract_until": null,
+      "shirt_no": null,
+      "role": "rotation",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
     }
   ],
   "strengths": [
@@ -611,11 +639,12 @@
     "https://www.premierleague.com/en/news/4679012/manager-line-up-complete-for-202627-season",
     "https://www.espn.com/soccer/story/_/id/49145825/manchester-city-close-naming-enzo-maresca-pep-guardiola-successor-sources",
     "https://sports.yahoo.com/articles/manchester-city-2026-27-premier-090500155.html",
-    "https://footballtoday.com/2026/08/14/manchester-city-2026-27-premier-league-preview-can-maresca-deliver-the-title/"
+    "https://footballtoday.com/2026/08/14/manchester-city-2026-27-premier-league-preview-can-maresca-deliver-the-title/",
+    "https://www.skysports.com/football/news/11095/13579541/iliman-ndiaye-transfer-news-man-city-agree-lb65m-deal-for-everton-winger-as-tottenham-turn-attention-to-mykhailo-mudryk"
   ],
   "as_of": "2026-09-02",
   "data_quality": {
     "confidence": "medium",
-    "notes": "Verified: Maresca appointed 29 June 2026 on a three-year contract after Guardiola's departure; 2nd place 78 pts, 23-9-6, +42 GD; UCL draw; Stones and Bernardo Silva exits (destinations unknown). NOT verified: GF/GA (only GD known), UCL 2025/26 exit round, FA Cup/Carabao results, top scorer, and all summer-2026 ARRIVALS (list left empty, not asserted as zero). Maresca's formation/style is inferred from his Chelsea tenure, not from City matches. Squad is the 2025/26 roster minus verified exits. Squad = last known first-team roster adjusted ONLY for summer-2026 moves that were source-verified; further unreported exits/loans may be missing. Per-player 2025/26 stats left null unless a source gave the number. Ages computed from public birthdates as of 2026-09-02. Research constraint: web fetch was blocked on all data sites (transfermarkt, fbref, uefa, wikipedia, club sites) and only search snippets were available."
+    "notes": "Verified: Maresca appointed 29 June 2026 on a three-year contract after Guardiola's departure; 2nd place 78 pts, 23-9-6, +42 GD; UCL draw; Stones and Bernardo Silva exits (destinations unknown). NOT verified: GF/GA (only GD known), UCL 2025/26 exit round, FA Cup/Carabao results, top scorer, and all summer-2026 ARRIVALS (list left empty, not asserted as zero). Maresca's formation/style is inferred from his Chelsea tenure, not from City matches. Squad is the 2025/26 roster minus verified exits. Squad = last known first-team roster adjusted ONLY for summer-2026 moves that were source-verified; further unreported exits/loans may be missing. Per-player 2025/26 stats left null unless a source gave the number. Ages computed from public birthdates as of 2026-09-02. Research constraint: web fetch was blocked on all data sites (transfermarkt, fbref, uefa, wikipedia, club sites) and only search snippets were available. CORRECTED 2026-09-09: Iliman Ndiaye's £65m deadline-day arrival from Everton (Sky Sports) added to squad/arrivals; the rest of the summer window (per the earlier note) remains otherwise unverified."
   }
 }

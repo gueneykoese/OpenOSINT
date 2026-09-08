@@ -146,6 +146,12 @@
         "from": "Kasımpaşa (loan return)",
         "fee_eur_m": 0,
         "position": "CB"
+      },
+      {
+        "name": "N'Golo Kanté",
+        "from": "Al-Ittihad",
+        "fee_eur_m": 0,
+        "position": "DM"
       }
     ],
     "departures": [
@@ -597,6 +603,26 @@
         "assists": null
       },
       "injury_flag": null
+    },
+    {
+      "name": "N'Golo Kanté",
+      "position": "DM",
+      "secondary_positions": [
+        "CM"
+      ],
+      "age": 34,
+      "nationality": "FRA",
+      "contract_until": 2028,
+      "shirt_no": null,
+      "role": "starter",
+      "stats_2025_26": {
+        "apps": null,
+        "starts": null,
+        "minutes": null,
+        "goals": null,
+        "assists": null
+      },
+      "injury_flag": null
     }
   ],
   "strengths": [
@@ -631,9 +657,9 @@
     },
     {
       "position": "DM",
-      "priority": "medium",
+      "priority": "low",
       "profile": "ball-winning, press-resistant No.6, under 27",
-      "reason": "Fred (33) and Semedo were reported for sale; Amrabat is a loan returnee whose long-term future is unclear.",
+      "reason": "Fred (33) and Semedo were reported for sale; Amrabat is a loan returnee whose long-term future is unclear. UPDATED 2026-09-09: N'Golo Kanté signed from Al-Ittihad (2.5-year deal to Jun 2028) directly addresses this need, though at 34 he is a short-to-medium-term solution, not a long-term one.",
       "budget_eur_m": null,
       "wage_ceiling_eur_m_net": null
     },
@@ -698,11 +724,12 @@
     "https://www.aa.com.tr/en/sports/aziz-yildirim-elected-fenerbahce-president-in-extraordinary-vote/3959586",
     "https://www.hurriyetdailynews.com/amp/aziz-yildirim-elected-fenerbahce-president-in-extraordinary-vote-223011",
     "https://www.dailysabah.com/sports/football/saran-calls-extraordinary-congress-as-fenerbahce-face-defining-vote",
-    "https://www.turkishminute.com/2026/06/06/fenerbahce-to-elect-new-president-as-yildirim-and-safi-promise-title-major-spending/"
+    "https://www.turkishminute.com/2026/06/06/fenerbahce-to-elect-new-president-as-yildirim-and-safi-promise-title-major-spending/",
+    "https://www.espn.com/soccer/story/_/id/47824501/ngolo-kante-joins-fenerbahce-al-ittihad"
   ],
   "as_of": "2026-09-02",
   "data_quality": {
     "confidence": "medium",
-    "notes": "Verified via search snippets (WebFetch was egress-blocked on every domain): coach Kartal (June 2026, 1-yr), Tedesco sacking 27 Apr 2026, Yıldırım election 7 Jun 2026, 2nd place 2025/26, Talisca 19 league / 27 total goals, UEL exit v Nottingham Forest 2-4 agg, Türkiye Kupası QF, Super Cup win, Lyon play-off scores, UCL opponents incl. home/away split (single source: OneFootball, echoed by NationalTurk). UNVERIFIED / CONFLICTING: final points — one snippet gave Galatasaray 74 / Fenerbahçe 67 (sums to 31 games, so a mid-season snapshot), a matchday-34 article gave Galatasaray 77 / Fenerbahçe 74 / Trabzonspor 69; W/D/L and GF/GA therefore left null. Transfer fees and selling clubs for Greenwood, Aké, Muriqi, Lukaku, Ortakaya not verified (left null). Departures: only Talisca (contract expiry) and Diego Carlos (loan to Italy, club unknown) confirmed; Oosterwolde, Archie Brown, Semedo, Fred were reported FOR SALE in late July 2026 — whether they actually left is NOT verified, so they remain listed in the squad. En-Nesyri's 2026/27 status unverified. Squad ages were computed from publicly known birth years and not re-checked this session; shirt numbers, contract dates and 2025/26 per-player stats were not obtainable (all null). Top assister unknown. Position benchmarks unavailable (null). | Reconciled 2026-09-02 with player-pool research: Oosterwolde removed (on loan at AS Roma with conditional obligation, see players/jayden_oosterwolde.json)."
+    "notes": "Verified via search snippets (WebFetch was egress-blocked on every domain): coach Kartal (June 2026, 1-yr), Tedesco sacking 27 Apr 2026, Yıldırım election 7 Jun 2026, 2nd place 2025/26, Talisca 19 league / 27 total goals, UEL exit v Nottingham Forest 2-4 agg, Türkiye Kupası QF, Super Cup win, Lyon play-off scores, UCL opponents incl. home/away split (single source: OneFootball, echoed by NationalTurk). UNVERIFIED / CONFLICTING: final points — one snippet gave Galatasaray 74 / Fenerbahçe 67 (sums to 31 games, so a mid-season snapshot), a matchday-34 article gave Galatasaray 77 / Fenerbahçe 74 / Trabzonspor 69; W/D/L and GF/GA therefore left null. Transfer fees and selling clubs for Greenwood, Aké, Muriqi, Lukaku, Ortakaya not verified (left null). Departures: only Talisca (contract expiry) and Diego Carlos (loan to Italy, club unknown) confirmed; Oosterwolde, Archie Brown, Semedo, Fred were reported FOR SALE in late July 2026 — whether they actually left is NOT verified, so they remain listed in the squad. En-Nesyri's 2026/27 status unverified. Squad ages were computed from publicly known birth years and not re-checked this session; shirt numbers, contract dates and 2025/26 per-player stats were not obtainable (all null). Top assister unknown. Position benchmarks unavailable (null). | Reconciled 2026-09-02 with player-pool research: Oosterwolde removed (on loan at AS Roma with conditional obligation, see players/jayden_oosterwolde.json). CORRECTED 2026-09-09: N'Golo Kanté's move from Al-Ittihad (free/undisclosed, contract to 30 Jun 2028, official club confirmation, delayed by an Al-Ittihad FIFA registration error before being resolved) added to squad/arrivals; DM need downgraded to low priority as a result."
   }
 }

@@ -157,6 +157,12 @@
         "to": "Villarreal (2 Aug 2026)",
         "fee_eur_m": 1.5,
         "position": "GK"
+      },
+      {
+        "name": "El Chadaille Bitshiabu",
+        "to": "Galatasaray (loan, €2m fee, €28m purchase option)",
+        "fee_eur_m": 2,
+        "position": "CB"
       }
     ],
     "net_spend_eur_m": null
@@ -263,26 +269,6 @@
       "contract_until": null,
       "shirt_no": 22,
       "role": "starter",
-      "stats_2025_26": {
-        "apps": null,
-        "starts": null,
-        "minutes": null,
-        "goals": null,
-        "assists": null
-      },
-      "injury_flag": null
-    },
-    {
-      "name": "El Chadaille Bitshiabu",
-      "position": "CB",
-      "secondary_positions": [
-        "LB"
-      ],
-      "age": null,
-      "nationality": "FRA",
-      "contract_until": null,
-      "shirt_no": 5,
-      "role": "rotation",
       "stats_2025_26": {
         "apps": null,
         "starts": null,
@@ -707,11 +693,12 @@
     "https://www.sofascore.com/es/news/villarreal-asegura-al-portero-veterano-peter-gulacsi-desde-el-rb-leipzig",
     "https://en.wikipedia.org/wiki/Brajan_Gruda",
     "https://en.wikipedia.org/wiki/Conrad_Harder",
-    "https://en.wikipedia.org/wiki/Assan_Ou%C3%A9draogo"
+    "https://en.wikipedia.org/wiki/Assan_Ou%C3%A9draogo",
+    "https://turkish-football.com/galatasaray-complete-loan-move-for-towering-rb-leipzig-defender-el-chadaille-bitshiabu/"
   ],
   "as_of": "2026-09-03",
   "data_quality": {
     "confidence": "medium",
-    "notes": "Updated 2026-09-03 from search snippets. VERIFIED: 3rd place with 65 pts from 34 games (Fussballdaten) - W/D/L and goals not retrieved (a 19-5-7/62-pt snapshot after 31 games exists but the final split could not be confirmed); coach Demichelis (June 2026, to 2028) using a 4-3-3 in the 3-0 win v Gladbach on matchday 1; UCL opponents with venues; DFB-Pokal QF; Baumgartner 13/17 goals (one snippet said 12 - 13 retained from the earlier verified figure); Diomandé EUR 125m (goal.com) vs 'up to 140m' (earlier source). CORRECTIONS: Openda did NOT return - Sportschau lists him as sold to Juventus after the loan; Gulácsi joined Villarreal (EUR 1.5m, 2 Aug 2026); Schlager to Nottingham Forest. Arrivals per Sportschau/Fussballtransfers/90min/RBL site (Reitz, Nkunku loan, El Aynaoui loan, Nyland free, loan returns). SQUAD (24) = matchday-1 XI (bundesliga.com/sport.de) plus players confirmed on 2026/27 squad pages/kicker (Bitshiabu 5, Lukeba 23, Raum 22, Seiwald 13, Ouédraogo 20, Bakayoko 9, Harder 11, Rômulo 40, Gomis) and the verified arrivals; Zingerle, Klostermann and Henrichs omitted because the only snippet naming them also listed the departed Gulácsi (stale). Roles: XI = starter, others rotation/backup; Baumgartner downgraded to rotation because he did not start matchday 1. Gruda's contractual status (loan/permanent) unverified. Ages only where sourced (Estève 24, Geertruida 26, Baumgartner 27, Elmas 26, Gomis 20). Per-player 2025/26 stats only Baumgartner (13 goals) and Gomis (21 apps, 1 goal). Reitz/Openda/Schlager fees, top assister, net spend unverified."
+    "notes": "Updated 2026-09-03 from search snippets. VERIFIED: 3rd place with 65 pts from 34 games (Fussballdaten) - W/D/L and goals not retrieved (a 19-5-7/62-pt snapshot after 31 games exists but the final split could not be confirmed); coach Demichelis (June 2026, to 2028) using a 4-3-3 in the 3-0 win v Gladbach on matchday 1; UCL opponents with venues; DFB-Pokal QF; Baumgartner 13/17 goals (one snippet said 12 - 13 retained from the earlier verified figure); Diomandé EUR 125m (goal.com) vs 'up to 140m' (earlier source). CORRECTIONS: Openda did NOT return - Sportschau lists him as sold to Juventus after the loan; Gulácsi joined Villarreal (EUR 1.5m, 2 Aug 2026); Schlager to Nottingham Forest. Arrivals per Sportschau/Fussballtransfers/90min/RBL site (Reitz, Nkunku loan, El Aynaoui loan, Nyland free, loan returns). SQUAD (24) = matchday-1 XI (bundesliga.com/sport.de) plus players confirmed on 2026/27 squad pages/kicker (Bitshiabu 5, Lukeba 23, Raum 22, Seiwald 13, Ouédraogo 20, Bakayoko 9, Harder 11, Rômulo 40, Gomis) and the verified arrivals; Zingerle, Klostermann and Henrichs omitted because the only snippet naming them also listed the departed Gulácsi (stale). Roles: XI = starter, others rotation/backup; Baumgartner downgraded to rotation because he did not start matchday 1. Gruda's contractual status (loan/permanent) unverified. Ages only where sourced (Estève 24, Geertruida 26, Baumgartner 27, Elmas 26, Gomis 20). Per-player 2025/26 stats only Baumgartner (13 goals) and Gomis (21 apps, 1 goal). Reitz/Openda/Schlager fees, top assister, net spend unverified. CORRECTED 2026-09-09: El Chadaille Bitshiabu left on loan to Galatasaray (€2m loan fee, €28m purchase option, to end of 2026/27) — removed from squad, added to departures."
   }
 }

@@ -1,85 +1,85 @@
 {
-  "player_id": "iliman_ndiaye",
-  "name": "Iliman Ndiaye",
-  "age": 26,
-  "date_of_birth": "2000-03-06",
-  "nationality": [
-    "SEN",
-    "FRA"
+ "player_id": "iliman_ndiaye",
+ "name": "Iliman Ndiaye",
+ "age": 26,
+ "date_of_birth": "2000-03-06",
+ "nationality": [
+  "SEN",
+  "FRA"
+ ],
+ "position": "LW",
+ "secondary_positions": [
+  "AM",
+  "ST",
+  "RW"
+ ],
+ "preferred_foot": "right",
+ "height_cm": null,
+ "current_club": "Manchester City",
+ "current_club_league": "Premier League",
+ "contract_until": 2029,
+ "market_value_eur_m": null,
+ "estimated_fee_eur_m": 75,
+ "wage_eur_m_net": null,
+ "release_clause_eur_m": null,
+ "agent_status": "represented",
+ "availability": "open to move",
+ "stats_2025_26": {
+  "competition": "all competitions",
+  "apps": 25,
+  "starts": null,
+  "minutes": null,
+  "goals": 6,
+  "assists": 3,
+  "xg": null,
+  "xa": null,
+  "shots_p90": null,
+  "key_passes_p90": null,
+  "dribbles_p90": null,
+  "tackles_interceptions_p90": null,
+  "pass_completion_pct": null,
+  "aerials_won_pct": null,
+  "progressive_carries_p90": null
+ },
+ "style_profile": {
+  "tags": [
+   "dribbler",
+   "cuts inside from the left",
+   "goal threat",
+   "Senegal international",
+   "AFCON participant"
   ],
-  "position": "LW",
-  "secondary_positions": [
-    "AM",
-    "ST",
-    "RW"
+  "best_system": [
+   "4-2-3-1 counter"
   ],
-  "preferred_foot": "right",
-  "height_cm": null,
-  "current_club": "Everton",
-  "current_club_league": "Premier League",
-  "contract_until": 2029,
-  "market_value_eur_m": null,
-  "estimated_fee_eur_m": 50,
-  "wage_eur_m_net": null,
-  "release_clause_eur_m": null,
-  "agent_status": "represented",
-  "availability": "open to move",
-  "stats_2025_26": {
-    "competition": "all competitions",
-    "apps": 25,
-    "starts": null,
-    "minutes": null,
-    "goals": 6,
-    "assists": 3,
-    "xg": null,
-    "xa": null,
-    "shots_p90": null,
-    "key_passes_p90": null,
-    "dribbles_p90": null,
-    "tackles_interceptions_p90": null,
-    "pass_completion_pct": null,
-    "aerials_won_pct": null,
-    "progressive_carries_p90": null
-  },
-  "style_profile": {
-    "tags": [
-      "dribbler",
-      "cuts inside from the left",
-      "goal threat",
-      "Senegal international",
-      "AFCON participant"
-    ],
-    "best_system": [
-      "4-2-3-1 counter"
-    ],
-    "weak_in": [
-      "pure wide touchline winger role"
-    ]
-  },
-  "mental_profile": {
-    "leadership": null,
-    "coachability": null,
-    "resilience": null,
-    "discipline": null,
-    "notes": "Publicly reported (Everton News / Yahoo, 2025/26) to have rejected several new-contract offers while seeking a ~EUR 50m release clause; no disciplinary issues reported."
-  },
-  "injury_history": [],
-  "off_pitch": {
-    "languages": [],
-    "family_situation": null,
-    "public_statements": [],
-    "commercial_profile": null,
-    "notes": null
-  },
-  "sources": [
-    "https://sports.yahoo.com/articles/valuable-iliman-ndiaye-everton-134000603.html",
-    "https://www.everton.news/iliman-ndiaye-point-of-contention-with-contract-offers-as-new-valuation-from-everton-emerges/",
-    "https://salarysport.com/football/player/iliman-n'diaye/",
-    "https://ca.soccerway.com/player/ndiaye-iliman/Im0c6Oy7"
-  ],
-  "as_of": "2026-09-08",
-  "data_quality": {
-    "confidence": "medium",
-    "notes": "Contract to 30 Jun 2029 (Salary Sport). 2025/26: 25 apps, 6 goals, 3 assists (snippet; competition split unclear, entered as all comps). Reported to have turned down multiple extensions and to want a ~EUR 50m release clause -> availability 'open to move' is the researcher's reading of those reports. Market value EUR 49.6m cited (source platform unclear, not confirmed Transfermarkt) -> null. Gross wage GBP 56k/week reported; net not entered. estimated_fee is researcher's estimate anchored on the reported clause request."
-  }
+  "weak_in": [
+   "pure wide touchline winger role"
+  ]
+ },
+ "mental_profile": {
+  "leadership": null,
+  "coachability": null,
+  "resilience": null,
+  "discipline": null,
+  "notes": "Publicly reported (Everton News / Yahoo, 2025/26) to have rejected several new-contract offers while seeking a ~EUR 50m release clause; no disciplinary issues reported."
+ },
+ "injury_history": [],
+ "off_pitch": {
+  "languages": [],
+  "family_situation": null,
+  "public_statements": [],
+  "commercial_profile": null,
+  "notes": null
+ },
+ "sources": [
+  "https://sports.yahoo.com/articles/valuable-iliman-ndiaye-everton-134000603.html",
+  "https://www.everton.news/iliman-ndiaye-point-of-contention-with-contract-offers-as-new-valuation-from-everton-emerges/",
+  "https://salarysport.com/football/player/iliman-n'diaye/",
+  "https://ca.soccerway.com/player/ndiaye-iliman/Im0c6Oy7"
+ ],
+ "as_of": "2026-09-08",
+ "data_quality": {
+  "confidence": "medium",
+  "notes": "CORRECTED 2026-09-09: previously recorded at 'Everton'. Confirmed via Sky Sports: Manchester City completed a deadline-day (1 Sep 2026) move for Ndiaye from Everton for £65m (£60m guaranteed + £5m bonuses), hijacking a reported Tottenham pursuit. Contract to 30 Jun 2029 (Salary Sport). 2025/26: 25 apps, 6 goals, 3 assists (snippet; competition split unclear, entered as all comps). Reported to have turned down multiple extensions and to want a ~EUR 50m release clause -> availability 'open to move' is the researcher's reading of those reports. Market value EUR 49.6m cited (source platform unclear, not confirmed Transfermarkt) -> null. Gross wage GBP 56k/week reported; net not entered. estimated_fee is researcher's estimate anchored on the reported clause request."
+ }
 }
