@@ -47,6 +47,7 @@ from dotenv import load_dotenv
 from sse_starlette.sse import EventSourceResponse
 
 from openosint.brightdata import BRIGHTDATA_LINK_WEB
+from openosint.output_limits import truncate_output
 from openosint.tools.generate_dorks import run_dork_osint
 from openosint.tools.scrape_url import run_scrape_url_osint
 from openosint.tools.search_abuseipdb import run_abuseipdb_osint
@@ -845,7 +846,9 @@ async def _run_tool(tool_name: str, tool_input: str, timeout: int = 120) -> str:
             "Retry with the target value as the 'input' parameter."
         )
     try:
-        return await _RUNNERS[tool_name](tool_input, timeout)
+        # Cap the result: it is streamed to the UI *and* fed back into the model
+        # context on every following round of the agent loop.
+        return truncate_output(await _RUNNERS[tool_name](tool_input, timeout))
     except Exception as exc:
         return f"Error: {exc}"
 
@@ -893,6 +896,8 @@ async def _stream_claude(messages: list[dict]) -> AsyncIterator[dict]:
             async with client.messages.stream(
                 model="claude-sonnet-4-5",
                 max_tokens=4096,
+                # Cache the stable tools+system prefix across tool rounds.
+                cache_control={"type": "ephemeral"},
                 system=system_prompt,
                 tools=_CLAUDE_TOOLS,
                 messages=msgs,

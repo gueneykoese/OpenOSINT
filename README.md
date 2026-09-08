@@ -529,6 +529,21 @@ $ claude
   across other platforms and compile a full report.
 ```
 
+**Keeping token usage (and your Claude usage limit) under control.** Every
+tool result is placed in the model's context and re-sent on every following
+turn, so a few oversized results can burn through a Claude Code / claude.ai
+usage window in minutes. OpenOSINT caps each result at 16,000 characters
+(≈4k tokens) and appends a note saying how much was cut; tune it with
+`OPENOSINT_MAX_OUTPUT_CHARS` (`0` disables the cap). On the client side:
+
+- Register the server per project (`claude mcp add` without `--scope user`)
+  so the tool definitions are only loaded in projects where you need them.
+- Run `/context` in Claude Code to see what is filling the window, and
+  `/clear` between unrelated investigations.
+- Prefer narrow tools (`search_dns`, `search_whois`) over broad ones
+  (`scrape_url`, `graph_export`, `investigate_multi`) when a specific answer
+  is all you need.
+
 ---
 
 ## Installation
@@ -576,6 +591,7 @@ Store keys in a `.env` file at the project root (copy `.env.example`). `python-d
 | `OPENAI_BASE_URL` | AI agent | Optional | Base URL of an OpenAI-compatible endpoint (e.g. `http://localhost:4000/v1`) |
 | `OPENAI_API_KEY` | AI agent | Optional | API key for the endpoint (local servers may ignore it) |
 | `OPENAI_MODEL` | AI agent | Optional | Model name to request (default: `gpt-4o-mini`) |
+| `OPENOSINT_MAX_OUTPUT_CHARS` | AI agent, MCP server, web UI | Optional | Max characters per tool result sent to the model (default `16000`, `0` = unlimited). Keeps token usage bounded. |
 | `HIBP_API_KEY` | `search_breach` | Optional | HaveIBeenPwned v3 — [get one](https://haveibeenpwned.com/API/Key) |
 | `IPINFO_TOKEN` | `search_ip` | Optional | ipinfo.io higher rate limits |
 | `SHODAN_API_KEY` | `search_shodan` | Optional | Shodan API — [get one](https://account.shodan.io) |

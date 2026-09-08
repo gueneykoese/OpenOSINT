@@ -21,6 +21,7 @@ from mcp.server.stdio import stdio_server
 from mcp.types import CallToolResult, TextContent, Tool
 
 from openosint.json_output import to_json
+from openosint.output_limits import truncate_output
 from openosint.tools.generate_dorks import run_dork_osint
 from openosint.tools.scrape_url import run_scrape_url_osint
 from openosint.tools.search_abuseipdb import run_abuseipdb_osint
@@ -514,6 +515,14 @@ _HANDLERS: dict[str, tuple] = {
 }
 
 
+def _ok(text: str) -> CallToolResult:
+    """Wrap a successful result, capped so one call cannot flood the client's context."""
+    capped = truncate_output(text)
+    if len(capped) != len(text):
+        logger.info("Result truncated: %d -> %d chars", len(text), len(capped))
+    return CallToolResult(content=[TextContent(type="text", text=capped)], isError=False)
+
+
 @app.call_tool()
 async def call_tool(name: str, arguments: dict[str, Any]) -> CallToolResult:
     logger.info("Tool: %s | args: %s", name, arguments)
@@ -541,7 +550,7 @@ async def call_tool(name: str, arguments: dict[str, Any]) -> CallToolResult:
             text = to_json(name, target, result)
         else:
             text = result
-        return CallToolResult(content=[TextContent(type="text", text=text)], isError=False)
+        return _ok(text)
     except (KeyError, ValueError) as exc:
         logger.error("Validation error: %s", exc)
         return CallToolResult(content=[TextContent(type="text", text=str(exc))], isError=True)
@@ -590,7 +599,7 @@ async def _call_graph_tool(name: str, arguments: dict[str, Any]) -> CallToolResu
             target = arguments.get("entity_id", arguments["action"])
 
         text = to_json(name, target, result) if should_use_json else result
-        return CallToolResult(content=[TextContent(type="text", text=text)], isError=False)
+        return _ok(text)
     except ImportError as exc:
         message = (
             f"{name} requires the 'graph' extra (followthemoney), which is not installed in "
@@ -629,7 +638,7 @@ async def _call_investigate_multi(arguments: dict[str, Any]) -> CallToolResult:
         )
     try:
         summary = await run_multi_target(targets, is_pdf_disabled=True)
-        return CallToolResult(content=[TextContent(type="text", text=summary)], isError=False)
+        return _ok(summary)
     except Exception as exc:
         logger.exception("Error in investigate_multi.")
         return CallToolResult(

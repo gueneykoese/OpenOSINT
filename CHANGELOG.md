@@ -7,6 +7,19 @@ OpenOSINT adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ---
 
+## [Unreleased]
+
+### Changed
+- **Bounded token usage.** Every tool result returned by the MCP server, the
+  built-in agent (Anthropic / Ollama / OpenAI-compatible) and the web UI agent
+  loop is now capped at 16,000 characters (≈4k tokens) with an explicit
+  "output truncated" trailer, instead of pushing entire page fetches, graph
+  exports or subdomain lists into the model context where they were re-sent
+  on every subsequent turn. Configurable via `OPENOSINT_MAX_OUTPUT_CHARS`
+  (`0` disables). The agent loops also stop after 12 tool rounds per turn
+  instead of looping until the provider cuts them off, and the Anthropic
+  paths request prompt caching on the stable tools+system prefix.
+
 ## [2.27.0] — 2026-08-26
 
 ### Added

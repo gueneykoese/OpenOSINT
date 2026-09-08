@@ -43,11 +43,22 @@ from openosint.tools.search_username import run_username_osint
 from openosint.tools.search_virustotal import run_virustotal_osint
 from openosint.tools.search_whois import run_whois_osint
 from openosint.tools.search_footprint import run_footprint_osint
+from openosint.output_limits import truncate_output
 from openosint.pivot import investigate_graph_for_agent
 
 logger = logging.getLogger(__name__)
 
 _MAX_TOKENS = 4096
+
+# Hard ceiling on model<->tool round-trips in one agent turn. Without it a
+# model that keeps re-querying (or a tool that keeps failing) loops until the
+# provider cuts it off, re-sending the whole growing context each time.
+_MAX_TOOL_ROUNDS = 12
+
+_TOOL_ROUNDS_EXCEEDED = (
+    f"Stopped after {_MAX_TOOL_ROUNDS} tool rounds without a final answer. "
+    "Narrow the target or ask a more specific question."
+)
 
 # ---------------------------------------------------------------------------
 # Tool definitions — Anthropic format
@@ -497,7 +508,9 @@ async def _execute_tool(
     if on_tool_call is not None:
         await on_tool_call(tool_name, tool_input)
     if tool_name in _TOOL_MAP:
-        return await _TOOL_MAP[tool_name](tool_input)
+        # Cap what goes back into the model context — a full page fetch or a
+        # graph dump would otherwise be re-sent on every following round.
+        return truncate_output(await _TOOL_MAP[tool_name](tool_input))
     return f"Error: unknown tool '{tool_name}'."
 
 
@@ -612,10 +625,14 @@ class OpenOSINTAgent:
         messages: list[dict[str, Any]] = list(self.history)
         tool_calls: list[ToolCall] = []
         try:
-            while True:
+            for _ in range(_MAX_TOOL_ROUNDS + 1):
                 response = await self.client.messages.create(
                     model=self.model,
                     max_tokens=_MAX_TOKENS,
+                    # Prompt caching: tools + system are a stable prefix, so
+                    # every round after the first reads them from cache
+                    # (~10% of the input price) instead of paying full rate.
+                    cache_control={"type": "ephemeral"},
                     system=SYSTEM_PROMPT,
                     tools=TOOL_DEFINITIONS,  # type: ignore[arg-type]
                     messages=messages,  # type: ignore[arg-type]
@@ -629,6 +646,8 @@ class OpenOSINTAgent:
                     await _process_tool_turn(messages, tool_calls, on_tool_call, response.content)
                 else:
                     break
+            else:
+                return AgentResponse(content="", tool_calls=tool_calls, error=_TOOL_ROUNDS_EXCEEDED)
         except anthropic.AuthenticationError:
             return AgentResponse(
                 content="",
@@ -741,7 +760,7 @@ class OllamaAgent:
 
         try:
             client = ollama.AsyncClient(host=self.host)
-            while True:
+            for _ in range(_MAX_TOOL_ROUNDS + 1):
                 response = await client.chat(
                     model=self.model,
                     messages=messages,
@@ -753,6 +772,7 @@ class OllamaAgent:
                     self.history.append({"role": "assistant", "content": text})
                     return AgentResponse(content=text, tool_calls=tool_calls)
                 await _process_ollama_tool_turn(messages, tool_calls, on_tool_call, msg)
+            return AgentResponse(content="", tool_calls=tool_calls, error=_TOOL_ROUNDS_EXCEEDED)
         except Exception as exc:
             err_str = str(exc)
             # Surface a clear, actionable error when the Ollama server is not running
@@ -906,7 +926,7 @@ class OpenAICompatibleAgent:
 
         try:
             client = openai.AsyncOpenAI(base_url=self.base_url, api_key=self.api_key)
-            while True:
+            for _ in range(_MAX_TOOL_ROUNDS + 1):
                 response = await client.chat.completions.create(
                     model=self.model,
                     messages=messages,
@@ -928,6 +948,7 @@ class OpenAICompatibleAgent:
                     self.history.append({"role": "assistant", "content": text})
                     return AgentResponse(content=text, tool_calls=tool_calls)
                 await _process_openai_tool_turn(messages, tool_calls, on_tool_call, msg)
+            return AgentResponse(content="", tool_calls=tool_calls, error=_TOOL_ROUNDS_EXCEEDED)
         except openai.AuthenticationError:
             return AgentResponse(
                 content="",
