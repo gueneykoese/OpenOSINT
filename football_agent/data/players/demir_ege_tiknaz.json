@@ -1,0 +1,89 @@
+{
+  "player_id": "demir_ege_tiknaz",
+  "name": "Demir Ege Tıknaz",
+  "age": 21,
+  "date_of_birth": null,
+  "nationality": [
+    "TUR"
+  ],
+  "position": "DM",
+  "secondary_positions": [
+    "CM"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "SC Braga",
+  "current_club_league": "Liga Portugal",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 8,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Süper Lig (Beşiktaş) + Liga Portugal (Braga)",
+    "apps": 14,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "holding midfielder",
+      "tenacious ball-winner",
+      "Beşiktaş academy graduate",
+      "Turkey U21 international",
+      "signed by Braga 2026 for c. EUR 7m"
+    ],
+    "best_system": [
+      "4-3-3 single pivot"
+    ],
+    "weak_in": [
+      "limited attacking output"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [
+    {
+      "type": "knee",
+      "season": "2025/26",
+      "days_out": 43
+    }
+  ],
+  "off_pitch": {
+    "languages": [
+      "tr"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.footballtransfers.com/en/players/demir-ege-tknaz",
+    "https://www.transferfeed.com/players/ege-tknaz/327799",
+    "https://ca.soccerway.com/player/tiknaz-demir-ege/p0StIVQQ"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Moved Beşiktaş -> Braga in 2026 for a reported EUR 7m (FootballTransfers); contract to 30 Jun 2028. 2025/26: 10 apps Beşiktaş + 4 apps Braga, 0 goals/assists (snippet) - implies a January 2026 move; exact date unverified. Knee injury 25 Sep - 7 Nov 2025 (43 days, Soccerway). FootballTransfers xTV EUR 5.7m is not Transfermarkt -> market_value null. Fee is researcher's estimate. DOB not retrieved."
+  }
+}

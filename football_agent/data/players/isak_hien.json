@@ -1,0 +1,78 @@
+{
+  "player_id": "isak_hien",
+  "name": "Isak Hien",
+  "age": 27,
+  "date_of_birth": "1999-01-13",
+  "nationality": [
+    "SWE"
+  ],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 190,
+  "current_club": "Atalanta",
+  "current_club_league": "Serie A",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 25,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Serie A",
+    "apps": 28,
+    "starts": 20,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "aggressive man-marking centre-back",
+      "aerial duels",
+      "suits back-three man-to-man system",
+      "Sweden international"
+    ],
+    "best_system": [
+      "3-4-2-1 man-oriented press"
+    ],
+    "weak_in": [
+      "zonal deep block"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": 3,
+    "notes": "5 yellow cards in 28 Serie A apps 2025/26 (Soccerway snippet)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.soccerzz.com/player/isak-hien/851461",
+    "https://us.soccerway.com/player/hien-isak/hz4zWEIG/",
+    "https://scores24.live/en/soccer/p-isak-hien"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 30 Jun 2028 (Soccerway). 2025/26: 39 apps all comps (28 Serie A / 20 starts, 9 UCL, 2 Coppa), 1 goal. Market value EUR 20-23.8m across platforms; 'EUR 20.00m' phrasing looks Transfermarkt-style but not confirmed -> null. estimated_fee researcher's estimate."
+  }
+}

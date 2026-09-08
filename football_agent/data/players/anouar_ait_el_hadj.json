@@ -1,0 +1,85 @@
+{
+  "player_id": "anouar_ait_el_hadj",
+  "name": "Anouar Ait El Hadj",
+  "age": 24,
+  "date_of_birth": "2002-04-25",
+  "nationality": [
+    "BEL",
+    "MAR"
+  ],
+  "position": "AM",
+  "secondary_positions": [
+    "CM",
+    "LW"
+  ],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Union Saint-Gilloise",
+  "current_club_league": "Belgian Pro League",
+  "contract_until": 2028,
+  "market_value_eur_m": 5,
+  "estimated_fee_eur_m": 8,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Belgian Pro League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 2,
+    "assists": 5,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed no.10",
+      "tight-space dribbler",
+      "ex-Anderlecht academy",
+      "Belgian champion 2024/25"
+    ],
+    "best_system": [
+      "3-4-3 as interior playmaker"
+    ],
+    "weak_in": [
+      "goal output"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "nl",
+      "fr"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1073471/anouar-ait-el-hadj",
+    "https://africasoccer.com/anouar-ait-el-hadj-union-sg-playmaker-linked-with-surprise-move-to-amed-sk-in-turkish-super-lig/",
+    "https://www.uefa.com/uefachampionsleague/clubs/players/250118896--anouar-ait-el-hadj/statistics/"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 30 Jun 2028; valued 'around EUR 5m' (africasoccer.com, summer 2026 - source of valuation not stated, entered as market_value with this caveat). 2025/26 Pro League: 2 goals, 5 assists (FotMob); apps null. Linked with Amed SK (Turkey) in summer 2026 but no move confirmed -> assumed still at Union. Nationality: Belgian international eligibility with Moroccan heritage; listed as BEL/MAR. Fee is researcher's estimate."
+  }
+}

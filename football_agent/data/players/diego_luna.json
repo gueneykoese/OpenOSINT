@@ -1,0 +1,86 @@
+{
+  "player_id": "diego_luna",
+  "name": "Diego Luna",
+  "age": 23,
+  "date_of_birth": "2003-09-07",
+  "nationality": [
+    "USA",
+    "MEX"
+  ],
+  "position": "AM",
+  "secondary_positions": [
+    "LW",
+    "RW"
+  ],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Real Salt Lake",
+  "current_club_league": "MLS",
+  "contract_until": 2026,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 5,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "MLS 2026 (in progress)",
+    "apps": null,
+    "starts": null,
+    "minutes": 1070,
+    "goals": 5,
+    "assists": 3,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed no.10",
+      "tight-space dribbler",
+      "USMNT international (World Cup 2026 squad)",
+      "RSL rejected Monterrey EUR 3.3m bid Jul 2026",
+      "contract to Dec 2026"
+    ],
+    "best_system": [
+      "4-2-3-1 no.10"
+    ],
+    "weak_in": [
+      "defensive workload"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "en",
+      "es"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1252636/diego-luna",
+    "https://www.rsl.com/players/diego-luna/stats/",
+    "https://www.transferfeed.com/players/diego-luna/331147"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 31 Dec 2026 (FotMob) - MLS contracts often carry club options; unverified. 2026 MLS season in progress: 5 goals, 3 assists, 1,070 min (FotMob). Full 2025 MLS figures not retrieved. FootballTransfers xTV EUR 4.6m not Transfermarkt -> null. Fee is researcher's estimate. Nationality USA (international) with Mexican heritage."
+  }
+}

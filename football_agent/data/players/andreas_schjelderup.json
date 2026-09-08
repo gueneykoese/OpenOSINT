@@ -1,0 +1,86 @@
+{
+  "player_id": "andreas_schjelderup",
+  "name": "Andreas Schjelderup",
+  "age": 22,
+  "date_of_birth": "2004-06-01",
+  "nationality": [
+    "NOR"
+  ],
+  "position": "LW",
+  "secondary_positions": [
+    "RW",
+    "AM"
+  ],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "SL Benfica",
+  "current_club_league": "Liga Portugal",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 50,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": 100,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga Portugal",
+    "apps": 30,
+    "starts": null,
+    "minutes": null,
+    "goals": 6,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "quick inverted winger",
+      "right-footed off the left",
+      "Norway international (World Cup 2026 squad)",
+      "Benfica asking price EUR 50m (summer 2026)",
+      "wanted Premier League move summer 2026"
+    ],
+    "best_system": [
+      "4-3-3 counter-pressing"
+    ],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Publicly reported (A Bola via Tribuna, June 2026) to want to leave after Benfica missed direct UCL qualification; Benfica blocked a EUR 55m Tottenham package (Aug 2026) and he stayed - no public fallout reported."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "no",
+      "en",
+      "pt"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.football365.com/news/tottenham-submit-offer-schjelderup-benfica-reach-decision-accepting",
+    "https://tribuna.com/en/news/2026-06-02-andreas-schjelderup-to-leave-benfica-this-summer-with-his-value-to-go-up-after-world-cup/",
+    "https://www.yardbarker.com/soccer/articles/why_benfica_blocked_andreas_schjelderups_move_amid_tottenham_interest/s1_17451_44255815",
+    "https://en.wikipedia.org/wiki/Andreas_Schjelderup",
+    "https://www.espn.com/soccer/player/_/id/313415/andreas-schjelderup"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Stayed at Benfica after Tottenham's EUR 45m + 10m offer was not concluded (Yardbarker/Football Norge, Aug-Sep 2026). Contract 2028, EUR 100m clause (Football365). 2025/26 Liga Portugal: 30 apps, 6 goals, 1 assist (ESPN snippet via AiScore); another snippet said 4 goals in 21 apps - likely partial-season, ESPN full-season figure used. estimated_fee = Benfica's reported EUR 50m asking price. Transfermarkt value not retrieved."
+  }
+}

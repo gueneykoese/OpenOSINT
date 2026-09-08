@@ -1,0 +1,80 @@
+{
+  "player_id": "jhon_lucumi",
+  "name": "Jhon Lucumí",
+  "age": 28,
+  "date_of_birth": "1998-06-26",
+  "nationality": [
+    "COL"
+  ],
+  "position": "CB",
+  "secondary_positions": [
+    "LB"
+  ],
+  "preferred_foot": "left",
+  "height_cm": 187,
+  "current_club": "Juventus",
+  "current_club_league": "Serie A",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 22,
+  "wage_eur_m_net": 2.5,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Serie A (Bologna)",
+    "apps": 29,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed centre-back",
+      "recovery pace",
+      "front-foot interceptor",
+      "Colombia international"
+    ],
+    "best_system": [
+      "4-2-3-1 high line",
+      "back three left CB"
+    ],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": 3,
+    "notes": "5 yellow cards in 29 Serie A apps 2025/26 (AiScore snippet)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.blackwhitereadallover.com/transfers/40603/official-juventus-sign-bologna-center-back-jhon-lucumi-2026-serie-a-summer-transfers-team-news",
+    "https://www.blackwhitereadallover.com/juventus-transfer-rumors-news/40583/jhon-lucumi-juventus-bologna-2026-serie-a-summer-transfer-rumors-done-deal",
+    "https://m.aiscore.com/player-jhon-lucumi/69759ijvx3tok23",
+    "https://www.flashscoreusa.com/player/lucumi-jhon/O8NaVz3G/"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Joined Juventus from Bologna in summer 2026: EUR 19.5m initial, up to EUR 22m total, four-year contract to 2030, reported EUR 2.5m net/yr (BWRAO 'officially official'). His Bologna deal had one year left with a EUR 28m clause that expired mid-July. 2025/26 at Bologna: 29 Serie A apps, 1 goal, 5 yellows. Transfermarkt value not seen -> null. estimated_fee = fee just paid."
+  }
+}

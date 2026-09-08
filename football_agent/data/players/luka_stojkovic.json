@@ -1,0 +1,84 @@
+{
+  "player_id": "luka_stojkovic",
+  "name": "Luka Stojković",
+  "age": 22,
+  "date_of_birth": "2003-10-28",
+  "nationality": [
+    "CRO"
+  ],
+  "position": "AM",
+  "secondary_positions": [
+    "CM",
+    "RW"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "GNK Dinamo Zagreb",
+  "current_club_league": "Croatian HNL",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 8,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Croatian HNL",
+    "apps": null,
+    "starts": null,
+    "minutes": 1280,
+    "goals": 5,
+    "assists": 8,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "creative central midfielder",
+      "high output per minute (5g/8a in 1,280 min)",
+      "two red cards in 2025/26 league",
+      "Croatian champion 2025/26",
+      "interest from PAOK, Fulham, Lazio (reported)"
+    ],
+    "best_system": [
+      "4-2-3-1 no.10"
+    ],
+    "weak_in": [
+      "discipline"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": 2,
+    "notes": "2 red cards and 2 yellows in 1,280 HNL minutes 2025/26 (FotMob) - score derived from that record only."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "hr"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1358149",
+    "https://www.transferfeed.com/clubs/dinamo-zagreb/498",
+    "https://m.aiscore.com/team-dinamo-zagreb/el6keginoocg75d/squad"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "2025/26 HNL: 5 goals, 8 assists, 1,280 min (FotMob snippet). Contract length not retrieved. Transfer interest reported but no move found -> assumed still at Dinamo, unverified after summer 2026. Fee is researcher's estimate."
+  }
+}

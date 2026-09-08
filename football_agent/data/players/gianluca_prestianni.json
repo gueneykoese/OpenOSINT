@@ -1,0 +1,84 @@
+{
+  "player_id": "gianluca_prestianni",
+  "name": "Gianluca Prestianni",
+  "age": 20,
+  "date_of_birth": "2006-01-31",
+  "nationality": [
+    "ARG"
+  ],
+  "position": "RW",
+  "secondary_positions": [
+    "LW",
+    "AM"
+  ],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "SL Benfica",
+  "current_club_league": "Liga Portugal",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 25,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Liga Portugal",
+    "apps": null,
+    "starts": null,
+    "minutes": 1544,
+    "goals": 3,
+    "assists": 5,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "direct dribbling winger",
+      "left-footed, plays off the right",
+      "high foul/card count (8 yellow, 1 red in league 2025/26)",
+      "ex-Vélez Sarsfield",
+      "Argentina youth international"
+    ],
+    "best_system": [
+      "4-3-3 with inverted wide forwards"
+    ],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": 2,
+    "notes": "8 yellow cards and 1 red in 1,544 Liga Portugal minutes in 2025/26 (FotMob) - discipline score derived from that public record only."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "es",
+      "pt"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1363660/gianluca-prestianni",
+    "https://www.livescore.com/en/season-stats/gianluca-prestianni/24561/",
+    "https://www.soccerzz.com/player/gianluca-prestianni/977459",
+    "https://www.espn.com/soccer/player/_/id/339191/gianluca-prestianni"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 30 Jun 2029 (FotMob). 2025/26 Liga Portugal: 3 goals, 5 assists, 1,544 min (FotMob); an AiScore snippet gave 27 apps / 3 assists - apps left null due to conflict. No summer-2026 move found -> assumed still at Benfica. Market value not retrieved; fee is researcher's estimate."
+  }
+}

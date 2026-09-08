@@ -1,0 +1,84 @@
+{
+  "player_id": "justin_njinmah",
+  "name": "Justin Njinmah",
+  "age": 25,
+  "date_of_birth": "2000-11-16",
+  "nationality": [
+    "GER"
+  ],
+  "position": "RW",
+  "secondary_positions": [
+    "ST",
+    "LW"
+  ],
+  "preferred_foot": "right",
+  "height_cm": 182,
+  "current_club": "SV Werder Bremen",
+  "current_club_league": "Bundesliga",
+  "contract_until": 2027,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 9,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": 26,
+    "starts": null,
+    "minutes": null,
+    "goals": 5,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "direct wide forward",
+      "runs in behind",
+      "versatile across front three"
+    ],
+    "best_system": [
+      "4-3-3 wide forward",
+      "counter-attacking 4-4-2"
+    ],
+    "weak_in": [
+      "end product/assists 2025/26"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Publicly said 'I feel a sense of responsibility' in a club interview (Jan 2026) amid transfer speculation."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "de"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.getfootballnewsgermany.com/2026/justin-njinmah-hull-off/",
+    "https://www.werder.de/en/news/first-team/2025-2026/njinmah-interview-21012026",
+    "https://www.fotmob.com/players/1137364/justin-njinmah",
+    "https://en.wikipedia.org/wiki/Justin_Njinmah"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 30 Jun 2027. A ~EUR 9m move to Hull City collapsed in Jul 2026 after a sporting-director change; Marseille and Fiorentina reported interest. 2025/26 Bundesliga: 26 apps, 5 goals, 0 assists (FotMob 6.6 rating). Market value: FotMob EUR 4.3m / other EUR 6.7m - Transfermarkt not seen -> null. estimated_fee = the collapsed Hull fee (researcher)."
+  }
+}

@@ -1,0 +1,80 @@
+{
+ "player_id": "maxime_esteve",
+ "name": "Maxime Estève",
+ "age": 24,
+ "date_of_birth": "2002-05-26",
+ "nationality": [
+  "FRA"
+ ],
+ "position": "CB",
+ "secondary_positions": [],
+ "preferred_foot": "left",
+ "height_cm": 190,
+ "current_club": "RB Leipzig",
+ "current_club_league": "Bundesliga",
+ "contract_until": 2030,
+ "market_value_eur_m": null,
+ "estimated_fee_eur_m": 30,
+ "wage_eur_m_net": null,
+ "release_clause_eur_m": null,
+ "agent_status": "represented",
+ "availability": "not for sale",
+ "stats_2025_26": {
+  "competition": "Premier League",
+  "apps": 34,
+  "starts": 34,
+  "minutes": 2938,
+  "goals": null,
+  "assists": null,
+  "xg": null,
+  "xa": null,
+  "shots_p90": null,
+  "key_passes_p90": null,
+  "dribbles_p90": null,
+  "tackles_interceptions_p90": null,
+  "pass_completion_pct": null,
+  "aerials_won_pct": null,
+  "progressive_carries_p90": null
+ },
+ "style_profile": {
+  "tags": [
+   "left-footed centre-back",
+   "high-volume clearer/blocker",
+   "only 1 yellow in 34 PL games",
+   "ex-Montpellier"
+  ],
+  "best_system": [
+   "4-4-2 low block",
+   "back three"
+  ],
+  "weak_in": [
+   "high line with space behind"
+  ]
+ },
+ "mental_profile": {
+  "leadership": null,
+  "coachability": null,
+  "resilience": null,
+  "discipline": 5,
+  "notes": "Booked once in 34 PL matches in 2025/26 (Soccerway snippet)."
+ },
+ "injury_history": [],
+ "off_pitch": {
+  "languages": [],
+  "family_situation": null,
+  "public_statements": [],
+  "commercial_profile": null,
+  "notes": null
+ },
+ "sources": [
+  "https://burnleyfootballclub.com/content/esteve-pens-new-deal",
+  "https://www.soccerway.com/player/esteve-maxime/K2ucL3sM/",
+  "https://www.premierleague.com/en/players/477717/maxime-esteve/stats",
+  "https://www.matchbingo.co.uk/english-premier-league/2025/burnley/maxime-esteve"
+ ],
+ "as_of": "2026-09-08",
+ "data_quality": {
+  "confidence": "medium",
+  "notes": "CORRECTED 2026-09-08: pool research initially recorded 'Burnley' as current club, but this season's dossier for RB Leipzig (data/clubs/rb_leipzig.json, sourced summer-2026 arrivals list) confirms the transfer completed. Contract to 30 Jun 2030 (Soccerway; club announced new deal). 2025/26 PL: 34 apps/starts, 2938 min. Market value EUR 24.1m cited (platform unclear) -> null. estimated_fee researcher's estimate."
+ }
+}

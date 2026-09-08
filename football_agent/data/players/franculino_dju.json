@@ -1,0 +1,85 @@
+{
+  "player_id": "franculino_dju",
+  "name": "Franculino Djú",
+  "age": 22,
+  "date_of_birth": "2004-06-13",
+  "nationality": [
+    "GNB"
+  ],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Trabzonspor",
+  "current_club_league": "Süper Lig",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 20,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Danish Superliga (Midtjylland)",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 17,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "prolific penalty-box striker",
+      "Superliga top scorer 2025/26 (17)",
+      "16 goals in 17 games before winter break",
+      "Guinea-Bissau international",
+      "ex-Benfica youth",
+      "joined Trabzonspor 2 Sep 2026 (EUR 17m release fee)"
+    ],
+    "best_system": [
+      "4-3-3 lone 9 with crosses",
+      "transition attack"
+    ],
+    "weak_in": [
+      "link play with back to goal (reported scouting view, unverified)"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "pt",
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Franculino_Dj%C3%BA",
+    "https://bordomavi.net/en/franculino-dju-trabzonspor/",
+    "https://africasoccer.com/franculino-newcastle-eye-midtjylland-and-guinea-bissau-forward-in-e22m-move/",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Danish_Superliga"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Signed for Trabzonspor 2 Sep 2026; Midtjylland received a EUR 17m release fee in 8 instalments (Wikipedia/bordomavi). New contract length not retrieved. 2025/26 Superliga: 17 goals (league top scorer, Wikipedia); apps/assists null. Midtjylland rejected c. EUR 30m Saudi bid Aug 2025. Fee estimate for an onward sale is researcher's. DOB from general knowledge - verify."
+  }
+}

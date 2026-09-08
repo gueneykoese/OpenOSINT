@@ -1,0 +1,88 @@
+{
+  "player_id": "paul_nebel",
+  "name": "Paul Nebel",
+  "age": 23,
+  "date_of_birth": "2002-10-10",
+  "nationality": [
+    "GER",
+    "IRL"
+  ],
+  "position": "RW",
+  "secondary_positions": [
+    "AM",
+    "LW"
+  ],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "1. FSV Mainz 05",
+  "current_club_league": "Bundesliga",
+  "contract_until": 2027,
+  "market_value_eur_m": 18,
+  "estimated_fee_eur_m": 15,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": 22,
+    "starts": null,
+    "minutes": null,
+    "goals": 2,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed inverted right winger",
+      "dribbler and set-piece taker",
+      "Mainz academy graduate",
+      "2024/25 breakout, quieter 2025/26"
+    ],
+    "best_system": [
+      "3-4-3 wide attacker",
+      "4-2-3-1"
+    ],
+    "weak_in": [
+      "goal output 2025/26"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Reported (Bild via bulinews, 2026) to have declined to extend beyond 2027 and verbally agreed with Mainz on a summer-2026 separation if suitable; no move materialised and he remains at Mainz for 2026/27."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "de",
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.mainz05.de/en/news-en/paul-nebel-to-remain-at-mainz-until-2027",
+    "https://bulinews.com/heidel-reveals-agreement-between-paul-nebel-and-mainz-05",
+    "https://www.fussballdaten.de/news/mainz-kaempft-paul-nebel-verlaengerung-sommertransfer/",
+    "https://www.ligainsider.de/paul-nebel_20674/",
+    "https://en.wikipedia.org/wiki/Paul_Nebel"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 30 Jun 2027 (club statement). Market value EUR 18m (AiScore 'player value' snippet - platform uncertain). 2025/26 Bundesliga: 22 apps, 2 goals, 1 assist (Wikipedia/bundesliga snippet; starts/minutes null). Still Mainz per ligainsider 2026/27 profile; Stuttgart, Leipzig, Frankfurt, Coventry linked. DOB 10 Oct 2002 (Wikipedia). estimated_fee is researcher's estimate given 1 year left."
+  }
+}

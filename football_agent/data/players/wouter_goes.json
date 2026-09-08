@@ -1,0 +1,79 @@
+{
+  "player_id": "wouter_goes",
+  "name": "Wouter Goes",
+  "age": 22,
+  "date_of_birth": "2004-03-26",
+  "nationality": [
+    "NED"
+  ],
+  "position": "CB",
+  "secondary_positions": [
+    "RB"
+  ],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "AZ Alkmaar",
+  "current_club_league": "Eredivisie",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 18,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Eredivisie",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "aggressive front-foot centre-back",
+      "physical duel-heavy defender",
+      "academy graduate",
+      "Netherlands U21 international"
+    ],
+    "best_system": [
+      "high-line back four"
+    ],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Publicly stated ambition to move in summer 2026 (Goal.com / World Today Journal), but signed an extension to 2030 after AZ refused to sell; no public dispute reported. Has a public reputation for on-pitch niggling/provocation in duels (Dutch media), not verified with card counts here."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wouter_Goes",
+    "https://www.goal.com/en/news/az-have-major-news-on-wouter-goes-a-few-days-after-triumph-over-psv/blt0b899ac1379b5cf6",
+    "https://world-today-journal.com/wouter-goes-on-az-contract-extension-and-future-transfer-ambitions/",
+    "https://www.capology.com/player/wouter-goes-38148/"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Extended contract to mid-2030 in summer 2026 after seeking a move (Goal.com). Capology listed an older end date of 30 Jun 2028 and gross salary EUR 360k for 2025/26 (gross, so wage_eur_m_net left null). 2025/26 stats not retrieved -> null. DOB from general knowledge - verify. Fee is researcher's estimate."
+  }
+}

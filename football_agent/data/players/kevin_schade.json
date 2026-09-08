@@ -1,0 +1,85 @@
+{
+  "player_id": "kevin_schade",
+  "name": "Kevin Schade",
+  "age": 24,
+  "date_of_birth": "2001-11-27",
+  "nationality": [
+    "GER"
+  ],
+  "position": "RW",
+  "secondary_positions": [
+    "LW",
+    "ST"
+  ],
+  "preferred_foot": "right",
+  "height_cm": 184,
+  "current_club": "Brentford",
+  "current_club_league": "Premier League",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 55,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": 35,
+    "starts": null,
+    "minutes": null,
+    "goals": 8,
+    "assists": 3,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "explosive pace",
+      "diagonal runs in behind",
+      "two PL hat-tricks",
+      "direct winger",
+      "Germany international"
+    ],
+    "best_system": [
+      "4-3-3 counter",
+      "3-5-2 as wide forward"
+    ],
+    "weak_in": [
+      "possession-heavy build-up"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://sports.yahoo.com/articles/brentford-kevin-schade-likely-leave-112800103.html",
+    "https://www.caughtoffside.com/2026/09/08/24-year-old-wanted-by-arsenal-contract-talks/",
+    "https://www.teamtalk.com/brentford/kevin-schade-contract-talks-brentford-deal-arsenal-interest",
+    "https://fbref.com/en/players/52afb588/Kevin-Schade",
+    "https://www.livescore.com/en/season-stats/kevin-schade/14068/"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 2028; Brentford opened talks on improved terms in Sep 2026 after Arsenal enquiry (TeamTalk/CaughtOffside, 8 Sep 2026). 2025/26 PL: 35 apps, 8 goals, 3 assists incl. hat-trick v Bournemouth 27 Dec 2025. Brentford valuation reported GBP 50m+; a EUR 33.3m market value is cited (platform unclear) -> null. 'open to move' reflects reports he is 'likely to leave' - not a player statement. estimated_fee researcher's estimate."
+  }
+}

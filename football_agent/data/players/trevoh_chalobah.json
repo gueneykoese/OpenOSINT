@@ -1,0 +1,81 @@
+{
+ "player_id": "trevoh_chalobah",
+ "name": "Trevoh Chalobah",
+ "age": 27,
+ "date_of_birth": "1999-07-05",
+ "nationality": [
+  "ENG"
+ ],
+ "position": "CB",
+ "secondary_positions": [
+  "RB",
+  "DM"
+ ],
+ "preferred_foot": "right",
+ "height_cm": 190,
+ "current_club": "Como 1907",
+ "current_club_league": "Serie A",
+ "contract_until": 2028,
+ "market_value_eur_m": null,
+ "estimated_fee_eur_m": 35,
+ "wage_eur_m_net": null,
+ "release_clause_eur_m": null,
+ "agent_status": "represented",
+ "availability": "open to move",
+ "stats_2025_26": {
+  "competition": "Premier League",
+  "apps": 34,
+  "starts": null,
+  "minutes": null,
+  "goals": 3,
+  "assists": null,
+  "xg": null,
+  "xa": null,
+  "shots_p90": null,
+  "key_passes_p90": null,
+  "dribbles_p90": null,
+  "tackles_interceptions_p90": 2.3,
+  "pass_completion_pct": null,
+  "aerials_won_pct": null,
+  "progressive_carries_p90": null
+ },
+ "style_profile": {
+  "tags": [
+   "right-sided centre-back",
+   "aerial threat from set pieces",
+   "academy graduate",
+   "versatile back line"
+  ],
+  "best_system": [
+   "4-2-3-1",
+   "back three"
+  ],
+  "weak_in": []
+ },
+ "mental_profile": {
+  "leadership": null,
+  "coachability": null,
+  "resilience": null,
+  "discipline": null,
+  "notes": null
+ },
+ "injury_history": [],
+ "off_pitch": {
+  "languages": [],
+  "family_situation": null,
+  "public_statements": [],
+  "commercial_profile": null,
+  "notes": null
+ },
+ "sources": [
+  "https://www.spotrac.com/epl/player/_/id/74969/trevoh-chalobah",
+  "https://www.premierleague.com/en/players/180736/trevoh-chalobah/stats",
+  "https://www.matchbingo.co.uk/english-premier-league/2025/chelsea/trevoh-chalobah",
+  "https://us.soccerway.com/player/chalobah-trevoh/2N61AJte"
+ ],
+ "as_of": "2026-09-08",
+ "data_quality": {
+  "confidence": "medium",
+  "notes": "CORRECTED 2026-09-08: pool research initially recorded 'Chelsea' as current club, but this season's dossier for Como 1907 (data/clubs/como.json, sourced summer-2026 arrivals list) confirms the transfer completed. Contract to 30 Jun 2028 (Spotrac, 2 years remaining). 2025/26 PL: 34 apps, 3 goals; 1.07 tackles + 1.23 interceptions p90 (Matchbingo) -> 2.3 combined. Market value EUR 34-39m from non-Transfermarkt sources -> null. Availability 'open to move' is researcher's inference from Chelsea's history of listing him (2024, 2025) - not a 2026 sourced report. estimated_fee researcher's estimate."
+ }
+}

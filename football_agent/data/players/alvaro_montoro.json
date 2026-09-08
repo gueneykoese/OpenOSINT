@@ -1,0 +1,84 @@
+{
+  "player_id": "alvaro_montoro",
+  "name": "Álvaro Montoro",
+  "age": 19,
+  "date_of_birth": null,
+  "nationality": [
+    "ARG"
+  ],
+  "position": "AM",
+  "secondary_positions": [
+    "LW",
+    "RW"
+  ],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Botafogo FR",
+  "current_club_league": "Brasileirão Série A",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 8,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Campeonato Carioca 2026 (Taça Guanabara)",
+    "apps": null,
+    "starts": null,
+    "minutes": 257,
+    "goals": 1,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed playmaker",
+      "ex-Vélez Sarsfield",
+      "Argentina U20 (2025 U20 World Cup)",
+      "described internally as 'non-negotiable' for 2026"
+    ],
+    "best_system": [
+      "4-2-3-1 no.10 / inverted winger"
+    ],
+    "weak_in": [
+      "still adapting to senior minutes"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "es",
+      "pt"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fogaonet.com/noticias-do-botafogo/botafogo-nao-cogita-vender-alvaro-montoro-e-jordan-barrera-na-proxima-janela-dupla-e-tida-como-fundamental-para-2026/",
+    "https://www.terra.com.br/esportes/futebol/montoro-e-barrera-mostram-o-futuro-que-o-botafogo-precisa-para-2026,9519cd199e43831defa4528037accbc3klrvr0z8.html",
+    "https://www.fotmob.com/ko/players/1607035"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Only 2026 Carioca (Taça Guanabara) figures found: 1 goal, 257 min, 2 yellows (FotMob). Contract length not retrieved. Age per snippet (18 in late 2025). Not re-verified after the 2026 mid-year window. Fee is researcher's estimate."
+  }
+}

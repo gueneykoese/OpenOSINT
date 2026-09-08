@@ -1,0 +1,83 @@
+{
+  "player_id": "adam_wharton",
+  "name": "Adam Wharton",
+  "age": 22,
+  "date_of_birth": "2004-06-06",
+  "nationality": [
+    "ENG"
+  ],
+  "position": "CM",
+  "secondary_positions": [
+    "DM"
+  ],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Crystal Palace",
+  "current_club_league": "Premier League",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 90,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": 34,
+    "starts": null,
+    "minutes": 2562,
+    "goals": 1,
+    "assists": 5,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed deep playmaker",
+      "line-breaking passer",
+      "ball retention",
+      "England international"
+    ],
+    "best_system": [
+      "4-3-3 double pivot",
+      "3-4-2-1"
+    ],
+    "weak_in": [
+      "high-duel physical midfield battles"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": 3,
+    "notes": "6 yellow cards and 1 red card in 34 PL matches in 2025/26 (Premier League stats snippet)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.premierleague.com/en/players/496221/adam-wharton/stats",
+    "https://fbref.com/en/players/4b542852/Adam-Wharton",
+    "https://www.spotrac.com/epl/player/_/id/88347/adam-wharton",
+    "https://www.goal.com/en-us/lists/adam-wharton-price-man-utd-liverpool-transfer-conference-league-crystal-palace/blt8df47b169586ce69",
+    "https://cryptobriefing.com/chelsea-adam-wharton-transfer-valuation/"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Still at Crystal Palace after summer 2026 (Chelsea interest reported before deadline, no move confirmed). Contract to June 2029 (Spotrac). Market value: FotMob EUR 47.7m, FootballTransfers ETV EUR 58.9-71.9m; Transfermarkt figure not seen -> null. Palace asking price reported GBP 80-100m; estimated_fee 90 is researcher's estimate. Wage GBP 35k/week gross per snippet - net not entered. Stats: PL 34 apps, 2562 min, 1 goal, 5 assists (sources vary between 26 and 34 apps)."
+  }
+}

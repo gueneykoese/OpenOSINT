@@ -1,0 +1,82 @@
+{
+  "player_id": "strahinja_pavlovic",
+  "name": "Strahinja Pavlović",
+  "age": 25,
+  "date_of_birth": "2001-05-24",
+  "nationality": [
+    "SRB"
+  ],
+  "position": "CB",
+  "secondary_positions": [
+    "LB"
+  ],
+  "preferred_foot": "left",
+  "height_cm": 194,
+  "current_club": "AC Milan",
+  "current_club_league": "Serie A",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 30,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Serie A",
+    "apps": 26,
+    "starts": null,
+    "minutes": null,
+    "goals": 4,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed aggressive centre-back",
+      "aerial power",
+      "goal threat from set pieces (4 Serie A goals)",
+      "Serbia international"
+    ],
+    "best_system": [
+      "3-4-2-1 left CB",
+      "4-2-3-1"
+    ],
+    "weak_in": [
+      "disciplined positional defending in high line"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.soccerway.com/player/pavlovic-strahinja/Qm2DVwBO/",
+    "https://www.livescore.com/en/season-stats/strahinja-pavlovic/13291/",
+    "https://www.footballtransfers.com/en/players/strahinja-pavlovich",
+    "https://one-versus-one.com/en/players/Strahinja-Pavlovic"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 30 Jun 2028 (Soccerway). 2025/26 Serie A: 26 apps, 4 goals. Market value EUR 18-35m range across platforms, Transfermarkt not seen -> null. Joined from Salzburg 2024 for EUR 18.5m. estimated_fee researcher's estimate."
+  }
+}

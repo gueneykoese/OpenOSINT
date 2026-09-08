@@ -1,0 +1,82 @@
+{
+  "player_id": "kaoru_mitoma",
+  "name": "Kaoru Mitoma",
+  "age": 29,
+  "date_of_birth": "1997-05-20",
+  "nationality": [
+    "JPN"
+  ],
+  "position": "LW",
+  "secondary_positions": [
+    "LM"
+  ],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Brighton & Hove Albion",
+  "current_club_league": "Premier League",
+  "contract_until": 2027,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 30,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": 25,
+    "starts": null,
+    "minutes": null,
+    "goals": 3,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "1v1 dribbler",
+      "inverted-to-byline winger",
+      "high work rate",
+      "Japan international",
+      "2024/25: 10 PL goals"
+    ],
+    "best_system": [
+      "4-2-3-1 wide isolation"
+    ],
+    "weak_in": [
+      "central No.10 role"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.capology.com/player/kaoru-mitoma-35570/",
+    "https://www.premierleague.com/en/players/451340/kaoru-mitoma/overview",
+    "https://fbref.com/en/players/74618572/Kaoru-Mitoma",
+    "https://us.soccerway.com/players/kaoru-mitoma/507525/"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 30 Jun 2027 (Capology, signed Oct 2023). 2025/26 PL: 25 apps, 3 goals, 1 assist (snippet; minutes not given). Transfermarkt value not seen -> null. Age 29 with one year left; estimated_fee researcher's estimate. Contract renewal talks not found in search."
+  }
+}

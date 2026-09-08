@@ -1,0 +1,80 @@
+{
+  "player_id": "jean_philippe_mateta",
+  "name": "Jean-Philippe Mateta",
+  "age": 29,
+  "date_of_birth": "1997-06-28",
+  "nationality": [
+    "FRA"
+  ],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 192,
+  "current_club": "Crystal Palace",
+  "current_club_league": "Premier League",
+  "contract_until": 2027,
+  "market_value_eur_m": 30,
+  "estimated_fee_eur_m": 30,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 12,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "physical target striker",
+      "left-channel runner",
+      "penalty taker",
+      "hold-up play"
+    ],
+    "best_system": [
+      "4-2-3-1 counter",
+      "3-4-2-1"
+    ],
+    "weak_in": [
+      "high-tempo pressing role"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.espn.com/soccer/player/matches/_/id/241187/jean-philippe-mateta",
+    "https://www.livescore.com/en/season-stats/jean-philippe-mateta/40912/",
+    "https://www.footballtransfers.com/en/players/jeanphilippe-mateta",
+    "https://ca.soccerway.com/player/mateta-jean-philippe/nsFUj6GN"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract until June 2027 (Soccerway / Roundtable snippets, seen 2026-09-08). 2025/26: 12 Premier League goals; all-competition totals reported inconsistently as 16 goals (YouTube compilation) vs 17 goals in 46 games (snippet) - only the PL goals figure is entered; apps/minutes null. Transfermarkt value EUR 30m cited in a snippet (date not shown); FootballTransfers ETV EUR 36-44m. estimated_fee is researcher's estimate (age 29, one year left). Height/DOB/foot from public record."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "player_id": "vasilije_kostov",
+  "name": "Vasilije Kostov",
+  "age": 18,
+  "date_of_birth": "2008-05-11",
+  "nationality": [
+    "SRB"
+  ],
+  "position": "AM",
+  "secondary_positions": [
+    "RW"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "FK Crvena zvezda (Red Star Belgrade)",
+  "current_club_league": "Serbian SuperLiga",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 15,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "All competitions",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 14,
+    "assists": 7,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "breakthrough teenage playmaker",
+      "plays centrally or off the right",
+      "14 goals / 7 assists 2025/26 at 17-18",
+      "Red Star academy",
+      "linked with top European clubs (reported)"
+    ],
+    "best_system": [
+      "4-2-3-1"
+    ],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "sr"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vasilije_Kostov",
+    "https://risingstarss.com/football-players/vasilije-kostov/",
+    "https://breakingthelines.com/@btl/vasilije-kostov-serbias-shiniest-coveted-young-jewel",
+    "https://www.fotmob.com/players/1647023/vasilije-kostov"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "2025/26: 14 goals, 7 assists (Wikipedia snippet; competition split not given, entered as all competitions). Contract and market value not retrieved. No summer-2026 move found in results -> assumed still at Red Star; low confidence. Fee is researcher's estimate (Red Star sold Maksimović to Leipzig for EUR 14m in 2025 as comparable)."
+  }
+}

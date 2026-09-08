@@ -1,0 +1,78 @@
+{
+  "player_id": "joao_rego",
+  "name": "João Rego",
+  "age": 20,
+  "date_of_birth": null,
+  "nationality": [
+    "POR"
+  ],
+  "position": "AM",
+  "secondary_positions": [
+    "RW",
+    "ST"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "SL Benfica",
+  "current_club_league": "Liga Portugal",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 15,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": 100,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Liga Portugal",
+    "apps": 8,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "academy attacking midfielder",
+      "fringe first-team player 2025/26",
+      "Benfica B regular",
+      "Portugal youth international"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://onefootball.com/en/news/benfica-confirm-joao-rego-contract-renewal-until-2030-42480500",
+    "https://www.record.pt/futebol/futebol-nacional/liga-betclic/benfica/detalhe/benfica-blinda-joao-rego-saiba-qual-e-a-clausula-de-rescisao-do-avancado",
+    "https://www.slbenfica.pt/en-us/futebol/plantel-principal/rego-joao",
+    "https://www.fotmob.com/players/1418747/joao-rego"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Renewed to 2029/30 in Feb 2026 with EUR 100m release clause (OneFootball/Record). 2025/26 Liga Portugal: 8 apps, 1 goal (Flashscore/FotMob snippet); another snippet credits 1 assist - not entered. DOB not retrieved. Fee is researcher's estimate for a fringe player (clause is not a realistic price). Age 20 per search snippet."
+  }
+}

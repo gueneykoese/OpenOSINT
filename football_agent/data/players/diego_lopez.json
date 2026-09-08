@@ -1,0 +1,86 @@
+{
+  "player_id": "diego_lopez",
+  "name": "Diego López",
+  "age": 24,
+  "date_of_birth": "2002-05-13",
+  "nationality": [
+    "ESP"
+  ],
+  "position": "LW",
+  "secondary_positions": [
+    "RW",
+    "ST"
+  ],
+  "preferred_foot": "right",
+  "height_cm": 172,
+  "current_club": "Valencia CF",
+  "current_club_league": "La Liga",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 18,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "La Liga",
+    "apps": 24,
+    "starts": null,
+    "minutes": null,
+    "goals": 3,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "small quick winger",
+      "direct dribbler",
+      "academy graduate",
+      "plays both flanks"
+    ],
+    "best_system": [
+      "4-4-2 with wide forwards",
+      "4-2-3-1"
+    ],
+    "weak_in": [
+      "aerial play",
+      "finishing consistency"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "es"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.valenciacf.com/official-statement-diego-lopez",
+    "https://www.footballtransfers.com/en/players/diego-lopez-11",
+    "https://www.besoccer.com/player/d-lopez-879174",
+    "https://www.transferfeed.com/transfers/diego-lopez-valencia/12358138"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Renewal to June 2029 per Valencia official statement. DOB 13 May 2002, 172 cm (BeSoccer). 2025/26 La Liga: 24 apps, 3 goals, 2 assists (snippet; starts/minutes not given). Market value: only ETV (EUR 14.1-17.2m) seen; Transfermarkt not seen -> null. estimated_fee is researcher's estimate."
+  }
+}

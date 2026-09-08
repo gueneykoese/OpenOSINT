@@ -1,0 +1,84 @@
+{
+  "player_id": "leopold_querfeld",
+  "name": "Leopold Querfeld",
+  "age": 22,
+  "date_of_birth": "2003-12-20",
+  "nationality": [
+    "AUT"
+  ],
+  "position": "CB",
+  "secondary_positions": [
+    "DM"
+  ],
+  "preferred_foot": "right",
+  "height_cm": 193,
+  "current_club": "1. FC Union Berlin",
+  "current_club_league": "Bundesliga",
+  "contract_until": 2027,
+  "market_value_eur_m": 17.6,
+  "estimated_fee_eur_m": 11,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": 11,
+  "agent_status": "represented",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "All competitions",
+    "apps": 34,
+    "starts": null,
+    "minutes": null,
+    "goals": 7,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "tall right-footed centre-back",
+      "set-piece goal threat (7 goals 2025/26)",
+      "comfortable in back three",
+      "Austria international"
+    ],
+    "best_system": [
+      "3-5-2 / back three"
+    ],
+    "weak_in": [
+      "pace against direct runners (unverified)"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "de"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://bulinews.com/union-berlin-defender-has-higher-release-clause-for-premier-league-clubs",
+    "https://x.com/Plettigoal/status/2052653854160773395",
+    "https://www.transferfeed.com/players/leopold-querfeld/307045",
+    "https://dk.soccerway.com/spiller/querfeld-leopold/WtK79lGh",
+    "https://www.bundesliga.com/en/player/leopold-querfeld"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Per Bild/Sky (spring 2026): one year left on contract (-> 2027), release clause EUR 11m for Bundesliga clubs / EUR 15m for Premier League clubs, enquiries from GER/ENG/FRA/ITA. 2025/26: 7 goals in 34 apps. Market value ~EUR 17.6m (snippet). CONFIRMED still at Union Berlin in Sep 2026 (scored on Bundesliga matchday 1 vs Frankfurt, sportschau/Bundesliga.com 2026/27 profile). estimated_fee = domestic clause. DOB/height from general knowledge."
+  }
+}

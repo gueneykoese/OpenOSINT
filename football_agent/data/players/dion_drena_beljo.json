@@ -1,0 +1,82 @@
+{
+  "player_id": "dion_drena_beljo",
+  "name": "Dion Drena Beljo",
+  "age": 24,
+  "date_of_birth": "2002-03-01",
+  "nationality": [
+    "CRO"
+  ],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "left",
+  "height_cm": 195,
+  "current_club": "GNK Dinamo Zagreb",
+  "current_club_league": "Croatian HNL",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 15,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "for sale",
+  "stats_2025_26": {
+    "competition": "Croatian HNL",
+    "apps": null,
+    "starts": null,
+    "minutes": 1494,
+    "goals": 12,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "tall left-footed target striker",
+      "aerial threat",
+      "penalty-box finisher",
+      "ex-Osijek / Augsburg",
+      "Dinamo asking EUR 20-25m (reported); agent quoted EUR 12-15m"
+    ],
+    "best_system": [
+      "4-2-3-1 lone striker with wide service"
+    ],
+    "weak_in": [
+      "mobility in high press"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "hr",
+      "de"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.getfootballnewsgermany.com/2025/official-augsburg-sell-dion-drena-beljo-to-zagreb/",
+    "https://www.fotmob.com/players/1186606/dion-drena-beljo",
+    "https://www.transferfeed.com/players/dion-beljo/238095"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Joined Dinamo from Augsburg Jul 2025 (EUR 5m + 2.5m), contract to 30 Jun 2030. 2025/26 HNL: 12 goals, 1 assist, 1,494 min (FotMob); a second snippet claims 27 goals in 30 apps 'domestic season' - conflicting, not entered. Lille/Leicester/Burnley/Newcastle interest reported; no completed summer-2026 move found -> assumed still at Dinamo, unverified. Height/foot from general knowledge. Fee = midpoint of agent's quoted EUR 12-15m."
+  }
+}

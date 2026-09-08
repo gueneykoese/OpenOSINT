@@ -1,0 +1,87 @@
+{
+  "player_id": "levi_colwill",
+  "name": "Levi Colwill",
+  "age": 23,
+  "date_of_birth": "2003-02-26",
+  "nationality": [
+    "ENG"
+  ],
+  "position": "CB",
+  "secondary_positions": [
+    "LB"
+  ],
+  "preferred_foot": "left",
+  "height_cm": 187,
+  "current_club": "Chelsea",
+  "current_club_league": "Premier League",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 55,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": 4,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed ball-playing centre-back",
+      "progressive passer",
+      "returning from ACL",
+      "England international"
+    ],
+    "best_system": [
+      "4-2-3-1 possession"
+    ],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [
+    {
+      "type": "ACL (knee) - pre-season training injury",
+      "season": "2025/26",
+      "days_out": null
+    }
+  ],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [
+      "Said he has 'that fire in my belly' in pre-season 2026 after his injury-hit 2025/26 (beIN SPORTS, 27 Jul 2026)."
+    ],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.si.com/soccer/levi-colwill-acl-injury-miss-majority-2025-26",
+    "https://www.beinsports.com/en-us/soccer/premier-league/articles/colwill-has-fire-in-his-belly-after-injury-hit-season-with-chelsea-2026-07-27",
+    "https://www.spotrac.com/epl/player/_/id/73133/levi-colwill",
+    "https://www.thechelseachronicle.com/news/levi-colwill-contract-update-as-chelsea-defender-impresses-following-injury-return/"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "ACL injury Aug 2025, returned May 2026 with 4 appearances in the final month (beIN). Contract to 30 Jun 2029 (Spotrac). Market value EUR 47-53m per FotMob/ETV, Transfermarkt not seen -> null. Long-term injury makes him a watch-list item rather than an immediate target; estimated_fee researcher's estimate."
+  }
+}

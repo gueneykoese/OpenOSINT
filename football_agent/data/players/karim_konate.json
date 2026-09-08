@@ -1,0 +1,89 @@
+{
+  "player_id": "karim_konate",
+  "name": "Karim Konaté",
+  "age": 22,
+  "date_of_birth": "2004-03-21",
+  "nationality": [
+    "CIV"
+  ],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "FC Red Bull Salzburg",
+  "current_club_league": "Austrian Bundesliga",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 15,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Austrian Bundesliga",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "penalty-box striker",
+      "explosive first step",
+      "Ivory Coast international",
+      "returned Nov 2025 from ACL rupture",
+      "5 goals in first 5 league games back (Feb 2026 report)"
+    ],
+    "best_system": [
+      "4-4-2 / 4-2-2-2 Red Bull press"
+    ],
+    "weak_in": [
+      "link play under pressure"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [
+    {
+      "type": "ACL rupture (left knee)",
+      "season": "2024/25-2025/26",
+      "days_out": 365
+    }
+  ],
+  "off_pitch": {
+    "languages": [
+      "fr",
+      "de"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://sports.yahoo.com/articles/rb-salzburg-remarkable-comeback-karim-150000053.html",
+    "https://www.redbullsalzburg.at/en/recent/interview/karim-konate-november-2025",
+    "https://www.espn.com/soccer/player/stats/_/id/326475/karim-konate",
+    "https://www.fotmob.com/players/1293688/karim-konate"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "ACL rupture Nov 2024 (vs Leverkusen), returned c. Nov 2025 (~1 year out; days_out approximate). Feb 2026 Yahoo report: 5 goals in 5 league matches since return. Full-season 2025/26 totals not retrieved -> null. Contract to 30 Jun 2028; no summer-2026 move found -> assumed still at Salzburg (Salzburg is NOT in the 36-club list). Fee is researcher's estimate, discounted for injury history."
+  }
+}

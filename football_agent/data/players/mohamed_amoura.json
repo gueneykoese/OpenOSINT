@@ -1,0 +1,88 @@
+{
+  "player_id": "mohamed_amoura",
+  "name": "Mohamed Amoura",
+  "age": 26,
+  "date_of_birth": "2000-05-09",
+  "nationality": [
+    "ALG"
+  ],
+  "position": "ST",
+  "secondary_positions": [
+    "LW",
+    "RW"
+  ],
+  "preferred_foot": "right",
+  "height_cm": 170,
+  "current_club": "OGC Nice (on loan from VfL Wolfsburg)",
+  "current_club_league": "Ligue 1",
+  "contract_until": 2029,
+  "market_value_eur_m": 32,
+  "estimated_fee_eur_m": 20,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 8,
+    "assists": 3,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "small explosive forward",
+      "runs in behind",
+      "counter-attack specialist",
+      "Algeria international",
+      "Wolfsburg relegated 2025/26"
+    ],
+    "best_system": [
+      "4-4-2 transition team",
+      "4-3-3 as wide forward"
+    ],
+    "weak_in": [
+      "aerial/hold-up play",
+      "low-block possession sides"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "ar",
+      "fr"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://sports.yahoo.com/articles/official-ogc-nice-sign-vfl-094000431.html",
+    "https://www.wolfs-blog.de/fix-amoura-verlaesst-den-vfl-wolfsburg-und-wechselt-nach-nizza/",
+    "https://www.getfootballnewsgermany.com/2026/mohamed-amoura-leipzig-report/",
+    "https://footy-africa.com/mohamed-amoura-at-wolfsburg-salary-market-value-career-stats-and-more/"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Joined OGC Nice on deadline-day loan (Sep 2026) with a reported EUR 20m purchase option; parent-club contract with Wolfsburg (relegated to 2. Bundesliga) runs to 30 Jun 2029. Transfermarkt EUR 32m as of May 2026 (footy-africa). 2025/26 Bundesliga: 8 goals, 3 assists (apps/minutes not given). estimated_fee = reported option fee. Adviser claimed Leipzig talks in 2026 (disputed by Sky). DOB/height from general knowledge."
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": "adrian_bernabe",
+  "name": "Adrián Bernabé",
+  "age": 25,
+  "date_of_birth": "2001-05-04",
+  "nationality": [
+    "ESP"
+  ],
+  "position": "CM",
+  "secondary_positions": [
+    "AM",
+    "DM"
+  ],
+  "preferred_foot": "left",
+  "height_cm": 173,
+  "current_club": "Parma",
+  "current_club_league": "Serie A",
+  "contract_until": 2027,
+  "market_value_eur_m": 15,
+  "estimated_fee_eur_m": 15,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Serie A",
+    "apps": 32,
+    "starts": null,
+    "minutes": 2493,
+    "goals": 3,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed deep playmaker",
+      "set-piece specialist",
+      "press-resistant",
+      "ex-Barcelona / Man City academy"
+    ],
+    "best_system": [
+      "4-3-3 as No.6/8",
+      "4-2-3-1"
+    ],
+    "weak_in": [
+      "physical duels"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Reported (Soccerway/365Scores snippet) to have refused to renew with Parma because he wants a move; Parma reportedly willing to sell rather than lose him for free."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://us.soccerway.com/player/bernabe-adrian/Qw9q7XhE/",
+    "https://www.fotmob.com/players/951714/adrian-bernabe",
+    "https://www.transferfeed.com/transfers/adrian-bernabe-parma-sporting-cp/42343719",
+    "https://www.livescore.com/en/season-stats/adrian-bernabe/15813/"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Contract to 30 Jun 2027 (Soccerway); reported to have refused renewal. TransferFeed carries a Parma -> Sporting CP rumour - NOT confirmed; if it happened he is out of scope (Sporting is a UCL club). current_club kept as Parma - verify. 2025/26 Serie A: 32 apps, 2493 min, 3 goals, 2 assists (FotMob shows 1 assist). Transfermarkt value EUR 15.00m cited (date not shown). estimated_fee = market value given contract situation."
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "player_id": "elliot_anderson",
+  "name": "Elliot Anderson",
+  "age": 23,
+  "date_of_birth": "2002-11-06",
+  "nationality": [
+    "ENG",
+    "SCO"
+  ],
+  "position": "CM",
+  "secondary_positions": [
+    "DM",
+    "AM"
+  ],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Nottingham Forest",
+  "current_club_league": "Premier League",
+  "contract_until": 2029,
+  "market_value_eur_m": 45,
+  "estimated_fee_eur_m": 80,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "all competitions",
+    "apps": 37,
+    "starts": null,
+    "minutes": null,
+    "goals": 4,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "two-way midfielder",
+      "ball-carrier",
+      "high tackle volume",
+      "England international",
+      "left-footed"
+    ],
+    "best_system": [
+      "4-3-3",
+      "3-4-2-1 counter"
+    ],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": 3,
+    "notes": "8 yellow cards, 0 red in 2025/26 (Sportbusy snippet)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.sportbusy.com/players/soccer/238472/",
+    "https://totalfootballanalysis.com/player-analysis/elliot-anderson-scout-report-nottingham-forest-2025-2026-analysis",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Nottingham_Forest_F.C._season",
+    "https://footystats.org/players/scotland/elliot-anderson"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to June 2029 (joined from Newcastle Jun 2024 for GBP 35m). 2025/26: 37 apps, 4 goals, 4 assists, 8 yellows (Sportbusy). Market value 'EUR 45m' cited as doubled from EUR 22m - appears Transfermarkt-derived but source/date not certain. Linked to Man United/Man City/Real Madrid in 2026 (unverified rumours). Still at Forest after summer 2026 per snippets. estimated_fee researcher's estimate (GBP 80m+ asking price expected)."
+  }
+}

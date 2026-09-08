@@ -1,0 +1,86 @@
+{
+  "player_id": "aimar_oroz",
+  "name": "Aimar Oroz",
+  "age": 24,
+  "date_of_birth": "2001-11-27",
+  "nationality": [
+    "ESP"
+  ],
+  "position": "AM",
+  "secondary_positions": [
+    "CM",
+    "RW"
+  ],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "CA Osasuna",
+  "current_club_league": "La Liga",
+  "contract_until": 2029,
+  "market_value_eur_m": 16,
+  "estimated_fee_eur_m": 25,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": 30,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": null,
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed playmaker",
+      "set-piece taker",
+      "Tajonar academy graduate",
+      "links midfield to attack"
+    ],
+    "best_system": [
+      "4-2-3-1 as No.10",
+      "4-3-3 interior"
+    ],
+    "weak_in": [
+      "defensive transitions"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "es",
+      "eu"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://getfootballnewsspain.com/osasuna-name-asking-price-for-girona-athletic-club-target-aimar-oroz/",
+    "https://www.footboom1.com/en/news/football/2622712-osasuna-stands-firm-on-aimar-oroz-amid-transfer-speculation",
+    "https://www.capology.com/player/aimar-oroz-37222/",
+    "https://www.transferfeed.com/transfers/aimar-oroz-osasuna/3842831"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 30 Jun 2029 (Capology). Release clause reported as EUR 30m after renewal (news) vs EUR 34.8m (another source) - used 30. Market value EUR 16m from snippet (platform not explicit); AiScore EUR 7.5m. Athletic Club and Girona interest (2026). 2025/26 stats not retrieved. DOB from general knowledge, not re-verified. estimated_fee is researcher's estimate."
+  }
+}

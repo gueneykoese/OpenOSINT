@@ -1,0 +1,81 @@
+{
+  "player_id": "gustav_isaksen",
+  "name": "Gustav Isaksen",
+  "age": 25,
+  "date_of_birth": "2001-04-19",
+  "nationality": [
+    "DEN"
+  ],
+  "position": "RW",
+  "secondary_positions": [
+    "LW"
+  ],
+  "preferred_foot": "left",
+  "height_cm": 178,
+  "current_club": "Lazio",
+  "current_club_league": "Serie A",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 18,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Serie A",
+    "apps": null,
+    "starts": null,
+    "minutes": 1598,
+    "goals": 5,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed right winger",
+      "cuts inside to shoot",
+      "direct dribbler",
+      "Denmark international"
+    ],
+    "best_system": [
+      "4-3-3 inverted winger"
+    ],
+    "weak_in": [
+      "defensive wide role"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1016093/gustav-isaksen",
+    "https://www.soccerzz.com/player/gustav-isaksen/544078",
+    "https://ie.soccerway.com/player/isaksen-gustav/d0vohCHH",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_SS_Lazio_season"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 30 Jun 2028 (Soccerway). 2025/26 Serie A: 5 goals, 1 assist, 1598 min (FotMob) - apps not given. Market value EUR 14.7-23m across platforms/dates, Transfermarkt not confirmed -> null. estimated_fee researcher's estimate."
+  }
+}

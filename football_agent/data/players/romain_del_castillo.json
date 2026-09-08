@@ -1,0 +1,86 @@
+{
+  "player_id": "romain_del_castillo",
+  "name": "Romain Del Castillo",
+  "age": 30,
+  "date_of_birth": "1996-03-01",
+  "nationality": [
+    "FRA"
+  ],
+  "position": "RW",
+  "secondary_positions": [
+    "LW",
+    "AM"
+  ],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "CA Osasuna",
+  "current_club_league": "La Liga",
+  "contract_until": 2028,
+  "market_value_eur_m": 10,
+  "estimated_fee_eur_m": 8,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Ligue 1 (with Brest, pre-transfer)",
+    "apps": null,
+    "starts": null,
+    "minutes": 2643,
+    "goals": 9,
+    "assists": 3,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed inverted winger",
+      "direct dribbler",
+      "Brest's top scorer before Sep 2026 move",
+      "experienced Ligue 1 attacker moving to La Liga"
+    ],
+    "best_system": [
+      "4-2-3-1 wide",
+      "counter-attacking system"
+    ],
+    "weak_in": [
+      "aerial duels",
+      "squad-rotation player at 30"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "fr",
+      "es"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.getfootballnewsfrance.com/2026/official-romain-del-castillo-joins-osasuna-from-brest/",
+    "https://www.fotmob.com/en-GB/players/696263/romain-del-castillo",
+    "https://www.archyde.com/nantes-launch-pursuit-of-brests-top-scorer-romain-del-castillo-in-winter-transfer-rush/"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Officially joined Osasuna from Brest on a two-year deal on deadline day, Sep 2026 (-> contract to 2028). 2025/26 stats (9 goals, 3 assists, 2,643 min) are from his Brest spell pre-move; no Osasuna minutes yet. Transfermarkt ~EUR 10m per one snippet (others EUR 3.8-6.3m ETV). Age 30 - outside the 19-26 priority band but flagged as a newly-arrived first-team winger. DOB from general knowledge. estimated_fee is researcher's estimate (transfer fee not disclosed)."
+  }
+}

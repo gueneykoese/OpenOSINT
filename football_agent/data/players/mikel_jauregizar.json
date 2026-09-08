@@ -1,0 +1,85 @@
+{
+  "player_id": "mikel_jauregizar",
+  "name": "Mikel Jauregizar",
+  "age": 22,
+  "date_of_birth": null,
+  "nationality": [
+    "ESP"
+  ],
+  "position": "DM",
+  "secondary_positions": [
+    "CM"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Athletic Club",
+  "current_club_league": "La Liga",
+  "contract_until": 2031,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 45,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "All competitions",
+    "apps": 29,
+    "starts": null,
+    "minutes": null,
+    "goals": 2,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "deep-lying midfielder",
+      "press-resistant carrier",
+      "tenacious ball-winner",
+      "Lezama academy graduate"
+    ],
+    "best_system": [
+      "4-2-3-1 double pivot",
+      "4-3-3"
+    ],
+    "weak_in": [
+      "final-third creativity"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Publicly stated he is happy at Athletic and wants to stay despite Liverpool/Chelsea interest (TransferFeed summaries, 2026)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "es",
+      "eu"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.athletic-club.eus/en/news/2025/05/30/mikel-jauregizar-extends-contract-until-2031/",
+    "https://www.footballtransfers.com/en/players/mikel-jauregizar-alboniga",
+    "https://www.transferfeed.com/transfers/mikel-jauregizar-athletic-club-liverpool/12352610",
+    "https://en.wikipedia.org/wiki/Mikel_Jauregizar"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 30 Jun 2031 confirmed by club (May 2025); club statement says no release clause in new deal -> release_clause null. 2025/26: 29 apps, 2 goals across competitions (footballtransfers; starts/minutes not given). Market value: only ETV ranges (EUR 29-42m) seen -> null. Athletic policy makes a sale unlikely; estimated_fee is researcher's estimate. DOB not retrieved."
+  }
+}

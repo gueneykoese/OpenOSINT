@@ -1,0 +1,102 @@
+{
+  "player_id": "giorgio_scalvini",
+  "name": "Giorgio Scalvini",
+  "age": 22,
+  "date_of_birth": "2003-12-11",
+  "nationality": [
+    "ITA"
+  ],
+  "position": "CB",
+  "secondary_positions": [
+    "DM"
+  ],
+  "preferred_foot": "right",
+  "height_cm": 194,
+  "current_club": "Atalanta",
+  "current_club_league": "Serie A",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 35,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "all competitions",
+    "apps": 16,
+    "starts": null,
+    "minutes": null,
+    "goals": 2,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "ball-playing centre-back",
+      "can step into midfield",
+      "tall, mobile",
+      "Italy international",
+      "injury-hit 2024-26"
+    ],
+    "best_system": [
+      "3-4-2-1 central CB",
+      "4-3-3"
+    ],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [
+    {
+      "type": "muscle",
+      "season": "2025/26",
+      "days_out": 11
+    },
+    {
+      "type": "calf",
+      "season": "2025/26",
+      "days_out": 2
+    },
+    {
+      "type": "knee",
+      "season": "2025/26",
+      "days_out": 3
+    },
+    {
+      "type": "ACL (knee)",
+      "season": "2024/25",
+      "days_out": null
+    }
+  ],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1202358/giorgio-scalvini",
+    "https://www.flashscore.co.uk/player/scalvini-giorgio/hvC4gron/injury-history/",
+    "https://www.footballtransfers.com/en/players/giorgio-scalvini",
+    "https://us.soccerway.com/player/scalvini-giorgio/hvC4gron"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 30 Jun 2028 (Soccerway). 2025/26: 16 apps, 2 goals, 2 cards (FotMob). Three short injuries in 2025/26 per Flashscore (dates given, days computed). ACL in 2024 is public record (researcher's knowledge; days_out not sourced). Transfermarkt value not seen -> null. estimated_fee researcher's estimate."
+  }
+}

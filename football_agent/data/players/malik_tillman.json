@@ -1,0 +1,88 @@
+{
+  "player_id": "malik_tillman",
+  "name": "Malik Tillman",
+  "age": 24,
+  "date_of_birth": "2002-05-28",
+  "nationality": [
+    "USA",
+    "GER"
+  ],
+  "position": "AM",
+  "secondary_positions": [
+    "CM",
+    "RW"
+  ],
+  "preferred_foot": "right",
+  "height_cm": 187,
+  "current_club": "Bayer 04 Leverkusen",
+  "current_club_league": "Bundesliga",
+  "contract_until": 2030,
+  "market_value_eur_m": 29.4,
+  "estimated_fee_eur_m": 40,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "for sale",
+  "stats_2025_26": {
+    "competition": "All competitions (Soccerway)",
+    "apps": 23,
+    "starts": null,
+    "minutes": null,
+    "goals": 6,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "tall ball-carrying No.10",
+      "goal threat from midfield",
+      "club-record EUR 35m signing 2025",
+      "USMNT regular"
+    ],
+    "best_system": [
+      "4-2-3-1 as No.10",
+      "3-4-2-1 inside forward"
+    ],
+    "weak_in": [
+      "defensive work-rate (reported)",
+      "consistency"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "de",
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": "US national-team profile; World Cup 2026 exposure",
+    "notes": null
+  },
+  "sources": [
+    "https://www.foxsports.com/stories/soccer/bayer-leverkusen-signs-u-s-midfielder-malik-tillman-club-record-fee",
+    "https://www.bavarianfootballworks.com/bayern-munich-transfer-news-rumors/243276/transfer-shocker-bayer-leverkusen-could-be-eyeing-blockbuster-sale",
+    "https://ca.soccerway.com/player/tillman-malik/pGHnblVn",
+    "https://www.capology.com/player/malik-tillman-37404/"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to Jun 2030 (signed Jul 2025, EUR 35m fixed). Sky Germany (via BFW, 2026) reports Leverkusen open to selling for an exceptional offer -> availability 'for sale'. 2025/26: 23 apps, 6 goals, 1 assist per Soccerway snippet (competition scope not explicit; starts/minutes null). Market value EUR 29.4m (snippet, platform not explicit). Still at Leverkusen as of Sep 2026 per Capology listing - not independently confirmed. estimated_fee is researcher's estimate."
+  }
+}

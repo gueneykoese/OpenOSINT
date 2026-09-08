@@ -1,0 +1,87 @@
+{
+  "player_id": "vitor_roque",
+  "name": "Vitor Roque",
+  "age": 21,
+  "date_of_birth": "2005-02-28",
+  "nationality": [
+    "BRA"
+  ],
+  "position": "ST",
+  "secondary_positions": [
+    "LW"
+  ],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "SE Palmeiras",
+  "current_club_league": "Brasileirão Série A",
+  "contract_until": 2029,
+  "market_value_eur_m": 37.7,
+  "estimated_fee_eur_m": 45,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Brasileirão Série A 2025",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 16,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "explosive penalty-box striker",
+      "direct runner in behind",
+      "Bola de Prata / CBF award best striker 2025",
+      "3rd top scorer Brasileirão 2025 (16)",
+      "ex-Barcelona / Betis",
+      "Brazil international",
+      "record South American signing (EUR 25.5m, Feb 2025)"
+    ],
+    "best_system": [
+      "4-2-3-1 with fast transitions"
+    ],
+    "weak_in": [
+      "possession-heavy hold-up role (Barcelona spell)"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "pt",
+      "es"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": "High profile in Brazil (ex-Barcelona), strong sponsor appeal.",
+    "notes": null
+  },
+  "sources": [
+    "https://futeboldorei.com/brasileirao-2026/post/artilheiros-e-estatisticas-completas-do-brasileirao-serie-a-2025",
+    "https://en.wikipedia.org/wiki/Vitor_Roque",
+    "https://www.palmeiras.com.br/noticias/vitor-roque-assina-com-o-palmeiras-por-cinco-temporadas-e-uma-honra/",
+    "https://pt.soccerway.com/jogador/vitor-roque/jXyevyG5"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Brasileirão 2025 (calendar-year season): 16 goals (futeboldorei artilharia list); apps/assists null. Palmeiras hold 80% of rights; contract to 31 Dec 2029 (contract_until 2029). Market value EUR 37.7m per search snippet (source style consistent with Transfermarkt, date 2026 - not directly confirmed). Note: the 2026 Brasileirão is in progress; 2026 figures not collected. Fee is researcher's estimate."
+  }
+}

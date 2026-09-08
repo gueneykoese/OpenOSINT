@@ -1,0 +1,86 @@
+{
+  "player_id": "aral_simsir",
+  "name": "Aral Şimşir",
+  "age": 23,
+  "date_of_birth": "2003-01-17",
+  "nationality": [
+    "TUR",
+    "DEN"
+  ],
+  "position": "RW",
+  "secondary_positions": [
+    "LW",
+    "AM"
+  ],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Trabzonspor",
+  "current_club_league": "Süper Lig",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 15,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Danish Superliga (Midtjylland)",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 6,
+    "assists": 11,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "creative wide playmaker",
+      "assist leader profile (11 Superliga assists 2025/26)",
+      "left-footed",
+      "Turkey international, Danish-raised",
+      "joined Trabzonspor Jul 2026 for EUR 13m + up to 2m (club record)"
+    ],
+    "best_system": [
+      "4-3-3 inverted winger",
+      "4-2-3-1 no.10"
+    ],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "da",
+      "tr",
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.tribalfootball.com/article/soccer-super-lig-trabzonspor-complete-record-deal-for-aral-simsir-4c912a4e-24a4-42b3-aeb7-3c03f91cf54b",
+    "https://footystats.org/players/denmark/aral-simsir",
+    "https://www.fotmob.com/players/1126769/aral-simsir"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Joined Trabzonspor July 2026: EUR 13m fixed (+2m bonuses), 4-year deal + 1-year option -> contract_until 2030 (TribalFootball). 2025/26 Superliga: 6 goals, 11 assists (FootyStats/FotMob snippets, minor variation between sources). Nationality TUR (international) with Danish citizenship. Fee is researcher's estimate. DOB from general knowledge - verify."
+  }
+}

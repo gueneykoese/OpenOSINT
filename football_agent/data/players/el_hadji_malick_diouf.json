@@ -1,0 +1,82 @@
+{
+  "player_id": "el_hadji_malick_diouf",
+  "name": "El Hadji Malick Diouf",
+  "age": 21,
+  "date_of_birth": "2004-12-14",
+  "nationality": [
+    "SEN"
+  ],
+  "position": "LB",
+  "secondary_positions": [
+    "LWB",
+    "LW"
+  ],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Brentford",
+  "current_club_league": "Premier League",
+  "contract_until": 2031,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 40,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": 32,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": 5,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "attacking left-back",
+      "overlapping runs",
+      "crossing/assist output",
+      "Senegal international",
+      "ex-Slavia Praha"
+    ],
+    "best_system": [
+      "4-3-3",
+      "3-5-2 wing-back"
+    ],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.brentfordfc.com/en/news/article/first-team-brentford-el-hadji-malick-diouf-west-ham-united-transfer",
+    "https://www.capology.com/player/el-hadji-malick-diouf-38349/",
+    "https://www.premierleague.com/en/players/613804/el-hadji-malick-diouf/career",
+    "https://uk.soccerway.com/player/malick-diouf/n1SNJhEe"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Moved West Ham -> Brentford in summer 2026 on a five-year contract with club option of a further year (Brentford official site) -> contract_until 2031 (option year not counted); fee not stated in snippet. 2025/26 at West Ham: 32 PL apps, 5 assists (Brentford site); another source shows 17 starts/4 assists/4 yellows - kept the club-site figure. Market value EUR 27.4m cited (platform unclear) -> null. estimated_fee researcher's estimate."
+  }
+}

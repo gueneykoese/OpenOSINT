@@ -1,0 +1,82 @@
+{
+  "player_id": "juan_cruz_meza",
+  "name": "Juan Cruz Meza",
+  "age": 19,
+  "date_of_birth": null,
+  "nationality": [
+    "ARG"
+  ],
+  "position": "AM",
+  "secondary_positions": [
+    "CM"
+  ],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "CA River Plate",
+  "current_club_league": "Liga Profesional Argentina",
+  "contract_until": 2026,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 10,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": 30,
+  "agent_status": "represented",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Liga Profesional / Copa Sudamericana 2026",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed creative midfielder",
+      "academy prospect",
+      "Borussia Dortmund tracking (La Página Millonaria)",
+      "contract expires Dec 2026 - renewal pending"
+    ],
+    "best_system": [
+      "4-3-3 as advanced 8"
+    ],
+    "weak_in": [
+      "senior minutes"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "es"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://lapaginamillonaria.com/mercado-de-pases/borussia-dortmund-sigue-de-cerca-a-juan-cruz-meza-y-en-river-estan-atentos-hasta-cuando-tiene-contrato-y-su-clausula-de-salida",
+    "https://www.fotmob.com/players/1783664/juan-meza",
+    "https://es.soccerway.com/jugador/meza-juan/t2KppJtP"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "First pro contract to 31 Dec 2026 with EUR 30m clause (rising to 35m in last 10 days of Argentine window) per La Página Millonaria; a renewal may have been agreed since - unverified. Played Copa Sudamericana and Liga Profesional minutes in 2026; totals null. DOB, age (approx 19) not confirmed. Fee is researcher's estimate given expiring contract."
+  }
+}

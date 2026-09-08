@@ -1,0 +1,84 @@
+{
+  "player_id": "seedy_jatta",
+  "name": "Seedy Jatta",
+  "age": 23,
+  "date_of_birth": "2003-08-22",
+  "nationality": [
+    "NOR"
+  ],
+  "position": "ST",
+  "secondary_positions": [
+    "LW"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "SK Sturm Graz",
+  "current_club_league": "Austrian Bundesliga",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 4,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Austrian Bundesliga",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 4,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "physical forward",
+      "ex-Vålerenga",
+      "Norway U21 international",
+      "Austrian champion with Sturm"
+    ],
+    "best_system": [
+      "4-4-2 pressing"
+    ],
+    "weak_in": [
+      "finishing consistency"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "no",
+      "en",
+      "de"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1233202/seedy-jatta",
+    "https://en.wikipedia.org/wiki/Seedy_Jatta",
+    "https://ke.soccerway.com/player/jatta-seedy/Kdjbh61l"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "2025/26 Austrian Bundesliga: 4 goals, 2 assists (FotMob snippet); apps null. Contract not retrieved. FotMob 'transfer value' EUR 1.2m is not Transfermarkt -> null. Not re-verified at Sturm after summer 2026. DOB from general knowledge. Fee is researcher's estimate."
+  }
+}

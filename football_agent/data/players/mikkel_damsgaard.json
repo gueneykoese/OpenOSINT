@@ -1,0 +1,83 @@
+{
+  "player_id": "mikkel_damsgaard",
+  "name": "Mikkel Damsgaard",
+  "age": 26,
+  "date_of_birth": "2000-07-03",
+  "nationality": [
+    "DEN"
+  ],
+  "position": "AM",
+  "secondary_positions": [
+    "LW",
+    "CM"
+  ],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Brentford",
+  "current_club_league": "Premier League",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 35,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "all competitions",
+    "apps": 33,
+    "starts": 24,
+    "minutes": null,
+    "goals": 4,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "chief creator",
+      "set-piece taker",
+      "42 chances created 2025/26",
+      "Denmark international"
+    ],
+    "best_system": [
+      "4-2-3-1",
+      "4-3-3 as No.8"
+    ],
+    "weak_in": [
+      "physical duels"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mikkel_Damsgaard",
+    "https://www.premierleague.com/en/players/440089/mikkel-damsgaard/stats",
+    "https://www.livescore.com/en/season-stats/mikkel-damsgaard/16488/",
+    "https://footystats.org/players/denmark/mikkel-damsgaard"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 2030 (+1 option) signed 22 Jan 2025 (Wikipedia). 2025/26: 33 games (24 starts), 4 goals, 4 assists, 42 chances created. Market value EUR 30.6m cited (platform unclear, not confirmed Transfermarkt) -> null. estimated_fee researcher's estimate."
+  }
+}

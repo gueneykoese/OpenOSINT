@@ -1,0 +1,89 @@
+{
+  "player_id": "mert_komur",
+  "name": "Mert Kömür",
+  "age": 21,
+  "date_of_birth": "2005-07-11",
+  "nationality": [
+    "GER",
+    "TUR"
+  ],
+  "position": "AM",
+  "secondary_positions": [
+    "RW",
+    "CM"
+  ],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "FC Augsburg",
+  "current_club_league": "Bundesliga",
+  "contract_until": 2029,
+  "market_value_eur_m": 12,
+  "estimated_fee_eur_m": 14,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": 28,
+    "starts": 18,
+    "minutes": null,
+    "goals": 2,
+    "assists": 5,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed creative attacking midfielder",
+      "between-the-lines receiver",
+      "Germany U21 international",
+      "Augsburg academy graduate"
+    ],
+    "best_system": [
+      "4-2-3-1 as No.10",
+      "3-4-2-1"
+    ],
+    "weak_in": [
+      "physicality",
+      "defensive work"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Reported to have agreed personal terms with Hull City (summer 2026) after Augsburg rejected four bids; one red card in 2025/26 (Soccerway)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "de",
+      "tr"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.getfootballnewsgermany.com/2026/mert-komur-hull-open/",
+    "https://sports.yahoo.com/articles/hull-city-fail-fourth-effort-175900826.html",
+    "https://bulinews.com/augsburg-reject-two-hull-city-bids-for-mert-komur",
+    "https://sports.yahoo.com/articles/ikta-submit-10m-offer-augsburg-162000850.html",
+    "https://en.wikipedia.org/wiki/Mert_K%C3%B6m%C3%BCr"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 2029 (signed summer 2025), no release clause. Transfermarkt EUR 12m (2026 snippet). 2025/26 Bundesliga: 28 apps (18 starts), 2 goals, 5 assists; Soccerway all-comps line: 23 apps 2g 3a (earlier snapshot). Hull bids up to EUR 12m rejected; Augsburg wanted EUR 13-14m guaranteed; no completed move seen -> still Augsburg (not independently confirmed post-deadline). Milan/Besiktas (EUR 10m bid) also linked. estimated_fee = Augsburg's reported ask. DOB from general knowledge."
+  }
+}

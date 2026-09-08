@@ -1,0 +1,87 @@
+{
+  "player_id": "fares_chaibi",
+  "name": "Farès Chaïbi",
+  "age": 23,
+  "date_of_birth": "2002-11-28",
+  "nationality": [
+    "ALG",
+    "FRA"
+  ],
+  "position": "CM",
+  "secondary_positions": [
+    "AM",
+    "DM"
+  ],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Eintracht Frankfurt",
+  "current_club_league": "Bundesliga",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 25,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": null,
+    "starts": null,
+    "minutes": 1797,
+    "goals": 2,
+    "assists": 9,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed creative midfielder",
+      "high assist output (9 in 2025/26)",
+      "set-piece delivery",
+      "Algeria international"
+    ],
+    "best_system": [
+      "4-2-3-1 as No.8/No.10",
+      "3-4-2-1"
+    ],
+    "weak_in": [
+      "defensive duels"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "fr",
+      "ar",
+      "de"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1345875/fares-chaibi",
+    "https://us.soccerway.com/player/fares-chaibi/IusyCIkS/",
+    "https://www.footballtransfers.com/en/players/fares-chaibi"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB 28 Nov 2002; contract to 30 Jun 2028 (Soccerway). 2025/26 Bundesliga: 2 goals, 9 assists, 1,797 minutes (FotMob; apps not given). Market value: FotMob EUR 15.9m / Soccerway EUR 14.7m / ETV 17.7-21.6m - Transfermarkt not seen -> null. Still Frankfurt per Sep 2026 stat pages. estimated_fee is researcher's estimate."
+  }
+}

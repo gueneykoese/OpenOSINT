@@ -1,0 +1,86 @@
+{
+  "player_id": "said_el_mala",
+  "name": "Said El Mala",
+  "age": 20,
+  "date_of_birth": "2006-08-04",
+  "nationality": [
+    "GER"
+  ],
+  "position": "LW",
+  "secondary_positions": [
+    "RW",
+    "AM"
+  ],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "1. FC Köln",
+  "current_club_league": "Bundesliga",
+  "contract_until": 2031,
+  "market_value_eur_m": 42.5,
+  "estimated_fee_eur_m": 60,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "All competitions",
+    "apps": 34,
+    "starts": null,
+    "minutes": null,
+    "goals": 13,
+    "assists": 5,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "explosive left winger",
+      "direct dribbler cutting inside",
+      "breakout 2025/26 (13 goals)",
+      "Germany international at 19",
+      "new Köln No.10"
+    ],
+    "best_system": [
+      "4-2-3-1 wide",
+      "4-3-3"
+    ],
+    "weak_in": [
+      "defensive discipline off the ball (unverified)"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Chose to extend at Köln in Aug 2026 despite three Dortmund bids and Leipzig/Tottenham interest (Sky Germany via GGFN, Washington Post)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "de"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": "High-profile German youth international; Köln fan favourite",
+    "notes": null
+  },
+  "sources": [
+    "https://www.getfootballnewsgermany.com/2026/official-said-el-mala-extends-cologne-contract-until-2031/",
+    "https://www.washingtonpost.com/sports/soccer/2026/08/21/cologne-el-mala-contract-dortmund/4133fa10-9d45-11f1-9cc4-2dc9b46e2d5c_story.html",
+    "https://tothelaneandback.com/2026/08/22/tottenham-target-said-el-mala-new-contract-fc-koln-2031/",
+    "https://ca.soccerway.com/player/el-mala-said/KzrmNypJ"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "high",
+    "notes": "Contract to Jun 2031 signed Aug 2026, no exit clause per Sky Germany. 2025/26: 13 goals, 5 assists in 34 apps (Yahoo/OneFootball snippet, scope all comps presumed; starts/minutes null). Market value EUR 42.5m (stat-page snippet, Transfermarkt-style, Aug 2026). DOB from general knowledge. estimated_fee is researcher's estimate."
+  }
+}

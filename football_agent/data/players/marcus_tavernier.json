@@ -1,0 +1,80 @@
+{
+  "player_id": "marcus_tavernier",
+  "name": "Marcus Tavernier",
+  "age": 27,
+  "date_of_birth": "1999-03-22",
+  "nationality": [
+    "ENG"
+  ],
+  "position": "LW",
+  "secondary_positions": [
+    "AM",
+    "RW",
+    "LB"
+  ],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "AFC Bournemouth",
+  "current_club_league": "Premier League",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 30,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "all competitions",
+    "apps": 34,
+    "starts": null,
+    "minutes": 2738,
+    "goals": 7,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "versatile wide midfielder",
+      "direct running",
+      "set-piece delivery",
+      "Bournemouth 2nd-top scorer 2025/26"
+    ],
+    "best_system": [
+      "4-2-3-1 high press"
+    ],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": 3,
+    "notes": "6 yellow cards in 2025/26 (FotMob snippet)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/en-GB/players/789630/marcus-tavernier",
+    "https://roundtable.io/sports/soccer/premier-league/afc-bournemouth/opinion/marcus-tavernier-stats-which-prove-he-s-not-bournemouth-s-weak-link",
+    "https://ca.soccerway.com/player/tavernier-marcus/jFqXIRZj"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 30 Jun 2029 (Soccerway). 2025/26: 34 games, 2738 min, 7 goals, 4 assists (FotMob/Roundtable). Transfermarkt value not seen -> null. estimated_fee researcher's estimate."
+  }
+}

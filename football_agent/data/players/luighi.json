@@ -1,0 +1,86 @@
+{
+  "player_id": "luighi",
+  "name": "Luighi",
+  "age": 20,
+  "date_of_birth": "2006-02-12",
+  "nationality": [
+    "BRA"
+  ],
+  "position": "LW",
+  "secondary_positions": [
+    "RW",
+    "ST"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "SE Palmeiras",
+  "current_club_league": "Brasileirão Série A",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 12,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": 80,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "All competitions 2025 (Palmeiras first team)",
+    "apps": 8,
+    "starts": 2,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "quick wide forward",
+      "academy graduate",
+      "fringe first-team 2025",
+      "Brazil U20",
+      "Palmeiras hold 70% of rights"
+    ],
+    "best_system": [
+      "4-2-3-1 wide"
+    ],
+    "weak_in": [
+      "limited senior minutes"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": 4,
+    "discipline": null,
+    "notes": "Publicly documented: target of racist abuse in a 2025 Copa Libertadores U20 match (Cerro Porteño), spoke out publicly and received institutional support (widely reported, Feb-Mar 2025)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "pt"
+    ],
+    "family_situation": null,
+    "public_statements": [
+      "Emotional public statement against racism after the Feb 2025 U20 Libertadores incident (CNN Brasil et al.)."
+    ],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/conheca-luighi-promessa-do-palmeiras-com-multa-de-r500-milhoes/",
+    "https://en.wikipedia.org/wiki/Luighi",
+    "https://www.lance.com.br/palmeiras/garotos-da-base-se-destacam-e-salvam-palmeiras-no-campeonato-paulista.html"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to Dec 2028 with EUR 80m clause (CNN Brasil). 2025 first-team: 8 matches, 2 starts, 1 goal (Lance snippet). Percentage-of-rights 70% per Vamo Futebol. DOB from general knowledge - verify. Fee is researcher's estimate; clause not a realistic price."
+  }
+}

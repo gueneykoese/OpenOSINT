@@ -1,0 +1,79 @@
+{
+  "player_id": "mario_gila",
+  "name": "Mario Gila",
+  "age": 26,
+  "date_of_birth": "2000-08-29",
+  "nationality": [
+    "ESP"
+  ],
+  "position": "CB",
+  "secondary_positions": [
+    "RB"
+  ],
+  "preferred_foot": "right",
+  "height_cm": 184,
+  "current_club": "AC Milan",
+  "current_club_league": "Serie A",
+  "contract_until": 2031,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 30,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Serie A (Lazio)",
+    "apps": 19,
+    "starts": null,
+    "minutes": 1653,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "mobile front-foot centre-back",
+      "good on the ball (Real Madrid Castilla product)",
+      "Spain U21 / senior call-ups"
+    ],
+    "best_system": [
+      "4-3-3 high line",
+      "back three"
+    ],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.flashscoreusa.com/player/gila-mario/dQqXDhtf/",
+    "https://www.capology.com/player/mario-gila-36767/",
+    "https://fbref.com/en/players/9c435456/Mario-Gila",
+    "https://ca.soccerway.com/player/gila-mario/dQqXDhtf"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Flashscore lists him at AC Milan for 2026/27 with a contract to June 2031 - i.e. a summer-2026 move from Lazio (whose deal ran to 2027); fee and official confirmation NOT seen -> verify. 2025/26 at Lazio: 19 Serie A apps, 1653 min, 0 G/A (FBref-type source); another source says 27 apps all comps. Transfermarkt value not seen -> null. estimated_fee researcher's estimate."
+  }
+}

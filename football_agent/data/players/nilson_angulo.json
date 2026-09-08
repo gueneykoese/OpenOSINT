@@ -1,0 +1,81 @@
+{
+  "player_id": "nilson_angulo",
+  "name": "Nilson Angulo",
+  "age": 23,
+  "date_of_birth": "2003-06-19",
+  "nationality": [
+    "ECU"
+  ],
+  "position": "LW",
+  "secondary_positions": [
+    "LB"
+  ],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "RSC Anderlecht",
+  "current_club_league": "Belgian Pro League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 6,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Belgian Pro League",
+    "apps": 20,
+    "starts": null,
+    "minutes": null,
+    "goals": 3,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "direct left winger",
+      "one-v-one dribbler",
+      "ex-LDU Quito",
+      "Ecuador international"
+    ],
+    "best_system": [
+      "4-3-3"
+    ],
+    "weak_in": [
+      "consistency of end product"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "es"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.uefa.com/uefaconferenceleague/clubs/50074--anderlecht/squad/",
+    "https://www.premierleague.com/players/137135/Nilson-Angulo/stats"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "2025/26: 3 goals, 1 assist in 20 matches (search snippet, competition assumed league). Contract length not found. Not re-verified at Anderlecht after summer 2026 -> low confidence. DOB from general knowledge. Fee is researcher's estimate."
+  }
+}

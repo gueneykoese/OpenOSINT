@@ -1,0 +1,87 @@
+{
+  "player_id": "semih_kilicsoy",
+  "name": "Semih Kılıçsoy",
+  "age": 21,
+  "date_of_birth": "2005-08-15",
+  "nationality": [
+    "TUR"
+  ],
+  "position": "ST",
+  "secondary_positions": [
+    "LW",
+    "RW"
+  ],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Beşiktaş JK",
+  "current_club_league": "Süper Lig",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 10,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Serie A (on loan at Cagliari)",
+    "apps": 22,
+    "starts": null,
+    "minutes": 975,
+    "goals": 4,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "mobile second striker",
+      "left-footed",
+      "quick turn-and-shoot in the box",
+      "Beşiktaş academy graduate",
+      "Turkey international",
+      "loan at Cagliari 2025/26 (EUR 12m option not exercised)"
+    ],
+    "best_system": [
+      "4-2-3-1 as no.9 or off the left"
+    ],
+    "weak_in": [
+      "hold-up play as lone target"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "tr",
+      "it"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Semih_K%C4%B1l%C4%B1%C3%A7soy",
+    "https://www.haberturk.com/semih-kilicsoy-besiktas-a-donuyor-3888397-spor",
+    "https://www.aspor.com.tr/besiktas/2025/08/01/semih-kilicsoy-transferinin-detaylari-aciklandi",
+    "https://www.fotmob.com/players/1435689/semih-kilicsoy"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Loaned to Cagliari Aug 2025 (EUR 1m loan fee, EUR 12m option); Cagliari president publicly declined the option (Habertürk, 2026) and he returned to Beşiktaş for 2026/27. Contract to 2028. 2025/26 Serie A: 22 apps, 975 min, 4 goals (search snippet); assists null. Fee estimate anchored below the unexercised EUR 12m option; researcher's estimate. DOB from general knowledge - verify."
+  }
+}

@@ -1,0 +1,83 @@
+{
+ "player_id": "moise_kean",
+ "name": "Moise Kean",
+ "age": 26,
+ "date_of_birth": "2000-02-28",
+ "nationality": [
+  "ITA"
+ ],
+ "position": "ST",
+ "secondary_positions": [
+  "LW"
+ ],
+ "preferred_foot": "right",
+ "height_cm": 183,
+ "current_club": "Como 1907",
+ "current_club_league": "Serie A",
+ "contract_until": 2029,
+ "market_value_eur_m": null,
+ "estimated_fee_eur_m": 62,
+ "wage_eur_m_net": 4.5,
+ "release_clause_eur_m": 62,
+ "agent_status": "represented",
+ "availability": "open to move",
+ "stats_2025_26": {
+  "competition": "all competitions",
+  "apps": 11,
+  "starts": null,
+  "minutes": null,
+  "goals": 2,
+  "assists": 1,
+  "xg": null,
+  "xa": null,
+  "shots_p90": null,
+  "key_passes_p90": null,
+  "dribbles_p90": null,
+  "tackles_interceptions_p90": null,
+  "pass_completion_pct": null,
+  "aerials_won_pct": null,
+  "progressive_carries_p90": null
+ },
+ "style_profile": {
+  "tags": [
+   "explosive channel-running striker",
+   "carries and shoots from wide-left",
+   "25 goals in 2024/25",
+   "Italy international",
+   "streaky output"
+  ],
+  "best_system": [
+   "3-5-2 with a partner",
+   "4-2-3-1 lone striker with runners"
+  ],
+  "weak_in": [
+   "link-up / false-nine role"
+  ]
+ },
+ "mental_profile": {
+  "leadership": null,
+  "coachability": null,
+  "resilience": null,
+  "discipline": null,
+  "notes": null
+ },
+ "injury_history": [],
+ "off_pitch": {
+  "languages": [],
+  "family_situation": null,
+  "public_statements": [],
+  "commercial_profile": null,
+  "notes": null
+ },
+ "sources": [
+  "https://sports.yahoo.com/article/italy-star-kean-extends-fiorentina-103500503.html",
+  "https://www.thescore.com/ita_fed/news/3334569",
+  "https://www.goal.com/en-ca/lists/kean-shines-for-the-national-team-and-reignites-transfer-speculation-the-value-of-his-release-clause-fiorentina-s-valuation-and-the-scenarios-for-milan/bltc403ae07336e77fd",
+  "https://www.footitalia.com/news/serie-a-transfer-news-moise-kean-sale-fiorentina/"
+ ],
+ "as_of": "2026-09-08",
+ "data_quality": {
+  "confidence": "medium",
+  "notes": "CORRECTED 2026-09-08: pool research initially recorded 'Fiorentina' as current club, but this season's dossier for Como 1907 (data/clubs/como.json, sourced summer-2026 arrivals list) confirms the transfer completed. Contract renewed to 2029 with a EUR 62m release clause exercisable only 1-15 July (Football Italia/theScore); salary EUR 4.5m/season (net not confirmed - entered as reported). 2025/26 stats '2G 1A in 11 apps' come from a MID-SEASON snippet and are PARTIAL - full-season figures not retrieved. Football Italia reported Fiorentina 'open to a sale' (2026) -> availability 'open to move'; whether he stayed through summer 2026 was not explicitly confirmed - verify. Transfermarkt value not seen -> null. estimated_fee set to the clause."
+ }
+}

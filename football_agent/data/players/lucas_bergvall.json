@@ -1,0 +1,90 @@
+{
+  "player_id": "lucas_bergvall",
+  "name": "Lucas Bergvall",
+  "age": 20,
+  "date_of_birth": "2006-02-02",
+  "nationality": [
+    "SWE"
+  ],
+  "position": "CM",
+  "secondary_positions": [
+    "AM",
+    "DM"
+  ],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Tottenham Hotspur",
+  "current_club_league": "Premier League",
+  "contract_until": 2031,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 50,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "all competitions",
+    "apps": 18,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "technical ball-carrying midfielder",
+      "progressive passer",
+      "injury-disrupted 2025/26"
+    ],
+    "best_system": [
+      "4-3-3"
+    ],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [
+    {
+      "type": "concussion",
+      "season": "2025/26",
+      "days_out": 20
+    },
+    {
+      "type": "unspecified",
+      "season": "2025/26",
+      "days_out": null
+    }
+  ],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.spotrac.com/epl/player/contracts/_/id/92530/lucas-bergvall",
+    "https://www.fotmob.com/players/1386775/lucas-bergvall",
+    "https://iconpolls.com/blogs/lucas-bergvall-in-2026-net-worth-and-salary-injury-wife-parents-height-and-faqs",
+    "https://ca.soccerway.com/player/bergvall-lucas/th3mAHj9"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 30 Jun 2031 (Spotrac). 2025/26: 18 apps, 1 goal, 2 assists (competition split not given). Concussion 2-22 Nov 2025 and another absence 29 Dec 2025-3 Jan 2026 per snippet. Market value EUR 39-42m from FotMob/ETV, Transfermarkt not seen -> null. estimated_fee researcher's estimate."
+  }
+}

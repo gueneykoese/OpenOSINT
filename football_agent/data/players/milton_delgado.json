@@ -1,0 +1,84 @@
+{
+  "player_id": "milton_delgado",
+  "name": "Milton Delgado",
+  "age": 21,
+  "date_of_birth": "2005-07-03",
+  "nationality": [
+    "ARG"
+  ],
+  "position": "DM",
+  "secondary_positions": [
+    "CM"
+  ],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "CA Boca Juniors",
+  "current_club_league": "Liga Profesional Argentina",
+  "contract_until": 2029,
+  "market_value_eur_m": 10,
+  "estimated_fee_eur_m": 15,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": 22,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga Profesional (career to mid-2026)",
+    "apps": 64,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "deep-lying midfielder",
+      "press-resistant, high pass volume",
+      "Argentina U20 captain (2025 U20 World Cup finalist)",
+      "Boca asking c. USD 15m (Riquelme, Jul 2026)",
+      "interest: Inter, Bournemouth, Beşiktaş, Dortmund, Frankfurt, Leverkusen, Galatasaray (reported)"
+    ],
+    "best_system": [
+      "4-3-3 single pivot"
+    ],
+    "weak_in": [
+      "goal threat"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "es"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://elintransigente.com/2026/07/milton-delgado-boca-precio-15-millones/",
+    "https://www.futbolparatodos.com.ar/noticias/2026/05/21/boca-en-alerta-por-el-interes-europeo-sobre-milton-delgado/",
+    "https://elintransigente.com/2026/09/boca-milton-delgado-galatasaray/",
+    "https://www.fichajes.com/jugador/milton-delgado/"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract renewed early 2026 to 31 Dec 2029; release clause USD 25m (converted ~EUR 22m at approx 0.9 - approximate). Transfermarkt value EUR 10m per fichajes.com snippet (2026). Stats: 64 career Primera apps / 2 assists (cumulative, not season-specific) - season stats null. Still at Boca per Sep 2026 Galatasaray-interest report. Fee = Boca's reported USD 15m ask (~EUR 13-15m). DOB from general knowledge."
+  }
+}

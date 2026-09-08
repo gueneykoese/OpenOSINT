@@ -1,0 +1,84 @@
+{
+  "player_id": "andrea_cambiaso",
+  "name": "Andrea Cambiaso",
+  "age": 26,
+  "date_of_birth": "2000-02-20",
+  "nationality": [
+    "ITA"
+  ],
+  "position": "LB",
+  "secondary_positions": [
+    "RB",
+    "LM",
+    "CM"
+  ],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Juventus",
+  "current_club_league": "Serie A",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 60,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Serie A",
+    "apps": 36,
+    "starts": null,
+    "minutes": 2795,
+    "goals": 3,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "two-footed full-back",
+      "inverts into midfield",
+      "creative wide player",
+      "Italy international"
+    ],
+    "best_system": [
+      "3-4-2-1 wing-back",
+      "4-3-3 inverted full-back"
+    ],
+    "weak_in": [
+      "1v1 defending vs elite wingers"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": 3,
+    "notes": "3 yellow cards, 1 red in Serie A 2025/26 (FotMob snippet). Reported (TransferFeed) to have expressed a desire to stay at Juventus."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.sportbusy.com/players/soccer/308029/",
+    "https://www.footitalia.com/news/andrea-cambiaso-transfer-real-madrid-liverpool-juventus-news",
+    "https://www.blackwhitereadallover.com/juventus-transfer-rumours-news/39315/andrea-cambiaso-juventus-chelsea-barcelona-2026-serie-a-premier-league-la-liga-summer-transfer-rumors",
+    "https://www.transferfeed.com/transfers/andrea-cambiaso-juventus/288027"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "CONFLICTING REPORTS: one snippet says Juventus agreed a EUR 60m+bonus fee with Manchester City in January 2026 with the move deferred to summer; another says he is set to extend to 2030 and wants to stay. No confirmation of a completed summer-2026 transfer was seen, so current_club is kept as Juventus with contract 2029 - VERIFY before use (if he joined Man City he is out of scope). 2025/26 Serie A: 36 apps, 2795 min, 3 goals, 4 assists (SportBusy/FotMob; LiveScore shows 3 assists). Transfermarkt value not seen -> null. estimated_fee researcher's estimate."
+  }
+}

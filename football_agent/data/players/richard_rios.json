@@ -1,0 +1,84 @@
+{
+  "player_id": "richard_rios",
+  "name": "Richard Ríos",
+  "age": 26,
+  "date_of_birth": "2000-06-02",
+  "nationality": [
+    "COL"
+  ],
+  "position": "DM",
+  "secondary_positions": [
+    "CM"
+  ],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "SL Benfica",
+  "current_club_league": "Liga Portugal",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 40,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Liga Portugal",
+    "apps": null,
+    "starts": null,
+    "minutes": 2279,
+    "goals": 5,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "ball-carrying no.8/no.6",
+      "press-resistant",
+      "late box arrivals (5 league goals)",
+      "high card count (9 yellows)",
+      "Colombia international (37 caps)",
+      "2025 signing from Palmeiras (EUR 30m)"
+    ],
+    "best_system": [
+      "4-3-3 double pivot"
+    ],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": 3,
+    "notes": "9 yellow cards in 2,279 Liga Portugal minutes 2025/26 (FotMob). Score derived from that record only."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "es",
+      "pt"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/en-GB/players/1174630/richard-rios",
+    "https://en.wikipedia.org/wiki/Richard_R%C3%ADos",
+    "https://www.soccerzz.com/player/richard-rios/744267",
+    "https://tacticalfootballanalysis.com/richard-rios-scout-report-benfica-2025-2026-analysis-tactics/"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Signed by Benfica 22 Jul 2025 for c. EUR 30m on a five-year deal (-> 2030). soccerzz lists a 2026/27 Benfica profile -> still at club. 2025/26 Liga Portugal: 5 goals, 4 assists, 2,279 min (FotMob). Over the 18-24 priority band but a core sellable asset at a pipeline club. Fee is researcher's estimate; market value not retrieved."
+  }
+}

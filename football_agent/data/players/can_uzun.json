@@ -1,0 +1,89 @@
+{
+  "player_id": "can_uzun",
+  "name": "Can Uzun",
+  "age": 20,
+  "date_of_birth": "2005-11-11",
+  "nationality": [
+    "TUR",
+    "GER"
+  ],
+  "position": "AM",
+  "secondary_positions": [
+    "ST",
+    "RW"
+  ],
+  "preferred_foot": "left",
+  "height_cm": 186,
+  "current_club": "Eintracht Frankfurt",
+  "current_club_league": "Bundesliga",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 70,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": 21,
+    "starts": null,
+    "minutes": null,
+    "goals": 8,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed creative No.10",
+      "elite shooter from range",
+      "breakout 2025/26",
+      "Frankfurt sell-on model asset"
+    ],
+    "best_system": [
+      "4-2-3-1 as No.10",
+      "4-3-3 free eight"
+    ],
+    "weak_in": [
+      "pressing volume",
+      "aerial duels"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "de",
+      "tr"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": "Turkey international; large Turkish-German following",
+    "notes": null
+  },
+  "sources": [
+    "https://www.bundesliga.com/en/player/can-uzun",
+    "https://bulinews.com/eintracht-eye-uzun-extension-amid-rising-transfer-speculation",
+    "https://tribuna.com/en/news/2025-10-06-eintracht-frankfurt-set-80-million-price-tag-for-can-uzun-amid-premier-league-interest-re/",
+    "https://www.fotmob.com/players/1367924/can-uzun",
+    "https://tacticalfootballanalysis.com/can-uzun-scout-report-eintracht-frankfurt-2025-2026-analysis/"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 2029, no release clause (bulinews). 2025/26 Bundesliga 21 apps, 8 goals, 4 assists (one snippet); another source says 10 goals/5 assists (probably all comps or later date) - used the league line. Market value: EUR 37.7m ETV / EUR 44m (platform unclear) -> null; Frankfurt asking price reported EUR 80m (Oct 2025). Still at Frankfurt for 2026/27 per Bundesliga.com listing - extension talks reported. estimated_fee is researcher's estimate."
+  }
+}

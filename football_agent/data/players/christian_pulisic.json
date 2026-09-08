@@ -1,0 +1,86 @@
+{
+  "player_id": "christian_pulisic",
+  "name": "Christian Pulisic",
+  "age": 27,
+  "date_of_birth": "1998-09-18",
+  "nationality": [
+    "USA"
+  ],
+  "position": "RW",
+  "secondary_positions": [
+    "AM",
+    "LW"
+  ],
+  "preferred_foot": "right",
+  "height_cm": 177,
+  "current_club": "AC Milan",
+  "current_club_league": "Serie A",
+  "contract_until": 2027,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 45,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Serie A",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 8,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "inverted winger / No.10",
+      "two-footed finisher",
+      "high goal involvement (15 and 17 Serie A goals in prior seasons)",
+      "USA captain-level profile"
+    ],
+    "best_system": [
+      "4-2-3-1 right of the 10",
+      "3-4-2-1 inside forward"
+    ],
+    "weak_in": [
+      "heavy defensive wide role"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "en",
+      "it"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": "Highest-profile US men's player; strong US commercial and broadcast appeal (World Cup 2026 host nation).",
+    "notes": null
+  },
+  "sources": [
+    "https://www.foxsports.com/stories/soccer/why-christian-pulisics-ac-milan-contract-talks-have-been-put-on-hold-amid-simmering-transfer-interest-explained",
+    "https://www.goal.com/en/lists/christian-pulisic-contract-update-ac-milan-date-talks-usmnt-star-details-improved-offer-revealed/blt6cfd31cdbf2b0373",
+    "https://worldsoccertalk.com/news/christian-pulisics-difficult-2026-takes-new-twist-with-worrying-milan-renewal-news/",
+    "https://www.fotmob.com/players/688295/christian-pulisic"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Contract to June 2027 with a Milan unilateral option to 2028; renewal talks were put on standby until end of 2025/26 and reports since are mixed (one says agreement to 2028+ at EUR 4-5m/yr, another 'worrying' news in 2026) - status after summer 2026 NOT confirmed, so contract_until stays 2027. 2025/26 Serie A: 8 goals, 4 assists per FotMob snippet (season described as injury-disrupted - not verified). Transfermarkt value not seen -> null. estimated_fee researcher's estimate."
+  }
+}

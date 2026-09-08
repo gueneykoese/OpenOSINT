@@ -1,0 +1,92 @@
+{
+  "player_id": "oihan_sancet",
+  "name": "Oihan Sancet",
+  "age": 26,
+  "date_of_birth": "2000-04-25",
+  "nationality": [
+    "ESP"
+  ],
+  "position": "AM",
+  "secondary_positions": [
+    "CM",
+    "ST"
+  ],
+  "preferred_foot": "left",
+  "height_cm": 188,
+  "current_club": "Athletic Club",
+  "current_club_league": "La Liga",
+  "contract_until": 2032,
+  "market_value_eur_m": 32.8,
+  "estimated_fee_eur_m": 70,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": 80,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "All competitions",
+    "apps": 22,
+    "starts": null,
+    "minutes": null,
+    "goals": 3,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "tall left-footed No.10",
+      "late box arrivals",
+      "penalty taker",
+      "long-range shooter",
+      "injury-interrupted 2025/26"
+    ],
+    "best_system": [
+      "4-2-3-1 as No.10"
+    ],
+    "weak_in": [
+      "pressing intensity",
+      "wide roles"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [
+    {
+      "type": "muscle/knee problems limiting him to 22 apps (type unverified)",
+      "season": "2025/26",
+      "days_out": null
+    }
+  ],
+  "off_pitch": {
+    "languages": [
+      "es"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.footballfancast.com/newcastle-january-transfer-news-oihan-sancet-athletic-club/",
+    "https://www.footboom1.com/en/news/football/2406668-sancet-s-eur80-million-release-clause-attracts-aston-villa-s-interest",
+    "https://www.transferfeed.com/transfers/oihan-sancet-athletic-club-arsenal/12337463",
+    "https://us.soccerway.com/player/sancet-ohian/hpZLKZVC"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 2032 with EUR 80m release clause (multiple outlets). Market value EUR 32.8m from a search snippet (platform not explicit; consistent with Transfermarkt-style figure, Sep 2026). 2025/26: 3 goals in 22 apps all comps (footballfancast snippet); reduced availability suggests injuries but type/days not sourced -> injury entry flagged unverified. Newcastle reportedly preparing ~EUR 70m offer for 2026. estimated_fee is researcher's estimate (below clause). DOB/height/foot from general knowledge, not re-verified in this pass."
+  }
+}

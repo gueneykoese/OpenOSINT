@@ -1,0 +1,83 @@
+{
+  "player_id": "juanlu_sanchez",
+  "name": "Juanlu Sánchez",
+  "age": 22,
+  "date_of_birth": null,
+  "nationality": [
+    "ESP"
+  ],
+  "position": "RB",
+  "secondary_positions": [
+    "RW",
+    "CM"
+  ],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Sevilla FC",
+  "current_club_league": "La Liga",
+  "contract_until": 2029,
+  "market_value_eur_m": 14.5,
+  "estimated_fee_eur_m": 22,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": null,
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "attacking right-back",
+      "academy graduate",
+      "can play wide midfield",
+      "energetic overlapping runner"
+    ],
+    "best_system": [
+      "4-2-3-1 with high full-backs"
+    ],
+    "weak_in": [
+      "deep-block defensive role"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "es"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.transferfeed.com/transfers/juanlu-sanchez-sevilla-rb-leipzig/9932732",
+    "https://us.soccerway.com/player/sanchez-juanlu/CtN0gVgf",
+    "https://www.fotmob.com/players/1158512/juanlu-sanchez"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 30 Jun 2029 and age 22 from Soccerway (Sep 2026). Market value EUR 14.5m from Soccerway/FotMob aggregator snippets (one source EUR 18.5m) - not confirmed as Transfermarkt. RB Leipzig linked (TransferFeed). 2025/26 stats not retrieved -> null. estimated_fee is researcher's estimate. DOB not retrieved."
+  }
+}

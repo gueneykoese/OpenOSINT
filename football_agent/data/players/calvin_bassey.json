@@ -1,0 +1,82 @@
+{
+  "player_id": "calvin_bassey",
+  "name": "Calvin Bassey",
+  "age": 26,
+  "date_of_birth": "1999-12-31",
+  "nationality": [
+    "NGA",
+    "ENG"
+  ],
+  "position": "CB",
+  "secondary_positions": [
+    "LB"
+  ],
+  "preferred_foot": "left",
+  "height_cm": 185,
+  "current_club": "Fulham",
+  "current_club_league": "Premier League",
+  "contract_until": 2027,
+  "market_value_eur_m": 27,
+  "estimated_fee_eur_m": 30,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": 30,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed centre-back",
+      "aggressive front-foot defender",
+      "ball-carrier",
+      "Fulham Player of the Season 2025/26",
+      "Nigeria international"
+    ],
+    "best_system": [
+      "4-2-3-1",
+      "back three"
+    ],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.capology.com/player/calvin-bassey-36525/",
+    "https://www.afrik-foot.com/en-ng/calvin-bassey-why-fulham-must-renew",
+    "https://www.spotrac.com/epl/player/_/id/85575/calvin-bassey",
+    "https://www.soccerway.com/player/bassey-calvin/faJVc0Mk/"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract expires 30 Jun 2027 (Capology). Fulham reported to intend a four-year renewal but parties 'some way apart' (Afrik-Foot, summer 2026); Inter, Newcastle, Bournemouth, Tottenham reportedly checked - unverified. 2025/26 PL: 30 of 38 apps, 1 goal, 7 clean sheets. Transfermarkt value ~EUR 27m cited by Afrik-Foot (date not exact, 2026). estimated_fee researcher's estimate."
+  }
+}

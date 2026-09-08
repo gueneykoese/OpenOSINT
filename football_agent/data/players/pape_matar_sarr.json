@@ -1,0 +1,82 @@
+{
+  "player_id": "pape_matar_sarr",
+  "name": "Pape Matar Sarr",
+  "age": 23,
+  "date_of_birth": "2002-09-14",
+  "nationality": [
+    "SEN"
+  ],
+  "position": "CM",
+  "secondary_positions": [
+    "DM",
+    "AM"
+  ],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Tottenham Hotspur",
+  "current_club_league": "Premier League",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 55,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": 26,
+    "starts": 13,
+    "minutes": 1389,
+    "goals": 2,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "high-energy box-to-box",
+      "pressing midfielder",
+      "ball-carrier",
+      "Senegal international"
+    ],
+    "best_system": [
+      "4-3-3 high press"
+    ],
+    "weak_in": [
+      "deep controlling No.6 role"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.premierleague.com/en/players/482442/pape-matar-sarr/stats",
+    "https://www.livescore.com/en/season-stats/pape-matar-sarr/2350/",
+    "https://us.soccerway.com/player/sarr-pape/CSjTl5sR/",
+    "https://www.mercatoeleven.com/players/37342694"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 30 Jun 2030 (Soccerway). 2025/26 PL: 26 apps (13 starts), 1389 min, 2 goals, 4 assists; all comps 37 apps / 2212 min. Market value EUR 69.6m (Aug 2026) is from Mercato XI, not Transfermarkt -> null. estimated_fee researcher's estimate. Rotation player in 2025/26 - possible unsettled status is speculation, not entered."
+  }
+}

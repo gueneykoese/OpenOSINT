@@ -1,0 +1,85 @@
+{
+  "player_id": "oscar_gloukh",
+  "name": "Oscar Gloukh",
+  "age": 22,
+  "date_of_birth": "2004-04-01",
+  "nationality": [
+    "ISR"
+  ],
+  "position": "AM",
+  "secondary_positions": [
+    "LW"
+  ],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "AFC Ajax",
+  "current_club_league": "Eredivisie",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 30,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Eredivisie",
+    "apps": 29,
+    "starts": null,
+    "minutes": null,
+    "goals": 6,
+    "assists": 6,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "creative no.10",
+      "left-footed",
+      "dribbler between the lines",
+      "ex-Salzburg (joined Ajax Aug 2025)",
+      "Israel international"
+    ],
+    "best_system": [
+      "4-2-3-1 with free no.10"
+    ],
+    "weak_in": [
+      "pure winger role hugging touchline"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "he",
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1337911/oscar-gloukh",
+    "https://en.wikipedia.org/wiki/Oscar_Gloukh",
+    "https://eredivisie.com/clubs/ajax/players/oscar-gloukh/",
+    "https://www.ajaxdaily.com/2025/oscar-gloukh-ajaxs-new-number-10-making-his-mark/"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Joined Ajax 1 Aug 2025 on a five-year deal (-> 2030). 2025/26 Eredivisie: 29 apps, 6 goals, 6 assists (Wikipedia/FotMob snippets). Still at Ajax in 2026/27 (ESPN 2026-27 Ajax stats list him with 3 goals so far). Transfermarkt value not retrieved -> null; fee is researcher's estimate. Preferred foot from general knowledge, not re-verified."
+  }
+}

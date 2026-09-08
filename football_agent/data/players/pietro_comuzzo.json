@@ -1,0 +1,80 @@
+{
+  "player_id": "pietro_comuzzo",
+  "name": "Pietro Comuzzo",
+  "age": 21,
+  "date_of_birth": "2005-02-20",
+  "nationality": [
+    "ITA"
+  ],
+  "position": "CB",
+  "secondary_positions": [
+    "RB"
+  ],
+  "preferred_foot": "right",
+  "height_cm": 190,
+  "current_club": "Fiorentina",
+  "current_club_league": "Serie A",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 30,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Serie A",
+    "apps": 23,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "academy-graduate centre-back",
+      "aggressive duelling",
+      "right-sided in back three",
+      "Italy youth/senior call-ups"
+    ],
+    "best_system": [
+      "3-5-2 right CB",
+      "4-3-3"
+    ],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.playmakerstats.com/player/pietro-comuzzo/1016573",
+    "https://www.footballtransfers.com/en/players/pietro-comuzzo-1",
+    "https://us.soccerway.com/player/comuzzo-pietro/xfB3Fqzl/",
+    "https://fbref.com/en/players/5e3ecc35/Pietro-Comuzzo"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 30 Jun 2029 (Soccerway). 2025/26: 23 league apps, 1 goal, 2 yellows; plus 1 cup and 11 European apps (Playmakerstats). Market value EUR 22.5-32.6m across platforms, Transfermarkt not confirmed -> null. Napoli bid ~EUR 35m in Jan 2025 (researcher's knowledge, not in this search). estimated_fee researcher's estimate."
+  }
+}

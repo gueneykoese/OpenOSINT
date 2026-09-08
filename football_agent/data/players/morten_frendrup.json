@@ -1,0 +1,84 @@
+{
+  "player_id": "morten_frendrup",
+  "name": "Morten Frendrup",
+  "age": 25,
+  "date_of_birth": "2001-04-07",
+  "nationality": [
+    "DEN"
+  ],
+  "position": "CM",
+  "secondary_positions": [
+    "DM",
+    "RB"
+  ],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Genoa",
+  "current_club_league": "Serie A",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 20,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "all competitions",
+    "apps": 29,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": 3,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "high-volume ball-winner",
+      "tackles and interceptions",
+      "tireless engine",
+      "Denmark international",
+      "ex-Brondby"
+    ],
+    "best_system": [
+      "4-2-3-1 double pivot",
+      "3-5-2"
+    ],
+    "weak_in": [
+      "primary creative duties"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/921543/morten-frendrup",
+    "https://www.footballtransfers.com/en/players/morten-wetche-frendrup",
+    "https://www.soccerway.com/player/frendrup-morten/2XPmtx2l/",
+    "https://www.livescore.com/en/season-stats/morten-frendrup/16555/"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 30 Jun 2028 (Soccerway). 2025/26: 29 apps, 1 goal, 3 assists (FotMob). Market value EUR 16-23m across platforms, Transfermarkt not seen -> null. estimated_fee researcher's estimate."
+  }
+}

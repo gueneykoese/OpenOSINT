@@ -1,0 +1,83 @@
+{
+  "player_id": "damian_bobadilla",
+  "name": "Damián Bobadilla",
+  "age": 24,
+  "date_of_birth": "2001-04-23",
+  "nationality": [
+    "PAR"
+  ],
+  "position": "CM",
+  "secondary_positions": [
+    "DM"
+  ],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "São Paulo FC",
+  "current_club_league": "Brasileirão Série A",
+  "contract_until": 2027,
+  "market_value_eur_m": 4.8,
+  "estimated_fee_eur_m": 6,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "for sale",
+  "stats_2025_26": {
+    "competition": "Brasileirão Série A 2025",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "box-to-box midfielder",
+      "tireless presser",
+      "ex-Cerro Porteño",
+      "Paraguay international",
+      "European approaches reported (2025)"
+    ],
+    "best_system": [
+      "4-3-3 as 8"
+    ],
+    "weak_in": [
+      "end product"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "es",
+      "pt"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.gaveanews.com/index.php/2025/05/19/ryan-francisco-ferraresi-bobadilla-matheus-alves-lucas-ferreira-henrique-carmo-leandro-mathias-igor-vinicius-patryck-jandrei-os-jogadores-que-podem-deixar-o-sao-paulo-no-meio-do-ano/",
+    "https://pt.soccerway.com/jogador/bobadilla-damian/6DVp3SWL/transferencias"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Contract to 31 Dec 2027; market value EUR 4.8m (snippet, Transfermarkt-style, date unclear). 2025 stats not retrieved. Club (São Paulo) not re-verified after 2026 mid-year window. Availability 'for sale' based on 2025 reporting that SP awaited offers. DOB from general knowledge. Fee is researcher's estimate."
+  }
+}

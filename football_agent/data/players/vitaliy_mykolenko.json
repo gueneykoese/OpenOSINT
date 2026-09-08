@@ -1,0 +1,79 @@
+{
+  "player_id": "vitaliy_mykolenko",
+  "name": "Vitaliy Mykolenko",
+  "age": 27,
+  "date_of_birth": "1999-05-29",
+  "nationality": [
+    "UKR"
+  ],
+  "position": "LB",
+  "secondary_positions": [],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Everton",
+  "current_club_league": "Premier League",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 25,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": 33,
+    "starts": 33,
+    "minutes": 2870,
+    "goals": 0,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "defensive left-back",
+      "high clearance volume (145)",
+      "reliable starter",
+      "limited attacking output"
+    ],
+    "best_system": [
+      "4-2-3-1 low-mid block"
+    ],
+    "weak_in": [
+      "inverted/creative full-back role"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": 3,
+    "notes": "6 yellow cards in 2025/26 PL (FotMob snippet)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/874025/vitalii-mykolenko",
+    "https://sports.yahoo.com/articles/latest-26-old-everton-star-205000535.html",
+    "https://www.premierleague.com/en/players/224967/vitalii-mykolenko/stats",
+    "https://www.livescore.com/en/season-stats/vitaliy-mykolenko/32290/"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Signed a three-year extension to June 2029 at the end of 2025/26 (Yahoo snippet); previous deal ran to 2027. 2025/26 PL: 33 apps (all starts), 2870 min, 0 goals, 1 assist, 145 clearances, 51 tackles, 30 interceptions. Transfermarkt value not seen -> null. Gross wage GBP 80k/week reported. estimated_fee researcher's estimate."
+  }
+}

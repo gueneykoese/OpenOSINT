@@ -1,0 +1,80 @@
+{
+  "player_id": "jorthy_mokio",
+  "name": "Jorthy Mokio",
+  "age": 18,
+  "date_of_birth": "2008-03-26",
+  "nationality": [
+    "BEL"
+  ],
+  "position": "DM",
+  "secondary_positions": [
+    "CB",
+    "CM"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "AFC Ajax",
+  "current_club_league": "Eredivisie",
+  "contract_until": 2031,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 25,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Eredivisie",
+    "apps": 26,
+    "starts": null,
+    "minutes": null,
+    "goals": 2,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "ball-playing defensive midfielder",
+      "can play centre-back",
+      "first-team debut at 16",
+      "37 apps / 5 goals all comps 2025/26",
+      "Belgian youth international"
+    ],
+    "best_system": [
+      "4-3-3 build-up from deep"
+    ],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://english.ajax.nl/articles/contract-extension-jorthy-mokio/",
+    "https://en.wikipedia.org/wiki/Jorthy_Mokio",
+    "https://www.uefa.com/uefachampionsleague/clubs/players/250190193--jorthy-mokio/statistics/"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract extension announced by Ajax: new five-year deal 1 Jul 2026 - 30 Jun 2031. 2025/26: 26 Eredivisie apps, 2 goals; 37 apps, 5 goals all competitions (Wikipedia). DOB from general knowledge (26 Mar 2008) - verify. Market value not retrieved; fee is researcher's estimate."
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "player_id": "ransford_konigsdorffer",
+  "name": "Ransford-Yeboah Königsdörffer",
+  "age": 24,
+  "date_of_birth": "2001-09-13",
+  "nationality": [
+    "GHA",
+    "GER"
+  ],
+  "position": "ST",
+  "secondary_positions": [
+    "RW",
+    "LW"
+  ],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "1. FSV Mainz 05",
+  "current_club_league": "Bundesliga",
+  "contract_until": null,
+  "market_value_eur_m": 6,
+  "estimated_fee_eur_m": 8,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "All competitions",
+    "apps": 28,
+    "starts": null,
+    "minutes": null,
+    "goals": 5,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "mobile pressing forward",
+      "runs channels",
+      "Ghana international",
+      "free transfer from HSV summer 2026"
+    ],
+    "best_system": [
+      "high-pressing 3-4-3 (Mainz)"
+    ],
+    "weak_in": [
+      "clinical finishing"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "de",
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.hsv.de/en/news/ransford-koenigsdoerffer-to-leave-hsv",
+    "https://en.wikipedia.org/wiki/Ransford-Yeboah_K%C3%B6nigsd%C3%B6rffer",
+    "https://www.transferfeed.com/transfers/ransford-konigsdorffer-hamburger-sv/12362071"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "HSV official: leaves on expiry (30 Jun 2026) to join Mainz 05; Mainz contract length not seen -> null. Transfermarkt EUR 6m (snippet, 2026). 2025/26: 5 goals in 28 apps for HSV (Wikipedia/snippet; scope presumed all comps). DOB from general knowledge. estimated_fee is researcher's estimate."
+  }
+}

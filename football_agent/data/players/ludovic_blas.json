@@ -1,0 +1,83 @@
+{
+  "player_id": "ludovic_blas",
+  "name": "Ludovic Blas",
+  "age": 26,
+  "date_of_birth": "1999-11-24",
+  "nationality": [
+    "FRA"
+  ],
+  "position": "AM",
+  "secondary_positions": [
+    "LW",
+    "CM"
+  ],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Stade Rennais",
+  "current_club_league": "Ligue 1",
+  "contract_until": 2027,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 15,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Ligue 1",
+    "apps": null,
+    "starts": null,
+    "minutes": 1541,
+    "goals": 5,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed creative attacking midfielder",
+      "set-piece taker",
+      "dribbler between the lines"
+    ],
+    "best_system": [
+      "4-2-3-1 as No.10",
+      "4-3-3 interior"
+    ],
+    "weak_in": [
+      "defensive contribution"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "fr"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/693171",
+    "https://www.footballtransfers.com/en/players/ludovic-blas",
+    "https://www.transferfeed.com/players/ludovic-blas/43309"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to Jun 2027 (signed Jul 2023). 2025/26 Ligue 1: 5 goals, 4 assists, 1,541 minutes (FotMob; apps not given). Market value: only ETV (EUR 14-17.2m) seen; Transfermarkt not seen -> null. One-year-remaining situation flagged by TransferFeed rumour (source quality low, not detailed) -> availability inferred as 'open to move'. DOB from general knowledge. estimated_fee is researcher's estimate."
+  }
+}

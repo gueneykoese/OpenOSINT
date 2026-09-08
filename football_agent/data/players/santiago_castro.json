@@ -1,0 +1,83 @@
+{
+ "player_id": "santiago_castro",
+ "name": "Santiago Castro",
+ "age": 21,
+ "date_of_birth": "2004-09-18",
+ "nationality": [
+  "ARG"
+ ],
+ "position": "ST",
+ "secondary_positions": [
+  "LW"
+ ],
+ "preferred_foot": "right",
+ "height_cm": 180,
+ "current_club": "AS Roma",
+ "current_club_league": "Serie A",
+ "contract_until": 2028,
+ "market_value_eur_m": null,
+ "estimated_fee_eur_m": 35,
+ "wage_eur_m_net": null,
+ "release_clause_eur_m": null,
+ "agent_status": "represented",
+ "availability": "not for sale",
+ "stats_2025_26": {
+  "competition": "Serie A",
+  "apps": 35,
+  "starts": null,
+  "minutes": 2365,
+  "goals": 7,
+  "assists": 2,
+  "xg": null,
+  "xa": null,
+  "shots_p90": null,
+  "key_passes_p90": null,
+  "dribbles_p90": null,
+  "tackles_interceptions_p90": null,
+  "pass_completion_pct": null,
+  "aerials_won_pct": null,
+  "progressive_carries_p90": null
+ },
+ "style_profile": {
+  "tags": [
+   "mobile pressing striker",
+   "link play and hold-up",
+   "works channels",
+   "Argentina U-level international",
+   "11 goals all comps 2025/26"
+  ],
+  "best_system": [
+   "4-2-3-1 pressing",
+   "4-3-3"
+  ],
+  "weak_in": [
+   "pure box poacher role"
+  ]
+ },
+ "mental_profile": {
+  "leadership": null,
+  "coachability": null,
+  "resilience": null,
+  "discipline": null,
+  "notes": null
+ },
+ "injury_history": [],
+ "off_pitch": {
+  "languages": [],
+  "family_situation": null,
+  "public_statements": [],
+  "commercial_profile": null,
+  "notes": null
+ },
+ "sources": [
+  "https://theanalyst.com/players/4534/santiago-castro",
+  "https://www.fotmob.com/players/1282008/santiago-castro",
+  "https://fbref.com/en/players/ee5565ae/Santiago-Castro",
+  "https://ca.soccerway.com/player/castro-santiago/6BYm6GqL"
+ ],
+ "as_of": "2026-09-08",
+ "data_quality": {
+  "confidence": "medium",
+  "notes": "CORRECTED 2026-09-08: pool research initially recorded 'Bologna' as current club, but this season's dossier for AS Roma (data/clubs/roma.json, sourced summer-2026 arrivals list) confirms the transfer completed. Contract to 30 Jun 2028 (Soccerway). 2025/26 Serie A: 35 apps, 2365 min, 7 goals, 2 assists; all comps 51 apps, 11 goals (2 Coppa, 2 Europa League). Market value 'around GBP 30m per Transfermarkt' cited without date; EUR 33.3m elsewhere - not entered as a precise figure -> null. Joined Jan 2024 for EUR 10m. estimated_fee researcher's estimate."
+ }
+}

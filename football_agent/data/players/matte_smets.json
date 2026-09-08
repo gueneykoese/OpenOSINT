@@ -1,0 +1,81 @@
+{
+  "player_id": "matte_smets",
+  "name": "Matte Smets",
+  "age": 22,
+  "date_of_birth": null,
+  "nationality": [
+    "BEL"
+  ],
+  "position": "CB",
+  "secondary_positions": [
+    "RB"
+  ],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "KRC Genk",
+  "current_club_league": "Belgian Pro League",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 18,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Belgian Pro League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "ball-playing centre-back",
+      "ex-Sint-Truiden",
+      "Belgium U21 international",
+      "refused Wolfsburg move Feb 2026 (EUR 15m+3m agreed by clubs)"
+    ],
+    "best_system": [
+      "back four, high line"
+    ],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Publicly reported to have refused a club-agreed EUR 15m+3m move to Wolfsburg in Feb 2026, then renewed with Genk to 2030 (FootballTransfers/TransferFeed)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "nl",
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.footballtransfers.com/en/players/matte-smets/transfer-news",
+    "https://www.transferfeed.com/players/matte-smets/372217",
+    "https://onefootball.com/en/transfers/43122587"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Renewed with Genk in June/July 2026 to 30 Jun 2030 (OneFootball 'confirmed transfer' listing + FootballTransfers). Wolfsburg bids of EUR 16m and 19m rejected Feb 2026 -> fee estimate EUR 18m anchored on those. 2025/26 stats not retrieved -> null. DOB not retrieved (age 22 per snippets)."
+  }
+}

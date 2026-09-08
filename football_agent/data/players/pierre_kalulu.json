@@ -1,0 +1,82 @@
+{
+  "player_id": "pierre_kalulu",
+  "name": "Pierre Kalulu",
+  "age": 26,
+  "date_of_birth": "2000-06-05",
+  "nationality": [
+    "FRA"
+  ],
+  "position": "CB",
+  "secondary_positions": [
+    "RB",
+    "RWB"
+  ],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Juventus",
+  "current_club_league": "Serie A",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 35,
+  "wage_eur_m_net": 2.5,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Serie A",
+    "apps": 37,
+    "starts": null,
+    "minutes": 3282,
+    "goals": 2,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "versatile right-sided defender",
+      "ex-Milan",
+      "3282 Serie A minutes 2025/26",
+      "pace and recovery",
+      "France international"
+    ],
+    "best_system": [
+      "3-4-2-1 right CB / wing-back",
+      "4-3-3 RB"
+    ],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": 3,
+    "notes": "2 yellow cards, 1 red in Serie A 2025/26 (FotMob snippet)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/en-GB/players/1131217/pierre-kalulu",
+    "https://www.blackwhitereadallover.com/serie-a-campionato-2025-26-juventus/36260/report-juventus-open-talks-with-pierre-kalulu-over-new-contract-through-2030",
+    "https://tribuna.com/en/persons/pierre-kalulu/stat/2025-2026/serie-a/",
+    "https://ca.soccerway.com/player/kalulu-kyatengwa-piere/E5UKRKOH"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 30 Jun 2029; Juventus reported to have opened talks on extension to 2030 with a raise (BWRAO). Reported net salary EUR 2.5m/yr. 2025/26 Serie A: 37 apps, 3282 min, 2 goals, 4 assists. Transfermarkt value not seen -> null. estimated_fee researcher's estimate."
+  }
+}

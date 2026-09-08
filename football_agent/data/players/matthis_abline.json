@@ -1,0 +1,82 @@
+{
+  "player_id": "matthis_abline",
+  "name": "Matthis Abline",
+  "age": 23,
+  "date_of_birth": "2003-03-28",
+  "nationality": [
+    "FRA"
+  ],
+  "position": "ST",
+  "secondary_positions": [
+    "LW"
+  ],
+  "preferred_foot": "right",
+  "height_cm": 181,
+  "current_club": "AS Monaco",
+  "current_club_league": "Ligue 1",
+  "contract_until": 2031,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 30,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "All competitions",
+    "apps": 34,
+    "starts": null,
+    "minutes": null,
+    "goals": 8,
+    "assists": 7,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "mobile striker",
+      "runs channels and links play",
+      "left-side drift",
+      "record Nantes sale (EUR 30m)"
+    ],
+    "best_system": [
+      "4-4-2 / 4-2-3-1 as No.9"
+    ],
+    "weak_in": [
+      "penalty-box volume finishing"
+    ]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "fr"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.getfootballnewsfrance.com/2026/official-as-monaco-sign-matthis-abline-from-fc-nantes-in-e30m-deal/",
+    "https://onefootball.com/en/news/matthis-abline-leaves-nantes-to-join-monaco-on-deal-to-2031-43209254",
+    "https://www.footballtransfers.com/en/players/matthis-abline"
+  ],
+  "as_of": "2026-09-08",
+  "data_quality": {
+    "confidence": "high",
+    "notes": "Official: joined Monaco late Jul 2026 for EUR 25m + 5m bonuses, contract to 2031. 2025/26 at Nantes (relegated): 34 apps, 8 goals, 7 assists all comps; 6 Ligue 1 goals. Market value: only ETV (EUR 19.5-23.8m) seen -> null. DOB/height from general knowledge. estimated_fee = fee just paid (researcher)."
+  }
+}
