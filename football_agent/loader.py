@@ -102,8 +102,8 @@ def load_clubs(directory: Path = CLUBS_DIR) -> dict[str, Club]:
 
 
 def load_players(directory: Path = PLAYERS_DIR, include_demo: bool = False) -> dict[str, Player]:
-    """Load the real transfer-target pool. ``include_demo=True`` adds the fictional
-    demo profiles from ``data/demo_players`` (they carry confidence="synthetic")."""
+    """Load the hand-researched transfer-target pool. ``include_demo=True`` adds the
+    fictional demo profiles from ``data/demo_players`` (confidence="synthetic")."""
     players: dict[str, Player] = {}
     dirs = [directory] + ([DEMO_PLAYERS_DIR] if include_demo else [])
     for d_ in dirs:

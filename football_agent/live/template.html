@@ -108,7 +108,7 @@ const textOn = hex => { const c=hex.replace('#',''); const r=parseInt(c.slice(0,
 const initials = n => n.split(/\s+/).filter(Boolean).map(w=>w[0]).slice(0,2).join('').toUpperCase();
 const F = T.focus, OPP = F===T.home.id ? T.away.id : T.home.id;
 const SLOT = {GK:[[6,50]],CB:[[20,36],[20,64],[20,50]],LB:[[24,10]],RB:[[24,90]],DM:[[38,50],[38,36],[38,64]],CM:[[50,34],[50,66],[50,50]],AM:[[63,50],[63,34],[63,66]],LW:[[74,14]],RW:[[74,86]],ST:[[88,50],[88,36],[88,64]]};
-$('#note').textContent = T.note + ' Panel odak takım: ' + (F===T.home.id?T.home.name:T.away.name) + '.';
+$('#note').textContent = T.note + ' Değişiklikler sahaya işlenir; skor ve rakip metrikleri kaydedilmiş akıştan gelir, bu yüzden müdahalenin gerçek etkisi ancak canlı beslemede ölçülür — panel etkiyi izlemeniz için ilgili metriği takip eder. Panel odak takım: ' + (F===T.home.id?T.home.name:T.away.name) + '.';
 const tip=$('#tip'); function showTip(e,h){tip.innerHTML=h;tip.style.display='block';moveTip(e)} function moveTip(e){tip.style.left=Math.min(e.clientX+12,innerWidth-tip.offsetWidth-8)+'px';tip.style.top=Math.min(e.clientY+12,innerHeight-tip.offsetHeight-8)+'px'} function hideTip(){tip.style.display='none'}
 function bindTips(root){root.querySelectorAll('[data-tip]').forEach(el=>{el.addEventListener('mouseenter',e=>showTip(e,el.dataset.tip));el.addEventListener('mousemove',moveTip);el.addEventListener('mouseleave',hideTip)})}
 
@@ -131,53 +131,84 @@ function render(){
   $('#score').textContent=`${f.score[T.home.id]} – ${f.score[T.away.id]}`; $('#clock').textContent=`${Math.floor(m)}'`; $('#scrub').value=idx;
   // players with client-side substitutions applied
   const players=(f.players[F]||[]).map(p=>({...p}));
-  subsDone.filter(s=>s.minute<=m).forEach(s=>{ const off=players.find(p=>p.name===s.off); if(off){off.on_pitch=false;} const benchP=T.bench[F].find(b=>b.name===s.on); if(benchP && !players.find(p=>p.name===s.on)) players.push({name:s.on,position:s.pos||benchP.pos,on_pitch:true,minutes:Math.max(0,m-s.minute),fatigue:Math.min(1,(m-s.minute)/95*0.7),touches:0,cards:0}); });
+  subsDone.filter(s=>s.minute<=m).forEach(s=>{ const off=players.find(p=>p.name===s.off); if(off){off.on_pitch=false;} const benchP=T.bench[F].find(b=>b.name===s.on); if(benchP && !players.find(p=>p.name===s.on)) players.push({name:s.on,position:s.pos||benchP.pos,on_pitch:true,minutes:Math.max(0,m-s.minute),fatigue:Math.min(1,(m-s.minute)/95*0.7),touches:0,cards:0,entered:s.minute,sub:true}); });
   currentOnPitch=players.filter(p=>p.on_pitch);
-  drawPitch(f, currentOnPitch); drawTiles(f); drawMomentum(f); drawTable(currentOnPitch); drawBench(m);
+  drawPitch(f, currentOnPitch); drawTiles(f); drawMomentum(f); drawTable(currentOnPitch); drawBench(m); renderMoves();
   // insights: append new ones (frames up to idx)
   const feed=$('#feed'); if(idx===0){feed.innerHTML='';seenIns.clear();}
-  for(let i=0;i<=idx;i++){ for(const ins of frames[i].insights){ const k=`${frames[i].minute}:${ins.key}:${(ins.players||[]).join(',')}`; if(!seenIns.has(k)){ const el=insEl(ins, frames[i].minute); seenIns.set(k,el); feed.prepend(el); } } }
+  const offNames=(mm)=>subsDone.filter(s=>s.minute<mm).map(s=>s.off);
+  const handled=(mm,ins)=>subsDone.find(s=>s.minute<mm && s.key===ins.key && (s.lane||'')===((ins.metrics||{}).lane||''));
+  for(let i=0;i<=idx;i++){ for(const ins of frames[i].insights){ const fm=frames[i].minute; const k=`${fm}:${ins.key}:${(ins.players||[]).join(',')}`;
+      if((ins.players||[]).some(n=>offNames(fm).includes(n))) { if(seenIns.has(k)){seenIns.get(k).remove();seenIns.delete(k);} continue; }  // player already off: not an insight any more
+      const hb=handled(fm,ins); if(hb && fm-hb.minute<15){ if(seenIns.has(k)){seenIns.get(k).remove();seenIns.delete(k);} continue; }  // give the change 15 minutes
+      if(!seenIns.has(k)){ const el=insEl(ins, fm, hb); seenIns.set(k,el); feed.prepend(el); } } }
   // remove insights from the future (when scrubbing back)
   for(const [k,el] of seenIns){ const mm=parseFloat(k.split(':')[0]); if(mm>m){el.remove();seenIns.delete(k);} }
   if(!feed.children.length) feed.innerHTML='<p class="empty">Henüz içgörü yok; ilk 10 dakika veri toplanıyor.</p>';
   $('#insCount').textContent=`${seenIns.size} kayıt`;
   $('#subsUsed').textContent=`Değişiklik ${subsDone.filter(s=>s.minute<=m).length}/5`;
 }
-function insEl(ins, minute){
+function insEl(ins, minute, handledBy){
   const el=document.createElement('div'); el.className='ins '+ins.severity;
-  const subs=(ins.subs||[]).map(s=>`<div class="sub"><span class="nm">${esc(s.player)} <span class="tag">${esc(s.position)}</span>${s.represented_by_us?' <span class="tag" style="color:var(--accent-ink);border-color:var(--accent)">temsil</span>':''}<small>${esc((s.reasons||[]).join(' · '))}${s.replaces?` · yerine: ${esc(s.replaces)}`:''}</small></span><span class="sc">${Math.round(s.score)}</span><button data-on="${esc(s.player)}" data-off="${esc(s.replaces||'')}" data-pos="${esc(ins.position||s.position)}" data-min="${minute}">Oyuna al</button></div>`).join('');
-  el.innerHTML=`<div class="h"><b>${esc(ins.title)}</b><span><span class="tag ${ins.severity}">${ins.severity==='act'?'müdahale':ins.severity==='watch'?'izle':'bilgi'}</span> <span class="min">${Math.floor(minute)}'</span></span></div><div class="ev">${esc(ins.evidence)}</div><div class="sg">→ ${esc(ins.suggestion)}</div>${subs}`;
+  if(handledBy){ el.style.opacity='.75'; }
+  const subs=(ins.subs||[]).map(s=>`<div class="sub"><span class="nm">${esc(s.player)} <span class="tag">${esc(s.position)}</span>${s.represented_by_us?' <span class="tag" style="color:var(--accent-ink);border-color:var(--accent)">temsil</span>':''}<small>${esc((s.reasons||[]).join(' · '))}${s.replaces?` · yerine: ${esc(s.replaces)}`:''}</small></span><span class="sc">${Math.round(s.score)}</span><button data-on="${esc(s.player)}" data-off="${esc(s.replaces||'')}" data-pos="${esc(ins.position||s.position)}" data-key="${esc(ins.key)}" data-lane="${esc((ins.metrics||{}).lane||'')}" data-title="${esc(ins.title)}" data-min="${minute}">Oyuna al</button></div>`).join('');
+  const hb = handledBy ? `<div class="ev" style="color:var(--accent-ink)">↳ ${Math.floor(handledBy.minute)}' müdahale edildi (${esc(handledBy.on)} girdi, ${esc(handledBy.off)} çıktı) ama sorun 15 dk sonra hâlâ sürüyor: değişiklik yetmedi, şekil değişikliği veya ikinci hamle düşün.</div>` : '';
+  el.innerHTML=`<div class="h"><b>${esc(ins.title)}</b><span><span class="tag ${ins.severity}">${ins.severity==='act'?'müdahale':ins.severity==='watch'?'izle':'bilgi'}</span> <span class="min">${Math.floor(minute)}'</span></span></div><div class="ev">${esc(ins.evidence)}</div><div class="sg">→ ${esc(ins.suggestion)}</div>${hb}${handledBy?'':subs}`;
   el.querySelectorAll('button[data-on]').forEach(b=>b.addEventListener('click',()=>makeSub(b)));
   return el;
 }
 function makeSub(b){
   const m=frameAt(idx).minute; const used=subsDone.filter(s=>s.minute<=m).length; if(used>=5){alert('Değişiklik hakkı bitti (5).');return;}
   if(subsDone.find(s=>s.on===b.dataset.on)){return;}
-  let off=b.dataset.off; if(!off||!currentOnPitch.find(p=>p.name===off)){ const pos=b.dataset.pos; const c=currentOnPitch.filter(p=>p.position===pos).sort((a,b)=>(b.fatigue||0)-(a.fatigue||0)); off=c[0]?c[0].name:(currentOnPitch.sort((a,b)=>(b.fatigue||0)-(a.fatigue||0))[0]||{}).name; }
-  subsDone.push({minute:m,off,on:b.dataset.on,pos:b.dataset.pos});
+  let off=b.dataset.off; if(!off||!currentOnPitch.find(p=>p.name===off)){ const pos=b.dataset.pos; const c=currentOnPitch.filter(p=>p.position===pos).sort((a,b)=>(b.fatigue||0)-(a.fatigue||0)); off=c[0]?c[0].name:(currentOnPitch.slice().sort((a,b)=>(b.fatigue||0)-(a.fatigue||0))[0]||{}).name; }
+  const offP=currentOnPitch.find(p=>p.name===off); const slotPos=offP?offP.position:b.dataset.pos;
+  subsDone.push({minute:m,off,on:b.dataset.on,pos:slotPos,key:b.dataset.key||'',lane:b.dataset.lane||'',title:b.dataset.title||''});
   document.querySelectorAll(`button[data-on="${b.dataset.on}"]`).forEach(x=>{x.disabled=true;x.textContent='Sahada';});
-  $('#moves').innerHTML=subsDone.map(s=>`<div class="sub"><span class="nm">${Math.floor(s.minute)}' <b>${esc(s.on)}</b> ↔ ${esc(s.off)}<small>${esc(s.pos)} pozisyonu</small></span><span></span><span></span></div>`).join('');
-  render();
+  renderMoves(); render();
+}
+// Projected effect of a substitution on the DISPLAYED metrics (labelled "projeksiyon"): the recorded feed
+// cannot react to a decision made in the panel, so the panel models the expected decay of the problem
+// over ~10 minutes after a fresh player enters. Real effect is measured only on a live feed.
+function projection(m){ const eff={laneMult:{}, ppdaPull:0, label:false};
+  subsDone.filter(s=>s.minute<=m).forEach(s=>{ const dt=m-s.minute; const k=Math.min(1, dt/10);
+    if(s.key==='flank_overload' && s.lane){ eff.laneMult[s.lane]=Math.min(eff.laneMult[s.lane]??1, 1-0.55*k); eff.label=true; }
+    if(s.key==='press_collapse'){ eff.ppdaPull=Math.max(eff.ppdaPull, 0.7*k); eff.label=true; } });
+  return eff; }
+function adjLanes(frame, lanes){ const e=projection(frame.minute); const out={}; Object.entries(lanes).forEach(([l,n])=>{ out[l]=Math.round(n*(e.laneMult[l]??1)); }); return out; }
+function adjPpda(frame){ const t=frame.teams[F]; const e=projection(frame.minute); if(t.ppda==null||!e.ppdaPull) return t.ppda; const ks=Object.keys(t.windows).map(Number).sort((a,b)=>a-b); const w0=t.windows[ks[0]], w1=t.windows[ks[1]]||w0; const o=frame.teams[OPP].windows; const base=((o[ks[0]]||{passes:0}).passes+(o[ks[1]]||{passes:0}).passes)/Math.max(1,(w0.def_actions||0)+(w1.def_actions||0)); return Math.round((t.ppda-(t.ppda-base)*e.ppdaPull)*10)/10; }
+function laneShare(frame, lane){ const w=frame.teams[OPP].windows; const k=String(Math.max(...Object.keys(w).map(Number))); const l=adjLanes(frame, w[k].attacks_by_lane||{}); const tot=Object.values(l).reduce((a,b)=>a+b,0); return tot? (l[lane]||0)/tot : null; }
+function renderMoves(){
+  const m=frameAt(idx).minute;
+  $('#moves').innerHTML = subsDone.length ? subsDone.map(s=>{ let eff='';
+      if(s.key==='flank_overload' && s.lane){ const before=laneShare(frames.find(f=>f.minute>=s.minute)||frameAt(idx), s.lane); const now=laneShare(frameAt(idx), s.lane); if(before!=null&&now!=null&&m-s.minute>=5) eff=`rakip ${s.lane==='left'?'sağ':s.lane==='right'?'sol':'merkez'} payı %${Math.round(before*100)} → %${Math.round(now*100)} (${Math.floor(m-s.minute)} dk sonra, projeksiyon)`; else eff='etki için en az 5 dk izle'; }
+      else if(s.key==='press_collapse'){ const f0=frames.find(f=>f.minute>=s.minute)||frameAt(idx); const a=f0.teams[F].ppda, b=adjPpda(frameAt(idx)); eff=(a!=null&&b!=null&&m-s.minute>=5)?`PPDA ${a} → ${b} (projeksiyon)`:'etki için en az 5 dk izle'; }
+      else if(s.key==='fatigue'){ eff=`${esc(s.off)} yorgunluk uyarısı kapandı; ${esc(s.on)} taze`; }
+      else if(s.key==='striker_isolated'){ eff='forvet temas sayısı izleniyor'; }
+      return `<div class="sub"><span class="nm">${Math.floor(s.minute)}' <b>${esc(s.on)}</b> ↔ ${esc(s.off)}<small>${esc(s.pos)} · ${esc(s.title||'')}${eff?' · '+eff:''}</small></span><span></span><span></span></div>`; }).join('')
+    : '<p class="empty">Henüz değişiklik yok.</p>';
 }
 function drawPitch(f, players){
   const [p,sec]=kit(F); const W=1000,H=640,X=v=>v/100*W,Y=v=>v/100*H;
   const oppW=f.teams[OPP].windows[String(Object.keys(f.teams[OPP].windows).map(Number).sort((a,b)=>a-b).pop())]||{};
-  const lanes=oppW.attacks_by_lane||{}; const tot=Object.values(lanes).reduce((a,b)=>a+b,0)||1;
+  const lanes=adjLanes(f, oppW.attacks_by_lane||{}); const tot=Object.values(lanes).reduce((a,b)=>a+b,0)||1;
   // opponent's LEFT lane (y<33 in their attacking frame) is our RIGHT (y>66)
   const map={left:[66,100],centre:[33,66],right:[0,33]};
   let s=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Saha: ilk 11 yorgunluğu ve rakip hücum yoğunluğu"><defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d7a3a"/><stop offset="1" stop-color="#1f5f2c"/></linearGradient></defs><rect width="${W}" height="${H}" fill="url(#g)"/>`;
-  Object.entries(lanes).forEach(([lane,n])=>{ const [y0,y1]=map[lane]||[33,66]; const a=Math.min(.6,(n/tot)*0.8); s+=`<rect x="20" y="${Y(y0)}" width="${W/2-20}" height="${Y(y1)-Y(y0)}" fill="#E0705E" fill-opacity="${a}"/><text x="${W/4}" y="${Y((y0+y1)/2)+5}" font-size="14" text-anchor="middle" style="fill:#fff;font-weight:600;opacity:.9">rakip %${Math.round(n/tot*100)}</text>`; });
+  const handledLanes=subsDone.filter(x=>x.minute<=f.minute && x.key==='flank_overload').map(x=>x.lane);
+  Object.entries(lanes).forEach(([lane,n])=>{ const [y0,y1]=map[lane]||[33,66]; const a=Math.min(.6,(n/tot)*0.8); const h=handledLanes.includes(lane);
+    s+=`<rect x="20" y="${Y(y0)}" width="${W/2-20}" height="${Y(y1)-Y(y0)}" fill="#E0705E" fill-opacity="${a}"/>${h?`<rect x="20" y="${Y(y0)}" width="${W/2-20}" height="${Y(y1)-Y(y0)}" fill="none" stroke="#7EDCCB" stroke-width="3" stroke-dasharray="10 6"/>`:''}<text x="${W/4}" y="${Y((y0+y1)/2)+5}" font-size="14" text-anchor="middle" style="fill:#fff;font-weight:600;opacity:.9">rakip %${Math.round(n/tot*100)}${h?' · müdahale sonrası (projeksiyon)':''}</text>`; });
   s+=`<g fill="none" stroke="#e8f5e9" stroke-opacity=".7" stroke-width="2.5"><rect x="20" y="20" width="${W-40}" height="${H-40}"/><line x1="${W/2}" y1="20" x2="${W/2}" y2="${H-20}"/><circle cx="${W/2}" cy="${H/2}" r="70"/><rect x="20" y="${H/2-160}" width="150" height="320"/><rect x="${W-170}" y="${H/2-160}" width="150" height="320"/></g>`;
   const used={};
   players.forEach(q=>{ const slots=SLOT[q.position]||SLOT.CM; const k=used[q.position]||0; used[q.position]=k+1; const [x,y]=slots[Math.min(k,slots.length-1)]; const fc=fatColor(q.fatigue);
-    s+=`<g data-tip="<b>${esc(q.name)}</b>${q.position} · ${Math.round(q.minutes||0)} dk · yorgunluk ${q.fatigue==null?'—':Math.round(q.fatigue*100)+'%'} · temas ${q.touches||0}${q.cards?' · sarı kart':''}"><circle cx="${X(x)}" cy="${Y(y)}" r="27" fill="${p}" stroke="${q.cards?'#F5B14C':sec}" stroke-width="${q.cards?5:3}"/><circle cx="${X(x)+20}" cy="${Y(y)-18}" r="9" fill="${fc}" stroke="#0f2a1a" stroke-width="2"/><text x="${X(x)}" y="${Y(y)+5}" font-size="15" font-weight="700" text-anchor="middle" style="fill:${textOn(p)};font-family:var(--display)">${esc(initials(q.name))}</text><text x="${X(x)}" y="${Y(y)+46}" font-size="13" font-weight="600" text-anchor="middle" style="fill:#fff;paint-order:stroke;stroke:#0f2a1a;stroke-width:3px">${esc(q.name.split(' ').slice(-1)[0])}</text></g>`; });
+    s+=`<g data-tip="<b>${esc(q.name)}</b>${q.position} · ${Math.round(q.minutes||0)} dk · yorgunluk ${q.fatigue==null?'—':Math.round(q.fatigue*100)+'%'} · temas ${q.touches||0}${q.cards?' · sarı kart':''}"><circle cx="${X(x)}" cy="${Y(y)}" r="27" fill="${p}" stroke="${q.sub?'#7EDCCB':(q.cards?'#F5B14C':sec)}" stroke-width="${q.sub||q.cards?5:3}"/>${q.sub?`<rect x="${X(x)-30}" y="${Y(y)-44}" width="60" height="16" rx="4" fill="#7EDCCB"/><text x="${X(x)}" y="${Y(y)-32}" font-size="11" font-weight="700" text-anchor="middle" style="fill:#0f2a1a">IN ${Math.floor(q.entered)}'</text>`:''}<circle cx="${X(x)+20}" cy="${Y(y)-18}" r="9" fill="${fc}" stroke="#0f2a1a" stroke-width="2"/><text x="${X(x)}" y="${Y(y)+5}" font-size="15" font-weight="700" text-anchor="middle" style="fill:${textOn(p)};font-family:var(--display)">${esc(initials(q.name))}</text><text x="${X(x)}" y="${Y(y)+46}" font-size="13" font-weight="600" text-anchor="middle" style="fill:#fff;paint-order:stroke;stroke:#0f2a1a;stroke-width:3px">${esc(q.name.split(' ').slice(-1)[0])}</text></g>`; });
   s+=`<text x="${W-28}" y="${H-28}" font-size="12" text-anchor="end" style="fill:#e8f5e9;opacity:.85">${esc(F===T.home.id?T.home.name:T.away.name)} · hücum yönü → · ${Math.floor(f.minute)}'</text></svg>`;
   $('#pitch').innerHTML=s; bindTips($('#pitch'));
 }
 function drawTiles(f){
   const t=f.teams[F], o=f.teams[OPP]; const wk=String(Math.max(...Object.keys(t.windows).map(Number))); const w=t.windows[wk]||{}, ow=o.windows[wk]||{};
   const tile=(v,l,warn)=>`<div class="tile" ${warn?'style="outline:1px solid var(--crit)"':''}><b>${v}</b><span>${l}</span></div>`;
-  $('#tiles').innerHTML= tile(t.possession==null?'—':t.possession+'%','top oranı') + tile(t.field_tilt==null?'—':t.field_tilt+'%','saha eğimi') + tile(t.ppda==null?'—':t.ppda,'PPDA (düşük iyi)', t.ppda!=null&&t.ppda>4) + tile((w.xg??0).toFixed(2)+' / '+(ow.xg??0).toFixed(2),'xG biz / rakip', (ow.xg||0)>(w.xg||0)+0.3) + tile(w.pass_pct==null?'—':w.pass_pct+'%','pas isabeti') + tile((w.high_turnovers||0),'yüksek top kazanma') + tile((ow.corners||0),'rakip korner', (ow.corners||0)>=3) + tile(t.xg_total+' / '+o.xg_total,'toplam xG');
+  const pp=adjPpda(f); const proj=projection(f.minute).label;
+  $('#tiles').innerHTML= tile(t.possession==null?'—':t.possession+'%','top oranı') + tile(t.field_tilt==null?'—':t.field_tilt+'%','saha eğimi') + tile(pp==null?'—':pp,'PPDA (düşük iyi)'+(proj&&pp!==t.ppda?' · projeksiyon':''), pp!=null&&pp>4) + tile((w.xg??0).toFixed(2)+' / '+(ow.xg??0).toFixed(2),'xG biz / rakip', (ow.xg||0)>(w.xg||0)+0.3) + tile(w.pass_pct==null?'—':w.pass_pct+'%','pas isabeti') + tile((w.high_turnovers||0),'yüksek top kazanma') + tile((ow.corners||0),'rakip korner', (ow.corners||0)>=3) + tile(t.xg_total+' / '+o.xg_total,'toplam xG');
 }
 function drawMomentum(f){
   const t=f.teams[F], o=f.teams[OPP]; const ks=Object.keys(t.windows).map(Number).sort((a,b)=>a-b); const W=620,H=200,L=36,R=16,Tp=14,B=30; const pw=W-L-R, ph=H-Tp-B; const bw=pw/7;
@@ -203,7 +234,7 @@ function drawBench(m){
 // controls
 function tick(){ if(!playing) return; if(idx<frames.length-1){idx++;render();} else {playing=false;$('#play').textContent='↺ Başa dön';$('#play').setAttribute('aria-pressed','false');} }
 function setSpeed(sp){ speed=sp; document.querySelectorAll('[data-speed]').forEach(b=>b.setAttribute('aria-pressed', +b.dataset.speed===sp)); clearInterval(timer); timer=setInterval(tick, 1000/speed); }
-$('#play').addEventListener('click',()=>{ if(idx>=frames.length-1){ idx=0; subsDone.length=0; $('#moves').innerHTML='<p class="empty">Henüz değişiklik yok.</p>'; playing=true; } else playing=!playing; $('#play').textContent=playing?'⏸ Duraklat':'▶ Oynat'; $('#play').setAttribute('aria-pressed',playing); render(); });
+$('#play').addEventListener('click',()=>{ if(idx>=frames.length-1){ idx=0; subsDone.length=0; document.querySelectorAll('button[data-on]').forEach(x=>{x.disabled=false;x.textContent='Oyuna al';}); playing=true; } else playing=!playing; $('#play').textContent=playing?'⏸ Duraklat':'▶ Oynat'; $('#play').setAttribute('aria-pressed',playing); render(); });
 document.querySelectorAll('[data-speed]').forEach(b=>b.addEventListener('click',()=>setSpeed(+b.dataset.speed)));
 $('#scrub').addEventListener('input',e=>{ idx=+e.target.value; render(); });
 render(); setSpeed(4);
