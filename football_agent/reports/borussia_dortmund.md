@@ -92,29 +92,25 @@ Profile: mobile No. 9 / second striker with 10+ goal output, 21-26, resale value
 Why: Guirassy sought an exit in 2026 and has no like-for-like deputy (Beier and Fábio Silva are wide/second-striker types)  
 Budget: €35m · wage ceiling €5m net
 
-- **Nicolò Tresoldi** — 77.5/100 (good match, confidence medium)
-  - Nicolò Tresoldi → Dortmund at ST: good match (77.5/100). Driven by positional need and statistical fit; weakest area is financial feasibility (50).
-  - ⚠ Current club publicly not selling.
-- **Ayase Ueda** — 77.1/100 (good match, confidence medium)
-  - Ayase Ueda → Dortmund at ST: good match (77.1/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
-  - ⚠ Current club publicly not selling.
-- **Evan Ferguson** — 76.8/100 (good match, confidence medium)
-  - Evan Ferguson → Dortmund at ST: good match (76.8/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Andrej Ilić** — 82.8/100 (strong match, confidence medium)
+  - Andrej Ilić → Dortmund at ST: strong match (82.8/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
+- **Dion Drena Beljo** — 79.3/100 (strong match, confidence medium)
+  - Dion Drena Beljo → Dortmund at ST: strong match (79.3/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
+- **Lorenzo Colombo** — 78.0/100 (strong match, confidence medium)
+  - Lorenzo Colombo → Dortmund at ST: strong match (78.0/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
 
 ### DM — medium priority
 Profile: physical, press-resistant No. 6, 22-27, comfortable as the single pivot in a 3-4-2-1  
 Why: Can post-ACL and 32; Özcan and Groß departed  
 Budget: €25m · wage ceiling €4m net
 
-- **Gianluca Mancini** — 69.7/100 (good match, confidence high)
-  - Gianluca Mancini → Dortmund at DM: good match (69.7/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
-  - ⚠ Documented discipline record (see mental_profile.notes).
+- **Kamiel Van de Perre** — 80.1/100 (strong match, confidence medium)
+  - Kamiel Van de Perre → Dortmund at DM: strong match (80.1/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
-- **Oleksandr Zinchenko** — 65.9/100 (possible, confidence medium)
-  - Oleksandr Zinchenko → Dortmund at DM: possible (65.9/100). Driven by financial feasibility and tactical / system fit; weakest area is age & contract (30).
-- **Tyler Adams** — 64.2/100 (possible, confidence high)
-  - Tyler Adams → Dortmund at DM: possible (64.2/100). Driven by positional need and statistical fit; weakest area is financial feasibility (10).
-  - ⚠ Current club publicly not selling.
+- **Adrián Bernabé** — 76.6/100 (good match, confidence medium)
+  - Adrián Bernabé → Dortmund at DM: good match (76.6/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
+- **Beni** — 73.6/100 (good match, confidence medium)
+  - Beni → Dortmund at DM: good match (73.6/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (34).
 
 ### GK — low priority
 Profile: young backup/successor to Kobel, 21-25  
@@ -126,20 +122,20 @@ Budget: €10m · wage ceiling €1.5m net
   - ⚠ Current club publicly not selling.
 - **Alex Meret** — 55.2/100 (possible, confidence medium)
   - Alex Meret → Dortmund at GK: possible (55.2/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (21).
+- **Raúl Rangel** — 50.0/100 (weak, confidence medium)
+  - Raúl Rangel → Dortmund at GK: weak (50.0/100). Driven by financial feasibility and tactical / system fit; weakest area is statistical fit (6).
 
 ### RW — low priority
 Profile: pacy right winger/wing-back, 20-24  
 Why: Duranville and Campbell sold; width on the right relies on Couto/Ryerson  
 Budget: €20m · wage ceiling €3m net
 
-- **Ansgar Knauff** — 63.9/100 (possible, confidence medium)
-  - Ansgar Knauff → Dortmund at RW: possible (63.9/100). Driven by statistical fit and positional need; weakest area is financial feasibility (50).
-  - ⚠ Current club publicly not selling.
-- **Leandro Trossard** — 61.8/100 (possible, confidence medium)
-  - Leandro Trossard → Dortmund at RW: possible (61.8/100). Driven by statistical fit and financial feasibility; weakest area is positional need (5).
-  - ⚠ Current club publicly not selling.
-- **Reiss Nelson** — 61.0/100 (possible, confidence medium)
-  - Reiss Nelson → Dortmund at RW: possible (61.0/100). Driven by financial feasibility and statistical fit; weakest area is positional need (36).
+- **Diego Luna** — 68.3/100 (good match, confidence medium)
+  - Diego Luna → Dortmund at RW: good match (68.3/100). Driven by financial feasibility and statistical fit; weakest area is positional need (35).
+- **Paul Nebel** — 66.8/100 (good match, confidence medium)
+  - Paul Nebel → Dortmund at RW: good match (66.8/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
+- **Saif Rajab** — 65.3/100 (possible, confidence medium)
+  - Saif Rajab → Dortmund at RW: possible (65.3/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
 
 ## Sources
 

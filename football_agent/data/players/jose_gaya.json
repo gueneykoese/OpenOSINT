@@ -1,0 +1,51 @@
+{
+  "player_id": "jose_gaya",
+  "name": "Jose Gaya",
+  "age": 31,
+  "date_of_birth": "1995-05-25",
+  "nationality": ["ESP"],
+  "position": "LB",
+  "secondary_positions": [],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Valencia CF",
+  "current_club_league": "La Liga",
+  "contract_until": 2027,
+  "market_value_eur_m": 5.0,
+  "estimated_fee_eur_m": 4,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "La Liga",
+    "apps": null,
+    "starts": null,
+    "minutes": 2461,
+    "goals": 1,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["veteran attacking left-back", "long-time Valencia captain", "high minutes load 2025/26 (2461 mins)"],
+    "best_system": [],
+    "weak_in": ["age-related decline in recovery pace at 31"]
+  },
+  "mental_profile": {"leadership": 4, "coachability": null, "resilience": null, "discipline": null, "notes": "Long-serving Valencia club captain."},
+  "injury_history": [],
+  "off_pitch": {"languages": ["es"], "family_situation": null, "public_statements": [], "commercial_profile": null, "notes": null},
+  "sources": ["https://www.fotmob.com/players/391058/jose-gaya"],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract until 30 June 2027. Market value estimates ranged EUR 2-5m across sources; used soccerway's EUR 5.0m. estimated_fee_eur_m is a researcher estimate below market value given age (31)."
+  }
+}

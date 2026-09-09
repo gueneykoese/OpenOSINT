@@ -1,0 +1,55 @@
+{
+  "player_id": "cameron_carter_vickers",
+  "name": "Cameron Carter-Vickers",
+  "age": 28,
+  "date_of_birth": "1997-12-31",
+  "nationality": ["USA"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 188,
+  "current_club": "Celtic",
+  "current_club_league": "Scottish Premiership",
+  "contract_until": 2029,
+  "market_value_eur_m": 8.5,
+  "estimated_fee_eur_m": 12,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Scottish Premiership",
+    "apps": 7,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["ball-playing center-back", "USMNT international", "aerial presence", "limited 2025/26 minutes due to Achilles injury"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": null, "coachability": null, "resilience": null, "discipline": null, "notes": null},
+  "injury_history": [{"type": "Achilles tendon", "season": "2025/26", "days_out": null}],
+  "off_pitch": {"languages": ["en"], "family_situation": null, "public_statements": [], "commercial_profile": null, "notes": null},
+  "sources": [
+    "https://thecelticstar.com/cameron-carter-vickers-in-2025-26-celtic-form-transfer-talk-and-injury-update/",
+    "https://www.spotrac.com/epl/tottenham-hotspur-fc/cameron-carter-vickers-23049/",
+    "https://www.celticfc.com/players/cameron-carter-vickers/"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Market value ~GBP 7.5m converted to EUR ~8.5m per Transfermarkt (via thecelticstar.com, date unclear, cited late 2025/26). Contract until 2029 (signed 5.5-year deal Jan 2024). 2025/26: 13 apps all competitions, 7 in league, 0 goals, currently out with Achilles injury since late Oct 2025. estimated_fee_eur_m is researcher estimate, not sourced."
+  }
+}

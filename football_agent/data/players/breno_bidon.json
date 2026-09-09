@@ -1,0 +1,78 @@
+{
+  "player_id": "breno_bidon",
+  "name": "Breno Bidon",
+  "age": 21,
+  "date_of_birth": "2005-02-20",
+  "nationality": [
+    "BRA"
+  ],
+  "position": "CM",
+  "secondary_positions": [
+    "DM"
+  ],
+  "preferred_foot": "left",
+  "height_cm": 178,
+  "current_club": "SC Corinthians Paulista",
+  "current_club_league": "Campeonato Brasileiro Série A",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 15,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": null,
+  "stats_2025_26": {
+    "competition": "Campeonato Brasileiro Série A (2026 calendar-year season)",
+    "apps": 22,
+    "starts": null,
+    "minutes": null,
+    "goals": 2,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "ball-winning central midfielder",
+      "left-footed",
+      "Brazil U20 international",
+      "regular starter since 2024 aged 19-20"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "pt"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Breno_Bidon",
+    "https://www.sofascore.com/football/player/breno-bidon/1199261",
+    "https://www.whoscored.com/players/441410/show/breno-bidon"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Brazilian Série A runs a calendar-year (Feb-Dec) season, not autumn-spring; 2026 figures (22 apps, 2 goals as of ~23 Aug 2026, still in progress) used in place of 2025/26. market_value_eur_m not retrieved from Transfermarkt -> null. estimated_fee_eur_m is the researcher's reasoned estimate (established Brazilian top-flight starter, contract to 2029), not a sourced figure. Agent status, wage, mental/off-pitch fields unverified -> null."
+  }
+}

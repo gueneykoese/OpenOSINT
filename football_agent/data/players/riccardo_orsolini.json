@@ -1,0 +1,54 @@
+{
+  "player_id": "riccardo_orsolini",
+  "name": "Riccardo Orsolini",
+  "age": 29,
+  "date_of_birth": "1997-01-24",
+  "nationality": ["ITA"],
+  "position": "RW",
+  "secondary_positions": [],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Bologna",
+  "current_club_league": "Serie A",
+  "contract_until": 2027,
+  "market_value_eur_m": 17.9,
+  "estimated_fee_eur_m": 18,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Serie A",
+    "apps": 35,
+    "starts": null,
+    "minutes": 2115,
+    "goals": 10,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["left-footed right winger", "cuts inside to shoot", "prolific finisher (10 league goals, 14 all comps 2025/26)", "Italy international"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": null, "coachability": null, "resilience": null, "discipline": null, "notes": null},
+  "injury_history": [],
+  "off_pitch": {"languages": ["it"], "family_situation": null, "public_statements": [], "commercial_profile": null, "notes": null},
+  "sources": [
+    "https://www.fotmob.com/players/661761/riccardo-orsolini",
+    "https://m.aiscore.com/player-riccardo-orsolini/zrkn6in3w0s0qle"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract expires June 2027. Market value estimates vary widely (EUR 14.1m-25m across FotMob/AiScore/Transfermarkt-cited/Soccerway); used Soccerway's EUR 17.9m as a mid-range figure. 2025/26: 35 Serie A apps, 10 goals, 1 assist, 2115 minutes; 51 apps/14 goals all competitions. estimated_fee_eur_m is a researcher estimate near market value."
+  }
+}

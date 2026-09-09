@@ -95,20 +95,22 @@ Profile: attacking full-back comfortable in back four or as wing-back, 22-27
 Why: Miguel Gutiérrez sold to Bayer Leverkusen (EUR 30m); Spinazzola and Olivera remain  
 Budget: €n/am · wage ceiling €n/am net
 
-- **Jayden Oosterwolde** — 75.7/100 (good match, confidence high)
-  - Jayden Oosterwolde → Napoli at LB: good match (75.7/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (20).
-  - ⚠ Documented discipline record (see mental_profile.notes).
+- **Tyrick Mitchell** — 79.8/100 (strong match, confidence medium)
+  - Tyrick Mitchell → Napoli at LB: strong match (79.8/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+- **Vitaliy Mykolenko** — 77.7/100 (good match, confidence medium)
+  - Vitaliy Mykolenko → Napoli at LB: good match (77.7/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
-- **Archie Brown** — 72.0/100 (good match, confidence medium)
-  - Archie Brown → Napoli at LB: good match (72.0/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **David Raum** — 69.6/100 (good match, confidence medium)
-  - David Raum → Napoli at LB: good match (69.6/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Jose Gaya** — 76.1/100 (good match, confidence medium)
+  - Jose Gaya → Napoli at LB: good match (76.1/100). Driven by statistical fit and financial feasibility; weakest area is positional need (54).
 
 ### CB — medium priority
 Profile: left-footed ball-playing CB, 23-27  
 Why: Buongiorno injured and left off the UEFA list; Badiashile is a loan with a EUR 27m option  
 Budget: €n/am · wage ceiling €n/am net
 
+- **Maxime Estève** — 81.1/100 (strong match, confidence medium)
+  - Maxime Estève → Napoli at CB: strong match (81.1/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+  - ⚠ Current club publicly not selling.
 - **Jayden Oosterwolde** — 79.1/100 (strong match, confidence high)
   - Jayden Oosterwolde → Napoli at CB: strong match (79.1/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (20).
   - ⚠ Documented discipline record (see mental_profile.notes).
@@ -116,8 +118,6 @@ Budget: €n/am · wage ceiling €n/am net
 - **Chris Richards** — 77.9/100 (good match, confidence medium)
   - Chris Richards → Napoli at CB: good match (77.9/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (50).
   - ⚠ Current club publicly not selling.
-- **Fikayo Tomori** — 76.2/100 (good match, confidence medium)
-  - Fikayo Tomori → Napoli at CB: good match (76.2/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
 
 ### ST — low priority
 Profile: physical alternative to Højlund  
@@ -128,12 +128,11 @@ Budget: €n/am · wage ceiling €n/am net
   - Ayase Ueda → Napoli at ST: good match (69.4/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
   - ⚠ Current club publicly not selling.
   - ⚠ Would block a young starter (Rasmus Højlund, 23) — check pathway politics.
-- **Leandro Trossard** — 63.8/100 (possible, confidence medium)
-  - Leandro Trossard → Napoli at ST: possible (63.8/100). Driven by financial feasibility and statistical fit; weakest area is positional need (30).
-  - ⚠ Current club publicly not selling.
+- **Andrej Ilić** — 69.3/100 (good match, confidence medium)
+  - Andrej Ilić → Napoli at ST: good match (69.3/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
   - ⚠ Would block a young starter (Rasmus Højlund, 23) — check pathway politics.
-- **Nicolò Tresoldi** — 63.6/100 (possible, confidence medium)
-  - Nicolò Tresoldi → Napoli at ST: possible (63.6/100). Driven by statistical fit and positional need; weakest area is financial feasibility (38).
+- **Gorka Guruzeta** — 68.4/100 (good match, confidence medium)
+  - Gorka Guruzeta → Napoli at ST: good match (68.4/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
   - ⚠ Current club publicly not selling.
   - ⚠ Would block a young starter (Rasmus Højlund, 23) — check pathway politics.
 

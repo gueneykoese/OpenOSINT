@@ -75,12 +75,11 @@ Budget: €1.5m · wage ceiling €0.4m net
 
 - **Fikayo Tomori** — 71.5/100 (good match, confidence medium)
   - Fikayo Tomori → Slovan Bratislava at CB: good match (71.5/100). Driven by positional need and statistical fit; weakest area is financial feasibility (10).
+- **Craig Halkett** — 69.6/100 (good match, confidence medium)
+  - Craig Halkett → Slovan Bratislava at CB: good match (69.6/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (35).
+  - ⚠ Current club publicly not selling.
 - **Chris Richards** — 68.8/100 (good match, confidence medium)
   - Chris Richards → Slovan Bratislava at CB: good match (68.8/100). Driven by positional need and statistical fit; weakest area is financial feasibility (10).
-  - ⚠ Current club publicly not selling.
-- **Jayden Oosterwolde** — 67.1/100 (good match, confidence medium)
-  - Jayden Oosterwolde → Slovan Bratislava at CB: good match (67.1/100). Driven by positional need and statistical fit; weakest area is financial feasibility (8).
-  - ⚠ Documented discipline record (see mental_profile.notes).
   - ⚠ Current club publicly not selling.
 
 ### RW — medium priority
@@ -88,14 +87,13 @@ Profile: direct winger with goals, ideally loan from a top-5 league
 Why: Mak and Weiss Jr. left; Barseghyan is the only proven wide creator  
 Budget: €1m · wage ceiling €0.35m net
 
+- **Riccardo Orsolini** — 64.4/100 (possible, confidence medium)
+  - Riccardo Orsolini → Slovan Bratislava at RW: possible (64.4/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
+- **Romain Del Castillo** — 62.3/100 (possible, confidence medium)
+  - Romain Del Castillo → Slovan Bratislava at RW: possible (62.3/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
+  - ⚠ Current club publicly not selling.
 - **Reiss Nelson** — 61.1/100 (possible, confidence medium)
   - Reiss Nelson → Slovan Bratislava at RW: possible (61.1/100). Driven by positional need and tactical / system fit; weakest area is financial feasibility (10).
-- **Leandro Trossard** — 59.1/100 (possible, confidence medium)
-  - Leandro Trossard → Slovan Bratislava at RW: possible (59.1/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
-- **Ansgar Knauff** — 59.0/100 (possible, confidence medium)
-  - Ansgar Knauff → Slovan Bratislava at RW: possible (59.0/100). Driven by positional need and statistical fit; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
 
 ### GK — medium priority
 Profile: experienced No.2 who can start UCL games if needed  
@@ -107,6 +105,8 @@ Budget: €0.5m · wage ceiling €0.2m net
   - ⚠ Current club publicly not selling.
 - **Alex Meret** — 52.3/100 (weak, confidence medium)
   - Alex Meret → Slovan Bratislava at GK: weak (52.3/100). Driven by positional need and tactical / system fit; weakest area is financial feasibility (10).
+- **Raúl Rangel** — 45.5/100 (weak, confidence medium)
+  - Raúl Rangel → Slovan Bratislava at GK: weak (45.5/100). Driven by positional need and tactical / system fit; weakest area is financial feasibility (0).
 
 ## Sources
 

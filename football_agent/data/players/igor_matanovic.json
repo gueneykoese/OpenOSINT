@@ -1,0 +1,66 @@
+{
+  "player_id": "igor_matanovic",
+  "name": "Igor Matanović",
+  "age": 23,
+  "date_of_birth": "2003-03-31",
+  "nationality": ["CRO"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 194,
+  "current_club": "SC Freiburg",
+  "current_club_league": "Bundesliga",
+  "contract_until": 2029,
+  "market_value_eur_m": 9.6,
+  "estimated_fee_eur_m": 14,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": 25,
+    "starts": null,
+    "minutes": null,
+    "goals": 8,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["tall target striker (1.94m)", "Freiburg's regular no.9 since EUR 6.7m move July 2025", "Croatia youth international pedigree"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["hr", "de"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1210893/igor-matanovic",
+    "https://en.wikipedia.org/wiki/Igor_Matanovi%C4%87"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "8 goals/1 assist in 25 Bundesliga apps 2025/26 corroborated across fotmob and soccerway snippets. Transferred to Freiburg from (unspecified prior club per search) on 9 July 2025 for EUR 6.7m; contract to 30 June 2029. Market value EUR 9.6m per fotmob."
+  }
+}

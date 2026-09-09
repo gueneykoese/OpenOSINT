@@ -1,0 +1,66 @@
+{
+  "player_id": "mathis_suray",
+  "name": "Mathis Suray",
+  "age": 24,
+  "date_of_birth": "2001-07-26",
+  "nationality": ["NED"],
+  "position": "ST",
+  "secondary_positions": ["AM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Go Ahead Eagles",
+  "current_club_league": "Eredivisie",
+  "contract_until": 2027,
+  "market_value_eur_m": 2.9,
+  "estimated_fee_eur_m": 4,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Eredivisie",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 5,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["one of Go Ahead Eagles' joint-top scorers 2025/26", "mid-market Eredivisie forward"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["nl"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://nl.soccerway.com/speler/suray-mathis/faIgZ0kl",
+    "https://www.fotmob.com/teams/6433/stats/go-ahead-eagles"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "5 goals (joint club top scorer with Milan Smit) per fotmob team stats snippet; apps/minutes not separately confirmed -> null. Market value EUR 2.9m per soccerway. Modest profile - included primarily for the contract-2027 / squad-depth angle rather than star potential."
+  }
+}

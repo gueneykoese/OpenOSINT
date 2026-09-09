@@ -1,0 +1,54 @@
+{
+  "player_id": "anastasios_bakasetas",
+  "name": "Anastasios Bakasetas",
+  "age": 33,
+  "date_of_birth": "1993-06-28",
+  "nationality": ["GRE"],
+  "position": "CM",
+  "secondary_positions": ["AM"],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Panathinaikos",
+  "current_club_league": "Super League Greece",
+  "contract_until": 2027,
+  "market_value_eur_m": 3.6,
+  "estimated_fee_eur_m": 3,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Super League Greece",
+    "apps": null,
+    "starts": null,
+    "minutes": 1488,
+    "goals": 5,
+    "assists": 3,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["set-piece specialist", "left-footed playmaker", "veteran Greek international", "standout performer per fotmob ratings in 2025/26"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": null, "coachability": null, "resilience": null, "discipline": null, "notes": null},
+  "injury_history": [],
+  "off_pitch": {"languages": ["el"], "family_situation": null, "public_statements": [], "commercial_profile": null, "notes": null},
+  "sources": [
+    "https://www.fotmob.com/players/200628/anastasios-bakasetas",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Panathinaikos_F.C._season"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract until 30 June 2027, market value EUR 3.6m per soccerway/fotmob (date approximate, Sept 2026). Apps count for 2025/26 not directly given, only minutes/goals/assists. estimated_fee_eur_m is a researcher estimate given age (33) reduces resale value below market value."
+  }
+}

@@ -79,14 +79,13 @@ Profile: dominant, quick, UCL-ready, 24-29
 Why: Conceding freely in qualifiers; McCarthy is the only summer addition at CB  
 Budget: €1m · wage ceiling €0.4m net
 
+- **Maxime Estève** — 71.9/100 (good match, confidence medium)
+  - Maxime Estève → Sabah at CB: good match (71.9/100). Driven by positional need and statistical fit; weakest area is financial feasibility (0).
+  - ⚠ Current club publicly not selling.
 - **Fikayo Tomori** — 71.8/100 (good match, confidence medium)
   - Fikayo Tomori → Sabah at CB: good match (71.8/100). Driven by positional need and statistical fit; weakest area is financial feasibility (10).
 - **Chris Richards** — 70.1/100 (good match, confidence medium)
   - Chris Richards → Sabah at CB: good match (70.1/100). Driven by positional need and statistical fit; weakest area is financial feasibility (10).
-  - ⚠ Current club publicly not selling.
-- **Jayden Oosterwolde** — 67.4/100 (good match, confidence medium)
-  - Jayden Oosterwolde → Sabah at CB: good match (67.4/100). Driven by positional need and statistical fit; weakest area is financial feasibility (8).
-  - ⚠ Documented discipline record (see mental_profile.notes).
   - ⚠ Current club publicly not selling.
 
 ### ST — medium priority
@@ -94,15 +93,13 @@ Profile: reliable second scorer to share load with Mickels
 Why: Mickels dependency; Mbina unproven at this level  
 Budget: €1m · wage ceiling €0.4m net
 
+- **Kevin Nisbet** — 68.4/100 (good match, confidence medium)
+  - Kevin Nisbet → Sabah at ST: good match (68.4/100). Driven by positional need and financial feasibility; weakest area is age & contract (45).
 - **Nicolò Tresoldi** — 65.5/100 (possible, confidence medium)
   - Nicolò Tresoldi → Sabah at ST: possible (65.5/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
-- **Ayase Ueda** — 63.7/100 (possible, confidence medium)
-  - Ayase Ueda → Sabah at ST: possible (63.7/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
-- **Deniz Undav** — 62.8/100 (possible, confidence medium)
-  - Deniz Undav → Sabah at ST: possible (62.8/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
+- **Andrej Ilić** — 63.7/100 (possible, confidence medium)
+  - Andrej Ilić → Sabah at ST: possible (63.7/100). Driven by positional need and statistical fit; weakest area is financial feasibility (10).
 
 ### GK — low priority
 Profile: experienced European-level No.1 if Pokatilov struggles  
@@ -114,6 +111,8 @@ Budget: €0.5m · wage ceiling €0.3m net
   - ⚠ Current club publicly not selling.
 - **Alex Meret** — 45.0/100 (weak, confidence medium)
   - Alex Meret → Sabah at GK: weak (45.0/100). Driven by positional need and statistical fit; weakest area is financial feasibility (10).
+- **Raúl Rangel** — 37.4/100 (no fit, confidence medium)
+  - Raúl Rangel → Sabah at GK: no fit (37.4/100). Driven by positional need and tactical / system fit; weakest area is financial feasibility (0).
 
 ## Sources
 

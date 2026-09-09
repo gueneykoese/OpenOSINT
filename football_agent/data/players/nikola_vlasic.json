@@ -1,0 +1,54 @@
+{
+  "player_id": "nikola_vlasic",
+  "name": "Nikola Vlasic",
+  "age": 28,
+  "date_of_birth": "1997-10-04",
+  "nationality": ["CRO"],
+  "position": "AM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Torino",
+  "current_club_league": "Serie A",
+  "contract_until": 2027,
+  "market_value_eur_m": 8.8,
+  "estimated_fee_eur_m": 10,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Serie A",
+    "apps": null,
+    "starts": null,
+    "minutes": 3053,
+    "goals": 8,
+    "assists": 3,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["creative attacking midfielder", "Croatia international", "high minutes load (3053 mins 2025/26)", "goal contribution threat from deeper role"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": null, "coachability": null, "resilience": null, "discipline": null, "notes": null},
+  "injury_history": [],
+  "off_pitch": {"languages": ["hr"], "family_situation": null, "public_statements": [], "commercial_profile": null, "notes": null},
+  "sources": [
+    "https://www.fotmob.com/players/557677/nikola-vlasic",
+    "https://www.footballtransfers.com/en/players/nikola-vlasic"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract expires 30 June 2027. Market value estimates: EUR 6.6m (fotmob), EUR 7.7-10.5m (footballtransfers), EUR 8.8m (soccerway) - used the soccerway mid-range figure. estimated_fee_eur_m is a researcher estimate."
+  }
+}

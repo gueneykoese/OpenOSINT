@@ -1,0 +1,77 @@
+{
+  "player_id": "sabri_dahal",
+  "name": "Sabri Dahal",
+  "age": 18,
+  "date_of_birth": "2008-02-29",
+  "nationality": [
+    "KSA"
+  ],
+  "position": "RW",
+  "secondary_positions": [
+    "ST"
+  ],
+  "preferred_foot": null,
+  "height_cm": 171,
+  "current_club": "Al-Fayha FC",
+  "current_club_league": "Saudi Pro League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 8,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": null,
+  "stats_2025_26": {
+    "competition": "Saudi Pro League 2025/26",
+    "apps": 24,
+    "starts": 6,
+    "minutes": null,
+    "goals": 3,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "young right winger/forward",
+      "regular impact-sub role, four starts",
+      "Saudi Arabia U21/U17/U16 international"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "ar"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1844115/sabri-dahal",
+    "https://www.spl.com.sa/en/players/84291/sabri-dahal",
+    "https://theanalyst.com/players/13871/sabri-dahal"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Full name Sabri Abdu Dahal. Solid rotation output (3 goals, 4 assists in 24 apps, mostly off the bench) for an 18-year-old. market_value_eur_m not retrieved from Transfermarkt -> null; estimated_fee_eur_m is a reasoned estimate."
+  }
+}

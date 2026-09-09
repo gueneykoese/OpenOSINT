@@ -1,0 +1,51 @@
+{
+  "player_id": "tyrhys_dolan",
+  "name": "Tyrhys Dolan",
+  "age": 24,
+  "date_of_birth": "2001-12-28",
+  "nationality": ["ENG"],
+  "position": "RW",
+  "secondary_positions": ["LW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Espanyol",
+  "current_club_league": "La Liga",
+  "contract_until": 2028,
+  "market_value_eur_m": 9.6,
+  "estimated_fee_eur_m": 10,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "La Liga",
+    "apps": 22,
+    "starts": 17,
+    "minutes": 1483,
+    "goals": 0,
+    "assists": 3,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["English winger", "joined Espanyol free from Blackburn (July 2025)", "still adapting to La Liga (0 goals, 3 assists in first season)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": null, "coachability": null, "resilience": null, "discipline": null, "notes": null},
+  "injury_history": [],
+  "off_pitch": {"languages": ["en"], "family_situation": null, "public_statements": [], "commercial_profile": null, "notes": null},
+  "sources": ["https://www.rotowire.com/soccer/player/tyrhys-dolan-33142", "https://us.soccerway.com/player/dolan-tyrhys/8plzNuNt/"],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract until 30 June 2028. Market value EUR 9.6m per Transfermarkt-style data. Joined Espanyol on a free transfer from Blackburn Rovers (EFL Championship) in July 2025; had 7 goals/6 assists in 2024/25 Championship before the move. estimated_fee_eur_m is a researcher estimate."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "player_id": "ayoub_el_kaabi",
+  "name": "Ayoub El Kaabi",
+  "age": 33,
+  "date_of_birth": "1993-05-25",
+  "nationality": ["MAR"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Olympiacos",
+  "current_club_league": "Super League Greece",
+  "contract_until": 2026,
+  "market_value_eur_m": 5.0,
+  "estimated_fee_eur_m": 4,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Super League Greece",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 18,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["experienced poacher", "Moroccan international", "led Olympiacos scoring 2025/26 (18 league goals, 21 all competitions)"],
+    "best_system": [],
+    "weak_in": ["declining mobility at 33"]
+  },
+  "mental_profile": {"leadership": null, "coachability": null, "resilience": null, "discipline": null, "notes": null},
+  "injury_history": [],
+  "off_pitch": {"languages": ["ar", "fr"], "family_situation": null, "public_statements": [], "commercial_profile": null, "notes": null},
+  "sources": [
+    "https://www.fotmob.com/players/884382/ayoub-el-kaabi",
+    "https://www.footballtransfers.com/en/players/ayoub-kaabi",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Olympiacos_F.C._season"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Market value reported inconsistently across sources (EUR 1.6-2.5m per footballtransfers, EUR 2.3m per fotmob, EUR 5.0m per soccerway); used the soccerway/Transfermarkt-style figure but flagged low confidence. Contract reported to expire 30 June 2026, which has technically passed as of today (2026-09-09) so his status at Olympiacos for 2026/27 is NOT independently confirmed by this search -> treat current_club as unverified. estimated_fee_eur_m is a researcher estimate."
+  }
+}

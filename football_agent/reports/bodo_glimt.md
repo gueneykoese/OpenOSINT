@@ -75,13 +75,12 @@ Profile: pressing 9 who links play, Scandinavian market, 21-26
 Why: Høgh (Celtic) and Bro Hansen (PSV) sold in summer 2026 with no incoming striker; Helmersen is the only senior No. 9  
 Budget: €n/am · wage ceiling €n/am net
 
+- **Jacob Trenskow** — 79.7/100 (strong match, confidence medium)
+  - Jacob Trenskow → Bodø/Glimt at ST: strong match (79.7/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
+- **Mexx Meerdink** — 77.4/100 (good match, confidence medium)
+  - Mexx Meerdink → Bodø/Glimt at ST: good match (77.4/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
 - **Ayase Ueda** — 77.2/100 (good match, confidence medium)
   - Ayase Ueda → Bodø/Glimt at ST: good match (77.2/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (49).
-  - ⚠ Current club publicly not selling.
-- **Evan Ferguson** — 73.9/100 (good match, confidence medium)
-  - Evan Ferguson → Bodø/Glimt at ST: good match (73.9/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Nicolò Tresoldi** — 72.2/100 (good match, confidence medium)
-  - Nicolò Tresoldi → Bodø/Glimt at ST: good match (72.2/100). Driven by positional need and statistical fit; weakest area is financial feasibility (38).
   - ⚠ Current club publicly not selling.
 
 ### CB — medium priority
@@ -91,12 +90,11 @@ Budget: €n/am · wage ceiling €n/am net
 
 - **Fikayo Tomori** — 78.2/100 (strong match, confidence medium)
   - Fikayo Tomori → Bodø/Glimt at CB: strong match (78.2/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
+- **Maxime Estève** — 78.2/100 (strong match, confidence medium)
+  - Maxime Estève → Bodø/Glimt at CB: strong match (78.2/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+  - ⚠ Current club publicly not selling.
 - **Chris Richards** — 77.9/100 (good match, confidence medium)
   - Chris Richards → Bodø/Glimt at CB: good match (77.9/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
-  - ⚠ Current club publicly not selling.
-- **Jayden Oosterwolde** — 75.3/100 (good match, confidence high)
-  - Jayden Oosterwolde → Bodø/Glimt at CB: good match (75.3/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (20).
-  - ⚠ Documented discipline record (see mental_profile.notes).
   - ⚠ Current club publicly not selling.
 
 ## Sources

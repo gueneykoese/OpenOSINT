@@ -98,9 +98,8 @@ Budget: €50m · wage ceiling €7m net
   - ⚠ Current club publicly not selling.
 - **Fikayo Tomori** — 86.6/100 (strong match, confidence medium)
   - Fikayo Tomori → Man United at CB: strong match (86.6/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
-- **Jayden Oosterwolde** — 81.8/100 (strong match, confidence high)
-  - Jayden Oosterwolde → Man United at CB: strong match (81.8/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (20).
-  - ⚠ Documented discipline record (see mental_profile.notes).
+- **Maxime Estève** — 85.7/100 (strong match, confidence medium)
+  - Maxime Estève → Man United at CB: strong match (85.7/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
 
 ### LB — medium priority
@@ -108,27 +107,25 @@ Profile: attacking full-back who can also cover as inverted wing-back
 Why: Malacia released; Shaw's injury history and Dorgu still developing leave depth thin.  
 Budget: €30m · wage ceiling €4m net
 
-- **Oleksandr Zinchenko** — 73.5/100 (good match, confidence medium)
-  - Oleksandr Zinchenko → Man United at LB: good match (73.5/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Jayden Oosterwolde** — 73.2/100 (good match, confidence high)
-  - Jayden Oosterwolde → Man United at LB: good match (73.2/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (20).
-  - ⚠ Documented discipline record (see mental_profile.notes).
+- **Tyrick Mitchell** — 80.2/100 (strong match, confidence medium)
+  - Tyrick Mitchell → Man United at LB: strong match (80.2/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+- **Vitaliy Mykolenko** — 78.9/100 (strong match, confidence medium)
+  - Vitaliy Mykolenko → Man United at LB: strong match (78.9/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (50).
   - ⚠ Current club publicly not selling.
-- **Archie Brown** — 72.3/100 (good match, confidence medium)
-  - Archie Brown → Man United at LB: good match (72.3/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Jose Gaya** — 77.6/100 (good match, confidence medium)
+  - Jose Gaya → Man United at LB: good match (77.6/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
 
 ### ST — low priority
 Profile: physical pressing No.9, 21-25, resale value  
 Why: Hojlund sold; Sesko is the only specialist striker with Zirkzee peripheral and Rashford/Cunha used centrally as needed.  
 Budget: €60m · wage ceiling €7m net
 
+- **Andrej Ilić** — 70.6/100 (good match, confidence medium)
+  - Andrej Ilić → Man United at ST: good match (70.6/100). Driven by statistical fit and financial feasibility; weakest area is positional need (39).
 - **Evan Ferguson** — 68.7/100 (good match, confidence medium)
   - Evan Ferguson → Man United at ST: good match (68.7/100). Driven by financial feasibility and tactical / system fit; weakest area is statistical fit (50).
-- **Nicolò Tresoldi** — 68.1/100 (good match, confidence medium)
-  - Nicolò Tresoldi → Man United at ST: good match (68.1/100). Driven by statistical fit and financial feasibility; weakest area is positional need (50).
-  - ⚠ Current club publicly not selling.
-- **Ayase Ueda** — 66.8/100 (good match, confidence medium)
-  - Ayase Ueda → Man United at ST: good match (66.8/100). Driven by statistical fit and financial feasibility; weakest area is positional need (27).
+- **Joaquín Panichelli** — 68.4/100 (good match, confidence medium)
+  - Joaquín Panichelli → Man United at ST: good match (68.4/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (50).
   - ⚠ Current club publicly not selling.
 
 ## Sources

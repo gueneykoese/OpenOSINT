@@ -2,7 +2,7 @@
 
 **Süper Lig (TUR) · Pot 3 · Coach: Okan Buruk · System: 4-2-3-1**  
 Data confidence: `medium` · as of 2026-09-03
-> Verified from search snippets: coach (Buruk, appointed 23 Jun 2022; a two-year renewal was reported as being prepared in May 2026 but the signed extension was not confirmed in-session), full 2025/26 league record (77 pts, 24-5-5, 77-30), UCL R16 exit to Juventus, cup QF, top scorer/assister, all 8 draw opponents with home/away, arrivals Batrakov (EUR 30m) and Ugochukwu (loan), departures Icardi and Nelsson. Sané's contract to 2028 is from the task brief. Squad names come from the club's 25-man Süper Lig list reported in Turkish media; shirt numbers only where seen (Çakır 1, Sánchez 6, Jakobs 4, Ugochukwu 18, Batrakov 83, Sané 10, Akgün 11, Barış Alper 53, Osimhen 45); ages null except Batrakov (21). Per-player 2025/26 stats only for Osimhen (15 league goals) and Barış Alper (12 assists). Roles are analyst judgement. Ugochukwu's parent club (Chelsea) and Nhaga's February 2026 arrival mean Nhaga is NOT listed as a summer arrival. Transfer fees for departures are 0 (free/contract end). Budget figures in positional_needs are analyst estimates, not sourced. Position benchmarks not available.
+> Verified from search snippets: coach (Buruk, appointed 23 Jun 2022; a two-year renewal was reported as being prepared in May 2026 but the signed extension was not confirmed in-session), full 2025/26 league record (77 pts, 24-5-5, 77-30), UCL R16 exit to Juventus, cup QF, top scorer/assister, all 8 draw opponents with home/away, arrivals Batrakov (EUR 30m) and Ugochukwu (loan), departures Icardi and Nelsson. Sané's contract to 2028 is from the task brief. Squad names come from the club's 25-man Süper Lig list reported in Turkish media; shirt numbers only where seen (Çakır 1, Sánchez 6, Jakobs 4, Ugochukwu 18, Batrakov 83, Sané 10, Akgün 11, Barış Alper 53, Osimhen 45); ages null except Batrakov (21). Per-player 2025/26 stats only for Osimhen (15 league goals) and Barış Alper (12 assists). Roles are analyst judgement. Ugochukwu's parent club (Chelsea) and Nhaga's February 2026 arrival mean Nhaga is NOT listed as a summer arrival. Transfer fees for departures are 0 (free/contract end). Budget figures in positional_needs are analyst estimates, not sourced. Position benchmarks not available. CORRECTED 2026-09-09: Rafael Leão's permanent move from AC Milan (€38m fixed fee + 20% sell-on, 4-year deal to 2030, official AC Milan statement 30 Aug 2026) added to squad/arrivals/strengths; was missed because the club dossier's as_of date (early Sept) predated confirmation reaching this session. CORRECTED 2026-09-09: El Chadaille Bitshiabu joined on loan from RB Leipzig (€2m fee, €28m purchase option, season-long loan, official club confirmation) — added to squad/arrivals. CORRECTED 2026-09-09: Deniz Gül signed from FC Porto for €10m (5-year deal to 2031, €1.5m net/year, official KAP filing 1 Sep 2026) — added to squad/arrivals.
 
 ## 2025/26 in numbers
 
@@ -22,6 +22,7 @@ Character: Member-owned association (Galatasaray SK) with football run through t
 
 ## Strengths
 
+- Marquee summer addition Rafael Leão (€38m from Milan, to 2030, €10m net/season) gives a genuine game-breaking wide forward, arguably the pot's best individual talent.
 - Serial domestic winners: four straight titles, 77 points and +47 goal difference in 2025/26 under an unchanged coach.
 - Elite No.9 in Osimhen (22 goals all competitions 2025/26) plus a top-level creator in Barış Alper Yılmaz (12 league assists).
 - Experienced international midfield (Gündoğan, Torreira, Sara, Lemina) comfortable in European knockout football (UCL last 16 in 2025/26).
@@ -40,6 +41,9 @@ Character: Member-owned association (Galatasaray SK) with football run through t
 
 - IN: Aleksey Batrakov (AM) from Lokomotiv Moscow — €30m
 - IN: Lesley Ugochukwu (DM) from Chelsea (loan, EUR 3.5m loan fee) — €3.5m
+- IN: Rafael Leão (LW) from AC Milan — €38m
+- IN: El Chadaille Bitshiabu (CB) from RB Leipzig (loan, €2m fee, €28m purchase option) — €2m
+- IN: Deniz Gül (ST) from FC Porto — €10m
 - OUT: Mauro Icardi (ST) to free agent (contract expired 30 Jun 2026) — €0m
 - OUT: Victor Nelsson (CB) to FC Nordsjælland (contract terminated, free) — €0m
 
@@ -72,6 +76,9 @@ Character: Member-owned association (Galatasaray SK) with football run through t
 | Yunus Akgün | RW | n/a | TUR | n/a | rotation | n/a | n/a | n/a |
 | Barış Alper Yılmaz | LW | n/a | TUR | n/a | starter | n/a | n/a | 12 |
 | Victor Osimhen | ST | n/a | NGA | n/a | starter | n/a | 15 | n/a |
+| Rafael Leão | LW | 27 | POR | 2030 | starter | n/a | n/a | n/a |
+| El Chadaille Bitshiabu | CB | 21 | FRA | n/a | rotation | n/a | n/a | n/a |
+| Deniz Gül | ST | 22 | TUR | 2031 | rotation | n/a | n/a | n/a |
 
 ## Positional needs & recommended targets
 
@@ -80,13 +87,12 @@ Profile: physical second striker able to start 10-15 games, 23-29
 Why: Icardi departure (contract ended) leaves Osimhen without a verified like-for-like alternative  
 Budget: €15m · wage ceiling €4m net
 
-- **Evan Ferguson** — 70.0/100 (good match, confidence medium)
-  - Evan Ferguson → Galatasaray at ST: good match (70.0/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Anderson Talisca** — 67.6/100 (good match, confidence medium)
-  - Anderson Talisca → Galatasaray at ST: good match (67.6/100). Driven by financial feasibility and positional need; weakest area is age & contract (30).
-  - ⚠ Current club publicly not selling.
-- **Leandro Trossard** — 67.1/100 (good match, confidence medium)
-  - Leandro Trossard → Galatasaray at ST: good match (67.1/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
+- **Andrej Ilić** — 75.6/100 (good match, confidence medium)
+  - Andrej Ilić → Galatasaray at ST: good match (75.6/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
+- **Dion Drena Beljo** — 74.5/100 (good match, confidence medium)
+  - Dion Drena Beljo → Galatasaray at ST: good match (74.5/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
+- **Gorka Guruzeta** — 73.1/100 (good match, confidence medium)
+  - Gorka Guruzeta → Galatasaray at ST: good match (73.1/100). Driven by positional need and statistical fit; weakest area is age & contract (30).
   - ⚠ Current club publicly not selling.
 
 ### CB — medium priority
@@ -96,12 +102,11 @@ Budget: €12m · wage ceiling €3m net
 
 - **Fikayo Tomori** — 75.0/100 (good match, confidence medium)
   - Fikayo Tomori → Galatasaray at CB: good match (75.0/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
-- **Jayden Oosterwolde** — 68.6/100 (good match, confidence high)
-  - Jayden Oosterwolde → Galatasaray at CB: good match (68.6/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (20).
-  - ⚠ Documented discipline record (see mental_profile.notes).
+- **Craig Halkett** — 72.6/100 (good match, confidence medium)
+  - Craig Halkett → Galatasaray at CB: good match (72.6/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
   - ⚠ Current club publicly not selling.
-- **Amir Rrahmani** — 68.3/100 (good match, confidence medium)
-  - Amir Rrahmani → Galatasaray at CB: good match (68.3/100). Driven by financial feasibility and statistical fit; weakest area is age & contract (45).
+- **Pierre Kalulu** — 71.1/100 (good match, confidence high)
+  - Pierre Kalulu → Galatasaray at CB: good match (71.1/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
 
 ### GK — low priority
@@ -114,6 +119,8 @@ Budget: €3m · wage ceiling €1m net
   - ⚠ Current club publicly not selling.
 - **Alex Meret** — 46.1/100 (weak, confidence medium)
   - Alex Meret → Galatasaray at GK: weak (46.1/100). Driven by positional need and tactical / system fit; weakest area is financial feasibility (10).
+- **Raúl Rangel** — 41.8/100 (weak, confidence medium)
+  - Raúl Rangel → Galatasaray at GK: weak (41.8/100). Driven by positional need and tactical / system fit; weakest area is financial feasibility (0).
 
 ## Sources
 
@@ -140,3 +147,6 @@ Budget: €3m · wage ceiling €1m net
 - https://www.sporx.com/futbol/superlig/galatasaray/galatasaray-dan-ayrilan-nelsson-un-yeni-takimi-belli-oldu-SXHBQ1174468SXQ
 - https://www.hurriyet.com.tr/sporarena/galatasaray-baskani-dursun-ozbekten-flas-aciklama-uefa-tepemizde-ceza-alabiliriz-42485960
 - https://www.fanatik.com.tr/galatasaray/pfdkdan-galatasaray-ve-dursun-ozbeke-ceza-2614072
+- https://www.acmilan.com/en/news/articles/media/2026-08-30/official-statement-rafael-leao
+- https://turkish-football.com/official-financial-details-confirmed-as-galatasaray-complete-e38-million-signing-of-rafael-leao-from-ac-milan/
+- https://www.galatasaray.org/haber/gs-sportif-a-s/deniz-gul-galatasarayda/60867

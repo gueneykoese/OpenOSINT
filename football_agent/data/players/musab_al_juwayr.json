@@ -1,0 +1,77 @@
+{
+  "player_id": "musab_al_juwayr",
+  "name": "Musab Al-Juwayr",
+  "age": 23,
+  "date_of_birth": "2003-06-20",
+  "nationality": [
+    "KSA"
+  ],
+  "position": "CM",
+  "secondary_positions": [
+    "AM"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Al-Qadsiah FC",
+  "current_club_league": "Saudi Pro League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 25,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": null,
+  "stats_2025_26": {
+    "competition": "Saudi Pro League 2025/26",
+    "apps": 31,
+    "starts": null,
+    "minutes": 2537,
+    "goals": 6,
+    "assists": 11,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "connecting central midfielder",
+      "2024-25 Saudi Pro League Best Young Player",
+      "made permanent move from Al-Hilal (via Al-Shabab loan) to Al-Qadsiah in 2025"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "ar"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1235341/musab-al-juwayr",
+    "https://www.spl.com.sa/en/players/80326/musab-al-juwayr",
+    "https://statz.ai/player/musab-al-juwayr/37562153"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Strong 2025/26 output (6 goals, 11 assists in 31 apps) for Al-Qadsiah; regarded as one of the Saudi Pro League's leading young Saudi nationals. estimated_fee_eur_m is a reasoned estimate (no Transfermarkt figure retrieved -> market_value_eur_m null). Contract length not sourced."
+  }
+}

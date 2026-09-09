@@ -1,0 +1,81 @@
+{
+  "player_id": "abdulmalik_al_jaber",
+  "name": "Abdulmalik Al-Jaber",
+  "age": 22,
+  "date_of_birth": "2004-01-07",
+  "nationality": [
+    "KSA"
+  ],
+  "position": "CM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 178,
+  "current_club": "Al-Nassr FC",
+  "current_club_league": "Saudi Pro League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 10,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": null,
+  "stats_2025_26": {
+    "competition": "Saudi Pro League 2025/26",
+    "apps": 0,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "ball-progressing central midfielder",
+      "developed for two seasons in Bosnia at FK Željezničar (44 apps, 4 goals)",
+      "Saudi Arabia U23 international"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [
+    {
+      "type": "unspecified (delayed 2025-26 debut for Al-Nassr)",
+      "season": "2025/26",
+      "days_out": null
+    }
+  ],
+  "off_pitch": {
+    "languages": [
+      "ar"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abdulmalik_Al-Jaber",
+    "https://www.fotmob.com/players/1640879/abdulmalik-al-jaber",
+    "https://www.spl.com.sa/en/players/84586/abdulmalik-al-jaber"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Recorded 0 appearances for Al-Nassr in 2025/26 as of the sources retrieved, reportedly due to injury (expected return around early Jan 2026); current fitness/game-time status for Sept 2026 NOT independently confirmed -> flagged low confidence. estimated_fee_eur_m is a rough researcher estimate reflecting unproven Saudi Pro League status despite a promising European development spell."
+  }
+}

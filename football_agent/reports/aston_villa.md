@@ -103,9 +103,8 @@ Budget: €40m · wage ceiling €5m net
   - ⚠ Current club publicly not selling.
 - **Fikayo Tomori** — 85.9/100 (strong match, confidence medium)
   - Fikayo Tomori → Aston Villa at CB: strong match (85.9/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
-- **Jayden Oosterwolde** — 79.5/100 (strong match, confidence high)
-  - Jayden Oosterwolde → Aston Villa at CB: strong match (79.5/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (20).
-  - ⚠ Documented discipline record (see mental_profile.notes).
+- **Maxime Estève** — 84.0/100 (strong match, confidence medium)
+  - Maxime Estève → Aston Villa at CB: strong match (84.0/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
 
 ### DM — medium priority
@@ -113,14 +112,13 @@ Profile: ball-winning No.6 with range of passing, 21-26
 Why: Onana out until spring 2027 with ACL, Barrenechea sold; Kamara has an injury history and Goretzka is 31 on a short contract.  
 Budget: €35m · wage ceiling €5m net
 
+- **Kamiel Van de Perre** — 78.9/100 (strong match, confidence medium)
+  - Kamiel Van de Perre → Aston Villa at DM: strong match (78.9/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (47).
+  - ⚠ Current club publicly not selling.
+- **Adrián Bernabé** — 78.4/100 (strong match, confidence medium)
+  - Adrián Bernabé → Aston Villa at DM: strong match (78.4/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
 - **Victor Froholdt** — 72.8/100 (good match, confidence medium)
   - Victor Froholdt → Aston Villa at DM: good match (72.8/100). Driven by statistical fit and tactical / system fit; weakest area is financial feasibility (50).
-  - ⚠ Current club publicly not selling.
-- **Tyler Adams** — 67.5/100 (good match, confidence high)
-  - Tyler Adams → Aston Villa at DM: good match (67.5/100). Driven by positional need and statistical fit; weakest area is financial feasibility (50).
-  - ⚠ Current club publicly not selling.
-- **Curtis Jones** — 66.8/100 (good match, confidence medium)
-  - Curtis Jones → Aston Villa at DM: good match (66.8/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
   - ⚠ Current club publicly not selling.
 
 ### ST — medium priority
@@ -131,27 +129,25 @@ Budget: €50m · wage ceiling €6m net
 - **Nicolò Tresoldi** — 75.4/100 (good match, confidence high)
   - Nicolò Tresoldi → Aston Villa at ST: good match (75.4/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
-- **Jonathan David** — 72.4/100 (good match, confidence medium)
-  - Jonathan David → Aston Villa at ST: good match (72.4/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Deniz Undav** — 70.8/100 (good match, confidence high)
-  - Deniz Undav → Aston Villa at ST: good match (70.8/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
-  - ⚠ Current club publicly not selling.
+- **Andrej Ilić** — 74.3/100 (good match, confidence high)
+  - Andrej Ilić → Aston Villa at ST: good match (74.3/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
+- **Mexx Meerdink** — 73.7/100 (good match, confidence medium)
+  - Mexx Meerdink → Aston Villa at ST: good match (73.7/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
 
 ### AM — low priority
 Profile: creative No.10 / carrier with end product  
 Why: Rogers sold; Manzambi signed as the successor but is 20 and injured - a secondary creative option beyond Buendia (29) would de-risk.  
 Budget: €25m · wage ceiling €4m net
 
-- **Leandro Trossard** — 66.5/100 (good match, confidence medium)
-  - Leandro Trossard → Aston Villa at AM: good match (66.5/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
+- **Ludovic Blas** — 70.0/100 (good match, confidence medium)
+  - Ludovic Blas → Aston Villa at AM: good match (70.0/100). Driven by statistical fit and financial feasibility; weakest area is positional need (48).
+  - ⚠ Would block a young starter (Johan Manzambi, 20) — check pathway politics.
+- **Romain Del Castillo** — 69.3/100 (good match, confidence medium)
+  - Romain Del Castillo → Aston Villa at AM: good match (69.3/100). Driven by statistical fit and financial feasibility; weakest area is positional need (30).
   - ⚠ Current club publicly not selling.
   - ⚠ Would block a young starter (Johan Manzambi, 20) — check pathway politics.
-- **Christoph Baumgartner** — 66.3/100 (good match, confidence medium)
-  - Christoph Baumgartner → Aston Villa at AM: good match (66.3/100). Driven by statistical fit and positional need; weakest area is positional need (45).
-  - ⚠ Current club publicly not selling.
-  - ⚠ Would block a young starter (Johan Manzambi, 20) — check pathway politics.
-- **Reiss Nelson** — 61.7/100 (possible, confidence medium)
-  - Reiss Nelson → Aston Villa at AM: possible (61.7/100). Driven by financial feasibility and statistical fit; weakest area is positional need (30).
+- **Nikola Vlasic** — 69.2/100 (good match, confidence medium)
+  - Nikola Vlasic → Aston Villa at AM: good match (69.2/100). Driven by statistical fit and financial feasibility; weakest area is positional need (48).
   - ⚠ Would block a young starter (Johan Manzambi, 20) — check pathway politics.
 
 ## Sources

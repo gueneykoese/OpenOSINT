@@ -79,14 +79,12 @@ Profile: physical No.9, 23-28, proven in a top-10 league
 Why: Kalajdžić loan ended, Entrup sold  
 Budget: €3m · wage ceiling €0.8m net
 
+- **Sōta Nakamura** — 75.1/100 (good match, confidence medium)
+  - Sōta Nakamura → LASK at ST: good match (75.1/100). Driven by positional need and financial feasibility; weakest area is tactical / system fit (50).
+- **Kevin Nisbet** — 70.4/100 (good match, confidence medium)
+  - Kevin Nisbet → LASK at ST: good match (70.4/100). Driven by positional need and financial feasibility; weakest area is age & contract (45).
 - **Nicolò Tresoldi** — 69.0/100 (good match, confidence medium)
   - Nicolò Tresoldi → LASK at ST: good match (69.0/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
-- **Ayase Ueda** — 65.9/100 (possible, confidence medium)
-  - Ayase Ueda → LASK at ST: possible (65.9/100). Driven by positional need and statistical fit; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
-- **Deniz Undav** — 64.0/100 (possible, confidence medium)
-  - Deniz Undav → LASK at ST: possible (64.0/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
 
 ### CB — high priority
@@ -94,14 +92,14 @@ Profile: right-footed, fast, 21-25, resale profile
 Why: Cisse sold to Aston Villa; Ziereis 33  
 Budget: €3m · wage ceiling €0.7m net
 
+- **Craig Halkett** — 74.6/100 (good match, confidence medium)
+  - Craig Halkett → LASK at CB: good match (74.6/100). Driven by statistical fit and positional need; weakest area is age & contract (30).
+  - ⚠ Current club publicly not selling.
+- **Maxime Estève** — 70.2/100 (good match, confidence medium)
+  - Maxime Estève → LASK at CB: good match (70.2/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
+  - ⚠ Current club publicly not selling.
 - **Chris Richards** — 68.9/100 (good match, confidence medium)
   - Chris Richards → LASK at CB: good match (68.9/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
-  - ⚠ Current club publicly not selling.
-- **Fikayo Tomori** — 68.5/100 (good match, confidence medium)
-  - Fikayo Tomori → LASK at CB: good match (68.5/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
-- **Jayden Oosterwolde** — 64.1/100 (possible, confidence high)
-  - Jayden Oosterwolde → LASK at CB: possible (64.1/100). Driven by statistical fit and positional need; weakest area is financial feasibility (8).
-  - ⚠ Documented discipline record (see mental_profile.notes).
   - ⚠ Current club publicly not selling.
 
 ### RB — medium priority
@@ -114,9 +112,8 @@ Budget: €2m · wage ceiling €0.5m net
 - **Chris Richards** — 60.9/100 (possible, confidence medium)
   - Chris Richards → LASK at RB: possible (60.9/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
   - ⚠ Current club publicly not selling.
-- **Gianluca Mancini** — 55.9/100 (possible, confidence high)
-  - Gianluca Mancini → LASK at RB: possible (55.9/100). Driven by statistical fit and positional need; weakest area is financial feasibility (8).
-  - ⚠ Documented discipline record (see mental_profile.notes).
+- **Pierre Kalulu** — 59.6/100 (possible, confidence high)
+  - Pierre Kalulu → LASK at RB: possible (59.6/100). Driven by statistical fit and positional need; weakest area is financial feasibility (8).
   - ⚠ Current club publicly not selling.
 
 ## Sources

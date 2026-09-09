@@ -86,6 +86,9 @@ Budget: €10m · wage ceiling €3m net
 - **Alex Meret** — 71.0/100 (good match, confidence medium)
   - Alex Meret → Stuttgart at GK: good match (71.0/100). Driven by positional need and financial feasibility; weakest area is statistical fit (38).
   - ⚠ Would block a young starter (Dennis Seimen, 20) — check pathway politics.
+- **Raúl Rangel** — 63.0/100 (possible, confidence medium)
+  - Raúl Rangel → Stuttgart at GK: possible (63.0/100). Driven by positional need and financial feasibility; weakest area is statistical fit (14).
+  - ⚠ Would block a young starter (Dennis Seimen, 20) — check pathway politics.
 
 ### CB — medium priority
 Profile: fast, ball-playing left-footed CB, 22-27  
@@ -98,8 +101,8 @@ Budget: €15m · wage ceiling €3m net
   - Jayden Oosterwolde → Stuttgart at CB: good match (74.5/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (20).
   - ⚠ Documented discipline record (see mental_profile.notes).
   - ⚠ Current club publicly not selling.
-- **Chris Richards** — 66.7/100 (good match, confidence medium)
-  - Chris Richards → Stuttgart at CB: good match (66.7/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
+- **Maxime Estève** — 69.7/100 (good match, confidence medium)
+  - Maxime Estève → Stuttgart at CB: good match (69.7/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
 
 ### DM — medium priority
@@ -107,14 +110,13 @@ Profile: young No.6 with resale value to succeed Chema Andrés
 Why: Chema Andrés sold to Brighton; Prömel is a stop-gap  
 Budget: €12m · wage ceiling €2.5m net
 
-- **Oleksandr Zinchenko** — 65.7/100 (possible, confidence medium)
-  - Oleksandr Zinchenko → Stuttgart at DM: possible (65.7/100). Driven by financial feasibility and positional need; weakest area is age & contract (30).
-- **Victor Froholdt** — 63.5/100 (possible, confidence medium)
-  - Victor Froholdt → Stuttgart at DM: possible (63.5/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
+- **Kamiel Van de Perre** — 75.4/100 (good match, confidence medium)
+  - Kamiel Van de Perre → Stuttgart at DM: good match (75.4/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
-- **Dani Ceballos** — 63.0/100 (possible, confidence medium)
-  - Dani Ceballos → Stuttgart at DM: possible (63.0/100). Driven by financial feasibility and positional need; weakest area is age & contract (30).
-  - ⚠ Current club publicly not selling.
+- **Beni** — 72.7/100 (good match, confidence medium)
+  - Beni → Stuttgart at DM: good match (72.7/100). Driven by statistical fit and financial feasibility; weakest area is cultural adaptation (34).
+- **Adrián Bernabé** — 70.5/100 (good match, confidence medium)
+  - Adrián Bernabé → Stuttgart at DM: good match (70.5/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
 
 ## Sources
 

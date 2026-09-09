@@ -1,0 +1,57 @@
+{
+  "player_id": "tim_iroegbunam",
+  "name": "Tim Iroegbunam",
+  "age": 22,
+  "date_of_birth": "2003-06-30",
+  "nationality": ["ENG"],
+  "position": "CM",
+  "secondary_positions": ["DM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Everton",
+  "current_club_league": "Premier League",
+  "contract_until": 2027,
+  "market_value_eur_m": 10,
+  "estimated_fee_eur_m": 15,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": 23,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["box-to-box midfielder", "physical ball-winner", "one year from free agency, contract uncertainty"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": null, "coachability": null, "resilience": null, "discipline": null, "notes": null},
+  "injury_history": [
+    {"type": "groin", "season": "2024/25", "days_out": null},
+    {"type": "lack of match fitness", "season": "2025/26", "days_out": null}
+  ],
+  "off_pitch": {"languages": ["en"], "family_situation": null, "public_statements": [], "commercial_profile": null, "notes": null},
+  "sources": [
+    "https://uk.soccerway.com/player/iroegbunam-tim/zJaAPxhF/",
+    "https://roundtable.io/sports/soccer/premier-league/everton/transfers/analysing-everton-s-players-with-contracts-expiring-in-2027"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Market value reported EUR 8.4m-13.8m across sites; midpoint ~10m used. Contract expires 30 June 2027; Everton reportedly looking to strengthen his position, raising doubt over his role. Transferred from Aston Villa July 2024 for EUR 10.7m. estimated_fee_eur_m is a researcher estimate."
+  }
+}

@@ -96,13 +96,12 @@ Profile: 20-goal Eredivisie-level No. 9 with pressing profile, 22-27
 Why: Ueda (25 league goals) sold to Lille on 1 Sep 2026; Ferri and Tengstedt are the only strikers  
 Budget: €n/am · wage ceiling €n/am net
 
+- **Jacob Trenskow** — 81.8/100 (strong match, confidence medium)
+  - Jacob Trenskow → Feyenoord at ST: strong match (81.8/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
+- **Andrej Ilić** — 81.0/100 (strong match, confidence medium)
+  - Andrej Ilić → Feyenoord at ST: strong match (81.0/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (54).
 - **Ayase Ueda** — 79.1/100 (strong match, confidence medium)
   - Ayase Ueda → Feyenoord at ST: strong match (79.1/100). Driven by statistical fit and positional need; weakest area is age & contract (50).
-  - ⚠ Current club publicly not selling.
-- **Evan Ferguson** — 73.1/100 (good match, confidence medium)
-  - Evan Ferguson → Feyenoord at ST: good match (73.1/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Nicolò Tresoldi** — 73.1/100 (good match, confidence medium)
-  - Nicolò Tresoldi → Feyenoord at ST: good match (73.1/100). Driven by positional need and statistical fit; weakest area is financial feasibility (38).
   - ⚠ Current club publicly not selling.
 
 ### CB — high priority
@@ -115,9 +114,8 @@ Budget: €n/am · wage ceiling €n/am net
   - ⚠ Current club publicly not selling.
 - **Fikayo Tomori** — 84.2/100 (strong match, confidence medium)
   - Fikayo Tomori → Feyenoord at CB: strong match (84.2/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
-- **Jayden Oosterwolde** — 81.6/100 (strong match, confidence high)
-  - Jayden Oosterwolde → Feyenoord at CB: strong match (81.6/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (20).
-  - ⚠ Documented discipline record (see mental_profile.notes).
+- **Maxime Estève** — 83.1/100 (strong match, confidence medium)
+  - Maxime Estève → Feyenoord at CB: strong match (83.1/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
 
 ### LW — medium priority
@@ -129,12 +127,12 @@ Budget: €n/am · wage ceiling €n/am net
   - Leandro Trossard → Feyenoord at LW: good match (74.5/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
   - ⚠ Current club publicly not selling.
   - ⚠ Would block a young starter (Gaoussou Diarra, 22) — check pathway politics.
-- **Christoph Baumgartner** — 71.1/100 (good match, confidence medium)
-  - Christoph Baumgartner → Feyenoord at LW: good match (71.1/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
-  - ⚠ Current club publicly not selling.
+- **Ludovic Blas** — 71.3/100 (good match, confidence medium)
+  - Ludovic Blas → Feyenoord at LW: good match (71.3/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
   - ⚠ Would block a young starter (Gaoussou Diarra, 22) — check pathway politics.
-- **Brahim Díaz** — 70.0/100 (good match, confidence medium)
-  - Brahim Díaz → Feyenoord at LW: good match (70.0/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
+- **Romain Del Castillo** — 71.3/100 (good match, confidence medium)
+  - Romain Del Castillo → Feyenoord at LW: good match (71.3/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
+  - ⚠ Current club publicly not selling.
   - ⚠ Would block a young starter (Gaoussou Diarra, 22) — check pathway politics.
 
 ## Sources

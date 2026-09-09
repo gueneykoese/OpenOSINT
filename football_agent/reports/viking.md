@@ -77,9 +77,8 @@ Budget: €1.5m · wage ceiling €0.4m net
   - ⚠ Current club publicly not selling.
 - **Fikayo Tomori** — 69.4/100 (good match, confidence medium)
   - Fikayo Tomori → Viking at CB: good match (69.4/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
-- **Jayden Oosterwolde** — 66.2/100 (good match, confidence medium)
-  - Jayden Oosterwolde → Viking at CB: good match (66.2/100). Driven by positional need and statistical fit; weakest area is financial feasibility (8).
-  - ⚠ Documented discipline record (see mental_profile.notes).
+- **Craig Halkett** — 69.3/100 (good match, confidence medium)
+  - Craig Halkett → Viking at CB: good match (69.3/100). Driven by statistical fit and positional need; weakest area is financial feasibility (38).
   - ⚠ Current club publicly not selling.
 
 ### DM — medium priority
@@ -89,11 +88,10 @@ Budget: €1m · wage ceiling €0.3m net
 
 - **Oleksandr Zinchenko** — 62.2/100 (possible, confidence medium)
   - Oleksandr Zinchenko → Viking at DM: possible (62.2/100). Driven by financial feasibility and positional need; weakest area is cultural adaptation (27).
+- **Adrián Bernabé** — 61.8/100 (possible, confidence medium)
+  - Adrián Bernabé → Viking at DM: possible (61.8/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
 - **Victor Froholdt** — 61.6/100 (possible, confidence medium)
   - Victor Froholdt → Viking at DM: possible (61.6/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
-- **Tyler Adams** — 57.7/100 (possible, confidence medium)
-  - Tyler Adams → Viking at DM: possible (57.7/100). Driven by positional need and statistical fit; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
 
 ### ST — medium priority
@@ -101,14 +99,13 @@ Profile: succession for Christiansen (top scorer, sale risk)
 Why: Top scorer is the obvious sale candidate after UCL exposure  
 Budget: €1.5m · wage ceiling €0.35m net
 
+- **Kevin Nisbet** — 67.3/100 (good match, confidence medium)
+  - Kevin Nisbet → Viking at ST: good match (67.3/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 - **Ayase Ueda** — 61.1/100 (possible, confidence medium)
   - Ayase Ueda → Viking at ST: possible (61.1/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
 - **Deniz Undav** — 60.5/100 (possible, confidence medium)
   - Deniz Undav → Viking at ST: possible (60.5/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
-- **Nicolò Tresoldi** — 60.2/100 (possible, confidence medium)
-  - Nicolò Tresoldi → Viking at ST: possible (60.2/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
 
 ## Sources

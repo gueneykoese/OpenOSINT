@@ -99,9 +99,8 @@ Budget: €35m · wage ceiling €6m net
   - Chris Richards → Barcelona at CB: strong match (85.5/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (50).
   - ⚠ Current club publicly not selling.
   - ⚠ Would block a young starter (Pau Cubarsi, 19) — check pathway politics.
-- **Jayden Oosterwolde** — 79.5/100 (strong match, confidence high)
-  - Jayden Oosterwolde → Barcelona at CB: strong match (79.5/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (20).
-  - ⚠ Documented discipline record (see mental_profile.notes).
+- **Maxime Estève** — 83.8/100 (strong match, confidence medium)
+  - Maxime Estève → Barcelona at CB: strong match (83.8/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
   - ⚠ Would block a young starter (Pau Cubarsi, 19) — check pathway politics.
 
@@ -110,14 +109,12 @@ Profile: young high-output No. 9 who presses and links play, 20-25, resale value
 Why: Lewandowski and Ferran gone; Jesus is 29 with injury history and no natural deputy  
 Budget: €45m · wage ceiling €6m net
 
+- **Andrej Ilić** — 76.1/100 (good match, confidence medium)
+  - Andrej Ilić → Barcelona at ST: good match (76.1/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
+- **Dion Drena Beljo** — 74.6/100 (good match, confidence medium)
+  - Dion Drena Beljo → Barcelona at ST: good match (74.6/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (45).
 - **Nicolò Tresoldi** — 74.4/100 (good match, confidence medium)
   - Nicolò Tresoldi → Barcelona at ST: good match (74.4/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
-  - ⚠ Current club publicly not selling.
-- **Deniz Undav** — 72.5/100 (good match, confidence medium)
-  - Deniz Undav → Barcelona at ST: good match (72.5/100). Driven by statistical fit and financial feasibility; weakest area is positional need (53).
-  - ⚠ Current club publicly not selling.
-- **Ayase Ueda** — 71.5/100 (good match, confidence medium)
-  - Ayase Ueda → Barcelona at ST: good match (71.5/100). Driven by statistical fit and financial feasibility; weakest area is positional need (54).
   - ⚠ Current club publicly not selling.
 
 ### DM — medium priority
@@ -125,16 +122,13 @@ Profile: press-resistant No. 6/8, 20-25, able to cover Rodri
 Why: de Jong injured with no timeline, Casado loaned out, Rodri turns 31 in 2027  
 Budget: €30m · wage ceiling €4m net
 
-- **Victor Froholdt** — 70.8/100 (good match, confidence medium)
-  - Victor Froholdt → Barcelona at DM: good match (70.8/100). Driven by statistical fit and positional need; weakest area is financial feasibility (28).
+- **Adrián Bernabé** — 79.3/100 (strong match, confidence medium)
+  - Adrián Bernabé → Barcelona at DM: strong match (79.3/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
+- **Kamiel Van de Perre** — 79.0/100 (strong match, confidence medium)
+  - Kamiel Van de Perre → Barcelona at DM: strong match (79.0/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
-- **Gianluca Mancini** — 68.8/100 (good match, confidence high)
-  - Gianluca Mancini → Barcelona at DM: good match (68.8/100). Driven by statistical fit and financial feasibility; weakest area is positional need (35).
-  - ⚠ Documented discipline record (see mental_profile.notes).
-  - ⚠ Current club publicly not selling.
-- **Dani Ceballos** — 67.1/100 (good match, confidence medium)
-  - Dani Ceballos → Barcelona at DM: good match (67.1/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (35).
-  - ⚠ Current club publicly not selling.
+- **Beni** — 76.4/100 (good match, confidence medium)
+  - Beni → Barcelona at DM: good match (76.4/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
 
 ### GK — low priority
 Profile: young backup, 22-26  
@@ -146,6 +140,8 @@ Budget: €8m · wage ceiling €1.5m net
   - ⚠ Current club publicly not selling.
 - **Alex Meret** — 59.0/100 (possible, confidence medium)
   - Alex Meret → Barcelona at GK: possible (59.0/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (27).
+- **Raúl Rangel** — 50.4/100 (weak, confidence medium)
+  - Raúl Rangel → Barcelona at GK: weak (50.4/100). Driven by tactical / system fit and positional need; weakest area is statistical fit (6).
 
 ## Sources
 

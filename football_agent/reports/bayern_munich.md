@@ -80,11 +80,10 @@ Budget: €70m · wage ceiling €10m net
 - **Nicolò Tresoldi** — 85.0/100 (strong match, confidence medium)
   - Nicolò Tresoldi → Bayern at ST: strong match (85.0/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
+- **Andrej Ilić** — 83.1/100 (strong match, confidence medium)
+  - Andrej Ilić → Bayern at ST: strong match (83.1/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
 - **Deniz Undav** — 81.1/100 (strong match, confidence medium)
   - Deniz Undav → Bayern at ST: strong match (81.1/100). Driven by statistical fit and positional need; weakest area is age & contract (30).
-  - ⚠ Current club publicly not selling.
-- **Ayase Ueda** — 79.9/100 (strong match, confidence medium)
-  - Ayase Ueda → Bayern at ST: strong match (79.9/100). Driven by statistical fit and positional need; weakest area is age & contract (50).
   - ⚠ Current club publicly not selling.
 
 ### DM — medium priority
@@ -92,15 +91,13 @@ Profile: physical ball-winning No.6, 22-27
 Why: Palhinha departed; Kimmich 31; Pavlovic/Bischof are still developing  
 Budget: €50m · wage ceiling €8m net
 
-- **Victor Froholdt** — 72.9/100 (good match, confidence medium)
-  - Victor Froholdt → Bayern at DM: good match (72.9/100). Driven by statistical fit and financial feasibility; weakest area is positional need (48).
+- **Kamiel Van de Perre** — 77.9/100 (good match, confidence medium)
+  - Kamiel Van de Perre → Bayern at DM: good match (77.9/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (45).
   - ⚠ Current club publicly not selling.
-- **Tyler Adams** — 71.1/100 (good match, confidence high)
-  - Tyler Adams → Bayern at DM: good match (71.1/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (45).
-  - ⚠ Current club publicly not selling.
-- **Gianluca Mancini** — 64.7/100 (possible, confidence high)
-  - Gianluca Mancini → Bayern at DM: possible (64.7/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
-  - ⚠ Documented discipline record (see mental_profile.notes).
+- **Adrián Bernabé** — 77.5/100 (good match, confidence medium)
+  - Adrián Bernabé → Bayern at DM: good match (77.5/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
+- **Farès Chaïbi** — 73.4/100 (good match, confidence medium)
+  - Farès Chaïbi → Bayern at DM: good match (73.4/100). Driven by financial feasibility and statistical fit; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
 
 ### GK — medium priority
@@ -113,6 +110,8 @@ Budget: €35m · wage ceiling €6m net
   - ⚠ Current club publicly not selling.
 - **Alex Meret** — 66.0/100 (good match, confidence medium)
   - Alex Meret → Bayern at GK: good match (66.0/100). Driven by positional need and financial feasibility; weakest area is statistical fit (38).
+- **Raúl Rangel** — 55.8/100 (possible, confidence medium)
+  - Raúl Rangel → Bayern at GK: possible (55.8/100). Driven by financial feasibility and positional need; weakest area is statistical fit (6).
 
 ### RB — low priority
 Profile: specialist attacking RB  
@@ -124,9 +123,8 @@ Budget: €30m · wage ceiling €5m net
   - ⚠ Current club publicly not selling.
 - **Fikayo Tomori** — 71.2/100 (good match, confidence medium)
   - Fikayo Tomori → Bayern at RB: good match (71.2/100). Driven by statistical fit and financial feasibility; weakest area is positional need (30).
-- **Gianluca Mancini** — 62.9/100 (possible, confidence high)
-  - Gianluca Mancini → Bayern at RB: possible (62.9/100). Driven by statistical fit and financial feasibility; weakest area is positional need (30).
-  - ⚠ Documented discipline record (see mental_profile.notes).
+- **Pierre Kalulu** — 65.4/100 (possible, confidence high)
+  - Pierre Kalulu → Bayern at RB: possible (65.4/100). Driven by statistical fit and financial feasibility; weakest area is positional need (30).
   - ⚠ Current club publicly not selling.
 
 ## Sources

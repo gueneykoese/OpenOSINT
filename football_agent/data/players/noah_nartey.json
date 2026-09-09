@@ -1,0 +1,67 @@
+{
+  "player_id": "noah_nartey",
+  "name": "Noah Nartey",
+  "age": 20,
+  "date_of_birth": "2005-10-05",
+  "nationality": ["GHA", "DEN"],
+  "position": "CM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Olympique Lyonnais",
+  "current_club_league": "Ligue 1",
+  "contract_until": 2027,
+  "market_value_eur_m": 14.5,
+  "estimated_fee_eur_m": 18,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Ligue 1 / Danish Superliga (split season)",
+    "apps": 25,
+    "starts": null,
+    "minutes": null,
+    "goals": 6,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["box-to-box midfielder", "broke through at Brondby before EUR 7.5m Jan 2026 move to Lyon", "goal threat from midfield"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["da", "en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Noah_Nartey",
+    "https://www.fotmob.com/players/1368710/noah-nartey",
+    "https://www.soccerbase.com/players/player.sd?player_id=180205"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Moved from Brondby IF (Danish Superliga) to Lyon in the January 2026 window for EUR 7.5m; 2025/26 season stats are combined across both clubs (17 apps/4 goals Brondby + 8 apps/2 goals Lyon = 25 apps/6 goals total) since exact split by competition wasn't separately confirmed for the schema's single 'competition' field. Nationality listed as GHA/DEN per Wikipedia bio conventions for Danish-born players of Ghanaian descent - not independently re-verified beyond the search snippet. Market value EUR 14.5m per aggregator snippet."
+  }
+}

@@ -92,14 +92,12 @@ Profile: experienced No. 6 who can drop into the back line in build-up, 24-28, l
 Why: Hjulmand (captain) sold to Atletico; Altimira and Doumbia are new and young.  
 Budget: €20m · wage ceiling €2.5m net
 
-- **Gianluca Mancini** — 68.7/100 (good match, confidence high)
-  - Gianluca Mancini → Sporting CP at DM: good match (68.7/100). Driven by statistical fit and positional need; weakest area is age & contract (30).
-  - ⚠ Documented discipline record (see mental_profile.notes).
-  - ⚠ Current club publicly not selling.
-- **Oleksandr Zinchenko** — 68.3/100 (good match, confidence medium)
-  - Oleksandr Zinchenko → Sporting CP at DM: good match (68.3/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (27).
-- **Victor Froholdt** — 67.3/100 (good match, confidence medium)
-  - Victor Froholdt → Sporting CP at DM: good match (67.3/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
+- **Adrián Bernabé** — 81.7/100 (strong match, confidence medium)
+  - Adrián Bernabé → Sporting CP at DM: strong match (81.7/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
+- **Beni** — 81.3/100 (strong match, confidence medium)
+  - Beni → Sporting CP at DM: strong match (81.3/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
+- **Kamiel Van de Perre** — 80.4/100 (strong match, confidence medium)
+  - Kamiel Van de Perre → Sporting CP at DM: strong match (80.4/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (48).
   - ⚠ Current club publicly not selling.
 
 ### CB — medium priority
@@ -109,41 +107,36 @@ Budget: €15m · wage ceiling €2m net
 
 - **Fikayo Tomori** — 76.5/100 (good match, confidence medium)
   - Fikayo Tomori → Sporting CP at CB: good match (76.5/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
+- **Robert Renan** — 70.7/100 (good match, confidence medium)
+  - Robert Renan → Sporting CP at CB: good match (70.7/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 - **Mamadou Sarr** — 69.7/100 (good match, confidence medium)
   - Mamadou Sarr → Sporting CP at CB: good match (69.7/100). Driven by tactical / system fit and financial feasibility; weakest area is statistical fit (50).
-- **Jayden Oosterwolde** — 68.1/100 (good match, confidence high)
-  - Jayden Oosterwolde → Sporting CP at CB: good match (68.1/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (20).
-  - ⚠ Documented discipline record (see mental_profile.notes).
-  - ⚠ Current club publicly not selling.
 
 ### RW — medium priority
 Profile: creative wide player with assists, 21-25  
 Why: Trincao (10 assists) and Quenda gone; Irankunda unproven at this level.  
 Budget: €15m · wage ceiling €2m net
 
-- **Reiss Nelson** — 67.9/100 (good match, confidence medium)
-  - Reiss Nelson → Sporting CP at RW: good match (67.9/100). Driven by financial feasibility and positional need; weakest area is cultural adaptation (49).
-- **Leandro Trossard** — 67.4/100 (good match, confidence medium)
-  - Leandro Trossard → Sporting CP at RW: good match (67.4/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
+- **Aral Şimşir** — 70.4/100 (good match, confidence medium)
+  - Aral Şimşir → Sporting CP at RW: good match (70.4/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
   - ⚠ Current club publicly not selling.
-- **Ansgar Knauff** — 62.7/100 (possible, confidence medium)
-  - Ansgar Knauff → Sporting CP at RW: possible (62.7/100). Driven by positional need and statistical fit; weakest area is financial feasibility (30).
-  - ⚠ Current club publicly not selling.
+- **Luka Stojković** — 69.8/100 (good match, confidence medium)
+  - Luka Stojković → Sporting CP at RW: good match (69.8/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (20).
+  - ⚠ Documented discipline record (see mental_profile.notes).
+- **Paul Nebel** — 69.8/100 (good match, confidence medium)
+  - Paul Nebel → Sporting CP at RW: good match (69.8/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (45).
 
 ### ST — low priority
 Profile: back-up No. 9, 20-24, resale value  
 Why: Suarez dependency; Nel is a 19-year-old prospect.  
 Budget: €10m · wage ceiling €1.5m net
 
-- **Nicolò Tresoldi** — 56.9/100 (possible, confidence medium)
-  - Nicolò Tresoldi → Sporting CP at ST: possible (56.9/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
-- **Leandro Trossard** — 53.0/100 (weak, confidence medium)
-  - Leandro Trossard → Sporting CP at ST: weak (53.0/100). Driven by statistical fit and tactical / system fit; weakest area is positional need (5).
-  - ⚠ Current club publicly not selling.
-- **Anderson Talisca** — 52.3/100 (weak, confidence medium)
-  - Anderson Talisca → Sporting CP at ST: weak (52.3/100). Driven by financial feasibility and statistical fit; weakest area is positional need (5).
-  - ⚠ Current club publicly not selling.
+- **Sōta Nakamura** — 66.7/100 (good match, confidence medium)
+  - Sōta Nakamura → Sporting CP at ST: good match (66.7/100). Driven by financial feasibility and statistical fit; weakest area is cultural adaptation (27).
+- **Andrej Ilić** — 66.4/100 (good match, confidence medium)
+  - Andrej Ilić → Sporting CP at ST: good match (66.4/100). Driven by statistical fit and financial feasibility; weakest area is positional need (33).
+- **Seedy Jatta** — 64.0/100 (possible, confidence medium)
+  - Seedy Jatta → Sporting CP at ST: possible (64.0/100). Driven by financial feasibility and positional need; weakest area is positional need (50).
 
 ## Sources
 

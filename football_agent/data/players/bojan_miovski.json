@@ -1,0 +1,54 @@
+{
+  "player_id": "bojan_miovski",
+  "name": "Bojan Miovski",
+  "age": 27,
+  "date_of_birth": "1999-06-24",
+  "nationality": ["MKD"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Rangers",
+  "current_club_league": "Scottish Premiership",
+  "contract_until": null,
+  "market_value_eur_m": 2.5,
+  "estimated_fee_eur_m": 4,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Scottish Premiership",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 4,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["target man striker", "North Macedonia international", "moved Aberdeen -> Girona (2024) -> Rangers (Aug 2025)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": null, "coachability": null, "resilience": null, "discipline": null, "notes": null},
+  "injury_history": [],
+  "off_pitch": {"languages": ["mk"], "family_situation": null, "public_statements": [], "commercial_profile": null, "notes": null},
+  "sources": [
+    "https://www.footballtransfers.com/en/players/bojan-miovski",
+    "https://www.fotmob.com/players/846970/bojan-miovski"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Confirmed at Rangers (joined from Girona Aug 2025) per footballtransfers/soccerway transfer history, but contract_until date not found in this search -> null. Market value EUR 2.5m per fotmob. 2025/26 Premiership: 4 goals (apps/minutes not sourced). estimated_fee_eur_m is a researcher estimate."
+  }
+}

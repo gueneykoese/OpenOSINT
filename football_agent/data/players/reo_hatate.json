@@ -1,0 +1,55 @@
+{
+  "player_id": "reo_hatate",
+  "name": "Reo Hatate",
+  "age": 29,
+  "date_of_birth": "1997-11-21",
+  "nationality": ["JPN"],
+  "position": "CM",
+  "secondary_positions": ["AM"],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Burnley",
+  "current_club_league": "Premier League",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Scottish Premiership (with Celtic, pre-transfer)",
+    "apps": 30,
+    "starts": null,
+    "minutes": null,
+    "goals": 2,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["technical central midfielder", "progressive passer", "Europa League 2025/26: 9 apps, 3 goals with Celtic", "moved from Celtic to Burnley Sept 2026"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": null, "coachability": null, "resilience": null, "discipline": null, "notes": null},
+  "injury_history": [],
+  "off_pitch": {"languages": ["ja", "en"], "family_situation": null, "public_statements": [], "commercial_profile": null, "notes": null},
+  "sources": [
+    "https://footystats.org/players/japan/reo-hatate",
+    "https://en.wikipedia.org/wiki/Reo_Hatate",
+    "https://www.livescore.com/en/season-stats/reo-hatate/10717/"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Transferred from Celtic to Burnley (EFL Championship promoted to Premier League) on 1 September 2026 on a 3-year deal (contract_until estimated 2029, not directly confirmed). 2025/26 stats (30 Premiership apps, 2 goals; 9 Europa League apps, 3 goals; 42 apps/5 goals all competitions) were accrued with Celtic before the transfer. Market value and fee not sourced."
+  }
+}

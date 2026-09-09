@@ -2,7 +2,7 @@
 
 **Süper Lig (TUR) · Pot 3 · Coach: İsmail Kartal · System: 4-3-3**  
 Data confidence: `medium` · as of 2026-09-02
-> Verified via search snippets (WebFetch was egress-blocked on every domain): coach Kartal (June 2026, 1-yr), Tedesco sacking 27 Apr 2026, Yıldırım election 7 Jun 2026, 2nd place 2025/26, Talisca 19 league / 27 total goals, UEL exit v Nottingham Forest 2-4 agg, Türkiye Kupası QF, Super Cup win, Lyon play-off scores, UCL opponents incl. home/away split (single source: OneFootball, echoed by NationalTurk). UNVERIFIED / CONFLICTING: final points — one snippet gave Galatasaray 74 / Fenerbahçe 67 (sums to 31 games, so a mid-season snapshot), a matchday-34 article gave Galatasaray 77 / Fenerbahçe 74 / Trabzonspor 69; W/D/L and GF/GA therefore left null. Transfer fees and selling clubs for Greenwood, Aké, Muriqi, Lukaku, Ortakaya not verified (left null). Departures: only Talisca (contract expiry) and Diego Carlos (loan to Italy, club unknown) confirmed; Oosterwolde, Archie Brown, Semedo, Fred were reported FOR SALE in late July 2026 — whether they actually left is NOT verified, so they remain listed in the squad. En-Nesyri's 2026/27 status unverified. Squad ages were computed from publicly known birth years and not re-checked this session; shirt numbers, contract dates and 2025/26 per-player stats were not obtainable (all null). Top assister unknown. Position benchmarks unavailable (null). | Reconciled 2026-09-02 with player-pool research: Oosterwolde removed (on loan at AS Roma with conditional obligation, see players/jayden_oosterwolde.json).
+> Verified via search snippets (WebFetch was egress-blocked on every domain): coach Kartal (June 2026, 1-yr), Tedesco sacking 27 Apr 2026, Yıldırım election 7 Jun 2026, 2nd place 2025/26, Talisca 19 league / 27 total goals, UEL exit v Nottingham Forest 2-4 agg, Türkiye Kupası QF, Super Cup win, Lyon play-off scores, UCL opponents incl. home/away split (single source: OneFootball, echoed by NationalTurk). UNVERIFIED / CONFLICTING: final points — one snippet gave Galatasaray 74 / Fenerbahçe 67 (sums to 31 games, so a mid-season snapshot), a matchday-34 article gave Galatasaray 77 / Fenerbahçe 74 / Trabzonspor 69; W/D/L and GF/GA therefore left null. Transfer fees and selling clubs for Greenwood, Aké, Muriqi, Lukaku, Ortakaya not verified (left null). Departures: only Talisca (contract expiry) and Diego Carlos (loan to Italy, club unknown) confirmed; Oosterwolde, Archie Brown, Semedo, Fred were reported FOR SALE in late July 2026 — whether they actually left is NOT verified, so they remain listed in the squad. En-Nesyri's 2026/27 status unverified. Squad ages were computed from publicly known birth years and not re-checked this session; shirt numbers, contract dates and 2025/26 per-player stats were not obtainable (all null). Top assister unknown. Position benchmarks unavailable (null). | Reconciled 2026-09-02 with player-pool research: Oosterwolde removed (on loan at AS Roma with conditional obligation, see players/jayden_oosterwolde.json). CORRECTED 2026-09-09: N'Golo Kanté's move from Al-Ittihad (free/undisclosed, contract to 30 Jun 2028, official club confirmation, delayed by an Al-Ittihad FIFA registration error before being resolved) added to squad/arrivals; DM need downgraded to low priority as a result.
 
 ## 2025/26 in numbers
 
@@ -48,6 +48,7 @@ Character: Member-owned association with one of Turkey's largest fanbases; extre
 - IN: İrfan Can Kahveci (AM) from Kasımpaşa (loan return) — €0m
 - IN: Ognjen Mimović (RB) from Pafos (loan return) — €0m
 - IN: Rodrigo Becão (CB) from Kasımpaşa (loan return) — €0m
+- IN: N'Golo Kanté (DM) from Al-Ittihad — €0m
 - OUT: Anderson Talisca (AM) to None — €0m
 - OUT: Diego Carlos (CB) to None — €n/am
 
@@ -78,6 +79,7 @@ Character: Member-owned association with one of Turkey's largest fanbases; extre
 | Romelu Lukaku | ST | 33 | BEL | n/a | starter | n/a | n/a | n/a |
 | Vedat Muriqi | ST | 32 | KOS | n/a | rotation | n/a | n/a | n/a |
 | Youssef En-Nesyri | ST | 29 | MAR | n/a | rotation | n/a | n/a | n/a |
+| N'Golo Kanté | DM | 34 | FRA | 2028 | starter | n/a | n/a | n/a |
 
 ## Positional needs & recommended targets
 
@@ -86,14 +88,14 @@ Profile: athletic, overlapping left-back, 21-26, Turkish or EU passport preferre
 Why: Archie Brown and Oosterwolde were both publicly put up for sale in July 2026 (EUR 15m / EUR 25m asks); Aké is the only natural cover and is 31.  
 Budget: €n/am · wage ceiling €n/am net
 
+- **Tyrick Mitchell** — 82.2/100 (strong match, confidence medium)
+  - Tyrick Mitchell → Fenerbahçe at LB: strong match (82.2/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (45).
+- **Jose Gaya** — 80.5/100 (strong match, confidence medium)
+  - Jose Gaya → Fenerbahçe at LB: strong match (80.5/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
 - **Jayden Oosterwolde** — 79.3/100 (strong match, confidence high)
   - Jayden Oosterwolde → Fenerbahçe at LB: strong match (79.3/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (20).
   - ⚠ Documented discipline record (see mental_profile.notes).
   - ⚠ Current club publicly not selling.
-- **David Raum** — 73.7/100 (good match, confidence medium)
-  - David Raum → Fenerbahçe at LB: good match (73.7/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Oleksandr Zinchenko** — 71.5/100 (good match, confidence medium)
-  - Oleksandr Zinchenko → Fenerbahçe at LB: good match (71.5/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### ST — medium priority
 Profile: mobile, pressing No.9 with resale value, 22-26  
@@ -103,27 +105,23 @@ Budget: €n/am · wage ceiling €n/am net
 - **Ayase Ueda** — 76.8/100 (good match, confidence medium)
   - Ayase Ueda → Fenerbahçe at ST: good match (76.8/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
-- **Nicolò Tresoldi** — 69.4/100 (good match, confidence medium)
-  - Nicolò Tresoldi → Fenerbahçe at ST: good match (69.4/100). Driven by statistical fit and positional need; weakest area is financial feasibility (38).
-  - ⚠ Current club publicly not selling.
-- **Richarlison de Andrade** — 69.4/100 (good match, confidence medium)
-  - Richarlison de Andrade → Fenerbahçe at ST: good match (69.4/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
+- **Andrej Ilić** — 76.1/100 (good match, confidence medium)
+  - Andrej Ilić → Fenerbahçe at ST: good match (76.1/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+- **Dion Drena Beljo** — 74.6/100 (good match, confidence medium)
+  - Dion Drena Beljo → Fenerbahçe at ST: good match (74.6/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
 
-### DM — medium priority
+### DM — low priority
 Profile: ball-winning, press-resistant No.6, under 27  
-Why: Fred (33) and Semedo were reported for sale; Amrabat is a loan returnee whose long-term future is unclear.  
+Why: Fred (33) and Semedo were reported for sale; Amrabat is a loan returnee whose long-term future is unclear. UPDATED 2026-09-09: N'Golo Kanté signed from Al-Ittihad (2.5-year deal to Jun 2028) directly addresses this need, though at 34 he is a short-to-medium-term solution, not a long-term one.  
 Budget: €n/am · wage ceiling €n/am net
 
-- **Victor Froholdt** — 69.5/100 (good match, confidence medium)
-  - Victor Froholdt → Fenerbahçe at DM: good match (69.5/100). Driven by statistical fit and positional need; weakest area is financial feasibility (28).
+- **Adrián Bernabé** — 72.4/100 (good match, confidence medium)
+  - Adrián Bernabé → Fenerbahçe at DM: good match (72.4/100). Driven by statistical fit and financial feasibility; weakest area is positional need (33).
+- **Kamiel Van de Perre** — 72.3/100 (good match, confidence medium)
+  - Kamiel Van de Perre → Fenerbahçe at DM: good match (72.3/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
   - ⚠ Current club publicly not selling.
-- **Gianluca Mancini** — 66.4/100 (good match, confidence high)
-  - Gianluca Mancini → Fenerbahçe at DM: good match (66.4/100). Driven by statistical fit and financial feasibility; weakest area is positional need (42).
-  - ⚠ Documented discipline record (see mental_profile.notes).
-  - ⚠ Current club publicly not selling.
-- **Dani Ceballos** — 64.4/100 (possible, confidence medium)
-  - Dani Ceballos → Fenerbahçe at DM: possible (64.4/100). Driven by financial feasibility and statistical fit; weakest area is positional need (45).
-  - ⚠ Current club publicly not selling.
+- **Beni** — 70.2/100 (good match, confidence medium)
+  - Beni → Fenerbahçe at DM: good match (70.2/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
 
 ### GK — low priority
 Profile: young Turkish goalkeeper as successor  
@@ -135,6 +133,8 @@ Budget: €n/am · wage ceiling €n/am net
   - ⚠ Current club publicly not selling.
 - **Alex Meret** — 60.4/100 (possible, confidence medium)
   - Alex Meret → Fenerbahçe at GK: possible (60.4/100). Driven by financial feasibility and positional need; weakest area is statistical fit (38).
+- **Raúl Rangel** — 57.6/100 (possible, confidence medium)
+  - Raúl Rangel → Fenerbahçe at GK: possible (57.6/100). Driven by financial feasibility and positional need; weakest area is statistical fit (14).
 
 ## Sources
 
@@ -168,3 +168,4 @@ Budget: €n/am · wage ceiling €n/am net
 - https://www.hurriyetdailynews.com/amp/aziz-yildirim-elected-fenerbahce-president-in-extraordinary-vote-223011
 - https://www.dailysabah.com/sports/football/saran-calls-extraordinary-congress-as-fenerbahce-face-defining-vote
 - https://www.turkishminute.com/2026/06/06/fenerbahce-to-elect-new-president-as-yildirim-and-safi-promise-title-major-spending/
+- https://www.espn.com/soccer/story/_/id/47824501/ngolo-kante-joins-fenerbahce-al-ittihad

@@ -1,0 +1,76 @@
+{
+  "player_id": "robert_renan",
+  "name": "Robert Renan",
+  "age": 22,
+  "date_of_birth": "2003-10-11",
+  "nationality": [
+    "BRA"
+  ],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Vasco da Gama",
+  "current_club_league": "Campeonato Brasileiro Série A",
+  "contract_until": 2026,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 8,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": null,
+  "stats_2025_26": {
+    "competition": "Campeonato Brasileiro Série A (2026 calendar-year season)",
+    "apps": 33,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "ball-playing centre-back",
+      "on loan from Zenit St Petersburg",
+      "loan renewed mid-2026",
+      "Zenit hold a EUR 8m purchase-option clause"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "pt"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Robert_Renan",
+    "https://www.otempo.com.br/sports/futebol-nacional/vasco/2026/6/3/vasco-estende-emprestimo-de-robert-renan-junto-ao-zenit",
+    "https://netvasco.com.br/n/387562/vasco-informa-que-acertou-a-extensao-do-emprestimo-do-zagueiro-robert-renan-junto-ao-zenit-ate-o-fim-da-temporada"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Full name Robert Renan Alves Barbosa. Registered to Zenit St Petersburg, on loan at Vasco da Gama (Brazilian Série A, calendar-year season) extended through end of 2026; Vasco holds a purchase option reported at EUR 8m which is used as estimated_fee_eur_m (a specific reported figure, not a pure guess). Ownership situation (Zenit under Russian-club sanctions context) may complicate any European transfer -> flagged for further diligence. Market value not retrieved from Transfermarkt -> null."
+  }
+}

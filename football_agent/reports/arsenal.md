@@ -91,13 +91,13 @@ Profile: left-footed or inverted left winger with 10+ goal output, 21-26, PL-ada
 Why: Trossard sold, Martinelli managed 1 PL goal and his deal ends 2027; Eze injured; Tzolis unproven  
 Budget: €60m · wage ceiling €7m net
 
+- **Ludovic Blas** — 81.9/100 (strong match, confidence medium)
+  - Ludovic Blas → Arsenal at LW: strong match (81.9/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
 - **Christoph Baumgartner** — 80.0/100 (strong match, confidence medium)
   - Christoph Baumgartner → Arsenal at LW: strong match (80.0/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
-- **Archie Brown** — 79.6/100 (strong match, confidence medium)
-  - Archie Brown → Arsenal at LW: strong match (79.6/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Reiss Nelson** — 78.8/100 (strong match, confidence medium)
-  - Reiss Nelson → Arsenal at LW: strong match (78.8/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Paul Nebel** — 79.8/100 (strong match, confidence medium)
+  - Paul Nebel → Arsenal at LW: strong match (79.8/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### RB — medium priority
 Profile: athletic right-back comfortable inverting, 22-27, strong 1v1 defender  
@@ -109,8 +109,8 @@ Budget: €45m · wage ceiling €5m net
   - ⚠ Current club publicly not selling.
 - **Fikayo Tomori** — 78.8/100 (strong match, confidence medium)
   - Fikayo Tomori → Arsenal at RB: strong match (78.8/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
-- **Tyler Adams** — 71.7/100 (good match, confidence high)
-  - Tyler Adams → Arsenal at RB: good match (71.7/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (58).
+- **Pierre Kalulu** — 75.9/100 (good match, confidence high)
+  - Pierre Kalulu → Arsenal at RB: good match (75.9/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (50).
   - ⚠ Current club publicly not selling.
 
 ### ST — medium priority
@@ -121,11 +121,10 @@ Budget: €40m · wage ceiling €5m net
 - **Nicolò Tresoldi** — 76.9/100 (good match, confidence medium)
   - Nicolò Tresoldi → Arsenal at ST: good match (76.9/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
-- **Ayase Ueda** — 72.8/100 (good match, confidence medium)
-  - Ayase Ueda → Arsenal at ST: good match (72.8/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (50).
-  - ⚠ Current club publicly not selling.
-- **Deniz Undav** — 70.7/100 (good match, confidence medium)
-  - Deniz Undav → Arsenal at ST: good match (70.7/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
+- **Sōta Nakamura** — 74.3/100 (good match, confidence medium)
+  - Sōta Nakamura → Arsenal at ST: good match (74.3/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (37).
+- **Santiago Castro** — 74.0/100 (good match, confidence medium)
+  - Santiago Castro → Arsenal at ST: good match (74.0/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
 
 ### GK — low priority
@@ -138,6 +137,8 @@ Budget: €25m · wage ceiling €3m net
   - ⚠ Current club publicly not selling.
 - **Alex Meret** — 54.8/100 (possible, confidence medium)
   - Alex Meret → Arsenal at GK: possible (54.8/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (21).
+- **Raúl Rangel** — 52.5/100 (weak, confidence medium)
+  - Raúl Rangel → Arsenal at GK: weak (52.5/100). Driven by financial feasibility and tactical / system fit; weakest area is statistical fit (6).
 
 ## Sources
 

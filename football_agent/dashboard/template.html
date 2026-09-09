@@ -159,7 +159,7 @@ figure{margin:0}figcaption{font-size:12px;color:var(--ink3);margin-top:6px}
 </header>
 <div class="tip" id="tip"></div>
 <main>
-  <div class="notice"><b>Veri notu.</b> Puanlar deterministik motorun çıktısıdır; havuzdaki 39 oyuncu ve 36 kulüp gerçek ve kaynaklıdır. Her kaydın güven etiketi ve doğrulanamayan alanları görünür. Bu bir pilottır: kadro/istatistik verisi üretimde lisanslı sağlayıcıdan gelmelidir.</div>
+  <div class="notice"><b>Veri notu.</b> Puanlar deterministik motorun çıktısıdır; havuzdaki <span id="playerCountNotice"></span> oyuncu ve <span id="clubCountNotice"></span> kulüp gerçek ve kaynaklıdır. Her kaydın güven etiketi ve doğrulanamayan alanları görünür. Bu bir pilottır: kadro/istatistik verisi üretimde lisanslı sağlayıcıdan gelmelidir.</div>
 
   <!-- ================= CLUB VIEW ================= -->
   <section id="view-club">
@@ -275,6 +275,8 @@ const PRIO = {high:"yüksek",medium:"orta",low:"düşük"};
 const POS = ["GK","CB","LB","RB","DM","CM","AM","LW","RW","ST"];
 const tag = c => `<span class="tag ${esc(c)}">${esc(c)}</span>`;
 const store = {get(k){try{return localStorage.getItem(k)}catch(e){return null}}, set(k,v){try{localStorage.setItem(k,v)}catch(e){}}};
+document.getElementById('playerCountNotice').textContent = Object.keys(D.players).length;
+document.getElementById('clubCountNotice').textContent = Object.keys(D.clubs).length;
 
 // ---- tooltip
 const tip = $('#tip');

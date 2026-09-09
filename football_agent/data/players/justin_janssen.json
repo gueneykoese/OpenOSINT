@@ -1,0 +1,66 @@
+{
+  "player_id": "justin_janssen",
+  "name": "Justin Janssen",
+  "age": 19,
+  "date_of_birth": null,
+  "nationality": ["DEN"],
+  "position": "CM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "FC Midtjylland",
+  "current_club_league": "Danish Superliga",
+  "contract_until": null,
+  "market_value_eur_m": 0.95,
+  "estimated_fee_eur_m": 2,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Danish Superliga",
+    "apps": 17,
+    "starts": null,
+    "minutes": 612,
+    "goals": 2,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["young central midfielder breaking into Midtjylland's first team", "low market value / early-career prospect"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["da"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://thegafferslounge.com/2025/10/24/danish-superliga-talents-to-sign-on-fm26/",
+    "https://www.fotmob.com/players/1666791/justin-janssen"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Source is an FM26 Danish Superliga talent-spotting roundup rather than a direct profile/Transfermarkt page; date of birth and contract length not found -> null. 17 apps/612 min/2 goals 2025/26 as reported. Early-career prospect with modest current market value (EUR 952.6k per source)."
+  }
+}

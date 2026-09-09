@@ -1,0 +1,66 @@
+{
+  "player_id": "jordan_larsson",
+  "name": "Jordan Larsson",
+  "age": 28,
+  "date_of_birth": "1997-06-20",
+  "nationality": ["SWE"],
+  "position": "ST",
+  "secondary_positions": ["RW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "F.C. Copenhagen",
+  "current_club_league": "Danish Superliga",
+  "contract_until": 2027,
+  "market_value_eur_m": 3.1,
+  "estimated_fee_eur_m": 5,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Danish Superliga",
+    "apps": 25,
+    "starts": null,
+    "minutes": null,
+    "goals": 8,
+    "assists": 5,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Swedish forward, son of Henrik Larsson", "FC Copenhagen's regular no.9", "consistent goal + assist output"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["sv", "da"],
+    "family_situation": "Son of former Sweden/Celtic/Barcelona striker Henrik Larsson (public record).",
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.soccerway.com/player/larsson-jordan/EHQtR0f6",
+    "https://www.worldfootball.net/competition/co109/denmark-superliga/se95736/2025-2026/statistics-scorers/"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Age 28 is above the 19-26 priority band; included as a proven, contract-2027 Superliga top scorer (25 apps, 8 goals, 5 assists 2025/26 per soccerway). Market value EUR 3.1m per soccerway."
+  }
+}

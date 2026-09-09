@@ -1,0 +1,51 @@
+{
+  "player_id": "isaac_romero",
+  "name": "Isaac Romero",
+  "age": 26,
+  "date_of_birth": "2000-05-18",
+  "nationality": ["ESP"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Sevilla",
+  "current_club_league": "La Liga",
+  "contract_until": 2028,
+  "market_value_eur_m": 5.0,
+  "estimated_fee_eur_m": 6,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "La Liga",
+    "apps": null,
+    "starts": null,
+    "minutes": 1490,
+    "goals": 4,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["left-footed striker", "Sevilla academy product", "modest 2025/26 goal return (4 goals in 1490 mins)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": null, "coachability": null, "resilience": null, "discipline": null, "notes": "1 red card in 2025/26 per fotmob."},
+  "injury_history": [],
+  "off_pitch": {"languages": ["es"], "family_situation": null, "public_statements": [], "commercial_profile": null, "notes": null},
+  "sources": ["https://www.fotmob.com/players/1130991/isaac-romero"],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract until 30 June 2028. Market value ~EUR 5.0m per fotmob/AiScore. estimated_fee_eur_m is a researcher estimate."
+  }
+}

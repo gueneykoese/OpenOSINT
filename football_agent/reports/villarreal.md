@@ -79,14 +79,12 @@ Profile: box-to-box 8 with pressing capacity, 22-26
 Why: Parejo, Partey and Terrats left, Requena loaned; only Gueye, Comesaña and the youngster Cabanes remain  
 Budget: €n/am · wage ceiling €n/am net
 
-- **Christoph Baumgartner** — 78.3/100 (strong match, confidence medium)
-  - Christoph Baumgartner → Villarreal at CM: strong match (78.3/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
-  - ⚠ Current club publicly not selling.
-- **Victor Froholdt** — 74.5/100 (good match, confidence medium)
-  - Victor Froholdt → Villarreal at CM: good match (74.5/100). Driven by positional need and statistical fit; weakest area is financial feasibility (28).
-  - ⚠ Current club publicly not selling.
-- **Dani Ceballos** — 70.8/100 (good match, confidence medium)
-  - Dani Ceballos → Villarreal at CM: good match (70.8/100). Driven by positional need and financial feasibility; weakest area is age & contract (30).
+- **Musab Al-Juwayr** — 82.6/100 (strong match, confidence medium)
+  - Musab Al-Juwayr → Villarreal at CM: strong match (82.6/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
+- **Adrián Bernabé** — 82.3/100 (strong match, confidence medium)
+  - Adrián Bernabé → Villarreal at CM: strong match (82.3/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
+- **Farès Chaïbi** — 79.7/100 (strong match, confidence medium)
+  - Farès Chaïbi → Villarreal at CM: strong match (79.7/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
 
 ### CB — medium priority
@@ -94,29 +92,27 @@ Profile: quick right-footed CB, 22-26
 Why: Kambwala reportedly moving to Como; Mouriño/Foyth/Veiga plus academy Diatta  
 Budget: €n/am · wage ceiling €n/am net
 
+- **Maxime Estève** — 78.1/100 (strong match, confidence medium)
+  - Maxime Estève → Villarreal at CB: strong match (78.1/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+  - ⚠ Current club publicly not selling.
 - **Chris Richards** — 77.7/100 (good match, confidence medium)
   - Chris Richards → Villarreal at CB: good match (77.7/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
 - **Fikayo Tomori** — 76.5/100 (good match, confidence medium)
   - Fikayo Tomori → Villarreal at CB: good match (76.5/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
-- **Jayden Oosterwolde** — 74.2/100 (good match, confidence high)
-  - Jayden Oosterwolde → Villarreal at CB: good match (74.2/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (20).
-  - ⚠ Documented discipline record (see mental_profile.notes).
-  - ⚠ Current club publicly not selling.
 
 ### LB — low priority
 Profile: athletic full-back able to press high  
 Why: Pedraza loaned to Lazio; Romero and Cardona remain  
 Budget: €n/am · wage ceiling €n/am net
 
-- **Jayden Oosterwolde** — 67.4/100 (good match, confidence high)
-  - Jayden Oosterwolde → Villarreal at LB: good match (67.4/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (20).
-  - ⚠ Documented discipline record (see mental_profile.notes).
+- **Tyrick Mitchell** — 73.3/100 (good match, confidence medium)
+  - Tyrick Mitchell → Villarreal at LB: good match (73.3/100). Driven by statistical fit and financial feasibility; weakest area is positional need (51).
+- **Jose Gaya** — 73.2/100 (good match, confidence medium)
+  - Jose Gaya → Villarreal at LB: good match (73.2/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (45).
+- **Vitaliy Mykolenko** — 70.5/100 (good match, confidence medium)
+  - Vitaliy Mykolenko → Villarreal at LB: good match (70.5/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (50).
   - ⚠ Current club publicly not selling.
-- **Archie Brown** — 67.0/100 (good match, confidence medium)
-  - Archie Brown → Villarreal at LB: good match (67.0/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
-- **Mamadou Sarr** — 65.7/100 (possible, confidence medium)
-  - Mamadou Sarr → Villarreal at LB: possible (65.7/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (39).
 
 ## Sources
 

@@ -94,23 +94,21 @@ Budget: €15m · wage ceiling €2.5m net
   - Jayden Oosterwolde → Real Betis at CB: good match (77.0/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (20).
   - ⚠ Documented discipline record (see mental_profile.notes).
   - ⚠ Current club publicly not selling.
-- **Amir Rrahmani** — 72.0/100 (good match, confidence medium)
-  - Amir Rrahmani → Real Betis at CB: good match (72.0/100). Driven by financial feasibility and positional need; weakest area is age & contract (45).
-  - ⚠ Current club publicly not selling.
+- **Robert Renan** — 76.2/100 (good match, confidence medium)
+  - Robert Renan → Real Betis at CB: good match (76.2/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### DM — medium priority
 Profile: athletic ball-winning No. 6 with UCL experience, 24-28  
 Why: Altimira sold and Amrabat returned to Fenerbahce; Bernal is 22 and new to Europe.  
 Budget: €12m · wage ceiling €2m net
 
-- **Oleksandr Zinchenko** — 61.9/100 (possible, confidence medium)
-  - Oleksandr Zinchenko → Real Betis at DM: possible (61.9/100). Driven by financial feasibility and positional need; weakest area is age & contract (30).
-- **Victor Froholdt** — 60.0/100 (possible, confidence medium)
-  - Victor Froholdt → Real Betis at DM: possible (60.0/100). Driven by statistical fit and tactical / system fit; weakest area is financial feasibility (0).
+- **Beni** — 75.4/100 (good match, confidence medium)
+  - Beni → Real Betis at DM: good match (75.4/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+- **Kamiel Van de Perre** — 74.6/100 (good match, confidence medium)
+  - Kamiel Van de Perre → Real Betis at DM: good match (74.6/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
-- **Tyler Adams** — 59.9/100 (possible, confidence high)
-  - Tyler Adams → Real Betis at DM: possible (59.9/100). Driven by positional need and statistical fit; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
+- **Adrián Bernabé** — 71.9/100 (good match, confidence medium)
+  - Adrián Bernabé → Real Betis at DM: good match (71.9/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
 
 ### GK — low priority
 Profile: experienced back-up/challenger, 26-32  
@@ -122,6 +120,8 @@ Budget: €5m · wage ceiling €1m net
   - ⚠ Current club publicly not selling.
 - **Alex Meret** — 54.6/100 (possible, confidence medium)
   - Alex Meret → Real Betis at GK: possible (54.6/100). Driven by positional need and tactical / system fit; weakest area is statistical fit (38).
+- **Raúl Rangel** — 42.1/100 (weak, confidence medium)
+  - Raúl Rangel → Real Betis at GK: weak (42.1/100). Driven by positional need and tactical / system fit; weakest area is statistical fit (6).
 
 ## Sources
 

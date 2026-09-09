@@ -86,29 +86,26 @@ Profile: ball-progressing 8 with resale value, 20-24
 Why: Bouaddi sold to Manchester City; Önal and Kjaergaard are the only midfield arrivals  
 Budget: €n/am · wage ceiling €n/am net
 
-- **Christoph Baumgartner** — 73.9/100 (good match, confidence medium)
-  - Christoph Baumgartner → Lille at CM: good match (73.9/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+- **Farès Chaïbi** — 81.8/100 (strong match, confidence medium)
+  - Farès Chaïbi → Lille at CM: strong match (81.8/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
-- **Victor Froholdt** — 71.0/100 (good match, confidence medium)
-  - Victor Froholdt → Lille at CM: good match (71.0/100). Driven by positional need and statistical fit; weakest area is financial feasibility (28).
-  - ⚠ Current club publicly not selling.
-- **Dani Ceballos** — 68.2/100 (good match, confidence medium)
-  - Dani Ceballos → Lille at CM: good match (68.2/100). Driven by positional need and financial feasibility; weakest area is age & contract (30).
-  - ⚠ Current club publicly not selling.
+- **Musab Al-Juwayr** — 81.5/100 (strong match, confidence medium)
+  - Musab Al-Juwayr → Lille at CM: strong match (81.5/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
+- **Adrián Bernabé** — 80.8/100 (strong match, confidence medium)
+  - Adrián Bernabé → Lille at CM: strong match (80.8/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
 
 ### LW — medium priority
 Profile: 1v1 dribbler, 20-24  
 Why: Fernández-Pardo sold to Newcastle on deadline day; Sahraoui and the loanee Bakwa remain  
 Budget: €n/am · wage ceiling €n/am net
 
+- **Diego Luna** — 71.4/100 (good match, confidence medium)
+  - Diego Luna → Lille at LW: good match (71.4/100). Driven by financial feasibility and statistical fit; weakest area is tactical / system fit (50).
 - **Leandro Trossard** — 71.1/100 (good match, confidence medium)
   - Leandro Trossard → Lille at LW: good match (71.1/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
   - ⚠ Current club publicly not selling.
-- **Archie Brown** — 68.6/100 (good match, confidence medium)
-  - Archie Brown → Lille at LW: good match (68.6/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
-- **Christoph Baumgartner** — 68.3/100 (good match, confidence medium)
-  - Christoph Baumgartner → Lille at LW: good match (68.3/100). Driven by statistical fit and financial feasibility; weakest area is positional need (39).
-  - ⚠ Current club publicly not selling.
+- **Ludovic Blas** — 70.9/100 (good match, confidence medium)
+  - Ludovic Blas → Lille at LW: good match (70.9/100). Driven by statistical fit and financial feasibility; weakest area is positional need (48).
 
 ### RB — medium priority
 Profile: experienced right-back, 24-29  
@@ -120,9 +117,8 @@ Budget: €n/am · wage ceiling €n/am net
 - **Chris Richards** — 75.6/100 (good match, confidence medium)
   - Chris Richards → Lille at RB: good match (75.6/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (50).
   - ⚠ Current club publicly not selling.
-- **Gianluca Mancini** — 67.3/100 (good match, confidence high)
-  - Gianluca Mancini → Lille at RB: good match (67.3/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
-  - ⚠ Documented discipline record (see mental_profile.notes).
+- **Pierre Kalulu** — 72.2/100 (good match, confidence high)
+  - Pierre Kalulu → Lille at RB: good match (72.2/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
 
 ### ST — low priority
@@ -130,13 +126,12 @@ Profile: mobile backup 9
 Why: Giroud is 39; Ueda now first choice, Igamane injured at the start of the season  
 Budget: €n/am · wage ceiling €n/am net
 
-- **Nicolò Tresoldi** — 62.7/100 (possible, confidence medium)
-  - Nicolò Tresoldi → Lille at ST: possible (62.7/100). Driven by statistical fit and positional need; weakest area is financial feasibility (38).
-  - ⚠ Current club publicly not selling.
-- **Evan Ferguson** — 61.9/100 (possible, confidence medium)
-  - Evan Ferguson → Lille at ST: possible (61.9/100). Driven by financial feasibility and statistical fit; weakest area is positional need (45).
-- **Richarlison de Andrade** — 61.5/100 (possible, confidence medium)
-  - Richarlison de Andrade → Lille at ST: possible (61.5/100). Driven by financial feasibility and statistical fit; weakest area is positional need (45).
+- **Andrej Ilić** — 66.2/100 (good match, confidence medium)
+  - Andrej Ilić → Lille at ST: good match (66.2/100). Driven by financial feasibility and statistical fit; weakest area is positional need (45).
+- **Dion Drena Beljo** — 64.9/100 (possible, confidence medium)
+  - Dion Drena Beljo → Lille at ST: possible (64.9/100). Driven by financial feasibility and statistical fit; weakest area is positional need (45).
+- **Jacob Trenskow** — 64.5/100 (possible, confidence medium)
+  - Jacob Trenskow → Lille at ST: possible (64.5/100). Driven by financial feasibility and statistical fit; weakest area is positional need (45).
 
 ## Sources
 

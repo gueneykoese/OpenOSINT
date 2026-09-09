@@ -2,7 +2,7 @@
 
 **Bundesliga (GER) · Pot 3 · Coach: Martín Demichelis · System: 4-3-3**  
 Data confidence: `medium` · as of 2026-09-03
-> Updated 2026-09-03 from search snippets. VERIFIED: 3rd place with 65 pts from 34 games (Fussballdaten) - W/D/L and goals not retrieved (a 19-5-7/62-pt snapshot after 31 games exists but the final split could not be confirmed); coach Demichelis (June 2026, to 2028) using a 4-3-3 in the 3-0 win v Gladbach on matchday 1; UCL opponents with venues; DFB-Pokal QF; Baumgartner 13/17 goals (one snippet said 12 - 13 retained from the earlier verified figure); Diomandé EUR 125m (goal.com) vs 'up to 140m' (earlier source). CORRECTIONS: Openda did NOT return - Sportschau lists him as sold to Juventus after the loan; Gulácsi joined Villarreal (EUR 1.5m, 2 Aug 2026); Schlager to Nottingham Forest. Arrivals per Sportschau/Fussballtransfers/90min/RBL site (Reitz, Nkunku loan, El Aynaoui loan, Nyland free, loan returns). SQUAD (24) = matchday-1 XI (bundesliga.com/sport.de) plus players confirmed on 2026/27 squad pages/kicker (Bitshiabu 5, Lukeba 23, Raum 22, Seiwald 13, Ouédraogo 20, Bakayoko 9, Harder 11, Rômulo 40, Gomis) and the verified arrivals; Zingerle, Klostermann and Henrichs omitted because the only snippet naming them also listed the departed Gulácsi (stale). Roles: XI = starter, others rotation/backup; Baumgartner downgraded to rotation because he did not start matchday 1. Gruda's contractual status (loan/permanent) unverified. Ages only where sourced (Estève 24, Geertruida 26, Baumgartner 27, Elmas 26, Gomis 20). Per-player 2025/26 stats only Baumgartner (13 goals) and Gomis (21 apps, 1 goal). Reitz/Openda/Schlager fees, top assister, net spend unverified.
+> Updated 2026-09-03 from search snippets. VERIFIED: 3rd place with 65 pts from 34 games (Fussballdaten) - W/D/L and goals not retrieved (a 19-5-7/62-pt snapshot after 31 games exists but the final split could not be confirmed); coach Demichelis (June 2026, to 2028) using a 4-3-3 in the 3-0 win v Gladbach on matchday 1; UCL opponents with venues; DFB-Pokal QF; Baumgartner 13/17 goals (one snippet said 12 - 13 retained from the earlier verified figure); Diomandé EUR 125m (goal.com) vs 'up to 140m' (earlier source). CORRECTIONS: Openda did NOT return - Sportschau lists him as sold to Juventus after the loan; Gulácsi joined Villarreal (EUR 1.5m, 2 Aug 2026); Schlager to Nottingham Forest. Arrivals per Sportschau/Fussballtransfers/90min/RBL site (Reitz, Nkunku loan, El Aynaoui loan, Nyland free, loan returns). SQUAD (24) = matchday-1 XI (bundesliga.com/sport.de) plus players confirmed on 2026/27 squad pages/kicker (Bitshiabu 5, Lukeba 23, Raum 22, Seiwald 13, Ouédraogo 20, Bakayoko 9, Harder 11, Rômulo 40, Gomis) and the verified arrivals; Zingerle, Klostermann and Henrichs omitted because the only snippet naming them also listed the departed Gulácsi (stale). Roles: XI = starter, others rotation/backup; Baumgartner downgraded to rotation because he did not start matchday 1. Gruda's contractual status (loan/permanent) unverified. Ages only where sourced (Estève 24, Geertruida 26, Baumgartner 27, Elmas 26, Gomis 20). Per-player 2025/26 stats only Baumgartner (13 goals) and Gomis (21 apps, 1 goal). Reitz/Openda/Schlager fees, top assister, net spend unverified. CORRECTED 2026-09-09: El Chadaille Bitshiabu left on loan to Galatasaray (€2m loan fee, €28m purchase option, to end of 2026/27) — removed from squad, added to departures.
 
 ## 2025/26 in numbers
 
@@ -49,6 +49,7 @@ Character: Corporate-backed club founded 2009; small but growing fan base; low f
 - OUT: Loïs Openda (ST) to Juventus (permanent after loan) — €n/am
 - OUT: Xaver Schlager (DM) to Nottingham Forest — €n/am
 - OUT: Péter Gulácsi (GK) to Villarreal (2 Aug 2026) — €1.5m
+- OUT: El Chadaille Bitshiabu (CB) to Galatasaray (loan, €2m fee, €28m purchase option) — €2m
 
 ## Current squad
 
@@ -60,7 +61,6 @@ Character: Corporate-backed club founded 2009; small but growing fan base; low f
 | Willi Orbán | CB | n/a | HUN | n/a | starter | n/a | n/a | n/a |
 | Castello Lukeba | CB | n/a | FRA | n/a | starter | n/a | n/a | n/a |
 | David Raum | LB | n/a | GER | n/a | starter | n/a | n/a | n/a |
-| El Chadaille Bitshiabu | CB | n/a | FRA | n/a | rotation | n/a | n/a | n/a |
 | Maxime Estève | CB | 24 | FRA | n/a | rotation | n/a | n/a | n/a |
 | Lutsharel Geertruida | CB | 26 | NED | n/a | rotation | n/a | n/a | n/a |
 | Nicolas Seiwald | DM | n/a | AUT | n/a | starter | n/a | n/a | n/a |
@@ -86,31 +86,28 @@ Profile: explosive 1v1 winger, 19-23, resale value
 Why: Yan Diomandé sold to Real Madrid  
 Budget: €n/am · wage ceiling €n/am net
 
-- **Ansgar Knauff** — 76.2/100 (good match, confidence medium)
-  - Ansgar Knauff → RB Leipzig at RW: good match (76.2/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
+- **Paul Nebel** — 77.5/100 (good match, confidence medium)
+  - Paul Nebel → RB Leipzig at RW: good match (77.5/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Gustav Isaksen** — 76.8/100 (good match, confidence medium)
+  - Gustav Isaksen → RB Leipzig at RW: good match (76.8/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
-- **Leandro Trossard** — 75.8/100 (good match, confidence medium)
-  - Leandro Trossard → RB Leipzig at RW: good match (75.8/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
-  - ⚠ Current club publicly not selling.
-- **Brahim Díaz** — 74.2/100 (good match, confidence medium)
-  - Brahim Díaz → RB Leipzig at RW: good match (74.2/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
+- **Diego Luna** — 76.5/100 (good match, confidence medium)
+  - Diego Luna → RB Leipzig at RW: good match (76.5/100). Driven by positional need and financial feasibility; weakest area is tactical / system fit (50).
 
 ### ST — high priority
 Profile: pressing 9 with 15+ goal ceiling  
 Why: Openda sold; Gomis (1 goal in 2025/26) started matchday 1; Nkunku is only on loan  
 Budget: €n/am · wage ceiling €n/am net
 
+- **Andrej Ilić** — 82.8/100 (strong match, confidence medium)
+  - Andrej Ilić → RB Leipzig at ST: strong match (82.8/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
+  - ⚠ Would block a young starter (Tidiam Gomis, 20) — check pathway politics.
 - **Ayase Ueda** — 80.8/100 (strong match, confidence medium)
   - Ayase Ueda → RB Leipzig at ST: strong match (80.8/100). Driven by positional need and statistical fit; weakest area is age & contract (50).
   - ⚠ Current club publicly not selling.
   - ⚠ Would block a young starter (Tidiam Gomis, 20) — check pathway politics.
-- **Leandro Trossard** — 78.2/100 (strong match, confidence medium)
-  - Leandro Trossard → RB Leipzig at ST: strong match (78.2/100). Driven by positional need and financial feasibility; weakest area is age & contract (30).
-  - ⚠ Current club publicly not selling.
-  - ⚠ Would block a young starter (Tidiam Gomis, 20) — check pathway politics.
-- **Nicolò Tresoldi** — 75.8/100 (good match, confidence medium)
-  - Nicolò Tresoldi → RB Leipzig at ST: good match (75.8/100). Driven by positional need and statistical fit; weakest area is financial feasibility (38).
-  - ⚠ Current club publicly not selling.
+- **Dion Drena Beljo** — 79.3/100 (strong match, confidence medium)
+  - Dion Drena Beljo → RB Leipzig at ST: strong match (79.3/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
   - ⚠ Would block a young starter (Tidiam Gomis, 20) — check pathway politics.
 
 ### DM — medium priority
@@ -118,15 +115,13 @@ Profile: ball-winning 6 who can build from deep in a possession system
 Why: Schlager sold to Nottingham Forest; Demichelis' positional style places heavier build-up demands on the pivot  
 Budget: €n/am · wage ceiling €n/am net
 
-- **Gianluca Mancini** — 70.2/100 (good match, confidence high)
-  - Gianluca Mancini → RB Leipzig at DM: good match (70.2/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
-  - ⚠ Documented discipline record (see mental_profile.notes).
+- **Kamiel Van de Perre** — 79.1/100 (strong match, confidence medium)
+  - Kamiel Van de Perre → RB Leipzig at DM: strong match (79.1/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
-- **Oleksandr Zinchenko** — 69.0/100 (good match, confidence medium)
-  - Oleksandr Zinchenko → RB Leipzig at DM: good match (69.0/100). Driven by financial feasibility and positional need; weakest area is age & contract (30).
-- **Victor Froholdt** — 68.2/100 (good match, confidence medium)
-  - Victor Froholdt → RB Leipzig at DM: good match (68.2/100). Driven by statistical fit and positional need; weakest area is financial feasibility (28).
-  - ⚠ Current club publicly not selling.
+- **Adrián Bernabé** — 77.1/100 (good match, confidence medium)
+  - Adrián Bernabé → RB Leipzig at DM: good match (77.1/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
+- **Beni** — 74.8/100 (good match, confidence medium)
+  - Beni → RB Leipzig at DM: good match (74.8/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (34).
 
 ## Sources
 
@@ -156,3 +151,4 @@ Budget: €n/am · wage ceiling €n/am net
 - https://en.wikipedia.org/wiki/Brajan_Gruda
 - https://en.wikipedia.org/wiki/Conrad_Harder
 - https://en.wikipedia.org/wiki/Assan_Ou%C3%A9draogo
+- https://turkish-football.com/galatasaray-complete-loan-move-for-towering-rb-leipzig-defender-el-chadaille-bitshiabu/

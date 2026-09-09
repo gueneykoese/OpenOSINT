@@ -85,41 +85,39 @@ Profile: direct goal-and-assist winger, 20-25, resale value
 Why: Tzolis sold to Arsenal; Diakhon and Forbs are the only senior wide options.  
 Budget: €12m · wage ceiling €1.2m net
 
+- **Toni Fruk** — 77.2/100 (good match, confidence medium)
+  - Toni Fruk → Club Brugge at LW: good match (77.2/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
+- **Matteo Cancellieri** — 75.0/100 (good match, confidence medium)
+  - Matteo Cancellieri → Club Brugge at LW: good match (75.0/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 - **Leandro Trossard** — 74.7/100 (good match, confidence medium)
   - Leandro Trossard → Club Brugge at LW: good match (74.7/100). Driven by statistical fit and positional need; weakest area is age & contract (30).
   - ⚠ Current club publicly not selling.
-- **Reiss Nelson** — 70.7/100 (good match, confidence medium)
-  - Reiss Nelson → Club Brugge at LW: good match (70.7/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Archie Brown** — 65.8/100 (possible, confidence medium)
-  - Archie Brown → Club Brugge at LW: possible (65.8/100). Driven by positional need and tactical / system fit; weakest area is financial feasibility (33).
 
 ### DM — medium priority
 Profile: ball-winning No. 6 with UCL-level physicality, 22-26  
 Why: Onyedika and Stankovic both departed; Potts is new to the league.  
 Budget: €10m · wage ceiling €1.0m net
 
-- **Oleksandr Zinchenko** — 62.6/100 (possible, confidence medium)
-  - Oleksandr Zinchenko → Club Brugge at DM: possible (62.6/100). Driven by financial feasibility and statistical fit; weakest area is age & contract (30).
-- **Victor Froholdt** — 61.9/100 (possible, confidence medium)
-  - Victor Froholdt → Club Brugge at DM: possible (61.9/100). Driven by statistical fit and tactical / system fit; weakest area is financial feasibility (0).
+- **Beni** — 74.6/100 (good match, confidence medium)
+  - Beni → Club Brugge at DM: good match (74.6/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (48).
+- **Kamiel Van de Perre** — 73.5/100 (good match, confidence medium)
+  - Kamiel Van de Perre → Club Brugge at DM: good match (73.5/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
-- **Tyler Adams** — 57.0/100 (possible, confidence medium)
-  - Tyler Adams → Club Brugge at DM: possible (57.0/100). Driven by positional need and statistical fit; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
+- **Gjivai Zechiël** — 71.6/100 (good match, confidence medium)
+  - Gjivai Zechiël → Club Brugge at DM: good match (71.6/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
 
 ### CB — medium priority
 Profile: quick, right-footed centre-back, 21-25  
 Why: Ordonez (reported to Palace) and Romero left; Mechele is the veteran.  
 Budget: €10m · wage ceiling €1.0m net
 
+- **Craig Halkett** — 71.9/100 (good match, confidence medium)
+  - Craig Halkett → Club Brugge at CB: good match (71.9/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
+  - ⚠ Current club publicly not selling.
+- **Robert Renan** — 70.5/100 (good match, confidence medium)
+  - Robert Renan → Club Brugge at CB: good match (70.5/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 - **Fikayo Tomori** — 68.1/100 (good match, confidence medium)
   - Fikayo Tomori → Club Brugge at CB: good match (68.1/100). Driven by statistical fit and positional need; weakest area is financial feasibility (38).
-- **Amir Rrahmani** — 68.0/100 (good match, confidence medium)
-  - Amir Rrahmani → Club Brugge at CB: good match (68.0/100). Driven by financial feasibility and statistical fit; weakest area is age & contract (45).
-  - ⚠ Current club publicly not selling.
-- **Chris Richards** — 66.7/100 (good match, confidence medium)
-  - Chris Richards → Club Brugge at CB: good match (66.7/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
-  - ⚠ Current club publicly not selling.
 
 ## Sources
 

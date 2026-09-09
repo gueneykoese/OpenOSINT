@@ -1,0 +1,66 @@
+{
+  "player_id": "gustavo_sa",
+  "name": "Gustavo Sá",
+  "age": 21,
+  "date_of_birth": "2004-11-11",
+  "nationality": ["POR"],
+  "position": "AM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "FC Famalicão",
+  "current_club_league": "Liga Portugal",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 8,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga Portugal",
+    "apps": null,
+    "starts": null,
+    "minutes": 1774,
+    "goals": 4,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["attacking midfielder", "high minutes share for Famalicao in 2025/26", "one of the club's most promising young Portuguese players"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.transferfeed.com/clubs/famalicao/1731",
+    "https://www.fotmob.com/players/1704818/tiago-freitas"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Identified via a search summary describing a 21-year-old Famalicao attacking midfielder (b. 11 Nov 2004) with 4 goals, 1 assist, 1774 minutes in 2025/26; direct player-profile source page for Gustavo Sa specifically was not opened, so confidence is low pending direct Transfermarkt/Wikipedia confirmation of the name-to-stats mapping. Contract length and market value not found -> null."
+  }
+}

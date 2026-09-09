@@ -1,0 +1,78 @@
+{
+  "player_id": "tobias_andrada",
+  "name": "Tobías Andrada",
+  "age": 19,
+  "date_of_birth": "2007-02-02",
+  "nationality": [
+    "ARG"
+  ],
+  "position": "DM",
+  "secondary_positions": [
+    "CM"
+  ],
+  "preferred_foot": null,
+  "height_cm": 179,
+  "current_club": "River Plate",
+  "current_club_league": "Liga Profesional de Fútbol Argentina",
+  "contract_until": 2030,
+  "market_value_eur_m": 7.4,
+  "estimated_fee_eur_m": 12,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": null,
+  "stats_2025_26": {
+    "competition": "Liga Profesional de Fútbol Argentina (2026 calendar-year season)",
+    "apps": 24,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "defensive midfielder",
+      "Vélez Sarsfield academy product since age 7",
+      "Argentina U20 World Cup squad 2025",
+      "signed by River Plate for a reported fee 1 Aug 2026"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "es"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tob%C3%ADas_Andrada",
+    "https://www.fotmob.com/players/1761527/tobias-andrada",
+    "https://www.infobae.com/deportes/2026/08/01/river-plate-hizo-oficial-la-contratacion-de-tobias-andrada-como-su-septimo-refuerzo-en-el-mercado-el-monto-de-la-operacion/"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Stats line (24 apps, 1 goal) is from his final Vélez Sarsfield season before the 1 Aug 2026 transfer to River Plate; only 1 app for River Plate itself so far. market_value_eur_m (7.4) is a FotMob estimate, not confirmed Transfermarkt. Argentine league runs calendar-year Apertura/Clausura format."
+  }
+}

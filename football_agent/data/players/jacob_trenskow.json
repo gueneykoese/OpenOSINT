@@ -1,0 +1,67 @@
+{
+  "player_id": "jacob_trenskow",
+  "name": "Jacob Trenskow",
+  "age": 25,
+  "date_of_birth": "2000-11-26",
+  "nationality": ["DEN"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "sc Heerenveen",
+  "current_club_league": "Eredivisie",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 12,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Eredivisie",
+    "apps": 33,
+    "starts": null,
+    "minutes": 2661,
+    "goals": 12,
+    "assists": 5,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["target forward", "Eredivisie Player of the Year 2025/26 nominee", "consistent 2025/26 output: 12 goals, 5 assists in 33 apps"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["da", "nl"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jacob_Trenskow",
+    "https://www.fotmob.com/players/1188247/jacob-trenskow",
+    "https://us.soccerway.com/player/trenskow-jacob/Mux5nebR/"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Nominated for Eredivisie Player of the Year 2025/26 alongside Godts, Chery, Veerman (eredivisie.com). Stats and contract corroborated across fotmob/soccerway snippets. Market value not retrieved -> null; estimated_fee_eur_m is a reasoned estimate for a 25-year-old proven Eredivisie top scorer, not a sourced figure."
+  }
+}

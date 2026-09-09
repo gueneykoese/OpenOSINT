@@ -1,0 +1,51 @@
+{
+  "player_id": "mauro_arambarri",
+  "name": "Mauro Arambarri",
+  "age": 30,
+  "date_of_birth": "1995-12-30",
+  "nationality": ["URU"],
+  "position": "DM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Getafe",
+  "current_club_league": "La Liga",
+  "contract_until": 2028,
+  "market_value_eur_m": 9.5,
+  "estimated_fee_eur_m": 8,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "La Liga",
+    "apps": 29,
+    "starts": null,
+    "minutes": null,
+    "goals": 6,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["defensive midfielder", "Uruguay international", "goal-scoring threat from deep (6 goals 2025/26)", "long-time Getafe anchor"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": null, "coachability": null, "resilience": null, "discipline": null, "notes": null},
+  "injury_history": [],
+  "off_pitch": {"languages": ["es"], "family_situation": null, "public_statements": [], "commercial_profile": null, "notes": null},
+  "sources": ["https://www.flashscore.in/player/arambarri-mauro/zHQB5zMa/"],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract until 30 June 2028. Market value EUR 9.5m per soccerway/Transfermarkt-style data. estimated_fee_eur_m is a researcher estimate reflecting age (30)."
+  }
+}

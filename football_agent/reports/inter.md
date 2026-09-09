@@ -76,9 +76,8 @@ Budget: €30m · wage ceiling €4m net
 - **Chris Richards** — 85.1/100 (strong match, confidence medium)
   - Chris Richards → Inter at CB: strong match (85.1/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (50).
   - ⚠ Current club publicly not selling.
-- **Gianluca Mancini** — 82.2/100 (strong match, confidence high)
-  - Gianluca Mancini → Inter at CB: strong match (82.2/100). Driven by statistical fit and positional need; weakest area is age & contract (30).
-  - ⚠ Documented discipline record (see mental_profile.notes).
+- **Maxime Estève** — 84.6/100 (strong match, confidence medium)
+  - Maxime Estève → Inter at CB: strong match (84.6/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
 
 ### GK — high priority
@@ -91,35 +90,34 @@ Budget: €20m · wage ceiling €3m net
   - ⚠ Current club publicly not selling.
 - **Alex Meret** — 71.2/100 (good match, confidence medium)
   - Alex Meret → Inter at GK: good match (71.2/100). Driven by positional need and financial feasibility; weakest area is statistical fit (38).
+- **Raúl Rangel** — 63.2/100 (possible, confidence medium)
+  - Raúl Rangel → Inter at GK: possible (63.2/100). Driven by positional need and financial feasibility; weakest area is statistical fit (6).
 
 ### CM — medium priority
 Profile: box-to-box No.8 with running power, 21-26  
 Why: Mkhitaryan 37, Zielinski 32; Sucic/Diouf are the only young options  
 Budget: €30m · wage ceiling €3.5m net
 
-- **Christoph Baumgartner** — 71.4/100 (good match, confidence medium)
-  - Christoph Baumgartner → Inter at CM: good match (71.4/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
+- **Adrián Bernabé** — 78.1/100 (strong match, confidence medium)
+  - Adrián Bernabé → Inter at CM: strong match (78.1/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+- **Farès Chaïbi** — 75.1/100 (good match, confidence medium)
+  - Farès Chaïbi → Inter at CM: good match (75.1/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
-- **Victor Froholdt** — 65.9/100 (possible, confidence medium)
-  - Victor Froholdt → Inter at CM: possible (65.9/100). Driven by statistical fit and positional need; weakest area is financial feasibility (28).
-  - ⚠ Current club publicly not selling.
-- **Curtis Jones** — 63.0/100 (possible, confidence medium)
-  - Curtis Jones → Inter at CM: possible (63.0/100). Driven by positional need and statistical fit; weakest area is statistical fit (50).
-  - ⚠ Current club publicly not selling.
+- **Musab Al-Juwayr** — 75.0/100 (good match, confidence medium)
+  - Musab Al-Juwayr → Inter at CM: good match (75.0/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
 
 ### LB — medium priority
 Profile: attacking left wing-back, 20-25  
 Why: Dimarco 33 with no natural successor  
 Budget: €25m · wage ceiling €3m net
 
-- **Jayden Oosterwolde** — 71.6/100 (good match, confidence high)
-  - Jayden Oosterwolde → Inter at LB: good match (71.6/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (20).
-  - ⚠ Documented discipline record (see mental_profile.notes).
+- **Vitaliy Mykolenko** — 73.5/100 (good match, confidence medium)
+  - Vitaliy Mykolenko → Inter at LB: good match (73.5/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
-- **Mamadou Sarr** — 70.5/100 (good match, confidence medium)
-  - Mamadou Sarr → Inter at LB: good match (70.5/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
-- **Archie Brown** — 70.0/100 (good match, confidence medium)
-  - Archie Brown → Inter at LB: good match (70.0/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Jose Gaya** — 72.9/100 (good match, confidence medium)
+  - Jose Gaya → Inter at LB: good match (72.9/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (45).
+- **Stefan Bukinac** — 71.9/100 (good match, confidence medium)
+  - Stefan Bukinac → Inter at LB: good match (71.9/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ## Sources
 

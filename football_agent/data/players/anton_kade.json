@@ -1,0 +1,67 @@
+{
+  "player_id": "anton_kade",
+  "name": "Anton Kade",
+  "age": 22,
+  "date_of_birth": "2004-01-17",
+  "nationality": ["GER"],
+  "position": "AM",
+  "secondary_positions": ["LW", "RW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "FC Augsburg",
+  "current_club_league": "Bundesliga",
+  "contract_until": 2029,
+  "market_value_eur_m": 7,
+  "estimated_fee_eur_m": 10,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": 22,
+    "starts": null,
+    "minutes": null,
+    "goals": 3,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["attacking midfielder", "joined from FC Basel Aug 2025 for EUR 2.3m", "joint-top scorer for Augsburg 2025/26 with 6 goals across all competitions (per club roundup)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["de"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fcaugsburg.de/en/article/fca-sign-attacker-anton-kade-22318",
+    "https://bulinews.com/augsburg-sign-young-attacking-midfielder-basel",
+    "https://www.bundesliga.com/en/player/anton-kade"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "FC Augsburg's own announcement states contract until 30 June 2029, which is used here over a conflicting Soccerway snippet showing 2026 (likely a stale scrape). 22 apps / 3 goals 2025/26 Bundesliga from search snippet; minutes/assists not found -> null. Market value EUR 7.0m per a search-aggregated figure, not directly verified on Transfermarkt itself."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "player_id": "raul_rangel",
+  "name": "Raúl Rangel",
+  "age": 26,
+  "date_of_birth": "2000-02-25",
+  "nationality": [
+    "MEX"
+  ],
+  "position": "GK",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 191,
+  "current_club": "CD Guadalajara (Chivas)",
+  "current_club_league": "Liga MX",
+  "contract_until": null,
+  "market_value_eur_m": 5.4,
+  "estimated_fee_eur_m": 9,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": null,
+  "stats_2025_26": {
+    "competition": "Liga MX 2026/27",
+    "apps": null,
+    "starts": null,
+    "minutes": 360,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "reflex-based shot-stopper",
+      "Mexico's first-choice goalkeeper at 2026 World Cup",
+      "Concacaf Nations League and Gold Cup winner with Mexico"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "es"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ra%C3%BAl_Rangel_(footballer)",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/raul-rangel-mexico-goalkeeper-korea-republic",
+    "https://www.fotmob.com/players/1227878/jose-rangel"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Full name José Raúl Rangel. Slightly above the 18-25 target age band (26) but included given his status as Mexico's undisputed no.1 at the 2026 World Cup, which materially raises his export/resale profile from Liga MX. estimated_fee_eur_m is a reasoned estimate."
+  }
+}

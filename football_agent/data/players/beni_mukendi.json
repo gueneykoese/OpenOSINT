@@ -1,0 +1,67 @@
+{
+  "player_id": "beni_mukendi",
+  "name": "Beni",
+  "age": 24,
+  "date_of_birth": "2002-05-21",
+  "nationality": ["ANG"],
+  "position": "DM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": "right",
+  "height_cm": 180,
+  "current_club": "Vitória SC (Guimarães)",
+  "current_club_league": "Liga Portugal",
+  "contract_until": 2029,
+  "market_value_eur_m": 2.4,
+  "estimated_fee_eur_m": 6,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga Portugal",
+    "apps": null,
+    "starts": null,
+    "minutes": 2246,
+    "goals": 1,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["defensive midfielder", "Angola international", "high minutes-share regular starter for Vitoria Guimaraes", "arrived from Casa Pia Feb 2025 for EUR 3.0m"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.espn.com/soccer/player/_/id/297037/beni",
+    "https://www.fotmob.com/en-GB/players/1372284/beni",
+    "https://www.besoccer.com/player/beni-893292"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "player_id disambiguated as 'beni_mukendi' (full name Beni Mukendi per BeSoccer) since the mononym 'Beni' is not a valid file-safe id. 2,246 minutes with only 1 goal/1 assist reflects a defensive-midfield role rather than an attacking one. Market value EUR 2.4m per fotmob. Contract until 2029 not independently cross-checked on Transfermarkt directly -> medium confidence."
+  }
+}

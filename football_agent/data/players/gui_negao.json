@@ -1,0 +1,76 @@
+{
+  "player_id": "gui_negao",
+  "name": "Gui Negão",
+  "age": 19,
+  "date_of_birth": "2007-02-06",
+  "nationality": [
+    "BRA"
+  ],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "SC Corinthians Paulista",
+  "current_club_league": "Campeonato Brasileiro Série A",
+  "contract_until": 2030,
+  "market_value_eur_m": 10.6,
+  "estimated_fee_eur_m": 14,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": null,
+  "stats_2025_26": {
+    "competition": "Campeonato Brasileiro Série A (2026 calendar-year season)",
+    "apps": null,
+    "starts": null,
+    "minutes": 150,
+    "goals": 0,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "young target/poacher striker",
+      "academy graduate",
+      "career total ~4 goals in 37 apps since 2025 debut",
+      "limited 2026 first-team minutes so far"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "pt"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gui_Neg%C3%A3o",
+    "https://www.fotmob.com/players/1652599/gui-negao",
+    "https://sofifa.com/player/13073387/guilherme-william-silva-inacio/260024"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Full name Guilherme William Silva Inácio. Brazilian Série A calendar-year season. market_value_eur_m (10.6) is a FotMob transfer-value estimate, not confirmed Transfermarkt -> treat cautiously. 2026 league minutes very limited (150) so goal output (0) reflects small sample, not a full-season null-goal record. estimated_fee_eur_m is researcher's reasoned estimate given his market-value estimate and age. Career total across 2025-26 reported elsewhere as ~4 goals in 37 apps."
+  }
+}

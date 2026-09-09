@@ -80,28 +80,26 @@ Profile: quick 1v1 winger with end product, 20-25, resale potential
 Why: Kevin (EUR 40m) sold to Fulham; Eguinaldo is the only verified senior left-sided option  
 Budget: €8m · wage ceiling €1.2m net
 
-- **Reiss Nelson** — 74.8/100 (good match, confidence medium)
-  - Reiss Nelson → Shakhtar at LW: good match (74.8/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Leandro Trossard** — 69.3/100 (good match, confidence medium)
-  - Leandro Trossard → Shakhtar at LW: good match (69.3/100). Driven by statistical fit and positional need; weakest area is financial feasibility (28).
-  - ⚠ Current club publicly not selling.
-- **Christoph Baumgartner** — 63.1/100 (possible, confidence medium)
-  - Christoph Baumgartner → Shakhtar at LW: possible (63.1/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
+- **Toni Fruk** — 77.6/100 (good match, confidence medium)
+  - Toni Fruk → Shakhtar at LW: good match (77.6/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
+- **Matteo Cancellieri** — 75.5/100 (good match, confidence medium)
+  - Matteo Cancellieri → Shakhtar at LW: good match (75.5/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Seedy Jatta** — 74.9/100 (good match, confidence medium)
+  - Seedy Jatta → Shakhtar at LW: good match (74.9/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### AM — medium priority
 Profile: creative No.10/No.8 who can play in a 4-3-3 interior role  
 Why: Sudakov's permanent departure to Benfica leaves Pedrinho/Bondarenko as the main creators  
 Budget: €8m · wage ceiling €1.2m net
 
-- **Reiss Nelson** — 69.8/100 (good match, confidence medium)
-  - Reiss Nelson → Shakhtar at AM: good match (69.8/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
-- **Leandro Trossard** — 65.1/100 (possible, confidence medium)
-  - Leandro Trossard → Shakhtar at AM: possible (65.1/100). Driven by statistical fit and tactical / system fit; weakest area is financial feasibility (28).
+- **Toni Fruk** — 74.0/100 (good match, confidence medium)
+  - Toni Fruk → Shakhtar at AM: good match (74.0/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
+- **Romain Del Castillo** — 70.8/100 (good match, confidence medium)
+  - Romain Del Castillo → Shakhtar at AM: good match (70.8/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
   - ⚠ Current club publicly not selling.
-- **Anderson Talisca** — 63.2/100 (possible, confidence medium)
-  - Anderson Talisca → Shakhtar at AM: possible (63.2/100). Driven by positional need and financial feasibility; weakest area is age & contract (30).
-  - ⚠ Current club publicly not selling.
+- **Luka Stojković** — 70.2/100 (good match, confidence medium)
+  - Luka Stojković → Shakhtar at AM: good match (70.2/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (20).
+  - ⚠ Documented discipline record (see mental_profile.notes).
 
 ### RB — medium priority
 Profile: athletic right-back able to defend UCL wingers, 22-27  
@@ -113,8 +111,8 @@ Budget: €4m · wage ceiling €0.8m net
 - **Chris Richards** — 63.5/100 (possible, confidence medium)
   - Chris Richards → Shakhtar at RB: possible (63.5/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
   - ⚠ Current club publicly not selling.
-- **Tyler Adams** — 54.9/100 (possible, confidence high)
-  - Tyler Adams → Shakhtar at RB: possible (54.9/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
+- **Pierre Kalulu** — 62.7/100 (possible, confidence high)
+  - Pierre Kalulu → Shakhtar at RB: possible (62.7/100). Driven by statistical fit and positional need; weakest area is financial feasibility (8).
   - ⚠ Current club publicly not selling.
 
 ### ST — medium priority
@@ -122,15 +120,12 @@ Profile: penalty-box finisher with 12+ goal record
 Why: No player exceeded 7 league goals in 2025/26  
 Budget: €10m · wage ceiling €1.5m net
 
-- **Nicolò Tresoldi** — 67.6/100 (good match, confidence medium)
-  - Nicolò Tresoldi → Shakhtar at ST: good match (67.6/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
-- **Ayase Ueda** — 67.3/100 (good match, confidence medium)
-  - Ayase Ueda → Shakhtar at ST: good match (67.3/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
-- **Leandro Trossard** — 66.4/100 (good match, confidence medium)
-  - Leandro Trossard → Shakhtar at ST: good match (66.4/100). Driven by statistical fit and positional need; weakest area is age & contract (30).
-  - ⚠ Current club publicly not selling.
+- **Andrej Ilić** — 76.8/100 (good match, confidence medium)
+  - Andrej Ilić → Shakhtar at ST: good match (76.8/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
+- **Sōta Nakamura** — 75.1/100 (good match, confidence medium)
+  - Sōta Nakamura → Shakhtar at ST: good match (75.1/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
+- **Seedy Jatta** — 71.3/100 (good match, confidence medium)
+  - Seedy Jatta → Shakhtar at ST: good match (71.3/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ## Sources
 

@@ -1,0 +1,68 @@
+{
+  "player_id": "nicolai_vallys",
+  "name": "Nicolai Vallys",
+  "age": 29,
+  "date_of_birth": "1996-09-04",
+  "nationality": ["DEN"],
+  "position": "LW",
+  "secondary_positions": ["AM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Brøndby IF",
+  "current_club_league": "Danish Superliga",
+  "contract_until": 2027,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 3,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Danish Superliga",
+    "apps": 19,
+    "starts": null,
+    "minutes": null,
+    "goals": 5,
+    "assists": 5,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["wide playmaker", "Brondby's leading scorer 2025/26 (5 goals, 8 in all competitions)", "returned from a 2025 injury layoff"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [
+    {"type": "unspecified", "season": "2025/26", "days_out": 20}
+  ],
+  "off_pitch": {
+    "languages": ["da"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://us.soccerway.com/player/vallys-nicolai/ddhFSCV7/",
+    "https://www.soccerbase.com/players/player.sd?player_id=121834"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Age 29, well above the 19-26 priority band; included as a contract-2027, currently-productive Superliga wide player (19 apps, 5 goals, 5 assists 2025/26) rather than a young prospect. Injury recorded 1-20 Sept 2025 (type unspecified in source). Market value not retrieved -> null."
+  }
+}

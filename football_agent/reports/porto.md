@@ -2,7 +2,7 @@
 
 **Primeira Liga (POR) · Pot 2 · Coach: Francesco Farioli · System: 4-3-3**  
 Data confidence: `medium` · as of 2026-09-03
-> Search-snippet research only. VERIFIED: coach Farioli (RTP/club, contract to 2028); UCL draw 4H/4A (club site, O Jogo, Observador, UEFA agree); league table 1st/88/34/28-4-2/66-18 (Wikipedia season pages); Samu 20 goals (13 league) and Gabri Veiga 8 assists (Maisfutebol/club); EL quarter-final and Taca SF (Wikipedia). RECONCILIATION: Kiwior joined permanently in 2026 (ESPN GBP 19m, another list GBP 14.7m; Porto's 2025 transparency filing described the option as EUR 17m + 5m variables) - EUR 22m shown as approx GBP 19m*1.15, treat as estimate; Fabio Vieira did NOT join Porto - the 2026 summary lists him leaving Arsenal for Hamburg (GBP 7.7m), so he is excluded; Rodrigo Mora and Froholdt confirmed in the squad (nos. 86 and 8), ages/contracts/stats copied from our player files. Andre Silva fee 'around EUR 16m' was reported before completion (DN) - unconfirmed final figure; Joao Afonso fee unknown. Club presented 31 players with 'three reinforcements' - the three are taken as Kiwior (permanent), Andre Silva and Joao Afonso; Hwang was already at the club. Squad of 25 taken from the official number list minus Eustaquio (sold 27 Aug 2026); players outside the published list (e.g. numbers 1-3, 23, 25-26) may exist and are omitted. Ages only where sourced (Froholdt 20, Mora 19, Andre Silva 30, Joao Afonso 19); positions/roles are analyst judgements. Taca da Liga result, xG, possession, per-player stats null. Positional-need budgets are guesses.
+> Search-snippet research only. VERIFIED: coach Farioli (RTP/club, contract to 2028); UCL draw 4H/4A (club site, O Jogo, Observador, UEFA agree); league table 1st/88/34/28-4-2/66-18 (Wikipedia season pages); Samu 20 goals (13 league) and Gabri Veiga 8 assists (Maisfutebol/club); EL quarter-final and Taca SF (Wikipedia). RECONCILIATION: Kiwior joined permanently in 2026 (ESPN GBP 19m, another list GBP 14.7m; Porto's 2025 transparency filing described the option as EUR 17m + 5m variables) - EUR 22m shown as approx GBP 19m*1.15, treat as estimate; Fabio Vieira did NOT join Porto - the 2026 summary lists him leaving Arsenal for Hamburg (GBP 7.7m), so he is excluded; Rodrigo Mora and Froholdt confirmed in the squad (nos. 86 and 8), ages/contracts/stats copied from our player files. Andre Silva fee 'around EUR 16m' was reported before completion (DN) - unconfirmed final figure; Joao Afonso fee unknown. Club presented 31 players with 'three reinforcements' - the three are taken as Kiwior (permanent), Andre Silva and Joao Afonso; Hwang was already at the club. Squad of 25 taken from the official number list minus Eustaquio (sold 27 Aug 2026); players outside the published list (e.g. numbers 1-3, 23, 25-26) may exist and are omitted. Ages only where sourced (Froholdt 20, Mora 19, Andre Silva 30, Joao Afonso 19); positions/roles are analyst judgements. Taca da Liga result, xG, possession, per-player stats null. Positional-need budgets are guesses. CORRECTED 2026-09-09: Deniz Gül sold to Galatasaray for €10m (5-year deal, official KAP filing) — removed from squad, added to departures.
 
 ## 2025/26 in numbers
 
@@ -42,6 +42,7 @@ Character: Portugal's second-most decorated club and the historic northern count
 - IN: Andre Silva (ST) from Sunderland — €16.0m
 - IN: Joao Afonso (GK) from Santa Clara — €n/am
 - OUT: Stephen Eustaquio (DM) to Swansea City — €4.0m
+- OUT: Deniz Gül (ST) to Galatasaray — €10m
 
 ## Current squad
 
@@ -71,7 +72,6 @@ Character: Portugal's second-most decorated club and the historic northern count
 | Borja Sainz | LW | n/a | ESP | 2030 | starter | n/a | n/a | n/a |
 | Samu Aghehowa | ST | n/a | ESP | n/a | starter | n/a | 20 | n/a |
 | Andre Silva | ST | 30 | POR | n/a | rotation | n/a | n/a | n/a |
-| Deniz Gul | ST | n/a | TUR | n/a | prospect | n/a | n/a | n/a |
 
 ## Positional needs & recommended targets
 
@@ -80,16 +80,14 @@ Profile: box-to-box No.8 with UCL experience, 23-27, physical, secure under pres
 Why: Eustaquio sold to Swansea; midfield relies on 19-21-year-olds behind Varela.  
 Budget: €15m · wage ceiling €2.5m net
 
-- **Dani Ceballos** — 72.3/100 (good match, confidence medium)
-  - Dani Ceballos → Porto at CM: good match (72.3/100). Driven by positional need and financial feasibility; weakest area is age & contract (30).
-  - ⚠ Current club publicly not selling.
+- **Adrián Bernabé** — 84.2/100 (strong match, confidence medium)
+  - Adrián Bernabé → Porto at CM: strong match (84.2/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
   - ⚠ Would block a young starter (Victor Froholdt, 20) — check pathway politics.
-- **Oleksandr Zinchenko** — 70.1/100 (good match, confidence medium)
-  - Oleksandr Zinchenko → Porto at CM: good match (70.1/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (27).
+- **Nikola Vlasic** — 79.5/100 (strong match, confidence medium)
+  - Nikola Vlasic → Porto at CM: strong match (79.5/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
   - ⚠ Would block a young starter (Victor Froholdt, 20) — check pathway politics.
-- **Tyler Adams** — 64.5/100 (possible, confidence high)
-  - Tyler Adams → Porto at CM: possible (64.5/100). Driven by positional need and statistical fit; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
+- **Toni Fruk** — 79.1/100 (strong match, confidence medium)
+  - Toni Fruk → Porto at CM: strong match (79.1/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
   - ⚠ Would block a young starter (Victor Froholdt, 20) — check pathway politics.
 
 ### ST — medium priority
@@ -97,13 +95,12 @@ Profile: mobile pressing forward, 21-25, resale value
 Why: Samu's three-month injury exposed the lack of a second reliable scorer; Andre Silva is 30 and a short-term fix.  
 Budget: €15m · wage ceiling €2m net
 
-- **Evan Ferguson** — 65.2/100 (possible, confidence medium)
-  - Evan Ferguson → Porto at ST: possible (65.2/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (38).
-- **Leandro Trossard** — 65.1/100 (possible, confidence medium)
-  - Leandro Trossard → Porto at ST: possible (65.1/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
-  - ⚠ Current club publicly not selling.
-- **Nicolò Tresoldi** — 64.6/100 (possible, confidence medium)
-  - Nicolò Tresoldi → Porto at ST: possible (64.6/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
+- **Andrej Ilić** — 75.9/100 (good match, confidence medium)
+  - Andrej Ilić → Porto at ST: good match (75.9/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
+- **Dion Drena Beljo** — 72.3/100 (good match, confidence medium)
+  - Dion Drena Beljo → Porto at ST: good match (72.3/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+- **Ransford-Yeboah Königsdörffer** — 70.8/100 (good match, confidence medium)
+  - Ransford-Yeboah Königsdörffer → Porto at ST: good match (70.8/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
   - ⚠ Current club publicly not selling.
 
 ### LB — low priority
@@ -111,13 +108,13 @@ Profile: attacking left-back comfortable in a high line
 Why: Only Moura and Zaidu; Kiwior can cover but is needed at CB.  
 Budget: €8m · wage ceiling €1.5m net
 
-- **Oleksandr Zinchenko** — 63.3/100 (possible, confidence medium)
-  - Oleksandr Zinchenko → Porto at LB: possible (63.3/100). Driven by financial feasibility and tactical / system fit; weakest area is cultural adaptation (27).
-- **Alejandro Grimaldo** — 53.2/100 (weak, confidence medium)
-  - Alejandro Grimaldo → Porto at LB: weak (53.2/100). Driven by tactical / system fit and positional need; weakest area is financial feasibility (0).
+- **Jose Gaya** — 74.5/100 (good match, confidence medium)
+  - Jose Gaya → Porto at LB: good match (74.5/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (45).
+- **Šimun Hrgović** — 68.5/100 (good match, confidence medium)
+  - Šimun Hrgović → Porto at LB: good match (68.5/100). Driven by financial feasibility and statistical fit; weakest area is positional need (48).
+- **Reinildo Mandava** — 65.4/100 (possible, confidence medium)
+  - Reinildo Mandava → Porto at LB: possible (65.4/100). Driven by statistical fit and financial feasibility; weakest area is cultural adaptation (36).
   - ⚠ Current club publicly not selling.
-- **Archie Brown** — 53.2/100 (weak, confidence medium)
-  - Archie Brown → Porto at LB: weak (53.2/100). Driven by positional need and tactical / system fit; weakest area is financial feasibility (0).
 
 ## Sources
 

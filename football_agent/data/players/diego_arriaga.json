@@ -1,0 +1,76 @@
+{
+  "player_id": "diego_arriaga",
+  "name": "Diego Arriaga",
+  "age": 21,
+  "date_of_birth": "2004-04-30",
+  "nationality": [
+    "MEX"
+  ],
+  "position": "CM",
+  "secondary_positions": [
+    "AM"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Club América",
+  "current_club_league": "Liga MX",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 6,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": null,
+  "stats_2025_26": {
+    "competition": "Liga MX Apertura 2026",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "energetic box-to-box midfielder",
+      "América academy graduate",
+      "scored maiden goal in Apertura 2026 Jornada 4"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "es"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.rotowire.com/soccer/player/diego-arriaga-44933",
+    "https://evrimagaci.org/gpt/america-youth-shine-as-club-soars-to-liga-mx-summit-544181"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Very early-career sample size (broke into América first team in 2025-26); Liga MX calendar-year Apertura/Clausura format. Contract length, market value not sourced -> null. estimated_fee_eur_m is a rough researcher estimate given limited track record."
+  }
+}

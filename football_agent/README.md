@@ -142,11 +142,12 @@ kulüp sitelerini engelliyor (WebFetch 403). Buna rağmen:
 * **36/36 kulüp** eşleştirmeye uygun (kadro ≥ 15, ihtiyaçlar tanımlı). 30 kulüp `medium` (hoca + 2025/26
   tablosu + kura rakipleri + kadro kaynaklı), 6 kulüp `low` (Stuttgart, Sabah, Slovan, Club Brugge, Real Madrid,
   Viking): eksik alanlar her dosyanın `data_quality.notes` alanında yazılı.
-* **170 gerçek oyuncu** hedef havuzunda (`data/players/`), 36 kulübün dışındaki Premier League, Serie A, La Liga,
-  Bundesliga, Ligue 1, Süper Lig, Eredivisie, Liga Portugal, Belçika, Hırvatistan, Sırbistan, Brezilya, Arjantin
-  ve MLS/Liga MX kulüplerinden derlendi. 8 kurgusal demo profili `data/demo_players/` altında tutuluyor ve
-  yalnızca `--demo` ile yüklenir. Panel ve dosyalar kurgusal veri içermez. 1000 oyuncuya çıkmak hedefleniyor;
-  oturum başına ~130 arama bütçesiyle günde ~150-200 oyuncu tempo, kalan tur(lar) devam ediyor.
+* **248 gerçek oyuncu** hedef havuzunda (`data/players/`), 36 kulübün dışındaki Premier League, Serie A, La Liga,
+  Bundesliga, Ligue 1, Süper Lig, Eredivisie, Liga Portugal, Belçika, İskoçya, Yunanistan, Danimarka, İsviçre,
+  Hırvatistan, Sırbistan, Suudi Arabistan, Japonya, Kore, Brezilya, Arjantin, Meksika, MLS ve Afrika liglerinden
+  derlendi. 8 kurgusal demo profili `data/demo_players/` altında tutuluyor ve yalnızca `--demo` ile yüklenir.
+  Panel ve dosyalar kurgusal veri içermez. 1000 oyuncuya çıkmak hedefleniyor; oturum başına ~130 arama bütçesiyle
+  günde ~150-250 oyuncu tempo, kalan tur(lar) devam ediyor.
 * Oyuncu–kulüp çelişkileri iki yönlü tarandı ve düzeltildi (Ueda → Lille, Curtis Jones → Inter, Ceballos → Betis,
   Nelson → Feyenoord, Oosterwolde → Roma, Grimaldo → Atlético, Balerdi/Castro → Roma, Estève → RB Leipzig,
   Kean/Chalobah → Como). Martinelli (Al Hilal, resmi değil) ve Zinchenko (serbest) düşük güvende, Arsenal

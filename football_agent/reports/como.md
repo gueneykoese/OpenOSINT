@@ -97,44 +97,38 @@ Profile: pressing No.9 comfortable in possession, 22-27
 Why: Only Douvikas and Kean after Morata/Gabrielloni exits  
 Budget: €25m · wage ceiling €3m net
 
-- **Ayase Ueda** — 69.1/100 (good match, confidence medium)
-  - Ayase Ueda → Como at ST: good match (69.1/100). Driven by statistical fit and positional need; weakest area is financial feasibility (50).
-  - ⚠ Current club publicly not selling.
-- **Jonathan David** — 68.8/100 (good match, confidence medium)
-  - Jonathan David → Como at ST: good match (68.8/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Nicolò Tresoldi** — 68.8/100 (good match, confidence medium)
-  - Nicolò Tresoldi → Como at ST: good match (68.8/100). Driven by statistical fit and positional need; weakest area is financial feasibility (22).
-  - ⚠ Current club publicly not selling.
+- **Andrej Ilić** — 78.0/100 (strong match, confidence medium)
+  - Andrej Ilić → Como at ST: strong match (78.0/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
+- **Dion Drena Beljo** — 75.2/100 (good match, confidence medium)
+  - Dion Drena Beljo → Como at ST: good match (75.2/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
+- **Lorenzo Colombo** — 73.7/100 (good match, confidence medium)
+  - Lorenzo Colombo → Como at ST: good match (73.7/100). Driven by positional need and financial feasibility; weakest area is tactical / system fit (50).
 
 ### DM — medium priority
 Profile: ball-winning pivot with elite passing, 21-26  
 Why: Perrone/Ricci/Da Cunha all more distributor than destroyer; UCL demands more defensive cover  
 Budget: €20m · wage ceiling €2.5m net
 
-- **Victor Froholdt** — 63.3/100 (possible, confidence medium)
-  - Victor Froholdt → Como at DM: possible (63.3/100). Driven by statistical fit and tactical / system fit; weakest area is financial feasibility (0).
+- **Kamiel Van de Perre** — 78.9/100 (strong match, confidence medium)
+  - Kamiel Van de Perre → Como at DM: strong match (78.9/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
-- **Dani Ceballos** — 63.0/100 (possible, confidence medium)
-  - Dani Ceballos → Como at DM: possible (63.0/100). Driven by financial feasibility and tactical / system fit; weakest area is age & contract (30).
-  - ⚠ Current club publicly not selling.
-- **Gianluca Mancini** — 63.0/100 (possible, confidence high)
-  - Gianluca Mancini → Como at DM: possible (63.0/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
-  - ⚠ Documented discipline record (see mental_profile.notes).
-  - ⚠ Current club publicly not selling.
+- **Adrián Bernabé** — 77.5/100 (good match, confidence medium)
+  - Adrián Bernabé → Como at DM: good match (77.5/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
+- **Beni** — 75.9/100 (good match, confidence medium)
+  - Beni → Como at DM: good match (75.9/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (44).
 
 ### LB — low priority
 Profile: inverted-capable, left-footed  
 Why: Kaiki new to Europe; Valle sole experienced option  
 Budget: €12m · wage ceiling €1.5m net
 
-- **Oleksandr Zinchenko** — 63.7/100 (possible, confidence medium)
-  - Oleksandr Zinchenko → Como at LB: possible (63.7/100). Driven by financial feasibility and tactical / system fit; weakest area is age & contract (30).
-- **Jayden Oosterwolde** — 62.1/100 (possible, confidence high)
-  - Jayden Oosterwolde → Como at LB: possible (62.1/100). Driven by statistical fit and tactical / system fit; weakest area is mentality & chemistry (20).
-  - ⚠ Documented discipline record (see mental_profile.notes).
+- **Jose Gaya** — 72.3/100 (good match, confidence medium)
+  - Jose Gaya → Como at LB: good match (72.3/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (45).
+- **Reinildo Mandava** — 69.7/100 (good match, confidence medium)
+  - Reinildo Mandava → Como at LB: good match (69.7/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (45).
   - ⚠ Current club publicly not selling.
-- **Archie Brown** — 56.1/100 (possible, confidence medium)
-  - Archie Brown → Como at LB: possible (56.1/100). Driven by positional need and statistical fit; weakest area is financial feasibility (33).
+- **Stefan Bukinac** — 65.3/100 (possible, confidence medium)
+  - Stefan Bukinac → Como at LB: possible (65.3/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
 
 ## Sources
 

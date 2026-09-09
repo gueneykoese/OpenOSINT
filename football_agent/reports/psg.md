@@ -89,23 +89,23 @@ Budget: €80m · wage ceiling €12m net
 - **Ayase Ueda** — 80.9/100 (strong match, confidence medium)
   - Ayase Ueda → PSG at ST: strong match (80.9/100). Driven by statistical fit and positional need; weakest area is age & contract (50).
   - ⚠ Current club publicly not selling.
-- **Deniz Undav** — 76.6/100 (good match, confidence medium)
-  - Deniz Undav → PSG at ST: good match (76.6/100). Driven by statistical fit and positional need; weakest area is age & contract (30).
-  - ⚠ Current club publicly not selling.
+- **Andrej Ilić** — 80.5/100 (strong match, confidence medium)
+  - Andrej Ilić → PSG at ST: strong match (80.5/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
 
 ### CB — medium priority
 Profile: left-footed ball-playing CB, 21-25, high resale value  
 Why: Marquinhos 32 and Hernandez 30; Kamara departed; succession planning  
 Budget: €50m · wage ceiling €7m net
 
+- **Maxime Estève** — 84.9/100 (strong match, confidence medium)
+  - Maxime Estève → PSG at CB: strong match (84.9/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+  - ⚠ Current club publicly not selling.
 - **Jayden Oosterwolde** — 74.9/100 (good match, confidence high)
   - Jayden Oosterwolde → PSG at CB: good match (74.9/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (20).
   - ⚠ Documented discipline record (see mental_profile.notes).
   - ⚠ Current club publicly not selling.
-- **Fikayo Tomori** — 74.0/100 (good match, confidence medium)
-  - Fikayo Tomori → PSG at CB: good match (74.0/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
-- **Chris Richards** — 73.8/100 (good match, confidence medium)
-  - Chris Richards → PSG at CB: good match (73.8/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
+- **Pierre Kalulu** — 74.7/100 (good match, confidence high)
+  - Pierre Kalulu → PSG at CB: good match (74.7/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (50).
   - ⚠ Current club publicly not selling.
 
 ### LB — low priority
@@ -113,12 +113,13 @@ Profile: young athletic LB to understudy Nuno Mendes
 Why: Digne (33) signed as a one-to-two-season stopgap  
 Budget: €25m · wage ceiling €4m net
 
-- **Archie Brown** — 65.0/100 (possible, confidence medium)
-  - Archie Brown → PSG at LB: possible (65.0/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (48).
-- **Oleksandr Zinchenko** — 64.3/100 (possible, confidence medium)
-  - Oleksandr Zinchenko → PSG at LB: possible (64.3/100). Driven by financial feasibility and tactical / system fit; weakest area is age & contract (30).
-- **Mamadou Sarr** — 63.6/100 (possible, confidence medium)
-  - Mamadou Sarr → PSG at LB: possible (63.6/100). Driven by financial feasibility and statistical fit; weakest area is positional need (36).
+- **Jose Gaya** — 71.8/100 (good match, confidence medium)
+  - Jose Gaya → PSG at LB: good match (71.8/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
+- **Vitaliy Mykolenko** — 69.2/100 (good match, confidence medium)
+  - Vitaliy Mykolenko → PSG at LB: good match (69.2/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
+  - ⚠ Current club publicly not selling.
+- **Tyrick Mitchell** — 66.9/100 (good match, confidence medium)
+  - Tyrick Mitchell → PSG at LB: good match (66.9/100). Driven by statistical fit and positional need; weakest area is positional need (45).
 
 ## Sources
 

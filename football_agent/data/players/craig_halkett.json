@@ -1,0 +1,55 @@
+{
+  "player_id": "craig_halkett",
+  "name": "Craig Halkett",
+  "age": 31,
+  "date_of_birth": "1995-04-08",
+  "nationality": ["SCO"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Heart of Midlothian",
+  "current_club_league": "Scottish Premiership",
+  "contract_until": 2028,
+  "market_value_eur_m": 0.5,
+  "estimated_fee_eur_m": 2,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Scottish Premiership",
+    "apps": 15,
+    "starts": null,
+    "minutes": 2535,
+    "goals": 4,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["experienced center-back", "club captain", "set-piece goal threat"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": 4, "coachability": null, "resilience": null, "discipline": null, "notes": "Appointed club captain by manager Wouter Vrancken ahead of 2026/27, replacing Lawrence Shankland who left."},
+  "injury_history": [],
+  "off_pitch": {"languages": ["en"], "family_situation": null, "public_statements": [], "commercial_profile": null, "notes": null},
+  "sources": [
+    "https://www.heartsstandard.co.uk/news/25723855.hearts-announce-new-contract-key-first-team-star/",
+    "https://www.fotmob.com/en-GB/players/522130/craig-halkett",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Heart_of_Midlothian_F.C._season"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Extended contract to 2028 announced 25 Dec 2025 (was set to enter final 6 months). Market value ~GBP 425k (~EUR 0.5m) per Transfermarkt via heartsstandard, date of valuation unclear. Apps/minutes/goals figure (15 apps, 4 goals, 2535 minutes) as reported around the Dec 2025 announcement, may not cover full season. estimated_fee_eur_m is a researcher estimate given age/value."
+  }
+}

@@ -2,7 +2,7 @@
 
 **Premier League (ENG) · Pot 1 · Coach: Enzo Maresca · System: 4-2-3-1**  
 Data confidence: `medium` · as of 2026-09-02
-> Verified: Maresca appointed 29 June 2026 on a three-year contract after Guardiola's departure; 2nd place 78 pts, 23-9-6, +42 GD; UCL draw; Stones and Bernardo Silva exits (destinations unknown). NOT verified: GF/GA (only GD known), UCL 2025/26 exit round, FA Cup/Carabao results, top scorer, and all summer-2026 ARRIVALS (list left empty, not asserted as zero). Maresca's formation/style is inferred from his Chelsea tenure, not from City matches. Squad is the 2025/26 roster minus verified exits. Squad = last known first-team roster adjusted ONLY for summer-2026 moves that were source-verified; further unreported exits/loans may be missing. Per-player 2025/26 stats left null unless a source gave the number. Ages computed from public birthdates as of 2026-09-02. Research constraint: web fetch was blocked on all data sites (transfermarkt, fbref, uefa, wikipedia, club sites) and only search snippets were available.
+> Verified: Maresca appointed 29 June 2026 on a three-year contract after Guardiola's departure; 2nd place 78 pts, 23-9-6, +42 GD; UCL draw; Stones and Bernardo Silva exits (destinations unknown). NOT verified: GF/GA (only GD known), UCL 2025/26 exit round, FA Cup/Carabao results, top scorer, and all summer-2026 ARRIVALS (list left empty, not asserted as zero). Maresca's formation/style is inferred from his Chelsea tenure, not from City matches. Squad is the 2025/26 roster minus verified exits. Squad = last known first-team roster adjusted ONLY for summer-2026 moves that were source-verified; further unreported exits/loans may be missing. Per-player 2025/26 stats left null unless a source gave the number. Ages computed from public birthdates as of 2026-09-02. Research constraint: web fetch was blocked on all data sites (transfermarkt, fbref, uefa, wikipedia, club sites) and only search snippets were available. CORRECTED 2026-09-09: Iliman Ndiaye's £65m deadline-day arrival from Everton (Sky Sports) added to squad/arrivals; the rest of the summer window (per the earlier note) remains otherwise unverified.
 
 ## 2025/26 in numbers
 
@@ -37,6 +37,7 @@ Character: Abu Dhabi-backed ownership with vast resources but a decade of legal/
 
 ## Summer 2026 window
 
+- IN: Iliman Ndiaye (RW) from Everton — €75m
 - OUT: John Stones (CB) to None — €n/am
 - OUT: Bernardo Silva (CM) to None — €n/am
 
@@ -66,6 +67,7 @@ Character: Abu Dhabi-backed ownership with vast resources but a decade of legal/
 | Jeremy Doku | LW | 24 | BEL | n/a | starter | n/a | n/a | n/a |
 | Omar Marmoush | LW | 27 | EGY | n/a | rotation | n/a | n/a | n/a |
 | Erling Haaland | ST | 26 | NOR | n/a | starter | n/a | n/a | n/a |
+| Iliman Ndiaye | RW | 25 | SEN | n/a | rotation | n/a | n/a | n/a |
 
 ## Positional needs & recommended targets
 
@@ -79,8 +81,8 @@ Budget: €60m · wage ceiling €8m net
   - ⚠ Current club publicly not selling.
 - **Fikayo Tomori** — 81.8/100 (strong match, confidence medium)
   - Fikayo Tomori → Man City at RB: strong match (81.8/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
-- **Tyler Adams** — 75.3/100 (good match, confidence high)
-  - Tyler Adams → Man City at RB: good match (75.3/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (58).
+- **Pierre Kalulu** — 81.3/100 (strong match, confidence high)
+  - Pierre Kalulu → Man City at RB: strong match (81.3/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
 
 ### CB — medium priority
@@ -93,9 +95,8 @@ Budget: €60m · wage ceiling €8m net
   - ⚠ Current club publicly not selling.
 - **Fikayo Tomori** — 79.8/100 (strong match, confidence medium)
   - Fikayo Tomori → Man City at CB: strong match (79.8/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
-- **Jayden Oosterwolde** — 73.7/100 (good match, confidence high)
-  - Jayden Oosterwolde → Man City at CB: good match (73.7/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (20).
-  - ⚠ Documented discipline record (see mental_profile.notes).
+- **Pierre Kalulu** — 79.3/100 (strong match, confidence high)
+  - Pierre Kalulu → Man City at CB: strong match (79.3/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
 
 ### DM — medium priority
@@ -103,15 +104,13 @@ Profile: Rodri understudy with elite passing under pressure
 Why: Rodri 30 with major injury history; Nico Gonzalez the only alternative  
 Budget: €50m · wage ceiling €7m net
 
+- **Adrián Bernabé** — 78.2/100 (strong match, confidence medium)
+  - Adrián Bernabé → Man City at DM: strong match (78.2/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
+- **Kamiel Van de Perre** — 76.6/100 (good match, confidence medium)
+  - Kamiel Van de Perre → Man City at DM: good match (76.6/100). Driven by statistical fit and financial feasibility; weakest area is cultural adaptation (47).
+  - ⚠ Current club publicly not selling.
 - **Victor Froholdt** — 76.2/100 (good match, confidence medium)
   - Victor Froholdt → Man City at DM: good match (76.2/100). Driven by statistical fit and positional need; weakest area is age & contract (50).
-  - ⚠ Current club publicly not selling.
-- **Tyler Adams** — 75.2/100 (good match, confidence high)
-  - Tyler Adams → Man City at DM: good match (75.2/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (58).
-  - ⚠ Current club publicly not selling.
-- **Gianluca Mancini** — 72.4/100 (good match, confidence high)
-  - Gianluca Mancini → Man City at DM: good match (72.4/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (35).
-  - ⚠ Documented discipline record (see mental_profile.notes).
   - ⚠ Current club publicly not selling.
 
 ### ST — low priority
@@ -122,11 +121,10 @@ Budget: €40m · wage ceiling €6m net
 - **Deniz Undav** — 72.1/100 (good match, confidence medium)
   - Deniz Undav → Man City at ST: good match (72.1/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
   - ⚠ Current club publicly not selling.
+- **Andrej Ilić** — 70.3/100 (good match, confidence medium)
+  - Andrej Ilić → Man City at ST: good match (70.3/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
 - **Ayase Ueda** — 69.6/100 (good match, confidence medium)
   - Ayase Ueda → Man City at ST: good match (69.6/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
-  - ⚠ Current club publicly not selling.
-- **Nicolò Tresoldi** — 69.4/100 (good match, confidence medium)
-  - Nicolò Tresoldi → Man City at ST: good match (69.4/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
   - ⚠ Current club publicly not selling.
 
 ## Sources
@@ -142,3 +140,4 @@ Budget: €40m · wage ceiling €6m net
 - https://www.espn.com/soccer/story/_/id/49145825/manchester-city-close-naming-enzo-maresca-pep-guardiola-successor-sources
 - https://sports.yahoo.com/articles/manchester-city-2026-27-premier-090500155.html
 - https://footballtoday.com/2026/08/14/manchester-city-2026-27-premier-league-preview-can-maresca-deliver-the-title/
+- https://www.skysports.com/football/news/11095/13579541/iliman-ndiaye-transfer-news-man-city-agree-lb65m-deal-for-everton-winger-as-tottenham-turn-attention-to-mykhailo-mudryk

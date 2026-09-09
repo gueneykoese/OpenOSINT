@@ -89,25 +89,22 @@ Budget: €4m · wage ceiling €0.8m net
 
 - **Reiss Nelson** — 74.8/100 (good match, confidence medium)
   - Reiss Nelson → Slavia Praha at AM: good match (74.8/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Christoph Baumgartner** — 67.0/100 (good match, confidence medium)
-  - Christoph Baumgartner → Slavia Praha at AM: good match (67.0/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
-- **Brahim Díaz** — 63.4/100 (possible, confidence medium)
-  - Brahim Díaz → Slavia Praha at AM: possible (63.4/100). Driven by positional need and statistical fit; weakest area is financial feasibility (10).
+- **Matthew Evans** — 73.9/100 (good match, confidence medium)
+  - Matthew Evans → Slavia Praha at AM: good match (73.9/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Diego Luna** — 72.5/100 (good match, confidence medium)
+  - Diego Luna → Slavia Praha at AM: good match (72.5/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
 
 ### ST — medium priority
 Profile: mobile striker to complement the target-man Chorý  
 Why: Tijani and Prekop departed; Chytil is the only alternative  
 Budget: €3m · wage ceiling €0.6m net
 
-- **Nicolò Tresoldi** — 65.2/100 (possible, confidence medium)
-  - Nicolò Tresoldi → Slavia Praha at ST: possible (65.2/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
-- **Ayase Ueda** — 65.0/100 (possible, confidence medium)
-  - Ayase Ueda → Slavia Praha at ST: possible (65.0/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
-- **Deniz Undav** — 62.2/100 (possible, confidence medium)
-  - Deniz Undav → Slavia Praha at ST: possible (62.2/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
+- **Sōta Nakamura** — 72.8/100 (good match, confidence medium)
+  - Sōta Nakamura → Slavia Praha at ST: good match (72.8/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
+- **Kevin Nisbet** — 68.1/100 (good match, confidence medium)
+  - Kevin Nisbet → Slavia Praha at ST: good match (68.1/100). Driven by positional need and financial feasibility; weakest area is age & contract (45).
+- **Ante Budimir** — 68.0/100 (good match, confidence medium)
+  - Ante Budimir → Slavia Praha at ST: good match (68.0/100). Driven by positional need and financial feasibility; weakest area is age & contract (45).
   - ⚠ Current club publicly not selling.
 
 ### CB — low priority
@@ -115,14 +112,14 @@ Profile: quick left-footed CB for the back three
 Why: Volume is fine (7 CBs) but pace against elite forwards was exposed in 2025/26 UCL  
 Budget: €3m · wage ceiling €0.6m net
 
-- **Jayden Oosterwolde** — 60.0/100 (possible, confidence high)
-  - Jayden Oosterwolde → Slavia Praha at CB: possible (60.0/100). Driven by statistical fit and positional need; weakest area is financial feasibility (8).
-  - ⚠ Documented discipline record (see mental_profile.notes).
+- **Craig Halkett** — 66.2/100 (good match, confidence medium)
+  - Craig Halkett → Slavia Praha at CB: good match (66.2/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
   - ⚠ Current club publicly not selling.
-- **Fikayo Tomori** — 59.3/100 (possible, confidence medium)
-  - Fikayo Tomori → Slavia Praha at CB: possible (59.3/100). Driven by statistical fit and tactical / system fit; weakest area is financial feasibility (10).
-- **Chris Richards** — 57.9/100 (possible, confidence medium)
-  - Chris Richards → Slavia Praha at CB: possible (57.9/100). Driven by statistical fit and tactical / system fit; weakest area is financial feasibility (10).
+- **Maxime Estève** — 62.8/100 (possible, confidence medium)
+  - Maxime Estève → Slavia Praha at CB: possible (62.8/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
+  - ⚠ Current club publicly not selling.
+- **Ethan Pinnock** — 60.4/100 (possible, confidence medium)
+  - Ethan Pinnock → Slavia Praha at CB: possible (60.4/100). Driven by financial feasibility and statistical fit; weakest area is age & contract (45).
   - ⚠ Current club publicly not selling.
 
 ## Sources

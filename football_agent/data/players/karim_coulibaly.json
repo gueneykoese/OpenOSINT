@@ -1,0 +1,67 @@
+{
+  "player_id": "karim_coulibaly",
+  "name": "Karim Coulibaly",
+  "age": 19,
+  "date_of_birth": "2007-05-23",
+  "nationality": ["GER"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": "left",
+  "height_cm": 191,
+  "current_club": "SV Werder Bremen",
+  "current_club_league": "Bundesliga",
+  "contract_until": 2027,
+  "market_value_eur_m": 19,
+  "estimated_fee_eur_m": 22,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": 14,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["left-footed centre-back", "German youth international", "academy graduate"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["de"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Karim_Coulibaly_(footballer,_born_2007)",
+    "https://www.bundesliga.com/en/player/karim-coulibaly",
+    "https://us.soccerway.com/player/coulibaly-karim/hvZLXkvg/"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract until 30 June 2027 and 14 Bundesliga apps / 1 goal in 2025/26 corroborated across Wikipedia and soccerway. Market value range EUR 18.7-20.6m per Transfermarkt-derived snippets, midpoint used. Minutes, assists, and other advanced stats not found -> null. Rare left-footed CB at 19, unproven at senior level beyond one Bundesliga season."
+  }
+}

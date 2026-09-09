@@ -1,0 +1,54 @@
+{
+  "player_id": "kevin_nisbet",
+  "name": "Kevin Nisbet",
+  "age": 29,
+  "date_of_birth": "1997-03-08",
+  "nationality": ["SCO"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Aberdeen",
+  "current_club_league": "Scottish Premiership",
+  "contract_until": 2026,
+  "market_value_eur_m": 1.2,
+  "estimated_fee_eur_m": 1,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Scottish Premiership",
+    "apps": 35,
+    "starts": null,
+    "minutes": null,
+    "goals": 9,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["target man striker", "Scotland international pool", "leading scorer at Aberdeen 2025/26 (11 goals all comps)", "brief loan/spell at Millwall earlier in career"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": null, "coachability": null, "resilience": null, "discipline": null, "notes": null},
+  "injury_history": [],
+  "off_pitch": {"languages": ["en"], "family_situation": null, "public_statements": [], "commercial_profile": null, "notes": null},
+  "sources": [
+    "https://www.fotmob.com/players/620134/kevin-nisbet",
+    "https://www.celticnewsnow.com/data/kevin-nisbet/"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Contract reported to expire 30 June 2026, i.e. already passed as of today (2026-09-09); his continued presence at Aberdeen for 2026/27 is NOT independently confirmed in this search, so current_club/availability should be treated as unverified pending a fresher source. Market value ~GBP 1m (~EUR 1.2m) per Transfermarkt via fotmob. estimated_fee_eur_m is a researcher estimate."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "player_id": "caleb_yirenkyi",
+  "name": "Caleb Yirenkyi",
+  "age": 20,
+  "date_of_birth": "2006-01-15",
+  "nationality": [
+    "GHA"
+  ],
+  "position": "CM",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 182,
+  "current_club": "Coventry City",
+  "current_club_league": "EFL Championship (England)",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 27,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": null,
+  "stats_2025_26": {
+    "competition": "Danish Superliga 2025/26 (FC Nordsjælland, prior club)",
+    "apps": 56,
+    "starts": null,
+    "minutes": null,
+    "goals": 4,
+    "assists": 8,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "box-to-box central midfielder",
+      "Right to Dream Academy product",
+      "2025/26 Danish Superliga Young Player of the Year",
+      "scored winner vs Panama at 2026 World Cup",
+      "15 Ghana caps, 2 goals"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": [
+      "en"
+    ],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Caleb_Yirenkyi",
+    "https://www.fotmob.com/en-GB/players/1615927/caleb-yirenkyi",
+    "https://www.bellanaija.com/2026/06/caleb-yirenkyi-ghana-world-cup-goal-panama/"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Career stats line (56 apps, 4 goals, 8 assists) is his cumulative FC Nordsjælland (Denmark) record before his reported ~EUR27m (rising to ~EUR30m) move to Coventry City (England Championship) in August 2026, used here as estimated_fee_eur_m since it is a specific reported transfer figure rather than a pure guess. Only 3 Coventry apps recorded so far in the sources found. Already moved into a European lower-tier league, included per scope's allowance for 'lower-profile European leagues'."
+  }
+}

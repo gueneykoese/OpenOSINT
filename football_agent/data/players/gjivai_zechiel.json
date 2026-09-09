@@ -1,0 +1,67 @@
+{
+  "player_id": "gjivai_zechiel",
+  "name": "Gjivai Zechiël",
+  "age": 21,
+  "date_of_birth": "2004-06-01",
+  "nationality": ["NED"],
+  "position": "DM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
+  "height_cm": 171,
+  "current_club": "FC Utrecht",
+  "current_club_league": "Eredivisie",
+  "contract_until": 2026,
+  "market_value_eur_m": 6,
+  "estimated_fee_eur_m": 8,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "Eredivisie",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 5,
+    "assists": 3,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["defensive midfielder with goal threat", "on loan at Utrecht from Feyenoord", "leads Utrecht's league scoring in 2025/26 from a DM role"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["nl"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.celticnewsnow.com/data/gjivai-zechiel/",
+    "https://www.transferfeed.com/transfers/gjivai-zechiel-feyenoord-fc-utrecht/12357860",
+    "https://nl.soccerway.com/speler/zechiel-gjivai/6BQvLBnt"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Currently on loan at FC Utrecht from Feyenoord (an excluded UCL club) until 30 June 2026, so his rights sit with Feyenoord even though he plays for Utrecht - flagged low confidence because his post-loan destination (return to Feyenoord, permanent Utrecht move, or third club) is unverified. 5 goals/3 assists 2025/26 league-leading for Utrecht per search snippet; apps/minutes not found -> null."
+  }
+}

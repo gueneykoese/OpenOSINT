@@ -77,27 +77,25 @@ Profile: box-to-box destroyer, 21-26, high resale
 Why: Sangaré sold for EUR 48m; no like-for-like replacement  
 Budget: €15m · wage ceiling €2m net
 
-- **Oleksandr Zinchenko** — 68.0/100 (good match, confidence medium)
-  - Oleksandr Zinchenko → Lens at DM: good match (68.0/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
-- **Dani Ceballos** — 66.9/100 (good match, confidence medium)
-  - Dani Ceballos → Lens at DM: good match (66.9/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
+- **Kamiel Van de Perre** — 81.8/100 (strong match, confidence medium)
+  - Kamiel Van de Perre → Lens at DM: strong match (81.8/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
-- **Tyler Adams** — 64.6/100 (possible, confidence high)
-  - Tyler Adams → Lens at DM: possible (64.6/100). Driven by positional need and statistical fit; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
+- **Adrián Bernabé** — 81.7/100 (strong match, confidence medium)
+  - Adrián Bernabé → Lens at DM: strong match (81.7/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+- **Beni** — 79.6/100 (strong match, confidence medium)
+  - Beni → Lens at DM: strong match (79.6/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
 
 ### AM — medium priority
 Profile: young creator to succeed Thauvin (33)  
 Why: Thauvin/Hazard both 33; Thomasson gone  
 Budget: €12m · wage ceiling €1.8m net
 
-- **Leandro Trossard** — 70.8/100 (good match, confidence medium)
-  - Leandro Trossard → Lens at AM: good match (70.8/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
-  - ⚠ Current club publicly not selling.
-- **Reiss Nelson** — 66.7/100 (good match, confidence medium)
-  - Reiss Nelson → Lens at AM: good match (66.7/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
-- **Christoph Baumgartner** — 64.4/100 (possible, confidence medium)
-  - Christoph Baumgartner → Lens at AM: possible (64.4/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
+- **Toni Fruk** — 74.9/100 (good match, confidence medium)
+  - Toni Fruk → Lens at AM: good match (74.9/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
+- **Nikola Vlasic** — 74.2/100 (good match, confidence medium)
+  - Nikola Vlasic → Lens at AM: good match (74.2/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+- **Romain Del Castillo** — 73.5/100 (good match, confidence medium)
+  - Romain Del Castillo → Lens at AM: good match (73.5/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
 
 ### ST — medium priority
@@ -105,14 +103,12 @@ Profile: mobile finisher, 22-26
 Why: Saïd departed; reliance on Édouard/Sotoca  
 Budget: €15m · wage ceiling €2m net
 
-- **Leandro Trossard** — 63.2/100 (possible, confidence medium)
-  - Leandro Trossard → Lens at ST: possible (63.2/100). Driven by statistical fit and financial feasibility; weakest area is positional need (35).
-  - ⚠ Current club publicly not selling.
-- **Nicolò Tresoldi** — 62.9/100 (possible, confidence medium)
-  - Nicolò Tresoldi → Lens at ST: possible (62.9/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
-- **Evan Ferguson** — 62.6/100 (possible, confidence medium)
-  - Evan Ferguson → Lens at ST: possible (62.6/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Andrej Ilić** — 75.2/100 (good match, confidence medium)
+  - Andrej Ilić → Lens at ST: good match (75.2/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+- **Jacob Trenskow** — 72.8/100 (good match, confidence medium)
+  - Jacob Trenskow → Lens at ST: good match (72.8/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+- **Dion Drena Beljo** — 72.5/100 (good match, confidence medium)
+  - Dion Drena Beljo → Lens at ST: good match (72.5/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
 
 ## Sources
 
