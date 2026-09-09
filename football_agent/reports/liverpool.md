@@ -138,10 +138,11 @@ Budget: €n/am · wage ceiling €n/am net
 - **Noah Atubolu** — 80.5/100 (strong match, confidence medium)
   - Noah Atubolu → Liverpool at GK: strong match (80.5/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
+- **Mostafa Shobeir** — 68.8/100 (good match, confidence medium)
+  - Mostafa Shobeir → Liverpool at GK: good match (68.8/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
+  - ⚠ Current club publicly not selling.
 - **Alex Meret** — 65.0/100 (possible, confidence medium)
   - Alex Meret → Liverpool at GK: possible (65.0/100). Driven by financial feasibility and positional need; weakest area is statistical fit (38).
-- **Raúl Rangel** — 57.6/100 (possible, confidence medium)
-  - Raúl Rangel → Liverpool at GK: possible (57.6/100). Driven by financial feasibility and positional need; weakest area is statistical fit (6).
 
 ## Sources
 

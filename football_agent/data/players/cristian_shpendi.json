@@ -1,0 +1,66 @@
+{
+  "player_id": "cristian_shpendi",
+  "name": "Cristian Shpendi",
+  "age": 22,
+  "date_of_birth": "2003-05-19",
+  "nationality": ["ALB"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Cesena",
+  "current_club_league": "Serie B",
+  "contract_until": 2028,
+  "market_value_eur_m": 5.1,
+  "estimated_fee_eur_m": 9,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Serie B",
+    "apps": 31,
+    "starts": null,
+    "minutes": null,
+    "goals": 10,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["young number 9", "strong long-term underlying record (41 goals in 121 career apps)", "Albania senior international candidate", "22 years old with long contract already signed"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["it", "sq"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://de.soccerway.com/spieler/shpendi-cristian/4MMcPxki",
+    "https://global.espn.com/football/player/_/id/323973/cristian-shpendi"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Long contract (to 2028) reduces near-term availability likelihood, but strong age/output profile (22, 10 goals/4 assists in Serie B 2025/26) makes him a plausible buy-to-develop target if Cesena entertain offers. Market value taken from a Soccerway snippet, not a direct Transfermarkt page visit."
+  }
+}

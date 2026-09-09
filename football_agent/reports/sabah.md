@@ -95,11 +95,11 @@ Budget: €1m · wage ceiling €0.4m net
 
 - **Kevin Nisbet** — 68.4/100 (good match, confidence medium)
   - Kevin Nisbet → Sabah at ST: good match (68.4/100). Driven by positional need and financial feasibility; weakest area is age & contract (45).
+- **Khanyisa Mayo** — 66.7/100 (good match, confidence medium)
+  - Khanyisa Mayo → Sabah at ST: good match (66.7/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 - **Nicolò Tresoldi** — 65.5/100 (possible, confidence medium)
   - Nicolò Tresoldi → Sabah at ST: possible (65.5/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
-- **Andrej Ilić** — 63.7/100 (possible, confidence medium)
-  - Andrej Ilić → Sabah at ST: possible (63.7/100). Driven by positional need and statistical fit; weakest area is financial feasibility (10).
 
 ### GK — low priority
 Profile: experienced European-level No.1 if Pokatilov struggles  
@@ -109,10 +109,11 @@ Budget: €0.5m · wage ceiling €0.3m net
 - **Noah Atubolu** — 58.0/100 (possible, confidence medium)
   - Noah Atubolu → Sabah at GK: possible (58.0/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
+- **Mostafa Shobeir** — 47.5/100 (weak, confidence medium)
+  - Mostafa Shobeir → Sabah at GK: weak (47.5/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
+  - ⚠ Current club publicly not selling.
 - **Alex Meret** — 45.0/100 (weak, confidence medium)
   - Alex Meret → Sabah at GK: weak (45.0/100). Driven by positional need and statistical fit; weakest area is financial feasibility (10).
-- **Raúl Rangel** — 37.4/100 (no fit, confidence medium)
-  - Raúl Rangel → Sabah at GK: no fit (37.4/100). Driven by positional need and tactical / system fit; weakest area is financial feasibility (0).
 
 ## Sources
 

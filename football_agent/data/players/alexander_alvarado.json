@@ -1,0 +1,66 @@
+{
+  "player_id": "alexander_alvarado",
+  "name": "Alexander Alvarado",
+  "age": 26,
+  "date_of_birth": "1999-04-21",
+  "nationality": ["ECU"],
+  "position": "AM",
+  "secondary_positions": ["RW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "LDU Quito",
+  "current_club_league": "Ecuadorian Serie A",
+  "contract_until": 2027,
+  "market_value_eur_m": 1.5,
+  "estimated_fee_eur_m": 3,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Ecuadorian Serie A",
+    "apps": 35,
+    "starts": null,
+    "minutes": null,
+    "goals": 4,
+    "assists": 6,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["creative attacking midfielder/forward", "LDU Quito's leading assist provider (per separate season summary)", "returned from loan Dec 2024"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.flashscore.com/player/alvarado-alexander/fg3nG9f1/",
+    "https://nl.soccerway.com/speler/alvarado-alexander/fg3nG9f1"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Position listed as 'Forward' by Soccerway despite playing style described as creative/wide attacking midfielder in other snippets; used AM as best fit. 2025 season stats (35 apps/4 goals/6 assists) may refer to a full calendar year rather than strictly the 2025/26 window."
+  }
+}

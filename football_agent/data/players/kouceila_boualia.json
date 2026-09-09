@@ -1,0 +1,71 @@
+{
+  "player_id": "kouceila_boualia",
+  "name": "Kouceila Boualia",
+  "age": 24,
+  "date_of_birth": "2001-03-14",
+  "nationality": [
+    "ALG"
+  ],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Esperance Sportive de Tunis",
+  "current_club_league": "Ligue Professionnelle 1",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 4,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Ligue Professionnelle 1",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 6,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Algerian forward",
+      "joined Esperance for a reported EUR620k fee from JS Kabylie (Aug 2025)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://africasoccer.com/algerian-forward-kouceila-boualia-commits-to-esperance-sportive-de-tunis-on-four-year-deal/",
+    "https://www.365scores.com/football/player/kouceila-boualia-96381"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB 14 March 2001. Signed a four-year deal with Esperance Tunis from JS Kabylie on 25 Aug 2025 for a reported EUR620k transfer fee. Joint-top scorer for Esperance in 2025/26 (6 goals) as of search date. Contract runs approx. to 2029 (four-year deal from Aug 2025) but exact year not explicitly confirmed -> contract_until left null."
+  }
+}

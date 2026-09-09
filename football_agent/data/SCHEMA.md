@@ -92,6 +92,13 @@ numbers.
   "off_pitch": {"languages": ["en", "fr"], "family_situation": "public info only or null",
                 "public_statements": ["short, sourced summaries of notable public statements"],
                 "commercial_profile": "social reach / sponsor appeal, if known",
+                "happiness_status": "content | unsettled | wants_move | null (null unless a public statement, agent quote or credible report supports it)",
+                "happiness_notes": "one or two sentences on the evidence behind happiness_status, or null",
+                "preferred_clubs": [
+                  {"club": "club name as publicly stated (need not be one of the 36 pilot clubs)",
+                   "note": "short context, e.g. 'stated boyhood-club interest' or 'agent quoted seeking Premier League move'",
+                   "source": "https://..."}
+                ],
                 "notes": "public record only; no speculation"},
   "sources": ["https://..."], "as_of": "2026-09-02",
   "data_quality": {"confidence": "medium", "notes": "..."}

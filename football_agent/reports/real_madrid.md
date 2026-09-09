@@ -89,10 +89,11 @@ Budget: €40m · wage ceiling €6m net
 - **Noah Atubolu** — 78.3/100 (strong match, confidence medium)
   - Noah Atubolu → Real Madrid at GK: strong match (78.3/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
+- **Mostafa Shobeir** — 69.1/100 (good match, confidence medium)
+  - Mostafa Shobeir → Real Madrid at GK: good match (69.1/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
+  - ⚠ Current club publicly not selling.
 - **Alex Meret** — 60.5/100 (possible, confidence medium)
   - Alex Meret → Real Madrid at GK: possible (60.5/100). Driven by financial feasibility and positional need; weakest area is statistical fit (38).
-- **Raúl Rangel** — 60.0/100 (possible, confidence medium)
-  - Raúl Rangel → Real Madrid at GK: possible (60.0/100). Driven by financial feasibility and positional need; weakest area is statistical fit (6).
 
 ### CB — medium priority
 Profile: right-footed aerial CB 23-27  

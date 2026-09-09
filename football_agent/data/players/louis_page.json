@@ -1,0 +1,68 @@
+{
+  "player_id": "louis_page",
+  "name": "Louis Page",
+  "age": 18,
+  "date_of_birth": "2008-07-10",
+  "nationality": ["ENG"],
+  "position": "CM",
+  "secondary_positions": ["AM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Leicester City",
+  "current_club_league": "EFL Championship",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 12,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "for sale",
+  "stats_2025_26": {
+    "competition": "EFL Championship",
+    "apps": 18,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["academy graduate", "central midfielder", "England youth international (U20)", "in-demand teenager"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Publicly reported to have expressed a preference to join Manchester United during the 2026 summer window; talks did not conclude by deadline (SI.com, Aug 2026)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.si.com/soccer/man-utd-wait-teenage-star-louis-page",
+    "https://www.espn.com/soccer/player/_/id/391457/louis-page",
+    "https://en.wikipedia.org/wiki/Louis_Page_(footballer,_born_2008)",
+    "https://se.soccerway.com/spelare/page-louis/4GTMXosB"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Contract length and exact fee demand not verified in this search; Leicester reportedly want a seven-figure fee for a permanent sale but no confirmed figure was found, so estimated_fee_eur_m is the researcher's rough estimate for an 18-year-old highly-rated Championship academy midfielder linked with Man Utd/Arsenal/Aston Villa. Height/foot not found. Market value not sourced from Transfermarkt directly."
+  }
+}

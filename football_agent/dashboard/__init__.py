@@ -107,6 +107,10 @@ def export_data(include_demo: bool = False) -> dict:
             "mental": p.mental,
             "inj": p.injury_history,
             "langs": p.languages,
+            "statements": p.public_statements,
+            "happiness": p.happiness_status,
+            "happiness_notes": p.happiness_notes,
+            "wishlist": p.preferred_clubs,
             "sources": p.sources,
             "clubs": [r.to_dict() for r in e.rank_clubs_for_player(pid, limit=6)],
             "bonus": {

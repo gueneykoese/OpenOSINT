@@ -87,13 +87,12 @@ Profile: physical second striker able to start 10-15 games, 23-29
 Why: Icardi departure (contract ended) leaves Osimhen without a verified like-for-like alternative  
 Budget: €15m · wage ceiling €4m net
 
+- **Nicolás López** — 78.6/100 (strong match, confidence medium)
+  - Nicolás López → Galatasaray at ST: strong match (78.6/100). Driven by statistical fit and positional need; weakest area is age & contract (45).
 - **Andrej Ilić** — 75.6/100 (good match, confidence medium)
   - Andrej Ilić → Galatasaray at ST: good match (75.6/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
 - **Dion Drena Beljo** — 74.5/100 (good match, confidence medium)
   - Dion Drena Beljo → Galatasaray at ST: good match (74.5/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
-- **Gorka Guruzeta** — 73.1/100 (good match, confidence medium)
-  - Gorka Guruzeta → Galatasaray at ST: good match (73.1/100). Driven by positional need and statistical fit; weakest area is age & contract (30).
-  - ⚠ Current club publicly not selling.
 
 ### CB — medium priority
 Profile: right-footed, quick, UCL-experienced, 24-29  
@@ -102,11 +101,10 @@ Budget: €12m · wage ceiling €3m net
 
 - **Fikayo Tomori** — 75.0/100 (good match, confidence medium)
   - Fikayo Tomori → Galatasaray at CB: good match (75.0/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
+- **Thabo Moloisane** — 74.1/100 (good match, confidence medium)
+  - Thabo Moloisane → Galatasaray at CB: good match (74.1/100). Driven by positional need and financial feasibility; weakest area is tactical / system fit (50).
 - **Craig Halkett** — 72.6/100 (good match, confidence medium)
   - Craig Halkett → Galatasaray at CB: good match (72.6/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
-  - ⚠ Current club publicly not selling.
-- **Pierre Kalulu** — 71.1/100 (good match, confidence high)
-  - Pierre Kalulu → Galatasaray at CB: good match (71.1/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
 
 ### GK — low priority
@@ -117,10 +115,11 @@ Budget: €3m · wage ceiling €1m net
 - **Noah Atubolu** — 59.1/100 (possible, confidence medium)
   - Noah Atubolu → Galatasaray at GK: possible (59.1/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
+- **Mostafa Shobeir** — 48.7/100 (weak, confidence medium)
+  - Mostafa Shobeir → Galatasaray at GK: weak (48.7/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
+  - ⚠ Current club publicly not selling.
 - **Alex Meret** — 46.1/100 (weak, confidence medium)
   - Alex Meret → Galatasaray at GK: weak (46.1/100). Driven by positional need and tactical / system fit; weakest area is financial feasibility (10).
-- **Raúl Rangel** — 41.8/100 (weak, confidence medium)
-  - Raúl Rangel → Galatasaray at GK: weak (41.8/100). Driven by positional need and tactical / system fit; weakest area is financial feasibility (0).
 
 ## Sources
 

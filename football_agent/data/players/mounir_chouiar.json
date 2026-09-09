@@ -1,0 +1,75 @@
+{
+  "player_id": "mounir_chouiar",
+  "name": "Mounir Chouiar",
+  "age": 27,
+  "date_of_birth": "1999-01-23",
+  "nationality": [
+    "MAR"
+  ],
+  "position": "LW",
+  "secondary_positions": [
+    "AM"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "RS Berkane",
+  "current_club_league": "Botola Pro",
+  "contract_until": null,
+  "market_value_eur_m": 2.1,
+  "estimated_fee_eur_m": 4,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Botola Pro",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 6,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left winger",
+      "crossing specialist",
+      "Morocco 'A prime' international",
+      "previous European experience (Lens, Dijon, Istanbul Basaksehir, Ludogorets, FC Zurich)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/769169/mounir-chouiar",
+    "https://en.wikipedia.org/wiki/Mounir_Chouiar"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB 23 Jan 1999. Born in France, represents the Morocco 'A' (locally-based) national team. Market value EUR2.1m (FotMob). Leading RS Berkane scorer in 2025/26 with 6 league goals as of search date. Prior European clubs (Lens, Dijon, Istanbul Basaksehir, Ludogorets Razgrad, FC Zurich loan) indicate genuine re-export potential to Europe. Contract length unverified -> null."
+  }
+}

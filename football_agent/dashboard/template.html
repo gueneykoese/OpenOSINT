@@ -472,8 +472,22 @@ function showPlayer(id, cid){
   $('#playerProfile').innerHTML=`<div class="offer"><div><b>${p.fee==null?'—':p.fee}</b><span>bonservis M€ (tahmin)</span></div><div><b>${p.wage==null?'—':p.wage}</b><span>net maaş M€/yıl</span></div><div><b>${sal==null?'—':(base*0.02).toFixed(2)}</b><span>bizim ücret %2, M€</span></div><div><b>${sal==null?'—':(base*0.10-base*0.02).toFixed(2)}</b><span>taraflara kalan vs %10</span></div></div><p class="sub" style="margin-top:6px">Brüt maaş ≈ net × 1.9 varsayımı, 4 yıl. Kesin rakam kulübün ülkesindeki vergiyle hesaplanır.</p><dl class="kv"><dt>Piyasa / bonservis</dt><dd>${na(p.fee)} M€ tahmini · net maaş ${na(p.wage)} M€</dd><dt>Diller</dt><dd>${p.langs.map(esc).join(', ')||'—'}</dd><dt>Sakatlık kaydı</dt><dd>${p.inj.length?p.inj.map(i=>`${esc(i.type)} (${esc(i.season)}, ${na(i.days_out)} gün)`).join('; '):'belgelenmiş yok'}</dd></dl>
     <div class="dims" style="grid-template-columns:120px 1fr 30px;margin-top:10px">${Object.keys(ml).map(k=>`<div>${ml[k]}</div><div class="bar"><i style="width:${m[k]!=null?m[k]/5*100:0}%;${m[k]==null?'opacity:.2':''}"></i></div><div class="v">${m[k]==null?'—':m[k]+'/5'}</div></div>`).join('')}</div>
     <p class="sub" style="margin-top:6px">Mental profil yalnızca kamuya açık kayıttan (kartlar, belgelenmiş anlaşmazlıklar, hoca demeçleri); boş = kayıt yok.</p>
+    ${happinessBlock(p)}
     <details><summary>Veri notu ve kaynaklar (${(p.sources||[]).length})</summary><p class="sub">${esc(p.notes)}</p><ul class="plain" style="font-size:11.5px;word-break:break-all">${(p.sources||[]).map(x=>`<li><a href="${esc(x)}" target="_blank" rel="noopener">${esc(x)}</a></li>`).join('')}</ul></details>`;
   bindTips($('#view-player'));
+}
+const HAPPINESS_LABEL = {content:['Kulübünden memnun','good'], unsettled:['Tedirgin / net değil','warn'], wants_move:['Ayrılmak istiyor','crit']};
+function happinessBlock(p){
+  const [label, cls] = HAPPINESS_LABEL[p.happiness] || ['Kayıt yok','ink3'];
+  const badge = `<span class="tag" style="${p.happiness?`border-color:var(--${cls});color:var(--${cls})`:''}">${esc(label)}</span>`;
+  const wl = (p.wishlist||[]).length
+    ? `<ul class="plain" style="font-size:12.5px;margin-top:4px">${p.wishlist.map(w=>`<li><b>${esc(w.club)}</b>${w.note?' — '+esc(w.note):''}${w.source?` <a href="${esc(w.source)}" target="_blank" rel="noopener" style="font-size:11px">kaynak</a>`:''}</li>`).join('')}</ul>`
+    : '<p class="empty" style="margin-top:4px">Kamuya açık kayıtta belirtilmiş bir tercih yok.</p>';
+  const st = (p.statements||[]).length
+    ? `<details style="margin-top:6px"><summary>Kamuya açık demeçler (${p.statements.length})</summary><ul class="plain" style="font-size:12px">${p.statements.map(s=>`<li>${esc(s)}</li>`).join('')}</ul></details>` : '';
+  return `<div class="review" style="margin-top:10px"><b>Mutluluk durumu:</b> ${badge}${p.happiness_notes?` <span class="sub">${esc(p.happiness_notes)}</span>`:''}
+    <p class="sub" style="margin-top:8px;margin-bottom:0"><b>Tercih ettiği kulüpler (gitmek istediği):</b></p>${wl}${st}
+    <p class="sub" style="margin-top:6px">Yalnızca kamuya açık demeç/menajer beyanı/haber kaydı varsa doldurulur; aksi halde boş bırakılır.</p></div>`;
 }
 
 function renderBonus(p, r){

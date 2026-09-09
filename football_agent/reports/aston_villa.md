@@ -139,15 +139,15 @@ Profile: creative No.10 / carrier with end product
 Why: Rogers sold; Manzambi signed as the successor but is 20 and injured - a secondary creative option beyond Buendia (29) would de-risk.  
 Budget: €25m · wage ceiling €4m net
 
+- **Callum O'Hare** — 72.0/100 (good match, confidence medium)
+  - Callum O'Hare → Aston Villa at AM: good match (72.0/100). Driven by statistical fit and financial feasibility; weakest area is positional need (48).
+  - ⚠ Would block a young starter (Johan Manzambi, 20) — check pathway politics.
 - **Ludovic Blas** — 70.0/100 (good match, confidence medium)
   - Ludovic Blas → Aston Villa at AM: good match (70.0/100). Driven by statistical fit and financial feasibility; weakest area is positional need (48).
   - ⚠ Would block a young starter (Johan Manzambi, 20) — check pathway politics.
 - **Romain Del Castillo** — 69.3/100 (good match, confidence medium)
   - Romain Del Castillo → Aston Villa at AM: good match (69.3/100). Driven by statistical fit and financial feasibility; weakest area is positional need (30).
   - ⚠ Current club publicly not selling.
-  - ⚠ Would block a young starter (Johan Manzambi, 20) — check pathway politics.
-- **Nikola Vlasic** — 69.2/100 (good match, confidence medium)
-  - Nikola Vlasic → Aston Villa at AM: good match (69.2/100). Driven by statistical fit and financial feasibility; weakest area is positional need (48).
   - ⚠ Would block a young starter (Johan Manzambi, 20) — check pathway politics.
 
 ## Sources

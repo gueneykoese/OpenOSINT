@@ -1,0 +1,66 @@
+{
+  "player_id": "danel_sinani",
+  "name": "Danel Sinani",
+  "age": 29,
+  "date_of_birth": "1997-04-05",
+  "nationality": ["LUX"],
+  "position": "AM",
+  "secondary_positions": ["LW"],
+  "preferred_foot": "left",
+  "height_cm": 185,
+  "current_club": "FC St. Pauli",
+  "current_club_league": "2. Bundesliga",
+  "contract_until": null,
+  "market_value_eur_m": 1.9,
+  "estimated_fee_eur_m": 3,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": null,
+    "starts": null,
+    "minutes": 2068,
+    "goals": 5,
+    "assists": 3,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Luxembourg international", "attacking midfielder/left winger", "joint top scorer 2025/26 for St Pauli", "contract extension talks failed, set to leave summer 2026"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr", "de", "en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Danel_Sinani",
+    "https://www.rotowire.com/soccer/player/danel-sinani-30312"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "One source stated he 'will leave St Pauli this summer' (2026) after failed contract talks - implying he may already have left as a free agent by this research date; current_club and contract_until kept cautious (contract_until null) since his post-departure destination was not confirmed in this search. St Pauli were relegated from the Bundesliga to 2. Bundesliga for 2026/27, hence league updated. Age (29) above priority band."
+  }
+}

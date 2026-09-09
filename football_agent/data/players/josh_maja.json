@@ -1,0 +1,67 @@
+{
+  "player_id": "josh_maja",
+  "name": "Josh Maja",
+  "age": 27,
+  "date_of_birth": "1998-12-27",
+  "nationality": ["NGA"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "West Bromwich Albion",
+  "current_club_league": "EFL Championship",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 5,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "EFL Championship",
+    "apps": 16,
+    "starts": 9,
+    "minutes": 785,
+    "goals": 1,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["experienced Championship/Bundesliga striker", "limited game time and output in 2025/26"],
+    "best_system": [],
+    "weak_in": ["goal output down significantly from career norm in 2025/26"]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Josh_Maja",
+    "https://www.soccerbase.com/players/player.sd?player_id=96487",
+    "https://dk.soccerway.com/spiller/maja-josh/8GTKm3hc"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "One source listed his contract as expiring 30 June 2026, which conflicts with the 'as_of' date (Sept 2026) implying he already played into 2025/26 there - contract_until therefore set to null pending clarification rather than guessing a renewal. Low output in 2025/26 (1 goal, 1 assist in 16 apps) makes him a lower priority, speculative depth/reclamation target rather than a marquee one."
+  }
+}

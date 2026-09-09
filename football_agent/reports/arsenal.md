@@ -91,13 +91,13 @@ Profile: left-footed or inverted left winger with 10+ goal output, 21-26, PL-ada
 Why: Trossard sold, Martinelli managed 1 PL goal and his deal ends 2027; Eze injured; Tzolis unproven  
 Budget: €60m · wage ceiling €7m net
 
+- **Oswin Appollis** — 84.6/100 (strong match, confidence medium)
+  - Oswin Appollis → Arsenal at LW: strong match (84.6/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
 - **Ludovic Blas** — 81.9/100 (strong match, confidence medium)
   - Ludovic Blas → Arsenal at LW: strong match (81.9/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
 - **Christoph Baumgartner** — 80.0/100 (strong match, confidence medium)
   - Christoph Baumgartner → Arsenal at LW: strong match (80.0/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
-- **Paul Nebel** — 79.8/100 (strong match, confidence medium)
-  - Paul Nebel → Arsenal at LW: strong match (79.8/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### RB — medium priority
 Profile: athletic right-back comfortable inverting, 22-27, strong 1v1 defender  
@@ -135,10 +135,11 @@ Budget: €25m · wage ceiling €3m net
 - **Noah Atubolu** — 74.4/100 (good match, confidence medium)
   - Noah Atubolu → Arsenal at GK: good match (74.4/100). Driven by statistical fit and financial feasibility; weakest area is positional need (53).
   - ⚠ Current club publicly not selling.
+- **Mostafa Shobeir** — 63.7/100 (possible, confidence medium)
+  - Mostafa Shobeir → Arsenal at GK: possible (63.7/100). Driven by financial feasibility and statistical fit; weakest area is positional need (39).
+  - ⚠ Current club publicly not selling.
 - **Alex Meret** — 54.8/100 (possible, confidence medium)
   - Alex Meret → Arsenal at GK: possible (54.8/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (21).
-- **Raúl Rangel** — 52.5/100 (weak, confidence medium)
-  - Raúl Rangel → Arsenal at GK: weak (52.5/100). Driven by financial feasibility and tactical / system fit; weakest area is statistical fit (6).
 
 ## Sources
 

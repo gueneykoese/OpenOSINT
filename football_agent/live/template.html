@@ -140,19 +140,22 @@ function render(){
   const handled=(mm,ins)=>subsDone.find(s=>s.minute<mm && s.key===ins.key && (s.lane||'')===((ins.metrics||{}).lane||''));
   for(let i=0;i<=idx;i++){ for(const ins of frames[i].insights){ const fm=frames[i].minute; const k=`${fm}:${ins.key}:${(ins.players||[]).join(',')}`;
       if((ins.players||[]).some(n=>offNames(fm).includes(n))) { if(seenIns.has(k)){seenIns.get(k).remove();seenIns.delete(k);} continue; }  // player already off: not an insight any more
-      const hb=handled(fm,ins); if(hb && fm-hb.minute<15){ if(seenIns.has(k)){seenIns.get(k).remove();seenIns.delete(k);} continue; }  // give the change 15 minutes
-      if(!seenIns.has(k)){ const el=insEl(ins, fm, hb); seenIns.set(k,el); feed.prepend(el); } } }
+      const hb=handled(fm,ins);
+      if(hb && fm-hb.minute<15){ if(seenIns.has(k)){seenIns.get(k).remove();seenIns.delete(k);} continue; }  // give the change 15 minutes
+      let verdict=null;
+      if(hb){ verdict=subVerdict(hb,ins,frames[i]); if(verdict.resolved){ if(seenIns.has(k)){seenIns.get(k).remove();seenIns.delete(k);} continue; } }
+      if(!seenIns.has(k)){ const el=insEl(ins, fm, hb, verdict); seenIns.set(k,el); feed.prepend(el); } } }
   // remove insights from the future (when scrubbing back)
   for(const [k,el] of seenIns){ const mm=parseFloat(k.split(':')[0]); if(mm>m){el.remove();seenIns.delete(k);} }
   if(!feed.children.length) feed.innerHTML='<p class="empty">Henüz içgörü yok; ilk 10 dakika veri toplanıyor.</p>';
   $('#insCount').textContent=`${seenIns.size} kayıt`;
   $('#subsUsed').textContent=`Değişiklik ${subsDone.filter(s=>s.minute<=m).length}/5`;
 }
-function insEl(ins, minute, handledBy){
+function insEl(ins, minute, handledBy, verdict){
   const el=document.createElement('div'); el.className='ins '+ins.severity;
   if(handledBy){ el.style.opacity='.75'; }
   const subs=(ins.subs||[]).map(s=>`<div class="sub"><span class="nm">${esc(s.player)} <span class="tag">${esc(s.position)}</span>${s.represented_by_us?' <span class="tag" style="color:var(--accent-ink);border-color:var(--accent)">temsil</span>':''}<small>${esc((s.reasons||[]).join(' · '))}${s.replaces?` · yerine: ${esc(s.replaces)}`:''}</small></span><span class="sc">${Math.round(s.score)}</span><button data-on="${esc(s.player)}" data-off="${esc(s.replaces||'')}" data-pos="${esc(ins.position||s.position)}" data-key="${esc(ins.key)}" data-lane="${esc((ins.metrics||{}).lane||'')}" data-title="${esc(ins.title)}" data-min="${minute}">Oyuna al</button></div>`).join('');
-  const hb = handledBy ? `<div class="ev" style="color:var(--accent-ink)">↳ ${Math.floor(handledBy.minute)}' müdahale edildi (${esc(handledBy.on)} girdi, ${esc(handledBy.off)} çıktı) ama sorun 15 dk sonra hâlâ sürüyor: değişiklik yetmedi, şekil değişikliği veya ikinci hamle düşün.</div>` : '';
+  const hb = handledBy ? `<div class="ev" style="color:var(--accent-ink)">↳ ${Math.floor(handledBy.minute)}' müdahale edildi (${esc(handledBy.on)} girdi, ${esc(handledBy.off)} çıktı). ${esc((verdict&&verdict.note)||'')}</div>` : '';
   el.innerHTML=`<div class="h"><b>${esc(ins.title)}</b><span><span class="tag ${ins.severity}">${ins.severity==='act'?'müdahale':ins.severity==='watch'?'izle':'bilgi'}</span> <span class="min">${Math.floor(minute)}'</span></span></div><div class="ev">${esc(ins.evidence)}</div><div class="sg">→ ${esc(ins.suggestion)}</div>${hb}${handledBy?'':subs}`;
   el.querySelectorAll('button[data-on]').forEach(b=>b.addEventListener('click',()=>makeSub(b)));
   return el;
@@ -177,6 +180,25 @@ function projection(m){ const eff={laneMult:{}, ppdaPull:0, label:false};
 function adjLanes(frame, lanes){ const e=projection(frame.minute); const out={}; Object.entries(lanes).forEach(([l,n])=>{ out[l]=Math.round(n*(e.laneMult[l]??1)); }); return out; }
 function adjPpda(frame){ const t=frame.teams[F]; const e=projection(frame.minute); if(t.ppda==null||!e.ppdaPull) return t.ppda; const ks=Object.keys(t.windows).map(Number).sort((a,b)=>a-b); const w0=t.windows[ks[0]], w1=t.windows[ks[1]]||w0; const o=frame.teams[OPP].windows; const base=((o[ks[0]]||{passes:0}).passes+(o[ks[1]]||{passes:0}).passes)/Math.max(1,(w0.def_actions||0)+(w1.def_actions||0)); return Math.round((t.ppda-(t.ppda-base)*e.ppdaPull)*10)/10; }
 function laneShare(frame, lane){ const w=frame.teams[OPP].windows; const k=String(Math.max(...Object.keys(w).map(Number))); const l=adjLanes(frame, w[k].attacks_by_lane||{}); const tot=Object.values(l).reduce((a,b)=>a+b,0); return tot? (l[lane]||0)/tot : null; }
+// Honest re-check at the 15-minute mark: the recorded feed can't react to a substitution, so the raw
+// insight condition will almost always still be true. Re-evaluate using the same PROJECTED (modelled)
+// effect shown elsewhere in the UI, against the analyzer's own trigger threshold, instead of treating
+// "still present in the unmodified recording" as proof the substitution failed.
+function subVerdict(hb, ins, frame){
+  if(ins.key==='flank_overload' && ins.metrics && ins.metrics.lane){
+    const share=laneShare(frame, ins.metrics.lane);
+    if(share==null) return {resolved:false, note:'Kayıtlı akış bu değişikliğin etkisini geriye yansıtmıyor; gerçek etki yalnızca canlı veriyle ölçülür.'};
+    if(share<0.45) return {resolved:true};
+    return {resolved:false, note:`Modellenen etkiyle bile rakip payı hâlâ %${Math.round(share*100)} (eşik %45) — kayıtlı akış müdahaleyi tam yansıtmaz, ama şekil değişikliği veya ikinci hamle değerlendirilebilir.`};
+  }
+  if(ins.key==='press_collapse'){
+    const base=(ins.metrics||{}).ppda_baseline; const now=adjPpda(frame);
+    if(base==null||now==null) return {resolved:false, note:'Kayıtlı akış bu değişikliğin etkisini geriye yansıtmıyor; gerçek etki yalnızca canlı veriyle ölçülür.'};
+    if(now<base*1.35) return {resolved:true};
+    return {resolved:false, note:`Modellenen etkiyle bile PPDA ${now.toFixed(1)} (eşik ${(base*1.35).toFixed(1)}) — kayıtlı akış müdahaleyi tam yansıtmaz, ama şekil değişikliği veya ikinci hamle değerlendirilebilir.`};
+  }
+  return {resolved:false, note:'Bu tür değişikliğin etkisi için modelleme yok; kayıtlı akış müdahaleyi geriye yansıtmaz. Gerçek etki yalnızca canlı veriyle ölçülür.'};
+}
 function renderMoves(){
   const m=frameAt(idx).minute;
   $('#moves').innerHTML = subsDone.length ? subsDone.map(s=>{ let eff='';

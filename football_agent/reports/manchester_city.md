@@ -121,11 +121,10 @@ Budget: €40m · wage ceiling €6m net
 - **Deniz Undav** — 72.1/100 (good match, confidence medium)
   - Deniz Undav → Man City at ST: good match (72.1/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
   - ⚠ Current club publicly not selling.
+- **Nicolás López** — 70.4/100 (good match, confidence medium)
+  - Nicolás López → Man City at ST: good match (70.4/100). Driven by statistical fit and financial feasibility; weakest area is cultural adaptation (39).
 - **Andrej Ilić** — 70.3/100 (good match, confidence medium)
   - Andrej Ilić → Man City at ST: good match (70.3/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
-- **Ayase Ueda** — 69.6/100 (good match, confidence medium)
-  - Ayase Ueda → Man City at ST: good match (69.6/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
-  - ⚠ Current club publicly not selling.
 
 ## Sources
 

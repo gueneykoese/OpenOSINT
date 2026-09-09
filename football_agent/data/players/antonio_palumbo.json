@@ -1,0 +1,66 @@
+{
+  "player_id": "antonio_palumbo",
+  "name": "Antonio Palumbo",
+  "age": 29,
+  "date_of_birth": "1996-08-06",
+  "nationality": ["ITA"],
+  "position": "AM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Palermo",
+  "current_club_league": "Serie B",
+  "contract_until": 2028,
+  "market_value_eur_m": 2.0,
+  "estimated_fee_eur_m": 4,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Serie B",
+    "apps": null,
+    "starts": null,
+    "minutes": 1857,
+    "goals": 1,
+    "assists": 10,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["playmaking attacking midfielder", "Serie B's leading assist provider bracket (10 assists 2025/26)", "experienced Serie B/A operator"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["it"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://us.soccerway.com/player/palumbo-antonio/K2oPRv02/",
+    "https://www.fotmob.com/players/571306/antonio-palumbo"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Age (29) is above the 19-26 priority band; included for elite chance-creation output (10 assists) as part of Palermo's Serie A promotion push. Market value EUR 2.0m from a Soccerway/FotMob snippet, not confirmed directly on Transfermarkt's own page."
+  }
+}

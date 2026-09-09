@@ -124,16 +124,15 @@ Profile: physical alternative to Højlund
 Why: Lukaku and Simeone left; Lucca retained as the only cover  
 Budget: €n/am · wage ceiling €n/am net
 
+- **Nicolás López** — 70.8/100 (good match, confidence medium)
+  - Nicolás López → Napoli at ST: good match (70.8/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
+  - ⚠ Would block a young starter (Rasmus Højlund, 23) — check pathway politics.
 - **Ayase Ueda** — 69.4/100 (good match, confidence medium)
   - Ayase Ueda → Napoli at ST: good match (69.4/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
   - ⚠ Current club publicly not selling.
   - ⚠ Would block a young starter (Rasmus Højlund, 23) — check pathway politics.
 - **Andrej Ilić** — 69.3/100 (good match, confidence medium)
   - Andrej Ilić → Napoli at ST: good match (69.3/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
-  - ⚠ Would block a young starter (Rasmus Højlund, 23) — check pathway politics.
-- **Gorka Guruzeta** — 68.4/100 (good match, confidence medium)
-  - Gorka Guruzeta → Napoli at ST: good match (68.4/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
-  - ⚠ Current club publicly not selling.
   - ⚠ Would block a young starter (Rasmus Højlund, 23) — check pathway politics.
 
 ## Sources

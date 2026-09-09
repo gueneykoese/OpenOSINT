@@ -82,24 +82,22 @@ Budget: €8m · wage ceiling €1.2m net
 
 - **Toni Fruk** — 77.6/100 (good match, confidence medium)
   - Toni Fruk → Shakhtar at LW: good match (77.6/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
-- **Matteo Cancellieri** — 75.5/100 (good match, confidence medium)
-  - Matteo Cancellieri → Shakhtar at LW: good match (75.5/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Seedy Jatta** — 74.9/100 (good match, confidence medium)
-  - Seedy Jatta → Shakhtar at LW: good match (74.9/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Oswin Appollis** — 76.5/100 (good match, confidence medium)
+  - Oswin Appollis → Shakhtar at LW: good match (76.5/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (5).
+- **Shandre Campbell** — 76.2/100 (good match, confidence medium)
+  - Shandre Campbell → Shakhtar at LW: good match (76.2/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### AM — medium priority
 Profile: creative No.10/No.8 who can play in a 4-3-3 interior role  
 Why: Sudakov's permanent departure to Benfica leaves Pedrinho/Bondarenko as the main creators  
 Budget: €8m · wage ceiling €1.2m net
 
+- **Danel Sinani** — 74.4/100 (good match, confidence medium)
+  - Danel Sinani → Shakhtar at AM: good match (74.4/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
 - **Toni Fruk** — 74.0/100 (good match, confidence medium)
   - Toni Fruk → Shakhtar at AM: good match (74.0/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
-- **Romain Del Castillo** — 70.8/100 (good match, confidence medium)
-  - Romain Del Castillo → Shakhtar at AM: good match (70.8/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
-  - ⚠ Current club publicly not selling.
-- **Luka Stojković** — 70.2/100 (good match, confidence medium)
-  - Luka Stojković → Shakhtar at AM: good match (70.2/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (20).
-  - ⚠ Documented discipline record (see mental_profile.notes).
+- **Andre Brooks** — 73.0/100 (good match, confidence medium)
+  - Andre Brooks → Shakhtar at AM: good match (73.0/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
 
 ### RB — medium priority
 Profile: athletic right-back able to defend UCL wingers, 22-27  
@@ -124,8 +122,8 @@ Budget: €10m · wage ceiling €1.5m net
   - Andrej Ilić → Shakhtar at ST: good match (76.8/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
 - **Sōta Nakamura** — 75.1/100 (good match, confidence medium)
   - Sōta Nakamura → Shakhtar at ST: good match (75.1/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
-- **Seedy Jatta** — 71.3/100 (good match, confidence medium)
-  - Seedy Jatta → Shakhtar at ST: good match (71.3/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Nicolás López** — 74.1/100 (good match, confidence medium)
+  - Nicolás López → Shakhtar at ST: good match (74.1/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (14).
 
 ## Sources
 

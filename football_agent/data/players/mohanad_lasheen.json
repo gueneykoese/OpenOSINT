@@ -1,0 +1,73 @@
+{
+  "player_id": "mohanad_lasheen",
+  "name": "Mohanad Lasheen",
+  "age": 30,
+  "date_of_birth": null,
+  "nationality": [
+    "EGY"
+  ],
+  "position": "CM",
+  "secondary_positions": [
+    "DM"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Pyramids FC",
+  "current_club_league": "Egyptian Premier League",
+  "contract_until": null,
+  "market_value_eur_m": 1.6,
+  "estimated_fee_eur_m": 3,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Egyptian Premier League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "box-to-box midfielder",
+      "multiple CAF Champions League and Egypt Cup winner with Pyramids"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/906944/mohanad-lasheen",
+    "https://en.wikipedia.org/wiki/Mohanad_Lasheen"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Age reported as 30 (soccerway); exact DOB not confirmed -> null. Market value range EUR1.5-2.4m across sources, EUR1.6m used. 2025/26 league stats (apps/goals) not sourced from a single reliable snippet -> null. Won CAF Super Cup 2025/26, Egypt Cup 2025/26 and 2023/24, CAF Champions League 2024/25 with Pyramids."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "player_id": "nicolas_lopez",
+  "name": "Nicolás López",
+  "age": 32,
+  "date_of_birth": "1993-10-01",
+  "nationality": ["URU"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Nacional",
+  "current_club_league": "Liga AUF Uruguaya",
+  "contract_until": 2026,
+  "market_value_eur_m": 1.8,
+  "estimated_fee_eur_m": 3,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Liga AUF Uruguaya",
+    "apps": null,
+    "starts": null,
+    "minutes": 2628,
+    "goals": 21,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["prolific veteran striker", "Nacional's top scorer (21 goals in 2025 Apertura campaign)", "Uruguay senior international (16 caps, 10 goals)", "contract expires Dec 2026"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/362194/nicolas-lopez"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Age (32) well above priority band; included for exceptional 2025 goal output (21 goals) and short remaining contract (31 Dec 2026) making him a low-cost, short-term reinforcement rather than a resale/export project. The 2025/26 stat line quoted (21 goals, 2628 min) is his full 2025 Apertura+Clausura season; the following Apertura 2026 season shows minimal minutes (8 min, 0 goals) per the same source, suggesting a slow start or fitness issue not otherwise explained in available snippets."
+  }
+}

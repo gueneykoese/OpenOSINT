@@ -1,0 +1,67 @@
+{
+  "player_id": "callum_ohare",
+  "name": "Callum O'Hare",
+  "age": 27,
+  "date_of_birth": "1998-05-01",
+  "nationality": ["ENG"],
+  "position": "AM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Sheffield United",
+  "current_club_league": "EFL Championship",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 10,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "for sale",
+  "stats_2025_26": {
+    "competition": "EFL Championship",
+    "apps": null,
+    "starts": null,
+    "minutes": 2647,
+    "goals": 8,
+    "assists": 5,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["creative attacking midfielder", "strong 2025/26 goal contribution (13)", "high minutes load"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Callum_O%27Hare",
+    "https://www.soccerbase.com/players/player.sd?player_id=101597&season_id=158",
+    "https://footballleagueworld.co.uk/sheffield-united-eyeing-barnsley-star-reyes-cleary-ahead-of-callum-ohare-transfer-exit/"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Age (27) above the 19-26 priority band but strong current output. One outlet headline referenced a prospective 'Callum O'Hare transfer exit' for a reported GBP 7m, suggesting a sale may already be in process - not confirmed, so availability kept as 'for sale' and estimated_fee_eur_m is the researcher's estimate informed by that reported figure. Market value not directly sourced from Transfermarkt."
+  }
+}

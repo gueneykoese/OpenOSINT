@@ -1,0 +1,72 @@
+{
+  "player_id": "flavio_silva",
+  "name": "Flavio Silva",
+  "age": 30,
+  "date_of_birth": "1996-04-03",
+  "nationality": [
+    "GNB"
+  ],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Kaizer Chiefs",
+  "current_club_league": "Betway Premiership",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 3,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Betway Premiership",
+    "apps": 23,
+    "starts": null,
+    "minutes": null,
+    "goals": 9,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "target forward",
+      "9 goals in 23 apps for Kaizer Chiefs since 2025",
+      "39 goals in 78 games in Indonesian top flight (2022-25) before move to South Africa"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Fl%C3%A1vio_Silva",
+    "https://www.kickoff.com/sa-news/lifestyle/what-we-know-about-kaizer-chiefs-bound-flavio-silva-so-far"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "DOB 3 April 1996. Guinea-Bissau international (former Portugal youth international, dual nationality). Prolific goalscoring record in Indonesia's top flight (39 goals/78 apps, 2022/23-2024/25) before joining Kaizer Chiefs in 2025, where he has 9 goals in 23 appearances. Included for proven goal output and unusual cross-continental career path relevant to export/resale modelling. Market value not retrieved -> null."
+  }
+}

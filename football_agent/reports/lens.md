@@ -90,13 +90,12 @@ Profile: young creator to succeed Thauvin (33)
 Why: Thauvin/Hazard both 33; Thomasson gone  
 Budget: €12m · wage ceiling €1.8m net
 
+- **Antonio Palumbo** — 75.0/100 (good match, confidence medium)
+  - Antonio Palumbo → Lens at AM: good match (75.0/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
 - **Toni Fruk** — 74.9/100 (good match, confidence medium)
   - Toni Fruk → Lens at AM: good match (74.9/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
-- **Nikola Vlasic** — 74.2/100 (good match, confidence medium)
-  - Nikola Vlasic → Lens at AM: good match (74.2/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
-- **Romain Del Castillo** — 73.5/100 (good match, confidence medium)
-  - Romain Del Castillo → Lens at AM: good match (73.5/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
-  - ⚠ Current club publicly not selling.
+- **Callum O'Hare** — 74.5/100 (good match, confidence medium)
+  - Callum O'Hare → Lens at AM: good match (74.5/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
 
 ### ST — medium priority
 Profile: mobile finisher, 22-26  

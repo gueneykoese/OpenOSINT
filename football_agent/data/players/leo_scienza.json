@@ -1,0 +1,67 @@
+{
+  "player_id": "leo_scienza",
+  "name": "Léo Scienza",
+  "age": 27,
+  "date_of_birth": "1998-09-13",
+  "nationality": ["BRA"],
+  "position": "AM",
+  "secondary_positions": ["RW", "LW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Southampton",
+  "current_club_league": "EFL Championship",
+  "contract_until": 2027,
+  "market_value_eur_m": 9.2,
+  "estimated_fee_eur_m": 11,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "EFL Championship",
+    "apps": 30,
+    "starts": null,
+    "minutes": null,
+    "goals": 6,
+    "assists": 8,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["attacking midfielder/winger", "leading assist provider at Southampton (10 league assists per club preview)", "moved from Heidenheim for EUR 9m in Sept 2025"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt", "de"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/L%C3%A9o_Scienza",
+    "https://hr.soccerway.com/igrac/scienza-leo/AP2xf66T",
+    "https://theanalyst.com/articles/championship-players-to-watch-stats-2026-27"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Assist tallies differ slightly between sources (8 per Soccerway snippet vs 10 cited in a separate club preview referenced earlier) - the Soccerway figure (8, in 30 apps) used as the season stat line; noted discrepancy so not treated as high confidence. Market value and transfer fee sourced from Soccerway market-value snippet, not directly from Transfermarkt page."
+  }
+}

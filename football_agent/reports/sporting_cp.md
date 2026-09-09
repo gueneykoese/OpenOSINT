@@ -107,36 +107,34 @@ Budget: €15m · wage ceiling €2m net
 
 - **Fikayo Tomori** — 76.5/100 (good match, confidence medium)
   - Fikayo Tomori → Sporting CP at CB: good match (76.5/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
-- **Robert Renan** — 70.7/100 (good match, confidence medium)
-  - Robert Renan → Sporting CP at CB: good match (70.7/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Mamadou Sarr** — 69.7/100 (good match, confidence medium)
-  - Mamadou Sarr → Sporting CP at CB: good match (69.7/100). Driven by tactical / system fit and financial feasibility; weakest area is statistical fit (50).
+- **Khulumani Ndamane** — 72.5/100 (good match, confidence medium)
+  - Khulumani Ndamane → Sporting CP at CB: good match (72.5/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Thabo Moloisane** — 72.2/100 (good match, confidence medium)
+  - Thabo Moloisane → Sporting CP at CB: good match (72.2/100). Driven by financial feasibility and statistical fit; weakest area is tactical / system fit (50).
 
 ### RW — medium priority
 Profile: creative wide player with assists, 21-25  
 Why: Trincao (10 assists) and Quenda gone; Irankunda unproven at this level.  
 Budget: €15m · wage ceiling €2m net
 
-- **Aral Şimşir** — 70.4/100 (good match, confidence medium)
-  - Aral Şimşir → Sporting CP at RW: good match (70.4/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-  - ⚠ Current club publicly not selling.
-- **Luka Stojković** — 69.8/100 (good match, confidence medium)
-  - Luka Stojković → Sporting CP at RW: good match (69.8/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (20).
-  - ⚠ Documented discipline record (see mental_profile.notes).
-- **Paul Nebel** — 69.8/100 (good match, confidence medium)
-  - Paul Nebel → Sporting CP at RW: good match (69.8/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (45).
+- **Oswin Appollis** — 78.3/100 (strong match, confidence medium)
+  - Oswin Appollis → Sporting CP at RW: strong match (78.3/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
+- **Shandre Campbell** — 72.3/100 (good match, confidence medium)
+  - Shandre Campbell → Sporting CP at RW: good match (72.3/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Andre Brooks** — 71.8/100 (good match, confidence medium)
+  - Andre Brooks → Sporting CP at RW: good match (71.8/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (30).
 
 ### ST — low priority
 Profile: back-up No. 9, 20-24, resale value  
 Why: Suarez dependency; Nel is a 19-year-old prospect.  
 Budget: €10m · wage ceiling €1.5m net
 
+- **Nicolás López** — 68.7/100 (good match, confidence medium)
+  - Nicolás López → Sporting CP at ST: good match (68.7/100). Driven by statistical fit and financial feasibility; weakest area is positional need (20).
+- **Kouceila Boualia** — 67.1/100 (good match, confidence medium)
+  - Kouceila Boualia → Sporting CP at ST: good match (67.1/100). Driven by financial feasibility and positional need; weakest area is positional need (50).
 - **Sōta Nakamura** — 66.7/100 (good match, confidence medium)
   - Sōta Nakamura → Sporting CP at ST: good match (66.7/100). Driven by financial feasibility and statistical fit; weakest area is cultural adaptation (27).
-- **Andrej Ilić** — 66.4/100 (good match, confidence medium)
-  - Andrej Ilić → Sporting CP at ST: good match (66.4/100). Driven by statistical fit and financial feasibility; weakest area is positional need (33).
-- **Seedy Jatta** — 64.0/100 (possible, confidence medium)
-  - Seedy Jatta → Sporting CP at ST: possible (64.0/100). Driven by financial feasibility and positional need; weakest area is positional need (50).
 
 ## Sources
 

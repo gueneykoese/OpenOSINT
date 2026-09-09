@@ -1,0 +1,72 @@
+{
+  "player_id": "hamza_hannouri",
+  "name": "Hamza Hannouri",
+  "age": 28,
+  "date_of_birth": "1998-01-22",
+  "nationality": [
+    "MAR"
+  ],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Wydad AC",
+  "current_club_league": "Botola Pro",
+  "contract_until": null,
+  "market_value_eur_m": 0.5,
+  "estimated_fee_eur_m": 3,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Botola Pro",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 4,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "target forward",
+      "top scorer for Wydad in 2025/26 (4 league goals)",
+      "signed as free agent from FUS Rabat in 2025"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.sofascore.com/football/player/hamza-hannouri/933770",
+    "https://www.footballtransfers.com/en/players/hamza-hannouri"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "DOB 22 Jan 1998 per Soccerway. Market value ~EUR0.4-0.6m, EUR0.5m used. Joined Wydad free from FUS Rabat in 2025; leading the club's league scoring in 2025/26 with 4 goals as of search date (not a final-season tally). Contract length unverified -> null."
+  }
+}

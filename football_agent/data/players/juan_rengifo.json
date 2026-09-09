@@ -1,0 +1,67 @@
+{
+  "player_id": "juan_rengifo",
+  "name": "Juan Rengifo",
+  "age": 21,
+  "date_of_birth": "2005-04-02",
+  "nationality": ["COL"],
+  "position": "AM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Atlético Nacional",
+  "current_club_league": "Categoría Primera A",
+  "contract_until": null,
+  "market_value_eur_m": 2.5,
+  "estimated_fee_eur_m": 8,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "for sale",
+  "stats_2025_26": {
+    "competition": "Categoría Primera A",
+    "apps": 14,
+    "starts": null,
+    "minutes": null,
+    "goals": 5,
+    "assists": 3,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["left-footed attacking midfielder", "breakout 2026 campaign at Atlético Nacional (5 goals, 3 assists in 14 apps)", "already drawing reported interest from Lazio, Sassuolo, Sporting CP and Barcelona SC (Ecuador)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://sports.yahoo.com/articles/nacionals-engine-juan-manuel-rengifos-214900835.html",
+    "https://onefootball.com/en/news/put-him-up-for-sale-nacional-could-make-a-fortune-from-rengifo-42722987",
+    "https://www.fotmob.com/players/1798773/juan-rengifo"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "High-priority export target: young (21), left-footed, strong current output, and already reported to have attracted formal European scouting interest (Lazio, Sassuolo, Sporting CP, Barcelona SC per OneFootball/Yahoo). Contract length not found - flagged null. estimated_fee_eur_m is the researcher's estimate above the cited EUR 2.5m market value given the reported transfer interest and Colombian selling-club dynamics."
+  }
+}

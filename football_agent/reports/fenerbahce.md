@@ -107,8 +107,8 @@ Budget: €n/am · wage ceiling €n/am net
   - ⚠ Current club publicly not selling.
 - **Andrej Ilić** — 76.1/100 (good match, confidence medium)
   - Andrej Ilić → Fenerbahçe at ST: good match (76.1/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
-- **Dion Drena Beljo** — 74.6/100 (good match, confidence medium)
-  - Dion Drena Beljo → Fenerbahçe at ST: good match (74.6/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+- **Janderson** — 75.2/100 (good match, confidence medium)
+  - Janderson → Fenerbahçe at ST: good match (75.2/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
 
 ### DM — low priority
 Profile: ball-winning, press-resistant No.6, under 27  
@@ -131,10 +131,11 @@ Budget: €n/am · wage ceiling €n/am net
 - **Noah Atubolu** — 70.1/100 (good match, confidence medium)
   - Noah Atubolu → Fenerbahçe at GK: good match (70.1/100). Driven by statistical fit and financial feasibility; weakest area is positional need (48).
   - ⚠ Current club publicly not selling.
+- **Mostafa Shobeir** — 65.0/100 (possible, confidence medium)
+  - Mostafa Shobeir → Fenerbahçe at GK: possible (65.0/100). Driven by financial feasibility and statistical fit; weakest area is positional need (48).
+  - ⚠ Current club publicly not selling.
 - **Alex Meret** — 60.4/100 (possible, confidence medium)
   - Alex Meret → Fenerbahçe at GK: possible (60.4/100). Driven by financial feasibility and positional need; weakest area is statistical fit (38).
-- **Raúl Rangel** — 57.6/100 (possible, confidence medium)
-  - Raúl Rangel → Fenerbahçe at GK: possible (57.6/100). Driven by financial feasibility and positional need; weakest area is statistical fit (14).
 
 ## Sources
 

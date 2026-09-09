@@ -1,0 +1,65 @@
+{
+  "player_id": "lucas_assadi",
+  "name": "Lucas Assadi",
+  "age": 22,
+  "date_of_birth": "2004-01-08",
+  "nationality": ["CHI"],
+  "position": "AM",
+  "secondary_positions": ["ST"],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Universidad de Chile",
+  "current_club_league": "Chilean Primera División",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 6,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Chilean Primera División",
+    "apps": null,
+    "starts": null,
+    "minutes": 89,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["attacking midfielder/second striker", "full Chile youth pathway (U17-U23 and senior caps)", "previously productive creative player (8 goal contributions in an earlier campaign per separate season snippet)"],
+    "best_system": [],
+    "weak_in": ["minimal 2026 minutes so far in available data - possible injury or rotation issue, unconfirmed"]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1278686/lucas-assadi"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Very low sourced minutes (89) for the most recent season snippet found conflicts with his reputation as a key creative player (an earlier, undated snippet had him with 8 goal contributions) - reason for the discrepancy (injury, rotation, data lag) could not be verified, so both figures are reported transparently rather than reconciled. Contract and market value not found."
+  }
+}

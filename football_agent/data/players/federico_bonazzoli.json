@@ -1,0 +1,66 @@
+{
+  "player_id": "federico_bonazzoli",
+  "name": "Federico Bonazzoli",
+  "age": 28,
+  "date_of_birth": "1997-05-21",
+  "nationality": ["ITA"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Cremonese",
+  "current_club_league": "Serie B",
+  "contract_until": 2028,
+  "market_value_eur_m": 2.4,
+  "estimated_fee_eur_m": 4,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Serie A/Serie B (Cremonese relegated mid-season transition)",
+    "apps": 28,
+    "starts": null,
+    "minutes": null,
+    "goals": 7,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["experienced Italian forward", "led Cremonese's scoring in their 2025/26 Serie A season before relegation", "now back at Serie B level for 2026/27"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["it"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://de.soccerway.com/players/-/273833",
+    "https://se.soccerway.com/spelare/bonazzoli-federico/pEYPJXO8"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Cremonese were promoted to Serie A for 2025/26 then relegated back to Serie B at season's end - stats_2025_26 reflect his Serie A campaign at Cremonese (their final season before relegation) since Serie B 2026/27 numbers are not yet available this early in the season; competition field flagged to make that clear. Market value figure varied between EUR 964k-2.4m across mirrors of the same source; the EUR 2.4m figure used is the most frequently cited. Age (28) is above the 19-26 priority band."
+  }
+}

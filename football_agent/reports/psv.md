@@ -99,9 +99,8 @@ Budget: €15m · wage ceiling €2m net
   - Jayden Oosterwolde → PSV at CB: good match (73.8/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (20).
   - ⚠ Documented discipline record (see mental_profile.notes).
   - ⚠ Current club publicly not selling.
-- **Craig Halkett** — 71.9/100 (good match, confidence medium)
-  - Craig Halkett → PSV at CB: good match (71.9/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
-  - ⚠ Current club publicly not selling.
+- **Thabo Moloisane** — 73.2/100 (good match, confidence medium)
+  - Thabo Moloisane → PSV at CB: good match (73.2/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
 
 ### AM — medium priority
 Profile: goal-scoring No. 10/No. 8 from midfield, 20-25  
@@ -110,12 +109,11 @@ Budget: €15m · wage ceiling €1.5m net
 
 - **Toni Fruk** — 76.2/100 (good match, confidence medium)
   - Toni Fruk → PSV at AM: good match (76.2/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (50).
+- **Andre Brooks** — 75.0/100 (good match, confidence medium)
+  - Andre Brooks → PSV at AM: good match (75.0/100). Driven by financial feasibility and statistical fit; weakest area is mentality & chemistry (55).
 - **Jordan Barrera** — 72.7/100 (good match, confidence medium)
   - Jordan Barrera → PSV at AM: good match (72.7/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (49).
   - ⚠ Current club publicly not selling.
-- **Luka Stojković** — 71.9/100 (good match, confidence medium)
-  - Luka Stojković → PSV at AM: good match (71.9/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (20).
-  - ⚠ Documented discipline record (see mental_profile.notes).
 
 ## Sources
 

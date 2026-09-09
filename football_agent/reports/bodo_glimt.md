@@ -77,11 +77,10 @@ Budget: €n/am · wage ceiling €n/am net
 
 - **Jacob Trenskow** — 79.7/100 (strong match, confidence medium)
   - Jacob Trenskow → Bodø/Glimt at ST: strong match (79.7/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
+- **Juan Santos** — 77.7/100 (good match, confidence medium)
+  - Juan Santos → Bodø/Glimt at ST: good match (77.7/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (48).
 - **Mexx Meerdink** — 77.4/100 (good match, confidence medium)
   - Mexx Meerdink → Bodø/Glimt at ST: good match (77.4/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
-- **Ayase Ueda** — 77.2/100 (good match, confidence medium)
-  - Ayase Ueda → Bodø/Glimt at ST: good match (77.2/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (49).
-  - ⚠ Current club publicly not selling.
 
 ### CB — medium priority
 Profile: quick, comfortable in very high line, 21-26  

@@ -1,0 +1,66 @@
+{
+  "player_id": "bruno_arady",
+  "name": "Bruno Arady",
+  "age": 18,
+  "date_of_birth": "2007-07-01",
+  "nationality": ["URU"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Nacional",
+  "current_club_league": "Liga AUF Uruguaya",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 4,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga AUF Uruguaya",
+    "apps": 13,
+    "starts": null,
+    "minutes": 305,
+    "goals": 2,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["18-year-old Uruguayan striker", "Nacional academy graduate", "Uruguay U18 international", "renewed contract to 2028 in April 2025 - long-term project"],
+    "best_system": [],
+    "weak_in": ["still fringe first-team minutes at this stage (305 minutes 2025)"]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1717654/bruno-arady",
+    "https://se.soccerway.com/spelare/arady-bruno/fFDvWbwJ"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Very early-career, speculative export target (18 years old, limited minutes so far). Market value not found. estimated_fee_eur_m is a low, speculative researcher estimate reflecting typical low-cost Uruguayan academy exports rather than any reported figure."
+  }
+}

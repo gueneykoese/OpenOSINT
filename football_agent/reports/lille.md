@@ -99,13 +99,13 @@ Profile: 1v1 dribbler, 20-24
 Why: Fernández-Pardo sold to Newcastle on deadline day; Sahraoui and the loanee Bakwa remain  
 Budget: €n/am · wage ceiling €n/am net
 
+- **Oswin Appollis** — 77.5/100 (good match, confidence medium)
+  - Oswin Appollis → Lille at LW: good match (77.5/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
 - **Diego Luna** — 71.4/100 (good match, confidence medium)
   - Diego Luna → Lille at LW: good match (71.4/100). Driven by financial feasibility and statistical fit; weakest area is tactical / system fit (50).
 - **Leandro Trossard** — 71.1/100 (good match, confidence medium)
   - Leandro Trossard → Lille at LW: good match (71.1/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
   - ⚠ Current club publicly not selling.
-- **Ludovic Blas** — 70.9/100 (good match, confidence medium)
-  - Ludovic Blas → Lille at LW: good match (70.9/100). Driven by statistical fit and financial feasibility; weakest area is positional need (48).
 
 ### RB — medium priority
 Profile: experienced right-back, 24-29  
@@ -126,12 +126,12 @@ Profile: mobile backup 9
 Why: Giroud is 39; Ueda now first choice, Igamane injured at the start of the season  
 Budget: €n/am · wage ceiling €n/am net
 
+- **Nicolás López** — 67.8/100 (good match, confidence medium)
+  - Nicolás López → Lille at ST: good match (67.8/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
 - **Andrej Ilić** — 66.2/100 (good match, confidence medium)
   - Andrej Ilić → Lille at ST: good match (66.2/100). Driven by financial feasibility and statistical fit; weakest area is positional need (45).
-- **Dion Drena Beljo** — 64.9/100 (possible, confidence medium)
-  - Dion Drena Beljo → Lille at ST: possible (64.9/100). Driven by financial feasibility and statistical fit; weakest area is positional need (45).
-- **Jacob Trenskow** — 64.5/100 (possible, confidence medium)
-  - Jacob Trenskow → Lille at ST: possible (64.5/100). Driven by financial feasibility and statistical fit; weakest area is positional need (45).
+- **El Bilal Touré** — 65.9/100 (possible, confidence medium)
+  - El Bilal Touré → Lille at ST: possible (65.9/100). Driven by financial feasibility and statistical fit; weakest area is positional need (45).
 
 ## Sources
 

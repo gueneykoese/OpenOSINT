@@ -105,8 +105,9 @@ Budget: €0.5m · wage ceiling €0.2m net
   - ⚠ Current club publicly not selling.
 - **Alex Meret** — 52.3/100 (weak, confidence medium)
   - Alex Meret → Slovan Bratislava at GK: weak (52.3/100). Driven by positional need and tactical / system fit; weakest area is financial feasibility (10).
-- **Raúl Rangel** — 45.5/100 (weak, confidence medium)
-  - Raúl Rangel → Slovan Bratislava at GK: weak (45.5/100). Driven by positional need and tactical / system fit; weakest area is financial feasibility (0).
+- **Mostafa Shobeir** — 51.4/100 (weak, confidence medium)
+  - Mostafa Shobeir → Slovan Bratislava at GK: weak (51.4/100). Driven by positional need and statistical fit; weakest area is financial feasibility (0).
+  - ⚠ Current club publicly not selling.
 
 ## Sources
 

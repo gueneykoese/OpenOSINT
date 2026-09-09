@@ -1,0 +1,66 @@
+{
+  "player_id": "jandry_gomez",
+  "name": "Jandry Gómez",
+  "age": 19,
+  "date_of_birth": "2006-07-26",
+  "nationality": ["ECU"],
+  "position": "RW",
+  "secondary_positions": ["AM"],
+  "preferred_foot": null,
+  "height_cm": 176,
+  "current_club": "Barcelona SC",
+  "current_club_league": "Ecuadorian Serie A",
+  "contract_until": 2027,
+  "market_value_eur_m": 0.434,
+  "estimated_fee_eur_m": 3,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Ecuadorian Serie A / Copa Libertadores",
+    "apps": 32,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": 3,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["classic winger", "also used as a wide playmaker", "19-year-old with regular first-team minutes and Copa Libertadores experience", "Ecuador U18 international"],
+    "best_system": [],
+    "weak_in": ["modest direct goal/assist output so far relative to minutes"]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.footballtransfers.com/us/players/jandry-eugenio-gomez-cuero",
+    "https://za.soccerway.com/player/gomez-jandry/djSKGCI6"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Strong age/profile fit for the export-potential brief (19-year-old winger with Libertadores minutes) but low current market value (EUR 434k) and modest output so far - estimated_fee_eur_m is the researcher's speculative estimate for a young South American winger of this profile, not a reported figure. Copa Libertadores appearances (7) combined with league in the competition field for clarity."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "player_id": "almoez_ali",
+  "name": "Almoez Ali",
+  "age": 29,
+  "date_of_birth": "1996-08-19",
+  "nationality": [
+    "QAT"
+  ],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Al Duhail SC",
+  "current_club_league": "Qatar Stars League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 6,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Qatar Stars League",
+    "apps": null,
+    "starts": null,
+    "minutes": 16,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Qatar's all-time top scorer",
+      "2019 AFC Asian Cup Golden Boot and MVP",
+      "limited 2025/26 minutes to date (16 minutes in league play as of search date, likely injury-affected)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/644017/almoez-ali",
+    "https://www.forbesmiddleeast.com/lists/30-under-30-2025/almoez-ali/"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB 19 Aug 1996. Born in Sudan, raised in Qatar; Qatar's all-time leading scorer and 2019 Asian Cup Golden Boot/MVP winner. Market value over USD4m per Transfermarkt (as of May 2025 per Forbes Middle East citation) -- not converted to EUR precisely, so market_value_eur_m left null. Very limited 2025/26 QSL minutes logged (16 minutes) as of search date, suggesting injury or rotation -- flagged as a risk factor. Included as a proven Gulf/marquee name with Saudi Pro League-style resale appeal despite current low game time."
+  }
+}

@@ -93,11 +93,11 @@ Budget: €15m · wage ceiling €2m net
 
 - **Jose Gaya** — 77.9/100 (good match, confidence medium)
   - Jose Gaya → Roma at LB: good match (77.9/100). Driven by statistical fit and positional need; weakest area is age & contract (45).
+- **Nathan Wood** — 75.9/100 (good match, confidence medium)
+  - Nathan Wood → Roma at LB: good match (75.9/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 - **Reinildo Mandava** — 75.3/100 (good match, confidence medium)
   - Reinildo Mandava → Roma at LB: good match (75.3/100). Driven by positional need and statistical fit; weakest area is age & contract (45).
   - ⚠ Current club publicly not selling.
-- **Šimun Hrgović** — 75.1/100 (good match, confidence medium)
-  - Šimun Hrgović → Roma at LB: good match (75.1/100). Driven by positional need and financial feasibility; weakest area is tactical / system fit (50).
 
 ### AM — medium priority
 Profile: young creative No. 10 / inside forward, 20-24, resale value  
@@ -107,10 +107,10 @@ Budget: €20m · wage ceiling €2m net
 - **Jordan Barrera** — 74.5/100 (good match, confidence medium)
   - Jordan Barrera → Roma at AM: good match (74.5/100). Driven by positional need and financial feasibility; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
+- **Andre Brooks** — 73.6/100 (good match, confidence medium)
+  - Andre Brooks → Roma at AM: good match (73.6/100). Driven by financial feasibility and statistical fit; weakest area is mentality & chemistry (55).
 - **Toni Fruk** — 73.5/100 (good match, confidence medium)
   - Toni Fruk → Roma at AM: good match (73.5/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
-- **Diego Luna** — 72.8/100 (good match, confidence medium)
-  - Diego Luna → Roma at AM: good match (72.8/100). Driven by positional need and financial feasibility; weakest area is tactical / system fit (50).
 
 ### ST — medium priority
 Profile: pressing backup No. 9, 20-25  
@@ -121,8 +121,8 @@ Budget: €15m · wage ceiling €2m net
   - Sōta Nakamura → Roma at ST: good match (74.6/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
 - **Andrej Ilić** — 74.3/100 (good match, confidence medium)
   - Andrej Ilić → Roma at ST: good match (74.3/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
-- **Lorenzo Colombo** — 73.7/100 (good match, confidence medium)
-  - Lorenzo Colombo → Roma at ST: good match (73.7/100). Driven by positional need and financial feasibility; weakest area is tactical / system fit (50).
+- **Cristian Shpendi** — 74.0/100 (good match, confidence medium)
+  - Cristian Shpendi → Roma at ST: good match (74.0/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### GK — low priority
 Profile: experienced backup, 26-32  
@@ -132,10 +132,11 @@ Budget: €3m · wage ceiling €1m net
 - **Noah Atubolu** — 56.3/100 (possible, confidence medium)
   - Noah Atubolu → Roma at GK: possible (56.3/100). Driven by statistical fit and tactical / system fit; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
+- **Mostafa Shobeir** — 48.1/100 (weak, confidence medium)
+  - Mostafa Shobeir → Roma at GK: weak (48.1/100). Driven by positional need and statistical fit; weakest area is financial feasibility (0).
+  - ⚠ Current club publicly not selling.
 - **Alex Meret** — 47.7/100 (weak, confidence medium)
   - Alex Meret → Roma at GK: weak (47.7/100). Driven by positional need and statistical fit; weakest area is financial feasibility (10).
-- **Raúl Rangel** — 38.2/100 (no fit, confidence medium)
-  - Raúl Rangel → Roma at GK: no fit (38.2/100). Driven by positional need and tactical / system fit; weakest area is financial feasibility (0).
 
 ## Sources
 

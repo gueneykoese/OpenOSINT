@@ -1,0 +1,72 @@
+{
+  "player_id": "cryzan",
+  "name": "Cryzan",
+  "age": 30,
+  "date_of_birth": "1996-07-07",
+  "nationality": [
+    "BRA"
+  ],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Shandong Taishan",
+  "current_club_league": "Chinese Super League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 10,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Chinese Super League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 15,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Brazilian striker",
+      "70 goals in 117 appearances for Shandong Taishan since 2022",
+      "2025/26 CSL top performer (rating 8.14, 15 league goals)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cryzan",
+    "https://www.sofascore.com/football/player/cryzan/794884"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Mononym player (full given name Cryzan), DOB 7 July 1996, Brazilian, 190cm. Prolific CSL scorer: 70 goals in 117 appearances for Shandong Taishan since 2022, and league-leading form in 2025/26 (15 league goals, FotMob rating 8.14, the best-rated performer in a squad search). As a CSL import rather than a Chinese national, his 'export' angle is a potential move to a mid-tier European league or Saudi Pro League on reputation/output rather than resale-development value. Market value and contract details not retrieved -> null."
+  }
+}

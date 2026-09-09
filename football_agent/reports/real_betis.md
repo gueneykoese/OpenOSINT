@@ -90,12 +90,12 @@ Budget: €15m · wage ceiling €2.5m net
 
 - **Fikayo Tomori** — 82.6/100 (strong match, confidence medium)
   - Fikayo Tomori → Real Betis at CB: strong match (82.6/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
+- **Thabo Moloisane** — 79.5/100 (strong match, confidence medium)
+  - Thabo Moloisane → Real Betis at CB: strong match (79.5/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
 - **Jayden Oosterwolde** — 77.0/100 (good match, confidence high)
   - Jayden Oosterwolde → Real Betis at CB: good match (77.0/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (20).
   - ⚠ Documented discipline record (see mental_profile.notes).
   - ⚠ Current club publicly not selling.
-- **Robert Renan** — 76.2/100 (good match, confidence medium)
-  - Robert Renan → Real Betis at CB: good match (76.2/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### DM — medium priority
 Profile: athletic ball-winning No. 6 with UCL experience, 24-28  
@@ -115,13 +115,14 @@ Profile: experienced back-up/challenger, 26-32
 Why: Adrian retired; Conde is only on loan.  
 Budget: €5m · wage ceiling €1m net
 
+- **Mostafa Shobeir** — 57.2/100 (possible, confidence medium)
+  - Mostafa Shobeir → Real Betis at GK: possible (57.2/100). Driven by positional need and statistical fit; weakest area is positional need (50).
+  - ⚠ Current club publicly not selling.
 - **Noah Atubolu** — 57.0/100 (possible, confidence medium)
   - Noah Atubolu → Real Betis at GK: possible (57.0/100). Driven by statistical fit and tactical / system fit; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
 - **Alex Meret** — 54.6/100 (possible, confidence medium)
   - Alex Meret → Real Betis at GK: possible (54.6/100). Driven by positional need and tactical / system fit; weakest area is statistical fit (38).
-- **Raúl Rangel** — 42.1/100 (weak, confidence medium)
-  - Raúl Rangel → Real Betis at GK: weak (42.1/100). Driven by positional need and tactical / system fit; weakest area is statistical fit (6).
 
 ## Sources
 

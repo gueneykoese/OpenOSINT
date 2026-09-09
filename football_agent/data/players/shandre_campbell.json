@@ -1,0 +1,75 @@
+{
+  "player_id": "shandre_campbell",
+  "name": "Shandre Campbell",
+  "age": 21,
+  "date_of_birth": "2005-07-15",
+  "nationality": [
+    "RSA"
+  ],
+  "position": "RW",
+  "secondary_positions": [
+    "LW"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "KV Kortrijk",
+  "current_club_league": "Belgian Pro League",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 4,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Belgian Pro League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "pacey winger",
+      "product of SuperSport United academy",
+      "11 goals in 25 games for Club NXT (Club Brugge reserves) 2024-26 before permanent Kortrijk move"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Shandre_Campbell",
+    "https://www.fotmob.com/players/1599319/shandre-campbell",
+    "https://www.goal.com/en-za/news/shandre-campbell-sold-by-club-brugge-to-newly-promoted-belgian-pro-league-side-we-are-bringing-in-someone-who-brings-a-lot-of-creativity-speed-and-depth/blt978eed670eb53beb"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB 15 July 2005, born Boksburg, South Africa, 178cm. Path: SuperSport United (2023-24, 5 goals/30 apps) -> Club Brugge (bought into Club NXT reserve side, 11 goals/25 apps 2024-26; 1 goal/11 apps for the first team 2025/26) -> sold to newly-promoted KV Kortrijk on a deal until 30 June 2030 (finalised 20 July 2026). Note: Club Brugge is an excluded UCL league-phase club for this brief, but Campbell has already moved on to Kortrijk, which is not excluded. 2025/26 individual stats at Kortrijk not yet sourced -> null."
+  }
+}

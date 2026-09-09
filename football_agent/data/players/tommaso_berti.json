@@ -1,0 +1,65 @@
+{
+  "player_id": "tommaso_berti",
+  "name": "Tommaso Berti",
+  "age": 22,
+  "date_of_birth": "2004-03-07",
+  "nationality": ["ITA"],
+  "position": "CM",
+  "secondary_positions": ["AM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Cesena",
+  "current_club_league": "Serie B",
+  "contract_until": 2026,
+  "market_value_eur_m": 4.3,
+  "estimated_fee_eur_m": 6,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Serie B",
+    "apps": 32,
+    "starts": null,
+    "minutes": null,
+    "goals": 4,
+    "assists": 7,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["box-to-box/creative central midfielder", "Cesena's leading chance creator (7 assists 2025/26)", "high FotMob rating leader for Cesena", "short contract remaining"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["it"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://dk.soccerway.com/spiller/berti-tommaso/hjLa97a7"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract expiring June 2026 makes him a genuinely low-cost, high-availability target (potentially free or cut-price) if Cesena do not renew - reasonable priority given age (22) and 2025/26 output. Market value and stats from a Soccerway snippet, not confirmed directly on Transfermarkt."
+  }
+}

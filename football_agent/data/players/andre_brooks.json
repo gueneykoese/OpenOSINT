@@ -1,0 +1,67 @@
+{
+  "player_id": "andre_brooks",
+  "name": "Andre Brooks",
+  "age": 22,
+  "date_of_birth": "2003-08-20",
+  "nationality": ["JAM"],
+  "position": "RW",
+  "secondary_positions": ["AM"],
+  "preferred_foot": "left",
+  "height_cm": 180,
+  "current_club": "Norwich City",
+  "current_club_league": "EFL Championship",
+  "contract_until": 2027,
+  "market_value_eur_m": 4.4,
+  "estimated_fee_eur_m": 8,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "EFL Championship",
+    "apps": null,
+    "starts": null,
+    "minutes": 2442,
+    "goals": 6,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["inverted left-footed right winger", "joined Norwich on a five-year deal from Sheffield United", "Sheffield United Players' Player and Young Player of the Year 2025/26"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/en-GB/players/1396784/andre-brooks",
+    "https://en.wikipedia.org/wiki/Andre_Brooks",
+    "https://readnorwich.com/2026/07/14/norwich-city-2026-27-season-preview-signings-fixtures/"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Moved from Sheffield United to Norwich City on a five-year deal in summer 2026 after winning Sheffield United's Players'/Young Player of the Year for 2025/26; contract_until 2027 figure came from a general snippet and may understate the actual five-year term length - treated with caution (could run to ~2031). estimated_fee_eur_m is the researcher's estimate, not sourced."
+  }
+}

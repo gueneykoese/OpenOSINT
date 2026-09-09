@@ -1,0 +1,72 @@
+{
+  "player_id": "nasser_mansy",
+  "name": "Nasser Mansy",
+  "age": 28,
+  "date_of_birth": "1997-11-16",
+  "nationality": [
+    "EGY"
+  ],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Zamalek SC",
+  "current_club_league": "Egyptian Premier League",
+  "contract_until": null,
+  "market_value_eur_m": 0.6,
+  "estimated_fee_eur_m": 4,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Egyptian Premier League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 6,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "striker",
+      "32 goals in 96 appearances for Zamalek since 2023"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1458006/mansy-nasser",
+    "https://en.wikipedia.org/wiki/Nasser_Mansi",
+    "https://www.footballtransfers.com/en/players/naser-el-mansi"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "DOB 16 Nov 1997 per Soccerway/FotMob (name also rendered 'Nasser Mansi'). Career total at Zamalek: 32 goals in 96 apps since 2023; 2025/26 season goals reported as 6 in one snippet (competition/apps not fully sourced -> null minutes/apps). Market value ~EUR0.45-0.78m across sources, EUR0.6m used as midpoint. Contract length not verified."
+  }
+}

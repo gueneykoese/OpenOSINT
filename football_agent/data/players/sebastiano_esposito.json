@@ -1,0 +1,67 @@
+{
+  "player_id": "sebastiano_esposito",
+  "name": "Sebastiano Esposito",
+  "age": 23,
+  "date_of_birth": "2002-07-02",
+  "nationality": ["ITA"],
+  "position": "ST",
+  "secondary_positions": ["AM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Cagliari",
+  "current_club_league": "Serie A",
+  "contract_until": 2030,
+  "market_value_eur_m": 15.0,
+  "estimated_fee_eur_m": 18,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Serie A",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 3,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Italy U21 international", "well-travelled loan career (SPAL, Venezia, Basel, Anderlecht, Bari, Sampdoria, Empoli) before permanent move", "signed permanently by Cagliari after loan obligation triggered July 2026"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["it"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sebastiano_Esposito",
+    "https://sports.yahoo.com/article/official-inter-milan-sell-striker-184600855.html",
+    "https://sempreinter.com/2025/08/10/done-deal-inter-sebastiano-esposito-to-join-cagliari/"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Loan-to-buy from Inter (banned UCL club, not the current club) was made permanent for a reported EUR 4m fee, activated 1 July 2026, on a five-year deal to 2030; his Transfermarkt market value of EUR 15m was cited as of August 2026. estimated_fee_eur_m is the researcher's estimate above his market value given his long contract and rising output. 2025/26 goals/assists figures reflect his season split across loan spells culminating at Cagliari; a fuller breakdown by club was not available in this search."
+  }
+}

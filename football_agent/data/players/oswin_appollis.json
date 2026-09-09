@@ -1,0 +1,74 @@
+{
+  "player_id": "oswin_appollis",
+  "name": "Oswin Appollis",
+  "age": 24,
+  "date_of_birth": "2001-08-25",
+  "nationality": [
+    "RSA"
+  ],
+  "position": "LW",
+  "secondary_positions": [
+    "RW"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Orlando Pirates",
+  "current_club_league": "Betway Premiership",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 8,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Betway Premiership",
+    "apps": null,
+    "starts": null,
+    "minutes": 2170,
+    "goals": 9,
+    "assists": 6,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left winger",
+      "South Africa 2026 World Cup squad (played all 4 matches)",
+      "9 goals, 6 assists in 2025/26 PSL season"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Oswin_Appollis",
+    "https://www.fotmob.com/players/1054166/oswin-appollis"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB 25 Aug 2001. Debuted for South Africa Nov 2023; played all four South Africa matches at the 2026 FIFA World Cup. 2025/26 Premiership: 9 goals, 6 assists, 2170 minutes, avg FotMob rating 7.46 -- one of the PSL's standout attacking wide players and a clear Europe-export candidate. Market value not retrieved from Transfermarkt -> null; estimated_fee is researcher estimate based on World Cup exposure and output."
+  }
+}

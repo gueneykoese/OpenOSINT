@@ -75,11 +75,10 @@ Budget: €1.5m · wage ceiling €0.4m net
 - **Chris Richards** — 70.8/100 (good match, confidence medium)
   - Chris Richards → Viking at CB: good match (70.8/100). Driven by positional need and statistical fit; weakest area is financial feasibility (10).
   - ⚠ Current club publicly not selling.
+- **Thabo Moloisane** — 70.0/100 (good match, confidence medium)
+  - Thabo Moloisane → Viking at CB: good match (70.0/100). Driven by positional need and statistical fit; weakest area is financial feasibility (38).
 - **Fikayo Tomori** — 69.4/100 (good match, confidence medium)
   - Fikayo Tomori → Viking at CB: good match (69.4/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
-- **Craig Halkett** — 69.3/100 (good match, confidence medium)
-  - Craig Halkett → Viking at CB: good match (69.3/100). Driven by statistical fit and positional need; weakest area is financial feasibility (38).
-  - ⚠ Current club publicly not selling.
 
 ### DM — medium priority
 Profile: ball-winning No.6  
@@ -99,14 +98,12 @@ Profile: succession for Christiansen (top scorer, sale risk)
 Why: Top scorer is the obvious sale candidate after UCL exposure  
 Budget: €1.5m · wage ceiling €0.35m net
 
+- **Khanyisa Mayo** — 68.8/100 (good match, confidence medium)
+  - Khanyisa Mayo → Viking at ST: good match (68.8/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 - **Kevin Nisbet** — 67.3/100 (good match, confidence medium)
   - Kevin Nisbet → Viking at ST: good match (67.3/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Ayase Ueda** — 61.1/100 (possible, confidence medium)
-  - Ayase Ueda → Viking at ST: possible (61.1/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
-- **Deniz Undav** — 60.5/100 (possible, confidence medium)
-  - Deniz Undav → Viking at ST: possible (60.5/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
+- **Umut Bozok** — 65.9/100 (possible, confidence medium)
+  - Umut Bozok → Viking at ST: possible (65.9/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (48).
 
 ## Sources
 

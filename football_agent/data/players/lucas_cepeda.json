@@ -1,0 +1,66 @@
+{
+  "player_id": "lucas_cepeda",
+  "name": "Lucas Cepeda",
+  "age": 23,
+  "date_of_birth": "2002-10-31",
+  "nationality": ["CHI"],
+  "position": "LW",
+  "secondary_positions": ["RW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Elche CF",
+  "current_club_league": "La Liga",
+  "contract_until": 2030,
+  "market_value_eur_m": 3.5,
+  "estimated_fee_eur_m": 8,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "La Liga",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Chilean winger", "moved from Colo-Colo to Elche for EUR 1.85m, Jan 2026", "long-term 2030 contract signed"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://sabesdeportes.com/2026/01/26/lucas-cepeda-fue-presentado-en-elche-y-podria-debutar-ante-el-fc-barcelona/",
+    "https://www.transferfeed.com/transfers/lucas-cepeda-colo-colo-elche/28144483"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Current club confirmed as Elche CF (La Liga) after a Jan 2026 transfer from Colo-Colo, EUR 1.85m fee, contract to June 2030. Market value (EUR 3.5m) is from a Soccerway snippet dated to before the move to Elche and may be stale; 2025/26 La Liga stats at Elche were not found in this search and left null."
+  }
+}

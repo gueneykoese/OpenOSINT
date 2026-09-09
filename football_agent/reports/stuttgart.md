@@ -79,15 +79,16 @@ Profile: experienced Bundesliga/UCL-level goalkeeper, 26-32, comfortable with th
 Why: Nübel's loan ended; Seimen (20) is untested at this level and Funk is a 3. Liga-level backup  
 Budget: €10m · wage ceiling €3m net
 
+- **Mostafa Shobeir** — 73.0/100 (good match, confidence medium)
+  - Mostafa Shobeir → Stuttgart at GK: good match (73.0/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+  - ⚠ Current club publicly not selling.
+  - ⚠ Would block a young starter (Dennis Seimen, 20) — check pathway politics.
 - **Noah Atubolu** — 71.8/100 (good match, confidence medium)
   - Noah Atubolu → Stuttgart at GK: good match (71.8/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
   - ⚠ Would block a young starter (Dennis Seimen, 20) — check pathway politics.
 - **Alex Meret** — 71.0/100 (good match, confidence medium)
   - Alex Meret → Stuttgart at GK: good match (71.0/100). Driven by positional need and financial feasibility; weakest area is statistical fit (38).
-  - ⚠ Would block a young starter (Dennis Seimen, 20) — check pathway politics.
-- **Raúl Rangel** — 63.0/100 (possible, confidence medium)
-  - Raúl Rangel → Stuttgart at GK: possible (63.0/100). Driven by positional need and financial feasibility; weakest area is statistical fit (14).
   - ⚠ Would block a young starter (Dennis Seimen, 20) — check pathway politics.
 
 ### CB — medium priority
@@ -101,9 +102,8 @@ Budget: €15m · wage ceiling €3m net
   - Jayden Oosterwolde → Stuttgart at CB: good match (74.5/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (20).
   - ⚠ Documented discipline record (see mental_profile.notes).
   - ⚠ Current club publicly not selling.
-- **Maxime Estève** — 69.7/100 (good match, confidence medium)
-  - Maxime Estève → Stuttgart at CB: good match (69.7/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
+- **Nathan Wood** — 71.7/100 (good match, confidence medium)
+  - Nathan Wood → Stuttgart at CB: good match (71.7/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### DM — medium priority
 Profile: young No.6 with resale value to succeed Chema Andrés  

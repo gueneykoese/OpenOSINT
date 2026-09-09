@@ -614,7 +614,8 @@
         "goals": null,
         "assists": null
       },
-      "injury_flag": null
+      "injury_flag": null,
+      "note": "On loan at Gaziantep FK (Süper Lig) through 30.06.2026, per player-pool research (see players/mohamed_bayo.json)."
     }
   ],
   "strengths": [

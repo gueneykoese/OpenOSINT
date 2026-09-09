@@ -95,9 +95,8 @@ Budget: €20m · wage ceiling €3m net
 - **Pierre Kalulu** — 70.4/100 (good match, confidence high)
   - Pierre Kalulu → Atlético at RB: good match (70.4/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
-- **Arnau Martínez** — 68.4/100 (good match, confidence medium)
-  - Arnau Martínez → Atlético at RB: good match (68.4/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-  - ⚠ Current club publicly not selling.
+- **Niccolò Pierozzi** — 69.6/100 (good match, confidence medium)
+  - Niccolò Pierozzi → Atlético at RB: good match (69.6/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### AM — medium priority
 Profile: creative No. 10 / second striker, 22-27, Spanish-speaking  
@@ -106,11 +105,11 @@ Budget: €30m · wage ceiling €5m net
 
 - **Toni Fruk** — 77.7/100 (good match, confidence medium)
   - Toni Fruk → Atlético at AM: good match (77.7/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
+- **Callum O'Hare** — 76.6/100 (good match, confidence medium)
+  - Callum O'Hare → Atlético at AM: good match (76.6/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
 - **Christoph Baumgartner** — 76.6/100 (good match, confidence medium)
   - Christoph Baumgartner → Atlético at AM: good match (76.6/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
-- **Ludovic Blas** — 76.4/100 (good match, confidence medium)
-  - Ludovic Blas → Atlético at AM: good match (76.4/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
 
 ### CB — low priority
 Profile: left-footed centre-back, 22-26  
@@ -132,13 +131,14 @@ Profile: long-term successor to Oblak (33), 22-26
 Why: Oblak and Musso are both over 30; Moldovan loaned out  
 Budget: €15m · wage ceiling €2m net
 
+- **Mostafa Shobeir** — 63.9/100 (possible, confidence medium)
+  - Mostafa Shobeir → Atlético at GK: possible (63.9/100). Driven by financial feasibility and positional need; weakest area is positional need (50).
+  - ⚠ Current club publicly not selling.
 - **Noah Atubolu** — 62.9/100 (possible, confidence medium)
   - Noah Atubolu → Atlético at GK: possible (62.9/100). Driven by statistical fit and positional need; weakest area is financial feasibility (30).
   - ⚠ Current club publicly not selling.
 - **Alex Meret** — 56.7/100 (possible, confidence medium)
   - Alex Meret → Atlético at GK: possible (56.7/100). Driven by financial feasibility and statistical fit; weakest area is positional need (27).
-- **Raúl Rangel** — 54.9/100 (possible, confidence medium)
-  - Raúl Rangel → Atlético at GK: possible (54.9/100). Driven by financial feasibility and positional need; weakest area is statistical fit (6).
 
 ## Sources
 

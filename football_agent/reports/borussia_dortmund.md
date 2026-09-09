@@ -117,25 +117,26 @@ Profile: young backup/successor to Kobel, 21-25
 Why: Meyer 35, Ostrzinski 22 and untested, Ramaj on loan  
 Budget: €10m · wage ceiling €1.5m net
 
+- **Mostafa Shobeir** — 62.3/100 (possible, confidence medium)
+  - Mostafa Shobeir → Dortmund at GK: possible (62.3/100). Driven by financial feasibility and statistical fit; weakest area is positional need (39).
+  - ⚠ Current club publicly not selling.
 - **Noah Atubolu** — 62.1/100 (possible, confidence medium)
   - Noah Atubolu → Dortmund at GK: possible (62.1/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
 - **Alex Meret** — 55.2/100 (possible, confidence medium)
   - Alex Meret → Dortmund at GK: possible (55.2/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (21).
-- **Raúl Rangel** — 50.0/100 (weak, confidence medium)
-  - Raúl Rangel → Dortmund at GK: weak (50.0/100). Driven by financial feasibility and tactical / system fit; weakest area is statistical fit (6).
 
 ### RW — low priority
 Profile: pacy right winger/wing-back, 20-24  
 Why: Duranville and Campbell sold; width on the right relies on Couto/Ryerson  
 Budget: €20m · wage ceiling €3m net
 
+- **Andre Brooks** — 69.4/100 (good match, confidence medium)
+  - Andre Brooks → Dortmund at RW: good match (69.4/100). Driven by financial feasibility and statistical fit; weakest area is tactical / system fit (50).
 - **Diego Luna** — 68.3/100 (good match, confidence medium)
   - Diego Luna → Dortmund at RW: good match (68.3/100). Driven by financial feasibility and statistical fit; weakest area is positional need (35).
-- **Paul Nebel** — 66.8/100 (good match, confidence medium)
-  - Paul Nebel → Dortmund at RW: good match (66.8/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
-- **Saif Rajab** — 65.3/100 (possible, confidence medium)
-  - Saif Rajab → Dortmund at RW: possible (65.3/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
+- **Oswin Appollis** — 67.1/100 (good match, confidence medium)
+  - Oswin Appollis → Dortmund at RW: good match (67.1/100). Driven by statistical fit and financial feasibility; weakest area is cultural adaptation (10).
 
 ## Sources
 

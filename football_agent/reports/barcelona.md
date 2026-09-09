@@ -135,13 +135,14 @@ Profile: young backup, 22-26
 Why: Szczesny is 36 and ter Stegen loaned to Ajax; Livakovic signed as cover  
 Budget: €8m · wage ceiling €1.5m net
 
+- **Mostafa Shobeir** — 63.2/100 (possible, confidence medium)
+  - Mostafa Shobeir → Barcelona at GK: possible (63.2/100). Driven by financial feasibility and positional need; weakest area is positional need (50).
+  - ⚠ Current club publicly not selling.
 - **Noah Atubolu** — 61.4/100 (possible, confidence medium)
   - Noah Atubolu → Barcelona at GK: possible (61.4/100). Driven by statistical fit and tactical / system fit; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
 - **Alex Meret** — 59.0/100 (possible, confidence medium)
   - Alex Meret → Barcelona at GK: possible (59.0/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (27).
-- **Raúl Rangel** — 50.4/100 (weak, confidence medium)
-  - Raúl Rangel → Barcelona at GK: weak (50.4/100). Driven by tactical / system fit and positional need; weakest area is statistical fit (6).
 
 ## Sources
 

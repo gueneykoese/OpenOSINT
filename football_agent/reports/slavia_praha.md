@@ -89,23 +89,22 @@ Budget: €4m · wage ceiling €0.8m net
 
 - **Reiss Nelson** — 74.8/100 (good match, confidence medium)
   - Reiss Nelson → Slavia Praha at AM: good match (74.8/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Alexander Alvarado** — 74.0/100 (good match, confidence medium)
+  - Alexander Alvarado → Slavia Praha at AM: good match (74.0/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 - **Matthew Evans** — 73.9/100 (good match, confidence medium)
   - Matthew Evans → Slavia Praha at AM: good match (73.9/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Diego Luna** — 72.5/100 (good match, confidence medium)
-  - Diego Luna → Slavia Praha at AM: good match (72.5/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
 
 ### ST — medium priority
 Profile: mobile striker to complement the target-man Chorý  
 Why: Tijani and Prekop departed; Chytil is the only alternative  
 Budget: €3m · wage ceiling €0.6m net
 
+- **Nicolás López** — 75.2/100 (good match, confidence medium)
+  - Nicolás López → Slavia Praha at ST: good match (75.2/100). Driven by statistical fit and positional need; weakest area is age & contract (45).
 - **Sōta Nakamura** — 72.8/100 (good match, confidence medium)
   - Sōta Nakamura → Slavia Praha at ST: good match (72.8/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
-- **Kevin Nisbet** — 68.1/100 (good match, confidence medium)
-  - Kevin Nisbet → Slavia Praha at ST: good match (68.1/100). Driven by positional need and financial feasibility; weakest area is age & contract (45).
-- **Ante Budimir** — 68.0/100 (good match, confidence medium)
-  - Ante Budimir → Slavia Praha at ST: good match (68.0/100). Driven by positional need and financial feasibility; weakest area is age & contract (45).
-  - ⚠ Current club publicly not selling.
+- **Jackson Muleka** — 68.7/100 (good match, confidence medium)
+  - Jackson Muleka → Slavia Praha at ST: good match (68.7/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### CB — low priority
 Profile: quick left-footed CB for the back three  
@@ -115,11 +114,10 @@ Budget: €3m · wage ceiling €0.6m net
 - **Craig Halkett** — 66.2/100 (good match, confidence medium)
   - Craig Halkett → Slavia Praha at CB: good match (66.2/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
   - ⚠ Current club publicly not selling.
+- **Thabo Moloisane** — 64.0/100 (possible, confidence medium)
+  - Thabo Moloisane → Slavia Praha at CB: possible (64.0/100). Driven by statistical fit and financial feasibility; weakest area is positional need (48).
 - **Maxime Estève** — 62.8/100 (possible, confidence medium)
   - Maxime Estève → Slavia Praha at CB: possible (62.8/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
-- **Ethan Pinnock** — 60.4/100 (possible, confidence medium)
-  - Ethan Pinnock → Slavia Praha at CB: possible (60.4/100). Driven by financial feasibility and statistical fit; weakest area is age & contract (45).
   - ⚠ Current club publicly not selling.
 
 ## Sources

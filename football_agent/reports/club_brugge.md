@@ -87,11 +87,10 @@ Budget: €12m · wage ceiling €1.2m net
 
 - **Toni Fruk** — 77.2/100 (good match, confidence medium)
   - Toni Fruk → Club Brugge at LW: good match (77.2/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
-- **Matteo Cancellieri** — 75.0/100 (good match, confidence medium)
-  - Matteo Cancellieri → Club Brugge at LW: good match (75.0/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Leandro Trossard** — 74.7/100 (good match, confidence medium)
-  - Leandro Trossard → Club Brugge at LW: good match (74.7/100). Driven by statistical fit and positional need; weakest area is age & contract (30).
-  - ⚠ Current club publicly not selling.
+- **Oswin Appollis** — 76.0/100 (good match, confidence medium)
+  - Oswin Appollis → Club Brugge at LW: good match (76.0/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (14).
+- **Abdoulaye Toure** — 75.7/100 (good match, confidence medium)
+  - Abdoulaye Toure → Club Brugge at LW: good match (75.7/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### DM — medium priority
 Profile: ball-winning No. 6 with UCL-level physicality, 22-26  
@@ -111,13 +110,13 @@ Profile: quick, right-footed centre-back, 21-25
 Why: Ordonez (reported to Palace) and Romero left; Mechele is the veteran.  
 Budget: €10m · wage ceiling €1.0m net
 
+- **Nathan Wood** — 73.2/100 (good match, confidence medium)
+  - Nathan Wood → Club Brugge at CB: good match (73.2/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Botond Balogh** — 72.8/100 (good match, confidence medium)
+  - Botond Balogh → Club Brugge at CB: good match (72.8/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 - **Craig Halkett** — 71.9/100 (good match, confidence medium)
   - Craig Halkett → Club Brugge at CB: good match (71.9/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
   - ⚠ Current club publicly not selling.
-- **Robert Renan** — 70.5/100 (good match, confidence medium)
-  - Robert Renan → Club Brugge at CB: good match (70.5/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Fikayo Tomori** — 68.1/100 (good match, confidence medium)
-  - Fikayo Tomori → Club Brugge at CB: good match (68.1/100). Driven by statistical fit and positional need; weakest area is financial feasibility (38).
 
 ## Sources
 

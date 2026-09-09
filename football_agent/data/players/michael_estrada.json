@@ -1,0 +1,65 @@
+{
+  "player_id": "michael_estrada",
+  "name": "Michael Estrada",
+  "age": 29,
+  "date_of_birth": "1996-04-07",
+  "nationality": ["ECU"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "LDU Quito",
+  "current_club_league": "Ecuadorian Serie A",
+  "contract_until": 2026,
+  "market_value_eur_m": 0.749,
+  "estimated_fee_eur_m": 2,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Ecuadorian Serie A",
+    "apps": 35,
+    "starts": null,
+    "minutes": null,
+    "goals": 13,
+    "assists": 5,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["experienced Ecuadorian striker", "LDU Quito's leading scorer 2025 (13 goals)", "prior spell in Mexico (Toluca) and Copa Libertadores experience"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://dk.soccerway.com/spiller/estrada-michael/8jABhhUr"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Age (29) above priority band; goals/apps figure (13 goals, 35 apps) is labelled '2025 season' in the source, which may refer to the full calendar-year Ecuadorian league season rather strictly to 2025/26 - used as best available approximation. Nationality inferred from transfer history and club context rather than an explicit statement."
+  }
+}

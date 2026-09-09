@@ -1,0 +1,66 @@
+{
+  "player_id": "gianluca_gaetano",
+  "name": "Gianluca Gaetano",
+  "age": 25,
+  "date_of_birth": "2000-05-05",
+  "nationality": ["ITA"],
+  "position": "AM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Cagliari",
+  "current_club_league": "Serie A",
+  "contract_until": 2029,
+  "market_value_eur_m": 4.8,
+  "estimated_fee_eur_m": 8,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Serie A",
+    "apps": 26,
+    "starts": null,
+    "minutes": null,
+    "goals": 2,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["attacking midfielder", "Napoli academy graduate, permanent move to Cagliari (EUR 6.2m) in 2025", "long contract signed to 2029"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["it"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gianluca_Gaetano",
+    "https://www.footballtransfers.com/en/players/gianluca-gaetano"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Permanent transfer from Napoli (banned UCL club, not current club) to Cagliari confirmed for EUR 6.2m in 2025; long contract to 2029 reduces near-term sale likelihood but he remains a plausible target given Cagliari's typical selling-club profile. Assists not found in this search."
+  }
+}

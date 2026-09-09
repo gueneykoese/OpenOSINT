@@ -97,11 +97,10 @@ Budget: €15m · wage ceiling €2m net
 
 - **Andrej Ilić** — 75.9/100 (good match, confidence medium)
   - Andrej Ilić → Porto at ST: good match (75.9/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
+- **Nicolás López** — 74.1/100 (good match, confidence medium)
+  - Nicolás López → Porto at ST: good match (74.1/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (45).
 - **Dion Drena Beljo** — 72.3/100 (good match, confidence medium)
   - Dion Drena Beljo → Porto at ST: good match (72.3/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
-- **Ransford-Yeboah Königsdörffer** — 70.8/100 (good match, confidence medium)
-  - Ransford-Yeboah Königsdörffer → Porto at ST: good match (70.8/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-  - ⚠ Current club publicly not selling.
 
 ### LB — low priority
 Profile: attacking left-back comfortable in a high line  

@@ -1,0 +1,71 @@
+{
+  "player_id": "oussama_lamlioui",
+  "name": "Oussama Lamlioui",
+  "age": 30,
+  "date_of_birth": "1996-01-02",
+  "nationality": [
+    "MAR"
+  ],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "RS Berkane",
+  "current_club_league": "Botola Pro",
+  "contract_until": 2027,
+  "market_value_eur_m": 0.88,
+  "estimated_fee_eur_m": 3,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Botola Pro",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 5,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "poacher",
+      "43 career goals for RS Berkane"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://fmtransferupdate.com/players/2000077646-oussama-lamlioui",
+    "https://www.flashscore.com/player/lamlioui-oussama/8vy7jNHg/transfers"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "DOB 2 Jan 1996. Contracted to RS Berkane until 30 June 2027. Market value EUR881k. 2025/26 Botola Pro goals: 5 (career total across competitions: 43 goals)."
+  }
+}

@@ -86,13 +86,12 @@ Profile: explosive 1v1 winger, 19-23, resale value
 Why: Yan Diomandé sold to Real Madrid  
 Budget: €n/am · wage ceiling €n/am net
 
+- **Andre Brooks** — 80.9/100 (strong match, confidence medium)
+  - Andre Brooks → RB Leipzig at RW: strong match (80.9/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
 - **Paul Nebel** — 77.5/100 (good match, confidence medium)
   - Paul Nebel → RB Leipzig at RW: good match (77.5/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Gustav Isaksen** — 76.8/100 (good match, confidence medium)
-  - Gustav Isaksen → RB Leipzig at RW: good match (76.8/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
-  - ⚠ Current club publicly not selling.
-- **Diego Luna** — 76.5/100 (good match, confidence medium)
-  - Diego Luna → RB Leipzig at RW: good match (76.5/100). Driven by positional need and financial feasibility; weakest area is tactical / system fit (50).
+- **Jandry Gómez** — 77.2/100 (good match, confidence medium)
+  - Jandry Gómez → RB Leipzig at RW: good match (77.2/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### ST — high priority
 Profile: pressing 9 with 15+ goal ceiling  
@@ -106,8 +105,8 @@ Budget: €n/am · wage ceiling €n/am net
   - Ayase Ueda → RB Leipzig at ST: strong match (80.8/100). Driven by positional need and statistical fit; weakest area is age & contract (50).
   - ⚠ Current club publicly not selling.
   - ⚠ Would block a young starter (Tidiam Gomis, 20) — check pathway politics.
-- **Dion Drena Beljo** — 79.3/100 (strong match, confidence medium)
-  - Dion Drena Beljo → RB Leipzig at ST: strong match (79.3/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
+- **Juan Santos** — 79.8/100 (strong match, confidence medium)
+  - Juan Santos → RB Leipzig at ST: strong match (79.8/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
   - ⚠ Would block a young starter (Tidiam Gomis, 20) — check pathway politics.
 
 ### DM — medium priority

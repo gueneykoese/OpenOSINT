@@ -1,0 +1,75 @@
+{
+  "player_id": "akram_afif",
+  "name": "Akram Afif",
+  "age": 29,
+  "date_of_birth": "1996-11-18",
+  "nationality": [
+    "QAT"
+  ],
+  "position": "LW",
+  "secondary_positions": [
+    "AM"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Al Sadd SC",
+  "current_club_league": "Qatar Stars League",
+  "contract_until": null,
+  "market_value_eur_m": 2.6,
+  "estimated_fee_eur_m": 10,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Qatar Stars League",
+    "apps": null,
+    "starts": null,
+    "minutes": 1681,
+    "goals": 12,
+    "assists": 12,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "elite creative winger",
+      "Qatar national team captain-level figure",
+      "12 goals/12 assists in 2025/26 QSL season",
+      "AFC Asian Cup MVP/Golden Boot pedigree"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/613792/akram-afif",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Qatar_Stars_League"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB 18 Nov 1996. 2025/26 Qatar Stars League: 12 goals, 12 assists, 1681 minutes -- among the best output of any player researched in this pool. Market value reported inconsistently (EUR2.6m FotMob vs up to EUR8m elsewhere); EUR2.6m used with a note of the discrepancy. Contract details not confirmed -> null. Included as an established, high-profile Qatari export/marquee-signing target (e.g. for Saudi Pro League interest) despite being outside the 18-25 priority band."
+  }
+}

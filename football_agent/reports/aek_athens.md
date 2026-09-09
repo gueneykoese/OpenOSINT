@@ -86,37 +86,33 @@ Budget: €4m · wage ceiling €1m net
   - Jose Gaya → AEK at LB: good match (77.5/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
 - **Šimun Hrgović** — 72.4/100 (good match, confidence medium)
   - Šimun Hrgović → AEK at LB: good match (72.4/100). Driven by positional need and financial feasibility; weakest area is tactical / system fit (50).
-- **Oleksandr Zinchenko** — 71.5/100 (good match, confidence medium)
-  - Oleksandr Zinchenko → AEK at LB: good match (71.5/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (50).
+- **Umut Erdem** — 72.4/100 (good match, confidence medium)
+  - Umut Erdem → AEK at LB: good match (72.4/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### CB — medium priority
 Profile: quick, left-sided, 22-26 with resale value  
 Why: Vida/Moukoudi ageing; Alexiou only on loan  
 Budget: €5m · wage ceiling €1.2m net
 
-- **Craig Halkett** — 70.0/100 (good match, confidence medium)
-  - Craig Halkett → AEK at CB: good match (70.0/100). Driven by statistical fit and financial feasibility; weakest area is cultural adaptation (40).
-  - ⚠ Current club publicly not selling.
-- **Jayden Oosterwolde** — 67.4/100 (good match, confidence high)
-  - Jayden Oosterwolde → AEK at CB: good match (67.4/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (20).
-  - ⚠ Documented discipline record (see mental_profile.notes).
-  - ⚠ Current club publicly not selling.
-- **Maxime Estève** — 65.7/100 (possible, confidence medium)
-  - Maxime Estève → AEK at CB: possible (65.7/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
+- **Thabo Moloisane** — 73.6/100 (good match, confidence medium)
+  - Thabo Moloisane → AEK at CB: good match (73.6/100). Driven by financial feasibility and statistical fit; weakest area is mentality & chemistry (55).
+- **Botond Balogh** — 70.4/100 (good match, confidence medium)
+  - Botond Balogh → AEK at CB: good match (70.4/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Rayyan Baniya** — 70.1/100 (good match, confidence medium)
+  - Rayyan Baniya → AEK at CB: good match (70.1/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### ST — medium priority
 Profile: mobile pressing forward, under 26  
 Why: Jović (28) and Varga (31) are target-man types; no young succession  
 Budget: €6m · wage ceiling €1.5m net
 
+- **Nicolás López** — 75.3/100 (good match, confidence medium)
+  - Nicolás López → AEK at ST: good match (75.3/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (55).
 - **Sōta Nakamura** — 74.6/100 (good match, confidence medium)
   - Sōta Nakamura → AEK at ST: good match (74.6/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (55).
 - **Gorka Guruzeta** — 70.8/100 (good match, confidence medium)
   - Gorka Guruzeta → AEK at ST: good match (70.8/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
-- **Andrej Ilić** — 67.0/100 (good match, confidence medium)
-  - Andrej Ilić → AEK at ST: good match (67.0/100). Driven by statistical fit and positional need; weakest area is financial feasibility (48).
 
 ## Sources
 

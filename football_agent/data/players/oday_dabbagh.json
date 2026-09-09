@@ -1,0 +1,74 @@
+{
+  "player_id": "oday_dabbagh",
+  "name": "Oday Dabbagh",
+  "age": 27,
+  "date_of_birth": "1998-12-03",
+  "nationality": [
+    "PLE"
+  ],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Zamalek SC",
+  "current_club_league": "Egyptian Premier League",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 12,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Egyptian Premier League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 6,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "target man / poacher",
+      "Palestine national team all-time leading scorer (17 goals in 51 caps)",
+      "signed 4-year deal with Zamalek Aug 2025",
+      "previously played in Belgium (Charleroi) and Kuwait"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Oday_Dabbagh",
+    "https://www.fotmob.com/players/855623/oday-dabbagh",
+    "https://www.goal.com/en-us/player/oday-dabbagh/bzt6oj1d4d2x3qez55hlvzpwp"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB 3 Dec 1998 (Wikipedia). Signed a four-year contract with Zamalek in August 2025 (until ~2029, inferred from 4-year term, not explicitly confirmed -> flagged low certainty on exact end year). 2025/26 Premier League goals: 6 (Wikipedia). Palestine's all-time top scorer (17 goals/51 caps) -> strong marketability/export story given prior Belgian Pro League experience at Charleroi. Market value not retrieved -> null."
+  }
+}

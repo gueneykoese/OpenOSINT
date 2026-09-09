@@ -254,6 +254,9 @@ class Player:
     languages: list[str]
     public_statements: list[str]
     off_pitch_notes: Optional[str]
+    happiness_status: Optional[str]
+    happiness_notes: Optional[str]
+    preferred_clubs: list[dict[str, Any]]
     sources: list[str]
     as_of: Optional[str]
     confidence: str
@@ -298,6 +301,9 @@ class Player:
             languages=[lang.lower() for lang in off.get("languages") or []],
             public_statements=off.get("public_statements") or [],
             off_pitch_notes=off.get("notes"),
+            happiness_status=off.get("happiness_status"),
+            happiness_notes=off.get("happiness_notes"),
+            preferred_clubs=off.get("preferred_clubs") or [],
             sources=d.get("sources") or [],
             as_of=d.get("as_of"),
             confidence=_get(d, "data_quality", "confidence", default="low"),

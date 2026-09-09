@@ -1,0 +1,75 @@
+{
+  "player_id": "nasser_maher",
+  "name": "Nasser Maher",
+  "age": 29,
+  "date_of_birth": "1997-02-08",
+  "nationality": [
+    "EGY"
+  ],
+  "position": "AM",
+  "secondary_positions": [
+    "ST"
+  ],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Pyramids FC",
+  "current_club_league": "Egyptian Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 10,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Egyptian Premier League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 9,
+    "assists": 6,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "attacking midfielder",
+      "top scorer for Pyramids 2025/26",
+      "Egypt senior international (debut June 2024)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nasser_Maher",
+    "https://www.fotmob.com/players/847521/nasser-maher",
+    "https://www.espn.com/soccer/player/_/id/256060/nasser-maher"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Age 29 (DOB 8 Feb 1997, ESPN/Wikipedia). Leads Pyramids scoring in 2025/26 league play with 9 goals, 6 assists per Goal.com club-stats snippet (exact apps/minutes not sourced -> null). 4 caps for Egypt senior team as of source date. estimated_fee_eur_m is researcher estimate based on domestic-league output; market value not retrieved from Transfermarkt directly -> null. Contract length unverified."
+  }
+}
