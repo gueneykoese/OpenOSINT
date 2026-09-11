@@ -107,11 +107,11 @@ Budget: €35m · wage ceiling €6m net
 - **Noah Atubolu** — 79.9/100 (strong match, confidence medium)
   - Noah Atubolu → Bayern at GK: strong match (79.9/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
-- **Mostafa Shobeir** — 67.4/100 (good match, confidence medium)
-  - Mostafa Shobeir → Bayern at GK: good match (67.4/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
+- **El Mehdi Al Harrar** — 71.0/100 (good match, confidence medium)
+  - El Mehdi Al Harrar → Bayern at GK: good match (71.0/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (47).
+- **Hamza Alaa** — 68.9/100 (good match, confidence medium)
+  - Hamza Alaa → Bayern at GK: good match (68.9/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
   - ⚠ Current club publicly not selling.
-- **Patrick Schulte** — 67.3/100 (good match, confidence medium)
-  - Patrick Schulte → Bayern at GK: good match (67.3/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
 
 ### RB — low priority
 Profile: specialist attacking RB  

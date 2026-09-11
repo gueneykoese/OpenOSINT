@@ -128,13 +128,13 @@ Profile: experienced backup, 26-32
 Why: Gollini is the only senior deputy to Svilar  
 Budget: €3m · wage ceiling €1m net
 
-- **Noah Atubolu** — 56.3/100 (possible, confidence medium)
-  - Noah Atubolu → Roma at GK: possible (56.3/100). Driven by statistical fit and tactical / system fit; weakest area is financial feasibility (0).
+- **El Mehdi Al Harrar** — 65.3/100 (possible, confidence medium)
+  - El Mehdi Al Harrar → Roma at GK: possible (65.3/100). Driven by financial feasibility and statistical fit; weakest area is positional need (39).
+- **Kwadwo Bonsu** — 63.7/100 (possible, confidence medium)
+  - Kwadwo Bonsu → Roma at GK: possible (63.7/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
+- **Hamza Alaa** — 63.0/100 (possible, confidence medium)
+  - Hamza Alaa → Roma at GK: possible (63.0/100). Driven by financial feasibility and statistical fit; weakest area is positional need (42).
   - ⚠ Current club publicly not selling.
-- **Patrick Schulte** — 55.2/100 (possible, confidence medium)
-  - Patrick Schulte → Roma at GK: possible (55.2/100). Driven by statistical fit and financial feasibility; weakest area is positional need (39).
-- **Frankarlos Benítez** — 49.2/100 (weak, confidence low)
-  - Frankarlos Benítez → Roma at GK: weak (49.2/100). Driven by statistical fit and tactical / system fit; weakest area is positional need (21).
 
 ## Sources
 

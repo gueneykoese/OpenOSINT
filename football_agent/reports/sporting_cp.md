@@ -118,10 +118,10 @@ Budget: €15m · wage ceiling €2m net
 
 - **Oswin Appollis** — 78.3/100 (strong match, confidence medium)
   - Oswin Appollis → Sporting CP at RW: strong match (78.3/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
+- **Marin Petkov** — 73.3/100 (good match, confidence medium)
+  - Marin Petkov → Sporting CP at RW: good match (73.3/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 - **Efraín Álvarez** — 72.6/100 (good match, confidence medium)
   - Efraín Álvarez → Sporting CP at RW: good match (72.6/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
-- **Shandre Campbell** — 72.3/100 (good match, confidence medium)
-  - Shandre Campbell → Sporting CP at RW: good match (72.3/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### ST — low priority
 Profile: back-up No. 9, 20-24, resale value  
@@ -130,10 +130,10 @@ Budget: €10m · wage ceiling €1.5m net
 
 - **Nicolás López** — 68.7/100 (good match, confidence medium)
   - Nicolás López → Sporting CP at ST: good match (68.7/100). Driven by statistical fit and financial feasibility; weakest area is positional need (20).
+- **Miguel Villarroel** — 67.2/100 (good match, confidence medium)
+  - Miguel Villarroel → Sporting CP at ST: good match (67.2/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (50).
 - **Kouceila Boualia** — 67.1/100 (good match, confidence medium)
   - Kouceila Boualia → Sporting CP at ST: good match (67.1/100). Driven by financial feasibility and positional need; weakest area is positional need (50).
-- **Oswaldo Virgen** — 66.7/100 (good match, confidence medium)
-  - Oswaldo Virgen → Sporting CP at ST: good match (66.7/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (50).
 
 ## Sources
 

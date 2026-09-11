@@ -80,12 +80,12 @@ Profile: quick 1v1 winger with end product, 20-25, resale potential
 Why: Kevin (EUR 40m) sold to Fulham; Eguinaldo is the only verified senior left-sided option  
 Budget: €8m · wage ceiling €1.2m net
 
+- **Alassane Gueye** — 81.8/100 (strong match, confidence medium)
+  - Alassane Gueye → Shakhtar at LW: strong match (81.8/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
 - **Toni Fruk** — 77.6/100 (good match, confidence medium)
   - Toni Fruk → Shakhtar at LW: good match (77.6/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
 - **Oswin Appollis** — 76.5/100 (good match, confidence medium)
   - Oswin Appollis → Shakhtar at LW: good match (76.5/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (5).
-- **Shandre Campbell** — 76.2/100 (good match, confidence medium)
-  - Shandre Campbell → Shakhtar at LW: good match (76.2/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### AM — medium priority
 Profile: creative No.10/No.8 who can play in a 4-3-3 interior role  
@@ -106,11 +106,10 @@ Budget: €4m · wage ceiling €0.8m net
 
 - **Colby Donovan** — 65.8/100 (possible, confidence medium)
   - Colby Donovan → Shakhtar at RB: possible (65.8/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
-- **Fikayo Tomori** — 63.7/100 (possible, confidence medium)
-  - Fikayo Tomori → Shakhtar at RB: possible (63.7/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
-- **Chris Richards** — 63.5/100 (possible, confidence medium)
-  - Chris Richards → Shakhtar at RB: possible (63.5/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
-  - ⚠ Current club publicly not selling.
+- **Marin Petkov** — 64.1/100 (possible, confidence medium)
+  - Marin Petkov → Shakhtar at RB: possible (64.1/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
+- **Antoine Mendy** — 63.8/100 (possible, confidence low)
+  - Antoine Mendy → Shakhtar at RB: possible (63.8/100). Driven by positional need and statistical fit; weakest area is statistical fit (50).
 
 ### ST — medium priority
 Profile: penalty-box finisher with 12+ goal record  

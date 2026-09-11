@@ -129,14 +129,13 @@ Profile: long-term successor to Oblak (33), 22-26
 Why: Oblak and Musso are both over 30; Moldovan loaned out  
 Budget: €15m · wage ceiling €2m net
 
-- **Mostafa Shobeir** — 63.9/100 (possible, confidence medium)
-  - Mostafa Shobeir → Atlético at GK: possible (63.9/100). Driven by financial feasibility and positional need; weakest area is positional need (50).
+- **El Mehdi Al Harrar** — 69.4/100 (good match, confidence medium)
+  - El Mehdi Al Harrar → Atlético at GK: good match (69.4/100). Driven by financial feasibility and statistical fit; weakest area is positional need (50).
+- **Hamza Alaa** — 66.9/100 (good match, confidence medium)
+  - Hamza Alaa → Atlético at GK: good match (66.9/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (50).
   - ⚠ Current club publicly not selling.
-- **Patrick Schulte** — 63.5/100 (possible, confidence medium)
-  - Patrick Schulte → Atlético at GK: possible (63.5/100). Driven by financial feasibility and positional need; weakest area is positional need (50).
-- **Noah Atubolu** — 62.9/100 (possible, confidence medium)
-  - Noah Atubolu → Atlético at GK: possible (62.9/100). Driven by statistical fit and positional need; weakest area is financial feasibility (30).
-  - ⚠ Current club publicly not selling.
+- **Kwadwo Bonsu** — 64.5/100 (possible, confidence medium)
+  - Kwadwo Bonsu → Atlético at GK: possible (64.5/100). Driven by financial feasibility and positional need; weakest area is positional need (50).
 
 ## Sources
 

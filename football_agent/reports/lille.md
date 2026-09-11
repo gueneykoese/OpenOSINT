@@ -101,11 +101,10 @@ Budget: €n/am · wage ceiling €n/am net
 
 - **Oswin Appollis** — 77.5/100 (good match, confidence medium)
   - Oswin Appollis → Lille at LW: good match (77.5/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+- **Alassane Gueye** — 73.4/100 (good match, confidence medium)
+  - Alassane Gueye → Lille at LW: good match (73.4/100). Driven by financial feasibility and statistical fit; weakest area is tactical / system fit (50).
 - **Diego Luna** — 71.4/100 (good match, confidence medium)
   - Diego Luna → Lille at LW: good match (71.4/100). Driven by financial feasibility and statistical fit; weakest area is tactical / system fit (50).
-- **Leandro Trossard** — 71.1/100 (good match, confidence medium)
-  - Leandro Trossard → Lille at LW: good match (71.1/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
-  - ⚠ Current club publicly not selling.
 
 ### RB — medium priority
 Profile: experienced right-back, 24-29  

@@ -111,13 +111,13 @@ Profile: experienced No.2 comfortable with build-up
 Why: Backup options behind Uğurcan Çakır are domestic and inexperienced  
 Budget: €3m · wage ceiling €1m net
 
-- **Frankarlos Benítez** — 60.0/100 (possible, confidence low)
-  - Frankarlos Benítez → Galatasaray at GK: possible (60.0/100). Driven by tactical / system fit and statistical fit; weakest area is positional need (45).
-- **Noah Atubolu** — 59.1/100 (possible, confidence medium)
-  - Noah Atubolu → Galatasaray at GK: possible (59.1/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
+- **El Mehdi Al Harrar** — 70.0/100 (good match, confidence medium)
+  - El Mehdi Al Harrar → Galatasaray at GK: good match (70.0/100). Driven by financial feasibility and statistical fit; weakest area is positional need (48).
+- **Hamza Alaa** — 64.3/100 (possible, confidence medium)
+  - Hamza Alaa → Galatasaray at GK: possible (64.3/100). Driven by financial feasibility and statistical fit; weakest area is positional need (48).
   - ⚠ Current club publicly not selling.
-- **Patrick Schulte** — 55.2/100 (possible, confidence medium)
-  - Patrick Schulte → Galatasaray at GK: possible (55.2/100). Driven by statistical fit and positional need; weakest area is positional need (45).
+- **Stanley Nwabali** — 64.0/100 (possible, confidence medium)
+  - Stanley Nwabali → Galatasaray at GK: possible (64.0/100). Driven by financial feasibility and tactical / system fit; weakest area is age & contract (30).
 
 ## Sources
 

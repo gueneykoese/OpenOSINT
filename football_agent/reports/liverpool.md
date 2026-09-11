@@ -135,11 +135,11 @@ Budget: €n/am · wage ceiling €n/am net
 - **Noah Atubolu** — 80.5/100 (strong match, confidence medium)
   - Noah Atubolu → Liverpool at GK: strong match (80.5/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
-- **Mostafa Shobeir** — 68.8/100 (good match, confidence medium)
-  - Mostafa Shobeir → Liverpool at GK: good match (68.8/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
+- **El Mehdi Al Harrar** — 75.3/100 (good match, confidence medium)
+  - El Mehdi Al Harrar → Liverpool at GK: good match (75.3/100). Driven by financial feasibility and statistical fit; weakest area is cultural adaptation (52).
+- **Hamza Alaa** — 70.3/100 (good match, confidence medium)
+  - Hamza Alaa → Liverpool at GK: good match (70.3/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
   - ⚠ Current club publicly not selling.
-- **Patrick Schulte** — 68.8/100 (good match, confidence medium)
-  - Patrick Schulte → Liverpool at GK: good match (68.8/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
 
 ## Sources
 

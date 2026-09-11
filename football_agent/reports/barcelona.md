@@ -134,14 +134,13 @@ Profile: young backup, 22-26
 Why: Szczesny is 36 and ter Stegen loaned to Ajax; Livakovic signed as cover  
 Budget: €8m · wage ceiling €1.5m net
 
-- **Patrick Schulte** — 64.1/100 (possible, confidence medium)
-  - Patrick Schulte → Barcelona at GK: possible (64.1/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
-- **Mostafa Shobeir** — 63.2/100 (possible, confidence medium)
-  - Mostafa Shobeir → Barcelona at GK: possible (63.2/100). Driven by financial feasibility and positional need; weakest area is positional need (50).
+- **El Mehdi Al Harrar** — 73.9/100 (good match, confidence medium)
+  - El Mehdi Al Harrar → Barcelona at GK: good match (73.9/100). Driven by financial feasibility and statistical fit; weakest area is positional need (50).
+- **Hamza Alaa** — 67.5/100 (good match, confidence medium)
+  - Hamza Alaa → Barcelona at GK: good match (67.5/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
   - ⚠ Current club publicly not selling.
-- **Noah Atubolu** — 61.4/100 (possible, confidence medium)
-  - Noah Atubolu → Barcelona at GK: possible (61.4/100). Driven by statistical fit and tactical / system fit; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
+- **Kwadwo Bonsu** — 66.6/100 (good match, confidence medium)
+  - Kwadwo Bonsu → Barcelona at GK: good match (66.6/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
 
 ## Sources
 

@@ -98,13 +98,13 @@ Profile: experienced No.2 who can start UCL games if needed
 Why: No verified backup to Takáč for a 50-game season  
 Budget: €0.5m · wage ceiling €0.2m net
 
-- **Noah Atubolu** — 64.2/100 (possible, confidence medium)
-  - Noah Atubolu → Slovan Bratislava at GK: possible (64.2/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
+- **Hamza Alaa** — 66.4/100 (good match, confidence medium)
+  - Hamza Alaa → Slovan Bratislava at GK: good match (66.4/100). Driven by financial feasibility and positional need; weakest area is cultural adaptation (33).
   - ⚠ Current club publicly not selling.
-- **Frankarlos Benítez** — 58.2/100 (possible, confidence low)
-  - Frankarlos Benítez → Slovan Bratislava at GK: possible (58.2/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (47).
-- **Alex Meret** — 52.3/100 (weak, confidence medium)
-  - Alex Meret → Slovan Bratislava at GK: weak (52.3/100). Driven by positional need and tactical / system fit; weakest area is financial feasibility (10).
+- **Stanley Nwabali** — 65.9/100 (possible, confidence medium)
+  - Stanley Nwabali → Slovan Bratislava at GK: possible (65.9/100). Driven by financial feasibility and positional need; weakest area is cultural adaptation (5).
+- **Kwadwo Bonsu** — 65.4/100 (possible, confidence medium)
+  - Kwadwo Bonsu → Slovan Bratislava at GK: possible (65.4/100). Driven by financial feasibility and positional need; weakest area is cultural adaptation (20).
 
 ## Sources
 

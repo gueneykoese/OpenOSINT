@@ -79,16 +79,15 @@ Profile: experienced Bundesliga/UCL-level goalkeeper, 26-32, comfortable with th
 Why: Nübel's loan ended; Seimen (20) is untested at this level and Funk is a 3. Liga-level backup  
 Budget: €10m · wage ceiling €3m net
 
-- **Mostafa Shobeir** — 73.0/100 (good match, confidence medium)
-  - Mostafa Shobeir → Stuttgart at GK: good match (73.0/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **El Mehdi Al Harrar** — 80.5/100 (strong match, confidence medium)
+  - El Mehdi Al Harrar → Stuttgart at GK: strong match (80.5/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (47).
+  - ⚠ Would block a young starter (Dennis Seimen, 20) — check pathway politics.
+- **Hamza Alaa** — 74.5/100 (good match, confidence medium)
+  - Hamza Alaa → Stuttgart at GK: good match (74.5/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
   - ⚠ Current club publicly not selling.
   - ⚠ Would block a young starter (Dennis Seimen, 20) — check pathway politics.
-- **Patrick Schulte** — 72.9/100 (good match, confidence medium)
-  - Patrick Schulte → Stuttgart at GK: good match (72.9/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-  - ⚠ Would block a young starter (Dennis Seimen, 20) — check pathway politics.
-- **Noah Atubolu** — 71.8/100 (good match, confidence medium)
-  - Noah Atubolu → Stuttgart at GK: good match (71.8/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
+- **Kwadwo Bonsu** — 74.5/100 (good match, confidence medium)
+  - Kwadwo Bonsu → Stuttgart at GK: good match (74.5/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
   - ⚠ Would block a young starter (Dennis Seimen, 20) — check pathway politics.
 
 ### CB — medium priority

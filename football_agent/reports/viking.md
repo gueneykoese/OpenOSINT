@@ -84,12 +84,12 @@ Profile: ball-winning No.6
 Why: Sætherbø left; attacking system leaves the pivot exposed  
 Budget: €1m · wage ceiling €0.3m net
 
+- **Kwasi Sibo** — 72.8/100 (good match, confidence medium)
+  - Kwasi Sibo → Viking at DM: good match (72.8/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (52).
 - **Sean Zawadzki** — 69.0/100 (good match, confidence medium)
   - Sean Zawadzki → Viking at DM: good match (69.0/100). Driven by statistical fit and positional need; weakest area is financial feasibility (50).
-- **Jack Milne** — 65.2/100 (possible, confidence medium)
-  - Jack Milne → Viking at DM: possible (65.2/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
-- **Oleksandr Zinchenko** — 62.2/100 (possible, confidence medium)
-  - Oleksandr Zinchenko → Viking at DM: possible (62.2/100). Driven by financial feasibility and positional need; weakest area is cultural adaptation (27).
+- **Branko Pavić** — 67.9/100 (good match, confidence medium)
+  - Branko Pavić → Viking at DM: good match (67.9/100). Driven by financial feasibility and positional need; weakest area is cultural adaptation (45).
 
 ### ST — medium priority
 Profile: succession for Christiansen (top scorer, sale risk)  

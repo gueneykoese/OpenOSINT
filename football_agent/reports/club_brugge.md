@@ -85,12 +85,12 @@ Profile: direct goal-and-assist winger, 20-25, resale value
 Why: Tzolis sold to Arsenal; Diakhon and Forbs are the only senior wide options.  
 Budget: €12m · wage ceiling €1.2m net
 
+- **Alassane Gueye** — 80.1/100 (strong match, confidence medium)
+  - Alassane Gueye → Club Brugge at LW: strong match (80.1/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
 - **Toni Fruk** — 77.2/100 (good match, confidence medium)
   - Toni Fruk → Club Brugge at LW: good match (77.2/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
 - **Oswin Appollis** — 76.0/100 (good match, confidence medium)
   - Oswin Appollis → Club Brugge at LW: good match (76.0/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (14).
-- **Abdoulaye Toure** — 75.7/100 (good match, confidence medium)
-  - Abdoulaye Toure → Club Brugge at LW: good match (75.7/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### DM — medium priority
 Profile: ball-winning No. 6 with UCL-level physicality, 22-26  

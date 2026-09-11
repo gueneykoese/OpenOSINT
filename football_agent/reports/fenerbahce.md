@@ -105,10 +105,10 @@ Budget: €n/am · wage ceiling €n/am net
 - **Ayase Ueda** — 76.8/100 (good match, confidence medium)
   - Ayase Ueda → Fenerbahçe at ST: good match (76.8/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
+- **Gift Orban** — 76.2/100 (good match, confidence medium)
+  - Gift Orban → Fenerbahçe at ST: good match (76.2/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 - **Andrej Ilić** — 76.1/100 (good match, confidence medium)
   - Andrej Ilić → Fenerbahçe at ST: good match (76.1/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
-- **Janderson** — 75.2/100 (good match, confidence medium)
-  - Janderson → Fenerbahçe at ST: good match (75.2/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
 
 ### DM — low priority
 Profile: ball-winning, press-resistant No.6, under 27  
@@ -131,11 +131,10 @@ Budget: €n/am · wage ceiling €n/am net
 - **Noah Atubolu** — 70.1/100 (good match, confidence medium)
   - Noah Atubolu → Fenerbahçe at GK: good match (70.1/100). Driven by statistical fit and financial feasibility; weakest area is positional need (48).
   - ⚠ Current club publicly not selling.
-- **Mostafa Shobeir** — 65.0/100 (possible, confidence medium)
-  - Mostafa Shobeir → Fenerbahçe at GK: possible (65.0/100). Driven by financial feasibility and statistical fit; weakest area is positional need (48).
-  - ⚠ Current club publicly not selling.
-- **Patrick Schulte** — 63.2/100 (possible, confidence medium)
-  - Patrick Schulte → Fenerbahçe at GK: possible (63.2/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
+- **El Mehdi Al Harrar** — 69.2/100 (good match, confidence medium)
+  - El Mehdi Al Harrar → Fenerbahçe at GK: good match (69.2/100). Driven by financial feasibility and statistical fit; weakest area is positional need (48).
+- **Stanley Nwabali** — 66.2/100 (good match, confidence medium)
+  - Stanley Nwabali → Fenerbahçe at GK: good match (66.2/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (48).
 
 ## Sources
 

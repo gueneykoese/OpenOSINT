@@ -624,26 +624,6 @@
       "injury_flag": null
     },
     {
-      "name": "Leon Bailey",
-      "position": "RW",
-      "secondary_positions": [
-        "LW"
-      ],
-      "age": 29,
-      "nationality": "JAM",
-      "contract_until": null,
-      "shirt_no": null,
-      "role": "rotation",
-      "stats_2025_26": {
-        "apps": null,
-        "starts": null,
-        "minutes": null,
-        "goals": null,
-        "assists": null
-      },
-      "injury_flag": null
-    },
-    {
       "name": "Nicolas Jackson",
       "position": "ST",
       "secondary_positions": [
@@ -815,6 +795,6 @@
   "as_of": "2026-09-02",
   "data_quality": {
     "confidence": "medium",
-    "notes": "Researched via web-search snippets only (page fetches were blocked). Verified: coach, UCL draw (club site + 3 outlets), league table (4th, 65 pts, 19-8-11, 63-48), Europa League win, cup exits, 10 arrivals, headline departures. Fees converted GBP->EUR at ~1.15 and rounded; Manzambi reported as GBP 51m (Sports Mole) and GBP 59.5m (Squawka) - the latter used as EUR figure; Nicolas Jackson reported both as a GBP 48m/'just shy of GBP 60m' purchase and as a loan from Chelsea - deal structure unverified; Rogers fee reported as GBP 117m and 120m. Net spend approx -EUR 128m derived from 'net profit >GBP 100m' (Squawka) and Sports Mole totals - treat as estimate. Squad: 24 names compiled from the club's new-signings article, the 31 Aug 2026 v Arsenal starting XI, contract snippets and injury reports; Emiliano Martinez's 2026/27 status (still contracted to 2029 but Suzuki started v Arsenal) and Tyrone Mings' presence are not independently confirmed; Hemmings and Madjo details (age, nationality) unknown. Shirt numbers only where sourced. Per-player 2025/26 stats unavailable (null). xG/possession null. Position benchmark ST taken from Ollie Watkins' 2025/26 PL per-90 numbers (departed) as the club's reference level; other benchmarks null. Top assister Morgan Rogers confirmed by Sofascore but assist total conflicting (5 vs 6 PL) so left null. Loan departures beyond Guessand (five reported) not itemised."
+    "notes": "Researched via web-search snippets only (page fetches were blocked). Verified: coach, UCL draw (club site + 3 outlets), league table (4th, 65 pts, 19-8-11, 63-48), Europa League win, cup exits, 10 arrivals, headline departures. Fees converted GBP->EUR at ~1.15 and rounded; Manzambi reported as GBP 51m (Sports Mole) and GBP 59.5m (Squawka) - the latter used as EUR figure; Nicolas Jackson reported both as a GBP 48m/'just shy of GBP 60m' purchase and as a loan from Chelsea - deal structure unverified; Rogers fee reported as GBP 117m and 120m. Net spend approx -EUR 128m derived from 'net profit >GBP 100m' (Squawka) and Sports Mole totals - treat as estimate. Squad: 24 names compiled from the club's new-signings article, the 31 Aug 2026 v Arsenal starting XI, contract snippets and injury reports; Emiliano Martinez's 2026/27 status (still contracted to 2029 but Suzuki started v Arsenal) and Tyrone Mings' presence are not independently confirmed; Hemmings and Madjo details (age, nationality) unknown. Shirt numbers only where sourced. Per-player 2025/26 stats unavailable (null). xG/possession null. Position benchmark ST taken from Ollie Watkins' 2025/26 PL per-90 numbers (departed) as the club's reference level; other benchmarks null. Top assister Morgan Rogers confirmed by Sofascore but assist total conflicting (5 vs 6 PL) so left null. Loan departures beyond Guessand (five reported) not itemised. | CORRECTED 2026-09-11: Leon Bailey removed from squad - permanent transfer to Olympiacos confirmed (EUR 5m incl. bonuses, 3-year deal to Jun 2029 + option year, signed 2 Sept 2026, officially confirmed by both clubs per Yahoo Sports/SportsMole/Jamaica Observer/Wikipedia, see players/leon_bailey.json, high confidence)."
   }
 }

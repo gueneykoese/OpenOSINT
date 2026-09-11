@@ -117,14 +117,13 @@ Profile: young backup/successor to Kobel, 21-25
 Why: Meyer 35, Ostrzinski 22 and untested, Ramaj on loan  
 Budget: €10m · wage ceiling €1.5m net
 
+- **El Mehdi Al Harrar** — 70.5/100 (good match, confidence medium)
+  - El Mehdi Al Harrar → Dortmund at GK: good match (70.5/100). Driven by financial feasibility and statistical fit; weakest area is cultural adaptation (47).
+- **Hamza Alaa** — 65.1/100 (possible, confidence medium)
+  - Hamza Alaa → Dortmund at GK: possible (65.1/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
+  - ⚠ Current club publicly not selling.
 - **Patrick Schulte** — 65.0/100 (possible, confidence medium)
   - Patrick Schulte → Dortmund at GK: possible (65.0/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
-- **Mostafa Shobeir** — 62.3/100 (possible, confidence medium)
-  - Mostafa Shobeir → Dortmund at GK: possible (62.3/100). Driven by financial feasibility and statistical fit; weakest area is positional need (39).
-  - ⚠ Current club publicly not selling.
-- **Noah Atubolu** — 62.1/100 (possible, confidence medium)
-  - Noah Atubolu → Dortmund at GK: possible (62.1/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
 
 ### RW — low priority
 Profile: pacy right winger/wing-back, 20-24  
