@@ -1,0 +1,75 @@
+{
+  "player_id": "gora_diouf",
+  "name": "Gora Diouf",
+  "age": 22,
+  "date_of_birth": "2003-09-20",
+  "nationality": ["SEN"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 185,
+  "current_club": "KV Mechelen",
+  "current_club_league": "Belgian Pro League",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Belgian Pro League",
+    "apps": 8,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "centre-back, 185cm",
+      "developed through FC Sion (Swiss Super League), senior debut April 2023",
+      "moved to KV Mechelen (Belgian Pro League) on 30 June 2025 on a contract to 2028",
+      "called up to a Senegal U20 training camp (May 2022)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gora_Diouf",
+    "https://www.espn.com/soccer/player/_/id/350454/gora-diouf",
+    "https://us.soccerway.com/player/diouf-gora/6cwkTzBJ/"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Career path: FC Sion (Switzerland, signed Aug 2022, senior debut April 2023) -> KV Mechelen (Belgian Pro League, signed 30 June 2025, contract to 2028). 2025/26 season so far: 8 apps, 0 goals, 1 assist. Only underage (U20 training camp, 2022) international involvement with Senegal found, no senior caps confirmed in snippets. Height/DOB from Wikipedia/ESPN. Wages, market value, transfer fee not found -> null. KV Mechelen is not one of the 36 UCL 2026/27 pilot clubs."
+  }
+}

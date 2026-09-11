@@ -1,0 +1,74 @@
+{
+  "player_id": "danlad_ibrahim",
+  "name": "Ibrahim Danlad",
+  "age": 23,
+  "date_of_birth": null,
+  "nationality": ["GHA"],
+  "position": "GK",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Asante Kotoko",
+  "current_club_league": "Ghana Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Ethiopian Premier League (Ethiopia Coffee, prior club)",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Ghana international goalkeeper, part of Ghana's squad at the 2022 FIFA World Cup in Qatar",
+      "returned to Asante Kotoko on a two-year deal ahead of 2026/27 after two years at Ethiopia Coffee (Ethiopian Premier League)",
+      "was the subject of a bidding battle between Asante Kotoko, Hearts of Oak and Ethiopian clubs before re-signing for Kotoko"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.ghanaweb.com/GhanaHomePage/SportsArchive/Danlad-Ibrahim-returns-to-Asante-Kotoko-on-two-year-deal-2048473",
+    "https://ghanasoccernet.com/kotoko-hearts-of-oak-battle-for-danlad-ibrahim-as-ethiopian-clubs-circle",
+    "https://ghanasoccernet.com/ibrahim-danlad-returns-to-asante-kotoko-after-two-years-in-ethiopia"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Added specifically to address the GK under-representation in the pool. Ghana international (2022 World Cup squad member); returned from Ethiopia Coffee (Ethiopian Premier League) to Asante Kotoko on a two-year deal ahead of 2026/27 after a competitive chase involving Hearts of Oak and Ethiopian clubs. Statline at Ethiopia Coffee not found in snippets -> null. DOB, height, wages, market value not found -> null."
+  }
+}

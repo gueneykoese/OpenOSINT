@@ -1,0 +1,77 @@
+{
+  "player_id": "amas_obasogie",
+  "name": "Amas Obasogie",
+  "age": 26,
+  "date_of_birth": "1999-12-27",
+  "nationality": ["NGA"],
+  "position": "GK",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 183,
+  "current_club": "Singida Black Stars",
+  "current_club_league": "Tanzanian Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Tanzanian Premier League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "goalkeeper, born in Benin City, Nigeria, 183cm",
+      "career path: Bendel Insurance (NPFL) -> Fasil Kenema SC (Ethiopian Premier League, 2024) -> Singida Black Stars (Tanzanian Premier League, 2025)",
+      "33 apps, 72.0% save percentage, 9 clean sheets for Bendel Insurance in 2023/24",
+      "capped once for Nigeria; included in the Super Eagles' bronze-medal-winning squad at the 2025 Africa Cup of Nations",
+      "career total (all clubs): 85 apps, 16 clean sheets"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amas_Obasogie",
+    "https://www.espn.com/soccer/player/_/id/376934/amas-obasogie",
+    "https://www.statscrew.com/worldfootball/stats/p-obasoama001",
+    "https://fbref.com/en/players/09cd26e1/Amas-Obasogie"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Added specifically to address the GK under-representation in the pool. A well-travelled Nigerian goalkeeper (NPFL -> Ethiopia -> Tanzania) who was part of Nigeria's 2025 AFCON bronze-medal squad despite only 1 senior cap. 2025/26-specific Singida Black Stars statline not found in snippets -> null (career totals of 85 apps/16 clean sheets and the well-documented 2023/24 Bendel Insurance season -- 33 apps, 72.0% save pct, 9 clean sheets -- are used instead in style_profile). Wages, market value not found -> null."
+  }
+}

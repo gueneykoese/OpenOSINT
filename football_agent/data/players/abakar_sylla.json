@@ -1,0 +1,76 @@
+{
+  "player_id": "abakar_sylla",
+  "name": "Abakar Sylla",
+  "age": 23,
+  "date_of_birth": "2002-12-25",
+  "nationality": ["CIV"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Gaziantep FK",
+  "current_club_league": "Süper Lig",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Ligue 1 (loan spell at Nantes, prior to Gaziantep move)",
+    "apps": 3,
+    "starts": null,
+    "minutes": 65,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "centre-back, 6 caps for Ivory Coast",
+      "originally joined Strasbourg from Club Brugge for a reported EUR 20m fee (51 apps, 4 goals for Strasbourg across all competitions)",
+      "loaned to FC Nantes in February 2026 for the rest of the 2025/26 season (limited game time: 3 apps, 65 minutes)",
+      "left Strasbourg permanently and joined Gaziantep FK (Turkish Super Lig)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abakar_Sylla",
+    "https://www.getfootballnewsfrance.com/2026/official-abakar-sylla-leaves-strasbourg/",
+    "https://www.rcstrasbourgalsace.fr/en/abakar-sylla-loaned-to-nantes/",
+    "https://www.fotmob.com/players/1359613/abakar-sylla"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "A once-promising EUR 20m Club Brugge-to-Strasbourg signing whose game time dropped off (only 3 apps/65 minutes on loan at Nantes in the second half of 2025/26) before leaving Strasbourg permanently for Gaziantep FK (Turkish Super Lig) -- a step down in level that may indicate a player description worth flagging as a change in trajectory rather than a rising prospect. 6 caps for Ivory Coast. DOB from Wikipedia. Height, wages, transfer fee to Gaziantep, market value not found -> null. None of Club Brugge, Strasbourg, Nantes or Gaziantep is one of the 36 UCL 2026/27 pilot clubs (note: Club Brugge itself IS on that list, but this is a past club, not his current one, so no exclusion applies)."
+  }
+}

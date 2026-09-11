@@ -1,0 +1,70 @@
+{
+  "player_id": "fabio_abreu",
+  "name": "Fábio Abreu",
+  "age": 33,
+  "date_of_birth": "1993-01-29",
+  "nationality": ["POR", "AGO"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Beijing Guoan",
+  "current_club_league": "Chinese Super League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Chinese Super League",
+    "apps": 29,
+    "starts": null,
+    "minutes": null,
+    "goals": 24,
+    "assists": 6,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["born in Lisbon of Angolan descent", "career through Portuguese lower/mid tiers (Maritimo B, Penafiel, Moreirense) before Saudi/UAE spells (Al Batin, Khor Fakkan)", "led the entire Chinese Super League scoring charts in the 2025 season (24 goals, 6 assists in 29 matches)", "at Beijing Guoan since 2023"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt"],
+    "family_situation": "Born in Lisbon, Portugal, of Angolan descent.",
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/F%C3%A1bio_Abreu",
+    "https://www.espn.com/soccer/player/_/id/208131/fabio-abreu",
+    "https://us.soccerway.com/player/abreu-fabio/vgu34XPq/"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, career path and 2025 CSL scoring-charts leadership (24 goals, 6 assists, 29 apps as of Nov 2025) from Wikipedia snippet, corroborated by an ESPN bio listing him at Beijing Guoan. That scoring tally is explicitly for the 2025 calendar/CSL season rather than a 2025/26 cross-year season, but entered under stats_2025_26 per the schema's field naming - flagged for clarity. Market value, wage, contract length not found -> null."
+  }
+}
