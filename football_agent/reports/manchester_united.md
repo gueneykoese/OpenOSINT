@@ -96,11 +96,10 @@ Budget: €50m · wage ceiling €7m net
 - **Chris Richards** — 89.9/100 (strong match, confidence medium)
   - Chris Richards → Man United at CB: strong match (89.9/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (50).
   - ⚠ Current club publicly not selling.
+- **Jack Milne** — 86.7/100 (strong match, confidence medium)
+  - Jack Milne → Man United at CB: strong match (86.7/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (50).
 - **Fikayo Tomori** — 86.6/100 (strong match, confidence medium)
   - Fikayo Tomori → Man United at CB: strong match (86.6/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
-- **Maxime Estève** — 85.7/100 (strong match, confidence medium)
-  - Maxime Estève → Man United at CB: strong match (85.7/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
-  - ⚠ Current club publicly not selling.
 
 ### LB — medium priority
 Profile: attacking full-back who can also cover as inverted wing-back  
@@ -112,8 +111,8 @@ Budget: €30m · wage ceiling €4m net
 - **Vitaliy Mykolenko** — 78.9/100 (strong match, confidence medium)
   - Vitaliy Mykolenko → Man United at LB: strong match (78.9/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (50).
   - ⚠ Current club publicly not selling.
-- **Jose Gaya** — 77.6/100 (good match, confidence medium)
-  - Jose Gaya → Man United at LB: good match (77.6/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+- **Liam Scales** — 78.6/100 (strong match, confidence medium)
+  - Liam Scales → Man United at LB: strong match (78.6/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
 
 ### ST — low priority
 Profile: physical pressing No.9, 21-25, resale value  
@@ -122,11 +121,10 @@ Budget: €60m · wage ceiling €7m net
 
 - **Andrej Ilić** — 70.6/100 (good match, confidence medium)
   - Andrej Ilić → Man United at ST: good match (70.6/100). Driven by statistical fit and financial feasibility; weakest area is positional need (39).
+- **Bo Åsulv Hegland** — 69.6/100 (good match, confidence medium)
+  - Bo Åsulv Hegland → Man United at ST: good match (69.6/100). Driven by statistical fit and financial feasibility; weakest area is positional need (38).
 - **Evan Ferguson** — 68.7/100 (good match, confidence medium)
   - Evan Ferguson → Man United at ST: good match (68.7/100). Driven by financial feasibility and tactical / system fit; weakest area is statistical fit (50).
-- **Joaquín Panichelli** — 68.4/100 (good match, confidence medium)
-  - Joaquín Panichelli → Man United at ST: good match (68.4/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (50).
-  - ⚠ Current club publicly not selling.
 
 ## Sources
 

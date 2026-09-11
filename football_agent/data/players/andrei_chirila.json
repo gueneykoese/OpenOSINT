@@ -1,0 +1,77 @@
+{
+  "player_id": "andrei_chirila",
+  "name": "Andrei Chirilă",
+  "age": 18,
+  "date_of_birth": "2008-08-15",
+  "nationality": ["USA", "ROU"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 191,
+  "current_club": "FC Cincinnati",
+  "current_club_league": "MLS",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "MLS",
+    "apps": 8,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "youngest player in FC Cincinnati history to start an MLS match",
+      "signed Homegrown Player contract 2 April 2026",
+      "dual US/Romanian citizenship",
+      "1.91m centre-back, 36 apps/2 goals for FC Cincinnati 2 (2024-) before senior breakthrough",
+      "younger brother of FC Cincinnati forward Stefan Chirila"
+    ],
+    "best_system": [],
+    "weak_in": ["extremely young/early career sample - only 8 senior apps so far"]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public club-site feature described him as 'looking to remove his age from the equation and prove himself on merit' - suggests self-aware maturity for a teenage debutant; no disciplinary record found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en", "ro"],
+    "family_situation": "Younger brother of FC Cincinnati forward Ștefan Chirilă.",
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements found on transfer preference or happiness."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Andrei_Chiril%C4%83",
+    "https://www.mlssoccer.com/news/fc-cincinnati-sign-homegrown-defender-andrei-chirila",
+    "https://www.fccincinnati.com/news/andrei-chirila-is-looking-to-remove-his-age-from-the-equation-and-help-fc-cincinnati-by-proving-himself-on-merit",
+    "https://www.mlsnextpro.com/news/on-the-rise-andrei-chirila-shines-in-the-clutch-for-fc-cincinnati"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, dual nationality, homegrown signing (2 April 2026), and family connection to brother Stefan Chirila confirmed via Wikipedia/MLSSoccer.com/FC Cincinnati site. Contract through 2028-29 with option to 2029-30 -> contract_until entered as 2029. Stats (8 apps, 1 goal senior; 36 apps, 2 goals for FCC2) from Wikipedia; minutes/assists not found -> null. Market value not found -> null."
+  }
+}

@@ -87,12 +87,12 @@ Profile: two-footed creator with UCL-level pace of thought, 21-26
 Why: Pech sold to Young Boys; Provod is the only established creator  
 Budget: €4m · wage ceiling €0.8m net
 
+- **Bo Åsulv Hegland** — 80.1/100 (strong match, confidence medium)
+  - Bo Åsulv Hegland → Slavia Praha at AM: strong match (80.1/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (46).
 - **Reiss Nelson** — 74.8/100 (good match, confidence medium)
   - Reiss Nelson → Slavia Praha at AM: good match (74.8/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 - **Alexander Alvarado** — 74.0/100 (good match, confidence medium)
   - Alexander Alvarado → Slavia Praha at AM: good match (74.0/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Matthew Evans** — 73.9/100 (good match, confidence medium)
-  - Matthew Evans → Slavia Praha at AM: good match (73.9/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### ST — medium priority
 Profile: mobile striker to complement the target-man Chorý  
@@ -103,21 +103,20 @@ Budget: €3m · wage ceiling €0.6m net
   - Nicolás López → Slavia Praha at ST: good match (75.2/100). Driven by statistical fit and positional need; weakest area is age & contract (45).
 - **Sōta Nakamura** — 72.8/100 (good match, confidence medium)
   - Sōta Nakamura → Slavia Praha at ST: good match (72.8/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
-- **Jackson Muleka** — 68.7/100 (good match, confidence medium)
-  - Jackson Muleka → Slavia Praha at ST: good match (68.7/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Bo Åsulv Hegland** — 72.1/100 (good match, confidence medium)
+  - Bo Åsulv Hegland → Slavia Praha at ST: good match (72.1/100). Driven by statistical fit and financial feasibility; weakest area is cultural adaptation (46).
 
 ### CB — low priority
 Profile: quick left-footed CB for the back three  
 Why: Volume is fine (7 CBs) but pace against elite forwards was exposed in 2025/26 UCL  
 Budget: €3m · wage ceiling €0.6m net
 
+- **Jack Milne** — 73.7/100 (good match, confidence medium)
+  - Jack Milne → Slavia Praha at CB: good match (73.7/100). Driven by statistical fit and financial feasibility; weakest area is positional need (48).
+- **Sean Zawadzki** — 66.8/100 (good match, confidence medium)
+  - Sean Zawadzki → Slavia Praha at CB: good match (66.8/100). Driven by statistical fit and tactical / system fit; weakest area is positional need (48).
 - **Craig Halkett** — 66.2/100 (good match, confidence medium)
   - Craig Halkett → Slavia Praha at CB: good match (66.2/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
-  - ⚠ Current club publicly not selling.
-- **Thabo Moloisane** — 64.0/100 (possible, confidence medium)
-  - Thabo Moloisane → Slavia Praha at CB: possible (64.0/100). Driven by statistical fit and financial feasibility; weakest area is positional need (48).
-- **Maxime Estève** — 62.8/100 (possible, confidence medium)
-  - Maxime Estève → Slavia Praha at CB: possible (62.8/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
 
 ## Sources

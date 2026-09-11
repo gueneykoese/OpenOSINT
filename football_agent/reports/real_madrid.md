@@ -74,11 +74,10 @@ Budget: €80m · wage ceiling €10m net
 
 - **Adrián Bernabé** — 84.1/100 (strong match, confidence medium)
   - Adrián Bernabé → Real Madrid at DM: strong match (84.1/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
+- **Nicolai Remberg** — 83.4/100 (strong match, confidence medium)
+  - Nicolai Remberg → Real Madrid at DM: strong match (83.4/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
 - **Victor Froholdt** — 83.4/100 (strong match, confidence medium)
   - Victor Froholdt → Real Madrid at DM: strong match (83.4/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (70).
-  - ⚠ Current club publicly not selling.
-- **Kamiel Van de Perre** — 82.1/100 (strong match, confidence medium)
-  - Kamiel Van de Perre → Real Madrid at DM: strong match (82.1/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
 
 ### GK — medium priority
@@ -92,8 +91,8 @@ Budget: €40m · wage ceiling €6m net
 - **Mostafa Shobeir** — 69.1/100 (good match, confidence medium)
   - Mostafa Shobeir → Real Madrid at GK: good match (69.1/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
   - ⚠ Current club publicly not selling.
-- **Alex Meret** — 60.5/100 (possible, confidence medium)
-  - Alex Meret → Real Madrid at GK: possible (60.5/100). Driven by financial feasibility and positional need; weakest area is statistical fit (38).
+- **Patrick Schulte** — 67.1/100 (good match, confidence medium)
+  - Patrick Schulte → Real Madrid at GK: good match (67.1/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
 
 ### CB — medium priority
 Profile: right-footed aerial CB 23-27  
@@ -103,12 +102,11 @@ Budget: €60m · wage ceiling €8m net
 - **Fikayo Tomori** — 80.7/100 (strong match, confidence medium)
   - Fikayo Tomori → Real Madrid at CB: strong match (80.7/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
   - ⚠ Would block a young starter (Dean Huijsen, 21) — check pathway politics.
+- **Jack Milne** — 80.4/100 (strong match, confidence medium)
+  - Jack Milne → Real Madrid at CB: strong match (80.4/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (50).
+  - ⚠ Would block a young starter (Dean Huijsen, 21) — check pathway politics.
 - **Maxime Estève** — 80.4/100 (strong match, confidence medium)
   - Maxime Estève → Real Madrid at CB: strong match (80.4/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
-  - ⚠ Current club publicly not selling.
-  - ⚠ Would block a young starter (Dean Huijsen, 21) — check pathway politics.
-- **Chris Richards** — 80.0/100 (strong match, confidence medium)
-  - Chris Richards → Real Madrid at CB: strong match (80.0/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (50).
   - ⚠ Current club publicly not selling.
   - ⚠ Would block a young starter (Dean Huijsen, 21) — check pathway politics.
 

@@ -92,25 +92,24 @@ Profile: creative No.10/No.8 who can play in a 4-3-3 interior role
 Why: Sudakov's permanent departure to Benfica leaves Pedrinho/Bondarenko as the main creators  
 Budget: €8m · wage ceiling €1.2m net
 
+- **Bo Åsulv Hegland** — 75.5/100 (good match, confidence medium)
+  - Bo Åsulv Hegland → Shakhtar at AM: good match (75.5/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (52).
 - **Danel Sinani** — 74.4/100 (good match, confidence medium)
   - Danel Sinani → Shakhtar at AM: good match (74.4/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
 - **Toni Fruk** — 74.0/100 (good match, confidence medium)
   - Toni Fruk → Shakhtar at AM: good match (74.0/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
-- **Andre Brooks** — 73.0/100 (good match, confidence medium)
-  - Andre Brooks → Shakhtar at AM: good match (73.0/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
 
 ### RB — medium priority
 Profile: athletic right-back able to defend UCL wingers, 22-27  
 Why: Konoplya left on a free; Karavaev is a 34-year-old stop-gap  
 Budget: €4m · wage ceiling €0.8m net
 
+- **Colby Donovan** — 65.8/100 (possible, confidence medium)
+  - Colby Donovan → Shakhtar at RB: possible (65.8/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
 - **Fikayo Tomori** — 63.7/100 (possible, confidence medium)
   - Fikayo Tomori → Shakhtar at RB: possible (63.7/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
 - **Chris Richards** — 63.5/100 (possible, confidence medium)
   - Chris Richards → Shakhtar at RB: possible (63.5/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
-  - ⚠ Current club publicly not selling.
-- **Pierre Kalulu** — 62.7/100 (possible, confidence high)
-  - Pierre Kalulu → Shakhtar at RB: possible (62.7/100). Driven by statistical fit and positional need; weakest area is financial feasibility (8).
   - ⚠ Current club publicly not selling.
 
 ### ST — medium priority

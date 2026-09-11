@@ -114,13 +114,13 @@ Profile: ball-winning 6 who can build from deep in a possession system
 Why: Schlager sold to Nottingham Forest; Demichelis' positional style places heavier build-up demands on the pivot  
 Budget: €n/am · wage ceiling €n/am net
 
+- **Nicolai Remberg** — 80.9/100 (strong match, confidence medium)
+  - Nicolai Remberg → RB Leipzig at DM: strong match (80.9/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
 - **Kamiel Van de Perre** — 79.1/100 (strong match, confidence medium)
   - Kamiel Van de Perre → RB Leipzig at DM: strong match (79.1/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
 - **Adrián Bernabé** — 77.1/100 (good match, confidence medium)
   - Adrián Bernabé → RB Leipzig at DM: good match (77.1/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
-- **Beni** — 74.8/100 (good match, confidence medium)
-  - Beni → RB Leipzig at DM: good match (74.8/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (34).
 
 ## Sources
 

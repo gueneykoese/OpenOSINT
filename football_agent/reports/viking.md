@@ -72,38 +72,36 @@ Profile: aerially strong, quick recovery, 22-27
 Why: Conceding freely in Europe; Bjørshol converted full-back  
 Budget: €1.5m · wage ceiling €0.4m net
 
-- **Chris Richards** — 70.8/100 (good match, confidence medium)
-  - Chris Richards → Viking at CB: good match (70.8/100). Driven by positional need and statistical fit; weakest area is financial feasibility (10).
-  - ⚠ Current club publicly not selling.
-- **Thabo Moloisane** — 70.0/100 (good match, confidence medium)
-  - Thabo Moloisane → Viking at CB: good match (70.0/100). Driven by positional need and statistical fit; weakest area is financial feasibility (38).
-- **Fikayo Tomori** — 69.4/100 (good match, confidence medium)
-  - Fikayo Tomori → Viking at CB: good match (69.4/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
+- **Jack Milne** — 79.1/100 (strong match, confidence medium)
+  - Jack Milne → Viking at CB: strong match (79.1/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
+- **Aaron Kiil Olsen** — 77.7/100 (good match, confidence medium)
+  - Aaron Kiil Olsen → Viking at CB: good match (77.7/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Sean Zawadzki** — 77.6/100 (good match, confidence medium)
+  - Sean Zawadzki → Viking at CB: good match (77.6/100). Driven by positional need and statistical fit; weakest area is financial feasibility (50).
 
 ### DM — medium priority
 Profile: ball-winning No.6  
 Why: Sætherbø left; attacking system leaves the pivot exposed  
 Budget: €1m · wage ceiling €0.3m net
 
+- **Sean Zawadzki** — 69.0/100 (good match, confidence medium)
+  - Sean Zawadzki → Viking at DM: good match (69.0/100). Driven by statistical fit and positional need; weakest area is financial feasibility (50).
+- **Jack Milne** — 65.2/100 (possible, confidence medium)
+  - Jack Milne → Viking at DM: possible (65.2/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
 - **Oleksandr Zinchenko** — 62.2/100 (possible, confidence medium)
   - Oleksandr Zinchenko → Viking at DM: possible (62.2/100). Driven by financial feasibility and positional need; weakest area is cultural adaptation (27).
-- **Adrián Bernabé** — 61.8/100 (possible, confidence medium)
-  - Adrián Bernabé → Viking at DM: possible (61.8/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
-- **Victor Froholdt** — 61.6/100 (possible, confidence medium)
-  - Victor Froholdt → Viking at DM: possible (61.6/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
 
 ### ST — medium priority
 Profile: succession for Christiansen (top scorer, sale risk)  
 Why: Top scorer is the obvious sale candidate after UCL exposure  
 Budget: €1.5m · wage ceiling €0.35m net
 
+- **Oliver Jordan Hagen** — 71.3/100 (good match, confidence medium)
+  - Oliver Jordan Hagen → Viking at ST: good match (71.3/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
+- **Bo Åsulv Hegland** — 69.8/100 (good match, confidence medium)
+  - Bo Åsulv Hegland → Viking at ST: good match (69.8/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
 - **Khanyisa Mayo** — 68.8/100 (good match, confidence medium)
   - Khanyisa Mayo → Viking at ST: good match (68.8/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Kevin Nisbet** — 67.3/100 (good match, confidence medium)
-  - Kevin Nisbet → Viking at ST: good match (67.3/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Umut Bozok** — 65.9/100 (possible, confidence medium)
-  - Umut Bozok → Viking at ST: possible (65.9/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (48).
 
 ## Sources
 

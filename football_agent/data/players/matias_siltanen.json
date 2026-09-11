@@ -1,0 +1,76 @@
+{
+  "player_id": "matias_siltanen",
+  "name": "Matias Siltanen",
+  "age": 19,
+  "date_of_birth": "2007-03-29",
+  "nationality": ["FIN"],
+  "position": "CM",
+  "secondary_positions": ["DM"],
+  "preferred_foot": null,
+  "height_cm": 173,
+  "current_club": "Djurgårdens IF",
+  "current_club_league": "Allsvenskan",
+  "contract_until": 2027,
+  "market_value_eur_m": 4.8,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Allsvenskan",
+    "apps": 48,
+    "starts": null,
+    "minutes": 1364,
+    "goals": 0,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Finland youth international from U15 through U21",
+      "developed at KuPS (Finland) before moving to Djurgardens in 2025",
+      "high market value (EUR 4.8m) relative to a still-developing goal/assist output",
+      "central/defensive midfielder, ball-progression profile inferred from role rather than end product"
+    ],
+    "best_system": [],
+    "weak_in": ["minimal direct goal contribution so far (0 goals, 1 assist across 48 apps at Djurgarden to date)"]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public disciplinary or coach-quote record found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fi", "sv"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements found on transfer preference or happiness."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Matias_Siltanen",
+    "https://www.fotmob.com/players/1455677/matias-siltanen",
+    "https://www.uefa.com/european-qualifiers/teams/players/250184895--matias-siltanen/",
+    "https://www.espn.com/soccer/player/_/id/364226/matias-siltanen"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, Finland youth caps, KuPS career history, and contract (through 31 Dec 2027) confirmed via Wikipedia. Career total at Djurgardens (48 apps, 0 goals since 2025) and the 2026-season partial stats (1364 min, 1 assist) both appear in sources and are combined here as the best available approximation of stats_2025_26; treat apps as a since-2025 career total rather than a strict single-season count. Market value EUR 4.8m per fotmob is notably high relative to output, worth flagging as either a high-potential rating or a valuation to double-check."
+  }
+}

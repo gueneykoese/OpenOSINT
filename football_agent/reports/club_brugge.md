@@ -97,26 +97,24 @@ Profile: ball-winning No. 6 with UCL-level physicality, 22-26
 Why: Onyedika and Stankovic both departed; Potts is new to the league.  
 Budget: €10m · wage ceiling €1.0m net
 
+- **Jack Milne** — 77.2/100 (good match, confidence medium)
+  - Jack Milne → Club Brugge at DM: good match (77.2/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (50).
+- **Nicolai Remberg** — 76.6/100 (good match, confidence medium)
+  - Nicolai Remberg → Club Brugge at DM: good match (76.6/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
 - **Beni** — 74.6/100 (good match, confidence medium)
   - Beni → Club Brugge at DM: good match (74.6/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (48).
-- **Kamiel Van de Perre** — 73.5/100 (good match, confidence medium)
-  - Kamiel Van de Perre → Club Brugge at DM: good match (73.5/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
-  - ⚠ Current club publicly not selling.
-- **Gjivai Zechiël** — 71.6/100 (good match, confidence medium)
-  - Gjivai Zechiël → Club Brugge at DM: good match (71.6/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
 
 ### CB — medium priority
 Profile: quick, right-footed centre-back, 21-25  
 Why: Ordonez (reported to Palace) and Romero left; Mechele is the veteran.  
 Budget: €10m · wage ceiling €1.0m net
 
+- **Jack Milne** — 80.8/100 (strong match, confidence medium)
+  - Jack Milne → Club Brugge at CB: strong match (80.8/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (50).
+- **Liam Scales** — 74.6/100 (good match, confidence medium)
+  - Liam Scales → Club Brugge at CB: good match (74.6/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
 - **Nathan Wood** — 73.2/100 (good match, confidence medium)
   - Nathan Wood → Club Brugge at CB: good match (73.2/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Botond Balogh** — 72.8/100 (good match, confidence medium)
-  - Botond Balogh → Club Brugge at CB: good match (72.8/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Craig Halkett** — 71.9/100 (good match, confidence medium)
-  - Craig Halkett → Club Brugge at CB: good match (71.9/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
-  - ⚠ Current club publicly not selling.
 
 ## Sources
 

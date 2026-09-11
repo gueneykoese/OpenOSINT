@@ -94,37 +94,37 @@ Budget: €35m · wage ceiling €5m net
 
 - **Andrej Ilić** — 82.8/100 (strong match, confidence medium)
   - Andrej Ilić → Dortmund at ST: strong match (82.8/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
+- **Bo Åsulv Hegland** — 81.2/100 (strong match, confidence medium)
+  - Bo Åsulv Hegland → Dortmund at ST: strong match (81.2/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (40).
 - **Dion Drena Beljo** — 79.3/100 (strong match, confidence medium)
   - Dion Drena Beljo → Dortmund at ST: strong match (79.3/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
-- **Lorenzo Colombo** — 78.0/100 (strong match, confidence medium)
-  - Lorenzo Colombo → Dortmund at ST: strong match (78.0/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
 
 ### DM — medium priority
 Profile: physical, press-resistant No. 6, 22-27, comfortable as the single pivot in a 3-4-2-1  
 Why: Can post-ACL and 32; Özcan and Groß departed  
 Budget: €25m · wage ceiling €4m net
 
+- **Nicolai Remberg** — 81.3/100 (strong match, confidence medium)
+  - Nicolai Remberg → Dortmund at DM: strong match (81.3/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
 - **Kamiel Van de Perre** — 80.1/100 (strong match, confidence medium)
   - Kamiel Van de Perre → Dortmund at DM: strong match (80.1/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
 - **Adrián Bernabé** — 76.6/100 (good match, confidence medium)
   - Adrián Bernabé → Dortmund at DM: good match (76.6/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
-- **Beni** — 73.6/100 (good match, confidence medium)
-  - Beni → Dortmund at DM: good match (73.6/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (34).
 
 ### GK — low priority
 Profile: young backup/successor to Kobel, 21-25  
 Why: Meyer 35, Ostrzinski 22 and untested, Ramaj on loan  
 Budget: €10m · wage ceiling €1.5m net
 
+- **Patrick Schulte** — 65.0/100 (possible, confidence medium)
+  - Patrick Schulte → Dortmund at GK: possible (65.0/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
 - **Mostafa Shobeir** — 62.3/100 (possible, confidence medium)
   - Mostafa Shobeir → Dortmund at GK: possible (62.3/100). Driven by financial feasibility and statistical fit; weakest area is positional need (39).
   - ⚠ Current club publicly not selling.
 - **Noah Atubolu** — 62.1/100 (possible, confidence medium)
   - Noah Atubolu → Dortmund at GK: possible (62.1/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
-- **Alex Meret** — 55.2/100 (possible, confidence medium)
-  - Alex Meret → Dortmund at GK: possible (55.2/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (21).
 
 ### RW — low priority
 Profile: pacy right winger/wing-back, 20-24  

@@ -77,13 +77,13 @@ Profile: box-to-box destroyer, 21-26, high resale
 Why: Sangaré sold for EUR 48m; no like-for-like replacement  
 Budget: €15m · wage ceiling €2m net
 
+- **Nicolai Remberg** — 84.2/100 (strong match, confidence medium)
+  - Nicolai Remberg → Lens at DM: strong match (84.2/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
 - **Kamiel Van de Perre** — 81.8/100 (strong match, confidence medium)
   - Kamiel Van de Perre → Lens at DM: strong match (81.8/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
 - **Adrián Bernabé** — 81.7/100 (strong match, confidence medium)
   - Adrián Bernabé → Lens at DM: strong match (81.7/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
-- **Beni** — 79.6/100 (strong match, confidence medium)
-  - Beni → Lens at DM: strong match (79.6/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
 
 ### AM — medium priority
 Profile: young creator to succeed Thauvin (33)  

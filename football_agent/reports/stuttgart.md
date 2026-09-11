@@ -83,12 +83,12 @@ Budget: €10m · wage ceiling €3m net
   - Mostafa Shobeir → Stuttgart at GK: good match (73.0/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
   - ⚠ Current club publicly not selling.
   - ⚠ Would block a young starter (Dennis Seimen, 20) — check pathway politics.
+- **Patrick Schulte** — 72.9/100 (good match, confidence medium)
+  - Patrick Schulte → Stuttgart at GK: good match (72.9/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+  - ⚠ Would block a young starter (Dennis Seimen, 20) — check pathway politics.
 - **Noah Atubolu** — 71.8/100 (good match, confidence medium)
   - Noah Atubolu → Stuttgart at GK: good match (71.8/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
-  - ⚠ Would block a young starter (Dennis Seimen, 20) — check pathway politics.
-- **Alex Meret** — 71.0/100 (good match, confidence medium)
-  - Alex Meret → Stuttgart at GK: good match (71.0/100). Driven by positional need and financial feasibility; weakest area is statistical fit (38).
   - ⚠ Would block a young starter (Dennis Seimen, 20) — check pathway politics.
 
 ### CB — medium priority
@@ -96,27 +96,25 @@ Profile: fast, ball-playing left-footed CB, 22-27
 Why: Zagadou injury record; only two senior CBs verified  
 Budget: €15m · wage ceiling €3m net
 
+- **Jack Milne** — 79.9/100 (strong match, confidence medium)
+  - Jack Milne → Stuttgart at CB: strong match (79.9/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (50).
+- **Liam Scales** — 78.6/100 (strong match, confidence medium)
+  - Liam Scales → Stuttgart at CB: strong match (78.6/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
 - **Fikayo Tomori** — 75.3/100 (good match, confidence medium)
   - Fikayo Tomori → Stuttgart at CB: good match (75.3/100). Driven by statistical fit and financial feasibility; weakest area is positional need (54).
-- **Jayden Oosterwolde** — 74.5/100 (good match, confidence medium)
-  - Jayden Oosterwolde → Stuttgart at CB: good match (74.5/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (20).
-  - ⚠ Documented discipline record (see mental_profile.notes).
-  - ⚠ Current club publicly not selling.
-- **Nathan Wood** — 71.7/100 (good match, confidence medium)
-  - Nathan Wood → Stuttgart at CB: good match (71.7/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### DM — medium priority
 Profile: young No.6 with resale value to succeed Chema Andrés  
 Why: Chema Andrés sold to Brighton; Prömel is a stop-gap  
 Budget: €12m · wage ceiling €2.5m net
 
+- **Nicolai Remberg** — 76.5/100 (good match, confidence medium)
+  - Nicolai Remberg → Stuttgart at DM: good match (76.5/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+- **Jack Milne** — 75.9/100 (good match, confidence medium)
+  - Jack Milne → Stuttgart at DM: good match (75.9/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (50).
 - **Kamiel Van de Perre** — 75.4/100 (good match, confidence medium)
   - Kamiel Van de Perre → Stuttgart at DM: good match (75.4/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
-- **Beni** — 72.7/100 (good match, confidence medium)
-  - Beni → Stuttgart at DM: good match (72.7/100). Driven by statistical fit and financial feasibility; weakest area is cultural adaptation (34).
-- **Adrián Bernabé** — 70.5/100 (good match, confidence medium)
-  - Adrián Bernabé → Stuttgart at DM: good match (70.5/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
 
 ## Sources
 

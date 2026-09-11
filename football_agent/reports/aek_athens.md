@@ -94,12 +94,12 @@ Profile: quick, left-sided, 22-26 with resale value
 Why: Vida/Moukoudi ageing; Alexiou only on loan  
 Budget: €5m · wage ceiling €1.2m net
 
+- **Jack Milne** — 78.4/100 (strong match, confidence medium)
+  - Jack Milne → AEK at CB: strong match (78.4/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (40).
 - **Thabo Moloisane** — 73.6/100 (good match, confidence medium)
   - Thabo Moloisane → AEK at CB: good match (73.6/100). Driven by financial feasibility and statistical fit; weakest area is mentality & chemistry (55).
-- **Botond Balogh** — 70.4/100 (good match, confidence medium)
-  - Botond Balogh → AEK at CB: good match (70.4/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Rayyan Baniya** — 70.1/100 (good match, confidence medium)
-  - Rayyan Baniya → AEK at CB: good match (70.1/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Aaron Kiil Olsen** — 70.4/100 (good match, confidence medium)
+  - Aaron Kiil Olsen → AEK at CB: good match (70.4/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (29).
 
 ### ST — medium priority
 Profile: mobile pressing forward, under 26  

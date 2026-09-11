@@ -1,0 +1,76 @@
+{
+  "player_id": "jackson_ragen",
+  "name": "Jackson Ragen",
+  "age": 27,
+  "date_of_birth": "1998-09-24",
+  "nationality": ["USA"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 198,
+  "current_club": "Seattle Sounders FC",
+  "current_club_league": "MLS",
+  "contract_until": 2027,
+  "market_value_eur_m": 2.9,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "MLS (all competitions)",
+    "apps": 40,
+    "starts": 37,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "6'6\" (198cm) commanding centre-back",
+      "USMNT January camp call-up (2024), friendly vs Slovenia",
+      "voted Sounders FC Defender of the Year (2025), finished 3rd in MLS Defender of the Year voting (2024)",
+      "originally drafted by Chicago Fire, traded to Seattle; Seattle native, played collegiately at Michigan (2x Big Ten Defensive Player honors)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Voted team Defender of the Year - strong positive club/media recognition; no disciplinary record found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements found on transfer preference or happiness."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jackson_Ragen",
+    "https://www.soundersfc.com/news/sounders-fc-signs-defender-jackson-ragen-to-new-contract",
+    "https://www.kiro7.com/sports/mls/seattle-sounders/sounders-sign-key-defender-jackson-ragen-new-deal-through-2027-season/H5OPLVL73VDZBD22GC3UHDAHQA/",
+    "https://www.mlssoccer.com/news/seattle-sounders-sign-defender-jackson-ragen-after-trade-with-chicago-fire"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "high",
+    "notes": "DOB, height, USMNT camp call-up, Defender of the Year award, contract (through 2027 with 2028 club option), market value and college background all confirmed via Wikipedia and multiple corroborating club/news sources (Sounders FC official site, KIRO7, MLSSoccer.com). 2025 season stats (40 apps, 37 starts across all competitions) from Wikipedia; minutes/goals/assists not found -> null. Slightly older than the assignment's typical 18-27 target band (27) but included given strong export/USMNT profile and real transfer-market data."
+  }
+}

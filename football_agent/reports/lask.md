@@ -81,36 +81,35 @@ Budget: €3m · wage ceiling €0.8m net
 
 - **Sōta Nakamura** — 75.1/100 (good match, confidence medium)
   - Sōta Nakamura → LASK at ST: good match (75.1/100). Driven by positional need and financial feasibility; weakest area is tactical / system fit (50).
+- **Bo Åsulv Hegland** — 74.9/100 (good match, confidence medium)
+  - Bo Åsulv Hegland → LASK at ST: good match (74.9/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (31).
 - **Nicolás López** — 73.6/100 (good match, confidence medium)
   - Nicolás López → LASK at ST: good match (73.6/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (36).
-- **Khanyisa Mayo** — 72.6/100 (good match, confidence medium)
-  - Khanyisa Mayo → LASK at ST: good match (72.6/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### CB — high priority
 Profile: right-footed, fast, 21-25, resale profile  
 Why: Cisse sold to Aston Villa; Ziereis 33  
 Budget: €3m · wage ceiling €0.7m net
 
+- **Jack Milne** — 82.7/100 (strong match, confidence medium)
+  - Jack Milne → LASK at CB: strong match (82.7/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
 - **Craig Halkett** — 74.6/100 (good match, confidence medium)
   - Craig Halkett → LASK at CB: good match (74.6/100). Driven by statistical fit and positional need; weakest area is age & contract (30).
   - ⚠ Current club publicly not selling.
-- **Thabo Moloisane** — 72.7/100 (good match, confidence medium)
-  - Thabo Moloisane → LASK at CB: good match (72.7/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
-- **Botond Balogh** — 70.9/100 (good match, confidence medium)
-  - Botond Balogh → LASK at CB: good match (70.9/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Sean Zawadzki** — 72.8/100 (good match, confidence medium)
+  - Sean Zawadzki → LASK at CB: good match (72.8/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
 
 ### RB — medium priority
 Profile: attacking full-back with UCL-level athleticism  
 Why: Only Tornich added; starters not verified  
 Budget: €2m · wage ceiling €0.5m net
 
+- **Colby Donovan** — 67.3/100 (good match, confidence medium)
+  - Colby Donovan → LASK at RB: good match (67.3/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 - **Fikayo Tomori** — 62.4/100 (possible, confidence medium)
   - Fikayo Tomori → LASK at RB: possible (62.4/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
 - **Chris Richards** — 60.9/100 (possible, confidence medium)
   - Chris Richards → LASK at RB: possible (60.9/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
-  - ⚠ Current club publicly not selling.
-- **Pierre Kalulu** — 59.6/100 (possible, confidence high)
-  - Pierre Kalulu → LASK at RB: possible (59.6/100). Driven by statistical fit and positional need; weakest area is financial feasibility (8).
   - ⚠ Current club publicly not selling.
 
 ## Sources

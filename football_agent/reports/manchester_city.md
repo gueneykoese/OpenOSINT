@@ -93,11 +93,10 @@ Budget: €60m · wage ceiling €8m net
 - **Chris Richards** — 85.6/100 (strong match, confidence medium)
   - Chris Richards → Man City at CB: strong match (85.6/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (50).
   - ⚠ Current club publicly not selling.
+- **Jack Milne** — 80.6/100 (strong match, confidence medium)
+  - Jack Milne → Man City at CB: strong match (80.6/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (50).
 - **Fikayo Tomori** — 79.8/100 (strong match, confidence medium)
   - Fikayo Tomori → Man City at CB: strong match (79.8/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
-- **Pierre Kalulu** — 79.3/100 (strong match, confidence high)
-  - Pierre Kalulu → Man City at CB: strong match (79.3/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
-  - ⚠ Current club publicly not selling.
 
 ### DM — medium priority
 Profile: Rodri understudy with elite passing under pressure  
@@ -106,12 +105,10 @@ Budget: €50m · wage ceiling €7m net
 
 - **Adrián Bernabé** — 78.2/100 (strong match, confidence medium)
   - Adrián Bernabé → Man City at DM: strong match (78.2/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
-- **Kamiel Van de Perre** — 76.6/100 (good match, confidence medium)
-  - Kamiel Van de Perre → Man City at DM: good match (76.6/100). Driven by statistical fit and financial feasibility; weakest area is cultural adaptation (47).
-  - ⚠ Current club publicly not selling.
-- **Victor Froholdt** — 76.2/100 (good match, confidence medium)
-  - Victor Froholdt → Man City at DM: good match (76.2/100). Driven by statistical fit and positional need; weakest area is age & contract (50).
-  - ⚠ Current club publicly not selling.
+- **Nicolai Remberg** — 77.4/100 (good match, confidence medium)
+  - Nicolai Remberg → Man City at DM: good match (77.4/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
+- **Jack Milne** — 76.6/100 (good match, confidence medium)
+  - Jack Milne → Man City at DM: good match (76.6/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (50).
 
 ### ST — low priority
 Profile: rotation No.9 or false-nine profile  

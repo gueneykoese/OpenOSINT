@@ -2,7 +2,7 @@
 
 **La Liga (ESP) · Pot 2 · Coach: Manuel Pellegrini · System: 4-2-3-1**  
 Data confidence: `medium` · as of 2026-09-03
-> Search-snippet research only. VERIFIED: coach Pellegrini (contract extended to 30 Jun 2027; listed as 2026/27 coach, 7th season - club site/ESPN/Fichajes); start date 2020-07 from public record. UCL draw: the eight opponents are consistent across sources; the home/away split had ONE conflicting snippet (Elmira: Dortmund home/Arsenal away) versus the dated calendar (Sevilla Actualidad/UEFA: Lille a. 8 Sep, Porto h. 14 Oct, Dortmund a. 4 Nov, Slovan a. 24 Nov, Como h. 9 Dec, Bayern a. 27 Jan) - resolved in favour of the dated calendar and cross-checked against our Arsenal, Porto, Feyenoord, Como, Bayern, Dortmund and Slovan files, which all agree. Table: 5th/60 pts/15-15-8/59 GF (es.wikipedia snippet); GOALS AGAINST 48 IS DERIVED from the stated +11 goal difference, not read directly. Qualification via Spain's European Performance Spot (UEFA.com). EL QF exit to Braga and Copa QF 1-5 to Atletico verified (club site headline '5-1'; one snippet said 0-5). Top scorer/assister Antony 12 goals / 9 assists is a MundoBetis figure as of late April 2026 (all competitions) - season-final totals not found; Opta's league-only figure was 7G/6A in 28 games. SQUAD (25): numbers 1-23 from the club's official plantilla list; Parrott (no. 14 or 25 - not confirmed), Conde, Ruibal and Pablo Garcia numbers unknown; Ceballos no. 19/age 30 carried over from players/dani_ceballos.json; Riquelme no. 17 per official list. Pau Lopez not on the official list and omitted. Contract years only where sourced (Fran Garcia 2030, Bernal 2030, Parrott 2031). Bernal fee reported as EUR 9.5m or 10.5m; Parrott EUR 16m + 4m variables; Fran Garcia EUR 4m for 50% of rights; Altimira EUR 18.2m (O Jogo). Ceballos free (1 Sep 2026) and Amrabat's return to Fenerbahce reconciled from our other research; Ceballos' arrival club is Real Madrid per our player file. Departure list from FutbolFantasy summary; other exits (loans of fringe players) may be missing. Ages in weaknesses ('30-plus') are from public birth years, not re-sourced. Positions/roles are analyst judgements; budgets are guesses; xG/possession/per-player stats null.
+> Search-snippet research only. VERIFIED: coach Pellegrini (contract extended to 30 Jun 2027; listed as 2026/27 coach, 7th season - club site/ESPN/Fichajes); start date 2020-07 from public record. UCL draw: the eight opponents are consistent across sources; the home/away split had ONE conflicting snippet (Elmira: Dortmund home/Arsenal away) versus the dated calendar (Sevilla Actualidad/UEFA: Lille a. 8 Sep, Porto h. 14 Oct, Dortmund a. 4 Nov, Slovan a. 24 Nov, Como h. 9 Dec, Bayern a. 27 Jan) - resolved in favour of the dated calendar and cross-checked against our Arsenal, Porto, Feyenoord, Como, Bayern, Dortmund and Slovan files, which all agree. Table: 5th/60 pts/15-15-8/59 GF (es.wikipedia snippet); GOALS AGAINST 48 IS DERIVED from the stated +11 goal difference, not read directly. Qualification via Spain's European Performance Spot (UEFA.com). EL QF exit to Braga and Copa QF 1-5 to Atletico verified (club site headline '5-1'; one snippet said 0-5). Top scorer/assister Antony 12 goals / 9 assists is a MundoBetis figure as of late April 2026 (all competitions) - season-final totals not found; Opta's league-only figure was 7G/6A in 28 games. SQUAD (25): numbers 1-23 from the club's official plantilla list; Parrott (no. 14 or 25 - not confirmed), Conde, Ruibal and Pablo Garcia numbers unknown; Ceballos no. 19/age 30 carried over from players/dani_ceballos.json; Riquelme no. 17 per official list. Pau Lopez not on the official list and omitted. Contract years only where sourced (Fran Garcia 2030, Bernal 2030, Parrott 2031). Bernal fee reported as EUR 9.5m or 10.5m; Parrott EUR 16m + 4m variables; Fran Garcia EUR 4m for 50% of rights; Altimira EUR 18.2m (O Jogo). Ceballos free (1 Sep 2026) and Amrabat's return to Fenerbahce reconciled from our other research; Ceballos' arrival club is Real Madrid per our player file. Departure list from FutbolFantasy summary; other exits (loans of fringe players) may be missing. Ages in weaknesses ('30-plus') are from public birth years, not re-sourced. Positions/roles are analyst judgements; budgets are guesses; xG/possession/per-player stats null. | UNRESOLVED (2026-09-11): independent player-pool research (players/troy_parrott.json, medium confidence) lists Parrott as still at AZ Alkmaar, not Betis, describing the Betis reports as an apparently stale/incorrect page; this dossier's Parrott entry (EUR 16m+4m, contract to 2031) is likewise sourced but from different snippets. Kept here pending an official source; treat this transfer as unconfirmed.
 
 ## 2025/26 in numbers
 
@@ -88,14 +88,12 @@ Profile: fast, aerially dominant centre-back, 23-27, left-footed preferred
 Why: 48 conceded in the league; Bartra and Llorente are 30-plus, Natan and Gomez the only younger options.  
 Budget: €15m · wage ceiling €2.5m net
 
+- **Jack Milne** — 83.5/100 (strong match, confidence medium)
+  - Jack Milne → Real Betis at CB: strong match (83.5/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (50).
 - **Fikayo Tomori** — 82.6/100 (strong match, confidence medium)
   - Fikayo Tomori → Real Betis at CB: strong match (82.6/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
-- **Thabo Moloisane** — 79.5/100 (strong match, confidence medium)
-  - Thabo Moloisane → Real Betis at CB: strong match (79.5/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
-- **Jayden Oosterwolde** — 77.0/100 (good match, confidence high)
-  - Jayden Oosterwolde → Real Betis at CB: good match (77.0/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (20).
-  - ⚠ Documented discipline record (see mental_profile.notes).
-  - ⚠ Current club publicly not selling.
+- **Liam Scales** — 82.2/100 (strong match, confidence medium)
+  - Liam Scales → Real Betis at CB: strong match (82.2/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
 
 ### DM — medium priority
 Profile: athletic ball-winning No. 6 with UCL experience, 24-28  
@@ -104,25 +102,25 @@ Budget: €12m · wage ceiling €2m net
 
 - **Beni** — 75.4/100 (good match, confidence medium)
   - Beni → Real Betis at DM: good match (75.4/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+- **Nicolai Remberg** — 75.0/100 (good match, confidence medium)
+  - Nicolai Remberg → Real Betis at DM: good match (75.0/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
 - **Kamiel Van de Perre** — 74.6/100 (good match, confidence medium)
   - Kamiel Van de Perre → Real Betis at DM: good match (74.6/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
-- **Adrián Bernabé** — 71.9/100 (good match, confidence medium)
-  - Adrián Bernabé → Real Betis at DM: good match (71.9/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
 
 ### GK — low priority
 Profile: experienced back-up/challenger, 26-32  
 Why: Adrian retired; Conde is only on loan.  
 Budget: €5m · wage ceiling €1m net
 
+- **Patrick Schulte** — 62.8/100 (possible, confidence medium)
+  - Patrick Schulte → Real Betis at GK: possible (62.8/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (39).
 - **Mostafa Shobeir** — 57.2/100 (possible, confidence medium)
   - Mostafa Shobeir → Real Betis at GK: possible (57.2/100). Driven by positional need and statistical fit; weakest area is positional need (50).
   - ⚠ Current club publicly not selling.
 - **Noah Atubolu** — 57.0/100 (possible, confidence medium)
   - Noah Atubolu → Real Betis at GK: possible (57.0/100). Driven by statistical fit and tactical / system fit; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
-- **Alex Meret** — 54.6/100 (possible, confidence medium)
-  - Alex Meret → Real Betis at GK: possible (54.6/100). Driven by positional need and tactical / system fit; weakest area is statistical fit (38).
 
 ## Sources
 

@@ -1,0 +1,78 @@
+{
+  "player_id": "liam_scales",
+  "name": "Liam Scales",
+  "age": 27,
+  "date_of_birth": null,
+  "nationality": ["IRL"],
+  "position": "CB",
+  "secondary_positions": ["LB"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Celtic FC",
+  "current_club_league": "Scottish Premiership",
+  "contract_until": 2028,
+  "market_value_eur_m": 5.1,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Scottish Premiership",
+    "apps": 23,
+    "starts": 20,
+    "minutes": 2468,
+    "goals": 0,
+    "assists": 3,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Republic of Ireland senior international",
+      "signed a new four-year deal with Celtic in 2024, publicly expressed being 'thrilled to stay'",
+      "regular starter/rotation centre-back, can also play left-back",
+      "2025/26: 20 starts + 3 sub appearances, 3 assists, 2468 minutes, avg rating 7.39"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public disciplinary or coach-quote record found; publicly enthusiastic about signing a new contract in 2024."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [
+      "Publicly said he was 'thrilled' to sign a new four-year contract with Celtic in 2024 (Irish Daily Star, Bray People, May 2024)."
+    ],
+    "commercial_profile": null,
+    "happiness_status": "content",
+    "happiness_notes": "Publicly expressed being 'thrilled' to commit to a new four-year Celtic contract in 2024, with no subsequent public indication of wanting to leave.",
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.pressreader.com/ireland/irish-daily-star/20240504/283119959001353",
+    "https://www.pressreader.com/ireland/bray-people/20240508/282273850451867",
+    "https://www.footballtransfers.com/en/teams/gb-sct/celtic",
+    "https://africa.espn.com/football/player/_/id/288959/liam-scales"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract extension (four years, signed 2024, through May 2028) and his public 'thrilled to stay' quote confirmed via two Irish press-syndicated articles (Irish Daily Star / Bray People, May 2024). 2025/26 stats (23 apps incl. 20 starts, 2468 min, 3 assists, avg rating 7.39) from a fotmob-derived snippet. Market value estimates varied (EUR 2.9m vs EUR 5.1m across sources) - higher figure entered, discrepancy noted. Exact date of birth not found in snippets -> null; age (27) taken from ESPN listing."
+  }
+}

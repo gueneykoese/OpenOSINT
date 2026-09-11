@@ -1,0 +1,79 @@
+{
+  "player_id": "efrain_alvarez",
+  "name": "Efraín Álvarez",
+  "age": 24,
+  "date_of_birth": "2002-06-19",
+  "nationality": ["MEX", "USA"],
+  "position": "AM",
+  "secondary_positions": ["RW"],
+  "preferred_foot": null,
+  "height_cm": 175,
+  "current_club": "Chivas Guadalajara",
+  "current_club_league": "Liga MX",
+  "contract_until": 2026,
+  "market_value_eur_m": 6.0,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga MX",
+    "apps": 46,
+    "starts": null,
+    "minutes": null,
+    "goals": 3,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "born in East Los Angeles, chose Mexico over the USA internationally after a widely covered eligibility decision",
+      "youngest signing in USL Championship history at 15 (LA Galaxy II, 2017)",
+      "career path: LA Galaxy II -> LA Galaxy (94 apps, 6 goals) -> Tijuana (52 apps, 8 goals) -> Chivas Guadalajara (2025-present, 46 apps, 3 goals)",
+      "Mexico U17 runner-up at 2019 U17 World Cup; senior Mexico debut 2021 (7 caps, 1 goal)",
+      "contract with Chivas expires 30 June 2026 - approaching free agency"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Publicly navigated a high-profile USA-vs-Mexico international eligibility decision as a teenager; no disciplinary record found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en", "es"],
+    "family_situation": null,
+    "public_statements": [
+      "Widely reported US-vs-Mexico national team eligibility decision culminating in his choosing Mexico, debuting for the senior team in 2021."
+    ],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "LA Galaxy was reported at one stage as 'not looking to sell' him (ABC7/ABC30, during his Galaxy tenure), indicating he was a valued asset there before his eventual transfer to Tijuana and then Chivas."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Efra%C3%ADn_%C3%81lvarez",
+    "https://www.mlssoccer.com/players/efrain-alvarez/",
+    "https://abc7.com/post/la-galaxy-not-looking-to-sell-us-mexico-national-efrain-alvarez---sources/10627179/",
+    "https://www.goal.com/en-us/lists/reports-chivas-secure-first-signing-ahead-of-next-tournament-with-right-winger-efrain-alvarez-set-to-join/blt225b98b6dd4a789d"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, full club career history (LA Galaxy II/LA Galaxy/Tijuana/Chivas with apps and goals per stint), Mexico U17/senior international record, and contract expiry (30 June 2026) confirmed via Wikipedia. Market value EUR 6.0m per Wikipedia-linked source. The 46 apps/3 goals figure is the Chivas 2025-present career total (not a single 2025/26 season split); starts/assists/minutes not found -> null."
+  }
+}

@@ -81,39 +81,36 @@ Profile: attacking left-back comfortable in a high line, 21-26
 Why: Salah-Eddine returned to Roma; the no. 2 shirt is vacant and Mauro Junior is the only natural LB.  
 Budget: €10m · wage ceiling €1.5m net
 
+- **Liam Scales** — 78.8/100 (strong match, confidence medium)
+  - Liam Scales → PSV at LB: strong match (78.8/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
 - **Jose Gaya** — 77.4/100 (good match, confidence medium)
   - Jose Gaya → PSV at LB: good match (77.4/100). Driven by statistical fit and positional need; weakest area is age & contract (45).
 - **Šimun Hrgović** — 74.5/100 (good match, confidence medium)
   - Šimun Hrgović → PSV at LB: good match (74.5/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (50).
-- **Stefan Bukinac** — 74.4/100 (good match, confidence medium)
-  - Stefan Bukinac → PSV at LB: good match (74.4/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### CB — medium priority
 Profile: dominant, quick centre-back for a high line, 22-27  
 Why: 45 conceded in 2025/26; Bosz's stated priority is defensive improvement.  
 Budget: €15m · wage ceiling €2m net
 
+- **Jack Milne** — 81.2/100 (strong match, confidence medium)
+  - Jack Milne → PSV at CB: strong match (81.2/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (50).
 - **Fikayo Tomori** — 78.5/100 (strong match, confidence medium)
   - Fikayo Tomori → PSV at CB: strong match (78.5/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
-- **Jayden Oosterwolde** — 73.8/100 (good match, confidence high)
-  - Jayden Oosterwolde → PSV at CB: good match (73.8/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (20).
-  - ⚠ Documented discipline record (see mental_profile.notes).
-  - ⚠ Current club publicly not selling.
-- **Thabo Moloisane** — 73.2/100 (good match, confidence medium)
-  - Thabo Moloisane → PSV at CB: good match (73.2/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
+- **Liam Scales** — 78.4/100 (strong match, confidence medium)
+  - Liam Scales → PSV at CB: strong match (78.4/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
 
 ### AM — medium priority
 Profile: goal-scoring No. 10/No. 8 from midfield, 20-25  
 Why: Saibari (19 goals) sold to Bayern.  
 Budget: €15m · wage ceiling €1.5m net
 
+- **Bo Åsulv Hegland** — 78.5/100 (strong match, confidence medium)
+  - Bo Åsulv Hegland → PSV at AM: strong match (78.5/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
 - **Toni Fruk** — 76.2/100 (good match, confidence medium)
   - Toni Fruk → PSV at AM: good match (76.2/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (50).
 - **Andre Brooks** — 75.0/100 (good match, confidence medium)
   - Andre Brooks → PSV at AM: good match (75.0/100). Driven by financial feasibility and statistical fit; weakest area is mentality & chemistry (55).
-- **Jordan Barrera** — 72.7/100 (good match, confidence medium)
-  - Jordan Barrera → PSV at AM: good match (72.7/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (49).
-  - ⚠ Current club publicly not selling.
 
 ## Sources
 

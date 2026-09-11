@@ -98,11 +98,10 @@ Budget: €n/am · wage ceiling €n/am net
 
 - **Jacob Trenskow** — 81.8/100 (strong match, confidence medium)
   - Jacob Trenskow → Feyenoord at ST: strong match (81.8/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
+- **Bo Åsulv Hegland** — 81.4/100 (strong match, confidence medium)
+  - Bo Åsulv Hegland → Feyenoord at ST: strong match (81.4/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
 - **Andrej Ilić** — 81.0/100 (strong match, confidence medium)
   - Andrej Ilić → Feyenoord at ST: strong match (81.0/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (54).
-- **Ayase Ueda** — 79.1/100 (strong match, confidence medium)
-  - Ayase Ueda → Feyenoord at ST: strong match (79.1/100). Driven by statistical fit and positional need; weakest area is age & contract (50).
-  - ⚠ Current club publicly not selling.
 
 ### CB — high priority
 Profile: left-sided, quick, comfortable defending a high line, 22-27  
@@ -114,9 +113,8 @@ Budget: €n/am · wage ceiling €n/am net
   - ⚠ Current club publicly not selling.
 - **Fikayo Tomori** — 84.2/100 (strong match, confidence medium)
   - Fikayo Tomori → Feyenoord at CB: strong match (84.2/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
-- **Maxime Estève** — 83.1/100 (strong match, confidence medium)
-  - Maxime Estève → Feyenoord at CB: strong match (83.1/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
-  - ⚠ Current club publicly not selling.
+- **Jack Milne** — 83.7/100 (strong match, confidence medium)
+  - Jack Milne → Feyenoord at CB: strong match (83.7/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (50).
 
 ### LW — medium priority
 Profile: direct 1v1 winger, resale value  

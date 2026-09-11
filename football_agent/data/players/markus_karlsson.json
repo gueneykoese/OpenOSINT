@@ -1,0 +1,76 @@
+{
+  "player_id": "markus_karlsson",
+  "name": "Markus Karlsson",
+  "age": 22,
+  "date_of_birth": "2004-01-20",
+  "nationality": ["SWE"],
+  "position": "DM",
+  "secondary_positions": ["RB", "CM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Hammarby IF",
+  "current_club_league": "Allsvenskan",
+  "contract_until": 2029,
+  "market_value_eur_m": 4.5,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Allsvenskan",
+    "apps": null,
+    "starts": null,
+    "minutes": 628,
+    "goals": 0,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "positionally versatile: right-back or defensive/central midfielder for Hammarby, deployed as midfielder for Sweden youth teams",
+      "Sweden U17, U19, U21 international",
+      "contract through Dec 2029, high market value (EUR 4.5m) relative to a Sweden second-tier-adjacent club",
+      "avg FotMob rating 7.77 in 2026 sample - well above average"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public disciplinary or coach-quote record found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["sv"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements found on transfer preference or happiness."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Markus_Karlsson_(footballer,_born_2004)",
+    "https://www.fotmob.com/players/1351066/markus-karlsson",
+    "https://www.uefa.com/uefaeuropaleague/clubs/players/250163018--markus-karlsson/",
+    "https://www.espn.com/soccer/player/_/id/22967/markus-karlsson"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, positional versatility (club defender/national-team midfielder), Sweden youth caps, and contract (through Dec 2029) confirmed via Wikipedia/fotmob. UEFA Europa League listing suggests Hammarby involvement in European competition, consistent with a high market value for an Allsvenskan player. 2026 stats (628 min, 0g/1a, 7.77 avg rating) from fotmob; apps/starts not found -> null."
+  }
+}

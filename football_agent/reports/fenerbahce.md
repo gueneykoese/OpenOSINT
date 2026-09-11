@@ -120,8 +120,8 @@ Budget: €n/am · wage ceiling €n/am net
 - **Kamiel Van de Perre** — 72.3/100 (good match, confidence medium)
   - Kamiel Van de Perre → Fenerbahçe at DM: good match (72.3/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
   - ⚠ Current club publicly not selling.
-- **Beni** — 70.2/100 (good match, confidence medium)
-  - Beni → Fenerbahçe at DM: good match (70.2/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
+- **Nicolai Remberg** — 71.0/100 (good match, confidence medium)
+  - Nicolai Remberg → Fenerbahçe at DM: good match (71.0/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
 
 ### GK — low priority
 Profile: young Turkish goalkeeper as successor  
@@ -134,8 +134,8 @@ Budget: €n/am · wage ceiling €n/am net
 - **Mostafa Shobeir** — 65.0/100 (possible, confidence medium)
   - Mostafa Shobeir → Fenerbahçe at GK: possible (65.0/100). Driven by financial feasibility and statistical fit; weakest area is positional need (48).
   - ⚠ Current club publicly not selling.
-- **Alex Meret** — 60.4/100 (possible, confidence medium)
-  - Alex Meret → Fenerbahçe at GK: possible (60.4/100). Driven by financial feasibility and positional need; weakest area is statistical fit (38).
+- **Patrick Schulte** — 63.2/100 (possible, confidence medium)
+  - Patrick Schulte → Fenerbahçe at GK: possible (63.2/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
 
 ## Sources
 

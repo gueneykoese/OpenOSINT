@@ -91,26 +91,25 @@ Profile: athletic left wing-back with stamina for a man-marking system, 21-26
 Why: Angeliño departed; Wesley is the only natural wing-back and Hermoso is a converted centre-back  
 Budget: €15m · wage ceiling €2m net
 
+- **Liam Scales** — 80.3/100 (strong match, confidence medium)
+  - Liam Scales → Roma at LB: strong match (80.3/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
 - **Jose Gaya** — 77.9/100 (good match, confidence medium)
   - Jose Gaya → Roma at LB: good match (77.9/100). Driven by statistical fit and positional need; weakest area is age & contract (45).
 - **Nathan Wood** — 75.9/100 (good match, confidence medium)
   - Nathan Wood → Roma at LB: good match (75.9/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Reinildo Mandava** — 75.3/100 (good match, confidence medium)
-  - Reinildo Mandava → Roma at LB: good match (75.3/100). Driven by positional need and statistical fit; weakest area is age & contract (45).
-  - ⚠ Current club publicly not selling.
 
 ### AM — medium priority
 Profile: young creative No. 10 / inside forward, 20-24, resale value  
 Why: Dybala is on a one-year renewal to 2027; Baldanzi, El Shaarawy and Zaragoza left  
 Budget: €20m · wage ceiling €2m net
 
+- **Bo Åsulv Hegland** — 76.3/100 (good match, confidence medium)
+  - Bo Åsulv Hegland → Roma at AM: good match (76.3/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (40).
 - **Jordan Barrera** — 74.5/100 (good match, confidence medium)
   - Jordan Barrera → Roma at AM: good match (74.5/100). Driven by positional need and financial feasibility; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
-- **Andre Brooks** — 73.6/100 (good match, confidence medium)
-  - Andre Brooks → Roma at AM: good match (73.6/100). Driven by financial feasibility and statistical fit; weakest area is mentality & chemistry (55).
-- **Toni Fruk** — 73.5/100 (good match, confidence medium)
-  - Toni Fruk → Roma at AM: good match (73.5/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
+- **Efraín Álvarez** — 73.7/100 (good match, confidence medium)
+  - Efraín Álvarez → Roma at AM: good match (73.7/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### ST — medium priority
 Profile: pressing backup No. 9, 20-25  
@@ -132,11 +131,10 @@ Budget: €3m · wage ceiling €1m net
 - **Noah Atubolu** — 56.3/100 (possible, confidence medium)
   - Noah Atubolu → Roma at GK: possible (56.3/100). Driven by statistical fit and tactical / system fit; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
-- **Mostafa Shobeir** — 48.1/100 (weak, confidence medium)
-  - Mostafa Shobeir → Roma at GK: weak (48.1/100). Driven by positional need and statistical fit; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
-- **Alex Meret** — 47.7/100 (weak, confidence medium)
-  - Alex Meret → Roma at GK: weak (47.7/100). Driven by positional need and statistical fit; weakest area is financial feasibility (10).
+- **Patrick Schulte** — 55.2/100 (possible, confidence medium)
+  - Patrick Schulte → Roma at GK: possible (55.2/100). Driven by statistical fit and financial feasibility; weakest area is positional need (39).
+- **Frankarlos Benítez** — 49.2/100 (weak, confidence low)
+  - Frankarlos Benítez → Roma at GK: weak (49.2/100). Driven by statistical fit and tactical / system fit; weakest area is positional need (21).
 
 ## Sources
 

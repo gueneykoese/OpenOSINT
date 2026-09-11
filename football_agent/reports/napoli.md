@@ -111,12 +111,11 @@ Budget: €n/am · wage ceiling €n/am net
 - **Maxime Estève** — 81.1/100 (strong match, confidence medium)
   - Maxime Estève → Napoli at CB: strong match (81.1/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
+- **Jack Milne** — 79.5/100 (strong match, confidence medium)
+  - Jack Milne → Napoli at CB: strong match (79.5/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (50).
 - **Jayden Oosterwolde** — 79.1/100 (strong match, confidence high)
   - Jayden Oosterwolde → Napoli at CB: strong match (79.1/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (20).
   - ⚠ Documented discipline record (see mental_profile.notes).
-  - ⚠ Current club publicly not selling.
-- **Chris Richards** — 77.9/100 (good match, confidence medium)
-  - Chris Richards → Napoli at CB: good match (77.9/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (50).
   - ⚠ Current club publicly not selling.
 
 ### ST — low priority

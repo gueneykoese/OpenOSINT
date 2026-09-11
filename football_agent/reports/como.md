@@ -109,13 +109,13 @@ Profile: ball-winning pivot with elite passing, 21-26
 Why: Perrone/Ricci/Da Cunha all more distributor than destroyer; UCL demands more defensive cover  
 Budget: €20m · wage ceiling €2.5m net
 
+- **Nicolai Remberg** — 79.6/100 (strong match, confidence medium)
+  - Nicolai Remberg → Como at DM: strong match (79.6/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
 - **Kamiel Van de Perre** — 78.9/100 (strong match, confidence medium)
   - Kamiel Van de Perre → Como at DM: strong match (78.9/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
-- **Adrián Bernabé** — 77.5/100 (good match, confidence medium)
-  - Adrián Bernabé → Como at DM: good match (77.5/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
-- **Beni** — 75.9/100 (good match, confidence medium)
-  - Beni → Como at DM: good match (75.9/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (44).
+- **Jack Milne** — 78.5/100 (strong match, confidence medium)
+  - Jack Milne → Como at DM: strong match (78.5/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (50).
 
 ### LB — low priority
 Profile: inverted-capable, left-footed  
@@ -127,8 +127,8 @@ Budget: €12m · wage ceiling €1.5m net
 - **Reinildo Mandava** — 69.7/100 (good match, confidence medium)
   - Reinildo Mandava → Como at LB: good match (69.7/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (45).
   - ⚠ Current club publicly not selling.
-- **Stefan Bukinac** — 65.3/100 (possible, confidence medium)
-  - Stefan Bukinac → Como at LB: possible (65.3/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
+- **Liam Scales** — 69.3/100 (good match, confidence medium)
+  - Liam Scales → Como at LB: good match (69.3/100). Driven by statistical fit and financial feasibility; weakest area is positional need (30).
 
 ## Sources
 

@@ -116,15 +116,13 @@ Profile: left-footed centre-back, 22-26
 Why: Giménez loaned out, Lenglet's status unclear; Hancko is the only left-footed option behind Romero/Le Normand  
 Budget: €25m · wage ceiling €3m net
 
+- **Jack Milne** — 73.6/100 (good match, confidence medium)
+  - Jack Milne → Atlético at CB: good match (73.6/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (50).
+- **Liam Scales** — 71.3/100 (good match, confidence medium)
+  - Liam Scales → Atlético at CB: good match (71.3/100). Driven by statistical fit and financial feasibility; weakest area is positional need (42).
 - **Maxime Estève** — 71.2/100 (good match, confidence medium)
   - Maxime Estève → Atlético at CB: good match (71.2/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
-- **Jayden Oosterwolde** — 69.5/100 (good match, confidence high)
-  - Jayden Oosterwolde → Atlético at CB: good match (69.5/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (20).
-  - ⚠ Documented discipline record (see mental_profile.notes).
-  - ⚠ Current club publicly not selling.
-- **Fikayo Tomori** — 68.9/100 (good match, confidence medium)
-  - Fikayo Tomori → Atlético at CB: good match (68.9/100). Driven by statistical fit and financial feasibility; weakest area is positional need (24).
 
 ### GK — low priority
 Profile: long-term successor to Oblak (33), 22-26  
@@ -134,11 +132,11 @@ Budget: €15m · wage ceiling €2m net
 - **Mostafa Shobeir** — 63.9/100 (possible, confidence medium)
   - Mostafa Shobeir → Atlético at GK: possible (63.9/100). Driven by financial feasibility and positional need; weakest area is positional need (50).
   - ⚠ Current club publicly not selling.
+- **Patrick Schulte** — 63.5/100 (possible, confidence medium)
+  - Patrick Schulte → Atlético at GK: possible (63.5/100). Driven by financial feasibility and positional need; weakest area is positional need (50).
 - **Noah Atubolu** — 62.9/100 (possible, confidence medium)
   - Noah Atubolu → Atlético at GK: possible (62.9/100). Driven by statistical fit and positional need; weakest area is financial feasibility (30).
   - ⚠ Current club publicly not selling.
-- **Alex Meret** — 56.7/100 (possible, confidence medium)
-  - Alex Meret → Atlético at GK: possible (56.7/100). Driven by financial feasibility and statistical fit; weakest area is positional need (27).
 
 ## Sources
 

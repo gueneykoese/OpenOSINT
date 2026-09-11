@@ -100,12 +100,11 @@ Budget: €50m · wage ceiling €7m net
 - **Maxime Estève** — 84.9/100 (strong match, confidence medium)
   - Maxime Estève → PSG at CB: strong match (84.9/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
+- **Jack Milne** — 77.5/100 (good match, confidence medium)
+  - Jack Milne → PSG at CB: good match (77.5/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
 - **Jayden Oosterwolde** — 74.9/100 (good match, confidence high)
   - Jayden Oosterwolde → PSG at CB: good match (74.9/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (20).
   - ⚠ Documented discipline record (see mental_profile.notes).
-  - ⚠ Current club publicly not selling.
-- **Pierre Kalulu** — 74.7/100 (good match, confidence high)
-  - Pierre Kalulu → PSG at CB: good match (74.7/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (50).
   - ⚠ Current club publicly not selling.
 
 ### LB — low priority
@@ -118,8 +117,8 @@ Budget: €25m · wage ceiling €4m net
 - **Vitaliy Mykolenko** — 69.2/100 (good match, confidence medium)
   - Vitaliy Mykolenko → PSG at LB: good match (69.2/100). Driven by statistical fit and financial feasibility; weakest area is positional need (45).
   - ⚠ Current club publicly not selling.
-- **Tyrick Mitchell** — 66.9/100 (good match, confidence medium)
-  - Tyrick Mitchell → PSG at LB: good match (66.9/100). Driven by statistical fit and positional need; weakest area is positional need (45).
+- **Liam Scales** — 68.3/100 (good match, confidence medium)
+  - Liam Scales → PSG at LB: good match (68.3/100). Driven by statistical fit and financial feasibility; weakest area is positional need (30).
 
 ## Sources
 

@@ -91,14 +91,13 @@ Profile: physical ball-winning No.6, 22-27
 Why: Palhinha departed; Kimmich 31; Pavlovic/Bischof are still developing  
 Budget: €50m · wage ceiling €8m net
 
+- **Nicolai Remberg** — 81.3/100 (strong match, confidence medium)
+  - Nicolai Remberg → Bayern at DM: strong match (81.3/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
 - **Kamiel Van de Perre** — 77.9/100 (good match, confidence medium)
   - Kamiel Van de Perre → Bayern at DM: good match (77.9/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (45).
   - ⚠ Current club publicly not selling.
 - **Adrián Bernabé** — 77.5/100 (good match, confidence medium)
   - Adrián Bernabé → Bayern at DM: good match (77.5/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
-- **Farès Chaïbi** — 73.4/100 (good match, confidence medium)
-  - Farès Chaïbi → Bayern at DM: good match (73.4/100). Driven by financial feasibility and statistical fit; weakest area is mentality & chemistry (55).
-  - ⚠ Current club publicly not selling.
 
 ### GK — medium priority
 Profile: top-level GK ready to start within 12 months, sweeper-keeper  
@@ -111,8 +110,8 @@ Budget: €35m · wage ceiling €6m net
 - **Mostafa Shobeir** — 67.4/100 (good match, confidence medium)
   - Mostafa Shobeir → Bayern at GK: good match (67.4/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
   - ⚠ Current club publicly not selling.
-- **Alex Meret** — 66.0/100 (good match, confidence medium)
-  - Alex Meret → Bayern at GK: good match (66.0/100). Driven by positional need and financial feasibility; weakest area is statistical fit (38).
+- **Patrick Schulte** — 67.3/100 (good match, confidence medium)
+  - Patrick Schulte → Bayern at GK: good match (67.3/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
 
 ### RB — low priority
 Profile: specialist attacking RB  

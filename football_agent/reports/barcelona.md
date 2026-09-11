@@ -99,9 +99,8 @@ Budget: €35m · wage ceiling €6m net
   - Chris Richards → Barcelona at CB: strong match (85.5/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (50).
   - ⚠ Current club publicly not selling.
   - ⚠ Would block a young starter (Pau Cubarsi, 19) — check pathway politics.
-- **Maxime Estève** — 83.8/100 (strong match, confidence medium)
-  - Maxime Estève → Barcelona at CB: strong match (83.8/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
-  - ⚠ Current club publicly not selling.
+- **Liam Scales** — 84.7/100 (strong match, confidence medium)
+  - Liam Scales → Barcelona at CB: strong match (84.7/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
   - ⚠ Would block a young starter (Pau Cubarsi, 19) — check pathway politics.
 
 ### ST — medium priority
@@ -127,22 +126,22 @@ Budget: €30m · wage ceiling €4m net
 - **Kamiel Van de Perre** — 79.0/100 (strong match, confidence medium)
   - Kamiel Van de Perre → Barcelona at DM: strong match (79.0/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
   - ⚠ Current club publicly not selling.
-- **Beni** — 76.4/100 (good match, confidence medium)
-  - Beni → Barcelona at DM: good match (76.4/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
+- **Nicolai Remberg** — 78.1/100 (strong match, confidence medium)
+  - Nicolai Remberg → Barcelona at DM: strong match (78.1/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
 
 ### GK — low priority
 Profile: young backup, 22-26  
 Why: Szczesny is 36 and ter Stegen loaned to Ajax; Livakovic signed as cover  
 Budget: €8m · wage ceiling €1.5m net
 
+- **Patrick Schulte** — 64.1/100 (possible, confidence medium)
+  - Patrick Schulte → Barcelona at GK: possible (64.1/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
 - **Mostafa Shobeir** — 63.2/100 (possible, confidence medium)
   - Mostafa Shobeir → Barcelona at GK: possible (63.2/100). Driven by financial feasibility and positional need; weakest area is positional need (50).
   - ⚠ Current club publicly not selling.
 - **Noah Atubolu** — 61.4/100 (possible, confidence medium)
   - Noah Atubolu → Barcelona at GK: possible (61.4/100). Driven by statistical fit and tactical / system fit; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
-- **Alex Meret** — 59.0/100 (possible, confidence medium)
-  - Alex Meret → Barcelona at GK: possible (59.0/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (27).
 
 ## Sources
 

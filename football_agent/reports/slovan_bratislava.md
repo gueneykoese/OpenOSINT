@@ -73,27 +73,25 @@ Profile: quick, aggressive centre-back 23-28 to succeed Kashia
 Why: Kashia departed; Wimmer is 33 and the remaining options are inexperienced  
 Budget: €1.5m · wage ceiling €0.4m net
 
-- **Fikayo Tomori** — 71.5/100 (good match, confidence medium)
-  - Fikayo Tomori → Slovan Bratislava at CB: good match (71.5/100). Driven by positional need and statistical fit; weakest area is financial feasibility (10).
-- **Craig Halkett** — 69.6/100 (good match, confidence medium)
-  - Craig Halkett → Slovan Bratislava at CB: good match (69.6/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (35).
-  - ⚠ Current club publicly not selling.
-- **Chris Richards** — 68.8/100 (good match, confidence medium)
-  - Chris Richards → Slovan Bratislava at CB: good match (68.8/100). Driven by positional need and statistical fit; weakest area is financial feasibility (10).
-  - ⚠ Current club publicly not selling.
+- **Jack Milne** — 80.4/100 (strong match, confidence medium)
+  - Jack Milne → Slovan Bratislava at CB: strong match (80.4/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (35).
+- **Sean Zawadzki** — 73.8/100 (good match, confidence medium)
+  - Sean Zawadzki → Slovan Bratislava at CB: good match (73.8/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (30).
+- **Aaron Kiil Olsen** — 73.0/100 (good match, confidence medium)
+  - Aaron Kiil Olsen → Slovan Bratislava at CB: good match (73.0/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (19).
 
 ### RW — medium priority
 Profile: direct winger with goals, ideally loan from a top-5 league  
 Why: Mak and Weiss Jr. left; Barseghyan is the only proven wide creator  
 Budget: €1m · wage ceiling €0.35m net
 
-- **Riccardo Orsolini** — 64.4/100 (possible, confidence medium)
-  - Riccardo Orsolini → Slovan Bratislava at RW: possible (64.4/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
-- **Romain Del Castillo** — 62.3/100 (possible, confidence medium)
-  - Romain Del Castillo → Slovan Bratislava at RW: possible (62.3/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
+- **Lallianzuala Chhangte** — 74.4/100 (good match, confidence medium)
+  - Lallianzuala Chhangte → Slovan Bratislava at RW: good match (74.4/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
   - ⚠ Current club publicly not selling.
-- **Reiss Nelson** — 61.1/100 (possible, confidence medium)
-  - Reiss Nelson → Slovan Bratislava at RW: possible (61.1/100). Driven by positional need and tactical / system fit; weakest area is financial feasibility (10).
+- **Sayan Banerjee** — 66.8/100 (good match, confidence low)
+  - Sayan Banerjee → Slovan Bratislava at RW: good match (66.8/100). Driven by positional need and tactical / system fit; weakest area is statistical fit (50).
+- **Vikram Partap Singh** — 66.5/100 (good match, confidence medium)
+  - Vikram Partap Singh → Slovan Bratislava at RW: good match (66.5/100). Driven by positional need and tactical / system fit; weakest area is statistical fit (50).
 
 ### GK — medium priority
 Profile: experienced No.2 who can start UCL games if needed  
@@ -103,11 +101,10 @@ Budget: €0.5m · wage ceiling €0.2m net
 - **Noah Atubolu** — 64.2/100 (possible, confidence medium)
   - Noah Atubolu → Slovan Bratislava at GK: possible (64.2/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
+- **Frankarlos Benítez** — 58.2/100 (possible, confidence low)
+  - Frankarlos Benítez → Slovan Bratislava at GK: possible (58.2/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (47).
 - **Alex Meret** — 52.3/100 (weak, confidence medium)
   - Alex Meret → Slovan Bratislava at GK: weak (52.3/100). Driven by positional need and tactical / system fit; weakest area is financial feasibility (10).
-- **Mostafa Shobeir** — 51.4/100 (weak, confidence medium)
-  - Mostafa Shobeir → Slovan Bratislava at GK: weak (51.4/100). Driven by positional need and statistical fit; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
 
 ## Sources
 

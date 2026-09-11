@@ -75,12 +75,12 @@ Profile: pressing 9 who links play, Scandinavian market, 21-26
 Why: Høgh (Celtic) and Bro Hansen (PSV) sold in summer 2026 with no incoming striker; Helmersen is the only senior No. 9  
 Budget: €n/am · wage ceiling €n/am net
 
+- **Bo Åsulv Hegland** — 80.5/100 (strong match, confidence medium)
+  - Bo Åsulv Hegland → Bodø/Glimt at ST: strong match (80.5/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
 - **Jacob Trenskow** — 79.7/100 (strong match, confidence medium)
   - Jacob Trenskow → Bodø/Glimt at ST: strong match (79.7/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
 - **Juan Santos** — 77.7/100 (good match, confidence medium)
   - Juan Santos → Bodø/Glimt at ST: good match (77.7/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (48).
-- **Mexx Meerdink** — 77.4/100 (good match, confidence medium)
-  - Mexx Meerdink → Bodø/Glimt at ST: good match (77.4/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
 
 ### CB — medium priority
 Profile: quick, comfortable in very high line, 21-26  

@@ -135,11 +135,11 @@ Budget: €25m · wage ceiling €3m net
 - **Noah Atubolu** — 74.4/100 (good match, confidence medium)
   - Noah Atubolu → Arsenal at GK: good match (74.4/100). Driven by statistical fit and financial feasibility; weakest area is positional need (53).
   - ⚠ Current club publicly not selling.
+- **Patrick Schulte** — 65.0/100 (possible, confidence medium)
+  - Patrick Schulte → Arsenal at GK: possible (65.0/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
 - **Mostafa Shobeir** — 63.7/100 (possible, confidence medium)
   - Mostafa Shobeir → Arsenal at GK: possible (63.7/100). Driven by financial feasibility and statistical fit; weakest area is positional need (39).
   - ⚠ Current club publicly not selling.
-- **Alex Meret** — 54.8/100 (possible, confidence medium)
-  - Alex Meret → Arsenal at GK: possible (54.8/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (21).
 
 ## Sources
 

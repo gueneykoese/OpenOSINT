@@ -95,8 +95,8 @@ Budget: €70m · wage ceiling €8m net
 - **Maxime Estève** — 86.2/100 (strong match, confidence medium)
   - Maxime Estève → Liverpool at CB: strong match (86.2/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
-- **Fikayo Tomori** — 84.1/100 (strong match, confidence medium)
-  - Fikayo Tomori → Liverpool at CB: strong match (84.1/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
+- **Jack Milne** — 84.2/100 (strong match, confidence medium)
+  - Jack Milne → Liverpool at CB: strong match (84.2/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
 
 ### DM — high priority
 Profile: ball-winning No.6 with 3+ tackles+interceptions p90, 22-27  
@@ -108,9 +108,8 @@ Budget: €60m · wage ceiling €7m net
   - ⚠ Current club publicly not selling.
 - **Adrián Bernabé** — 84.0/100 (strong match, confidence medium)
   - Adrián Bernabé → Liverpool at DM: strong match (84.0/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
-- **Victor Froholdt** — 82.5/100 (strong match, confidence medium)
-  - Victor Froholdt → Liverpool at DM: strong match (82.5/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (70).
-  - ⚠ Current club publicly not selling.
+- **Nicolai Remberg** — 83.0/100 (strong match, confidence medium)
+  - Nicolai Remberg → Liverpool at DM: strong match (83.0/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
 
 ### LB — medium priority
 Profile: athletic left-back able to invert or overlap, 21-25  
@@ -124,10 +123,8 @@ Budget: €40m · wage ceiling €5m net
   - Vitaliy Mykolenko → Liverpool at LB: good match (76.3/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (50).
   - ⚠ Current club publicly not selling.
   - ⚠ Would block a young starter (Milos Kerkez, 22) — check pathway politics.
-- **Jayden Oosterwolde** — 72.5/100 (good match, confidence high)
-  - Jayden Oosterwolde → Liverpool at LB: good match (72.5/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (20).
-  - ⚠ Documented discipline record (see mental_profile.notes).
-  - ⚠ Current club publicly not selling.
+- **Liam Scales** — 74.0/100 (good match, confidence medium)
+  - Liam Scales → Liverpool at LB: good match (74.0/100). Driven by statistical fit and financial feasibility; weakest area is positional need (48).
   - ⚠ Would block a young starter (Milos Kerkez, 22) — check pathway politics.
 
 ### GK — medium priority
@@ -141,8 +138,8 @@ Budget: €n/am · wage ceiling €n/am net
 - **Mostafa Shobeir** — 68.8/100 (good match, confidence medium)
   - Mostafa Shobeir → Liverpool at GK: good match (68.8/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
   - ⚠ Current club publicly not selling.
-- **Alex Meret** — 65.0/100 (possible, confidence medium)
-  - Alex Meret → Liverpool at GK: possible (65.0/100). Driven by financial feasibility and positional need; weakest area is statistical fit (38).
+- **Patrick Schulte** — 68.8/100 (good match, confidence medium)
+  - Patrick Schulte → Liverpool at GK: good match (68.8/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
 
 ## Sources
 

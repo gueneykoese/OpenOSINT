@@ -92,14 +92,14 @@ Profile: quick right-footed CB, 22-26
 Why: Kambwala reportedly moving to Como; Mouriño/Foyth/Veiga plus academy Diatta  
 Budget: €n/am · wage ceiling €n/am net
 
+- **Jack Milne** — 80.4/100 (strong match, confidence medium)
+  - Jack Milne → Villarreal at CB: strong match (80.4/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (50).
 - **Maxime Estève** — 78.1/100 (strong match, confidence medium)
   - Maxime Estève → Villarreal at CB: strong match (78.1/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
 - **Chris Richards** — 77.7/100 (good match, confidence medium)
   - Chris Richards → Villarreal at CB: good match (77.7/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
-- **Fikayo Tomori** — 76.5/100 (good match, confidence medium)
-  - Fikayo Tomori → Villarreal at CB: good match (76.5/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
 
 ### LB — low priority
 Profile: athletic full-back able to press high  

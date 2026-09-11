@@ -96,21 +96,20 @@ Budget: €20m · wage ceiling €2.5m net
   - Adrián Bernabé → Sporting CP at DM: strong match (81.7/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
 - **Beni** — 81.3/100 (strong match, confidence medium)
   - Beni → Sporting CP at DM: strong match (81.3/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
-- **Kamiel Van de Perre** — 80.4/100 (strong match, confidence medium)
-  - Kamiel Van de Perre → Sporting CP at DM: strong match (80.4/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (48).
-  - ⚠ Current club publicly not selling.
+- **Nicolai Remberg** — 81.3/100 (strong match, confidence medium)
+  - Nicolai Remberg → Sporting CP at DM: strong match (81.3/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (34).
 
 ### CB — medium priority
 Profile: right-footed, fast, aerially strong, 22-26, UCL-ready  
 Why: Diomande sold; Ba and Zekri are step-up signings, Inacio's contract runs to 2027.  
 Budget: €15m · wage ceiling €2m net
 
+- **Jack Milne** — 76.8/100 (good match, confidence medium)
+  - Jack Milne → Sporting CP at CB: good match (76.8/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (30).
 - **Fikayo Tomori** — 76.5/100 (good match, confidence medium)
   - Fikayo Tomori → Sporting CP at CB: good match (76.5/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
-- **Khulumani Ndamane** — 72.5/100 (good match, confidence medium)
-  - Khulumani Ndamane → Sporting CP at CB: good match (72.5/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Thabo Moloisane** — 72.2/100 (good match, confidence medium)
-  - Thabo Moloisane → Sporting CP at CB: good match (72.2/100). Driven by financial feasibility and statistical fit; weakest area is tactical / system fit (50).
+- **Liam Scales** — 75.3/100 (good match, confidence medium)
+  - Liam Scales → Sporting CP at CB: good match (75.3/100). Driven by statistical fit and financial feasibility; weakest area is cultural adaptation (38).
 
 ### RW — medium priority
 Profile: creative wide player with assists, 21-25  
@@ -119,10 +118,10 @@ Budget: €15m · wage ceiling €2m net
 
 - **Oswin Appollis** — 78.3/100 (strong match, confidence medium)
   - Oswin Appollis → Sporting CP at RW: strong match (78.3/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
+- **Efraín Álvarez** — 72.6/100 (good match, confidence medium)
+  - Efraín Álvarez → Sporting CP at RW: good match (72.6/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
 - **Shandre Campbell** — 72.3/100 (good match, confidence medium)
   - Shandre Campbell → Sporting CP at RW: good match (72.3/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Andre Brooks** — 71.8/100 (good match, confidence medium)
-  - Andre Brooks → Sporting CP at RW: good match (71.8/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (30).
 
 ### ST — low priority
 Profile: back-up No. 9, 20-24, resale value  
@@ -133,8 +132,8 @@ Budget: €10m · wage ceiling €1.5m net
   - Nicolás López → Sporting CP at ST: good match (68.7/100). Driven by statistical fit and financial feasibility; weakest area is positional need (20).
 - **Kouceila Boualia** — 67.1/100 (good match, confidence medium)
   - Kouceila Boualia → Sporting CP at ST: good match (67.1/100). Driven by financial feasibility and positional need; weakest area is positional need (50).
-- **Sōta Nakamura** — 66.7/100 (good match, confidence medium)
-  - Sōta Nakamura → Sporting CP at ST: good match (66.7/100). Driven by financial feasibility and statistical fit; weakest area is cultural adaptation (27).
+- **Oswaldo Virgen** — 66.7/100 (good match, confidence medium)
+  - Oswaldo Virgen → Sporting CP at ST: good match (66.7/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (50).
 
 ## Sources
 

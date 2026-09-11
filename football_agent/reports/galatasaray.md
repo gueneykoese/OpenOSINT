@@ -99,27 +99,25 @@ Profile: right-footed, quick, UCL-experienced, 24-29
 Why: Nelsson contract terminated Sept 2026; only two senior specialist CBs plus Ayhan  
 Budget: €12m · wage ceiling €3m net
 
+- **Liam Scales** — 75.7/100 (good match, confidence medium)
+  - Liam Scales → Galatasaray at CB: good match (75.7/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
 - **Fikayo Tomori** — 75.0/100 (good match, confidence medium)
   - Fikayo Tomori → Galatasaray at CB: good match (75.0/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
-- **Thabo Moloisane** — 74.1/100 (good match, confidence medium)
-  - Thabo Moloisane → Galatasaray at CB: good match (74.1/100). Driven by positional need and financial feasibility; weakest area is tactical / system fit (50).
-- **Craig Halkett** — 72.6/100 (good match, confidence medium)
-  - Craig Halkett → Galatasaray at CB: good match (72.6/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
-  - ⚠ Current club publicly not selling.
+- **Jack Milne** — 74.7/100 (good match, confidence medium)
+  - Jack Milne → Galatasaray at CB: good match (74.7/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
 
 ### GK — low priority
 Profile: experienced No.2 comfortable with build-up  
 Why: Backup options behind Uğurcan Çakır are domestic and inexperienced  
 Budget: €3m · wage ceiling €1m net
 
+- **Frankarlos Benítez** — 60.0/100 (possible, confidence low)
+  - Frankarlos Benítez → Galatasaray at GK: possible (60.0/100). Driven by tactical / system fit and statistical fit; weakest area is positional need (45).
 - **Noah Atubolu** — 59.1/100 (possible, confidence medium)
   - Noah Atubolu → Galatasaray at GK: possible (59.1/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
   - ⚠ Current club publicly not selling.
-- **Mostafa Shobeir** — 48.7/100 (weak, confidence medium)
-  - Mostafa Shobeir → Galatasaray at GK: weak (48.7/100). Driven by statistical fit and positional need; weakest area is financial feasibility (0).
-  - ⚠ Current club publicly not selling.
-- **Alex Meret** — 46.1/100 (weak, confidence medium)
-  - Alex Meret → Galatasaray at GK: weak (46.1/100). Driven by positional need and tactical / system fit; weakest area is financial feasibility (10).
+- **Patrick Schulte** — 55.2/100 (possible, confidence medium)
+  - Patrick Schulte → Galatasaray at GK: possible (55.2/100). Driven by statistical fit and positional need; weakest area is positional need (45).
 
 ## Sources
 
