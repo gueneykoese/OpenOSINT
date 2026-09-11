@@ -1,0 +1,76 @@
+{
+  "player_id": "kaina_tanimura",
+  "name": "Kaina Tanimura",
+  "age": 28,
+  "date_of_birth": "1998-03-05",
+  "nationality": ["JPN"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 181,
+  "current_club": "Yokohama F. Marinos",
+  "current_club_league": "J1 League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "J1 League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 10,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "central striker",
+      "late-bloomer: spent 2020-2025 at Iwaki FC (then a lower-division club) before joining Yokohama F. Marinos in 2025",
+      "co-led the 2026 J1 League scoring charts with 10 goals (tied with Léo Ceará of Kashima Antlers and Yuya Yamagishi of Nagoya Grampus) as of Sept 2026",
+      "wears number 9 for Marinos"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": 4,
+    "discipline": null,
+    "notes": "Public career narrative (multiple J-League/Wikipedia profiles) frames him as a persistence story - five seasons at a non-top-flight club (Iwaki FC) before breaking into J1 with Marinos and becoming a scoring leader; treated as evidence of resilience, not a formal rating."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ja"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements on transfer preference found."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kaina_Tanimura",
+    "https://www.jleague.jp/en/player/1630058/",
+    "https://www.espn.com/soccer/player/_/id/407044/kaina-tanimura",
+    "https://www.topscorersfootball.com/j1-league"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB (5 March 1998), height (181cm) and career path (Iwaki FC 2020-2025 -> Yokohama F. Marinos 2025) confirmed via Wikipedia/ESPN. 2026 J1 League goal tally (10, tied for league lead as of early Sept 2026) from a topscorersfootball.com snippet; other 2025/26 statistical fields (apps, minutes, assists, advanced metrics) not found in search snippets and left null rather than estimated. No market value, contract-until date, or transfer-preference statement found."
+  }
+}

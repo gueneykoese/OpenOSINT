@@ -1,0 +1,76 @@
+{
+  "player_id": "patrick_schulte",
+  "name": "Patrick Schulte",
+  "age": 25,
+  "date_of_birth": "2001-03-13",
+  "nationality": ["USA"],
+  "position": "GK",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 190,
+  "current_club": "Columbus Crew",
+  "current_club_league": "MLS",
+  "contract_until": 2027,
+  "market_value_eur_m": 3.3,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "MLS",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "USMNT goalkeeper (3 caps)",
+      "became youngest goalkeeper in Crew history to win MLS Cup (age 22)",
+      "2026 season: 7.0 saves per game, 63.6% save pct, 1 clean sheet (partial-season figures)",
+      "shot-stopper, ball-playing goalkeeper"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public disciplinary record found; noted for winning MLS Cup as a young starter."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements found on transfer preference or happiness."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Patrick_Schulte",
+    "https://www.flashscore.com/player/schulte-patrick/IJv9ax1Q/",
+    "https://www.ussoccer.com/players/s/patrick-schulte",
+    "https://www.mlssoccer.com/players/patrick-schulte/"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, market value (EUR 3.3m per Wikipedia/Transfermarkt-derived figure), contract expiry (Dec 2027) and USMNT caps confirmed via Wikipedia/Flashscore snippets. 2026 per-game save stats are partial-season figures from a snippet (savepct 63.6%, 1 clean sheet) with no total apps/minutes given -> those left null. No goals/assists tracked for goalkeepers so left null."
+  }
+}

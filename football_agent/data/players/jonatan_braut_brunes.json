@@ -1,0 +1,71 @@
+{
+  "player_id": "jonatan_braut_brunes",
+  "name": "Jonatan Braut Brunes",
+  "age": 26,
+  "date_of_birth": "2000-08-07",
+  "nationality": ["NOR"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 189,
+  "current_club": "AC Sparta Prague",
+  "current_club_league": "Czech First League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Ekstraklasa / Czech First League",
+    "apps": 32,
+    "starts": null,
+    "minutes": 1956,
+    "goals": 13,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["target-man striker, 1.89m", "scored 30+ goals across last two Ekstraklasa seasons at Raków Częstochowa", "transferred from Raków (Poland) to Sparta Prague (Czechia) in 2026"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["no", "en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jonatan_Braut_Brunes",
+    "https://sparta.cz/en/novinky/45032-jonatan-braut-brunes",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Rak%C3%B3w_Cz%C4%99stochowa_season",
+    "https://www.fotmob.com/players/737073"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Norwegian striker who was Raków Częstochowa's main goal threat (14 goals on loan 2024/25, ~13-16 goals reported for 2025/26 Ekstraklasa depending on source) before transferring to AC Sparta Prague in 2026 (per sparta.cz official news post). Search snippets gave slightly conflicting 2025/26 goal counts (13 vs 16) across sources -> used the Ekstraklasa-season-specific figure (13 goals, 0 assists, 1956 minutes, 32 apps) from the more detailed stat line. Exact transfer date, fee, contract length, market value not found -> null. This is a cross-target-league move (Ekstraklasa -> Czech First League) explicitly allowed by the assignment brief since Raków is not a UCL club."
+  }
+}

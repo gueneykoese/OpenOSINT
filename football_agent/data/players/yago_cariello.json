@@ -1,0 +1,77 @@
+{
+  "player_id": "yago_cariello",
+  "name": "Yago Cariello",
+  "age": 27,
+  "date_of_birth": "1999-07-27",
+  "nationality": ["BRA"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 186,
+  "current_club": "Ulsan HD",
+  "current_club_league": "K League 1",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "K League 1",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 13,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "target-man centre-forward",
+      "born in Rio de Janeiro, Brazil",
+      "signed by defending K League champions Ulsan HD (as Ulsan Hyundai) in July 2024 alongside Korean international Jung Woo-young",
+      "league's top goalscorer in the 2026 K League 1 season (13 goals) as of the search date",
+      "wears number 99"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements on transfer preference found."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yago_Cariello",
+    "https://www.koreatimes.co.kr/sports/20240709/k-league-champions-ulsan-sign-korean-international-jung-woo-young-and-brazilian-striker-yago",
+    "https://www.fotmob.com/players/1354250/yago-cariello",
+    "https://www.sofascore.com/player/yago-cariello/1019266"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Bio (DOB 27 July 1999, Brazilian, 186cm, Ulsan HD no. 99, signed July 2024) confirmed via Wikipedia and Korea Times. He is reported as the 2026 K League 1 top goalscorer with 13 goals as of the search snippet (a different snippet also cited 10 goals + 1 assist for the 2024-25 'Super League' campaign, which appears to reference an earlier season/competition and was not used to avoid conflating seasons). Apps, minutes and advanced metrics for 2025/26 were not found and are left null. No market value or transfer-preference information found."
+  }
+}

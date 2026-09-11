@@ -1,0 +1,77 @@
+{
+  "player_id": "sean_zawadzki",
+  "name": "Sean Zawadzki",
+  "age": 26,
+  "date_of_birth": "2000-04-21",
+  "nationality": ["USA"],
+  "position": "CB",
+  "secondary_positions": ["DM"],
+  "preferred_foot": null,
+  "height_cm": 183,
+  "current_club": "Columbus Crew",
+  "current_club_league": "MLS",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "MLS",
+    "apps": 89,
+    "starts": 66,
+    "minutes": 6162,
+    "goals": 7,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Columbus Crew academy (homegrown) product",
+      "versatile centre-back / defensive midfielder",
+      "2023 MLS Cup champion, 2024 Leagues Cup winner",
+      "2025 Crew Defender of the Year",
+      "figures cited (89 apps/66 starts/7g/2a/6162 min) are career-to-date through his first four MLS seasons, not single-season"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Named 2025 Crew Defender of the Year - positive coach/club recognition; no disciplinary record found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements found on transfer preference or happiness."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sean_Zawadzki",
+    "https://www.columbuscrew.com/news/columbus-crew-sign-sean-zawadzki-to-multi-year-contract-extension",
+    "https://www.fotmob.com/players/1338763/sean-zawadzki",
+    "https://www.whoscored.com/players/436073/show/sean-zawadzki"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, position, homegrown status and contract extension through 2030 confirmed via Wikipedia/Columbus Crew club site. The 89 apps/66 starts/7 goals/2 assists/6162 minutes figure is explicitly a CAREER TOTAL through his first four MLS seasons (per source wording), not a single 2025/26 season stat line - entered here as the best available verified aggregate since a single-season breakdown was not found in snippets; treat apps/goals as multi-year, not per-season. Market value and wage not found -> null."
+  }
+}

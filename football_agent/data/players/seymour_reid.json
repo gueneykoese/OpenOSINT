@@ -1,0 +1,77 @@
+{
+  "player_id": "seymour_reid",
+  "name": "Seymour Reid",
+  "age": 18,
+  "date_of_birth": "2008-03-04",
+  "nationality": ["JAM"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "New York City FC",
+  "current_club_league": "MLS",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "MLS",
+    "apps": 11,
+    "starts": null,
+    "minutes": 23,
+    "goals": 7,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "youngest player in NYCFC MLS history, debuted March 2025 as a substitute",
+      "Jamaican youth international, full name Seymour Garfield-Reid",
+      "7 goals in 11 appearances early in career (2025 figures)",
+      "currently out on loan at Sporting Kansas City through the 2027 MLS Sprint Season",
+      "right-footed forward, homegrown NYCFC signing"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public disciplinary or coach-quote record found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements found on transfer preference or happiness."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Seymour_Reid_(footballer)",
+    "https://www.hudsonriverblue.com/nycfc-transfer-tracker-2/",
+    "https://www.fotmob.com/players/1726789/seymour-reid",
+    "https://www.newyorkcityfc.com/players/seymour-reid/"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "DOB, Jamaican nationality, and homegrown NYCFC contract through 2029 (option 2030) confirmed via Wikipedia. The '7 goals in 11 appearances' figure is from his breakout 2025 stretch per Wikipedia snippet; the '0 goals, 0 assists, 23 minutes' figure is a separate, much smaller 2026 season sample from FotMob - both are reported here together (apps=11/goals=7 from 2025, minutes=23 from limited 2026 action) because the two periods could not be fully reconciled from snippets; treat stats_2025_26 as a mixed, low-confidence composite. He is currently out on loan at Sporting Kansas City (through the 2027 MLS Sprint Season) rather than playing for NYCFC first team, hence availability set to 'loan possible' and current_club kept as parent club NYCFC per contract holder."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "player_id": "stuart_hawkins",
+  "name": "Stuart Hawkins",
+  "age": 19,
+  "date_of_birth": "2006-09-18",
+  "nationality": ["USA"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 190,
+  "current_club": "Seattle Sounders FC",
+  "current_club_league": "MLS",
+  "contract_until": 2026,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "MLS",
+    "apps": 11,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "signed Homegrown deal with Seattle Sounders at age 16",
+      "tall, physical centre-back (1.90m)",
+      "US youth international (U17: 20 caps, U19: 3 caps, U20: 5 caps)",
+      "developed through Tacoma Defiance (55 apps, 3 goals) before first-team minutes"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public disciplinary or coach-quote record found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements found on transfer preference or happiness."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stuart_Hawkins",
+    "https://www.soccerwire.com/news/mls-next-star-stuart-hawkins-signs-homegrown-deal-with-seattle-sounders-at-age-16/",
+    "https://www.espn.com/soccer/player/_/id/371080/stuart-hawkins",
+    "https://www.starsandstripesfc.com/athletes-in-focus/45247/ssfc-spotlight-stuart-hawkins-taking-opportunities-down-the-stretch"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, homegrown signing and Tacoma Defiance/youth international record confirmed via Wikipedia/SoccerWire. Original contract reported as running 'until 2026 with options for 2027 and 2028' -> contract_until entered conservatively as 2026 (the guaranteed year); club options for 2027/28 not counted as certain. First-team stats (11 apps, 1 goal) from Wikipedia; minutes/starts/assists not found -> null."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "player_id": "tawfik_bentayeb",
+  "name": "Tawfik Bentayeb",
+  "age": 24,
+  "date_of_birth": "2002-01-14",
+  "nationality": ["MAR"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "ESTAC Troyes",
+  "current_club_league": "Ligue 2",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Ligue 2",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 18,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Ligue 2 top scorer 2025/26 (18 goals)", "loan spell revelation", "attracted Feyenoord scouting interest"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr", "ar"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tawfik_Bentayeb",
+    "https://www.getfootballnewsfrance.com/2026/feyenoord-eye-ligue-2-top-scorer-tawfik-bentayeb/",
+    "https://fbref.com/en/players/9184e764/Tawfik-Bentayeb",
+    "https://www.playmakerstats.com/player/tawfik-bentayeb/715054"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Finished 2025/26 as Ligue 2's outright top scorer (18 goals) while on a loan spell at ESTAC Troyes; his registered parent club is reported as the Moroccan club Union Touarga (loan originally due to run to 30 June 2026), which creates uncertainty about his exact club status for 2026/27 -> current_club set to Troyes (his playing club as of the most recent reporting, per Yahoo/Get French Football News coverage of Feyenoord's scouting interest) but this could not be confirmed as a permanent move. Apps/minutes/assists not found in available snippets -> null. Height, foot, contract_until, market value all unverified -> null. No public statements on happiness/transfer preference found."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "player_id": "lukas_haraslin",
+  "name": "Lukáš Haraslín",
+  "age": 30,
+  "date_of_birth": "1996-05-26",
+  "nationality": ["SVK"],
+  "position": "LW",
+  "secondary_positions": ["AM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "AC Sparta Prague",
+  "current_club_league": "Czech First League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Czech First League",
+    "apps": null,
+    "starts": null,
+    "minutes": 1237,
+    "goals": 10,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["left winger", "named Sparta Prague club captain ahead of 2025/26", "Slovak international"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": 5,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Appointed club captain of AC Sparta Prague ahead of the 2025/26 season (club announcement, sparta.cz)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["sk", "en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://sparta.cz/en/member/lukas-haraslin-1036",
+    "https://sparta.cz/en/tymy/1-men-a/hraci/1036-lukas-haraslin",
+    "https://www.livescore.com/en/season-stats/lukas-haraslin/8527/",
+    "https://x.com/ACSparta_EN/status/1945426233522602109"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Age (30) is above the target 18-27 band but included as a strong veteran story: Sparta Prague's captain and a Czech First League goal threat (10 goals, 4 assists in 1237 minutes in 2025/26 per LiveScore). Apps/starts and detailed physical data not found -> null. Marked 'not for sale' as an assumption given his captaincy/leadership role, not a confirmed club statement -> flagged low-certainty via this note rather than data_quality confidence alone."
+  }
+}

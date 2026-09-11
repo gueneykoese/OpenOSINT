@@ -1,0 +1,77 @@
+{
+  "player_id": "nicolai_remberg",
+  "name": "Nicolai Remberg",
+  "age": 26,
+  "date_of_birth": "2000-06-19",
+  "nationality": ["GER"],
+  "position": "DM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Hamburger SV",
+  "current_club_league": "2. Bundesliga",
+  "contract_until": null,
+  "market_value_eur_m": 6.5,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": 32,
+    "starts": null,
+    "minutes": 2880,
+    "goals": 0,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": 0.41,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": 88.77,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "holding/defensive midfielder",
+      "high pass-completion volume passer",
+      "joined HSV in 2025 by triggering EUR 2.4m release clause from Holstein Kiel",
+      "started 32 Bundesliga games in HSV's 2025/26 top-flight return, which ended in relegation back to 2. Bundesliga",
+      "capped at Germany U21 level"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Received 11 yellow cards in 32 Bundesliga 2025/26 appearances (fotmob), suggesting an aggressive, high-engagement defensive-midfield style; no red cards. No public disciplinary or off-field incidents found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["de"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements on transfer preference found; treated as a passive scouting target."
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1188890/nicolai-remberg",
+    "https://en.wikipedia.org/wiki/Nicolai_Remberg",
+    "https://www.espn.com/soccer/player/stats/_/id/321226/nicolai-remberg",
+    "https://www.bundesliga.com/en/2bundesliga/player/nicolai-remberg"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Core bio (DOB 19 June 2000, German, HSV defensive midfielder) confirmed by Wikipedia and ESPN. 2025/26 stats (32 apps, 2880 min, 0 goals, 2 assists, 88.77% pass completion, 0.41 key passes p90) are from fotmob and reflect the Bundesliga season (HSV's brief 2025/26 top-flight stint before relegation back to 2. Bundesliga for 2026/27) - labeled 'Bundesliga' in stats_2025_26.competition accordingly even though current_club_league (2026/27) is 2. Bundesliga. Contract-until date, height, foot preference, market approach and any happiness signal could not be verified and are left null. Fee reported for his 2025 HSV transfer (EUR 2.4m release clause from Holstein Kiel) is historical, not a current asking price, so estimated_fee_eur_m left null."
+  }
+}

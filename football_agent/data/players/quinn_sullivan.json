@@ -1,0 +1,79 @@
+{
+  "player_id": "quinn_sullivan",
+  "name": "Quinn Sullivan",
+  "age": 22,
+  "date_of_birth": "2004-03-27",
+  "nationality": ["USA"],
+  "position": "RW",
+  "secondary_positions": ["AM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Philadelphia Union",
+  "current_club_league": "MLS",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "MLS",
+    "apps": 28,
+    "starts": 24,
+    "minutes": null,
+    "goals": 2,
+    "assists": 9,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "first Union homegrown player to reach 100 league appearances",
+      "youngest player in Union history to reach 20 career MLS assists",
+      "2025 MLS: 28 apps/24 starts, 2 goals, 9 assists (2nd most assists on team)",
+      "returned in 2026 after 298 days out injured; limited minutes so far (0g/1a in 118 min per FotMob)",
+      "older brother of prospect Cavan Sullivan"
+    ],
+    "best_system": [],
+    "weak_in": ["extended absence in 2025/26 due to injury layoff"]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": 4,
+    "discipline": null,
+    "notes": "Returned to competitive action after a 298-day injury absence, suggesting resilience; no disciplinary record found."
+  },
+  "injury_history": [
+    {"type": "unspecified long-term injury", "season": "2025/26", "days_out": 298}
+  ],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": "Older brother of Philadelphia Union prospect Cavan Sullivan (pre-agreed to Manchester City for 2027); brother Ronan Sullivan also a footballer per public record.",
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements found on transfer preference or happiness."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Quinn_Sullivan_(soccer)",
+    "https://www.fotmob.com/players/1171007",
+    "https://www.espn.com/soccer/player/_/id/304130/quinn-sullivan",
+    "https://www.mlssoccer.com/players/quinn-sullivan/"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB and 2025 season stats (28 apps/24 starts/2g/9a) confirmed via Wikipedia/ESPN. Injury detail: returned in 2026 after missing 298 days, but the specific injury type was not stated in available snippets -> type left as 'unspecified long-term injury'. 2026 partial stats (0g/1a/118 min) from FotMob. Contract length and market value not found in snippets -> null."
+  }
+}

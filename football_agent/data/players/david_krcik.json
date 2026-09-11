@@ -1,0 +1,71 @@
+{
+  "player_id": "david_krcik",
+  "name": "Dávid Krčík",
+  "age": 27,
+  "date_of_birth": "1999-06-28",
+  "nationality": ["SVK"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 189,
+  "current_club": "FC Viktoria Plzeň",
+  "current_club_league": "Czech First League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Czech First League",
+    "apps": 17,
+    "starts": null,
+    "minutes": null,
+    "goals": 7,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["goalscoring centre-back", "Slovakia international (2 caps)", "joined Viktoria Plzeň from Karviná in a widely-covered move ('Christmas present' club announcement)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["sk"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/D%C3%A1vid_Kr%C4%8D%C3%ADk",
+    "https://www.fcviktoria.cz/eng/clanek.asp?id=54628",
+    "https://www.sofascore.com/football/player/david-krcik/1113414",
+    "https://www.uefa.com/uefaeuropaleague/clubs/64388--viktoria-plzen/squad/"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Sourcing on this player was CONFLICTING: FC Viktoria Plzeň's own site announced his signing (framed as a 'Christmas present', i.e. a Dec 2025/winter-window arrival) and UEFA.com's 2026/27 Europa League squad list still shows him at Viktoria Plzeň, but one aggregator snippet (via a search result, not independently confirmed) suggested a subsequent move to Pardubice later in 2026. Given the official club and UEFA sources are more authoritative and current_club is set to FC Viktoria Plzeň, but this should be treated as medium-low certainty until re-verified. Prior club Karviná career line (96 apps, 12 goals across 2022-2025) is NOT the same figure as the '7 goals in 17 apps' Plzeň entry used here for stats_2025_26 -> kept separate to avoid conflating the two spells. Minutes/assists not found -> null."
+  }
+}

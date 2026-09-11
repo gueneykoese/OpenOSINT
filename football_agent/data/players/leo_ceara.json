@@ -1,0 +1,79 @@
+{
+  "player_id": "leo_ceara",
+  "name": "Léo Ceará",
+  "age": 31,
+  "date_of_birth": "1995-02-03",
+  "nationality": ["BRA"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Kashima Antlers",
+  "current_club_league": "J1 League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "J1 League",
+    "apps": 18,
+    "starts": null,
+    "minutes": null,
+    "goals": 10,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "prolific target-man/poacher centre-forward",
+      "born in Fortaleza, Ceará, Brazil (full name Leonardo de Sousa Pereira)",
+      "moved from Cerezo Osaka to Kashima Antlers in Jan 2025",
+      "top scorer of the 2025 J1 League with 21 goals, and scored a title-clinching brace as Kashima won the 2025 J1 League championship",
+      "continued scoring in 2026: 10 goals in 18 matches per one mid-season snapshot, and among the joint league goal leaders (3 goals) in a separate 2026-27 J1 League snapshot - these figures reflect different points/competitions in the season and are not fully reconciled",
+      "wears number 9"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Public coverage (J.League Regista 'Brazilian Sniper' feature, flashscore/tribalfootball wire pieces) frames him as the decisive figure in Kashima's 2025 title win, scoring a brace in the title-clinching match - treated as a public-record leadership/big-game indicator, not a formal rating."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt", "ja"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements on transfer preference found."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/L%C3%A9o_Cear%C3%A1",
+    "https://www.cerezo.jp/en/news/2025-0106-1700/",
+    "https://www.jleague.co/players/1388/LEO-CEARA/",
+    "https://jleagueregista.wordpress.com/2025/12/21/regista-awards-2025-j1-mvp-leo-ceara/",
+    "https://www.flashscoreusa.com/news/soccer-j1-league-leo-ceara-nets-brace-as-kashima-antlers-seal-j-league-title-win/GYuciV84/"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Bio (DOB 3 Feb 1995, Brazilian, Fortaleza-born, no. 9, moved Cerezo Osaka -> Kashima Antlers Jan 2025) and the 2025 J1 League 21-goal title-winning season with a title-clinching brace are corroborated across Wikipedia, Cerezo Osaka's own announcement, and wire coverage. 2026 season figures conflict between snippets (one source: 10 goals in 18 apps; another labeled '2026-27 J1 League': 3 goals) - both are recorded in style_profile.tags with the discrepancy flagged rather than picking one as authoritative; stats_2025_26 uses the 18-apps/10-goals figure as the more specific mid-season data point but this should be treated as provisional. At 31 he exceeds the assignment's 18-27 target band but is included as a genuine, currently-dominant J1 story (reigning J1 top scorer and title-winning striker)."
+  }
+}

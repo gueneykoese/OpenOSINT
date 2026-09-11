@@ -1,0 +1,75 @@
+{
+  "player_id": "ten_miyagi",
+  "name": "Ten Miyagi",
+  "age": 25,
+  "date_of_birth": "2001-06-02",
+  "nationality": ["JPN"],
+  "position": "RW",
+  "secondary_positions": ["ST"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Kawasaki Frontale",
+  "current_club_league": "J1 League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "J1 League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "winger, also used as a forward",
+      "born to a Burmese father and Japanese mother",
+      "squad regular for Kawasaki Frontale, one of J1's traditionally strongest sides",
+      "wears number 24"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ja"],
+    "family_situation": "Born to a Burmese father and Japanese mother, per Wikipedia.",
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements on transfer preference found."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ten_Miyagi",
+    "https://www.espn.com/soccer/player/_/id/314018/ten-miyagi",
+    "https://www.jleague.co/players/2437/Ten-MIYAGI/"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Bio (DOB 2 June 2001, Japanese with Burmese father, winger/forward at Kawasaki Frontale, squad no. 24) confirmed by Wikipedia and ESPN player-bio pages. Could not verify 2025/26 season statistics (apps, goals, assists) from available search snippets - left null rather than guessed. No market value, contract, or transfer-preference information found; included primarily as a verified biographical/scouting entry rather than a stats-rich profile."
+  }
+}
