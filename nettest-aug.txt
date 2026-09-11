@@ -1,0 +1,9 @@
+www.devletarsivleri.gov.tr 000
+katalog.gov.tr 000
+dergipark.org.tr 000
+commons.wikimedia.org 000
+upload.wikimedia.org 000
+www.hurriyet.com.tr 000
+dedektifdergi.com 000
+www.fikriyat.com 000
+WebFetch https://dergipark.org.tr/tr/pub/historystudies/article/1464216: EGRESS_BLOCKED
