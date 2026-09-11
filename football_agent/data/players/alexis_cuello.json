@@ -1,0 +1,75 @@
+{
+  "player_id": "alexis_cuello",
+  "name": "Alexis Cuello",
+  "age": 26,
+  "date_of_birth": "2000-02-18",
+  "nationality": ["ARG"],
+  "position": "ST",
+  "secondary_positions": ["RW"],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "San Lorenzo de Almagro",
+  "current_club_league": "Liga Profesional Argentina",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "for sale",
+  "stats_2025_26": {
+    "competition": "Liga Profesional Argentina (Apertura 2026)",
+    "apps": 16,
+    "starts": 16,
+    "minutes": 540,
+    "goals": 4,
+    "assists": 3,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "developed in Racing Club's youth ranks, rebuilt career through loans at Barracas Central and Instituto before breaking out at San Lorenzo",
+      "San Lorenzo has received transfer offers for him per Argentine press",
+      "Apertura 2026: 3 goals, 2 assists in recent form"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public record found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alexis_Cuello",
+    "https://www.tribuna.com/en/league/argentina-primera-division/transfers/2026-winter/",
+    "https://www.whoscored.com/players/366990/show/alexis-cuello",
+    "https://www.soccerzz.com/player/alexis-cuello/683482"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Reported (tribuna.com Argentina transfer roundup, 2026) that San Lorenzo is fielding offers for Cuello, source of the 'for sale' availability tag. Season-total career stats (16 starts, 4 goals, 3 assists, 28 shots) vs. Apertura 2026-only split (16 apps, 3 goals, 2 assists, 540 min) both appeared in search snippets and are not fully reconciled - apps/starts/minutes/goals/assists entered use the Apertura 2026 split as the more specific figure; treat goals/assists as approximate. Height varied between sources (170cm vs 186cm in different snippets) so left null pending a reliable single source. Market value, wage, contract_until not found -> null."
+  }
+}

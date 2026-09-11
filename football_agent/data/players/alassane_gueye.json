@@ -1,0 +1,73 @@
+{
+  "player_id": "alassane_gueye",
+  "name": "Alassane Gueye",
+  "age": 19,
+  "date_of_birth": null,
+  "nationality": ["SEN"],
+  "position": "LW",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Teungueth FC",
+  "current_club_league": "Ligue 1 (Senegal)",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 0,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "for sale",
+  "stats_2025_26": {
+    "competition": "Ligue 1 (Senegal, at US Ouakam, prior club)",
+    "apps": 23,
+    "starts": null,
+    "minutes": 1845,
+    "goals": 7,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left winger, right-footed (inverted), born in Dakar",
+      "7 goals in 23 apps (1,845 minutes) for US Ouakam in his most recent domestic season",
+      "joined Ouakam from their own U20s in July 2024, then moved on a free transfer to Teungueth FC (one of Senegal's stronger domestic clubs) on 9 September 2026"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://africasoccer.com/senegal-winger-alassane-gueye-joins-teungueth-fc-from-ouakam/",
+    "https://www.besoccer.com/player/alassane-gueye-3544322"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Purely a domestic Senegalese Ligue 1 scouting lead (moved within the league, US Ouakam -> Teungueth FC, free transfer, 9 Sept 2026); no reported European interest found. DOB, height, wages, market value not found -> null; estimated_fee_eur_m set to 0 reflecting the confirmed free transfer."
+  }
+}

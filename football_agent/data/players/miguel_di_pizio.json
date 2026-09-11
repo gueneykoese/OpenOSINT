@@ -1,0 +1,71 @@
+{
+  "player_id": "miguel_di_pizio",
+  "name": "Miguel Di Pizio",
+  "age": 20,
+  "date_of_birth": "2006-01-04",
+  "nationality": ["AUS"],
+  "position": "AM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
+  "height_cm": 171,
+  "current_club": "Central Coast Mariners",
+  "current_club_league": "A-League Men",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "A-League Men",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["academy graduate (signed scholarship contract 2023)", "led Central Coast Mariners in assists 2025/26 (4)", "Australia U17/U20 international", "won A-League Men titles 2022/23 and 2023/24, AFC Champions League Two 2023/24 with the club"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": "From Sydney, Australia; brother Gaspar Di Pizio also a footballer.",
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Miguel_Di_Pizio",
+    "https://www.foxsports.com/soccer/miguel-di-pizio-player-bio",
+    "https://www.soccerbase.com/players/player.sd?player_id=166748",
+    "https://www.ultimatealeague.com/player/?player_id=1611"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, debut date and honours from Wikipedia/FoxSports snippets. 2025/26 assist tally (4, leading the squad) from an aleagues.com.au team-scoring snippet cross-referenced with the Central Coast Mariners scorer search. Goals, minutes, market value, contract length not found -> null."
+  }
+}

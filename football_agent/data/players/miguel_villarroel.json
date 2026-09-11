@@ -1,0 +1,72 @@
+{
+  "player_id": "miguel_villarroel",
+  "name": "Miguel Villarroel",
+  "age": 23,
+  "date_of_birth": "2003-01-10",
+  "nationality": ["BOL"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 173,
+  "current_club": "Club Blooming",
+  "current_club_league": "División Profesional (Bolivia)",
+  "contract_until": null,
+  "market_value_eur_m": 0.35,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Bolivian División Profesional",
+    "apps": 11,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "was called into Bolivia U20 squads previously as one of Club Bolivar's academy products before moving to Blooming",
+      "modest 2025/26 senior output so far (1 goal in 11 apps)"
+    ],
+    "best_system": [],
+    "weak_in": ["goal output in 2025/26 senior season to date"]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public record found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/es/players/1358034/miguel-villarroel",
+    "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_sub-20_de_Bolivia"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Weaker profile than most entries in this pool - included specifically to represent Bolivian club football per the assignment's scope, not because a European transfer story was found (none was). 2025/26 stats limited to 11 apps/1 goal per Fotmob; no wage, fee, contract_until, or market-value-updating source beyond a single Fotmob market value snapshot (EUR 0.35m) was found. No transfer interest reports located -> availability is a generic inference for an out-of-contract-age academy striker, not evidence-based."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "player_id": "gift_orban",
+  "name": "Gift Orban",
+  "age": 24,
+  "date_of_birth": null,
+  "nationality": ["NGA"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Amedspor",
+  "current_club_league": "Süper Lig",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 4,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "Bundesliga (Hellas Verona loan, prior season)",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 7,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "mobile poacher, formerly of Club Brugge and Lyon",
+      "on season-long loan to newly-promoted Amedspor with a EUR 4m option to buy",
+      "scored 7 goals on loan at Hellas Verona in the prior season",
+      "Amedspor covering his full wages during the loan"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gift_Orban",
+    "https://africasoccer.com/nigerian-forward-gift-orban-completes-loan-move-to-turkish-side-amedspor-from-hoffenheim/",
+    "https://onefootball.com/en/news/hoffenheim-loan-gift-orban-to-sueper-lig-newcomers-amed-sk-43196633",
+    "https://www.talktalknigeria.com/home/2026/7/18/gift-orban-set-for-amedspor-loan-move-from-hoffenheim"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Parent club is TSG Hoffenheim (Bundesliga); loaned to newly-promoted Turkish Süper Lig side Amedspor for 2026/27 with a EUR 4m option-to-buy (reportedly convertible to an obligation under conditions per OneFootball/TribalFootball). stats_2025_26 field reflects his prior loan spell at Hellas Verona (7 goals, per africasoccer.com) since search snippets did not surface Amedspor 2026/27 appearance data yet. DOB, height, foot, contract length at Hoffenheim, and wages not found -> null. Neither Hoffenheim nor Amedspor is one of the 36 UCL 2026/27 pilot clubs."
+  }
+}

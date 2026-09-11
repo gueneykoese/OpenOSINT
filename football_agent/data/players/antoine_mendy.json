@@ -1,0 +1,77 @@
+{
+  "player_id": "antoine_mendy",
+  "name": "Antoine Mendy",
+  "age": 22,
+  "date_of_birth": "2004-05-27",
+  "nationality": ["SEN"],
+  "position": "RB",
+  "secondary_positions": ["CB"],
+  "preferred_foot": null,
+  "height_cm": 187,
+  "current_club": "OGC Nice",
+  "current_club_league": "Ligue 1",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Ligue 1",
+    "apps": 40,
+    "starts": null,
+    "minutes": null,
+    "goals": 2,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "versatile right-back / centre-back, 1.87m",
+      "born in France, opted to represent Senegal internationally",
+      "started in the AFCON final against Morocco",
+      "selected for Senegal's 2026 World Cup squad",
+      "40 appearances for Nice in 2025/26 (all competitions), scored his first 2 senior goals (Coupe de France vs Montpellier, Ligue 1 vs Strasbourg)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Antoine_Mendy_(footballer)",
+    "https://www.espn.com/soccer/player/_/id/319161/antoine-mendy",
+    "https://fbref.com/en/players/3322e296/Antoine-Mendy",
+    "https://www.ogcnice.com/en/fiche/2209/antoine-mendy.html"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "7 senior caps for Senegal (0 goals) as of search date, including a start in the AFCON final vs Morocco, and selection for the 2026 World Cup squad. 2025/26: 40 Nice apps across all competitions, 2 goals (his first professional goals, vs Montpellier in Coupe de France and vs Strasbourg in Ligue 1). Career total at Nice: 66 senior apps, 1 goal, plus 19 apps/2 goals for Nice's reserve team. Market value, wages, contract length and foot not found -> null. OGC Nice is not one of the 36 UCL 2026/27 pilot clubs."
+  }
+}

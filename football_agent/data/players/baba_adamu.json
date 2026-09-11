@@ -1,0 +1,78 @@
+{
+  "player_id": "baba_adamu",
+  "name": "Baba Adamu",
+  "age": 21,
+  "date_of_birth": "2004-01-22",
+  "nationality": ["GHA"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Accra Hearts of Oak",
+  "current_club_league": "Ghana Premier League",
+  "contract_until": 2027,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "for sale",
+  "stats_2025_26": {
+    "competition": "Ghana Premier League",
+    "apps": 6,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "composed, reliable centre-back",
+      "signed by Hearts of Oak from Golden Kick SC on a two-year deal (to 2027)",
+      "caught the eye with standout displays in Ghana's Division One League before his top-flight move",
+      "scored a decisive looping header in a 1-0 Hearts of Oak win over rivals Asante Kotoko, propelling the team from 4th to 2nd place in the table"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [
+      "Told Citi Sports Online (Feb 2026) that Hearts of Oak were 'super motivated' after beating rivals Asante Kotoko in the Super Clash."
+    ],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.modernghana.com/sports/1417959/hearts-of-oak-sign-defender-baba-adamu-from-golden.html",
+    "https://ghanasoccernet.com/hearts-of-oak-complete-signing-of-defender-baba-adamu",
+    "https://citisportsonline.com/2026/02/we-are-super-motivated-after-beating-kotoko-hearts-of-oaks-baba-adamu-on-berekum-chelsea-clash/",
+    "https://ke.soccerway.com/player/adamu-baba/x2eowll6/"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Domestic Ghana Premier League scouting lead. Career-defining moment sourced (winning header vs Kotoko in the Super Clash). 2025/26 apps limited (6, per Soccerway) suggesting a squad rotation/breakthrough role rather than a guaranteed starter. Height, wages, market value, and any reported European interest not found -> null."
+  }
+}

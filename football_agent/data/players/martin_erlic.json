@@ -1,0 +1,70 @@
+{
+  "player_id": "martin_erlic",
+  "name": "Martin Erlić",
+  "age": 28,
+  "date_of_birth": "1998-01-24",
+  "nationality": ["CRO"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 192,
+  "current_club": "FC Midtjylland",
+  "current_club_league": "Danish Superliga",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 6,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Serie A (Bologna, prior club)",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Croatia international (13 caps, 1 goal)", "part of Croatia's 2022 World Cup third-place squad (unused substitute)", "career at Sassuolo, Spezia and Bologna in Serie A", "signed by Midtjylland 4 Aug 2025 for a club-record EUR 5m plus EUR 1m in bonuses, 5-year deal"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["hr", "it"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Martin_Erli%C4%87",
+    "https://www.soccerway.com/news/soccer-superliga-fc-midtjylland-make-biggest-purchase-in-club-s-history-to-sign-croatian-international/ARTSD8Gc",
+    "https://www.espn.com/soccer/player/_/id/216579/martin-erlic"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, Serie A career and Croatia caps/2022 World Cup squad inclusion from Wikipedia. Transfer terms (club-record EUR 5m + EUR 1m bonuses, 5-year deal signed 4 Aug 2025 -> contract_until approximated as 2030) from a Soccerway club-record report. As a mid-2025 arrival, no clean 2025/26 Midtjylland per-match stats were found -> stats block reflects his final season at Bologna with values null. Market value, wage not found -> null."
+  }
+}

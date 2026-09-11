@@ -1,0 +1,77 @@
+{
+  "player_id": "bazoumana_toure",
+  "name": "Bazoumana Touré",
+  "age": 20,
+  "date_of_birth": "2006-03-02",
+  "nationality": ["CIV"],
+  "position": "LW",
+  "secondary_positions": ["RW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Newcastle United",
+  "current_club_league": "Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 42,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Bundesliga (Hoffenheim, prior season)",
+    "apps": 30,
+    "starts": 29,
+    "minutes": null,
+    "goals": 5,
+    "assists": 9,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "explosive, high-volume sprinter -- led all Bundesliga players in sprints (763) in 2025/26",
+      "5 goals, 9 assists in 30 Bundesliga apps (29 starts) for Hoffenheim in 2025/26",
+      "signed by Newcastle United for a reported GBP 42m fee, 5 July 2026",
+      "brought in partly to replace Anthony Gordon, who left Newcastle for FC Barcelona",
+      "9 caps, 2 goals for Ivory Coast, including 3 apps at the 2026 World Cup"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Bazoumana_Tour%C3%A9",
+    "https://www.newcastleunited.com/en/teams/mens-team/bazoumana-toure",
+    "https://www.bundesliga.com/en/bundesliga/news/who-is-bazoumana-toure-hoffenheim-ivory-coast-winger-35072",
+    "https://www.fotmob.com/players/1624586/bazoumana-toure"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Now at Newcastle United (Premier League) after a GBP 42m move from TSG Hoffenheim completed 5 July 2026, wearing no.17. stats_2025_26 reflects his final Hoffenheim (Bundesliga) season since Newcastle appearance data was not found in snippets. Newcastle United is NOT one of the 36 UCL 2026/27 pilot clubs (verified against football_agent/data/clubs/ listing), so he is included despite now being an established Premier League player -- flagged given he is a current, high-profile first-teamer rather than an under-the-radar target. Height, wages, market value not found -> null."
+  }
+}

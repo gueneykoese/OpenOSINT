@@ -1,0 +1,70 @@
+{
+  "player_id": "jan_carlo_simic",
+  "name": "Jan-Carlo Simić",
+  "age": 21,
+  "date_of_birth": "2005-05-02",
+  "nationality": ["SRB"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Al-Ittihad",
+  "current_club_league": "Saudi Pro League",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 20,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Belgian Pro League (Anderlecht, prior club)",
+    "apps": 35,
+    "starts": null,
+    "minutes": null,
+    "goals": 3,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["born in Germany to Bosnian Serb parents from Visegrad", "AC Milan academy product (4 apps, 1 goal for Milan first team 2023/24)", "sold Milan to Anderlecht for EUR 3m, Milan retained 20% sell-on", "signed by Al-Ittihad from Anderlecht on a 4-year deal, reported fee over EUR 20m plus bonuses"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["de", "sr"],
+    "family_situation": "Born in Germany; parents are Bosnian Serbs from Visegrad, Bosnia and Herzegovina.",
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.arabnews.com/saudi-pro-league/al-ittihad-sign-serbian-defender-jan-carlo-simic-on-4-year-deal-2614949",
+    "https://en.wikipedia.org/wiki/Jan-Carlo_Simi%C4%87",
+    "https://www.espn.com/soccer/player/_/id/355861/jan-carlo-simic"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Background, Milan/Anderlecht career and Serbia caps (6, 0 goals) from Wikipedia snippet. Al-Ittihad signing (4-year deal, reported fee over EUR 20m plus bonuses) from Arab News. 2025/26 stats reflect his final season at Anderlecht (35 apps, 3 goals) since no Al-Ittihad 2026/27 per-competition stats were found -> current-club stats fields left null in favour of the prior-club line noted in the competition field. Market value, wage not found -> null."
+  }
+}

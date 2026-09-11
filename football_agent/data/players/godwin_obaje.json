@@ -1,0 +1,81 @@
+{
+  "player_id": "godwin_obaje",
+  "name": "Godwin Obaje",
+  "age": null,
+  "date_of_birth": null,
+  "nationality": ["NGA"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Enugu Rangers International",
+  "current_club_league": "Nigeria Premier Football League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "for sale",
+  "stats_2025_26": {
+    "competition": "Nigeria Premier Football League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 13,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "physical, aerially dominant target striker",
+      "Rangers captain",
+      "finished runner-up in 2025/26 NPFL Golden Boot race (13 goals) behind Joseph Arumala (14)",
+      "won NPFL Hot-Shot award 2015/16 (18 goals) with Rangers",
+      "closing in on 100th career NPFL goal (per Talk Talk Nigeria, May 2026)",
+      "led Enugu Rangers to a ninth NPFL title in 2025/26, tying Enyimba's record"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": 4,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Team captain who publicly said 'Rangers title means more than boot' after prioritising the club's championship over his own Golden Boot chase (footballinnigeria.com.ng)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [
+      "Told footballinnigeria.com.ng after the 2025/26 season that the Rangers title mattered more to him than the individual Golden Boot."
+    ],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.premiumtimesng.com/news/top-news/879781-npfl-2025-2026-golden-boot-race-obaje-mbaoma-arumala-set-for-explosive-final-day-shootout-drama.html",
+    "https://leadership.ng/rangers-striker-obaje-leads-npfl-golden-boot-race/",
+    "https://www.footballinnigeria.com.ng/npfl/obaje-rangers-title-means-more-than-boot/",
+    "https://www.talktalknigeria.com/home/2026/5/11/godwin-obaje-returns-to-npfl-top-scorers-race-as-rangers-star-closes-in-on-historic-100th-goal",
+    "https://www.fotmob.com/en-GB/players/688686/godwin-obaje"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Veteran NPFL striker (won NPFL Hot-Shot in 2015/16, so career spans a decade+) and long-serving Rangers captain -> age is almost certainly late 20s/30s, but exact DOB and age were not found in snippets, so left null rather than guessed. 2025/26 NPFL: 13 goals, runner-up in Golden Boot race to Joseph Arumala (14 goals) of Ikorodu City. Rangers won the 2025/26 NPFL title (9th overall). Contract status, market value, wages and playing statistics beyond goals (apps/minutes/assists) not found in search snippets -> null. agent_status/availability set generically for an NPFL domestic player without reported European interest in the snippets reviewed; treat as a domestic-league scouting lead rather than a confirmed active target."
+  }
+}

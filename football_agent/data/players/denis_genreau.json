@@ -1,0 +1,71 @@
+{
+  "player_id": "denis_genreau",
+  "name": "Denis Genreau",
+  "age": 27,
+  "date_of_birth": "1999-05-21",
+  "nationality": ["AUS"],
+  "position": "CM",
+  "secondary_positions": ["AM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Melbourne Victory",
+  "current_club_league": "A-League Men",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "A-League Men",
+    "apps": null,
+    "starts": null,
+    "minutes": 1773,
+    "goals": 2,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["deep-lying playmaker", "box-to-box engine", "Australia international", "born in Paris, raised in Melbourne", "signed 3-year deal with Melbourne Victory ahead of 2025/26"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Picked up 1 red card in 2025/26 (FotMob-derived match log); no other public disciplinary or dispute record found this session."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en", "fr"],
+    "family_situation": "Born in Paris, France; grew up in Melbourne, Australia. No further public detail found.",
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Denis_Genreau",
+    "https://www.fotmob.com/players/814530/denis-genreau",
+    "https://www.espn.com/soccer/player/_/id/240957/denis-genreau",
+    "https://melbournevictory.com.au/player/denis-genreau/"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, France birth / Australia international status and 2025/26 A-League stats (2 goals, 4 assists, 1773 minutes, 1 red card) sourced from Wikipedia and FotMob snippets via WebSearch (Transfermarkt/fbref not directly fetchable in this sandbox). Market value, wage, and detailed per-90 stats not found -> null. Contract-until year (2028) taken from a 'three-year deal ahead of 2025/26' reference; treated as approximate given season-count arithmetic, flagged medium confidence."
+  }
+}

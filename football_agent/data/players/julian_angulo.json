@@ -1,0 +1,74 @@
+{
+  "player_id": "julian_angulo",
+  "name": "Julián Angulo",
+  "age": 24,
+  "date_of_birth": "2002-05-14",
+  "nationality": ["COL"],
+  "position": "RW",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Millonarios FC",
+  "current_club_league": "Categoría Primera A (Colombia)",
+  "contract_until": 2026,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "Categoría Primera A (2025, Llaneros, prior to Millonarios move)",
+    "apps": 18,
+    "starts": null,
+    "minutes": null,
+    "goals": 3,
+    "assists": 5,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "right winger, on a one-year loan (with purchase option) at Millonarios from Deportivo Independiente Medellin, confirmed as Millonarios' fourth 2026 signing",
+      "career path: Real Santander -> loan at Deportes Tolima (2023) -> Cucuta Deportivo -> Llaneros -> bought by DIM (early 2025) -> loaned to Millonarios (2026)",
+      "128 career apps, 20 goals, 7 assists across divisions as of search date"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public record found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.eltiempo.com/deportes/futbol-colombiano/millonarios-confirmo-su-cuarta-contratacion-para-2026-julian-angulo-la-nueva-cara-azul-3520157",
+    "https://millonarios.com.co/comunicado-oficial-julian-angulo/",
+    "https://www.sofascore.com/football/player/julian-angulo/1175035"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Loan (with purchase option) from DIM to Millonarios through Dec 2026, confirmed by both eltiempo.com and Millonarios' own official statement -> contract_until set to end of the loan term, 'loan possible' reflects the purchase-option structure already in place rather than a new transfer rumor. 2025/26 stat line is his final season at Llaneros (his club immediately prior to the DIM purchase and Millonarios loan), since Millonarios-specific 2026 numbers were not found in the available snippets -> treat as pre-move form. Height, wage, market value, fee not found -> null. Age reported inconsistently across snippets (23 vs 24) - date of birth 14 May 2002 used to compute 24 as of 2026-09-11."
+  }
+}

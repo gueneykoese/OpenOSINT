@@ -1,0 +1,76 @@
+{
+  "player_id": "el_mehdi_al_harrar",
+  "name": "El Mehdi Al Harrar",
+  "age": 25,
+  "date_of_birth": "2000-11-30",
+  "nationality": ["MAR"],
+  "position": "GK",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Raja CA",
+  "current_club_league": "Botola Pro",
+  "contract_until": 2027,
+  "market_value_eur_m": 1.1,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Botola Pro",
+    "apps": null,
+    "starts": null,
+    "minutes": 1890,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Raja Casablanca's first-choice goalkeeper, right-footed",
+      "won the African Nations Championship (CHAN) 2024 with Morocco",
+      "won the 2025 FIFA Arab Cup with Morocco",
+      "won the Moroccan Cup 2023/24 with Raja",
+      "started career winning Botola 2 with SC Chabab Mohammedia (2019/20)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1687452/el-mehdi-al-harrar",
+    "https://www.soccerway.com/player/harrar-mehdi/hYuTvQIs/",
+    "https://www.goal.com/en/player/e-al-harrar/_1ZVNxYma4i3YMZ6wllyo"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Added specifically to address the GK under-representation in the pool (Moroccan Botola Pro cross-check). 2025/26 Botola Pro: 1,890 minutes played (high among Botola keepers), 2 yellow cards; apps/starts/clean sheets/goals-against not broken out in snippets -> null. Multiple honours with Morocco (CHAN 2024, Arab Cup 2025) and Raja (Moroccan Cup 2023/24). Height, wages, and any European transfer interest not found in search snippets -> null."
+  }
+}

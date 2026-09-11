@@ -1,0 +1,77 @@
+{
+  "player_id": "mikel_amondarain",
+  "name": "Mikel Amondarain",
+  "age": 21,
+  "date_of_birth": "2005-01-06",
+  "nationality": ["ARG"],
+  "position": "CM",
+  "secondary_positions": ["DM"],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Estudiantes de La Plata",
+  "current_club_league": "Liga Profesional Argentina",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "for sale",
+  "stats_2025_26": {
+    "competition": "Liga Profesional Argentina",
+    "apps": 17,
+    "starts": null,
+    "minutes": null,
+    "goals": 2,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "central midfielder, dynamic ball-winner/carrier",
+      "academy graduate (from Bavio) who broke into Estudiantes' first team",
+      "Real Betis pursued a transfer in 2025/26, withdrew after failing to agree a fee with Estudiantes",
+      "reported to have other European suitors after Betis interest went public"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public record found beyond transfer reporting."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.futbolargentino.com/primera-division/noticias/betis-de-espana-puso-los-ojos-en-mikel-amondarain-mediocampista-de-estudiantes-de-la-plata-575107",
+    "https://www.0221.com.ar/estudiantes/betis-se-la-pelea-mikel-amondarain-n129285",
+    "https://www.infocielo.com/deportes/amondarain-cotizado-tras-rechazar-al-betis-estudiantes-tiene-mas-pretendientes-por-el-pibe-de-bavio",
+    "https://fbref.com/en/players/95cf8804/Mikel-Amondarain",
+    "https://www.soccerbase.com/players/player.sd?player_id=179844"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Real Betis interest and eventual withdrawal from the negotiation (over fee, per Estudiantes press) is well corroborated across multiple Argentine outlets (futbolargentino.com, 0221.com.ar, infocielo.com) through 2026. 'availability: for sale' reflects reporting that Estudiantes was fielding multiple European offers ('mas pretendientes') after the Betis saga became public, not a formal club statement. Height, contract_until, market value, wage and fee not found in available snippets -> null."
+  }
+}

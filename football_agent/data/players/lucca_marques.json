@@ -1,0 +1,77 @@
+{
+  "player_id": "lucca_marques",
+  "name": "Lucca",
+  "age": 19,
+  "date_of_birth": "2007-06-14",
+  "nationality": ["BRA"],
+  "position": "LW",
+  "secondary_positions": ["ST"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "São Paulo FC",
+  "current_club_league": "Brasileirão Série A",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": 80,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Brasileirão Série A",
+    "apps": 14,
+    "starts": null,
+    "minutes": 112,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left winger promoted to São Paulo's first team by coach Luis Zubeldía in April 2025",
+      "became the youngest player to score in the Copa Libertadores for São Paulo (per club press around his 2026 contract renewal)",
+      "monitored by PSV, Ajax and Porto per Brazilian press, though no formal proposals reported as of search date",
+      "Brazil youth international (U17/U20)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public record found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.arqtricolor.com/ultimas/lucca-sao-paulo-interesse-europa/",
+    "https://www.terra.com.br/esportes/sao-paulo/novo-vinculo-de-lucca-com-o-sao-paulo-tem-multa-de-r-500-milhoes-para-o-exterior,7604e873ce1d6d492c5b8f26211b3b0808b88lbk.html",
+    "https://www.saopaulofc.net/lucca-renova-contrato-com-o-tricolor/",
+    "https://en.wikipedia.org/wiki/Lucca_(footballer,_born_2007)",
+    "https://www.fotmob.com/players/1744830/lucca-marques"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract renewal to April 2028 with an EUR 80m release clause for foreign clubs (reported as BRL ~508.8m) is corroborated by multiple Brazilian outlets (terra.com.br, saopaulofc.net) -> 'not for sale' reflects that the release clause itself is the buyout mechanism, not a report of a specific rejected bid. European interest (PSV/Ajax/Porto) is reported as informal monitoring, not confirmed approaches (arqtricolor.com), so no estimated_fee_eur_m is set. Player_id uses 'lucca_marques' (full name Lucca Marques Alencar per fotmob) to avoid collision with other 'Lucca' entries in Brazilian football. Height, foot, market value and wage not found -> null."
+  }
+}

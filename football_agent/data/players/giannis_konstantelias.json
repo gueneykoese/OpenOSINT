@@ -1,0 +1,70 @@
+{
+  "player_id": "giannis_konstantelias",
+  "name": "Giannis Konstantelias",
+  "age": 23,
+  "date_of_birth": "2003-03-05",
+  "nationality": ["GRE"],
+  "position": "AM",
+  "secondary_positions": ["CM", "RW"],
+  "preferred_foot": null,
+  "height_cm": 178,
+  "current_club": "PAOK",
+  "current_club_league": "Super League Greece",
+  "contract_until": null,
+  "market_value_eur_m": 17,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Super League Greece",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 8,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["PAOK academy graduate since 2013, senior debut 2020/21", "joint-league top scorer 2025/26 (8 goals, tied with Magomed Ozdoyev)", "part of PAOK's 2024 Greek Super League title-winning squad", "known for dribbling, vision and midfield/wing versatility", "two-footed"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["el"],
+    "family_situation": "Born in Volos, Greece.",
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.footballtransfers.com/en/players/ioannis-constantelias",
+    "https://www.soccerbase.com/players/player.sd?player_id=163968",
+    "https://www.fotmob.com/players/1215014/giannis-konstantelias"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, academy background and 2024 title win from FootballTransfers/Grokipedia-style bio snippet. Market value range (EUR 15.6-19.1m) collapsed to a midpoint (EUR 17m) for the single numeric field, flagged as an approximation of a reported range rather than a single reported figure. 2025/26 league goal tally (8, joint-top) from a PAOK-search snippet. Wage, contract length not found -> null."
+  }
+}

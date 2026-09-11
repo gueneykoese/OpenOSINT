@@ -1,0 +1,75 @@
+{
+  "player_id": "felipe_morais",
+  "name": "Felipe Morais",
+  "age": 18,
+  "date_of_birth": "2008-08-29",
+  "nationality": ["BRA"],
+  "position": "AM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Cruzeiro EC",
+  "current_club_league": "Brasileirão Série A",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 14.5,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Brasileirão Sub-20 / Copinha (senior debut pending)",
+    "apps": 3,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "academy graduate, considered Cruzeiro's top prospect under coach Artur Jorge",
+      "Shakhtar Donetsk made a formal EUR 12.5m fixed + EUR 2m offer (Aug 2026), rejected by Cruzeiro",
+      "Brazil U17: 2 goals in 8 apps at the 2025 FIFA U-17 World Cup"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public record found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-mineiro/cruzeiro/clube-europeu-oferece-75-milhoes-por-meia-e-cruzeiro-toma-decisao/",
+    "https://www.otempo.com.br/sports/cruzeiro/2026/8/29/cruzeiro-recusa-proposta-de-r-75-milhoes-por-felipe-morais-joia-lapidada-por-artur-jorge",
+    "https://moonbh.com.br/esportes/cruzeiro/2026/08/29/cruzeiro-recusa-oferta-shakhtar-donetsk-felipe-morais-87-milhoes/",
+    "https://en.wikipedia.org/wiki/Felipe_Morais"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Shakhtar Donetsk's formal ~EUR 14.5m offer (EUR 12.5m fixed + EUR 2m add-ons, reported late Aug 2026) and Cruzeiro's rejection are corroborated across three independent Brazilian outlets (itatiaia.com.br, otempo.com.br, moonbh.com.br) -> estimated_fee_eur_m set to that reported figure; Cruzeiro's refusal is the basis for 'not for sale'. Senior first-team minutes/stats not yet confirmed in search snippets - only U20/Copinha (3 apps, 1 goal) and Brazil U17 World Cup figures found, so apps/goals reflect youth-level football, not Brasileirão senior football; assists, minutes, starts left null. Height, foot, contract_until, market value and wage not found -> null."
+  }
+}

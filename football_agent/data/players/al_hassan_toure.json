@@ -1,0 +1,70 @@
+{
+  "player_id": "al_hassan_toure",
+  "name": "Al Hassan Toure",
+  "age": 26,
+  "date_of_birth": "2000-05-30",
+  "nationality": ["AUS"],
+  "position": "ST",
+  "secondary_positions": ["LW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Sydney FC",
+  "current_club_league": "A-League Men",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "A-League Men",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 5,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["born a Liberian refugee in a Conakry, Guinea refugee camp", "naturalised Australia international forward", "co-Sydney FC leading league scorer 2025/26 (5 goals, shared with Tiago Quintal)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": "Born in a refugee camp in Conakry, Guinea to Liberian refugee parents; relocated to Australia.",
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Al_Hassan_Toure",
+    "https://www.espn.com/soccer/player/_/id/291694/al-hassan-toure",
+    "https://fbref.com/en/players/595de789/Al-Hassan-Toure"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, birthplace/refugee background and Australia national-team status from Wikipedia snippet. 2025/26 goal tally (5, joint Sydney FC top league scorer with Tiago Quintal) from an ESPN A-League scoring-stats snippet. Market value, wage, contract length not found -> null."
+  }
+}

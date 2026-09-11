@@ -1,0 +1,77 @@
+{
+  "player_id": "tunde_akinsola",
+  "name": "Tunde Akinsola",
+  "age": 23,
+  "date_of_birth": "2003-03-10",
+  "nationality": ["NGA"],
+  "position": "LW",
+  "secondary_positions": ["RW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Cercle Brugge",
+  "current_club_league": "Belgian Pro League",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Liga Portugal 2 / Primeira Liga (AVS)",
+    "apps": 34,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "versatile, dangerous winger (per Cercle Brugge's own description)",
+      "former Nigeria U17 international",
+      "reportedly turned down interest from clubs in England, France and Italy to join Cercle Brugge",
+      "two-year spell at AVS Futebol SAD (Portugal): 91 apps, 8 goals, 7 assists all-time",
+      "signed a contract with Cercle Brugge to June 2030 (club holds a further one-year extension option)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tunde_Akinsola",
+    "https://nigeriasoccernet.com/cercle-brugge-secure-long-term-deal-for-nigeria-winger-tunde-akinsola",
+    "https://soccernet.ng/2026/09/tunde-akinsola-nigerian-cercle-brugge.html",
+    "https://boldsportsng.com/cercle-brugge-complete-tunde-akinsola-signing-from-avs-futebol-sad/"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Full name Babatunde Jimoh Akinsola; born 10 Mar 2003 in Lagos. Moved from AVS Futebol SAD (Portugal) to Cercle Brugge (Belgian Pro League) in Sept 2026 on a deal to June 2030 (with a club option for a further year). 2025/26 season at AVS: 34 apps, 1 goal, 4 assists (career AVS total: 91 apps, 8 goals, 7 assists). Height, foot, wages, market value, transfer fee not found in snippets -> null. Cercle Brugge is a separate club from Club Brugge (which is in the 36 UCL 2026/27 pilot list) and is itself not one of the 36 pilot clubs."
+  }
+}

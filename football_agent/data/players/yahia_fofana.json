@@ -1,0 +1,77 @@
+{
+  "player_id": "yahia_fofana",
+  "name": "Yahia Fofana",
+  "age": 26,
+  "date_of_birth": "2000-08-21",
+  "nationality": ["CIV"],
+  "position": "GK",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 194,
+  "current_club": "Çaykur Rizespor",
+  "current_club_league": "Süper Lig",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Süper Lig",
+    "apps": 3,
+    "starts": 3,
+    "minutes": 270,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "tall shot-stopper, 194cm",
+      "8 saves and 1 clean sheet in first 3 Süper Lig starts of 2026/27 (per FotMob)",
+      "prior season at Angers (Ligue 1): 33 apps, 7 clean sheets, 136 saves",
+      "current Ivory Coast no.1 candidate alongside Alban Lafont and Mohamed Kone",
+      "part of Ivory Coast's AFCON 2023-winning squad"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yahia_Fofana",
+    "https://www.fotmob.com/players/873566/yahia-fofana",
+    "https://www.espn.com/soccer/player/_/id/261595/yahia-fofana",
+    "https://www.livescore.com/en/season-stats/yahia-fofana/2693/"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Moved permanently from Angers (Ligue 1) to Caykur Rizespor (Süper Lig). 33 senior Ivory Coast caps, AFCON 2023 winner. 2025/26-into-2026/27 Süper Lig early-season line: 3 starts, 270 minutes, 8 saves, 1 clean sheet, 3 goals conceded (FotMob, as of search date). Prior season at Angers: 33 Ligue 1 apps, 7 clean sheets, 136 saves. Currently competing with Alban Lafont and Mohamed Kone for the Ivory Coast no.1 shirt ahead of the 2026 World Cup. Market value, wages, contract length, foot not found -> null. Added specifically to address the GK under-representation in the pool (Süper Lig cross-check)."
+  }
+}

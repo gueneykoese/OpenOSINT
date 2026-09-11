@@ -1,0 +1,71 @@
+{
+  "player_id": "leon_bailey",
+  "name": "Leon Bailey",
+  "age": 29,
+  "date_of_birth": null,
+  "nationality": ["JAM"],
+  "position": "RW",
+  "secondary_positions": ["LW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Olympiacos",
+  "current_club_league": "Super League Greece",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 5,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Premier League (Aston Villa, prior club)",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["signed for Aston Villa from Bayer Leverkusen in 2021 for ~GBP 25m", "163 apps, 23 goals, 25 assists across five years at Villa", "left after falling out of favour under Unai Emery", "signed permanently for Olympiacos 2 Sept 2026 (EUR 5m incl. bonuses), 3-year deal to June 2029 plus club option year", "Jamaica international"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Publicly reported to have fallen out of favour with Aston Villa manager Unai Emery prior to his exit, per multiple Sept 2026 UK football-media reports (ReadAstonVilla, SportsMole)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": "unsettled",
+    "happiness_notes": "Publicly reported to have fallen out of favour under Aston Villa head coach Unai Emery, leading to his permanent exit in Sept 2026 (multiple UK outlets); no statement yet on settling in at Olympiacos.",
+    "preferred_clubs": [],
+    "notes": "Sports Mole (2 Sept 2026) reported AEK Athens had also pursued him but missed out to Olympiacos - public record of competing suitor interest, not a player-stated preference."
+  },
+  "sources": [
+    "https://ca.sports.yahoo.com/news/villa-confirm-leon-bailey-departure-174500245.html",
+    "https://www.sportsmole.co.uk/football/aston-villa/transfer-talk/news/bailey-leaves-aston-villa-on-permanent-deal-but-not-to-join-aek-athens_604377.html",
+    "https://www.jamaicaobserver.com/2026/09/02/leon-bailey-move-olympiacos-reports/",
+    "https://en.wikipedia.org/wiki/Leon_Bailey"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "high",
+    "notes": "Transfer terms (EUR 5m incl. bonuses, 3-year deal to June 2029 + option year, signed 2 Sept 2026), Villa career totals (163 apps/23 goals/25 assists) and the Emery fallout context are corroborated across Yahoo Sports, Jamaica Observer, ReadAstonVilla and SportsMole. As a brand-new arrival (signed 9 days before as_of date), no Olympiacos-side 2026/27 appearance data exists yet -> current-club stats fields null, with Villa's 2025/26 line also left null since Bailey barely featured there before his exit (not independently re-verified this session). DOB, market value, wage not found -> null."
+  }
+}

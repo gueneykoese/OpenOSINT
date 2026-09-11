@@ -1,0 +1,77 @@
+{
+  "player_id": "luis_pacheco",
+  "name": "Luis Pacheco",
+  "age": 18,
+  "date_of_birth": "2008-02-02",
+  "nationality": ["BRA"],
+  "position": "DM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": "right",
+  "height_cm": 181,
+  "current_club": "SE Palmeiras",
+  "current_club_league": "Brasileirão Série A",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Brasileirão Série A",
+    "apps": null,
+    "starts": null,
+    "minutes": 66,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "full name Luis Felipe Pacheco da Costa",
+      "defensive midfielder promoted from Palmeiras academy, debuted in the first team in 2026, praised publicly by head coach Abel Ferreira",
+      "already attracting informal European scouting interest per Brazilian press while still a youth-team player",
+      "Palmeiras working to extend his contract to end-2030 to protect against a cut-price departure",
+      "won Copa CONMEBOL U17 with Brazil U17 (2025, Colombia) and Campeonato Paulista A1 with Palmeiras (2026)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public record found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://issoefutebol.com/luis-pacheco-analise-ascensao-palmeiras/",
+    "https://issoefutebol.com/luis-pacheco-palmeiras-estreia-juventude-analise/",
+    "https://www.fotmob.com/players/1799734/luis-felipe",
+    "https://www.palmeiras.com.br/jogadores/luis-felipe-pacheco-da-costa/"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Very early-career profile: only 66 senior minutes recorded (Fotmob) plus 7 Palmeiras U20 appearances in 2026, with no goals in either. 'Already attracts interest from European teams while still in the academy' and the planned contract extension to 2030 come from a single search-result summary (source not independently re-verified beyond the aggregated snippet) -> confidence kept low and 'not for sale' reflects the club's protective contract strategy rather than a rejected bid. Contract_until, market value, wage, fee not found -> null."
+  }
+}

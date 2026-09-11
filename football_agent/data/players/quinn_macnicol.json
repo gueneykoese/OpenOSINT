@@ -1,0 +1,68 @@
+{
+  "player_id": "quinn_macnicol",
+  "name": "Quinn MacNicol",
+  "age": 18,
+  "date_of_birth": null,
+  "nationality": ["AUS"],
+  "position": "AM",
+  "secondary_positions": ["ST", "LW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Melbourne City",
+  "current_club_league": "A-League Men",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "A-League Men / all competitions",
+    "apps": 23,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Australian youth international", "signed 3-year deal with Melbourne City ahead of 2026/27", "regarded as one of Australia's brightest emerging attacking talents", "comfortable as an attacking midfielder or across forward positions", "23 senior appearances across all competitions by age 18"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://melbournecityfc.com.au/news/20260522-macnicol-signs/"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Sourced to a single Melbourne City FC club announcement (22 May 2026) describing the 3-year contract signing and career appearance count (23 apps across all competitions). No independent stats site corroboration found this session; DOB, goals/assists, market value, contract expiry year not found -> null. Age (18) as stated in the club release."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "player_id": "armando_gonzalez",
+  "name": "Armando González",
+  "age": 23,
+  "date_of_birth": "2003-04-20",
+  "nationality": ["MEX"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Olympiacos",
+  "current_club_league": "Super League Greece",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 8.5,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Liga MX (Chivas, prior club)",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["boyhood Chivas academy product, 8 years at the club", "Liga MX Golden Boot winner (reported by SI) off a breakout 2025/26 season", "led to a Mexico national-team call-up", "moved to Olympiacos for an initial USD 10m (~EUR 8.5m) plus EUR 2m add-ons, 4-year deal + option year", "Chivas retained a 20% sell-on clause"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Publicly quoted on joining Olympiacos: 'I will die for this shirt' (Yahoo Sports, Sept 2026) - a strong, publicly reported commitment statement to his new club."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [
+      "'I will die for this shirt' - first public words as an Olympiacos player (Yahoo Sports, Sept 2026)."
+    ],
+    "commercial_profile": null,
+    "happiness_status": "content",
+    "happiness_notes": "Publicly stated strong commitment to Olympiacos ('I will die for this shirt') immediately upon signing, per Yahoo Sports.",
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://sports.yahoo.com/articles/olympiacos-advanced-talks-sign-mexican-073531905.html",
+    "https://sports.yahoo.com/articles/armando-gonzalez-die-shirt-first-163643576.html",
+    "https://www.si.com/soccer/liga-mx-loses-golden-boot-winner-mexico-star-european-transfer",
+    "https://en.wikipedia.org/wiki/Armando_Gonz%C3%A1lez_(footballer,_born_2003)"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "high",
+    "notes": "DOB, transfer fee structure (USD 10m plus EUR 2m add-ons, 20% sell-on clause, 4+1 year deal) and the Golden-Boot/national-team-callup background corroborated across Yahoo Sports and SI. Public commitment quote directly sourced to a Yahoo Sports article covering his unveiling. As a brand-new arrival, no Olympiacos 2026/27 stats exist yet -> stats block reflects the prior Chivas competition with values null (Liga MX 2025/26 numbers themselves not independently re-verified this session). Market value, wage not found -> null."
+  }
+}

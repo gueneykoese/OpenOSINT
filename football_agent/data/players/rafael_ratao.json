@@ -1,0 +1,70 @@
+{
+  "player_id": "rafael_ratao",
+  "name": "Rafael Ratão",
+  "age": 30,
+  "date_of_birth": "1995-11-30",
+  "nationality": ["BRA"],
+  "position": "LW",
+  "secondary_positions": ["ST", "AM"],
+  "preferred_foot": "right",
+  "height_cm": 183,
+  "current_club": "Shanghai Shenhua",
+  "current_club_league": "Chinese Super League",
+  "contract_until": 2028,
+  "market_value_eur_m": 3.0,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Chinese Super League",
+    "apps": 15,
+    "starts": null,
+    "minutes": null,
+    "goals": 10,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["375+ professional career appearances, 105+ career goals across Brazil, Europe (France, Slovakia), Japan and China", "won Coupe de France 2022/23 and Ligue 2 2021/22 with Toulouse", "immediately prolific for Shanghai Shenhua (10 goals in 15 apps since 2026)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt"],
+    "family_situation": "Born in Sumare, Brazil.",
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rafael_Rat%C3%A3o",
+    "https://fbref.com/en/players/40ef7347/Rafael-Ratao",
+    "https://www.sofascore.com/football/player/rafael-ratao/352838"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, foot, career path/titles (Toulouse Coupe de France/Ligue 2, Slovan Bratislava spell) from Wikipedia snippet. Contract-until (2028) and market value (EUR 3.0m) from a Shanghai Shenhua squad-value snippet also used for Makhtar Gueye. 2026 CSL stats (15 apps, 10 goals) from a Wikipedia career-totals snippet. Wage not found -> null."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "player_id": "cauan_barros",
+  "name": "Cauan Barros",
+  "age": 22,
+  "date_of_birth": "2004-05-06",
+  "nationality": ["BRA"],
+  "position": "DM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
+  "height_cm": 183,
+  "current_club": "CR Vasco da Gama",
+  "current_club_league": "Brasileirão Série A",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": 50,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Brasileirão Série A",
+    "apps": null,
+    "starts": null,
+    "minutes": 1289,
+    "goals": 3,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "starting defensive midfielder for Vasco da Gama",
+      "an Italian club made an enquiry in 2026, which Vasco felt undervalued him",
+      "Vasco's management valued him at roughly BRL 100m (approx EUR 16-17m) per Brazilian press in 2026, though considered that figure negotiable",
+      "4 yellow cards, 1 red card in 2025/26 Serie A per Fotmob split"
+    ],
+    "best_system": [],
+    "weak_in": ["disciplinary record - 1 red card in 2025/26"]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": 3,
+    "notes": "1 red card and 4 yellow cards recorded in the 2025/26 Brasileirão season per Fotmob - only public disciplinary evidence found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.antenadosnofutebol.com.br/vasco/fernando-diniz-e-avisado-que-cauan-barros-recebe-sondagens-do-exterior-e-pode-deixar-o-vasco",
+    "https://www.terra.com.br/esportes/vasco/vasco-recebe-sondagem-de-clube-italiano-por-cauan-barros,e84ff97e466034024770022b324cecd077v2wbtx.html",
+    "https://www.fotmob.com/players/1459657/cauan-barros",
+    "https://en.wikipedia.org/wiki/Cauan_Barros"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Release clause of EUR 50m and an Italian club's below-valuation enquiry are reported in Brazilian press (terra.com.br, antenadosnofutebol.com.br) through 2026; Vasco's internal BRL ~100m valuation is also press-reported but is a club estimate, not a fee agreed, so estimated_fee_eur_m is left null rather than converting a soft valuation. apps and starts not confirmed in snippets (only minutes/goals/assists via Fotmob) -> null. Contract_until, market value, wage, height/foot for some fields not found -> null; height 183cm confirmed via Fotmob."
+  }
+}

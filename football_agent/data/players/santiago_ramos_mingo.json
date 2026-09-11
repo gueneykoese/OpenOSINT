@@ -1,0 +1,74 @@
+{
+  "player_id": "santiago_ramos_mingo",
+  "name": "Santiago Ramos Mingo",
+  "age": 24,
+  "date_of_birth": "2001-11-21",
+  "nationality": ["ARG", "ITA"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 186,
+  "current_club": "EC Bahia",
+  "current_club_league": "Brasileirão Série A",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Brasileirão Série A",
+    "apps": 3,
+    "starts": 3,
+    "minutes": null,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Argentine-Italian dual national centre-back, developed at Boca Juniors before a spell linked with Barcelona interest and a move to Bahia in Jan 2025 (Bahia paid Boca Juniors USD 4.5m)",
+      "Olympique de Marseille reported to be considering an approach; Bahia has set a minimum asking price (reported around EUR 10m) and rejects lower bids"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public record found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es", "pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://atarde.com.br/esportes/ecbahia/bahia-estipula-valor-minimo-para-negociar-ramos-mingo-alvo-de-clubes-europeus-1398960",
+    "https://www.bnews.com.br/noticias/esporte/vai-sair-zagueiro-do-bahia-e-monitorado-por-nova-equipe-europeia-saiba-qual.html",
+    "https://en.wikipedia.org/wiki/Santiago_Ramos_Mingo",
+    "https://www.ogol.com.br/jogador/santiago-ramos-mingo/733142"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Dual Argentina/Italy nationality, Boca Juniors origin, USD 4.5m Bahia transfer (Jan 2025) and contract to end-2029 are corroborated across Wikipedia and ogol.com.br. Olympique de Marseille interest and Bahia's minimum-price stance ('does not negotiate for less than ~EUR 10m') are reported by A TARDE (atarde.com.br) - 'not for sale' below that threshold reflects the club's stated position, not a confirmed rejection of Marseille specifically. estimated_fee_eur_m, market value and wage not independently confirmed -> null."
+  }
+}

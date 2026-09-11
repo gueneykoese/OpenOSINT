@@ -1,0 +1,76 @@
+{
+  "player_id": "alynho_haidara",
+  "name": "Alynho Haïdara",
+  "age": 18,
+  "date_of_birth": "2008-07-26",
+  "nationality": ["CIV"],
+  "position": "ST",
+  "secondary_positions": ["LW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "1. FSV Mainz 05",
+  "current_club_league": "Bundesliga",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": 0,
+    "starts": 0,
+    "minutes": 0,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "target man who also drifts wide to link play (per The Guardian)",
+      "top scorer of 2025 U17 Africa Cup of Nations (7 goals in 6 apps), helped Ivory Coast to third place",
+      "joined Mainz 05 after a successful trial in summer 2024",
+      "yet to make a first-team Bundesliga appearance as of Sept 2026"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alynho_Ha%C3%AFdara",
+    "https://www.bundesliga.com/en/player/alynho-haidara",
+    "https://onefootball.com/en/news/transfer-window-who-is-alynho-haidara-the-new-ivorian-prodigy-at-mainz-05-41887381",
+    "https://www.fotmob.com/players/2101304/alynho-haidara"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Very young academy prospect (born 26 Jul 2008, shirt no. 39) with 0 senior Bundesliga appearances as of Sept 2026 per fotmob/Sofascore snippets; profile rests on his U17 AFCON 2025 breakout (top scorer, 7 goals/6 apps, Ivory Coast 3rd place) and preseason trial hype reported by OneFootball/The Guardian. Height, foot, market value, wages and contract length not found -> null. Included as a speculative long-term watchlist entry, explicitly flagged low confidence given no professional minutes yet. Mainz 05 is not one of the 36 UCL 2026/27 pilot clubs."
+  }
+}

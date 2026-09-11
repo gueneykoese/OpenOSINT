@@ -1,0 +1,74 @@
+{
+  "player_id": "augustine_okrah",
+  "name": "Augustine Okrah",
+  "age": null,
+  "date_of_birth": null,
+  "nationality": ["GHA"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Bechem United",
+  "current_club_league": "Ghana Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "for sale",
+  "stats_2025_26": {
+    "competition": "Ghana Premier League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 17,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "finished as the outright top scorer of the 2025/26 Ghana Premier League with 17 goals for Bechem United",
+      "finished ahead of Seidu Suraj (Dreams FC, 12 goals) and Salim Adams (Medeama, 11 goals)",
+      "played for a mid-table club (Bechem United) while champions Medeama did not have the league's top scorer"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Ghana_Premier_League",
+    "https://www.footballtransfers.com/en/leagues-cups/national/gh/ghana-premier-league/statistics/players/top-scorers/2025-2026",
+    "https://www.ghanafa.org/premier-league-leaders"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Confirmed as the outright 2025/26 Ghana Premier League top scorer (17 goals) for Bechem United via multiple aggregator sources (Wikipedia season page, footballtransfers.com, Ghana FA). No age/DOB, height, foot, wages, market value or reported European interest found in search snippets -> null. Domestic scouting lead rather than a confirmed active transfer target."
+  }
+}

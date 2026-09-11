@@ -1,0 +1,77 @@
+{
+  "player_id": "massire_sylla",
+  "name": "Massiré Sylla",
+  "age": 21,
+  "date_of_birth": "2005-01-07",
+  "nationality": ["SEN"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 196,
+  "current_club": "Union Saint-Gilloise",
+  "current_club_league": "Belgian Pro League",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 1.55,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Belgian Pro League",
+    "apps": null,
+    "starts": null,
+    "minutes": 90,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "tall (196cm) right-footed centre-back",
+      "aerial dominance and physical presence, a threat at set pieces both ends (per targetscouting.com)",
+      "began career at Diambars academy (Senegal) before joining Pau FC (France) in 2024",
+      "joined Union Saint-Gilloise for a reported fee exceeding EUR 1.55m, 14 Jan 2026, on a contract to 2030",
+      "man-of-the-match (8.3 Sofascore rating) on his first Union SG start, a 3-0 win over KV Mechelen"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Massir%C3%A9_Sylla",
+    "https://www.sofascore.com/football/player/massire-sylla/1897832",
+    "https://targetscouting.com/2026/08/03/massire-sylla-union-saint-gilloise-scout-report/",
+    "https://africasoccer.com/massire-sylla-union-saint-gilloise-debut-man-of-the-match/"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Diambars academy product (Senegal), progressed via Pau FC (France, signed March 2024) to Union Saint-Gilloise (Belgian Pro League) in a reported EUR 1.55m+ move completed 14 Jan 2026, on a contract through 2030. Early appearances limited (single full 90-minute start referenced as his standout man-of-the-match performance vs KV Mechelen); fuller season app/minutes totals not found in snippets -> null. Market value and wages not found -> null. Union Saint-Gilloise is not one of the 36 UCL 2026/27 pilot clubs (verified against football_agent/data/clubs/ listing)."
+  }
+}

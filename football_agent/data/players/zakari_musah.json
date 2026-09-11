@@ -1,0 +1,76 @@
+{
+  "player_id": "zakari_musah",
+  "name": "Zakari Musah",
+  "age": null,
+  "date_of_birth": null,
+  "nationality": ["GHA"],
+  "position": "GK",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "FC Samartex",
+  "current_club_league": "Ghana Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "for sale",
+  "stats_2025_26": {
+    "competition": "Ghana Premier League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "led the entire 2025/26 Ghana Premier League with 17 clean sheets for mid-table FC Samartex (a 50% shutout rate)",
+      "named Ghana Premier League Goalkeeper of the Month for both October 2025 and January 2026",
+      "kept 5 consecutive clean sheets during a standout run",
+      "widely described as the league's top shot-stopper of the 2025/26 season (SportsWorldGhana)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.ghanafa.org/zakari-musah-of-fc-samartex-adjudged-october-goalkeeper-of-the-month",
+    "https://www.ghanafa.org/zakari-musah-named-january-goalkeeper-of-the-month",
+    "https://sportsworldghana.com/zakari-musah-shines-as-ghana-premier-leagues-top-shot-stopper/",
+    "https://sportsworldghana.com/zakari-musah-keeps-five-consecutive-clean-sheets/"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Added specifically to address the GK under-representation in the pool (Ghana Premier League cross-check). Statistically the standout keeper of the 2025/26 GPL season: led the league with 17 clean sheets for a mid-table club (FC Samartex), won Goalkeeper of the Month twice (Oct 2025, Jan 2026). Total apps, minutes, and goals-conceded figures not found in snippets -> null (goals/assists set to 0 as standard for a keeper with no attacking output reported). DOB, age, height, wages, market value, and any reported European/bigger-club interest not found -> null. Strong domestic scouting lead given the clean-sheet record for a non-title-winning side."
+  }
+}

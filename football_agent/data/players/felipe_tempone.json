@@ -1,0 +1,75 @@
+{
+  "player_id": "felipe_tempone",
+  "name": "Felipe Tempone",
+  "age": 20,
+  "date_of_birth": "2006-02-03",
+  "nationality": ["ARG"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "CA Independiente",
+  "current_club_league": "Liga Profesional Argentina",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga Profesional Argentina",
+    "apps": 7,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "young centre-forward",
+      "emerged as an option after Independiente's top scorer Gabriel Avalos left for Olimpia (Paraguay) in Aug 2026",
+      "limited senior minutes so far"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public record found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.orgullorojo.com/nota-otro-delantero-en-la-mira-240287",
+    "https://www.espn.com/soccer/player/stats/_/id/420706/felipe-tempone",
+    "https://www.fotmob.com/players/1929752/felipe-tempone",
+    "https://www.infobae.com/deportes/2026/08/29/independiente-anuncio-la-salida-de-su-goleador-el-particular-acuerdo-y-el-club-al-que-se-ira-a-jugar/"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Small sample size (7 apps, 1 goal, 1 assist for 2025/26 as of search date) - flagged by Argentine press (orgullorojo.com) in Aug 2026 as essentially the only recognised out-and-out striker Independiente has after Gabriel Avalos' departure to Olimpia, which is itself the main evidence of his prospective role rather than a proven track record. Height, foot confirmed right via fotmob; height not found -> null. Contract, market value and fee not found in search snippets -> null. No European transfer interest publicly reported yet -> availability set to 'open to move' as a young player at a selling club, not based on a concrete report."
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "player_id": "emmanuel_sanja",
+  "name": "Emmanuel Sanja",
+  "age": 18,
+  "date_of_birth": null,
+  "nationality": ["GHA"],
+  "position": "RB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Asante Kotoko",
+  "current_club_league": "Ghana Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Ghana Premier League (Vision FC, prior club)",
+    "apps": 25,
+    "starts": null,
+    "minutes": null,
+    "goals": 3,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "18-year-old right-back",
+      "25 apps, 3 goals, 2 assists for Vision FC in 2025/26, earning 5 MVP awards that season",
+      "called up to Ghana's U23s (the Black Meteors)",
+      "signed a three-year contract with Asante Kotoko in August 2026",
+      "publicly described Kotoko as his 'family club', relishing the chance to play there"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [
+      "Told GHANAsoccernet (Aug 2026) he was relishing the chance to play for Asante Kotoko, describing it as his 'family club'."
+    ],
+    "commercial_profile": null,
+    "happiness_status": "content",
+    "happiness_notes": "Publicly described joining Asante Kotoko as playing for his 'family club' and said he was relishing the opportunity (GHANAsoccernet interview, Aug 2026).",
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://ghanasoccernet.com/asante-kotoko-target-vision-fc-defender-emmanuel-sanja",
+    "https://ghanasoccernet.com/defender-emmanuel-sanja-relishing-chance-to-play-for-family-club-asante-kotoko",
+    "https://sportsworldghana.com/asante-kotoko-complete-signing-of-emmanuel-sanja-from-vision-fc/",
+    "https://www.ghanamma.com/2026/08/26/official-asante-kotoko-announce-sanja-signing-ahead-of-2026-27-campaign/"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Young (18yo) Ghanaian right-back, standout 2025/26 season at Vision FC (25 apps, 3 goals, 2 assists, 5 MVP awards) leading to a three-year move to Asante Kotoko in Aug 2026 and a Black Meteors (U23) call-up. DOB, height, wages, market value, and any European interest not found in snippets -> null. Domestic Ghanaian scouting lead."
+  }
+}

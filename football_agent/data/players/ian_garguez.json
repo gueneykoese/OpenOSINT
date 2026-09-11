@@ -1,0 +1,78 @@
+{
+  "player_id": "ian_garguez",
+  "name": "Ian Garguez",
+  "age": 21,
+  "date_of_birth": "2005-02-03",
+  "nationality": ["CHI"],
+  "position": "RB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Club Deportivo Palestino",
+  "current_club_league": "Chilean Primera División",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Chilean Primera División",
+    "apps": 16,
+    "starts": null,
+    "minutes": 1307,
+    "goals": 1,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "full name Ian Alex Garguez Gómez",
+      "signed an extended contract renewal with Palestino (Jan 2026) reflecting the club's protective stance",
+      "made his senior Chile national team debut on 9 Sep 2025 vs Uruguay (2026 World Cup qualifying window)",
+      "underwent emergency surgery for a fifth metatarsal fracture in his left foot (reported Sep 2026), ruling him out for at least a couple of months"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public record found beyond injury reporting."
+  },
+  "injury_history": [
+    {"type": "fifth metatarsal fracture (left foot)", "season": "2025/26", "days_out": null}
+  ],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.cooperativa.cl/noticias/deportes/futbol/palestino/palestino-sello-una-extensa-renovacion-para-el-promisorio-ian-garguez/2026-01-29/125325.html",
+    "https://www.chicureohoy.cl/deportes/clasificatorias-2026-chile-igualo-con-uruguay-y-presento-a-ian-garguez-en-la-roja-adulta/",
+    "https://www.encancha.cl/futbol-chileno/2026/9/2/alarma-en-palestino-y-la-roja-ian-garguez-fue-operado-de-urgencia-y-estara-meses-fuera-de-las-cancha-317719.html",
+    "https://www.fotmob.com/players/1636881/ian-garguez"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Chile senior debut (9 Sep 2025 vs Uruguay), contract renewal (Jan 2026) and a season-ending-type metatarsal fracture requiring emergency surgery (reported 2 Sep 2026, encancha.cl) are each corroborated by a dedicated article. 'not for sale' reflects the recent long-term contract extension, not a specific rejected offer -> treat as inferred availability. days_out for the fracture not specified beyond 'at least a couple of months' -> left null rather than guessing a number. Height, market value, wage, fee not found -> null."
+  }
+}

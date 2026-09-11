@@ -1,0 +1,70 @@
+{
+  "player_id": "sai_erjiniao",
+  "name": "Sai Erjini'ao",
+  "age": 31,
+  "date_of_birth": "1995-03-15",
+  "nationality": ["CHN"],
+  "position": "AM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Beijing Guoan",
+  "current_club_league": "Chinese Super League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Chinese Super League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": 6,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Brazilian-born, naturalized Chinese international (full birth name Sergio Antonio Soler de Oliveira Junior)", "obtained Chinese nationality March 2025", "called up for China's 2026 World Cup qualifiers", "team's chief creator 2026 (6 assists, rating 7.72)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt", "zh"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "Naturalization case is publicly documented (state media coverage of his China call-up), included here as public-record background only."
+  },
+  "sources": [
+    "https://www.fotmob.com/players/535906/serginho",
+    "http://www.china.org.cn/world/Off_the_Wire/2025-03/16/content_117768885.htm",
+    "https://english.news.cn/20250316/2022db8263c94195940df9f8b13c02d0/c.html"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB and naturalization background from Xinhua/China.org.cn state-media snippets, which are official-source but should be read as a naturalization announcement rather than independent journalism. 2026 CSL creative output (6 assists, team-leading; 7.72 average rating) from a Beijing Guoan season-summary snippet via WebSearch. Market value, wage, contract length not found -> null."
+  }
+}

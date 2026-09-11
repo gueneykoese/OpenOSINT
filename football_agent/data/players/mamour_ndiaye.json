@@ -1,0 +1,77 @@
+{
+  "player_id": "mamour_ndiaye",
+  "name": "Mamour Ndiaye",
+  "age": 20,
+  "date_of_birth": "2005-10-22",
+  "nationality": ["SEN"],
+  "position": "GK",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 192,
+  "current_club": "AS Saint-Étienne",
+  "current_club_league": "Ligue 2",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Eliteserien (loan spell, per FBref/fotmob)",
+    "apps": 10,
+    "starts": 10,
+    "minutes": 900,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "goalkeeper, 192cm",
+      "discovered in Senegal, developed via the Oslo Football Academy under coach Tor Thodesen",
+      "went on trial and signed with Norwegian club Sarpsborg 08 in 2023 (contract to end of 2027)",
+      "played at the 2023 FIFA U-20 World Cup and won the 2023 U-20 Africa Cup of Nations with Senegal",
+      "2025/26 season: 10 apps, 900 minutes, 12 goals conceded, 73.3% save percentage (per FBref, competition recorded as Eliteserien despite club listed as Saint-Etienne -- see data_quality note)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mamour_Ndiaye",
+    "https://www.fotmob.com/players/1478010/mamour-ndiaye",
+    "https://fbref.com/en/players/f87b1fe9/Mamour-Ndiaye",
+    "https://www.espn.com/soccer/player/_/id/362285/mamour-ndiaye"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Added specifically to address the GK under-representation in the pool. Search snippets contain an internal inconsistency: ESPN lists his current club as Saint-Etienne (Ligue 2, France) while the same search's FBref/fotmob statline for 2025/26 (10 apps, 900 min, 12 GA, 73.3% save pct) is labelled 'Eliteserien' (Norway) -- this is likely a data-aggregator mislabel or reflects a loan spell (he originally signed with Norwegian club Sarpsborg 08 in 2023) whose exact 2025/26 club could not be disambiguated from snippets; both facts are preserved above with this caveat rather than silently resolved. DOB, height from Wikipedia/fotmob. U-20 World Cup 2023 and U-20 AFCON 2023 winner with Senegal. Wages, transfer status, contract length not found -> null."
+  }
+}

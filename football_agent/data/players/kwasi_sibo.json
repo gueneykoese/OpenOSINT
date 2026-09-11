@@ -1,0 +1,76 @@
+{
+  "player_id": "kwasi_sibo",
+  "name": "Kwasi Sibo",
+  "age": 28,
+  "date_of_birth": "1998-06-24",
+  "nationality": ["GHA"],
+  "position": "DM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
+  "height_cm": 182,
+  "current_club": "Genclerbirligi",
+  "current_club_league": "Süper Lig",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 0,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "for sale",
+  "stats_2025_26": {
+    "competition": "La Liga (Real Oviedo)",
+    "apps": 26,
+    "starts": null,
+    "minutes": 1686,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "defensive midfielder, ball-winning and positional, with cover across central midfield",
+      "named in Ghana's 26-man 2026 World Cup squad by Carlos Queiroz",
+      "left Real Oviedo (La Liga) as a free agent in August 2026",
+      "agreed a preliminary deal to join Turkish club Genclerbirligi (Aug 2026)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kwasi_Sibo",
+    "https://www.espn.com/soccer/player/_/id/274697/kwasi-sibo",
+    "https://www.realoviedo.es/en/players/kwasi-sibo",
+    "https://www.whoscored.com/players/463426/show/kwasi-sibo"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "12 caps for Ghana as of 2025 and named in Queiroz's 26-man 2026 World Cup squad (2 June 2026). Left Real Oviedo (La Liga) as a free agent in Aug 2026 (64 apps/1 goal there 2024-2026; 26 apps/1,686 minutes/0 goals/0 assists in his final 2026 season) and reached a preliminary agreement with Turkish club Genclerbirligi the same month -> current_club_league set to Süper Lig on that reported (not yet fully confirmed as completed) move; flag this as the least certain field. Wages, exact contract length and market value not found -> null. Real Oviedo is not one of the 36 UCL 2026/27 pilot clubs."
+  }
+}

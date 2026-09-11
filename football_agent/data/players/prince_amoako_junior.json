@@ -1,0 +1,73 @@
+{
+  "player_id": "prince_amoako_junior",
+  "name": "Prince Amoako Junior",
+  "age": 19,
+  "date_of_birth": "2007-02-19",
+  "nationality": ["GHA"],
+  "position": "AM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "FC Nordsjælland",
+  "current_club_league": "Danish Superliga",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Danish Superliga",
+    "apps": 19,
+    "starts": null,
+    "minutes": null,
+    "goals": 6,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Right to Dream Academy (Ghana) graduate", "signed first professional contract with Nordsjaelland 25 Feb 2025", "scored and assisted on his league debut (opening day 2025/26 vs FC Fredericia)", "Ghana youth international, part of a wider pipeline of Ghanaian talent nurtured by the club", "10 goal contributions from midfield in 19 league apps 2025/26"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [
+      "Publicly expressed excitement about his move to FC Nordsjaelland (GhanaSoccerNet, 2025)."
+    ],
+    "commercial_profile": null,
+    "happiness_status": "content",
+    "happiness_notes": "Publicly quoted expressing excitement about signing for FC Nordsjaelland (GhanaSoccerNet coverage of his move), with no subsequent public indication of wanting to leave.",
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Prince_Amoako_Jr.",
+    "https://www.modernghana.com/sports/1380742/fc-nordsjaelland-agree-deal-to-sign-ghanaian-teena.html",
+    "https://ghanasoccernet.com/ghanaian-teenager-prince-amoako-junior-shares-excitement-over-fc-nordsjaelland-move",
+    "https://ghanasoccernet.com/prince-amoako-junior-reaches-double-figures-for-nordsjaelland-after-decisive-strike-against-copenhagen"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, Right to Dream background, signing date and debut-day goal-plus-assist from Wikipedia and GhanaSoccerNet reporting. 2025/26 tally (19 apps, 6 goals, 4 assists, 10 combined contributions) directly from a GhanaSoccerNet season-progress article. Market value, wage, contract length not found -> null."
+  }
+}

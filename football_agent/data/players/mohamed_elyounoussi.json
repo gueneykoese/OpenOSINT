@@ -1,0 +1,70 @@
+{
+  "player_id": "mohamed_elyounoussi",
+  "name": "Mohamed Elyounoussi",
+  "age": 32,
+  "date_of_birth": "1994-08-04",
+  "nationality": ["NOR"],
+  "position": "AM",
+  "secondary_positions": ["LW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "F.C. Copenhagen",
+  "current_club_league": "Danish Superliga",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Danish Superliga",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 6,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Norway international (55 caps, 10 goals)", "extensive top-flight career: Molde, Basel, Southampton, Celtic (loan), F.C. Copenhagen since 2023", "94 apps / 31 goals for Copenhagen since 2023", "Copenhagen's top league scorer 2026/27 with 6 goals", "wears the club's no.10 shirt as their attacking focal point"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["no", "en"],
+    "family_situation": "Born in Morocco; represents Norway.",
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mohamed_Elyounoussi",
+    "https://www.fck.dk/en/news/mohamed-elyounoussi-new-no10-fc-copenhagen",
+    "https://www.fotmob.com/players/261936/mohamed-elyounoussi"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, birthplace, full club-by-club career and Norway caps from Wikipedia snippet, corroborated by an official FC Copenhagen news item on his squad-number role. 2026/27 Danish Superliga top-scorer tally (6 goals) from a season-summary snippet found during club research. Note: this was labelled a 2026-27 season result in the source, entered here under stats_2025_26 per the schema's season-block naming, so treat the season label as approximate. Market value, wage, contract length not found -> null."
+  }
+}

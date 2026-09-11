@@ -1,0 +1,70 @@
+{
+  "player_id": "filip_bundgaard",
+  "name": "Filip Bundgaard",
+  "age": 22,
+  "date_of_birth": "2004-07-03",
+  "nationality": ["DEN"],
+  "position": "RW",
+  "secondary_positions": ["ST"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Brøndby IF",
+  "current_club_league": "Danish Superliga",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Danish Superliga",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 4,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Randers FC academy product via Hornbaek SF/Randers Freja", "73 apps / 8 goals for Randers (2020-2024)", "joined Brondby in 2024, 59 apps / 7 goals since", "one of the young attacking contributors identified in Brondby's 2025/26 campaign (4 goals)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["da"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Filip_Bundgaard",
+    "https://www.espn.com/soccer/player/_/id/304068/filip-bundgaard",
+    "https://www.whoscored.com/players/423264/show/filip-bundgaard"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, career path (Randers academy/first team, move to Brondby in 2024) and cumulative club totals from Wikipedia. 2025/26 season goal tally (4, per a Brondby squad-stats snippet) entered under stats_2025_26. Assists, market value, wage, contract length not found -> null."
+  }
+}

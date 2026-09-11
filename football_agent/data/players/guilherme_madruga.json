@@ -1,0 +1,70 @@
+{
+  "player_id": "guilherme_madruga",
+  "name": "Guilherme Madruga",
+  "age": 25,
+  "date_of_birth": "2000-11-11",
+  "nationality": ["BRA"],
+  "position": "CM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Shandong Taishan",
+  "current_club_league": "Chinese Super League",
+  "contract_until": null,
+  "market_value_eur_m": 1.0,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Chinese Super League",
+    "apps": 28,
+    "starts": null,
+    "minutes": null,
+    "goals": 4,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Brazilian academy product (Desportivo Brasil)", "prior Brazilian top-flight experience at Cuiaba (2024-2025)", "joined Shandong Taishan in 2025; 28 apps/4 goals since"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Guilherme_Madruga",
+    "https://www.espn.com/soccer/player/bio/_/id/357272/guilherme-madruga",
+    "https://www.espn.com/soccer/player/_/id/357272/guilherme-madruga"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, Brazilian youth/club career (Desportivo Brasil, loans to Catanduva and Botafogo-SP, Cuiaba 2024-25) and Shandong Taishan totals (28 apps, 4 goals since 2025) from Wikipedia/ESPN bio snippets. Market value (EUR 1m) from an earlier aggregated squad-value snippet found for the club. Wage, contract length not found -> null."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "player_id": "juan_francisco_rossel",
+  "name": "Juan Francisco Rossel",
+  "age": 21,
+  "date_of_birth": "2005-03-17",
+  "nationality": ["CHI"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 182,
+  "current_club": "Universidad Católica",
+  "current_club_league": "Chilean Primera División",
+  "contract_until": 2027,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Chilean Primera División",
+    "apps": null,
+    "starts": null,
+    "minutes": 237,
+    "goals": 1,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "academy graduate (Corozo family name in some registries: Juan Francisco Rossel Corozo)",
+      "described in Chilean press (2026) as having a career 'renaissance' at UC after overcoming physical setbacks",
+      "renewed contract with Universidad Católica to end of 2027 season (Jun 2026)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": 3,
+    "discipline": null,
+    "notes": "Chilean press (prensafutbol.cl, 2026) describes him publicly attributing his improved form to minutes given by the coaching staff after recovering from unspecified physical problems - read as a resilience signal, not formally rated."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [
+      "Quoted (prensafutbol.cl, 2026): attributed his 2026 form to playing time given by the coaching staff, following a period of physical problems."
+    ],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.prensafutbol.cl/juan-francisco-rossel-declaraciones-en-la-uc/",
+    "https://www.encancha.cl/futbol-chileno/u-catolica/2026/06/17/firmo-hasta-2027-el-atacante-cruzado-que-sello-su-renovacion-en-universidad-catolica/",
+    "https://www.fotmob.com/players/1467022/juan-rossel"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract renewal to end-2027 (encancha.cl, Jun 2026) and 2026 season stats (1 goal, 237 minutes per Fotmob) are directly sourced. No specific European transfer report found -> availability set to 'open to move' as a general inference for a contracted academy striker at a selling club, not a concrete report; estimated_fee_eur_m, market value and wage left null accordingly."
+  }
+}

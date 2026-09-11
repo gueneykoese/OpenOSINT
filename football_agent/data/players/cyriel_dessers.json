@@ -1,0 +1,70 @@
+{
+  "player_id": "cyriel_dessers",
+  "name": "Cyriel Dessers",
+  "age": 31,
+  "date_of_birth": "1994-12-08",
+  "nationality": ["NGA"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Panathinaikos",
+  "current_club_league": "Super League Greece",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 4.6,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Super League Greece",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 4,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Nigeria international, born in Belgium", "52 goals in 100+ apps at Rangers (2023-2025)", "signed permanently by Panathinaikos from Rangers for EUR 4.6m on 1 Sept 2025", "brought in to replace Fotis Ioannidis after his move to Sporting CP", "4 goals across all competitions 2025/26, level with Andrews Tetteh as club's joint-top scorer in that count"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["nl", "fr"],
+    "family_situation": "Born in Belgium.",
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cyriel_Dessers",
+    "https://blueprint.ng/nigerias-cyriel-dessers-completes-move-to-panathinaikos/",
+    "https://www.transferfeed.com/transfers/cyriel-dessers-rangers-panathinaikos/16614822"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, Rangers career totals (52 goals in 100+ apps) and transfer fee (EUR 4.6m, 1 Sept 2025) from Wikipedia/Blueprint.ng/TransferFeed. 2025/26 all-competition goal tally (4, joint club-leading with Andrews Tetteh per a Panathinaikos scoring-stats snippet) noted, though the search snippet described only 2 league goals within that 4 all-competition total - entered as the season line since the split by competition was ambiguous in the source. Wage, contract length, market value not found -> null."
+  }
+}

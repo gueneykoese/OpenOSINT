@@ -1,0 +1,75 @@
+{
+  "player_id": "modibo_fofana",
+  "name": "Modibo Fofana",
+  "age": 18,
+  "date_of_birth": "2007-11-03",
+  "nationality": ["CIV"],
+  "position": "CM",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Royal Antwerp FC",
+  "current_club_league": "Belgian Pro League",
+  "contract_until": 2026,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "Belgian Pro League",
+    "apps": null,
+    "starts": null,
+    "minutes": 66,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "18-year-old Ivorian international central midfielder, right-footed",
+      "joined Royal Antwerp on loan for the 2025/26-into-2026/27 period; club has indicated a 4-year contract would follow a successful loan",
+      "early minutes: 66 minutes played in the Belgian Pro League 2026/27 with a 7.25 FotMob average rating"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://sports.yahoo.com/articles/official-modibo-fofana-joins-royal-142500273.html",
+    "https://www.fotmob.com/players/1991136/modibo-fofana",
+    "https://www.sofascore.com/football/player/modibo-fofana/2602250",
+    "https://fr.allafrica.com/stories/202602040626.html"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Very young (born 3 Nov 2007), on a loan spell at Royal Antwerp tied through June 2026 per Yahoo Sports/fotmob, with the club reportedly prepared to offer a 4-year permanent contract if the loan succeeds; parent club not identified in snippets, so estimated_fee_eur_m and market_value_eur_m left null. 2026/27 early minutes: 66 minutes played, 0 goals/assists, 7.25 average FotMob rating. Height, wages not found -> null. Royal Antwerp is not one of the 36 UCL 2026/27 pilot clubs."
+  }
+}

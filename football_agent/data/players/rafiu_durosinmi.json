@@ -1,0 +1,77 @@
+{
+  "player_id": "rafiu_durosinmi",
+  "name": "Rafiu Durosinmi",
+  "age": 23,
+  "date_of_birth": null,
+  "nationality": ["NGA"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "KRC Genk",
+  "current_club_league": "Belgian Pro League",
+  "contract_until": null,
+  "market_value_eur_m": 5.1,
+  "estimated_fee_eur_m": 10.5,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Belgian Pro League",
+    "apps": 4,
+    "starts": null,
+    "minutes": null,
+    "goals": 4,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "target-man striker",
+      "scored in four consecutive Belgian Pro League matches after Genk debut (Aug-Sep 2026)",
+      "moved from Pisa (Serie A) to Genk for a club-record fee",
+      "became 14th Nigerian player to sign for Genk"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rafiu_Durosinmi",
+    "https://www.fotmob.com/players/1305763/assist-rafiu-durosinmi",
+    "https://soccernet.ng/2026/07/rafiu-durosinmi-nigeria-sign-genk.html",
+    "https://soccernet.ng/2026/08/rafiu-durosinmi-sends-super-eagles-genk.html",
+    "https://www.talktalknigeria.com/home/2026/7/23/rafiu-durosinmi-completes-move-to-belgian-giants-krc-genk"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Transferred from Italian Serie B/A side Pisa to KRC Genk (Belgian Pro League) in July 2026 for a reported EUR 10.5m club-record fee, EUR 3.5m above his reported market value of EUR 5.1m (per fotmob-cited valuation). Scored 4 goals in his first 4 Genk appearances (early 2026/27 season), including on his debut against Zulte Waregem. Capped 3 times for Nigeria (Unity Cup 2026, friendly vs Poland) with 0 international goals. DOB, height, foot, contract length and wages could not be verified from search snippets -> null. Not currently at any of the 36 UCL 2026/27 pilot clubs."
+  }
+}

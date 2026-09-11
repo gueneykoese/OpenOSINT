@@ -1,0 +1,76 @@
+{
+  "player_id": "brian_barboza",
+  "name": "Brian Barboza",
+  "age": 18,
+  "date_of_birth": "2008-05-15",
+  "nationality": ["URU"],
+  "position": "RB",
+  "secondary_positions": ["CB"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "CA Peñarol",
+  "current_club_league": "Uruguayan Primera División",
+  "contract_until": 2026,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 3.7,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "for sale",
+  "stats_2025_26": {
+    "competition": "Uruguayan Primera División / Copa de la Liga AUF",
+    "apps": 3,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "full name Brian Javier Barboza Chamorra",
+      "debuted for Peñarol's first team on 4 May 2026 under coach Diego Aguirre, against Defensor Sporting",
+      "agreement already in place for Mexican club Toluca to sign him for USD 4m (80% of his economic rights), with the move completing once he stays at Penarol through end of 2026",
+      "listed by some sources as right-back, by Wikipedia as centre-back - position not fully settled in public reporting"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public record found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.tvazteca.com/aztecadeportes/toluca-ficha-uruguayo-brian-barboza-4-millones-dolares-liga-mx",
+    "https://es.wikipedia.org/wiki/Brian_Barboza",
+    "https://www.record.com.mx/historia/toluca-apunta-a-fichar-a-joven-promesa-uruguaya-de-penarol-2026081619051550581",
+    "https://www.supremacia.uy/jugador/brian-barboza-JUG83"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Already agreed to move to Toluca (Liga MX) for USD ~4m per multiple Mexican outlets, effective once he remains at Peñarol until end of 2026 -> included as a real, well-documented transfer story even though his next destination is Liga MX, not Europe; 'estimated_fee_eur_m' is a rough EUR conversion of the reported USD 4m and should be treated as approximate. Position genuinely disputed between sources (RB vs CB) -> both flagged; contract_until set to 2026 reflecting the agreed departure point, not necessarily his original Peñarol contract length. Height, market value, wage not found -> null."
+  }
+}

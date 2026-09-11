@@ -1,0 +1,76 @@
+{
+  "player_id": "maduka_okoye",
+  "name": "Maduka Okoye",
+  "age": 27,
+  "date_of_birth": "1999-08-28",
+  "nationality": ["NGA"],
+  "position": "GK",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Udinese Calcio",
+  "current_club_league": "Serie A",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Serie A",
+    "apps": 30,
+    "starts": 22,
+    "minutes": null,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "shot-stopping goalkeeper, established Udinese no.1",
+      "born in Germany, plays for Nigeria",
+      "delivered a consistent 2025/26 Serie A campaign, including 3 consecutive clean sheets in April and a 3-0 shutout of AC Milan",
+      "30 apps, 81 saves, 32 goals conceded (season totals per one-versus-one.com); ESPN's narrower count shows 22 starts, 60 saves, 6 clean sheets, 26 goals against"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Maduka_Okoye",
+    "https://one-versus-one.com/en/players/Maduka-Okoye",
+    "https://www.espn.com/soccer/player/_/id/295476/maduka-okoye",
+    "https://www.sportbusy.com/players/soccer/295476/"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Added specifically to address the GK under-representation in the pool. Two slightly different 2025/26 statlines appear across sources (one-versus-one.com: 30 apps/81 saves/32 GA; ESPN: 22 starts/60 saves/6 clean sheets/26 GA) -- likely different competitions or cutoff dates; the fuller 30-apps/0 goals/0 assists figure is used for apps/starts fields and both save/GA readings are preserved in style_profile rather than picking one as authoritative. Also received 1 yellow and 1 red card in the season. DOB from Wikipedia. Height, foot, wages, market value, contract length not found -> null. Udinese is not one of the 36 UCL 2026/27 pilot clubs."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "player_id": "hamza_alaa",
+  "name": "Hamza Alaa",
+  "age": 25,
+  "date_of_birth": "2001-03-01",
+  "nationality": ["EGY"],
+  "position": "GK",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 185,
+  "current_club": "Al Ahly SC",
+  "current_club_league": "Egyptian Premier League",
+  "contract_until": 2029,
+  "market_value_eur_m": 0.098,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Egyptian League Cup",
+    "apps": 2,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "goalkeeper, backup/rotation to Mostafa Shobeir at Al Ahly",
+      "helped Egypt to 4th place at the Paris 2024 Olympics (U23s)",
+      "capped for senior Egypt national team since 2024",
+      "signed a three-and-a-half-year deal with Al Ahly in September 2025"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hamza_Alaa",
+    "https://www.alahlyegypt.com/en/news/article/al-ahly-sign-goalkeeper-hamza-alaa-on-three-and-a-half-year-deal",
+    "https://www.espn.com/soccer/player/_/id/332065/hamza-alaa",
+    "https://www.soccerway.com/player/hamza-alaa/tUC6BJC5/"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Added specifically to address the GK under-representation in the pool (Egyptian Premier League cross-check); a rotation/backup keeper behind Mostafa Shobeir (already in pool) at Al Ahly, so game time is limited (2 League Cup apps found for 2025/26 -> other competitions null). DOB, height, market value (EUR 98k) and contract-to-2027/29 details from Soccerway/club announcement (three-and-a-half-year deal signed Sept 2025 -> approx. through early 2029). 11 Egypt U23 caps (2022-24), senior debut 2024, part of Egypt's 4th-place Paris 2024 Olympic squad. Wages, foot, secondary positions not found -> null."
+  }
+}

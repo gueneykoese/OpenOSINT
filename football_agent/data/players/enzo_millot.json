@@ -1,0 +1,72 @@
+{
+  "player_id": "enzo_millot",
+  "name": "Enzo Millot",
+  "age": 24,
+  "date_of_birth": "2002-07-17",
+  "nationality": ["FRA"],
+  "position": "AM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Al-Ahli (on loan at Al-Diriyah)",
+  "current_club_league": "Saudi Pro League",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 28,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "Saudi Pro League (loan spell, Al-Diriyah)",
+    "apps": null,
+    "starts": null,
+    "minutes": 180,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Monaco academy product, broke into their first team in 2020", "instrumental for VfW Stuttgart 2024/25 (29 Bundesliga apps, 6 goals, 5 assists)", "joined Al-Ahli for a reported EUR 28m fee ahead of 2025/26, signed until 2028", "France U23/U21/U17 international", "loaned to Al-Diriyah for 2026/27 after Al-Ahli reportedly rejected departure offers in August 2026"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": "unsettled",
+    "happiness_notes": "Reported (Goal.com, ~Aug 2026) that Al-Ahli rejected offers for his departure shortly before loaning him out to fellow Saudi side Al-Diriyah for 2026/27 - a squad-fringe/loan situation consistent with limited first-team involvement (180 minutes, 0G/0A as of the source snapshot) rather than a settled starting role.",
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Enzo_Millot",
+    "https://www.bundesliga.com/en/bundesliga/news/enzo-millot-leaves-stuttgart-al-ahli-france-midfielder-33214",
+    "https://en.alahlifc.sa/news/enzo-millot-ahlawi-until-2028",
+    "https://www.goal.com/en/news/by-a-final-decision-al-ahli-of-saudi-arabia-settles-milot-s-fate/blt82bafe225ea6c43a",
+    "https://www.fotmob.com/en-GB/players/1050859/enzo-millot"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, foot, Monaco/Stuttgart career from Wikipedia/Bundesliga.com. EUR 28m fee and 2028 contract from the official Al-Ahli FC announcement. Current 2026/27 loan-to-Al-Diriyah status and minimal minutes (180 min, 0G/0A) from a FotMob snippet, corroborated by a Goal.com report on Al-Ahli 'settling his fate' in August 2026. current_club field reflects registered owner (Al-Ahli) with the active loan noted, since he is not presently playing first-team minutes for a target club. Market value, precise loan length not found -> null."
+  }
+}
