@@ -1,0 +1,75 @@
+{
+  "player_id": "ren_komatsu",
+  "name": "Ren Komatsu",
+  "age": 27,
+  "date_of_birth": "1998-09-10",
+  "nationality": ["JPN"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Vissel Kobe",
+  "current_club_league": "J1 League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "J1 League",
+    "apps": 16,
+    "starts": null,
+    "minutes": null,
+    "goals": 5,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "centre-forward, born in Tokyo",
+      "circuitous career: Matsumoto Yamaga (2018-2023, with loans to Zweigen Kanazawa and Renofa Yamaguchi) -> Blaublitz Akita (2024-2025) -> Vissel Kobe (2025-)",
+      "Japan U-19 (2017) and U-23 (2017-2019) international as a youth player, no senior caps found",
+      "5 goals in 16 J1 League apps in the 2026 season for reigning-champion Vissel Kobe"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": 4,
+    "discipline": null,
+    "notes": "Public career record (multiple lower-tier clubs and loans before breaking into a title-winning J1 side at Vissel Kobe) is used as a public-record resilience indicator, not a formal rating."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ja"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements on transfer preference found."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ren_Komatsu",
+    "https://www.espn.com/soccer/player/_/id/256973/ren-komatsu",
+    "https://www.jleague.co/players/1446/Ren-KOMATSU/"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Bio (DOB 10 Sept 1998, Tokyo-born, career path Matsumoto Yamaga -> Blaublitz Akita -> Vissel Kobe 2025, Japan U-19/U-23 youth caps) and 2026 J1 League tally (16 apps, 5 goals) confirmed via Wikipedia/ESPN. Note Vissel Kobe won the 2026 J1 100 Year Vision League per separate search results, making him part of a reigning champion squad. No market value, contract, or transfer-preference data found."
+  }
+}

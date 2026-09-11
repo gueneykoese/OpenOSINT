@@ -1,0 +1,71 @@
+{
+  "player_id": "troy_parrott",
+  "name": "Troy Parrott",
+  "age": 24,
+  "date_of_birth": "2002-04-02",
+  "nationality": ["IRL"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 185,
+  "current_club": "AZ Alkmaar",
+  "current_club_league": "Eredivisie",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Eredivisie (all competitions in brackets)",
+    "apps": 48,
+    "starts": null,
+    "minutes": null,
+    "goals": 15,
+    "assists": 12,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Irish international striker", "AZ Alkmaar's top scorer 2025/26 (15 league goals, 30 across all competitions per one tally)", "ex-Tottenham academy product, joined AZ for a fee just over $4.5m in July 2024", "reportedly subject of a 'five club tug-of-war' per transfer speculation", "match-winning brace for Ireland vs Portugal in 2025/26 international window"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_AZ_Alkmaar_season",
+    "https://hooligan-soccer.com/az-alkmaars-troy-parrott-at-the-center-of-a-five-club-tug-of-war/",
+    "https://global.espn.com/football/player/_/id/279790/troy-parrott",
+    "https://x.com/FTalentScout/status/1989087798222361016"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Goal/assist tallies vary slightly by source and by point-in-season snapshot (e.g. one tracker cited 14 games/13 goals/2 assists mid-season vs a fuller-season total of 15 league goals, 30 in all competitions, 48 apps, 31 goals/12 assists overall) -> the fuller-season figures were used but should be treated as approximate/in-season snapshots rather than final reconciled totals. One Flashscore result listed him at 'Betis' which appears to be either a stale/incorrect page or an unconfirmed subsequent move -> NOT used as current_club because AZ Alkmaar is corroborated by the more recent, more numerous sources (Wikipedia AZ season page, ESPN, transfer-speculation piece describing him as an AZ player being chased by suitors). This conflict is flagged for re-verification. Height 185cm and weight 78kg per ESPN; foot, contract length not found."
+  }
+}

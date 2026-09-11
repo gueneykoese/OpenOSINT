@@ -1,0 +1,76 @@
+{
+  "player_id": "iker_fimbres",
+  "name": "Iker Fimbres",
+  "age": 21,
+  "date_of_birth": "2005-06-02",
+  "nationality": ["MEX"],
+  "position": "AM",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 174,
+  "current_club": "CF Monterrey",
+  "current_club_league": "Liga MX",
+  "contract_until": null,
+  "market_value_eur_m": 4.9,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga MX",
+    "apps": null,
+    "starts": null,
+    "minutes": 628,
+    "goals": 2,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Mexico U20 international (5 caps, 1 goal, 2025 U-20 World Cup squad), senior Mexico debut in 2026",
+      "scored a brace vs Tigres UANL in Clasico Regio (19 Oct 2024) as Monterrey's youngest player to do so",
+      "attacking midfielder from Hermosillo academy pathway",
+      "2025/26 Clausura: 2 goals, 0 assists, 628 minutes, avg rating 6.69"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public disciplinary record; positive media framing around big-match performances (Clasico Regio braces)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements found on transfer preference or happiness."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Iker_Fimbres",
+    "https://www.fotmob.com/players/1513010/iker-fimbres",
+    "https://www.fifa.com/en/tournaments/mens/u20worldcup/chile-2025/articles/fimbres-mexico-chile-victory",
+    "https://www.si.com/soccer/iker-fimbres-scores-brace-giving-monterrey-victory-over-tigres-in-el-clasico-regio"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, preferred foot, market value (EUR 4.9m) and international record (Mexico U20 + 2026 senior debut) confirmed via Wikipedia/fotmob. 2025/26 stats (628 min, 2 goals) are a partial-season Clausura figure from fotmob; apps/starts not found -> null. Contract length and wage not found in snippets -> null."
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "player_id": "wojciech_monka",
+  "name": "Wojciech Mońka",
+  "age": 19,
+  "date_of_birth": "2007-01-18",
+  "nationality": ["POL"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Lech Poznań",
+  "current_club_league": "Ekstraklasa",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": null,
+  "stats_2025_26": {
+    "competition": "Ekstraklasa",
+    "apps": 31,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["homegrown Poznań-born centre-back", "made Poland U21 debut in 2026", "won back-to-back Ekstraklasa titles with Lech (2024/25, 2025/26) plus 2026/27 Polish Super Cup"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pl"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Wojciech_Mo%C5%84ka",
+    "https://www.fotmob.com/players/1641009/wojciech-monka"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "31 senior Lech Poznań appearances (0 goals) for the title-winning 2024/25-into-2025/26 period is well corroborated; exact single-season split not fully clear from snippets -> apps kept as the cited figure but should be treated as a cumulative recent-seasons count rather than confirmed as strictly 2025/26 only. Height, market value, contract, agent status not found -> null."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "player_id": "niklas_jensen_wassberg",
+  "name": "Niklas Jensen Wassberg",
+  "age": 22,
+  "date_of_birth": "2004-06-12",
+  "nationality": ["NOR"],
+  "position": "CM",
+  "secondary_positions": ["AM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "SK Brann",
+  "current_club_league": "Eliteserien",
+  "contract_until": 2026,
+  "market_value_eur_m": 0.935,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Eliteserien",
+    "apps": null,
+    "starts": null,
+    "minutes": 614,
+    "goals": 0,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "central/attacking midfielder, Brann first-team since Eliteserien debut May 2021 vs Molde",
+      "career total: 49 apps, 6 goals, 4 assists across all competitions to date",
+      "contract expires 31 Dec 2026 - approaching free agency, high transfer leverage",
+      "returned from a long-term knee injury (1 Sept - 29 Nov 2025) in the 2025/26 campaign"
+    ],
+    "best_system": [],
+    "weak_in": ["coming off a roughly 3-month knee injury layoff in late 2025"]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": 4,
+    "discipline": null,
+    "notes": "Returned to first-team action after a knee injury lasting from Sept to Nov 2025; no disciplinary record found."
+  },
+  "injury_history": [
+    {"type": "knee injury", "season": "2025/26", "days_out": 89}
+  ],
+  "off_pitch": {
+    "languages": ["no"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements found on transfer preference or happiness."
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1233201/niklas-jensen-wassberg",
+    "https://www.soccerway.com/player/wassberg-niklas-jensen/QoCTMiwA/",
+    "https://www.premierleague.com/en/players/532069/niklas-jensen-wassberg/overview",
+    "https://www.fmscout.com/player/2000081469/niklas-jensen-wassberg.html"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, contract expiry (31 Dec 2026), market value (~EUR 0.935m per fotmob, range EUR 0.78-0.94m across sources), career totals (49 apps/6 goals/4 assists) and the Sept-Nov 2025 knee injury confirmed via fotmob/Soccerway. 2025/26 partial-season stats (614 min, 0g/1a, 1 yellow) from fotmob; full apps/starts not found -> null. No mainstream Wikipedia entry found."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "player_id": "miguel_terceros",
+  "name": "Miguel Terceros",
+  "age": 22,
+  "date_of_birth": "2004-04-25",
+  "nationality": ["BOL"],
+  "position": "RW",
+  "secondary_positions": ["AM"],
+  "preferred_foot": "left",
+  "height_cm": 177,
+  "current_club": "Santos FC",
+  "current_club_league": "Brasileirão Série A",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Brasileirão Série A",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed right winger/attacking midfielder, nicknamed 'Miguelito'",
+      "born in Santa Cruz de la Sierra, Bolivia; began at Academía Tahuichi aged 5",
+      "Bolivia senior international",
+      "signed for Brazilian club Santos, won Serie B (2024) with them",
+      "cited in Bolivian press coverage among the country's standout young players making an impact abroad"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es", "pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": "Featured in Bolivian-media 'rising talents' coverage (noticiasbo.com) as one of the country's best-known young players developing abroad.",
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements on transfer preference found."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Miguel_Terceros",
+    "https://www.fotmob.com/players/1312459/miguel-terceros",
+    "https://noticiasbo.com/bolivias-rising-talents-young-players-making-waves-at-home-and-abroad/"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Bio (DOB 25 April 2004, left-footed, 177cm, born Santa Cruz de la Sierra, Academía Tahuichi academy, Bolivia senior international, currently at Santos FC (Brazil), won Serie B 2024 with Santos) confirmed via Wikipedia. Detailed 2025/26 statistical output, market value, contract length and transfer-preference statements were not found in available snippets and are left null. Note current club is Brazilian Serie A (Santos), not a Bolivian domestic club - included under the assignment's Bolivia-depth brief as a verified Bolivia-to-South-America-giant pipeline story rather than strict Bolivian-league residency."
+  }
+}

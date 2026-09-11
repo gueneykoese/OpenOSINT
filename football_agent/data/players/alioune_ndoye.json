@@ -1,0 +1,71 @@
+{
+  "player_id": "alioune_ndoye",
+  "name": "Alioune Ndoye",
+  "age": 24,
+  "date_of_birth": "2001-10-05",
+  "nationality": ["SEN"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Vitória SC (Guimarães)",
+  "current_club_league": "Liga Portugal",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": null,
+  "stats_2025_26": {
+    "competition": "Liga Portugal",
+    "apps": 14,
+    "starts": null,
+    "minutes": 953,
+    "goals": 2,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Senegalese forward", "top scorer of the 2025/26 Taça da Liga (3 goals) as Vitória Guimarães won the cup", "signed by Vitória SC in Aug 2025 per club announcement"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alioune_Ndoye",
+    "https://vitoriasc.pt/en/2025/08/04/alioune-ndoye-avanca-para-o-ataque/",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Ta%C3%A7a_da_Liga",
+    "https://www.fotmob.com/players/1190493/alioune-ndoye"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "League goal output modest (2 goals, 1 assist in 14 Liga Portugal apps, 953 minutes for 2025/26) but he was the top scorer of the Taça da Liga cup competition Vitória Guimarães won that season, which is a genuine, sourced achievement. Height, foot, contract length, market value not found -> null."
+  }
+}

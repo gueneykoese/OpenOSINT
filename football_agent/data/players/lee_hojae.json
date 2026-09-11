@@ -1,0 +1,76 @@
+{
+  "player_id": "lee_hojae",
+  "name": "Lee Ho-jae",
+  "age": 25,
+  "date_of_birth": "2000-10-14",
+  "nationality": ["KOR"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 192,
+  "current_club": "SV Darmstadt 98",
+  "current_club_league": "2. Bundesliga",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 0.4,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "K League 1",
+    "apps": null,
+    "starts": null,
+    "minutes": 450,
+    "goals": 2,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "tall target-man centre-forward, 192cm",
+      "career-defining spell at Pohang Steelers 2021-2026: 149 appearances, 43 goals",
+      "coach Park Tae-ha publicly praised his improvement in pressing, link play and hold-up play in 2026",
+      "transferred from Pohang Steelers to SV Darmstadt 98 (German 2. Bundesliga) on 29 July 2026 for a reported EUR 400,000 fee"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": 4,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Pohang coach Park Tae-ha publicly credited him (Starnews interview, May 2026) with visible improvement in pressing, link-up play and hold-up play year-on-year - treated as a public, sourced coachability signal."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ko"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements on transfer preference found."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lee_Ho-jae_(footballer)",
+    "https://www.sv98.de/transfer-news-lee-moves-to-darmstadt/",
+    "https://www.starnewskorea.com/en/sports/2026/05/12/2026051220461794787",
+    "https://www.soccerbase.com/players/player.sd?player_id=153301"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Bio (DOB 14 Oct 2000, 192cm, striker, 149 apps/43 goals at Pohang Steelers 2021-2026) and the 29 July 2026 transfer to SV Darmstadt 98 for a reported EUR 400,000 fee confirmed via Wikipedia and Darmstadt's own club announcement. 2026 K League 1 stats before the move (2 goals, 0 assists, 450 minutes, avg rating 6.55) from a Starnews/fotmob-sourced snippet; apps count for that partial season not specified and left null. current_club reflects the actual move to Darmstadt (2. Bundesliga) rather than Pohang, consistent with the assignment's intent to capture players who moved FROM a covered league TO a European club; note Darmstadt is not one of the five named 2. Bundesliga target clubs (HSV/Düsseldorf/Schalke/Hertha/Karlsruhe) so this profile is best read as South-Korea-to-Europe pipeline evidence rather than a strict 2.Bundesliga-club depth entry."
+  }
+}

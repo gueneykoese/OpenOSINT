@@ -1,0 +1,70 @@
+{
+  "player_id": "michal_kohut",
+  "name": "Michal Kohút",
+  "age": 26,
+  "date_of_birth": "2000-06-04",
+  "nationality": ["CZE"],
+  "position": "CM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 182,
+  "current_club": "Baník Ostrava",
+  "current_club_league": "Czech First League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": null,
+  "stats_2025_26": {
+    "competition": "Czech First League",
+    "apps": 26,
+    "starts": null,
+    "minutes": null,
+    "goals": 3,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["signed multi-year contract with Baník Ostrava, 16 Jan 2025", "previously 115 appearances/7 goals for 1.FC Slovácko (2019-2025)", "Czech youth international (U17-U21)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["cs"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Michal_Koh%C3%BAt",
+    "https://www.sofascore.com/football/player/michal-kohut/878077",
+    "https://fbref.com/en/players/67dd5e20/Michal-Kohut"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "26 apps/3 goals figure is cumulative since joining Baník Ostrava in 2025, not confirmed as a single clean 2025/26 season split -> included as best available approximation. Market value, contract length, agent status, wage not found -> null."
+  }
+}

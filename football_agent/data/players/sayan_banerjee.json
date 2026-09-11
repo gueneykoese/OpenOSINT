@@ -1,0 +1,78 @@
+{
+  "player_id": "sayan_banerjee",
+  "name": "Sayan Banerjee",
+  "age": 23,
+  "date_of_birth": "2003-01-14",
+  "nationality": ["IND"],
+  "position": "RW",
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Mohun Bagan Super Giant",
+  "current_club_league": "Indian Super League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Indian Super League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "winger (also listed as midfielder on some official profiles)",
+      "rose through Kalighat Milan Sangha and the Calcutta Football League before joining East Bengal FC in Jan 2024",
+      "scored 4 goals, 3 assists for East Bengal in 2023 in domestic competition prior to his ISL debut",
+      "played in the 2024 Indian Super Cup final as East Bengal won the title",
+      "made a rare direct Kolkata-derby-rivalry move from East Bengal FC to Mohun Bagan Super Giant in mid-2026, described in Indian football media as a 'shock' transfer",
+      "wears number 84 for Mohun Bagan"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["bn", "en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": "Widely covered in Bengali/Indian football media as one of the most notable young talents to cross the East Bengal-Mohun Bagan rivalry divide in 2026.",
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No first-person public statement found; move itself (rival-to-rival within Kolkata derby clubs) is a notable public-record fact."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sayan_Banerjee",
+    "https://khelnow.com/football/indian-football-sayan-banerjee-east-bengal-to-mohun-bagan-transfer-202606",
+    "https://khelnow.com/football/indian-football-isl-east-bengal-sayan-banerjee-scouting-report-202404",
+    "https://www.indiansuperleague.com/players/midfielder-189580-sayan-banerjee-profile"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Bio (DOB 14 Jan 2003, Indian, winger/midfielder, East Bengal debut Jan 2024, 2024 Indian Super Cup final appearance, no. 84) and the 2026 East Bengal-to-Mohun Bagan transfer confirmed via Wikipedia and Khel Now. Position listed inconsistently across sources (winger per Wikipedia/most recent coverage, midfielder per one ISL.com section) - winger used as primary with CM as secondary. Detailed 2025/26 ISL statistics, transfer fee, and contract length were not found and are left null."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "player_id": "oswaldo_virgen",
+  "name": "Oswaldo Virgen",
+  "age": 21,
+  "date_of_birth": "2005-04-07",
+  "nationality": ["MEX"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Deportivo Toluca",
+  "current_club_league": "Liga MX",
+  "contract_until": null,
+  "market_value_eur_m": 1.2,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga MX",
+    "apps": 10,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Toluca academy graduate, professional debut 16 July 2025",
+      "left-footed forward",
+      "Mexico U20 international: 4 apps at 2025 U-20 World Cup; 5 apps/2 goals at Maurice Revello Tournament",
+      "part of a Toluca squad that has won 6 titles including Apertura 2025/26, Apertura and Clausura 2024/25 Liga MX"
+    ],
+    "best_system": [],
+    "weak_in": ["limited first-team minutes so far (10 apps, 1 goal in 2025/26)"]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public disciplinary or coach-quote record found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements found on transfer preference or happiness."
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1367053/oswaldo-virgen",
+    "https://www.espn.com/soccer/player/_/id/398704/oswaldo-virgen",
+    "https://www.flashscore.com/player/virgen-oswaldo/E3Y1B7J6/",
+    "https://www.aiscore.com/team-mexico-u20/0m2q15io00hm76x/squad"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, preferred foot, market value (EUR 1.2m, though other databases show EUR 0.9-1.0m - range noted) and Mexico U20 record confirmed via fotmob/ESPN/Flashscore snippets. No Wikipedia page found for independent cross-check, hence medium (not high) confidence. 2025/26 Liga MX stats (10 apps, 1 goal) from fotmob; minutes/assists/starts not found -> null. Contract length and wage not found -> null."
+  }
+}

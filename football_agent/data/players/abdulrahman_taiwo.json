@@ -1,0 +1,70 @@
+{
+  "player_id": "abdulrahman_taiwo",
+  "name": "Abdulrahman Taiwo",
+  "age": 27,
+  "date_of_birth": "1998-08-05",
+  "nationality": ["NGA"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 185,
+  "current_club": "Spartak Trnava",
+  "current_club_league": "Niké Liga (Slovak First Football League)",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Niké Liga",
+    "apps": null,
+    "starts": null,
+    "minutes": 912,
+    "goals": 6,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Nigerian forward", "prolific loan spell scoring 19 goals in 27 matches for Sønderjyske (2022/23)", "has bounced between loans (incl. Riga FC) and Spartak Trnava"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Abdulrahman_Taiwo",
+    "https://balticfootballnews.com/riga-fcs-taiwo-returns-to-spartak-trnava-on-loan/",
+    "https://sportsration.com/abdulrahman-taiwo-opens-dun-streda-account-in-loss-to-trnava/"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Career has involved multiple loan moves (Sønderjyske, Riga FC, DAC Dunajská Streda per one headline about him scoring for that club, then 'returning' to Trnava on loan) -> exact 2025/26 club/competition status carries some uncertainty even though the season stat line (6 goals, 1 assist, 912 minutes) is explicitly tagged to Spartak Trnava's 2025/26 Niké Liga campaign by FotMob-derived data. Apps, contract, market value, agent status not found -> null."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "player_id": "santiago_sandoval",
+  "name": "Santiago Sandoval",
+  "age": 19,
+  "date_of_birth": "2007-08-07",
+  "nationality": ["MEX"],
+  "position": "AM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Chivas Guadalajara",
+  "current_club_league": "Liga MX",
+  "contract_until": null,
+  "market_value_eur_m": 2.7,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga MX",
+    "apps": 16,
+    "starts": 5,
+    "minutes": 599,
+    "goals": 4,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Chivas academy attacking midfielder, homegrown talent",
+      "Mexico U20 international, won 2026 CONCACAF U20 Championship",
+      "scored a brace in 3 minutes vs Tigres UANL in Clausura 2026 quarter-final (9 May 2026)",
+      "regarded as one of Mexico's brightest young creative players"
+    ],
+    "best_system": [],
+    "weak_in": ["still primarily a substitute/rotation option: only 5 starts in 16 Clausura 2026 apps"]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public disciplinary or coach-quote record found; media coverage (Yahoo Sports, OneFootball) frames him as a positive 'difference-maker' for Chivas."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements found on transfer preference or happiness."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Santiago_Sandoval_(footballer)",
+    "https://www.fotmob.com/players/1786010/santiago-sandoval",
+    "https://khelnow.com/football/who-is-santiago-sandoval-chivas-youngster-202608",
+    "https://sports.yahoo.com/articles/santiago-sandoval-difference-maker-chivas-234400475.html"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB and Clausura 2026 stats (16 apps/5 starts/599 min/4 goals/1 assist) confirmed via Wikipedia. Market value (EUR 2.7m) as of July 2026 per Wikipedia. Note: Chivas as a Mexican club fields only Mexican-eligible players by club policy, consistent with his listed nationality. Contract length and wage not found in snippets -> null."
+  }
+}

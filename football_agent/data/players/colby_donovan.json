@@ -1,0 +1,76 @@
+{
+  "player_id": "colby_donovan",
+  "name": "Colby Donovan",
+  "age": 19,
+  "date_of_birth": "2006-09-07",
+  "nationality": ["SCO"],
+  "position": "RB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Celtic FC",
+  "current_club_league": "Scottish Premiership",
+  "contract_until": null,
+  "market_value_eur_m": 1.4,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Scottish Premiership",
+    "apps": 14,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Celtic academy right-back, signed first pro contract summer 2022",
+      "Scotland U21 and U19 international",
+      "part of Celtic squads that won the Premiership in 2024-25 and 2025-26, and the League Cup in 2024-25",
+      "16 total league apps for Celtic across two seasons, 14 of them in 2025-26"
+    ],
+    "best_system": [],
+    "weak_in": ["still a squad/rotation player rather than an established starter"]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public disciplinary or coach-quote record found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements found on transfer preference or happiness."
+  },
+  "sources": [
+    "https://www.fotmob.com/en-GB/players/1663615/colby-donovan",
+    "https://www.footballtransfers.com/en/players/c-donovan",
+    "https://www.celticfc.com/players/colby-donovan/",
+    "https://www.flashscore.com/player/donovan-colby/bcFkCYyD/"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, Scotland U21/U19 caps, and trophy history (Premiership 2024-25/2025-26, League Cup 2024-25) confirmed via fotmob/footballtransfers.com. Market value estimates ranged EUR 0.9-1.4m across sources (Transfermarkt equivalent cited as ~GBP 1.5m); higher figure entered. Goals/assists and minutes not found in snippets -> null. No mainstream Wikipedia page found."
+  }
+}

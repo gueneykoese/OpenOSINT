@@ -1,0 +1,69 @@
+{
+  "player_id": "diogo_sousa",
+  "name": "Diogo Sousa",
+  "age": 20,
+  "date_of_birth": "2006-01-20",
+  "nationality": ["POR"],
+  "position": "CM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Vitória SC (Guimarães)",
+  "current_club_league": "Liga Portugal",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": null,
+  "stats_2025_26": {
+    "competition": "Liga Portugal",
+    "apps": null,
+    "starts": 5,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["young Vitória Guimarães academy midfielder breaking into first-team rotation in 2025/26"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://tribuna.com/en/clubs/vitoria-guimaraes/squad/stat/2025-2026/",
+    "https://www.espn.com/soccer/team/squad/_/id/5309/guimaraes"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Very early-career data point: 5 starts and 1 goal in 2025/26 per an aggregator stats page, no full apps/minutes breakdown or independent Wikipedia confirmation found -> treated as a lower-certainty prospect entry. Height, foot, contract, market value all unverified -> null."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "player_id": "bo_hegland",
+  "name": "Bo Åsulv Hegland",
+  "age": 22,
+  "date_of_birth": null,
+  "nationality": ["NOR"],
+  "position": "AM",
+  "secondary_positions": ["ST"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Djurgårdens IF",
+  "current_club_league": "Allsvenskan",
+  "contract_until": 2029,
+  "market_value_eur_m": 0.783,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Allsvenskan",
+    "apps": null,
+    "starts": null,
+    "minutes": 1693,
+    "goals": 7,
+    "assists": 13,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "transferred from Moss (Norway) to Djurgården for EUR 850k, 8 July 2025",
+      "previously at Frigg (Norway)",
+      "2026 Allsvenskan: 7 goals, 13 assists in 1,693 minutes - strong creative output relative to market value",
+      "emerged as one of Djurgården's penalty takers in 2026 pre-season",
+      "attacking midfielder / second striker"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public disciplinary or coach-quote record found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["no"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements found on transfer preference or happiness."
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1280260/bo-asulv-hegland",
+    "https://www.footballtransfers.com/en/players/bo-asulv-hegland/transfer-history",
+    "https://www.soccerzz.com/player/bo-asulv-hegland/981284",
+    "https://www.flashscore.com/player/hegland-bo-asluv/t89jeOGq/"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Age (22) and nationality (Norway) confirmed via fotmob; exact date of birth not found in snippets -> null. Transfer history (Moss to Djurgarden, EUR 850k, 8 July 2025) and prior Frigg spell confirmed via footballtransfers.com. 2026 Allsvenskan production (7 goals, 13 assists, 1693 minutes - a notably high assist tally) from fotmob; apps/starts not broken out -> null. Market value EUR 0.783m per fotmob vs an ETV range of EUR 0.8-1.2m noted on the same page - the goals/assists output looks materially ahead of that valuation, worth flagging as a possible undervalued target if the stat line holds up on further verification. Contract through Dec 2029 per fotmob."
+  }
+}

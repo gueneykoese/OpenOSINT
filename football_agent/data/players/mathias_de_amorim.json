@@ -1,0 +1,71 @@
+{
+  "player_id": "mathias_de_amorim",
+  "name": "Mathias De Amorim",
+  "age": 21,
+  "date_of_birth": "2004-10-12",
+  "nationality": ["POR", "FRA"],
+  "position": "CM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "FC Famalicão",
+  "current_club_league": "Liga Portugal",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": null,
+  "stats_2025_26": {
+    "competition": "Liga Portugal",
+    "apps": null,
+    "starts": null,
+    "minutes": 347,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["dual Portuguese-French central midfielder", "signed a four-year contract with Famalicão on 4 August 2025", "profiled by portugoal.net as 'an investment paying off' with growing influence"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt", "fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fcfamalicao.pt/en/mathias-de-amorim-assina-ate-2028/",
+    "https://portugoal.net/on-the-rise/5024-an-investment-paying-off-mathias-de-amorims-growing-influence-at-famalicao",
+    "https://en.wikipedia.org/wiki/Mathias_De_Amorim",
+    "https://www.fotmob.com/players/1527142/mathias-de-amorim"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract to 2028 confirmed directly by Famalicão's own club announcement. 2025/26 stat line (347 minutes, 0 goals, 0 assists) suggests limited playing time so far despite the positive 'investment paying off' framing in the portugoal.net feature -> both facts kept, not reconciled/spun. Apps, starts, market value, height, foot not found -> null."
+  }
+}

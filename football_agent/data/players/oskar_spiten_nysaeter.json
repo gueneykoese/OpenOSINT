@@ -1,0 +1,76 @@
+{
+  "player_id": "oskar_spiten_nysaeter",
+  "name": "Oskar Spiten-Nysæter",
+  "age": 19,
+  "date_of_birth": "2007-08-29",
+  "nationality": ["NOR"],
+  "position": "ST",
+  "secondary_positions": ["LW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Molde FK",
+  "current_club_league": "Eliteserien",
+  "contract_until": 2031,
+  "market_value_eur_m": 4.3,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Eliteserien",
+    "apps": 27,
+    "starts": null,
+    "minutes": 613,
+    "goals": 7,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "signed by Molde from Stabaek July 2025 for NOK 25-30m (~EUR 2.3m), the most expensive transfer between two Norwegian clubs at the time",
+      "extended Molde contract to end of 2031 season in June 2026",
+      "forward/left winger",
+      "27 apps, 7 goals for Molde"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public disciplinary or coach-quote record found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["no"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": "content",
+    "happiness_notes": "Extended his Molde contract to the end of the 2031 season in June 2026, shortly after joining in a record domestic transfer - a strong signal of settled commitment to the club rather than seeking an immediate move.",
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Oskar_Spiten-Nys%C3%A6ter",
+    "https://www.fotmob.com/players/1452620",
+    "https://www.footballtransfers.com/en/players/oskar-spitennysaeter",
+    "https://www.espn.com/soccer/player/_/id/360409/oskar-spiten-nys%C3%A6ter"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, transfer history (Stabaek to Molde, record domestic fee) and June 2026 contract extension to 2031 confirmed via Wikipedia. Market value EUR 4.3m per fotmob though footballtransfers.com ETV was higher (EUR 5.1-6.9m) - range noted. The 27 apps/7 goals figure (Wikipedia) and the 613-minute/2-goal/1-assist figure (fotmob, same 2026 season) appear to be from different snapshot dates within the same season; both are reported (apps/goals from Wikipedia as the fuller-season figure, minutes/assists from fotmob) rather than silently reconciled - treat as approximate."
+  }
+}

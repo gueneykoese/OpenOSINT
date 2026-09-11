@@ -1,0 +1,70 @@
+{
+  "player_id": "mateusz_szczepaniak",
+  "name": "Mateusz Szczepaniak",
+  "age": 19,
+  "date_of_birth": "2007-01-05",
+  "nationality": ["POL"],
+  "position": "CM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 179,
+  "current_club": "Legia Warsaw",
+  "current_club_league": "Ekstraklasa",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": null,
+  "stats_2025_26": {
+    "competition": "loan at Pogoń Grodzisk Mazowiecki (lower division)",
+    "apps": 32,
+    "starts": null,
+    "minutes": null,
+    "goals": 7,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Legia Warsaw academy midfielder", "Poland youth international (U15-U19)", "development loan to Pogoń Grodzisk Mazowiecki 2025/26 (32 apps, 7 goals)", "7 senior Legia Warsaw apps to date"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pl"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mateusz_Szczepaniak_(footballer,_born_2007)",
+    "https://www.espn.com/soccer/player/_/id/156422/mateusz-szczepaniak",
+    "https://www.sofascore.com/football/player/szczepaniak-mateusz/1548949"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Legia Warsaw registered player but spent 2025/26 on a development loan at lower-division Pogoń Grodzisk Mazowiecki (32 apps, 7 goals there vs only 7 senior Legia apps career-to-date, 0 goals) -> stats_2025_26 reflects the loan spell, not top-flight Ekstraklasa football, and is explicitly labeled as such in the competition field. Whether he returned to Legia's first team for 2026/27 is unconfirmed -> current_club kept as Legia Warsaw (his contracted parent club) with this caveat. Market value, contract length, agent status, availability all unverified -> null."
+  }
+}

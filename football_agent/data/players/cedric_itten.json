@@ -1,0 +1,76 @@
+{
+  "player_id": "cedric_itten",
+  "name": "Cedric Itten",
+  "age": 29,
+  "date_of_birth": "1996-12-27",
+  "nationality": ["SUI"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "SV Werder Bremen",
+  "current_club_league": "Bundesliga",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "2. Bundesliga",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 15,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "target-man striker, Switzerland international",
+      "scored 15 league goals for Fortuna Düsseldorf in 2025/26 despite the club being relegated from 2. Bundesliga",
+      "transferred to SV Werder Bremen (Bundesliga) in June 2026",
+      "described by Get German Football News as '(29) relishing long-awaited second Bundesliga chance' at Werder"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": 4,
+    "discipline": null,
+    "notes": "Public coverage (Get German Football News, 2026) frames his Werder Bremen move as a 'long-awaited second Bundesliga chance' after a career mostly spent below the top flight - treated as a public-record resilience/perseverance signal, not a formal rating."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["de", "fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements on transfer preference found."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cedric_Itten",
+    "https://www.werder.de/en/news/first-team/2026-2027/itten-transfer-21062026",
+    "https://www.getfootballnewsgermany.com/2026/cedric-itten-bremen/",
+    "https://bluewin.ch/en/sport/football/cedric-itten-is-on-fire-at-fortuna-duesseldorf-2837828.html"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Bio (DOB 27 Dec 1996, Swiss international striker) and the June 2026 transfer from Fortuna Düsseldorf to SV Werder Bremen confirmed via Wikipedia and Werder's own transfer announcement. 15-league-goal tally for 2025/26 at Fortuna Düsseldorf (a season that still ended in relegation) corroborated by Get German Football News and Bluewin. current_club reflects the post-move destination (Werder Bremen, Bundesliga) rather than Fortuna Düsseldorf itself, consistent with the assignment's note that players who moved FROM a target club are fair game; Werder Bremen is not one of the 36 excluded UCL pilot clubs. Apps/assists/market value/fee not found and left null."
+  }
+}

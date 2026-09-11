@@ -1,0 +1,73 @@
+{
+  "player_id": "frankarlos_benitez",
+  "name": "Frankarlos Benítez",
+  "age": 22,
+  "date_of_birth": null,
+  "nationality": ["VEN"],
+  "position": "GK",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Caracas FC",
+  "current_club_league": "Venezuelan Primera División",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Venezuelan Primera División",
+    "apps": 22,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "goalkeeper",
+      "made first-team debut for Caracas FC in 2023",
+      "established as Caracas' regular no.1 through 2025 (10 Apertura + 12 Clausura apps that season) and started the 2026 campaign as first-choice keeper",
+      "profiled by World Football Index as 'one of the hottest talents coming out of South America' and a likely future Venezuela national-team first choice"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": "Subject of a dedicated scouting-report feature (World Football Index, May 2026) highlighting him as a breakout South American goalkeeping prospect.",
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements on transfer preference found."
+  },
+  "sources": [
+    "https://worldfootballindex.com/2026/05/frankarlos-benitez-a-scouting-report-of-venezuelas-rising-goalkeeper/"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "All information (age ~22, Venezuelan, Caracas FC goalkeeper since 2023 debut, 10+12 apps across 2025 Apertura/Clausura, first-choice in 2026) comes from a single dedicated scouting-report source (World Football Index) with no independent corroboration found in this search pass (no Wikipedia or major stats-site profile located). Exact date of birth not found and left null; age is the source's stated figure. No market value, contract, or transfer-preference data found. Confidence kept low pending a second independent source."
+  }
+}

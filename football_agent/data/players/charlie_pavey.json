@@ -1,0 +1,76 @@
+{
+  "player_id": "charlie_pavey",
+  "name": "Charlie Pavey",
+  "age": 18,
+  "date_of_birth": "2008-06-07",
+  "nationality": ["SWE"],
+  "position": "RB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "AIK",
+  "current_club_league": "Allsvenskan",
+  "contract_until": 2027,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Allsvenskan",
+    "apps": null,
+    "starts": null,
+    "minutes": 144,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "reportedly turned down offers from foreign clubs including PSV Eindhoven to sign his first senior contract with AIK (7 Jan 2025)",
+      "Sweden U17 international (21 caps, 2 goals) and U19 international (10 caps, 1 goal)",
+      "right-back, from Solna, Sweden (AIK's home area)",
+      "still very limited senior minutes so far (144 minutes in 2026 Allsvenskan)"
+    ],
+    "best_system": [],
+    "weak_in": ["minimal first-team sample size to date"]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public disciplinary record; the decision to reject foreign offers for AIK suggests strong club loyalty/identity at a young age."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["sv"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": "content",
+    "happiness_notes": "Publicly reported to have turned down offers from several foreign clubs, including PSV Eindhoven, to commit his future to AIK by signing his first senior contract in January 2025.",
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Charlie_Pavey",
+    "https://www.fotmob.com/players/1711401",
+    "https://www.hudl.com/blog/three-talents-scandinavia-2026",
+    "https://www.espn.com/soccer/player/_/id/353460/charlie-pavey"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, contract (through 31 Dec 2027), Sweden youth caps, and the PSV Eindhoven-rejection story confirmed via Wikipedia and a Hudl scouting blog naming him as one of '3 Scandinavian talents to watch in 2026'. 2026 stats (144 minutes, 0g/0a, 1 yellow card) from fotmob; apps/starts not found separately -> null. Market value and wage not found -> null."
+  }
+}

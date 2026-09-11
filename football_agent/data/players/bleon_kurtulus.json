@@ -1,0 +1,76 @@
+{
+  "player_id": "bleon_kurtulus",
+  "name": "Bleon Kurtulus",
+  "age": 19,
+  "date_of_birth": "2007-06-24",
+  "nationality": ["SWE"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Malmö FF",
+  "current_club_league": "Allsvenskan",
+  "contract_until": 2030,
+  "market_value_eur_m": 1.9,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Allsvenskan",
+    "apps": 11,
+    "starts": null,
+    "minutes": 379,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Sweden youth international across U17, U18, U19 and U21 levels",
+      "moved from Halmstad to Malmö FF in 2026",
+      "right-footed centre-back",
+      "3 yellow cards in 379 minutes in the 2026 Allsvenskan season - relatively high card rate for limited minutes"
+    ],
+    "best_system": [],
+    "weak_in": ["small early-career sample size at top-flight level"]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": 3,
+    "notes": "3 yellow cards in only 379 minutes played in 2026 is a notably high rate; no further public detail on incidents found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["sv"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements found on transfer preference or happiness."
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1623779/bleon-kurtulus",
+    "https://www.espn.com/soccer/player/_/id/381647/bleon-kurtulus",
+    "https://www.footballtransfers.com/en/players/bleon-kurtulus",
+    "https://www.sofascore.com/football/player/kurtulus-bleon/1548897"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, nationality, Sweden youth caps, Halmstad-to-Malmo transfer (2026) and contract through Dec 2030 confirmed via fotmob/ESPN. Market value estimates varied across sources (EUR 1.5m-3.0m); EUR 1.9m (fotmob) entered as a representative mid-range figure, with the range noted here. 2026 Allsvenskan stats (11 apps, 379 min, 0g/0a, 3 yellow cards) from fotmob; starts not found -> null."
+  }
+}

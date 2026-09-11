@@ -1,0 +1,71 @@
+{
+  "player_id": "kevin_rodriguez",
+  "name": "Kevin Rodríguez",
+  "age": 26,
+  "date_of_birth": "2000-03-04",
+  "nationality": ["ECU"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 190,
+  "current_club": "Royale Union Saint-Gilloise",
+  "current_club_league": "Belgian Pro League",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Belgian Pro League",
+    "apps": null,
+    "starts": null,
+    "minutes": 1825,
+    "goals": 10,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Ecuadorian international forward", "signed for Union SG from Independiente del Valle in Sept 2023 for EUR 4.5m plus add-ons", "contract renewed until 2029", "won 2 Belgian Cups, 1 Pro League title, 1 Super Cup with Union SG", "named to Ecuador's 2026 World Cup squad"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": "content",
+    "happiness_notes": "Renewed his contract with Union Saint-Gilloise until 2029 (club announcement), a strong public signal of stability rather than a stated intent to leave.",
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kevin_Rodr%C3%ADguez_(footballer,_born_2000)",
+    "https://rusg.brussels/en/news/union-secures-striker-kevin-rodriguez",
+    "https://ground.news/article/official-union-saint-gilloise-extends-one-of-its-best-scorers-until-2029",
+    "https://sports.yahoo.com/article/world-cup-bound-kevin-rodriguez-155700639.html"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract-until-2029 and World Cup squad selection are well corroborated by club/news sources. Total appearances for 2025/26 not explicitly stated (only minutes, goals, assists given) -> apps left null rather than estimated. Market value, wage not found -> null. availability set to 'not for sale' as an inference from the fresh long-term contract, not an explicit club statement -> should be treated as a reasoned inference, not fact."
+  }
+}

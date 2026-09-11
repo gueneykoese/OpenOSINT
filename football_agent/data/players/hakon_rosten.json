@@ -1,0 +1,75 @@
+{
+  "player_id": "hakon_rosten",
+  "name": "Håkon Røsten",
+  "age": 21,
+  "date_of_birth": "2005-02-21",
+  "nationality": ["NOR"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Rosenborg BK",
+  "current_club_league": "Eliteserien",
+  "contract_until": 2027,
+  "market_value_eur_m": 0.517,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Eliteserien",
+    "apps": null,
+    "starts": null,
+    "minutes": 270,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed centre-back, unusual profile in a right-footed-heavy position group",
+      "Norway youth international across U17-U20 levels",
+      "Rosenborg first-team regular"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public disciplinary or coach-quote record found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["no"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements found on transfer preference or happiness."
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1310473/hakon-rosten",
+    "https://www.sofascore.com/football/player/hakon-rosten/1162162",
+    "https://fbref.com/en/players/467ac9d0/Hakon-Rosten",
+    "https://www.footballcritic.com/hkon-rosten/career-stats/483579"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "DOB, preferred foot, Norway youth caps and contract expiry (31 Dec 2027) confirmed via fotmob/Sofascore. No Wikipedia entry found; two sources gave slightly different market values (EUR 517k vs EUR 369k) - the higher figure entered, discrepancy noted. 2026 stats (270 minutes, 0g/0a) are a partial-season sample from fotmob; apps/starts not found -> null. Confidence kept low given the absence of an independent encyclopedic source."
+  }
+}

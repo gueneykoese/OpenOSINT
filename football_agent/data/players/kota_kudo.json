@@ -1,0 +1,74 @@
+{
+  "player_id": "kota_kudo",
+  "name": "Kōta Kudō",
+  "age": 22,
+  "date_of_birth": "2003-08-13",
+  "nationality": ["JPN"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 180,
+  "current_club": "Urawa Red Diamonds",
+  "current_club_league": "J1 League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "J1 League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "centre-back, 180cm/77kg",
+      "Japan U16 (2019) and U21 (2022) youth international",
+      "developed on loan at Fagiano Okayama before an official Urawa Reds-announced return for the 2026/27 season"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ja"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements on transfer preference found."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/K%C5%8Dta_Kud%C5%8D",
+    "https://www.urawa-reds.co.jp/en/topteamtopics/242725/",
+    "https://www.premierleague.com/en/players/535653/kota-kudo/overview"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Bio (DOB 13 Aug 2003, 180cm/77kg centre-back, Japan U16/U21 youth caps) and the developmental-loan-to-Fagiano-Okayama-then-return-to-Urawa-Reds-for-2026/27 career path confirmed via Wikipedia and Urawa Reds' own official announcement. No 2025/26 statistical output, market value, contract length, or transfer-preference data found and left null."
+  }
+}

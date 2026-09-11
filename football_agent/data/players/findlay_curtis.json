@@ -1,0 +1,77 @@
+{
+  "player_id": "findlay_curtis",
+  "name": "Findlay Curtis",
+  "age": 20,
+  "date_of_birth": "2006-06-09",
+  "nationality": ["SCO"],
+  "position": "CM",
+  "secondary_positions": ["AM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Rangers FC",
+  "current_club_league": "Scottish Premiership",
+  "contract_until": null,
+  "market_value_eur_m": 1.1,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "Scottish Premiership / Kilmarnock loan",
+    "apps": 13,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "became Scotland's youngest-ever World Cup player, breaking Ben Doak's record, coming on vs Haiti in a 1-0 win at the 2026 World Cup",
+      "made Scotland senior debut March 2026",
+      "loaned to Kilmarnock in 2025, helped them avoid relegation with 5 goals in 14 apps",
+      "13 Rangers apps (1 goal) plus 14 Kilmarnock loan apps (5 goals) across his breakout period",
+      "central/attacking midfielder"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Rapid rise from loan spell to full Scotland World Cup squad within roughly a year - no disciplinary record found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements found on transfer preference or happiness."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Findlay_Curtis",
+    "https://www.rangers.co.uk/article/findlay-curtis-becomes-scotlands-youngest-world-cup-player/78FozP2ZBDf5QJDe5r336I",
+    "https://www.skysports.com/football/news/12017/13545649/world-cup-2026-steve-clarke-names-craig-gordon-findlay-curtis-ross-stewart-in-scotlands-26-man-squad",
+    "https://www.fotmob.com/players/1558461/findlay-curtis"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, World Cup 2026 record (youngest-ever Scotland WC player, appearing vs Haiti), and Kilmarnock loan record (5 goals in 14 apps) confirmed via Wikipedia/Rangers.co.uk/Sky Sports. Market value EUR 1.1m per fotmob. Stats field combines Rangers (13 apps, 1 goal) and Kilmarnock loan (14 apps, 5 goals) career figures per Wikipedia since a single combined 2025/26 season total was not found in snippets - competition field notes this split. Contract length and wage not found -> null. Loan status as of search date unclear (may have returned to Rangers after World Cup) -> availability set to 'loan possible' as a conservative default."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "player_id": "nathan_mbala",
+  "name": "Nathan Mbala",
+  "age": 18,
+  "date_of_birth": "2008-02-19",
+  "nationality": ["FRA"],
+  "position": "ST",
+  "secondary_positions": ["LW"],
+  "preferred_foot": "right",
+  "height_cm": 179,
+  "current_club": "FC Metz",
+  "current_club_league": "Ligue 2",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": null,
+  "stats_2025_26": {
+    "competition": "Ligue 1 (with Metz, prior to their 2026/27 relegation to Ligue 2)",
+    "apps": 14,
+    "starts": null,
+    "minutes": null,
+    "goals": 2,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Metz academy forward since U13 (joined 2020)", "born Kinshasa, DR Congo, moved to France age 4", "father Biscotte Mbala is a DR Congo international", "featured in a Ligue1.com 'One to watch: Metz's latest wonderkid' profile"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr"],
+    "family_situation": "Father Biscotte Mbala is a former DR Congo international footballer (public record).",
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nathan_Mbala",
+    "https://ligue1.com/en/articles/l1_article_4592-one-to-watch-nathan-mbala-metz-s-latest-wonderkid",
+    "https://ligue1.com/en/player-sheet/l1_championship_player_2025_8_505563/profile",
+    "https://www.sofascore.com/football/player/nathan-mbala/2195736"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Stats (14 apps, 2 goals, 2 assists) are from the 2025/26 Ligue 1 season when Metz still played in the top flight; Metz was subsequently relegated to Ligue 2 for 2026/27 per the 2026-27 Ligue 2 Wikipedia page, so his current_club_league is set to Ligue 2 to reflect the season this profile targets, while the stat line itself is explicitly labeled as the prior Ligue 1 campaign. Nationality listed as French per Wikipedia (naturalised/raised in France since age 4) even though born in DR Congo and son of a DRC international -> flagged in off_pitch notes. Contract, agent status, availability, market value not found -> null."
+  }
+}

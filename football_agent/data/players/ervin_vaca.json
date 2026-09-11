@@ -1,0 +1,76 @@
+{
+  "player_id": "ervin_vaca",
+  "name": "Ervin Vaca",
+  "age": 22,
+  "date_of_birth": "2004-03-18",
+  "nationality": ["BOL"],
+  "position": "CM",
+  "secondary_positions": ["DM"],
+  "preferred_foot": "left",
+  "height_cm": 176,
+  "current_club": "Club Bolívar",
+  "current_club_league": "Bolivian Primera División",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Bolivian Primera División",
+    "apps": 54,
+    "starts": null,
+    "minutes": null,
+    "goals": 4,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed central midfielder",
+      "started career at lower-league Bolivian side Calleja",
+      "signed for Chilean top-flight club Colo-Colo in 2022 before returning to Bolivia with Bolívar in 2023",
+      "10 caps, 1 goal for Bolivia; first called up for 2026 World Cup qualifiers vs Brazil/Argentina in Sept 2023, debut vs Chile 10 Sept 2024",
+      "wears number 33 for Bolívar; 54 apps, 4 goals across his time there (cumulative, not single-season)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements on transfer preference found."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ervin_Vaca",
+    "https://www.espn.com/soccer/player/_/id/330666/ervin-vaca",
+    "https://scoutingstats.ai/player/ervin-vaca-moreno-37605472/"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Bio and career path (DOB 18 March 2004, left-footed, 176cm, Calleja -> Colo-Colo 2022 -> Bolívar 2023, Bolivia caps/debut dates) confirmed via Wikipedia/ESPN. The '54 apps, 4 goals' figure is presented in the ESPN snippet as his cumulative Bolívar tenure total rather than a single 2025/26-season figure, and is recorded as such in stats_2025_26.apps/goals with that caveat; a season-specific breakdown was not available. No market value, contract length, or transfer-preference statement found."
+  }
+}
