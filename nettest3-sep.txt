@@ -1,0 +1,11 @@
+www.devletarsivleri.gov.tr 200
+katalog.gov.tr 000
+dergipark.org.tr 301
+commons.wikimedia.org 301
+upload.wikimedia.org 301
+www.hurriyet.com.tr 200
+dedektifdergi.com 200
+www.fikriyat.com 200
+belleten.gov.tr 200
+islamansiklopedisi.org.tr 200
+WebFetch https://dergipark.org.tr/tr/pub/historystudies/article/1464216: başarılı
