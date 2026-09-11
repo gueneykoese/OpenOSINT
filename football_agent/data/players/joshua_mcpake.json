@@ -1,0 +1,76 @@
+{
+  "player_id": "joshua_mcpake",
+  "name": "Joshua McPake",
+  "age": 25,
+  "date_of_birth": "2001-08-31",
+  "nationality": ["SCO"],
+  "position": "LW",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Heart of Midlothian",
+  "current_club_league": "Scottish Premiership",
+  "contract_until": null,
+  "market_value_eur_m": 0.313,
+  "estimated_fee_eur_m": 0,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Scottish Premiership",
+    "apps": null,
+    "starts": null,
+    "minutes": 253,
+    "goals": 2,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "joined Hearts from St Johnstone on a free transfer in 2026",
+      "prolific final St Johnstone season: 16 goals in 33 league games in 2025-26 as St Johnstone won the Championship",
+      "right-footed left winger",
+      "immediate early impact at Hearts: 2 goals, 2 assists in 253 minutes, FotMob avg rating 8.36 (season high among Hearts players per one source)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public disciplinary or coach-quote record found; strong early standout performances at Hearts per media coverage."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements found on transfer preference or happiness."
+  },
+  "sources": [
+    "https://www.fotmob.com/en-GB/players/1071400/joshua-mcpake",
+    "https://www.footballtransfers.com/en/players/josh-mcpake",
+    "https://www.sofascore.com/football/player/josh-mcpake/989120",
+    "https://www.soccerbase.com/players/player.sd?player_id=114877"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, preferred foot, free transfer from St Johnstone to Hearts in 2026, and prior St Johnstone goal-scoring record (16 goals in 33 games, Championship winners 2025/26) confirmed via fotmob/footballtransfers.com. 2026/27 Hearts stats (253 min, 2g/2a, 8.36 avg rating) from fotmob snippet, described there as the club's standout league rating so far this season; full apps/starts not found -> null. Market value EUR 0.313m per fotmob (GBP ~425k per Transfermarkt-derived estimate)."
+  }
+}

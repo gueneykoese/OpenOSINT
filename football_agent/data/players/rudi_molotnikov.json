@@ -1,0 +1,75 @@
+{
+  "player_id": "rudi_molotnikov",
+  "name": "Rudi Molotnikov",
+  "age": 20,
+  "date_of_birth": "2006-05-23",
+  "nationality": ["SCO"],
+  "position": "CM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Hibernian FC",
+  "current_club_league": "Scottish Premiership",
+  "contract_until": 2029,
+  "market_value_eur_m": 0.588,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Scottish Premiership",
+    "apps": 4,
+    "starts": null,
+    "minutes": 58,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Scotland youth international across U17, U19 and U21 levels",
+      "Hibernian midfielder on a long contract through May 2029",
+      "still very early in first-team career (4 apps, 58 minutes in 2025/26)"
+    ],
+    "best_system": [],
+    "weak_in": ["minimal senior minutes to date - largely unproven at first-team level"]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public disciplinary or coach-quote record found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements found on transfer preference or happiness."
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1418923/rudi-allan-molotnikov",
+    "https://www.footballtransfers.com/en/players/rudi-molotnikov",
+    "https://www.espn.co.uk/football/player/_/id/347068/rudi-molotnikov",
+    "https://theanalyst.com/players/15274/rudi-molotnikov"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "DOB, Scotland youth caps, and contract (through 31 May 2029) confirmed via fotmob/footballtransfers.com. Market value estimates varied widely across sources (EUR 363k-700k); EUR 588k (fotmob) entered as a mid-range figure. Very small sample size (4 apps, 58 minutes) means the stats line is not very informative - flagged as low confidence overall given limited first-team track record and no independent Wikipedia biography found."
+  }
+}

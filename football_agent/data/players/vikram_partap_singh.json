@@ -1,0 +1,82 @@
+{
+  "player_id": "vikram_partap_singh",
+  "name": "Vikram Partap Singh",
+  "age": 24,
+  "date_of_birth": "2002-01-16",
+  "nationality": ["IND"],
+  "position": "ST",
+  "secondary_positions": ["RW", "LW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Mumbai City FC",
+  "current_club_league": "Indian Super League",
+  "contract_until": 2026,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Indian Super League",
+    "apps": 13,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "forward, primarily used as a winger but capable as an out-and-out striker",
+      "full name Vikram Partap Singh Sandhu",
+      "won Emerging Player of the League and scored 8 goals (3rd-highest scorer) in Mumbai City's ISL Cup-winning 2023-24 season",
+      "19 career goals for Mumbai City FC as of his profile check",
+      "India senior international: 14 caps, 1 goal",
+      "publicly stated an ambition to be the ISL's top scorer and Golden Boot winner (Football Counter interview, 2024)",
+      "signed a contract extension with Mumbai City FC through 2026"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": 4,
+    "discipline": null,
+    "notes": "An ISL.com feature specifically frames him as 'battling setbacks' to deliver for Mumbai City FC - used as a public-record resilience indicator, not a formal rating."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en", "hi", "pa"],
+    "family_situation": null,
+    "public_statements": [
+      "'I want to be the top-scorer and win the Golden Boot in the ISL' - Vikram Partap Singh, quoted by Football Counter (2024)."
+    ],
+    "commercial_profile": "Red Bull athlete profile page exists for him, indicating a sponsorship/commercial relationship with Red Bull.",
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "The quoted ambition is about personal achievement (Golden Boot) rather than a club-preference statement, so not logged as happiness_status/preferred_clubs."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Vikram_Partap_Singh",
+    "https://www.espn.com/soccer/player/_/id/282523/vikram-partap-singh",
+    "https://www.footballcounter.com/2024/i-want-to-be-the-top-scorer-and-win-the-golden-boot-in-the-isl-says-mumbai-city-fcs-vikram-partap-singh/",
+    "https://www.mumbaicityfc.com/news/vikram-partap-singh-signs-extension-with-mumbai-city-fc-until-2026",
+    "https://www.redbull.com/us-en/athlete/vikram-partap-singh"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Bio (DOB 16 Jan 2002, Indian forward, 2023-24 ISL Cup winner with Mumbai City [8 goals, Emerging Player of the League], 19 career club goals, 14 India caps/1 goal) confirmed via Wikipedia/ESPN/ISL.com. 2025/26 season snapshot (13 apps, 1 goal) from a Sofascore-derived squad-scoring table - may be a partial-season figure. contract_until (2026) reflects a club-announced extension 'until 2026' which may mean end of the 2026-27 season under Indian football's mid-year season convention; treated at face value. No market value or fee data found."
+  }
+}

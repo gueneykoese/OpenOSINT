@@ -1,0 +1,76 @@
+{
+  "player_id": "dor_peretz",
+  "name": "Dor Peretz",
+  "age": 31,
+  "date_of_birth": "1995-05-17",
+  "nationality": ["ISR"],
+  "position": "AM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Maccabi Tel Aviv",
+  "current_club_league": "Ligat Ha'al",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Ligat Ha'al",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 19,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "attacking midfielder, Maccabi Tel Aviv captain",
+      "has been at the club for more than 15 years across his career (youth through senior)",
+      "was Maccabi Tel Aviv's top league goalscorer in 2025/26 with 19 goals (22 across all competitions)",
+      "signed a new 3-year contract in June 2026 with a club option to extend by a further two seasons, through 2029",
+      "wears number 42"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": 5,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Long-tenured club captain (15+ years at the club) who just re-signed a multi-year deal - strong public-record leadership/loyalty indicator, not a formal rating."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["he"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": "content",
+    "happiness_notes": "Signed a new 3-year contract (with a club option for two more) with Maccabi Tel Aviv in June 2026 after already being at the club for 15+ years - strong public-record evidence of contentment and loyalty.",
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.maccabi-tlv.co.il/en/2026/06/dor-peretz-signs-3-year-deal/",
+    "https://en.wikipedia.org/wiki/Dor_Peretz",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Maccabi_Tel_Aviv_F.C._season"
+  ],
+  "as_of": "2026-09-09",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Bio (DOB 17 May 1995, Israeli, Maccabi Tel Aviv captain/AM, 15+ years at the club, no. 42) and the June 2026 contract signing (3 years + club option for 2 more, implying contract to 2029) confirmed via Maccabi Tel Aviv's own announcement and Wikipedia. 2025/26 scoring record (19 league goals / 22 all competitions, club top scorer) corroborated by the season Wikipedia page. Given the explicit re-signing and long tenure, availability set to 'not for sale' and happiness_status to 'content'. At 31 he exceeds the assignment's 18-27 target band but is included as a genuine, high-profile, currently-loyal club-captain story with strong statistical output (19-goal AM season)."
+  }
+}

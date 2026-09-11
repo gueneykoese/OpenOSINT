@@ -1,0 +1,78 @@
+{
+  "player_id": "igor_jesus_lafc",
+  "name": "Igor Jesus",
+  "age": 22,
+  "date_of_birth": "2003-03-07",
+  "nationality": ["BRA"],
+  "position": "DM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "LAFC",
+  "current_club_league": "MLS",
+  "contract_until": 2028,
+  "market_value_eur_m": 3.4,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "MLS",
+    "apps": 24,
+    "starts": 22,
+    "minutes": 1859,
+    "goals": null,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "joined LAFC in January 2025 from Estrela da Amadora (Portugal)",
+      "was 4th on the team in minutes played before injury, regular starter (22 starts in 24 apps)",
+      "defensive/central midfielder",
+      "suffered a torn ACL (left knee) in a 1-1 draw at FC Dallas, ruled out for the remainder of the 2025 season"
+    ],
+    "best_system": [],
+    "weak_in": ["long-term ACL recovery, expected back sometime in 2026"]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "No public disciplinary record found."
+  },
+  "injury_history": [
+    {"type": "ACL tear (left knee)", "season": "2025", "days_out": null}
+  ],
+  "off_pitch": {
+    "languages": ["pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "No public statements found on transfer preference or happiness."
+  },
+  "sources": [
+    "https://www.mlssoccer.com/news/lafc-midfielder-igor-jesus-suffers-season-ending-knee-injury",
+    "https://www.lafc.com/news/lafc-midfielder-igor-jesus-to-miss-remainder-of-2025-season",
+    "https://www.foxsports.com/soccer/igor-13-player",
+    "https://www.rotowire.com/soccer/headlines/igor-jesus-injury-expected-back-for-leagues-cup-524052"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, transfer from Estrela da Amadora (Jan 2025), contract (through Dec 2028), market value (EUR 3.4m) and season-ending ACL injury (torn in a 1-1 draw at FC Dallas) confirmed via MLSSoccer.com/LAFC.com/Fox Sports. 2025 season stats (24 apps/22 starts/1859 min/1 assist) from Fox Sports; goals and exact days-out for the ACL injury not found -> null. RotoWire headline suggested a possible return timeline around Leagues Cup, but exact recovery date not confirmed in snippets."
+  }
+}

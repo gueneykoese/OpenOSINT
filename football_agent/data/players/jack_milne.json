@@ -1,0 +1,76 @@
+{
+  "player_id": "jack_milne",
+  "name": "Jack Milne",
+  "age": 23,
+  "date_of_birth": "2003-02-10",
+  "nationality": ["SCO"],
+  "position": "CB",
+  "secondary_positions": ["DM"],
+  "preferred_foot": null,
+  "height_cm": 192,
+  "current_club": "Aberdeen FC",
+  "current_club_league": "Scottish Premiership",
+  "contract_until": 2029,
+  "market_value_eur_m": 1.1,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Scottish Premiership",
+    "apps": null,
+    "starts": null,
+    "minutes": 2582,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "192cm centre-back, converted from central/holding midfielder",
+      "Scotland U21 international (2 caps, 2024)",
+      "signed new long-term Aberdeen contract to 2029",
+      "regular starter: 2,582 league minutes in 2025/26"
+    ],
+    "best_system": [],
+    "weak_in": ["1 red card in 2025/26 season - disciplinary note"]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": 3,
+    "notes": "3 yellow cards and 1 red card in the 2025/26 Premiership season per fotmob; no further public detail on the red card incident found."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": "content",
+    "happiness_notes": "Signed a new long-term contract extension with Aberdeen (through 2029), a positive commitment signal rather than seeking a move.",
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/en-GB/players/1331712/jack-milne",
+    "https://www.afc.co.uk/en/news/jack-milne-agrees-long-term-deal",
+    "https://en.wikipedia.org/wiki/Jack_Milne_(footballer)",
+    "https://www.sofascore.com/player/jack-milne/1129179"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, position conversion history (midfielder to CB), Scotland U21 caps, and long-term contract extension to 2029 confirmed via Wikipedia/AFC official site. 2025/26 stats (2582 min, 0g/0a, 3 yellow/1 red) from fotmob; apps/starts not broken out -> null. Market value estimates ranged EUR 0.76-1.2m across sources; EUR 1.1m (fotmob) entered."
+  }
+}
