@@ -1,0 +1,68 @@
+{
+  "player_id": "youssef_belammari",
+  "name": "Youssef Belammari",
+  "age": 27,
+  "date_of_birth": null,
+  "nationality": ["MAR"],
+  "position": "LB",
+  "secondary_positions": [],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Raja Casablanca",
+  "current_club_league": "Botola Pro",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Botola Pro",
+    "apps": null,
+    "starts": null,
+    "minutes": 630,
+    "goals": 0,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Raja Casablanca left-back", "2 yellow cards in the sampled 2025/26 stretch"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ar", "fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/vi/players/909908/youssef-belammari"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Added to address LB under-representation via Botola Pro (Morocco), a new league for this pool. Sourced to a single fotmob snippet (2025/26: 630 minutes, 0 goals, 2 yellow cards); DOB, height, national-team status, contract, wages, market value not found -> null. Confidence kept low pending a fuller cross-check (e.g. Wikipedia/club site). Raja Casablanca is not one of the 36 UCL 2026/27 pilot clubs."
+  }
+}

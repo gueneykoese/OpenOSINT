@@ -1,0 +1,73 @@
+{
+  "player_id": "massimo_coda",
+  "name": "Massimo Coda",
+  "age": 37,
+  "date_of_birth": "1988-11-10",
+  "nationality": ["ITA"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 184,
+  "current_club": "UC Sampdoria",
+  "current_club_league": "Serie B",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Serie B",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 9,
+    "assists": 3,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "veteran mobile striker",
+      "all-time leading goalscorer in Serie B history: 143 goals in 337 apps",
+      "Sampdoria's top scorer of the 2025/26 season (9 goals, 3 assists)"
+    ],
+    "best_system": [],
+    "weak_in": ["age 37, declining physical output expected"]
+  },
+  "mental_profile": {
+    "leadership": 4,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Widely regarded, given his all-time Serie B scoring record, as a senior leadership figure in Sampdoria's dressing room."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["it"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/150389/massimo-coda",
+    "https://www.espn.com/soccer/player/_/id/120643/massimo-coda"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, and Serie B all-time scoring record (143 goals, 337 apps) from Fotmob/ESPN/WhoScored. 2025/26 stat line (9 goals, 3 assists) from Fotmob. Age (37) puts him well outside the 18-27 target band; included as a well-documented veteran/leadership profile rather than a growth transfer target, per instructions that a strong real story can outweigh age fit. Contract length, market value, wage not found -> null."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "player_id": "rayan_kolli",
+  "name": "Rayan Kolli",
+  "age": 21,
+  "date_of_birth": "2005-02-10",
+  "nationality": ["ALG"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 180,
+  "current_club": "Queens Park Rangers",
+  "current_club_league": "EFL Championship",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "EFL Championship",
+    "apps": 53,
+    "starts": null,
+    "minutes": null,
+    "goals": 9,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "QPR academy graduate since age 8",
+      "England-born, represents Algeria (1 senior cap, 2025; 5 Algeria U20 caps)",
+      "career-to-date club tally: 53 apps, 9 goals since 2023 debut"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en", "fr", "ar"],
+    "family_situation": "Born in England; represents Algeria internationally.",
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rayan_Kolli",
+    "https://www.espn.co.uk/football/player/_/id/367706/rayan-kolli"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, dual England-birth/Algeria-international background (1 senior Algeria cap in 2025, 5 Algeria U20 caps 2023-24), and QPR academy history (signed age 8, pro contract Jan 2023, debut Aug 2023 v Norwich in EFL Cup) from Wikipedia/ESPN. The '53 apps, 9 goals' figure is a career-to-date club total per the search snippet, not isolated to 2025/26 -- entered under stats_2025_26.apps/goals as the most specific verifiable figure available, with the caveat that it is not confirmed to be single-season. Minutes/assists, contract, market value, wage not found -> null."
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "player_id": "gilberto_flores",
+  "name": "Gilberto Flores",
+  "age": 23,
+  "date_of_birth": "2003-04-01",
+  "nationality": ["PAR"],
+  "position": "CB",
+  "secondary_positions": ["RB"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Club Libertad",
+  "current_club_league": "División Profesional Paraguay (Copa de Primera)",
+  "contract_until": 2027,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "MLS (FC Cincinnati) 2025 season, prior to loan",
+    "apps": 35,
+    "starts": 24,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "central defender (also capable at right-back)",
+      "Paraguayan academy product with 40+ Paraguayan Primera División appearances before moving abroad (loan at Sportivo Trinidense in 2024: 32 apps, 29 starts)",
+      "signed by FC Cincinnati (MLS) as a U22 Initiative Player through 2027 (options to 2029)",
+      "made 35 apps (24 starts) across all competitions in his first MLS season",
+      "loaned back to Club Libertad Asunción through June 2027 with a club option to buy",
+      "Paraguay U-20/U-23 international; started all 4 matches for Paraguay at the 2024 Paris Olympics as the team reached the quarter-finals"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es", "en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fccincinnati.com/news/fc-cincinnati-acquire-paraguayan-defender-gilberto-flores-as-u22-initiative-player",
+    "https://www.fccincinnati.com/news/fc-cincinnati-loan-defender-gilberto-flores-to-club-libertad-asuncion",
+    "https://www.mlssoccer.com/news/fc-cincinnati-loan-gilberto-flores-to-paraguayan-club",
+    "https://en.wikipedia.org/wiki/Gilberto_Flores_(footballer,_born_2003)",
+    "https://onefootball.com/en/news/fc-cincinnati-loan-gilberto-flores-to-paraguayan-club-43182117"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "high",
+    "notes": "Real, currently active player -- unusually well-sourced for a Paraguayan Primera target via official FC Cincinnati / MLSSoccer.com club statements (rare for this research pass) plus Wikipedia and OneFootball corroboration. Full name Gilberto Ivan Flores Melgarejo, born 1 Apr 2003 in Asunción. Currently on loan at Club Libertad Asunción from FC Cincinnati through June 2027 (club option to buy). Prior MLS stats (35 apps/24 starts in first season) and 2024 loan at Sportivo Trinidense (32 apps/29 starts) from FCC/MLS official releases. Started all 4 Paraguay matches at the 2024 Paris Olympics. Height, preferred foot, current-season (2026 Paraguay) minutes/goals/assists and market value not found in search snippets -> null."
+  }
+}

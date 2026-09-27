@@ -1,0 +1,73 @@
+{
+  "player_id": "mohammad_juma",
+  "name": "Mohammad Juma",
+  "age": 20,
+  "date_of_birth": "2006-06-30",
+  "nationality": ["UAE"],
+  "position": "AM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 174,
+  "current_club": "Shabab Al Ahli",
+  "current_club_league": "UAE Pro League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "UAE Pro League",
+    "apps": 2,
+    "starts": null,
+    "minutes": 34,
+    "goals": 2,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "young UAE international attacking midfielder",
+      "UAE U18/U23 international",
+      "high early-season scoring rate in limited minutes (2 goals in 34 minutes)"
+    ],
+    "best_system": [],
+    "weak_in": ["very limited senior minutes to date"]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ar"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.espn.com/soccer/player/_/id/385085/mohammad-juma",
+    "https://www.fotmob.com/players/1650394/mohammad-juma"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "DOB, height and UAE U18/U23 international status from ESPN/Sportsdunia snippets. 2025/26 stat line (2 apps, 34 minutes, 2 goals, 0 assists) is an early-season snapshot from Fotmob, not a final total. Contract, market value, wage not found -> null. Sample size is very small; flagged as a name-to-watch rather than an established starter."
+  }
+}

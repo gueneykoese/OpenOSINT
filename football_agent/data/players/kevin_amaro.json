@@ -1,0 +1,79 @@
+{
+  "player_id": "kevin_amaro",
+  "name": "Kevin Amaro",
+  "age": 22,
+  "date_of_birth": "2004-03-03",
+  "nationality": ["URU"],
+  "position": "RW",
+  "secondary_positions": ["RB"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Liverpool FC (Montevideo)",
+  "current_club_league": "Primera División Uruguaya",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga AUF Uruguaya (Apertura 2025)",
+    "apps": null,
+    "starts": null,
+    "minutes": 2882,
+    "goals": 1,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "right winger / attacking right-back, physically powerful on the right flank",
+      "named in the 2025 Liga AUF Uruguaya Team of the Year",
+      "was the only player from the domestic Uruguayan league called up by Marcelo Bielsa for the September 2025 World Cup qualifying window",
+      "made his senior Uruguay national team debut on 9 September 2025 vs Chile in Santiago",
+      "reported interest from River Plate (Argentina) per ESPN Argentina profile piece",
+      "key player as Liverpool FC won the 2025 Torneo Apertura"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.espn.com.ar/futbol/uruguay/nota/_/id/16035402/kevin-amaro-quien-es-defensa-uruguay-caracteristicas-edad-clubes-trayectoria-liverpool",
+    "https://en.wikipedia.org/wiki/Kevin_Amaro",
+    "https://totalfootballanalysis.com/player-analysis/kevin-amaro-scout-report-liverpool-2025-analysis-tactics",
+    "https://es.besoccer.com/jugador/k-amaro-3296887",
+    "https://www.ceroacero.es/jugador/kevin-amaro/1000967"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Real, currently active player -- confirmed via ESPN Argentina (dedicated profile piece), Wikipedia, Total Football Analysis (tactical scout report), BeSoccer and ceroacero.es. Born 3 Mar 2004 in Montevideo. Named in the 2025 Liga AUF Uruguaya Team of the Year and made his senior Uruguay debut on 9 Sep 2025 vs Chile after being the only domestic-league player called up by Bielsa. ESPN headline framed him as a player of interest to River Plate, though no fee/formal bid is reported in snippets. 2025 Apertura stats (2882 minutes, 1 goal, 1 assist) from Wikipedia/ESPN. Sources describe him variously as a right-back and a right winger (used in a wide, attacking right-sided role) -- entered as RW with RB as secondary. Height, preferred foot, current contract and market value not found in search snippets -> null."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "player_id": "duran_ferree",
+  "name": "Duran Ferree",
+  "age": 19,
+  "date_of_birth": "2006-09-28",
+  "nationality": ["USA"],
+  "position": "GK",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "San Diego FC",
+  "current_club_league": "MLS",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "MLS",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["San Diego native, San Diego FC's inaugural signing as a 2025 MLS expansion club", "prior spell at San Diego Loyal SC (USL Championship)", "featured for USA at 2023 FIFA U-17 World Cup", "established starting goalkeeper role at 19"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.mlssoccer.com/news/san-diego-fc-make-goalkeeper-duran-ferree-inaugural-signing",
+    "https://www.sandiegofc.com/news/san-diego-fc-signs-san-diego-native-u-s-youth-national-goalkeeper-duran-ferree",
+    "https://www.espn.com/soccer/player/_/id/336963/duran-ferree"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Added to address GK under-representation via MLS, a genuinely young (19yo) prospect story: San Diego FC's inaugural signing as an expansion club, homegrown to the city, and already the club's starting goalkeeper. DOB confirmed via ESPN. 2025/26 statline, height, foot, contract, wages, market value not found in snippets -> null. San Diego FC is not one of the 36 UCL 2026/27 pilot clubs."
+  }
+}

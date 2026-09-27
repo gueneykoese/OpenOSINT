@@ -1,0 +1,79 @@
+{
+  "player_id": "fabrizio_peralta",
+  "name": "Fabrizio Peralta",
+  "age": 23,
+  "date_of_birth": "2002-08-02",
+  "nationality": ["PAR"],
+  "position": "CM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Cerro Porteño",
+  "current_club_league": "División Profesional Paraguay (Copa de Primera)",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "División Profesional Paraguay",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "central midfielder, Cerro Porteño academy product",
+      "went abroad to Brazil (Cruzeiro, then Athletico Paranaense) but struggled for consistency",
+      "returned to boyhood club Cerro Porteño in June 2025 despite reportedly having other offers on the continent",
+      "capped for Paraguay at senior, U-23 and U-17 level"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Publicly stated he chose to return to Cerro Porteño despite having other offers (OneFootball/ABC Color, 2025) -- suggests strong boyhood-club attachment and possible motivational lever for a future move framed around club identity/legacy rather than money alone."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [
+      "Told local media (ABC Color/OneFootball, 2025) that he chose to return to Cerro Porteño despite having other offers, citing his attachment to the club."
+    ],
+    "commercial_profile": null,
+    "happiness_status": "content",
+    "happiness_notes": "Publicly said he turned down other offers to rejoin his boyhood club Cerro Porteño in June 2025; no reporting since suggests unhappiness there.",
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.abc.com.py/deportes/futbol/cerro-porteno/2025/06/24/fabrizio-peralta-llego-al-pais-para-reincorporarse-a-cerro-porteno/",
+    "https://www.abc.com.py/deportes/futbol/cerro-porteno/2025/06/26/fabrizio-peralta-el-primero-en-ser-oficializado/",
+    "https://onefootball.com/en/news/fabrizio-peralta-conto-por-que-eligio-a-cerro-porteno-pese-a-tener-otras-ofertas-41289575",
+    "https://www.espn.com.ar/futbol/jugador/_/id/297321/fabrizio-peralta",
+    "https://www.cerro.com.py/jugadores/fabrizio-peralta"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Real, currently active player -- confirmed via ABC Color (Paraguay's leading sports daily, two separate 2025 articles on his return), OneFootball, ESPN Argentina and Cerro Porteño's own player page. Born 2 Aug 2002 in Asunción; midfielder; prior spells at Cruzeiro and Athletico Paranaense (Brazil) before returning home in June 2025. 2025/26 apps/goals/assists, height, preferred foot, contract terms and market value not found in search snippets -> null. This is the first Cerro Porteño / Paraguayan Primera entry successfully sourced in this research pass; the effective search technique was querying the player's own name (surfaced via a Wikipedia-linked squad reference) rather than generic 'joven promesa interés europeo' phrasing, which had previously returned only noise for Paraguay."
+  }
+}

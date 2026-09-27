@@ -1,0 +1,76 @@
+{
+  "player_id": "ignacio_galvan",
+  "name": "Ignacio Galván",
+  "age": 23,
+  "date_of_birth": "2002-09-06",
+  "nationality": ["ARG"],
+  "position": "LB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Atlético Tucumán",
+  "current_club_league": "Liga Profesional Argentina",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "Liga Profesional Argentina (Atlético Tucumán, loan)",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-back, joined Racing Club's academy at 12 after starting at Comunicaciones de Almagro",
+      "made his Racing Club first-team debut in a 2-0 Copa Libertadores win over Sporting Cristal (11 May 2021)",
+      "2024 Copa Sudamericana winner with Racing Club",
+      "career path: Racing Club (2021-2024) -> Defensa y Justicia (2024) -> Atlético Tucumán (2025-present, on loan from Racing Club)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ignacio_Galv%C3%A1n",
+    "https://www.espn.com.ar/futbol/jugador/_/id/313958/ignacio-galvan",
+    "https://www.racingdealma.com.ar/galvan-racing-en-mercado-de-pases/",
+    "https://www.zerozero.com.ar/jugador/ignacio-galvan/853595"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Real, currently active player -- confirmed via Wikipedia, ESPN Argentina, Racing de Alma (Racing Club fan/news site tracking his transfer status) and zerozero.es. Born 6 Sep 2002. Racing Club academy graduate (joined at 12) and 2024 Copa Sudamericana winner; currently out on loan at Atlético Tucumán from Racing Club, per a 2026 transfer-market piece noting he 'volverá a Racing' (will return to Racing) at the end of the loan. Entered under current_club = Atlético Tucumán (his active club), with Racing Club ownership/history documented -- helps cover both Racing Club's pipeline and the previously-uncovered Atlético Tucumán. Current-season stats, height, preferred foot, contract and market value not found in search snippets -> null."
+  }
+}

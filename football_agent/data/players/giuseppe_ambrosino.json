@@ -1,0 +1,76 @@
+{
+  "player_id": "giuseppe_ambrosino",
+  "name": "Giuseppe Ambrosino",
+  "age": 23,
+  "date_of_birth": "2003-09-10",
+  "nationality": ["ITA"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Modena FC",
+  "current_club_league": "Serie B",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "Serie B",
+    "apps": null,
+    "starts": null,
+    "minutes": 439,
+    "goals": 2,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Napoli academy product, on loan at Modena for 2026/27",
+      "previously subject of transfer interest from Cremonese and Cagliari as a U21 talent",
+      "reported Celtic transfer interest",
+      "high 2026/27 early-season rating (7.84 average per Fotmob)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["it"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Giuseppe_Ambrosino",
+    "https://www.fotmob.com/players/1316205/giuseppe-ambrosino",
+    "https://sports.yahoo.com/article/u21-talent-ambrosino-targeted-cremonese-150100369.html",
+    "https://www.footballinsider247.com/celtic-plan-to-sign-giuseppe-ambrosino-and-another-star-striker/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, parent club (Napoli, on loan at Modena for 2026/27 Serie B season) confirmed via Wikipedia/Fotmob. Stats (439 minutes, 2 goals, 2 assists) are a partial/early-season 2026/27 snapshot per Fotmob, entered under stats_2025_26 per schema field naming but explicitly refer to the 2026/27 season -- flagged here. Prior reported transfer interest from Cremonese, Cagliari and Celtic per Yahoo Sports / Football Insider, treated as reported interest rather than confirmed bids. Height, contract, market value, wage not found -> null. Availability set to 'loan possible' since he is currently out on loan from Napoli."
+  }
+}

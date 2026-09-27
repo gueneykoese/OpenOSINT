@@ -1,0 +1,81 @@
+{
+  "player_id": "yahya_al_ghassani",
+  "name": "Yahya Al Ghassani",
+  "age": 27,
+  "date_of_birth": "1998-04-18",
+  "nationality": ["UAE"],
+  "position": "LW",
+  "secondary_positions": ["RW"],
+  "preferred_foot": "both",
+  "height_cm": 178,
+  "current_club": "Shabab Al Ahli",
+  "current_club_league": "UAE Pro League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "UAE Pro League",
+    "apps": null,
+    "starts": null,
+    "minutes": 463,
+    "goals": 2,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "two-footed winger",
+      "UAE senior international, 2023-24 AFC Asian Cup squad",
+      "long-touted as 'next big thing in Emirati football'",
+      "7 goals, 4 assists in Shabab Al Ahli's 2022/23 Pro League title season"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ar", "en"],
+    "family_situation": "From Sharjah, UAE.",
+    "public_statements": [
+      "Publicly stated (The National, May 2026) that a move to Europe remains a driving personal ambition, with past reported interest from Paris FC and Angers."
+    ],
+    "commercial_profile": null,
+    "happiness_status": "wants_move",
+    "happiness_notes": "Told The National in May 2026 that playing in Europe 'remains a driving ambition,' citing past interest from Ligue 1/Ligue 2 sides Paris FC and Angers.",
+    "preferred_clubs": [
+      {"club": "Paris FC", "note": "reported past interest from the French club per his own comments", "source": "https://www.thenationalnews.com/sport/football/2026/05/06/yahya-al-ghassani-on-his-european-dream-and-uaes-one-per-cent-chance-of-going-to-2026-world-cup/"},
+      {"club": "Angers", "note": "reported past interest from the French club per his own comments", "source": "https://www.thenationalnews.com/sport/football/2026/05/06/yahya-al-ghassani-on-his-european-dream-and-uaes-one-per-cent-chance-of-going-to-2026-world-cup/"}
+    ],
+    "notes": null
+  },
+  "sources": [
+    "https://www.thenationalnews.com/sport/football/2026/05/06/yahya-al-ghassani-on-his-european-dream-and-uaes-one-per-cent-chance-of-going-to-2026-world-cup/",
+    "https://www.fotmob.com/players/959373/yahya-al-ghassani",
+    "https://www.redbull.com/int-en/athlete/yahya-al-ghassani",
+    "https://www.arabnews.com/node/2304986/football"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, career path (Al Ahli youth -> Al Wahda 2018 -> Shabab Al Ahli 2021), honours, and the explicit 'European dream' quote are from The National (May 2026), Fotmob and Red Bull athlete profile. 2025/26 stat line (463 minutes, 2 goals, 4 assists) is a partial-season Fotmob snapshot, not final. 2022/23 title-season tally (7 goals, 4 assists) is from Arab News/Red Bull and kept separate from the 2025/26 line. Contract length, market value and wage not found -> null."
+  }
+}

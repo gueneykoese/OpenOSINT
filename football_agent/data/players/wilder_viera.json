@@ -1,0 +1,77 @@
+{
+  "player_id": "wilder_viera",
+  "name": "Wilder Viera",
+  "age": 24,
+  "date_of_birth": "2002-03-04",
+  "nationality": ["PAR"],
+  "position": "CM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Cerro Porteño",
+  "current_club_league": "División Profesional Paraguay (Copa de Primera)",
+  "contract_until": 2028,
+  "market_value_eur_m": 0.9,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "División Profesional Paraguay 2026",
+    "apps": null,
+    "starts": null,
+    "minutes": 19,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "central midfielder, full name Wílder Viera Caballero",
+      "long-tenured Cerro Porteño academy product, renewed contract through 2028",
+      "capped once for Paraguay in 2026 World Cup qualifying",
+      "fringe first-team minutes in early 2026 (19 minutes off the bench in a 1-1 draw vs Libertad, 24 Jan 2026)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://d10.ultimahora.com/cerro-porteno-renueva-con-wilder-viera-hasta-el-2026",
+    "https://www.fichajes.com/jugador/wilder-viera-caballero/",
+    "https://www.cerro.com.py/jugadores/wilder-viera",
+    "https://www.espn.com.ar/futbol/jugador/_/id/297325/wilder-viera",
+    "https://www.ceroacero.es/jugador/wilder-viera/610223"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Real, currently active player -- confirmed via D10/Ultima Hora, Fichajes.com, Cerro Porteño's own player page, ESPN Argentina and ceroacero.es. Born 4 Mar 2002 in Ypané, Paraguay; central midfielder; contract through 31 Dec 2028; market value listed as EUR 908k on Fichajes.com (entered rounded to 0.9). One senior Paraguay cap in 2026 World Cup qualifying per Fichajes snippet. 2026 domestic minutes thin (19 minutes in the one match found in snippets) -- flagged as fringe rather than an established starter. Height, preferred foot, full apps/starts breakdown and estimated transfer fee not found in search snippets -> null."
+  }
+}

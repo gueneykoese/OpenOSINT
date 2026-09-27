@@ -1,0 +1,70 @@
+{
+  "player_id": "dylan_gorosito",
+  "name": "Dylan Gorosito",
+  "age": 20,
+  "date_of_birth": "2006-02-03",
+  "nationality": ["ARG"],
+  "position": "RB",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 173,
+  "current_club": "Boca Juniors",
+  "current_club_league": "Liga Profesional Argentina",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Liga Profesional Argentina",
+    "apps": 6,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Boca Juniors academy graduate, breaking into the first team", "Argentina U20 and U17 international", "signed first professional contract with Boca through Dec 2028"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1661230/dylan-gorosito",
+    "https://www.espn.com/soccer/player/_/id/371485/dylan-gorosito",
+    "https://en.wikipedia.org/wiki/Dylan_Gorosito"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Added to address RB under-representation via a new league entry point (Liga Profesional Argentina) with a genuine young-prospect story: 20-year-old Boca Juniors academy right-back with 6 Primera Division appearances in 2026 and a contract through Dec 2028. Height (173cm) and DOB per fotmob. Wages, market value not found -> null. Boca Juniors is not one of the 36 UCL 2026/27 pilot clubs."
+  }
+}

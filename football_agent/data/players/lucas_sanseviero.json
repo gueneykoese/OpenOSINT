@@ -1,0 +1,78 @@
+{
+  "player_id": "lucas_sanseviero",
+  "name": "Lucas Sanseviero",
+  "age": 26,
+  "date_of_birth": "2000-08-05",
+  "nationality": ["URU"],
+  "position": "LW",
+  "secondary_positions": ["RW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Instituto AC Córdoba",
+  "current_club_league": "Liga Profesional Argentina",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "Primera División Uruguaya (Danubio, career total 2024-2025)",
+    "apps": 61,
+    "starts": null,
+    "minutes": null,
+    "goals": 6,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "winger, full name Lucas Martín Sanseviero Pérez, born in San Ramón, Uruguay",
+      "academy product of Nacional (from 2017) before loan/transfer spells at Central Español and Uruguay Montevideo",
+      "made 61 appearances and scored 6 goals in a two-season spell at Danubio (2024-2025)",
+      "moved to Spain's Real Valladolid in 2026, currently out on loan at Instituto AC Córdoba (Argentina)",
+      "subject of a publicly reported, unusual complaint/dispute relating to his earlier time at Nacional (ESPN Uruguay, headline: 'la extraña denuncia de lo que pasó en Nacional')"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": "Represented by WIN Football Agency per the agency's own player-profile page.",
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "ESPN Uruguay reported an unusual/disputed complaint ('extraña denuncia') tied to his time at Nacional; exact nature and outcome not retrievable from search snippets -> not speculated further."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lucas_Sanseviero",
+    "https://espndeportes.espn.com/futbol/uruguay/nota/_/id/15809521/danubio-sanseviero-y-la-extrana-denuncia-de-lo-que-paso-en-nacional",
+    "https://winfootballagency.com/detalle-futbolista/95/lucas-sanseviero",
+    "https://www.ceroacero.es/jugador/lucas-sanseviero/772367",
+    "https://es.besoccer.com/jugador/lucas-sanseviero-906987"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Real, currently active player -- confirmed via Wikipedia, ESPN Uruguay, WIN Football Agency's own client page, ceroacero.es and BeSoccer. Career path (Nacional academy -> Central Español/Uruguay Montevideo loans -> Danubio 2024-2025, 61 apps/6 goals -> Real Valladolid (Spain) 2026 -> current loan at Instituto AC Córdoba, Argentina) drawn from Wikipedia and cross-checked to Soccerway transfer history. Entered under current_club = Instituto (his present club), which also helps cover Argentina's under-documented Instituto; his Danubio tenure documents that target club. The ESPN-reported 'extraña denuncia' involving Nacional is flagged but not detailed since search snippets did not surface the specifics -> left general and unembellished per data-quality rules. Height, preferred foot, current 2026 stats at Instituto, contract and market value not found in snippets -> null."
+  }
+}

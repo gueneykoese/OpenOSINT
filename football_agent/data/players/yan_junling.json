@@ -1,0 +1,69 @@
+{
+  "player_id": "yan_junling",
+  "name": "Yan Junling",
+  "age": 35,
+  "date_of_birth": "1991-01-28",
+  "nationality": ["CHN"],
+  "position": "GK",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Shanghai Port",
+  "current_club_league": "Chinese Super League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Chinese Super League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["China national team no.1, 58-62 caps as of 2025/26", "academy product of the Genbao Football Academy", "Shanghai Port's (formerly Shanghai SIPG) first-choice keeper since 2011"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["zh"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yan_Junling",
+    "https://www.whoscored.com/players/127204/show/yan-junling"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Added to address GK under-representation via the Chinese Super League. Age above the 18-28 target band but included as a long-tenured national-team no.1 with a genuine story. DOB per Wikipedia; cap count varies slightly between sources (58 vs 62), so left as an approximate range in style_profile rather than a hard number. 2025/26 club statline, height, contract, wages, market value not found -> null. Shanghai Port is not one of the 36 UCL 2026/27 pilot clubs."
+  }
+}

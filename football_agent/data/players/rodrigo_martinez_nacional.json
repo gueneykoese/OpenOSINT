@@ -1,0 +1,75 @@
+{
+  "player_id": "rodrigo_martinez_nacional",
+  "name": "Rodrigo Martínez",
+  "age": 17,
+  "date_of_birth": "2008-03-22",
+  "nationality": ["URU"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 175,
+  "current_club": "Club Nacional de Football",
+  "current_club_league": "Primera División Uruguaya",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga AUF Uruguaya / Copa de la Liga AUF 2026",
+    "apps": 9,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "young forward breaking into Nacional's first-team fringe (6 Liga AUF apps + 3 Copa de la Liga AUF apps in 2026, still goalless)",
+      "Uruguay U-17 international, 4 apps at the 2025 South American U-17 Championship",
+      "selected for Uruguay's January 2026 U-20 squad call-up alongside other Nacional/Peñarol academy products"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.sofascore.com/football/player/rodrigo-martinez/2082094",
+    "https://es.besoccer.com/jugador/rodrigo-martinez-3556191",
+    "https://www.espn.com.uy/futbol/mundial/nota/_/id/16243948/sub-20-uruguay-convocados-enero-2026-nacional-penarol",
+    "https://www.365scores.com/es/football/player/rodrigo-martinez-192643"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Real, currently active player confirmed via Sofascore/BeSoccer/365Scores and an ESPN Uruguay article naming him among Nacional/Peñarol prospects called up for Uruguay U-20 training in January 2026. DOB 22 Mar 2008, 175cm, right-footed, jersey no. 31, per Sofascore/BeSoccer snippets. Goalless through 9 combined 2026 appearances -- an early-career developmental profile, not yet a proven starter; minutes, assists, contract and market value not found in snippets -> null. Common Spanish-language name creates some risk of conflation with other 'Rodrigo Martínez' players; sources were cross-checked to Nacional-affiliated profile pages/IDs to mitigate this."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "player_id": "hassan_beja",
+  "name": "Hassan Beja",
+  "age": 20,
+  "date_of_birth": "2005-08-26",
+  "nationality": ["KEN"],
+  "position": "ST",
+  "secondary_positions": ["LW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "AFC Leopards",
+  "current_club_league": "Kenyan Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Kenyan Premier League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "speedy forward, started at grassroots Makio Youth FC in Kilifi",
+      "Kenya U20 international, teammate of Kelly Madada in the 'Rising Stars' squad",
+      "joined AFC Leopards from Nzoia Sugar in Aug 2023",
+      "publicly reported (Pulse Sports Kenya, Sept 2025) as attracting interest from clubs abroad, alongside Kelly Madada"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en", "sw"],
+    "family_situation": "Born in Majengo Kanamai, Kilifi County, Kenya.",
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.pulsesports.co.ke/football/story/afc-leopards-face-potential-double-blow-as-kelly-madada-hassan-beja-attract-interest-from-abroad-2025090804064953117",
+    "https://afcleopards.co.ke/player/hassan-beja/",
+    "https://www.besoccer.com/player/hassan-beja-3221774"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "DOB, hometown (Kilifi), and career path (Makio Youth FC -> Nzoia Sugar -> AFC Leopards, Aug 2023) from BeSoccer/AFC Leopards' own site. Reported foreign transfer interest from Pulse Sports Kenya (Sept 2025), alongside teammate Kelly Madada. 2025/26 individual stats not found in a verifiable snippet -> null. Height, contract, market value, wage not found -> null."
+  }
+}

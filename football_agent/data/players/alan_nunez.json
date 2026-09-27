@@ -1,0 +1,77 @@
+{
+  "player_id": "alan_nunez",
+  "name": "Alan Núñez",
+  "age": 21,
+  "date_of_birth": "2004-10-01",
+  "nationality": ["PAR"],
+  "position": "RB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Argentinos Juniors",
+  "current_club_league": "Liga Profesional Argentina",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "Liga Portugal 2 (CD Nacional, 2025/26); 29 min at Cerro Porteño before Aug 2026 transfer",
+    "apps": 21,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "right-back, Paraguayan academy product of Cerro Porteño",
+      "spent 2025/26 season on loan at CD Nacional in Portugal (21 apps, 1 goal, 2 assists)",
+      "returned to Cerro Porteño for the 2026 Clausura, then in August 2026 moved to Argentinos Juniors (Argentina) on an 18-month loan with purchase option",
+      "Paraguay U-20 and U-23 international",
+      "2021 Clausura champion with Cerro Porteño"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.abc.com.py/deportes/futbol/cerro-porteno/2026/08/03/alan-nunez-jugara-en-argentinos-juniors/",
+    "https://www.espn.com/soccer/player/_/id/318200/alan-nunez",
+    "https://www.versus.com.py/versus/2025/03/06/alan-nunez-y-la-gran-mision-de-consolidarse-en-cerro-porteno/",
+    "https://www.fichajes.com/jugador/alan-herminio-nunez-duarte/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Real, currently active player -- Paraguayan international-track right-back whose move FROM Cerro Porteño TO Argentinos Juniors (18-month loan with purchase option, agreed early Aug 2026) is confirmed by ABC Color (Paraguay's leading sports daily) dated 3 Aug 2026, corroborated by ESPN and Fichajes profile pages. DOB 1 Oct 2004, born in Luque, Paraguay, per ESPN/Fichajes. 2025/26 loan spell at CD Nacional (Portugal) stats (21 apps, 1 goal, 2 assists) per ABC Color report. Height, preferred foot, exact minutes, contract terms and market value not found in search snippets -> null. Entered as current_club = Argentinos Juniors (his club as of the Aug 2026 transfer), satisfying the Argentinos Juniors research target while his origin (Cerro Porteño) and Paraguayan nationality also document the Paraguay pipeline."
+  }
+}

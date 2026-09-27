@@ -1,0 +1,70 @@
+{
+  "player_id": "thomas_meunier",
+  "name": "Thomas Meunier",
+  "age": 34,
+  "date_of_birth": "1991-09-12",
+  "nationality": ["BEL"],
+  "position": "RB",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Sunderland",
+  "current_club_league": "Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["veteran Belgium international right-back", "developed at Club Brugge (converted from winger to RB there)", "played at Lille 2024-2026 before joining newly-promoted Sunderland", "part of Belgium's 2026 World Cup Group G squad"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr", "en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Thomas_Meunier",
+    "https://the-goalpost.com/players/thomas-meunier",
+    "https://fbref.com/en/players/e162b013/Thomas-Meunier"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Added to address RB under-representation via a promoted Premier League club (Sunderland). DOB per Wikipedia. Career path (Club Brugge to Lille 2024-2026 to Sunderland 2026) per fotmob/fandom snippets. 2025/26 statline, height, contract length, wages, market value not found -> null. Neither Club Brugge (his development club, and note it IS one of the 36 UCL pilot clubs, but he left it in 2015/16 long ago) nor Sunderland/Lille are current affiliations that trigger exclusion."
+  }
+}

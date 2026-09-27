@@ -1,0 +1,79 @@
+{
+  "player_id": "gaston_olveira",
+  "name": "Gastón Olveira",
+  "age": 33,
+  "date_of_birth": "1993-04-21",
+  "nationality": ["PAR", "URU"],
+  "position": "GK",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Club Olimpia",
+  "current_club_league": "División Profesional Paraguay (Copa de Primera)",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "División Profesional Paraguay",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "veteran goalkeeper, one of the top-rated shot-stoppers in Paraguayan football at Olimpia since 2021",
+      "born and trained at River Plate Montevideo (Uruguay), naturalized Paraguayan in mid-2026 to become eligible for Paraguay's national team",
+      "named in Gustavo Alfaro's 26-man Paraguay squad for the 2026 FIFA World Cup as backup goalkeeper",
+      "released by Olimpia for national-team duty during the Sep 2026 FIFA window (per ABC Color, 21 Sep 2026)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Publicly described his 2026 World Cup call-up as a lifelong dream ('el sueño de disputar un Mundial siempre está latente') in his first Paraguay call-up interview with ESPN."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [
+      "Said in his first Paraguay national-team call-up interview (ESPN) that 'the dream of playing a World Cup is always latent.'"
+    ],
+    "commercial_profile": null,
+    "happiness_status": "content",
+    "happiness_notes": "Voluntarily pursued Paraguayan naturalization to pursue a World Cup dream and has remained at Olimpia since 2021; no reporting suggests he wants to leave.",
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://theobjective.com/deportes/futbol/mundial/2026-06-12/gaston-olveira-nacionalizado-paraguayo-mundial-2026/",
+    "https://espndeportes.espn.com/futbol/paraguay/nota/_/id/16392659/gaston-olveira-olimpia-seleccion-nacionalidad-gustavo-alfaro",
+    "https://www.abc.com.py/deportes/futbol/olimpia/2026/09/21/alerta-olimpia-los-partidos-que-no-jugara-gaston-olveira-por-la-fecha-fifa/",
+    "https://espndeportes.espn.com/futbol/paraguay/nota/_/id/16473518/gaston-olveira-seleccion-primera-convocatoria",
+    "https://d10.ultimahora.com/se-sumo-gaston-olveira-al-operativo-mundial"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Real, currently active player -- goalkeeper at Club Olimpia since 2021, confirmed via TheObjective, ESPN (two separate articles), ABC Color and D10/Ultima Hora. Born 21 Apr 1993 in Montevideo, formed at River Plate (Uruguay), naturalized Paraguayan in 2026 and named in Paraguay's 26-man 2026 World Cup squad by Gustavo Alfaro as backup GK. Outside the 18-27 target age band (age 33) but included as an exceptionally well-documented, currently-active real story for the previously-uncovered Olimpia/Paraguay slot per assignment guidance that a strong verified story outweighs age fit. Apps, minutes, height, contract and market value not found in search snippets -> null."
+  }
+}

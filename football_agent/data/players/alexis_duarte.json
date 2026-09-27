@@ -1,0 +1,82 @@
+{
+  "player_id": "alexis_duarte",
+  "name": "Alexis Duarte",
+  "age": 26,
+  "date_of_birth": "2000-03-12",
+  "nationality": ["PAR"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 186,
+  "current_club": "Club Libertad",
+  "current_club_league": "División Profesional Paraguay (Copa de Primera)",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "División Profesional Paraguay",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "central defender, nicknamed 'Pulpito' ('little octopus')",
+      "career included Cerro Porteño (2020/21 Apertura and Clausura titles), Santos FC (Brazil) and Spartak Moscow",
+      "returned to Paraguay in March 2026 on a one-year loan from Santos to Club Libertad, with Santos covering half his salary",
+      "suffered a torn right ACL in his Libertad debut match (March 2026), ruling him out for the rest of that year",
+      "Paraguay senior, U-20 and U-17 international"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [
+    {"type": "ACL tear (right knee)", "season": "2026", "days_out": null}
+  ],
+  "off_pitch": {
+    "languages": ["es", "pt"],
+    "family_situation": null,
+    "public_statements": [
+      "Told ABC Color (4 Mar 2026) after his ACL diagnosis: 'Lo que más temía, sucedió' ('what I feared most, happened')."
+    ],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.abc.com.py/deportes/futbol/libertad/2026/03/04/alexis-duarte-lo-que-mas-temia-sucedio/",
+    "https://onefootball.com/es/noticias/santos-agree-alexis-duarte-loan-to-libertad-in-paraguay-42467235",
+    "https://rcc.com.py/deporte/alexis-pulpito-duarte-vuelve-a-paraguay-y-se-suma-a-libertad/",
+    "https://www.ceroacero.es/jugador/alexis-duarte/556048",
+    "https://www.flashscoreusa.com/player/duarte-alexis/jkt3UbE8/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Real, currently active (returning from injury) player -- confirmed via ABC Color, OneFootball, RCC.com.py and ceroacero.es. Full name Alexis David Duarte Pereira, born 12 Mar 2000 in Asunción, 186cm, central defender. On loan at Club Libertad from Santos FC (Brazil) since March 2026; suffered a torn right ACL in his Libertad debut that same month, sidelining him for the remainder of 2026 -- marked availability 'not for sale' reflecting his injury/loan status rather than a transfer stance. 2026 in-competition stats unavailable due to the injury -> null; height sourced (186cm), preferred foot, contract details and market value not found in snippets -> null."
+  }
+}

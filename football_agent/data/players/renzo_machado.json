@@ -1,0 +1,77 @@
+{
+  "player_id": "renzo_machado",
+  "name": "Renzo Machado",
+  "age": 21,
+  "date_of_birth": "2005-09-21",
+  "nationality": ["URU"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Liverpool FC (Montevideo)",
+  "current_club_league": "Primera División Uruguaya",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Primera División Uruguaya (career total at Liverpool FC since 2023)",
+    "apps": 69,
+    "starts": null,
+    "minutes": null,
+    "goals": 13,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "center-forward, born in Rocha, Uruguay",
+      "chose Liverpool FC's academy over both Montevideo giants Nacional and Peñarol as a boyhood decision",
+      "wears the no. 9 shirt; 69 appearances and 13 goals for Liverpool FC since his 2023 debut",
+      "scored the winning contribution as a substitute in the 2023 Supercopa Uruguaya (1-0 win over Nacional)",
+      "Uruguay U-20 international, debut 21 March 2024"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Renzo_Machado",
+    "https://espndeportes.espn.com/futbol/uruguay/nota/_/id/14610176/renzo-machado-delantero-seleccion-sub-20-perfil-caracteristicas-luis-suarez-liverpool-historia-quien-es",
+    "https://www.ceroacero.es/jugador/renzo-machado/1060091",
+    "https://en.soccerwiki.org/player.php?pid=132082"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Real, currently active player -- confirmed via Wikipedia, a dedicated ESPN Uruguay feature piece and ceroacero.es/Soccerwiki profile pages. Full name Renzo Neri Machado Pertusso, born 21 Sep 2005 in Rocha. Career total at Liverpool FC (Montevideo) since 2023: 69 apps, 13 goals, wearing no. 9. ESPN's headline explicitly links him to the Luis Suárez/Liverpool FC academy pipeline narrative. Uruguay U-20 debut 21 Mar 2024. Season-specific 2025/26 split (apps/minutes/goals for the current season alone, as opposed to career-to-date total), height, preferred foot, contract and market value not found in search snippets -> null."
+  }
+}

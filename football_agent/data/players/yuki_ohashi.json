@@ -1,0 +1,74 @@
+{
+  "player_id": "yuki_ohashi",
+  "name": "Yuki Ohashi",
+  "age": 29,
+  "date_of_birth": "1996-07-27",
+  "nationality": ["JPN"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 178,
+  "current_club": "Blackburn Rovers",
+  "current_club_league": "EFL Championship",
+  "contract_until": 2027,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "EFL Championship",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 8,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Japan international forward",
+      "Blackburn Rovers top scorer 2024/25 (10 goals) in first England season",
+      "consistent goal output again in 2025/26 (8 goals, 1 assist)",
+      "moved from J1 League (Sanfrecce Hiroshima) to England in July 2024, first move abroad"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ja", "en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Yuki_Ohashi",
+    "https://www.espn.com/soccer/player/_/id/283613/yuki-ohashi"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, career path (Shonan Bellmare 2018, Sanfrecce Hiroshima 2024, Blackburn Rovers from 31 July 2024 on a 3-year deal -> contract_until 2027), and Blackburn 2024/25 top-scorer status (10 goals) from Wikipedia. 2025/26 stat line (8 goals, 1 assist) is a partial-season snapshot per the source, not a confirmed final total. Age (29) is above the assignment's 18-27 target band but included given the strength and recency of his goal-scoring record. Market value, wage not found -> null."
+  }
+}

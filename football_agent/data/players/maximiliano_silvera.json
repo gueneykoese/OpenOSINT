@@ -1,0 +1,77 @@
+{
+  "player_id": "maximiliano_silvera",
+  "name": "Maximiliano Silvera",
+  "age": 28,
+  "date_of_birth": "1997-09-05",
+  "nationality": ["URU"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 177,
+  "current_club": "Club Nacional de Football",
+  "current_club_league": "Primera División Uruguaya",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga AUF Uruguaya Apertura 2026",
+    "apps": null,
+    "starts": null,
+    "minutes": 698,
+    "goals": 2,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "center-forward, full name Maximiliano Joaquín Silvera Cabo",
+      "made a rare direct rival-to-rival move to Nacional after his contract renewal talks with Peñarol broke down",
+      "scored 33 goals in 102 apps in two seasons at Peñarol, won 2 Aperturas, 2 Clausuras, an Intermedio and a Copa AUF Uruguay, and reached a Copa Libertadores semi-final there",
+      "scored in the 2026 Copa Libertadores group stage for Nacional (2-2 draw vs Universitario, capitalizing on a defensive lapse)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.montevideo.com.uy/Deportes/Maximiliano-Silvera-fue-anunciado-como-nuevo-jugador-de-Nacional-tras-su-paso-por-Penarol-uc948326",
+    "https://www.infobae.com/peru/deportes/2026/04/30/gol-maximiliano-silvera-universitario-vs-nacional-grupo-b-copa-libertadores-2026-video-hoy/",
+    "https://en.wikipedia.org/wiki/Maximiliano_Silvera",
+    "https://www.sofascore.com/football/player/maximiliano-silvera/1121489",
+    "https://es-us.noticias.yahoo.com/deportes/historia-maxi-silvera-goleador-pe%C3%B1arol-181605495.html"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "high",
+    "notes": "Real, currently active player -- confirmed via Montevideo.com.uy's own transfer-announcement piece, Infobae's Copa Libertadores 2026 match coverage, Wikipedia, Sofascore and a Yahoo feature on his Peñarol career. Born 5 Sep 1997, 177cm, 76kg, right-footed. Notable storyline: crossed the Peñarol-Nacional rivalry divide after failing to renew with Peñarol, where he had scored 33 goals in 102 matches and won multiple domestic titles plus a Copa Libertadores semi-final run. Scored for Nacional in the 2026 Copa Libertadores group stage (30 Apr 2026 vs Universitario). Age (28) is outside the 18-27 target band but included per assignment guidance favoring a strong verified story. 2026 Apertura: 698 minutes, 2 goals. Apps/starts breakdown, contract and market value not found in search snippets -> null."
+  }
+}

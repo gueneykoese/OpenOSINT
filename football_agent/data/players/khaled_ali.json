@@ -1,0 +1,73 @@
+{
+  "player_id": "khaled_ali",
+  "name": "Khaled Ali",
+  "age": 24,
+  "date_of_birth": "2001-10-05",
+  "nationality": ["QAT"],
+  "position": "RW",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Al Rayyan SC",
+  "current_club_league": "Qatar Stars League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Qatar Stars League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 6,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "right winger",
+      "Qatar U19/U23/senior international",
+      "6 goals, 1 assist in Qatar Stars League 2025/26 so far"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ar"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1349689/khaled-ali",
+    "https://www.qsl.qa/en/al-rayyan"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "DOB, nationality (Qatar U19/U23/senior international) and 2025/26 QSL goal/assist tally (6 goals, 1 assist) from Fotmob snippets, current as of a partial-season count (season in progress). Apps, minutes, starts not given -> null. Height, contract, market value, wage not found -> null. Position confirmed as right winger by multiple listings."
+  }
+}

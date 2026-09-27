@@ -1,0 +1,74 @@
+{
+  "player_id": "hasan_deshishku",
+  "name": "Hasan Deshishku",
+  "age": 18,
+  "date_of_birth": "2008-02-23",
+  "nationality": ["AUT"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 182,
+  "current_club": "Austria Wien",
+  "current_club_league": "Austrian Bundesliga",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Austrian Bundesliga",
+    "apps": 2,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "academy graduate, born and trained in Vienna",
+      "of Kosovan-Albanian descent",
+      "helped Austria Wien reserves win promotion to 2. Liga in 2024/25",
+      "Austria youth international (U15, U16)"
+    ],
+    "best_system": [],
+    "weak_in": ["very early-career; only 2 senior league appearances to date, no goals"]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["de", "sq"],
+    "family_situation": "Kosovan-Albanian descent, born in Vienna, Austria.",
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hasan_Deshishku",
+    "https://www.espn.com/soccer/player/_/id/413715/hasan-deshishku"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, academy path (Austria Wien reserves -> Regionalliga East -> promotion to 2. Liga 2024/25) and Kosovan-Albanian background from Wikipedia. 2 senior league appearances, 0 goals since 2026 per Wikipedia. Contract, market value, wage not found -> null. Very early-career prospect, included as a name-to-watch rather than an established player."
+  }
+}

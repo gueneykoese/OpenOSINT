@@ -1,0 +1,70 @@
+{
+  "player_id": "gustav_mortensen",
+  "name": "Gustav Mortensen",
+  "age": 22,
+  "date_of_birth": "2004-03-19",
+  "nationality": ["DEN"],
+  "position": "LB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Standard Liège",
+  "current_club_league": "Belgian Pro League",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Belgian Pro League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Danish youth international", "signed by Standard Liege on 15 Jan 2026 on a deal to June 2030, beating Westerlo to the signing", "young left-back prospect"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["da"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gustav_Mortensen",
+    "https://sports.yahoo.com/articles/standard-liege-beat-westerlo-signing-195400332.html",
+    "https://www.fotmob.com/players/1257304/gustav-mortensen"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Added to address LB under-representation via the Belgian Pro League. DOB, age, transfer date (15 Jan 2026) and contract length (to June 2030) per Wikipedia/Yahoo Sports/fotmob snippets. Named a Danish youth international; senior caps not confirmed. Height, foot, 2025/26 statline, wages, market value not found -> null. Standard Liege is not one of the 36 UCL 2026/27 pilot clubs."
+  }
+}
