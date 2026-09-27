@@ -1,0 +1,71 @@
+{
+  "player_id": "cong_yang",
+  "name": "Cong Yang",
+  "age": 21,
+  "date_of_birth": "2005-02-22",
+  "nationality": ["CHN"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Qingdao Hainiu",
+  "current_club_league": "Chinese Super League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Chinese Super League",
+    "apps": null,
+    "starts": null,
+    "minutes": 16,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "young Chinese forward",
+      "fringe squad player at Qingdao Hainiu in 2025/26 (very limited minutes)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["zh"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/de/players/1776393/cong-yang"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Born 22 February 2005; 21-year-old Chinese forward for Qingdao Hainiu (distinct club from Qingdao West Coast). 2025/26 CSL: 0 goals, 0 assists, 16 minutes -- essentially unused fringe squad player, per single Fotmob snippet. Included only to add non-duplicate Qingdao-club depth (existing pool entry Alex Yang left Qingdao for Shanghai Port in Feb 2026 per search results). Given the extremely thin minutes and single-source citation, confidence is low and most fields are left null rather than guessed."
+  }
+}

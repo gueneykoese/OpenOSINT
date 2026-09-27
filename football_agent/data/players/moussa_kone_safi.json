@@ -1,0 +1,74 @@
+{
+  "player_id": "moussa_kone_safi",
+  "name": "Moussa Koné",
+  "age": 29,
+  "date_of_birth": "1996-12-30",
+  "nationality": ["SEN"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 175,
+  "current_club": "Olympique de Safi",
+  "current_club_league": "Botola Pro",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Botola Pro",
+    "apps": null,
+    "starts": null,
+    "minutes": 631,
+    "goals": 5,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Senegalese striker, born in Dakar",
+      "Olympique de Safi's leading league scorer in 2025/26 (5 goals)",
+      "right-footed, 175cm"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/643672/moussa-kone",
+    "https://www.playmakerstats.com/player/moussa-kone/462102",
+    "https://fbref.com/en/players/3ef68782/Moussa-Kone"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Born 30 December 1996 in Dakar, Senegal; right-footed striker, 175cm, currently at Olympique de Safi. 2025/26 Botola Pro: 5 goals, 631 minutes, Safi's top league scorer this season despite the club sitting 16th in the table. Assists, contract length, market value and Senegal senior/youth international caps could not be confirmed from available snippets -> null. At 29 he is older than the assignment's target 18-27 band but included as a well-sourced, genuinely productive current top scorer from an otherwise-uncovered club (Olympique de Safi had zero prior pool entries)."
+  }
+}

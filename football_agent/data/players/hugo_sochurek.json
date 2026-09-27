@@ -1,0 +1,75 @@
+{
+  "player_id": "hugo_sochurek",
+  "name": "Hugo Sochůrek",
+  "age": 18,
+  "date_of_birth": "2008-06-07",
+  "nationality": ["CZE"],
+  "position": "CM",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 183,
+  "current_club": "AC Sparta Praha",
+  "current_club_league": "Czech First League",
+  "contract_until": null,
+  "market_value_eur_m": 3.3,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Czech First League",
+    "apps": 8,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "centre midfielder, promoted from Sparta Prague academy to senior team in 2026",
+      "made Czech Republic senior national team debut (1 cap) in 2026",
+      "5 further apps for Sparta Prague B in 2025/26"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["cs"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hugo_Soch%C5%AFrek",
+    "https://sparta.cz/en/tymy/1-men-a/hraci/926-hugo-sochurek",
+    "https://sparta.cz/en/tymy/1-men-a/hraci/926-hugo-sochurek/statistiky",
+    "https://www.espn.com/soccer/player/_/id/403974/hugo-sochurek"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "18-year-old Czech centre midfielder, Sparta Prague academy graduate promoted to the senior team in 2026 (first top-flight appearance Feb 2026, 8 apps/0 goals in 2025/26), already capped once for the Czech Republic senior national team and 3 times for U19. Market value (EUR 3.3m) from a Fotmob-derived snippet. Contract length and wages not publicly available -> null. Fits the pilot's 18-27 age band and plays for a club (Sparta Praha) outside the 36 UCL 2026/27 pilot clubs (Slavia Praha is the excluded Czech club)."
+  }
+}

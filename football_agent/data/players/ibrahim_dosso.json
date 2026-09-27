@@ -1,0 +1,81 @@
+{
+  "player_id": "ibrahim_dosso",
+  "name": "Ibrahim Dosso",
+  "age": 17,
+  "date_of_birth": "2009-01-01",
+  "nationality": ["CIV"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "ASEC Mimosas",
+  "current_club_league": "Ligue 1 (Ivory Coast)",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "for sale",
+  "stats_2025_26": {
+    "competition": "Ligue 1 (Ivory Coast)",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 8,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "top scorer, 2025/26 Ligue 1 (Ivory Coast) as of latest reporting (8 goals)",
+      "ASEC Mimosas academy forward",
+      "agreement reportedly in place for Aston Villa to sign him once he turns 18 on 1 Jan 2027"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [
+      {
+        "club": "Aston Villa",
+        "note": "Reported (Yahoo Sports/OneFootball, 2026) agreement in place for Aston Villa to sign Dosso from ASEC Mimosas once he turns 18 on 1 Jan 2027.",
+        "source": "https://sports.yahoo.com/article/aston-villa-secure-agreement-sign-112000978.html"
+      }
+    ],
+    "notes": null
+  },
+  "sources": [
+    "https://sports.yahoo.com/article/aston-villa-secure-agreement-sign-112000978.html",
+    "https://onefootball.com/en/news/aston-villa-in-agreement-with-asec-mimosas-to-sign-striker-ibrahim-dosso-41863812",
+    "https://makeyourstats.com/football/league/ivory-coast/ligue-1/827/stats/players",
+    "https://www.sofascore.com/football/player/ibrahim-dosso/2002658"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "17-year-old ASEC Mimosas striker (turns 18 on 1 Jan 2027), reported 2025/26 Ligue 1 (Ivory Coast) top scorer with 8 goals. Widely reported (Yahoo Sports, OneFootball) to have an agreement in place for a move to Aston Villa once he turns 18. As of this file's as_of date he is still an ASEC Mimosas player, not yet an Aston Villa first-teamer, so he is not excluded under the pilot's 36-UCL-club first-teamer rule; this should be re-checked as his transfer date approaches. Apps/minutes, market value, fee and wages not publicly available -> null."
+  }
+}

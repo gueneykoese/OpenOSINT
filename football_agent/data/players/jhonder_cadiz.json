@@ -1,0 +1,76 @@
+{
+  "player_id": "jhonder_cadiz",
+  "name": "Jhonder Cádiz",
+  "age": 31,
+  "date_of_birth": "1995-07-29",
+  "nationality": ["VEN"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 190,
+  "current_club": "Wuhan Three Towns",
+  "current_club_league": "Chinese Super League",
+  "contract_until": null,
+  "market_value_eur_m": 1.8,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Chinese Super League",
+    "apps": 21,
+    "starts": null,
+    "minutes": 1184,
+    "goals": 11,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Venezuelan forward, full name Jhonder Leonel Cadiz Fernandez",
+      "Wuhan Three Towns' top scorer in 2025/26 CSL season",
+      "0.69 goals per 90, ranked 6th of 310 qualifying CSL players by that metric",
+      "well-travelled career: Pachuca, Leon, Famalicao, Nashville SC, Benfica, Dijon, Vitoria de Setubal, Monagas, Moreirense, Nacional, Uniao da Madeira, Caracas, Deportivo Miranda"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/523414/jhonder-cadiz",
+    "https://www.espn.com/soccer/player/_/id/173239/jhonder-cadiz",
+    "https://onefootball.com/en/news/jhonder-cadiz-joins-wuhan-three-towns-after-pachuca-spell-42434758",
+    "https://en.wikipedia.org/wiki/Jhonder_C%C3%A1diz"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Born 29 July 1995; Venezuelan forward, 190cm, right-footed, joined Wuhan Three Towns from Pachuca. Previously played in Liga Portugal for Famalicao and Moreirense (both assignment-relevant clubs) and briefly for Benfica -- a real, well-documented journeyman career, not fabricated. 2025/26 CSL: 11 goals, 4 assists, 1184 minutes, 21 apps, top scorer at the club, 0.69 goals/90 (6th-best rate league-wide per Fotmob-derived snippet); one other source cited a higher 14-goals-in-21-games figure which could not be reconciled, so the more specific player-page number (11G/4A/1184min) was used. Above the assignment's 18-27 target age band (31) but included as a genuinely strong, well-sourced current CSL top scorer for a club (Wuhan Three Towns) previously absent from the pool."
+  }
+}

@@ -1,34 +1,29 @@
 {
   "player_id": "said_el_mala",
-  "name": "Said El Mala",
+  "name": "Saïd El Mala",
   "age": 20,
-  "date_of_birth": "2006-08-04",
-  "nationality": [
-    "GER"
-  ],
+  "date_of_birth": "2006-08-26",
+  "nationality": ["GER"],
   "position": "LW",
-  "secondary_positions": [
-    "RW",
-    "AM"
-  ],
-  "preferred_foot": "right",
+  "secondary_positions": ["RW"],
+  "preferred_foot": null,
   "height_cm": null,
   "current_club": "1. FC Köln",
   "current_club_league": "Bundesliga",
-  "contract_until": 2031,
-  "market_value_eur_m": 42.5,
-  "estimated_fee_eur_m": 60,
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
   "wage_eur_m_net": null,
   "release_clause_eur_m": null,
   "agent_status": "represented",
   "availability": "not for sale",
   "stats_2025_26": {
-    "competition": "All competitions",
+    "competition": "Bundesliga (2. Bundesliga promotion season)",
     "apps": 34,
     "starts": null,
     "minutes": null,
     "goals": 13,
-    "assists": 5,
+    "assists": null,
     "xg": null,
     "xa": null,
     "shots_p90": null,
@@ -41,46 +36,41 @@
   },
   "style_profile": {
     "tags": [
-      "explosive left winger",
-      "direct dribbler cutting inside",
-      "breakout 2025/26 (13 goals)",
-      "Germany international at 19",
-      "new Köln No.10"
+      "explosive winger, breakout 2025/26 season (13 goals in 34 league matches)",
+      "signed new contract at Koln in summer 2026, now wears number 10 (previously Podolski's number)",
+      "German youth international, father Lebanese",
+      "brother Malek El Mala also a footballer"
     ],
-    "best_system": [
-      "4-2-3-1 wide",
-      "4-3-3"
-    ],
-    "weak_in": [
-      "defensive discipline off the ball (unverified)"
-    ]
+    "best_system": [],
+    "weak_in": []
   },
   "mental_profile": {
     "leadership": null,
     "coachability": null,
     "resilience": null,
     "discipline": null,
-    "notes": "Chose to extend at Köln in Aug 2026 despite three Dortmund bids and Leipzig/Tottenham interest (Sky Germany via GGFN, Washington Post)."
+    "notes": null
   },
   "injury_history": [],
   "off_pitch": {
-    "languages": [
-      "de"
-    ],
-    "family_situation": null,
+    "languages": ["de", "ar"],
+    "family_situation": "Mother German, father Lebanese; brother Malek El Mala is also a professional footballer (public record via Bundesliga.com profile).",
     "public_statements": [],
-    "commercial_profile": "High-profile German youth international; Köln fan favourite",
+    "commercial_profile": "FIFA.com profile ('Introducing German starlet Said El Mala') ahead of the 2026 World Cup cycle suggests rising commercial/media profile.",
+    "happiness_status": "content",
+    "happiness_notes": "Signed a new contract with 1. FC Koln in summer 2026 rather than leaving after his breakout season.",
+    "preferred_clubs": [],
     "notes": null
   },
   "sources": [
-    "https://www.getfootballnewsgermany.com/2026/official-said-el-mala-extends-cologne-contract-until-2031/",
-    "https://www.washingtonpost.com/sports/soccer/2026/08/21/cologne-el-mala-contract-dortmund/4133fa10-9d45-11f1-9cc4-2dc9b46e2d5c_story.html",
-    "https://tothelaneandback.com/2026/08/22/tottenham-target-said-el-mala-new-contract-fc-koln-2031/",
-    "https://ca.soccerway.com/player/el-mala-said/KzrmNypJ"
+    "https://en.wikipedia.org/wiki/Said_El_Mala",
+    "https://www.bundesliga.com/en/bundesliga/news/who-is-said-el-mala-cologne-germany-youth-winger-brother-33152",
+    "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/said-el-mala-germany-profile",
+    "https://www.bundesliga.com/en/bundesliga/news/cologne-2026-27-season-preview-said-el-mala-rene-wagner-relegation-battle-38830"
   ],
-  "as_of": "2026-09-08",
+  "as_of": "2026-09-27",
   "data_quality": {
-    "confidence": "high",
-    "notes": "Contract to Jun 2031 signed Aug 2026, no exit clause per Sky Germany. 2025/26: 13 goals, 5 assists in 34 apps (Yahoo/OneFootball snippet, scope all comps presumed; starts/minutes null). Market value EUR 42.5m (stat-page snippet, Transfermarkt-style, Aug 2026). DOB from general knowledge. estimated_fee is researcher's estimate."
+    "confidence": "medium",
+    "notes": "20-year-old German winger, breakout 2025/26 season for 1. FC Koln (13 goals/34 apps, competition level not fully specified in snippets -- Koln was promoted to the Bundesliga for 2025/26 so this is treated as his debut top-flight campaign), signed a new contract in summer 2026 and now wears the number 10 shirt. Minutes/assists, market value, contract length and wages not publicly available -> null. Fits the pilot's 18-27 target age band; Koln is not one of the 36 UCL 2026/27 pilot clubs."
   }
 }

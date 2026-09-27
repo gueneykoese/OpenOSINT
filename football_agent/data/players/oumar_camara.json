@@ -1,0 +1,74 @@
+{
+  "player_id": "oumar_camara",
+  "name": "Oumar Camara",
+  "age": 19,
+  "date_of_birth": "2007-05-11",
+  "nationality": ["FRA"],
+  "position": "RW",
+  "secondary_positions": ["AM", "LW", "ST"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Vitória SC (Guimarães)",
+  "current_club_league": "Liga Portugal",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga Portugal",
+    "apps": null,
+    "starts": null,
+    "minutes": 1153,
+    "goals": 4,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "French versatile attacker, comfortable as right winger, left-sided AM, or forward",
+      "shirt number 19",
+      "one of several Vitoria Guimaraes young talents drawing European scouting interest in 2026 per a September 2026 scouting report"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr", "pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1692879/oumar-camara",
+    "https://www.espn.com/soccer/player/_/id/252095/oumar-camara",
+    "https://rudygaletti.substack.com/p/vitoria-guimaraes-in-the-spotlight"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Born 11 May 2007; French attacker at Vitoria Guimaraes, versatile across the front line (right winger primarily, also left AM/forward). 2025/26 Liga Portugal: 4 goals, 1 assist, 1153 minutes, 6.56 average rating. Named alongside Noah Saviolo, Tony Strata and Goncalo Nogueira in a September 2026 scouting substack piece on Vitoria Guimaraes talents attracting interest -- no specific club named for him, so preferred_clubs left empty. Height, foot, contract and market value not found -> null."
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "player_id": "vinicius_lopes_santa_clara",
+  "name": "Vinícius Lopes",
+  "age": 27,
+  "date_of_birth": "1999-05-07",
+  "nationality": ["BRA"],
+  "position": "ST",
+  "secondary_positions": ["AM"],
+  "preferred_foot": "right",
+  "height_cm": 175,
+  "current_club": "CD Santa Clara",
+  "current_club_league": "Liga Portugal",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga Portugal",
+    "apps": null,
+    "starts": null,
+    "minutes": 1220,
+    "goals": 5,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Brazilian forward, full name Vinícius Lopes da Silva",
+      "Santa Clara's leading league scorer in 2025/26 (6 goals per Fotmob club-level snippet, 5 per player page)",
+      "shirt number 70"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.sofascore.com/football/player/vinicius-lopes/1001753",
+    "https://www.besoccer.com/player/vinicius-843102",
+    "https://fbref.com/en/players/ecce7383/Vinicius"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Born 7 May 1999 in Brazil; right-footed, 175cm, wears no. 70 for Santa Clara. Two slightly different 2025/26 league goal counts appeared across snippets (a club-level summary said 6, his own player page said 5 goals/1 assist in 1220 minutes) - the player-page figure (5/1/1220) is used as the more specific, directly-attributed number. Market value, contract length and fee could not be confirmed and are left null. Included as Santa Clara's top attacking outlet, a club previously entirely uncovered in the pool."
+  }
+}

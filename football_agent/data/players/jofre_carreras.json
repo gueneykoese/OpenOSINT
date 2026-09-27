@@ -1,15 +1,15 @@
 {
-  "player_id": "benjamin_tetteh",
-  "name": "Benjamin Tetteh",
-  "age": 29,
-  "date_of_birth": "1997-07-10",
-  "nationality": ["GHA"],
-  "position": "ST",
+  "player_id": "jofre_carreras",
+  "name": "Jofre Carreras",
+  "age": 25,
+  "date_of_birth": "2001-06-17",
+  "nationality": ["ESP"],
+  "position": "RW",
   "secondary_positions": [],
   "preferred_foot": null,
   "height_cm": null,
-  "current_club": "NK Maribor",
-  "current_club_league": "Slovenian PrvaLiga",
+  "current_club": "RCD Espanyol",
+  "current_club_league": "La Liga",
   "contract_until": null,
   "market_value_eur_m": null,
   "estimated_fee_eur_m": null,
@@ -18,11 +18,11 @@
   "agent_status": "free",
   "availability": "open to move",
   "stats_2025_26": {
-    "competition": "Slovenian PrvaLiga",
+    "competition": "La Liga",
     "apps": null,
     "starts": null,
     "minutes": null,
-    "goals": 12,
+    "goals": null,
     "assists": null,
     "xg": null,
     "xa": null,
@@ -36,9 +36,9 @@
   },
   "style_profile": {
     "tags": [
-      "joint-top scorer, 2025/26 Slovenian PrvaLiga (12 goals)",
-      "Ghanaian centre-forward",
-      "previously played in Belgium, Turkey and Italy top flights"
+      "full name Jofre Carreras Pages",
+      "right winger, joined Espanyol's youth academy in 2014",
+      "born in Girona, came through Girona FC's youth ranks before Espanyol"
     ],
     "best_system": [],
     "weak_in": []
@@ -52,7 +52,7 @@
   },
   "injury_history": [],
   "off_pitch": {
-    "languages": ["en"],
+    "languages": ["es", "ca"],
     "family_situation": null,
     "public_statements": [],
     "commercial_profile": null,
@@ -62,14 +62,13 @@
     "notes": null
   },
   "sources": [
-    "https://en.wikipedia.org/wiki/Benjamin_Tetteh",
-    "https://www.playmakerstats.com/player/benjamin-tetteh/452994",
-    "https://www.soccerbase.com/players/player.sd?player_id=86619",
-    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Slovenian_PrvaLiga"
+    "https://en.wikipedia.org/wiki/Jofre_Carreras",
+    "https://www.espn.com/soccer/player/_/id/307270/jofre-carreras",
+    "https://en.soccerwiki.org/player.php?pid=119539"
   ],
   "as_of": "2026-09-27",
   "data_quality": {
-    "confidence": "medium",
-    "notes": "Ghanaian centre-forward, joint-top scorer (12 goals with Nikita Iosifov) of the 2025/26 Slovenian PrvaLiga for NK Maribor. Apps/minutes/assists, market value, contract and wages not publicly available -> null."
+    "confidence": "low",
+    "notes": "25-year-old Spanish right winger for RCD Espanyol, an academy product since 2014. Detailed 2025/26 statistics, market value, contract and wages could not be confirmed in indexed sources -> null; included primarily on biographical/positional grounds to deepen La Liga coverage at a club (Espanyol) with limited entries in the pool. Confidence kept low given the lack of verifiable current-season stats."
   }
 }

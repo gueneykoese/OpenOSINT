@@ -1,0 +1,79 @@
+{
+  "player_id": "joe_waithira",
+  "name": "Joe Waithira",
+  "age": 29,
+  "date_of_birth": "1996-11-06",
+  "nationality": ["KEN"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Murang'a Seal FC",
+  "current_club_league": "Kenyan Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Kenyan Premier League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 19,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed finisher",
+      "2025/26 Kenyan Premier League Golden Boot winner (19 goals)",
+      "team captain",
+      "joined mid-season Jan 2024, over 70 appearances since"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": 4,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Captain of Murang'a Seal FC; publicly stated ambition of scoring 20+ goals in a season (Daily Nation interview)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["sw", "en"],
+    "family_situation": null,
+    "public_statements": [
+      "Told Daily Nation (2026) he is 'targeting over 20 goals' as he builds on his Golden Boot form."
+    ],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://nation.africa/kenya/sports/football/i-m-targeting-over-20-goals-warns-kpl-top-scorer-joseph-waithira--5346396",
+    "https://nation.africa/kenya/sports/football/joseph-waithira-my-left-foot-paid-off-big-time-5505570",
+    "https://thekenyatimes.com/latest-kenya-times-news/joe-waithiras-journey-from-kiharu-to-kenya-premier-league-star/",
+    "https://k24.digital/sports/muranga-seal-prolific-striker-waithira-keen-to-extend-goal-tally-in-posta-rangers-clash",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Kenyan_Premier_League"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Also referred to as 'Joseph Waithira'/'Joe Waithira' interchangeably across Kenyan press; treated as same player. Confirmed 2025/26 Kenyan Premier League Golden Boot winner with 19 goals for Murang'a Seal FC, captain, left-footed striker. DOB (6 Nov 1996) from search snippet, not independently cross-verified on a second primary source; age therefore medium confidence. Apps/minutes/assists, market value, contract and wages not publicly available -> null. Older than the pilot's typical 18-27 target age but included for a well-documented, verifiable domestic-league story (Golden Boot, captaincy) in an under-represented league (Kenyan Premier League)."
+  }
+}

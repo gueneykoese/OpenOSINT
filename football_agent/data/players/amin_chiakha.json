@@ -7,7 +7,7 @@
   "position": "ST",
   "secondary_positions": [],
   "preferred_foot": null,
-  "height_cm": null,
+  "height_cm": 191,
   "current_club": "Rosenborg BK",
   "current_club_league": "Eliteserien",
   "contract_until": null,
@@ -15,14 +15,14 @@
   "estimated_fee_eur_m": null,
   "wage_eur_m_net": null,
   "release_clause_eur_m": null,
-  "agent_status": "represented",
+  "agent_status": "free",
   "availability": "open to move",
   "stats_2025_26": {
     "competition": "Eliteserien",
     "apps": null,
     "starts": null,
     "minutes": null,
-    "goals": 12,
+    "goals": 13,
     "assists": null,
     "xg": null,
     "xa": null,
@@ -35,7 +35,11 @@
     "progressive_carries_p90": null
   },
   "style_profile": {
-    "tags": ["young striker", "Rosenborg's 2026 league top scorer (12 league goals, 13 all competitions)", "born in Denmark, former Danish youth international, plays for Algeria senior national team (Algerian father, Danish mother)"],
+    "tags": [
+      "2026 Eliteserien top scorer (13 goals)",
+      "tall target-man profile (191cm)",
+      "Algerian forward at Rosenborg BK"
+    ],
     "best_system": [],
     "weak_in": []
   },
@@ -48,7 +52,7 @@
   },
   "injury_history": [],
   "off_pitch": {
-    "languages": ["da", "fr"],
+    "languages": ["ar", "fr"],
     "family_situation": null,
     "public_statements": [],
     "commercial_profile": null,
@@ -58,13 +62,14 @@
     "notes": null
   },
   "sources": [
-    "https://en.wikipedia.org/wiki/Amin_Chiakha",
-    "https://www.fotmob.com/players/1555050/amin-chiakha",
-    "https://www.espn.com/soccer/player/_/id/387488/amin-chiakha"
+    "https://www.espn.com/soccer/player/_/id/387488/amin-chiakha",
+    "https://www.fotmob.com/en-GB/players/1555050/amin-chiakha",
+    "https://fbref.com/en/players/53955b35/Amin-Chiakha",
+    "https://www.topscorersfootball.com/eliteserien"
   ],
   "as_of": "2026-09-27",
   "data_quality": {
     "confidence": "medium",
-    "notes": "12 league goals figure is for the 2026 Eliteserien season per Wikipedia/ESPN snippets (labelled '2026 Rosenborg BK season' top scorer). Apps, minutes, assists not isolated in snippets -> null. Contract, market value, wage unknown -> null."
+    "notes": "20-year-old Algerian forward, 2026 Eliteserien top scorer (13 goals) for Rosenborg BK. Age/height/nationality from a Fotmob/WhoScored-derived snippet, not independently cross-checked on a second primary source -> medium confidence. Apps/minutes/assists, market value, contract and wages not publicly available -> null. Fits the pilot's 18-27 target age band well and plays for a club outside the 36 UCL 2026/27 clubs."
   }
 }

@@ -1,0 +1,76 @@
+{
+  "player_id": "kaue_camargo",
+  "name": "Kauê",
+  "age": 22,
+  "date_of_birth": "2004-02-08",
+  "nationality": ["BRA"],
+  "position": "GK",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 190,
+  "current_club": "SC Corinthians Paulista",
+  "current_club_league": "Brasileirão Série A",
+  "contract_until": 2029,
+  "market_value_eur_m": 0.315,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Brasileirão Série A",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "goalkeeper, full name Kauê Vinícius de Souza Camargo",
+      "Corinthians academy graduate since age 15",
+      "promoted through U17 (2020) and U20 (2021) age groups",
+      "reported 2026 save percentage roughly 70-72% across stats sites",
+      "shirt number 51"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Kau%C3%AA_(footballer,_born_February_2004)",
+    "https://www.sofascore.com/football/player/kaue/1382923",
+    "https://www.playmakerstats.com/player/kaue/790126"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Born in Santa Cruz do Rio Pardo, Sao Paulo, on 8 Feb 2004; joined Corinthians academy at 15 and rose through U17/U20 ranks; late-2025 first-team debut backup goalkeeper. Contract to Dec 2029 and market value EUR 315k per Sportsdunia/BeSoccer-style aggregator snippets (medium confidence, not cross-checked against Transfermarkt directly due to access restrictions). Precise 2025/26 apps/minutes and save percentage varied across sources (70-72%) so left as null/qualitative rather than picking one unverified number."
+  }
+}

@@ -2,34 +2,28 @@
   "player_id": "mert_komur",
   "name": "Mert Kömür",
   "age": 21,
-  "date_of_birth": "2005-07-11",
-  "nationality": [
-    "GER",
-    "TUR"
-  ],
+  "date_of_birth": "2005-07-17",
+  "nationality": ["GER"],
   "position": "AM",
-  "secondary_positions": [
-    "RW",
-    "CM"
-  ],
-  "preferred_foot": "left",
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
   "height_cm": null,
   "current_club": "FC Augsburg",
   "current_club_league": "Bundesliga",
-  "contract_until": 2029,
-  "market_value_eur_m": 12,
-  "estimated_fee_eur_m": 14,
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
   "wage_eur_m_net": null,
   "release_clause_eur_m": null,
-  "agent_status": "represented",
+  "agent_status": "free",
   "availability": "open to move",
   "stats_2025_26": {
     "competition": "Bundesliga",
     "apps": 28,
-    "starts": 18,
+    "starts": null,
     "minutes": null,
-    "goals": 2,
-    "assists": 5,
+    "goals": 3,
+    "assists": 4,
     "xg": null,
     "xa": null,
     "shots_p90": null,
@@ -42,48 +36,40 @@
   },
   "style_profile": {
     "tags": [
-      "left-footed creative attacking midfielder",
-      "between-the-lines receiver",
-      "Germany U21 international",
-      "Augsburg academy graduate"
+      "cemented first-team place at Augsburg in 2025/26 (28 competitive apps, 3 goals, 4 assists)",
+      "born in Dachau, Germany; father Turkish, eligible for both Germany and Turkey internationally",
+      "German youth international"
     ],
-    "best_system": [
-      "4-2-3-1 as No.10",
-      "3-4-2-1"
-    ],
-    "weak_in": [
-      "physicality",
-      "defensive work"
-    ]
+    "best_system": [],
+    "weak_in": []
   },
   "mental_profile": {
     "leadership": null,
     "coachability": null,
     "resilience": null,
     "discipline": null,
-    "notes": "Reported to have agreed personal terms with Hull City (summer 2026) after Augsburg rejected four bids; one red card in 2025/26 (Soccerway)."
+    "notes": null
   },
   "injury_history": [],
   "off_pitch": {
-    "languages": [
-      "de",
-      "tr"
-    ],
-    "family_situation": null,
+    "languages": ["de", "tr"],
+    "family_situation": "Father of Turkish descent (public record via Bundesliga.com profile); eligible to represent Germany or Turkey internationally.",
     "public_statements": [],
     "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
     "notes": null
   },
   "sources": [
-    "https://www.getfootballnewsgermany.com/2026/mert-komur-hull-open/",
-    "https://sports.yahoo.com/articles/hull-city-fail-fourth-effort-175900826.html",
-    "https://bulinews.com/augsburg-reject-two-hull-city-bids-for-mert-komur",
-    "https://sports.yahoo.com/articles/ikta-submit-10m-offer-augsburg-162000850.html",
-    "https://en.wikipedia.org/wiki/Mert_K%C3%B6m%C3%BCr"
+    "https://en.wikipedia.org/wiki/Mert_K%C3%B6m%C3%BCr",
+    "https://www.bundesliga.com/en/bundesliga/news/who-is-mert-komur-augsburg-midfielder-38466",
+    "https://www.fcaugsburg.de/en/team/player/mert-koemuer-en-209",
+    "https://fbref.com/en/players/ec68a918/Mert-Komur"
   ],
-  "as_of": "2026-09-08",
+  "as_of": "2026-09-27",
   "data_quality": {
     "confidence": "medium",
-    "notes": "Contract to 2029 (signed summer 2025), no release clause. Transfermarkt EUR 12m (2026 snippet). 2025/26 Bundesliga: 28 apps (18 starts), 2 goals, 5 assists; Soccerway all-comps line: 23 apps 2g 3a (earlier snapshot). Hull bids up to EUR 12m rejected; Augsburg wanted EUR 13-14m guaranteed; no completed move seen -> still Augsburg (not independently confirmed post-deadline). Milan/Besiktas (EUR 10m bid) also linked. estimated_fee = Augsburg's reported ask. DOB from general knowledge."
+    "notes": "21-year-old attacking midfielder who established himself in FC Augsburg's first team in 2025/26 (28 apps, 3 goals, 4 assists). Market value, contract and wages not publicly available -> null. Fits the pilot's 18-27 target age band; Augsburg is not one of the 36 UCL 2026/27 pilot clubs."
   }
 }

@@ -1,0 +1,73 @@
+{
+  "player_id": "tony_strata",
+  "name": "Tony Strata",
+  "age": 21,
+  "date_of_birth": "2004-09-07",
+  "nationality": ["ROU"],
+  "position": "RB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Vitória SC (Guimarães)",
+  "current_club_league": "Liga Portugal",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga Portugal",
+    "apps": null,
+    "starts": null,
+    "minutes": 1096,
+    "goals": 0,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Romanian right-back, joined Vitoria Guimaraes in 2025",
+      "named among a group of Vitoria Guimaraes young talents (with Noah Saviolo, Oumar Camara, Goncalo Nogueira) drawing European scouting interest in 2026 per a rudygaletti.substack.com report"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ro", "pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.espn.com/soccer/player/_/id/362062/tony-strata",
+    "https://www.365scores.com/football/player/tony-strata-130818",
+    "https://rudygaletti.substack.com/p/vitoria-guimaraes-in-the-spotlight"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Born 7 September 2004; Romanian right-back who joined Vitoria Guimaraes in 2025. 2025/26 Liga Portugal: 0 goals, 1 assist, 1096 minutes, 6.71 average rating, 2 yellow cards. Named alongside Noah Saviolo, Oumar Camara and Goncalo Nogueira in a September 2026 scouting substack piece as one of several Vitoria Guimaraes youngsters drawing interest from clubs across different leagues -- no specific suitor club was named for him individually, so preferred_clubs left empty. Height, foot, contract and market value not found -> null."
+  }
+}

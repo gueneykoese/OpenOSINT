@@ -3,31 +3,26 @@
   "name": "Kristian Hlynsson",
   "age": 22,
   "date_of_birth": "2004-01-23",
-  "nationality": [
-    "ISL"
-  ],
+  "nationality": ["ISL"],
   "position": "AM",
-  "secondary_positions": [
-    "CM",
-    "RW"
-  ],
-  "preferred_foot": "right",
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
   "height_cm": null,
   "current_club": "FC Twente",
   "current_club_league": "Eredivisie",
   "contract_until": null,
   "market_value_eur_m": null,
-  "estimated_fee_eur_m": 10,
+  "estimated_fee_eur_m": null,
   "wage_eur_m_net": null,
   "release_clause_eur_m": null,
-  "agent_status": "represented",
+  "agent_status": "free",
   "availability": "open to move",
   "stats_2025_26": {
     "competition": "Eredivisie",
     "apps": null,
     "starts": null,
-    "minutes": null,
-    "goals": 10,
+    "minutes": 2054,
+    "goals": 8,
     "assists": 3,
     "xg": null,
     "xa": null,
@@ -41,16 +36,12 @@
   },
   "style_profile": {
     "tags": [
-      "goal-scoring attacking midfielder",
-      "late runs into the box",
-      "Twente top scorer 2025/26",
-      "ex-Ajax academy",
-      "Iceland international"
+      "Iceland international attacking midfielder",
+      "came through Ajax academy, previously named Eredivisie Talent of the Month (Jan 2024)",
+      "brief spell at Sparta Rotterdam before joining FC Twente",
+      "8 goals, 3 assists in 2025/26 Eredivisie"
     ],
-    "best_system": [
-      "4-2-3-1 as no.10",
-      "4-3-3 as advanced 8"
-    ],
+    "best_system": [],
     "weak_in": []
   },
   "mental_profile": {
@@ -62,21 +53,23 @@
   },
   "injury_history": [],
   "off_pitch": {
-    "languages": [],
+    "languages": ["is", "nl"],
     "family_situation": null,
     "public_statements": [],
     "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
     "notes": null
   },
   "sources": [
-    "https://en.wikipedia.org/wiki/2025%E2%80%9326_FC_Twente_season",
-    "https://en.wikipedia.org/wiki/Kristian_Hlynsson",
     "https://www.fotmob.com/players/1098086/kristian-hlynsson",
-    "https://www.espn.com/soccer/player/stats/_/id/311168/kristian-hlynsson"
+    "https://sports.yahoo.com/article/fc-twente-eredivisie-2025-26-114000475.html",
+    "https://www.whoscored.com/players/424248/show/kristian-hlynsson"
   ],
-  "as_of": "2026-09-08",
+  "as_of": "2026-09-27",
   "data_quality": {
-    "confidence": "low",
-    "notes": "Joined Twente from Ajax 8 Jul 2025 (after a half-season loan at Sparta). 2025/26 Eredivisie: 10 goals (Twente top scorer per Wikipedia season page), 3 assists (FotMob); apps null. Contract length not found -> null; still at Twente for 2026/27 not explicitly re-verified -> low confidence. Fee is researcher's estimate. DOB from general knowledge."
+    "confidence": "medium",
+    "notes": "22-year-old Icelandic attacking midfielder for FC Twente, an Ajax academy product (Ajax is one of the 36 UCL 2026/27 pilot clubs, but Hlynsson left Ajax for Sparta Rotterdam then Twente, so he is fair game per the pilot's transfer-out rule). 2025/26 Eredivisie season: 8 goals, 3 assists, 2054 minutes per a Fotmob-derived aggregator. Apps/starts count, market value, contract and wages not publicly available -> null."
   }
 }

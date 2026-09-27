@@ -1,0 +1,74 @@
+{
+  "player_id": "jhojan_torres",
+  "name": "Jhojan Torres",
+  "age": 23,
+  "date_of_birth": "2003-01-12",
+  "nationality": ["COL"],
+  "position": "DM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Independiente Santa Fe",
+  "current_club_league": "Categoría Primera A (Colombia)",
+  "contract_until": null,
+  "market_value_eur_m": 0.86,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Categoría Primera A (Colombia)",
+    "apps": null,
+    "starts": null,
+    "minutes": 959,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "defensive midfielder, Independiente Santa Fe",
+      "Colombia U20/U23 international pool",
+      "won Primera A (2025 Apertura) and Superliga Colombiana (2026) titles with Santa Fe"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "6 yellow cards recorded in the 2026 Primera A season per Fotmob-derived stats -- discipline flagged as worth monitoring, not independently corroborated with match reports."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1422890/jhojan-torres",
+    "https://www.sofascore.com/football/player/jhojan-torres/1394726",
+    "https://www.statshub.com/player/jhojan-torres/381988"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "23-year-old Colombian defensive midfielder for Independiente Santa Fe; 2026 Primera A season line (0 goals, 0 assists, 959 minutes, 6 yellow cards) and EUR 0.86m market value from Fotmob-derived aggregator snippets, not cross-verified against a second primary source. Apps/starts count and contract/wages not publicly available -> null. Included to deepen the under-represented Categoría Primera A (Colombia)."
+  }
+}

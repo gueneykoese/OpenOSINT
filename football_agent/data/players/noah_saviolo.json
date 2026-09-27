@@ -1,0 +1,76 @@
+{
+  "player_id": "noah_saviolo",
+  "name": "Noah Saviolo",
+  "age": 22,
+  "date_of_birth": "2004-03-07",
+  "nationality": ["BEL", "POR"],
+  "position": "LW",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Vitória SC (Guimarães)",
+  "current_club_league": "Liga Portugal",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga Portugal",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 2,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "dual Belgian-Portuguese left winger, right-footed (inverted winger profile)",
+      "named Primeira Liga Young Player of the Month, December 2025",
+      "played in the 2026 Taca da Liga final (Vitoria Guimaraes won 2-1 vs Braga)",
+      "part of a group of Vitoria Guimaraes academy/young talents drawing European scouting interest in 2026 alongside Tony Strata, Oumar Camara and Goncalo Nogueira"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr", "pt", "nl"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.espn.com/soccer/player/_/id/410817/noah-saviolo",
+    "https://scores24.live/en/soccer/p-n-saviolo",
+    "https://rudygaletti.substack.com/p/vitoria-guimaraes-in-the-spotlight",
+    "https://tribuna.com/en/persons/noah-jose-saviolo/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Born 7 March 2004; dual Belgian and Portuguese nationality, left winger, right-footed, contract to 30 June 2028. Named Liga Portugal Young Player of the Month for December 2025 and featured in the January 2026 Taca da Liga final win over Braga. 2025/26 league stats: 2 goals, 4 assists (apps/minutes not specified in snippets -> null). A rudygaletti.substack.com scouting piece (Sept 2026) names him among several Vitoria Guimaraes youngsters (with Tony Strata, Oumar Camara, Goncalo Nogueira) attracting European club interest, but does not name specific suitor clubs, so preferred_clubs left empty. Height and market value not found -> null."
+  }
+}

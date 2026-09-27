@@ -1,0 +1,72 @@
+{
+  "player_id": "anwar_abdelsalam",
+  "name": "Anwar Abdelsalam",
+  "age": 20,
+  "date_of_birth": "2006-05-01",
+  "nationality": ["EGY"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Ismaily SC",
+  "current_club_league": "Egyptian Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Egyptian Premier League",
+    "apps": null,
+    "starts": null,
+    "minutes": 681,
+    "goals": 1,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "young Egyptian striker, still fringe first-team minutes",
+      "scored a stoppage-time winner-contributing goal in a 3-1 win over Haras El-Hodood (2025/26 season)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ar"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1797612/anwar-abdelsalam",
+    "https://egyptian-gazette.com/sports/action-heats-up-in-egyptian-league-round-11/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Born 1 May 2006; 19/20-year-old Egyptian striker at Ismaily SC. 2025/26 Egyptian Premier League: 1 goal (a stoppage-time strike v Haras El-Hodood per Egyptian Gazette match report), 0 assists, 681 minutes, 6.2 average rating -- fringe squad member with limited minutes. Note: one search snippet indicated Ismaily was relegated to the Egyptian Second Division at some point, which could not be fully reconciled with other sources still listing them in the Premier League for 2025/26 -- flagged here rather than silently resolved. Youth international caps, height, foot and contract data not found -> null."
+  }
+}

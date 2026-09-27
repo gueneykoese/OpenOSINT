@@ -1,28 +1,28 @@
 {
-  "player_id": "benjamin_tetteh",
-  "name": "Benjamin Tetteh",
-  "age": 29,
-  "date_of_birth": "1997-07-10",
-  "nationality": ["GHA"],
-  "position": "ST",
+  "player_id": "wang_kang_wuhan",
+  "name": "Wang Kang",
+  "age": 20,
+  "date_of_birth": "2006-05-05",
+  "nationality": ["CHN"],
+  "position": "CB",
   "secondary_positions": [],
   "preferred_foot": null,
   "height_cm": null,
-  "current_club": "NK Maribor",
-  "current_club_league": "Slovenian PrvaLiga",
+  "current_club": "Wuhan Three Towns",
+  "current_club_league": "Chinese Super League",
   "contract_until": null,
   "market_value_eur_m": null,
   "estimated_fee_eur_m": null,
   "wage_eur_m_net": null,
   "release_clause_eur_m": null,
-  "agent_status": "free",
-  "availability": "open to move",
+  "agent_status": "represented",
+  "availability": "contract running down",
   "stats_2025_26": {
-    "competition": "Slovenian PrvaLiga",
+    "competition": "Chinese Super League",
     "apps": null,
     "starts": null,
     "minutes": null,
-    "goals": 12,
+    "goals": null,
     "assists": null,
     "xg": null,
     "xa": null,
@@ -36,9 +36,8 @@
   },
   "style_profile": {
     "tags": [
-      "joint-top scorer, 2025/26 Slovenian PrvaLiga (12 goals)",
-      "Ghanaian centre-forward",
-      "previously played in Belgium, Turkey and Italy top flights"
+      "young Chinese centre-back",
+      "squad member at reigning-era CSL club Wuhan Three Towns"
     ],
     "best_system": [],
     "weak_in": []
@@ -52,7 +51,7 @@
   },
   "injury_history": [],
   "off_pitch": {
-    "languages": ["en"],
+    "languages": ["zh"],
     "family_situation": null,
     "public_statements": [],
     "commercial_profile": null,
@@ -62,14 +61,11 @@
     "notes": null
   },
   "sources": [
-    "https://en.wikipedia.org/wiki/Benjamin_Tetteh",
-    "https://www.playmakerstats.com/player/benjamin-tetteh/452994",
-    "https://www.soccerbase.com/players/player.sd?player_id=86619",
-    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Slovenian_PrvaLiga"
+    "https://africa.espn.com/football/player/_/id/407943/wang-kang"
   ],
   "as_of": "2026-09-27",
   "data_quality": {
-    "confidence": "medium",
-    "notes": "Ghanaian centre-forward, joint-top scorer (12 goals with Nikita Iosifov) of the 2025/26 Slovenian PrvaLiga for NK Maribor. Apps/minutes/assists, market value, contract and wages not publicly available -> null."
+    "confidence": "low",
+    "notes": "Identified via ESPN squad listing as a 19/20-year-old (born 5 May 2006) Chinese defender at Wuhan Three Towns. No verifiable 2025/26 statistics, height, foot, contract length or market value could be found in available WebSearch snippets -- all left null rather than estimated. Included purely as domestic defensive depth for Wuhan Three Towns, a CSL club previously absent from the pool; confidence is low given the very thin sourcing (single squad-list citation)."
   }
 }

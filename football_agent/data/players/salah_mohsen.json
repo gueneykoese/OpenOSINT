@@ -1,0 +1,75 @@
+{
+  "player_id": "salah_mohsen",
+  "name": "Salah Mohsen",
+  "age": 28,
+  "date_of_birth": "1998-09-01",
+  "nationality": ["EGY"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Al Masry SC",
+  "current_club_league": "Egyptian Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Egyptian Premier League",
+    "apps": null,
+    "starts": null,
+    "minutes": 990,
+    "goals": 6,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Egypt and Egypt U23 international",
+      "won CAF Champions League, CAF Super Cup, Egyptian league/cup with Al Ahly SC",
+      "won CAF U23 Cup of Nations with Egypt U23",
+      "career: Al Ahly SC, Ceramica Cleopatra, Smouha SC, ENPPI, now Al Masry SC",
+      "Al Masry's leading scorer/top performer in 2025/26 (7.24 avg FotMob rating)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ar"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/826686/salah-mohsen",
+    "https://www.flashscoreusa.com/player/salah-mohsen/QPBb4Ipn/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Born 1 September 1998 (age 28 as of Sept 2026); Egypt/Egypt U23 international striker with an Al Ahly SC trophy-laden past (CAF Champions League, CAF Super Cup, Egyptian Premier League and Cup) before moving down to Ceramica Cleopatra, Smouha SC, ENPPI and now Al Masry SC. 2025/26 Egyptian Premier League: 6 goals, 1 assist, 990 minutes, 7.24 average rating (Al Masry's standout performer per Fotmob club snippet). Height, preferred foot, contract length and market value not found in available snippets -> null. His trophy history with Al Ahly (not one of the 36 UCL pilot clubs) is publicly documented career history, not a current-club conflict."
+  }
+}

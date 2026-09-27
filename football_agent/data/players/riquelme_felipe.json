@@ -1,0 +1,75 @@
+{
+  "player_id": "riquelme_felipe",
+  "name": "Riquelme Felipe",
+  "age": 19,
+  "date_of_birth": "2007-03-13",
+  "nationality": ["BRA"],
+  "position": "RW",
+  "secondary_positions": ["AM"],
+  "preferred_foot": "left",
+  "height_cm": 175,
+  "current_club": "Fluminense",
+  "current_club_league": "Brasileirão Série A",
+  "contract_until": null,
+  "market_value_eur_m": 5.5,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Campeonato Carioca",
+    "apps": null,
+    "starts": null,
+    "minutes": 179,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed attacking midfielder/right winger",
+      "Fluminense (Xerém) academy product",
+      "full name Riquelme Felipe Silva de Almeida",
+      "shirt number 28"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.sofascore.com/football/player/riquelme-felipe-silva/1884803",
+    "https://www.fotmob.com/players/1697411/riquelme-felipe",
+    "https://www.playmakerstats.com/player/riquelme-felipe/1022179"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Stats found (179 minutes, 0G/0A) are from the January 2026 Campeonato Carioca (Taca Guanabara), not the Brasileirao Serie A season proper, and are labelled accordingly; Serie A 2025/26 apps/minutes could not be confirmed from available snippets so left null. EUR 5.5m market value is a Fotmob-style site estimate, not independently verified against Transfermarkt (blocked). Left-footed, 175cm, shirt no. 28 per Sofascore/Fotmob. A genuine Xerém academy right winger/AM, included as Fluminense attacking depth beyond the already-covered John Kennedy."
+  }
+}

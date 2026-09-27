@@ -1,0 +1,75 @@
+{
+  "player_id": "aleksandar_katai",
+  "name": "Aleksandar Katai",
+  "age": 35,
+  "date_of_birth": "1991-02-06",
+  "nationality": ["SRB"],
+  "position": "RW",
+  "secondary_positions": ["AM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Red Star Belgrade",
+  "current_club_league": "Serbian SuperLiga",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Serbian SuperLiga",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 18,
+    "assists": 3,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "18 goals, 3 assists for Red Star Belgrade in 2025/26 Serbian SuperLiga",
+      "former MLS player (LA Galaxy, Chicago Fire)",
+      "started career at FK Vojvodina, led 2015/16 Serbian SuperLiga with 21 goals",
+      "Serbia international"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["sr", "en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Aleksandar_Katai",
+    "https://www.playmakerstats.com/player/aleksandar-katai/140765",
+    "https://fbref.com/en/players/d5127c3f/Aleksandar-Katai"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "35-year-old Serbian winger for Red Star Belgrade, 18 goals/3 assists in the 2025/26 Serbian SuperLiga (Aleksandar Katai's 2025/26 season line per Fotmob-derived aggregator). Well above the pilot's 18-27 target age band but included for a strong, well-documented current story deepening the Serbian SuperLiga (not one of the 36 UCL 2026/27 pilot clubs). Apps/starts/minutes, market value, contract and wages not publicly available -> null."
+  }
+}

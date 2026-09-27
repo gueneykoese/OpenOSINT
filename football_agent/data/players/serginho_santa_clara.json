@@ -1,0 +1,74 @@
+{
+  "player_id": "serginho_santa_clara",
+  "name": "Serginho",
+  "age": 26,
+  "date_of_birth": "1999-12-01",
+  "nationality": ["POR"],
+  "position": "CM",
+  "secondary_positions": ["AM"],
+  "preferred_foot": null,
+  "height_cm": 181,
+  "current_club": "CD Santa Clara",
+  "current_club_league": "Liga Portugal",
+  "contract_until": 2027,
+  "market_value_eur_m": 1.4,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga Portugal",
+    "apps": null,
+    "starts": null,
+    "minutes": 2040,
+    "goals": 4,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "full name Sérgio Miguel Lobo Araújo",
+      "Santa Clara's standout league performer in 2025/26 (top FotMob rating in squad, 7.16 avg)",
+      "chief creator for the club (2 assists, highest at the club per club-level snippet)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.espn.co.uk/football/player/_/id/351573/serginho",
+    "https://www.playmakerstats.com/player/serginho/398696",
+    "https://forzafootball.com/player/1212377733"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Born 1 December 1999, Portuguese midfielder, full name Sergio Miguel Lobo Araujo, 181cm/77kg. Contract until 30 June 2027 and market value EUR 1.4m per Playmakerstats/aggregator profile (not cross-checked against Transfermarkt directly, which is blocked). 2025/26 Liga Portugal stats: 4 goals, 2 assists, 2040 minutes, 7.16 avg rating (highest-rated Santa Clara player in season-to-date snippets). Preferred foot could not be confirmed -> null."
+  }
+}

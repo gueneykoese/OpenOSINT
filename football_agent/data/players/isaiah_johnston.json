@@ -1,0 +1,76 @@
+{
+  "player_id": "isaiah_johnston",
+  "name": "Isaiah Johnston",
+  "age": 24,
+  "date_of_birth": "2001-12-16",
+  "nationality": ["CAN"],
+  "position": "ST",
+  "secondary_positions": ["AM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Halifax Wanderers FC",
+  "current_club_league": "Canadian Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Canadian Premier League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 11,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Canadian Premier League Golden Boot contender 2026 (11 goals, tied for league lead at one point)",
+      "named Maple Lodge Farms Player of the Week (Matchweek 22)",
+      "scored a brace vs Inter Toronto FC"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.cplsoccer.com/players/588cc7602a904011b1490a8e56d533e2/isaiah-johnston",
+    "https://www.cplsoccer.com/news/isaiah-johnston-named-maple-lodge-farms-player-of-the-week-matchweek-22",
+    "https://www.cplsoccer.com/news/who-will-win-the-2026-cpl-golden-boot",
+    "https://www.cbc.ca/player/play/video/9.7351598",
+    "https://www.hfxfootballpost.ca/wanderers-4-inter-toronto-fc-1-an-electric-first-half-johnstons-new-cologne-and-weathering-the-storm/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Confirmed via CPL official site and Halifax-focused outlets as a Halifax Wanderers forward in the thick of the 2026 CPL Golden Boot race (11 goals, level with Loic Kwemi at one point in the season). DOB from a Sofascore-derived snippet, not independently cross-checked on a second primary source -> medium confidence on exact age. Apps/minutes/assists, market value, contract, wages not publicly available -> null."
+  }
+}

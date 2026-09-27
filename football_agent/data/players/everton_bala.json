@@ -1,29 +1,29 @@
 {
   "player_id": "everton_bala",
-  "name": "Francisco Everton Mota de Castro (Everton Bala)",
+  "name": "Everton Bala",
   "age": 27,
   "date_of_birth": "1999-01-03",
   "nationality": ["BRA"],
   "position": "LW",
   "secondary_positions": [],
   "preferred_foot": null,
-  "height_cm": 180,
-  "current_club": "Levski Sofia",
+  "height_cm": null,
+  "current_club": "PFC Levski Sofia",
   "current_club_league": "Bulgarian First League",
   "contract_until": null,
-  "market_value_eur_m": 1.4,
+  "market_value_eur_m": null,
   "estimated_fee_eur_m": null,
   "wage_eur_m_net": null,
   "release_clause_eur_m": null,
-  "agent_status": "represented",
+  "agent_status": "free",
   "availability": "open to move",
   "stats_2025_26": {
-    "competition": "Bulgarian First Professional League (efbet League)",
-    "apps": 21,
+    "competition": "Bulgarian First League",
+    "apps": null,
     "starts": null,
-    "minutes": 1765,
-    "goals": 15,
-    "assists": 3,
+    "minutes": null,
+    "goals": 18,
+    "assists": null,
     "xg": null,
     "xa": null,
     "shots_p90": null,
@@ -36,9 +36,9 @@
   },
   "style_profile": {
     "tags": [
-      "left winger, tied for the 2025/26 Bulgarian First League golden boot (18 goals per Wikipedia league-season summary)",
-      "part of Levski Sofia's 2025/26 title-winning squad (first title since 2009)",
-      "now playing UEFA Champions League 2026/27 qualifying with Levski Sofia"
+      "joint-top scorer, 2025/26 Bulgarian First League (18 goals)",
+      "left winger, Levski Sofia's first league title since 2009",
+      "Brazilian full name Francisco Everton Mota de Castro"
     ],
     "best_system": [],
     "weak_in": []
@@ -62,14 +62,14 @@
     "notes": null
   },
   "sources": [
-    "https://en.wikipedia.org/wiki/Everton_Bala",
-    "https://www.fotmob.com/players/1344892/everton-bala",
-    "https://www.espn.com/soccer/player/_/id/333970/everton-bala",
-    "https://www.uefa.com/uefachampionsleague/clubs/players/250209320--everton-bala/"
+    "https://en.bulgarian-football.com/players/francisco-everton-mota-de-castro",
+    "https://fbref.com/en/players/30230d02/Everton-Bala",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_First_Professional_Football_League_(Bulgaria)",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_PFC_Levski_Sofia_season"
   ],
   "as_of": "2026-09-27",
   "data_quality": {
     "confidence": "medium",
-    "notes": "Full name, DOB, nationality and height from Wikipedia/FotMob snippets via WebSearch. Goal totals conflict across snippets: a league-season summary (Wikipedia) states he tied for the 2025/26 First League golden boot with 18 goals; a FotMob-derived snippet gives 15 goals/1765 minutes across all recorded matches, while another gives 21 apps/11 goals/2 assists specifically in the 'efbet League' portion -- these likely reflect different competition splits or snapshot dates and could not be fully reconciled from search snippets alone; recorded the FotMob 15-goal/1765-minute figure as the primary stats_2025_26 line with apps from the efbet League split, and flagged the discrepancy here rather than picking one silently. Confirmed Levski Sofia won the 2025/26 Bulgarian title (first since 2009) and are in UEFA Champions League 2026/27 qualifying. Contract expiry, preferred foot, fee and wage not found -> null. Age 27 is above the pilot's core 18-27 band ceiling but included given the golden-boot-level 2025/26 season and club's return to the Champions League picture."
+    "notes": "Brazilian left winger (full name Francisco Everton Mota de Castro) for PFC Levski Sofia, joint-top scorer of the 2025/26 Bulgarian First League with 18 goals as Levski won their first title since 2009. Apps/minutes/assists, market value, contract and wages not publicly available -> null."
   }
 }

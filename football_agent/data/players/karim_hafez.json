@@ -1,0 +1,75 @@
+{
+  "player_id": "karim_hafez",
+  "name": "Karim Hafez",
+  "age": 30,
+  "date_of_birth": "1996-03-12",
+  "nationality": ["EGY"],
+  "position": "LB",
+  "secondary_positions": [],
+  "preferred_foot": "left",
+  "height_cm": 175,
+  "current_club": "Pyramids FC",
+  "current_club_league": "Egyptian Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Egyptian Premier League",
+    "apps": null,
+    "starts": null,
+    "minutes": 853,
+    "goals": 1,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Egypt international left-back, left-footed",
+      "European experience: Eskisehirspor (Turkey), Lierse (Belgium), Lens (France), Kasimpasa and Yeni Malatyaspor (Turkey)",
+      "returned to Egyptian Premier League with Pyramids FC in 2021",
+      "started at Al-Mokawloon Al-Arab academy, debuted 2014"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ar", "fr", "tr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.sofascore.com/football/player/karim-hafez/577736",
+    "https://fbref.com/en/players/d2debf23/Karim-Hafez",
+    "https://www.365scores.com/football/player/karim-hafez-1188"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Born 12 March 1996; Egyptian left-back, left-footed, 175cm, with a genuine European career (Lens in France's Ligue 1, plus Belgium and Turkey) before returning to Pyramids FC in 2021. 2025/26 Egyptian Premier League: 1 goal, 1 assist, 853 minutes, 7.39 avg rating. Above the assignment's 18-27 target age band (30) but included as an experienced, publicly well-documented Egypt international with prior top-five-league experience -- a plausible represented free-agent-style target given his age and past Ligue 1 spell. Contract length and market value not found -> null."
+  }
+}

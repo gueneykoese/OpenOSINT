@@ -8,18 +8,18 @@
   "secondary_positions": [],
   "preferred_foot": null,
   "height_cm": null,
-  "current_club": "ESTAC Troyes",
-  "current_club_league": "Ligue 2",
-  "contract_until": null,
+  "current_club": "RSC Anderlecht",
+  "current_club_league": "Belgian Pro League",
+  "contract_until": 2030,
   "market_value_eur_m": null,
-  "estimated_fee_eur_m": null,
+  "estimated_fee_eur_m": 4.5,
   "wage_eur_m_net": null,
   "release_clause_eur_m": null,
   "agent_status": "represented",
-  "availability": "open to move",
+  "availability": "not for sale",
   "stats_2025_26": {
-    "competition": "Ligue 2",
-    "apps": null,
+    "competition": "Ligue 2 (loan at Troyes, from Union Touarga Sportif)",
+    "apps": 28,
     "starts": null,
     "minutes": null,
     "goals": 18,
@@ -35,7 +35,12 @@
     "progressive_carries_p90": null
   },
   "style_profile": {
-    "tags": ["Ligue 2 top scorer 2025/26 (18 goals)", "loan spell revelation", "attracted Feyenoord scouting interest"],
+    "tags": [
+      "2025/26 Ligue 2 top scorer (18 goals in 28 apps) while on loan at Troyes from Union Touarga Sportif",
+      "helped Troyes win promotion to Ligue 1",
+      "joined RSC Anderlecht permanently for a reported EUR 4.5m fee, 22 Aug 2026, four-year deal",
+      "Moroccan international pool"
+    ],
     "best_system": [],
     "weak_in": []
   },
@@ -48,7 +53,7 @@
   },
   "injury_history": [],
   "off_pitch": {
-    "languages": ["fr", "ar"],
+    "languages": ["ar", "fr"],
     "family_situation": null,
     "public_statements": [],
     "commercial_profile": null,
@@ -59,13 +64,14 @@
   },
   "sources": [
     "https://en.wikipedia.org/wiki/Tawfik_Bentayeb",
-    "https://www.getfootballnewsfrance.com/2026/feyenoord-eye-ligue-2-top-scorer-tawfik-bentayeb/",
-    "https://fbref.com/en/players/9184e764/Tawfik-Bentayeb",
-    "https://www.playmakerstats.com/player/tawfik-bentayeb/715054"
+    "https://www.footmercato.net/a6408920888685113178-anderlecht-boucle-larrivee-de-tawfik-bentayeb",
+    "https://news.maxifoot.fr/anderlecht/bentayeb-recrute-pour-4-5-m-euro-off-foot-462231.htm",
+    "https://www.moroccoworldnews.com/2026/08/335292/reports-moroccan-striker-tawfik-bentayeb-nears-move-to-anderlecht/",
+    "https://sports.yahoo.com/articles/toulouse-interested-tawfik-bentayeb-102000592.html"
   ],
-  "as_of": "2026-09-09",
+  "as_of": "2026-09-27",
   "data_quality": {
-    "confidence": "low",
-    "notes": "Finished 2025/26 as Ligue 2's outright top scorer (18 goals) while on a loan spell at ESTAC Troyes; his registered parent club is reported as the Moroccan club Union Touarga (loan originally due to run to 30 June 2026), which creates uncertainty about his exact club status for 2026/27 -> current_club set to Troyes (his playing club as of the most recent reporting, per Yahoo/Get French Football News coverage of Feyenoord's scouting interest) but this could not be confirmed as a permanent move. Apps/minutes/assists not found in available snippets -> null. Height, foot, contract_until, market value all unverified -> null. No public statements on happiness/transfer preference found."
+    "confidence": "high",
+    "notes": "Moroccan striker: was 2025/26 Ligue 2 top scorer (18 goals/28 apps) on loan at Troyes from Union Touarga Sportif, helping Troyes win Ligue 1 promotion; permanently transferred to RSC Anderlecht for a reported EUR 4.5m (incl. bonuses) on 22 Aug 2026, on a four-year deal (through 2030). current_club/current_club_league reflect his post-transfer situation (Anderlecht, Belgian Pro League) as of Sept 2026; stats_2025_26 reflect his prior Ligue 2 loan spell since that is the season being reported. Market value, wages, apps for new club not yet available -> null."
   }
 }

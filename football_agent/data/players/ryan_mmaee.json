@@ -3,7 +3,7 @@
   "name": "Ryan Mmaee",
   "age": 28,
   "date_of_birth": "1997-11-01",
-  "nationality": ["MAR"],
+  "nationality": ["MAR", "BEL"],
   "position": "ST",
   "secondary_positions": [],
   "preferred_foot": null,
@@ -15,7 +15,7 @@
   "estimated_fee_eur_m": null,
   "wage_eur_m_net": null,
   "release_clause_eur_m": null,
-  "agent_status": "represented",
+  "agent_status": "free",
   "availability": "open to move",
   "stats_2025_26": {
     "competition": "Cypriot First Division",
@@ -36,10 +36,9 @@
   },
   "style_profile": {
     "tags": [
-      "Moroccan striker, top scorer of the 2025/26 Cypriot First Division with 25 goals",
-      "joined Omonia Nicosia from Stoke City in August 2025",
-      "prior career included spells in Ligue 1 (Reims) and Hungary (Ferencvaros) before Stoke City",
-      "part of Omonia's 2025/26 Cypriot title-winning squad"
+      "2025/26 Cypriot First Division top scorer (25 goals)",
+      "Morocco international, dual Morocco-Belgium nationality",
+      "well-travelled career: Stoke City, Rapid Wien, Ferencvaros, AEL Limassol, Standard Liege, AGF, SK Beveren"
     ],
     "best_system": [],
     "weak_in": []
@@ -53,7 +52,7 @@
   },
   "injury_history": [],
   "off_pitch": {
-    "languages": ["fr", "ar"],
+    "languages": ["ar", "fr", "nl"],
     "family_situation": null,
     "public_statements": [],
     "commercial_profile": null,
@@ -63,13 +62,15 @@
     "notes": null
   },
   "sources": [
-    "https://footystats.org/players/morocco/ryan-mmaee",
-    "https://www.topscorersfootball.com/cypriot-first-division/season-2025/2026",
-    "https://www.fotmob.com/nb/players/635606/ryan-mmaee"
+    "https://www.worldfootball.net/competition/co44/cyprus-first-division/statistics-scorers/",
+    "https://www.playmakerstats.com/player/ryan-mmaee/462205",
+    "https://www.bundesliga.com/en/player/ryan-mmaee",
+    "https://africasoccer.com/al-ahly-eye-move-for-morocco-belgium-forward-ryan-mmaee-of-omonia-nicosia/",
+    "https://africasoccer.com/ryan-mmaee-atlas-guadalajara-linked-with-move-for-morocco-belgium-striker/"
   ],
   "as_of": "2026-09-27",
   "data_quality": {
     "confidence": "medium",
-    "notes": "DOB, nationality and move from Stoke City (26 Aug 2025) from FootyStats/AiScore snippets via WebSearch; league golden-boot total (25 goals, 2025/26 Cypriot First Division) confirmed by a topscorersfootball.com league-season table snippet. Assists, apps, minutes, height, preferred foot, contract expiry, market value, fee and wage not found in available snippets -> null. Age 28 is above the pilot's 18-27 target band but included as the league's clear top scorer and a title-winner."
+    "notes": "Confirmed 2025/26 Cypriot First Division top scorer (25 goals) for AC Omonia across worldfootball.net and playmakerstats.com. Separate africasoccer.com reports discuss transfer interest from Al Ahly and a possible move to Liga MX side Atlas (Guadalajara) during 2026, but no source confirms a completed transfer, so current_club is kept as Omonia per the season-stats sources; flagged as a name to re-verify given the volume of transfer chatter. Apps/minutes/assists, market value, contract and wages not publicly available -> null."
   }
 }

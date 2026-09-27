@@ -1,0 +1,77 @@
+{
+  "player_id": "djhordney_ferreira",
+  "name": "Djhordney Ferreira",
+  "age": 19,
+  "date_of_birth": "2007-06-17",
+  "nationality": ["BRA"],
+  "position": "DM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": "right",
+  "height_cm": 181,
+  "current_club": "São Paulo FC",
+  "current_club_league": "Brasileirão Série A",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Brasileirão Série A",
+    "apps": null,
+    "starts": null,
+    "minutes": 75,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "defensive midfielder",
+      "academy graduate (Novorizontino youth, loaned through Palmeiras and São Paulo U20)",
+      "won 2025 U20 Copa do Brasil on loan at São Paulo",
+      "permanently acquired by São Paulo in 2026 for R$1m",
+      "very early-career first-team minutes"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Djhordney",
+    "https://www.sofascore.com/football/player/djhordney-ferreira/1884601",
+    "https://www.espn.com/soccer/player/bio/_/id/402686/djhordney-ferreira",
+    "https://www.fotmob.com/players/1898791/djhordney"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Born 17 June 2007 in Campo Grande; began at Novorizontino youth, loaned to Palmeiras U17 (2024) and São Paulo U20 (2025), winning the U20 Copa do Brasil, before São Paulo permanently signed him for R$1m in 2026. Made pro debut 25 Feb 2026 (1-0 away win over Coritiba). Only 75 minutes of senior 2026 football recorded across sources with 0 goals/0 assists; apps/starts/contract_until/market value could not be verified from available snippets so left null. A genuine academy graduate rather than a fabricated profile, but data is thin given how early-stage his first-team career is."
+  }
+}

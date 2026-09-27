@@ -1,0 +1,77 @@
+{
+  "player_id": "nathan_de_cat",
+  "name": "Nathan De Cat",
+  "age": 18,
+  "date_of_birth": "2008-07-19",
+  "nationality": ["BEL"],
+  "position": "DM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": "right",
+  "height_cm": 192,
+  "current_club": "TSG 1899 Hoffenheim",
+  "current_club_league": "Bundesliga",
+  "contract_until": null,
+  "market_value_eur_m": 25,
+  "estimated_fee_eur_m": 17,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Belgian Pro League (prior season, at Anderlecht)",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "tall (192cm) defensive/central midfielder",
+      "stepped up from RSCA Futures U23 to Anderlecht first team July 2025, regular Pro League starter",
+      "signed by Hoffenheim from Anderlecht for a reported EUR 17m (up to EUR 20m with bonuses) fee, 10 July 2026",
+      "debuted for Belgium senior national team vs USA, March 2026",
+      "regarded as one of Belgium's standout young midfielders"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["nl", "fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nathan_De_Cat",
+    "https://www.sofascore.com/news/nathan-de-cat-to-hoffenheim-e17m-move-for-anderlechts-17-year-old-midfielder",
+    "https://www.anderlecht-online.be/en/article/252331",
+    "https://note.com/miasan25/n/n226672bb4deb?hl=en"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "high",
+    "notes": "18-year-old Belgian defensive midfielder, moved from RSC Anderlecht to TSG 1899 Hoffenheim for a reported EUR 17m fee (up to EUR 20m with bonuses) on 10 July 2026; market value cited at EUR 25m in one snippet. Made his Belgium senior debut vs USA in March 2026. 2026/27 Bundesliga stats not yet available at time of writing -> null; his most recent full statistical season was at Anderlecht (2025/26 Belgian Pro League), for which detailed per-match numbers were not found -> null. Very much in the pilot's 18-27 target age band and playing for a club outside the 36 UCL 2026/27 pilot clubs."
+  }
+}

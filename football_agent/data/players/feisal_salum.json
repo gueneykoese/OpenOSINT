@@ -3,19 +3,19 @@
   "name": "Feisal Salum",
   "age": 28,
   "date_of_birth": "1998-01-11",
-  "nationality": ["TZA"],
+  "nationality": ["TAN"],
   "position": "AM",
-  "secondary_positions": [],
-  "preferred_foot": "right",
-  "height_cm": 178,
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
+  "height_cm": null,
   "current_club": "Azam FC",
   "current_club_league": "Tanzanian Premier League",
   "contract_until": null,
   "market_value_eur_m": null,
   "estimated_fee_eur_m": null,
-  "wage_eur_m_net": null,
+  "wage_eur_m_net": 0.33,
   "release_clause_eur_m": null,
-  "agent_status": "represented",
+  "agent_status": "free",
   "availability": "open to move",
   "stats_2025_26": {
     "competition": "Tanzanian Premier League",
@@ -36,9 +36,9 @@
   },
   "style_profile": {
     "tags": [
-      "attacking midfielder / second striker",
-      "Azam FC's leading league scorer, 2025/26 (14 goals)",
-      "Tanzania international"
+      "attacking midfielder, from Zanzibar",
+      "2025/26 Tanzanian Premier League top scorer (14 goals)",
+      "reportedly highest-paid player in the Tanzanian Premier League"
     ],
     "best_system": [],
     "weak_in": []
@@ -52,22 +52,24 @@
   },
   "injury_history": [],
   "off_pitch": {
-    "languages": ["sw", "en"],
+    "languages": ["sw"],
     "family_situation": null,
     "public_statements": [],
-    "commercial_profile": null,
+    "commercial_profile": "Reported (2026) to be the highest-paid player in the Tanzanian Premier League on roughly $360,000/year at Azam FC after a 2025 contract extension including a $305,000 signing bonus.",
     "happiness_status": null,
     "happiness_notes": null,
     "preferred_clubs": [],
     "notes": null
   },
   "sources": [
-    "https://www.livescore.com/en/season-stats/feisal-salum/78142/",
-    "https://en.soccerwiki.org/player.php?pid=142831"
+    "https://en.wikipedia.org/wiki/Feisal_Salum",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Tanzanian_Premier_League",
+    "https://www.threads.com/@biografrica/post/DbAXktmDFlc/year-old-feisal-salum-is-the-highest-paid-player-in-the-tanzania-premier-league",
+    "https://fbref.com/en/players/939e79e2/Feisal-Salum"
   ],
   "as_of": "2026-09-27",
   "data_quality": {
-    "confidence": "low",
-    "notes": "DOB, height and position from Soccerwiki/LiveScore snippets. 14-goal top-scorer tally for Azam FC in 2025/26 also from LiveScore; not cross-verified against a second independent source, so confidence is low. Apps, minutes, assists not found -> null. Contract, market value, wage not found -> null."
+    "confidence": "medium",
+    "notes": "Top-scorer status (14 goals, 2025/26 Tanzanian Premier League) and reported $360k/year salary at Azam FC corroborated across Wikipedia and a social/media snippet; wage figure converted from USD to EUR approx (0.33m net) and flagged as approximate. Apps/minutes/assists, market value, transfer fee, contract length not publicly available -> null."
   }
 }

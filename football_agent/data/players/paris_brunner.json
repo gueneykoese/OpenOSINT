@@ -1,0 +1,76 @@
+{
+  "player_id": "paris_brunner",
+  "name": "Paris Brunner",
+  "age": 20,
+  "date_of_birth": "2006-02-15",
+  "nationality": ["GER"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 185,
+  "current_club": "AS Monaco",
+  "current_club_league": "Ligue 1",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Ligue 1",
+    "apps": 4,
+    "starts": 4,
+    "minutes": 390,
+    "goals": 4,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "German striker, developed through Rot-Weiss Essen, VfL Bochum and Borussia Dortmund academies",
+      "signed by Monaco Aug 2024, immediately loaned to Cercle Brugge (28 apps, 6 goals)",
+      "started all of Monaco's first 4 Ligue 1 matches of 2026/27, incl. a brace vs Marseille and a 25m strike vs another side",
+      "one of the standout names of the opening weeks of the 2026/27 Ligue 1 season"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["de", "fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.beinsports.com/en-us/soccer/ligue-1/articles/who-is-paris-brunner-meet-monaco-s-next-big-hope-2026-09-14",
+    "https://www.asmonaco.com/en/joueurs/paris-brunner",
+    "https://www.fotmob.com/en-GB/players/1412956/paris-brunner",
+    "https://www.soccerbase.com/players/player.sd?player_id=180431"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "high",
+    "notes": "20-year-old German striker for AS Monaco, on a contract to June 2028; had made 4 goals in Monaco's first 4 Ligue 1 matches of 2026/27 as of mid-Sept 2026 per beIN Sports/Fotmob-derived data, after a productive loan at Cercle Brugge (6 goals in 28 apps). Market value and wages not publicly available -> null. Squarely in the pilot's 18-27 target age band and playing for a club outside the 36 UCL 2026/27 pilot clubs."
+  }
+}
