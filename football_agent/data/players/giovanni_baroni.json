@@ -1,0 +1,78 @@
+{
+  "player_id": "giovanni_baroni",
+  "name": "Giovanni Baroni",
+  "age": 17,
+  "date_of_birth": "2009-01-21",
+  "nationality": ["ARG"],
+  "position": "AM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": "left",
+  "height_cm": 183,
+  "current_club": "Talleres de Córdoba",
+  "current_club_league": "Liga Profesional Argentina",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga Profesional Argentina (Torneo Apertura 2026)",
+    "apps": null,
+    "starts": null,
+    "minutes": 817,
+    "goals": 0,
+    "assists": 3,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed attacking midfielder / enganche",
+      "youngest first-team debutant for Talleres in ~20 years (debuted age 17, Apertura 2026 opener vs Newell's, started by coach Carlos Tevez)",
+      "Argentina U-17 international: won 2026 South American U-17 Championship (Copa UC) undefeated, scored 4 goals including 2 in the final",
+      "described as among the standout global U-17 talents of his cohort alongside academy prospects at Bayern Munich, PSG and Toulouse"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Publicly noted as a 'protegido' (protégé) of Talleres head coach Carlos Tevez, who fast-tracked him into the first team at 17 (Infobae, 30 Mar 2026)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.clubtalleres.com.ar/jugadores/giovanni-baroni/",
+    "https://www.infobae.com/deportes/2026/03/30/placente-dio-a-conocer-los-convocados-de-la-seleccion-sub-17-para-el-sudamericano-el-protegido-de-tevez-que-asoma-como-figura/",
+    "https://viapais.com.ar/cordoba/quien-es-giovanni-baroni-el-debutante-mas-joven-de-talleres-en-los-ultimos-20-anos/",
+    "https://www.perfil.com/noticias/cordoba/gio-baroni-talleres-y-el-delicado-arte-de-ilusionarse.phtml",
+    "https://www.minutouno.com/deportes/quien-es-giovanni-baroni-la-joya-talleres-que-rescato-al-equipo-la-copa-argentina-n6242798",
+    "https://www.fotmob.com/players/1783366"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Real, currently active player confirmed via multiple Argentine outlets (Infobae, Perfil, ViaPais, Minuto Uno) and club site as of 2026 Torneo Apertura. DOB (21 Jan 2009), height (183cm) and left foot from Soccerway/club profile snippets. 2025/26 stats (817 minutes, 0 goals, 3 assists in current Apertura) from Fotmob snippet; apps/starts breakdown, weight, contract terms, market value and commercial details not found in search snippets -> null. No transfer/valuation reporting found yet given his age and recency of debut (Jan 2026), consistent with an early-stage scouting target rather than an active sale case."
+  }
+}

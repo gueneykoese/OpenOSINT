@@ -1,0 +1,78 @@
+{
+  "player_id": "valentin_davila",
+  "name": "Valentín Dávila",
+  "age": 19,
+  "date_of_birth": "2007-01-19",
+  "nationality": ["ARG"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Talleres de Córdoba",
+  "current_club_league": "Liga Profesional Argentina",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga Profesional Argentina (Torneo Apertura 2026)",
+    "apps": 11,
+    "starts": 3,
+    "minutes": null,
+    "goals": 4,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "center-forward, goalscoring instinct",
+      "Talleres' top scorer in early 2026 Apertura (4 goals in 11 apps, 3 starts / 8 sub appearances)",
+      "scored 2 goals vs Gimnasia de Mendoza (14 Feb 2026) after coming on for injured Bruno Barticciotto",
+      "holds Talleres' club record for fastest goal after entering as a substitute (22 seconds)",
+      "Argentina U-20 international call-up"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.clubtalleres.com.ar/jugadores/valentin-davila/",
+    "https://www.dobleamarilla.com.ar/liga-/el-record-de-valentin-davila-en-talleres-que-genera-sorpresa--es-impresionante_a69c3da4104596299c95c74b9",
+    "https://www.perfil.com/noticias/cordoba/jugada-preparada-o-ultimo-recurso-ocho-juveniles-debutaron-en-talleres-belgrano-e-instituto-en-2026.phtml",
+    "https://www.espn.com/soccer/player/_/id/396616/valentin-davila",
+    "https://www.sofascore.com/football/player/valentin-davila/1885940"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Real, currently active player confirmed via Talleres club site, ESPN, Sofascore and multiple Argentine outlets (Doble Amarilla, Perfil). DOB 19 Jan 2007 per ESPN/soccerway snippets. 2025/26 Apertura stats (11 apps, 3 starts, 4 goals, top scorer) from Perfil/Doble Amarilla reporting; minutes, assists, height, preferred foot, contract and market value not found in search snippets -> null. No European transfer interest reported yet in snippets given recency of breakout (Feb 2026)."
+  }
+}

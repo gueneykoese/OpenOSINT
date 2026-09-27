@@ -1,0 +1,77 @@
+{
+  "player_id": "ignacio_ovando",
+  "name": "Ignacio Ovando",
+  "age": 18,
+  "date_of_birth": "2007-06-29",
+  "nationality": ["ARG"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Rosario Central",
+  "current_club_league": "Liga Profesional Argentina",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga Profesional Argentina 2026/27 (all competitions)",
+    "apps": 16,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "academy graduate central defender at Rosario Central",
+      "first team minutes from 2025, first goal vs Instituto (Clausura 2025)",
+      "called up by Argentina head coach Lionel Scaloni as a training 'sparring' player for the senior squad ahead of the 2026 World Cup (26 May 2026)",
+      "wears shirt no. 46"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://es.wikipedia.org/wiki/Ignacio_Ovando",
+    "https://rosariocentral.com/jugadores/ignacio-ovando/",
+    "https://www.sofascore.com/football/player/ignacio-ovando/2048634",
+    "https://www.whoscored.com/players/552836/show/ignacio-ovando",
+    "https://espndeportes.espn.com/futbol/jugador/_/id/400123/ignacio-ovando"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Real, currently active player confirmed via Spanish Wikipedia, Rosario Central official site, Sofascore, WhoScored and ESPN. Born 29 June 2007 in Gualeguaychú, Entre Ríos; central defender, shirt no. 46. Called up by Lionel Scaloni as a training sparring partner for the senior Argentina squad ahead of the 2026 World Cup, per Wikipedia-sourced reporting dated 26 May 2026 -- notable public validation of his profile even though not a full senior cap. 2026/27 season: 16 apps, 1 goal across all competitions per Sofascore snippet; starts, minutes, height, preferred foot, contract terms and market value not found in search snippets -> null."
+  }
+}

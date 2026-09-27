@@ -1,0 +1,70 @@
+{
+  "player_id": "diant_ramaj",
+  "name": "Diant Ramaj",
+  "age": 23,
+  "date_of_birth": null,
+  "nationality": ["GER", "KVX"],
+  "position": "GK",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "FC Copenhagen (on loan from Borussia Dortmund)",
+  "current_club_league": "Danish Superliga",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "Danish Superliga",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["former Ajax no.1 who fell out of favour and requested to leave", "transferred Ajax to Borussia Dortmund", "now out on loan at FC Copenhagen for 2026/27", "32 Eredivisie appearances during Ajax spell"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Publicly reported to have expressed a desire to leave Ajax after losing his starting spot, which preceded his move to Borussia Dortmund."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["de"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Diant_Ramaj",
+    "https://english.ajax.nl/articles/ajax-and-borussia-dortmund-reach-agreement-on-diant-ramaj",
+    "https://www.fotmob.com/players/1042347/diant-ramaj"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Added to address GK under-representation. Squad-registration nuance: Ramaj is contracted to Borussia Dortmund (a 36-club UCL 2026/27 pilot club) but is NOT a Dortmund first-teamer -- he is out on a season-long loan to FC Copenhagen (Danish Superliga) for 2026/27, which is the profile this file targets (current_club_league set to Danish Superliga accordingly). Exact loan terms, 2025/26 Ajax/Dortmund statline, DOB, height and foot not confirmed in available snippets -> left null. Flag for re-verification once 2026/27 Copenhagen appearance data is available."
+  }
+}

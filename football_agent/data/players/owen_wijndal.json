@@ -1,0 +1,70 @@
+{
+  "player_id": "owen_wijndal",
+  "name": "Owen Wijndal",
+  "age": 26,
+  "date_of_birth": "1999-11-28",
+  "nationality": ["NED"],
+  "position": "LB",
+  "secondary_positions": [],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Ajax",
+  "current_club_league": "Eredivisie",
+  "contract_until": 2027,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Eredivisie",
+    "apps": 19,
+    "starts": null,
+    "minutes": 1355,
+    "goals": 1,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Ajax's regular starting left-back", "returned to Ajax after a loan spell at Royal Antwerp / Stade Rennais earlier in career", "3 yellow cards in the sampled 2025/26 stretch"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["nl"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Owen_Wijndal",
+    "https://www.fotmob.com/players/798062/owen-wijndal",
+    "https://www.espn.com/soccer/player/_/id/241392/owen-wijndal"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Added to address LB under-representation via Eredivisie. 2025/26 statline (19 apps, 1355 minutes, 1 goal, 0 assists, 3 yellow cards) per fotmob snippet; contract confirmed to 2027. Height, wages, market value not found -> null. Ajax is not one of the 36 UCL 2026/27 pilot clubs. Marked 'open to move' as a general default for an established Eredivisie starter without a specific reported bid; no direct sourcing for that field so treat with caution."
+  }
+}

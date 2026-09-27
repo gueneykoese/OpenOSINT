@@ -1,0 +1,70 @@
+{
+  "player_id": "unai_simon",
+  "name": "Unai Simón",
+  "age": 29,
+  "date_of_birth": null,
+  "nationality": ["ESP"],
+  "position": "GK",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 191,
+  "current_club": "Athletic Club (Bilbao)",
+  "current_club_league": "La Liga",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "La Liga",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Athletic Club's long-standing no.1, in his eighth full first-team campaign", "2026 World Cup Golden Glove winner (10 saves, 7 clean sheets, 1 goal conceded in 8 matches)", "Spain international no.1"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es", "eu"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": "content",
+    "happiness_notes": "Long-tenured, homegrown-policy Athletic Club captain-tier figure with no reported exit interest; coming off a Golden Glove World Cup run with Spain.",
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.espn.com/soccer/player/_/id/222375/unai-simon",
+    "https://www.athletic-club.eus/en/players/unai-simon-mendibil/",
+    "https://en.wikipedia.org/wiki/Unai_Sim%C3%B3n"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Added to address GK under-representation. Age (29) and height (191cm/6'3\") per ESPN/soccerbase snippets. Named Golden Glove winner at the 2026 World Cup per search summary. Athletic Club's Basque-only recruitment policy makes him effectively unsellable, hence availability=not for sale. DOB, exact contract end date, 2025/26 club statline, wages, market value not found in snippets -> null. Athletic Club is not one of the 36 UCL 2026/27 pilot clubs."
+  }
+}

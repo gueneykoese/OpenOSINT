@@ -1,0 +1,78 @@
+{
+  "player_id": "gonzalo_escudero",
+  "name": "Gonzalo Escudero",
+  "age": 19,
+  "date_of_birth": "2007-04-01",
+  "nationality": ["ARG"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 180,
+  "current_club": "Racing Club",
+  "current_club_league": "Liga Profesional Argentina",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "2026 (Racing Club reserve + Copa Sudamericana first team)",
+    "apps": 1,
+    "starts": null,
+    "minutes": 7,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "central defender, academy graduate at Racing Club",
+      "second-youngest first-team debutant in Racing Club history (26 Aug 2023, aged 16 years 4 months 25 days)",
+      "Copa Sudamericana winner 2024 squad member (final vs Cruzeiro)",
+      "Argentina U-20 call-up under Javier Mascherano (Sep 2024)",
+      "currently split between Racing Club's reserve side and fringe first-team minutes (1 Copa Sudamericana appearance, 7 minutes, in 2026)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://es.wikipedia.org/wiki/Gonzalo_Escudero_(futbolista)",
+    "https://www.racingclub.com.ar/futbol/selectivo/jugador/1496_escudero/",
+    "https://www.sofascore.com/football/player/gonzalo-escudero/1482416",
+    "https://www.espn.com.ar/futbol/jugador/_/id/361553/gonzalo-escudero",
+    "https://mx.soccerway.com/jugador/escudero-gonzalo/O80UbBBS/"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Real, currently active player confirmed via Spanish Wikipedia, Racing Club's own reserve-squad profile page, Sofascore, ESPN Argentina and Soccerway. Born 1 April 2007; 180cm; wears no. 43; central defender. 2024 Copa Sudamericana winner and 2024 U-20 call-up are well documented historical facts. Current 2026 minutes are thin (1 Copa Sudamericana appearance, 7 minutes; mostly reserve-team football per Sofascore snippet) -- flagged as fringe/developing rather than an established starter; apps/starts breakdown, preferred foot, contract and market value not found in search snippets -> null."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "player_id": "yehvann_diouf",
+  "name": "Yehvann Diouf",
+  "age": 26,
+  "date_of_birth": "1999-11-16",
+  "nationality": ["FRA"],
+  "position": "GK",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "OGC Nice",
+  "current_club_league": "Ligue 1",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Ligue 1",
+    "apps": 26,
+    "starts": 26,
+    "minutes": 2340,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["shot-stopper", "moved clubs within Ligue 1 in 2025", "5 clean sheets in 2025/26 through the sampled period", "prior spell: 101 league apps for Stade Reims"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://theanalyst.com/players/3689/yehvann-diouf",
+    "https://www.fotmob.com/players/766574/yehvann-diouf",
+    "https://en.wikipedia.org/wiki/Yehvann_Diouf",
+    "https://fbref.com/en/players/eedea60b/Yehvann-Diouf"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Added to address GK under-representation in the pool. Moved from Stade Reims to OGC Nice in July 2025 (101 league apps for Reims prior to the move). DOB 16 Nov 1999 per Wikipedia. 2025/26 Ligue 1 season with Nice: 26 apps, all starts, 2340 minutes, 5 clean sheets (fotmob/theanalyst snippets); minutes-derived apps/starts figure may undercount season-to-date given ongoing 2026/27 campaign. Height, preferred foot, contract length, market value, wages not found in search snippets -> null. Not affiliated with any of the 36 UCL 2026/27 pilot clubs."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "player_id": "sydney_lokale",
+  "name": "Sydney Lokale",
+  "age": 25,
+  "date_of_birth": "2000-09-19",
+  "nationality": ["KEN"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 188,
+  "current_club": "AFC Leopards",
+  "current_club_league": "Kenyan Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Kenyan Premier League",
+    "apps": 4,
+    "starts": null,
+    "minutes": null,
+    "goals": 3,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "tall targetman forward",
+      "Kenya national team (Harambee Stars) forward",
+      "returned to Kenyan football from DR Congo's Saint Eloi Lupopo",
+      "fast start on joining AFC Leopards: 3 goals in first 4 league apps"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en", "sw"],
+    "family_situation": "Born in Lodwar, raised in Nakuru, Kenya.",
+    "public_statements": [
+      "Publicly explained (Pulse Sports Kenya) why he turned down foreign clubs to sign for AFC Leopards, citing wanting to play for the club."
+    ],
+    "commercial_profile": null,
+    "happiness_status": "content",
+    "happiness_notes": "Publicly stated he chose AFC Leopards over foreign offers; recalled to the Kenya national team after the move.",
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sydney_Lokale",
+    "https://www.pulsesports.co.ke/football/story/harambee-stars-forward-sydney-lokale-on-the-reason-he-snubbed-foreign-clubs-for-afc-leopards-2024100614564074699",
+    "https://www.mozzartsport.co.ke/football/news/afc-leopards-reportedly-courting-kenyan-forward-released-by-dr-congo-side/44183"
+  ],
+  "as_of": "2026-09-11",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, and career path (Kariobangi Sharks, loan at HIFK, KCB, Saint Eloi Lupopo in DR Congo, then AFC Leopards) from Wikipedia. 'started the season in fine form with three goals in four league appearances' is from Pulse Sports Kenya coverage of his AFC Leopards spell -- entered as stats_2025_26 apps=4, goals=3 but treated as an early-season snapshot, not a final season total; minutes/assists not given -> null. Contract length, market value, and wage not found -> null."
+  }
+}
