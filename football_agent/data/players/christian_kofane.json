@@ -1,0 +1,70 @@
+{
+  "player_id": "christian_kofane",
+  "name": "Christian Kofane",
+  "age": 20,
+  "date_of_birth": "2006-07-26",
+  "nationality": ["CMR", "FRA"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 189,
+  "current_club": "Bayer Leverkusen",
+  "current_club_league": "Bundesliga",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 5,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": 32,
+    "starts": null,
+    "minutes": null,
+    "goals": 7,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["centre-forward, 1.89m", "dual Cameroon-France citizenship", "20 apps, 8 goals for Albacete (Spain) in 2025 before Leverkusen exercised a fee above his EUR 5m release clause", "Cameroon senior international (6 caps, 2 goals)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Christian_Kofane",
+    "https://www.fotmob.com/players/1705081/christian-kofane",
+    "https://www.laliga.com/en-GB/player/christian-kofane"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Full name Christian Michel Kofane, DOB 26 July 2006, height 1.89m, dual Cameroon-French citizenship, per Wikipedia. Signed by Bayer Leverkusen from Albacete (Spain) on 11 July 2025 for a fee above his EUR 5m release clause, four-year contract (to 2029). Prior season at Albacete: 20 apps, 8 goals. At Leverkusen: 32 apps, 7 goals per career-table snippet (a separate early-2026/27 snippet shows 1 goal in 58 minutes, which is a partial in-season update not used here in favour of the fuller season total). Cameroon senior international, 6 caps/2 goals."
+  }
+}

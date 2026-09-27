@@ -1,0 +1,70 @@
+{
+  "player_id": "ryotaro_araki",
+  "name": "Ryotaro Araki",
+  "age": 24,
+  "date_of_birth": "2002-01-29",
+  "nationality": ["JPN"],
+  "position": "AM",
+  "secondary_positions": ["ST"],
+  "preferred_foot": null,
+  "height_cm": 170,
+  "current_club": "Sint-Truiden",
+  "current_club_league": "Belgian Pro League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "J1 League",
+    "apps": 16,
+    "starts": null,
+    "minutes": 923,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["attacking midfielder", "won AFC U23 Asian Cup 2024 with Japan U23", "123 appearances, 14 goals across 2020-2026 spell at Kashima Antlers", "signed by Sint-Truiden (Belgium) for the 2026/27 season"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ja"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ry%C5%8Dtar%C5%8D_Araki",
+    "https://global.espn.com/football/player/_/id/297239/ryotaro-araki",
+    "https://www.jleague.co/players/1972/Ryotaro-ARAKI/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB 29 Jan 2002, born Kumamoto, per Wikipedia. Career at Kashima Antlers 2020-2026 (123 apps, 14 goals) before signing for Sint-Truiden (Belgian Pro League) in July 2026. Stats given (16 matches, 923 min, 1 goal) are his final 2026 J1 League season at Kashima, prior to the Belgium move; no Belgian Pro League stats yet available at as_of date since the move was very recent. current_club set to Sint-Truiden per the confirmed transfer."
+  }
+}

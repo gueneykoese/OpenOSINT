@@ -1,0 +1,70 @@
+{
+  "player_id": "marcel_ratnik",
+  "name": "Marcel Ratnik",
+  "age": 22,
+  "date_of_birth": "2003-12-23",
+  "nationality": ["SVN"],
+  "position": "CB",
+  "secondary_positions": ["RB", "LB"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Al Ain FC",
+  "current_club_league": "UAE Pro League",
+  "contract_until": null,
+  "market_value_eur_m": 2.2,
+  "estimated_fee_eur_m": 2.2,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "UAE Pro League",
+    "apps": 23,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["versatile centre-back/full-back", "110 apps, 8 goals for NK Olimpija Ljubljana (2021-2025)", "joined Al Ain (UAE) on a four-year deal in June 2025 for a reported EUR 2.2m fee", "Slovenia international (4 caps)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["sl"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Marcel_Ratnik",
+    "https://nkolimpija.si/en/players/marcel-ratnik/",
+    "https://www.playmakerstats.com/player/marcel-ratnik/751188"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB 23 Dec 2003 per Wikipedia. Career at NK Olimpija Ljubljana (2021-2025): 110 apps, 8 goals. Signed by Al Ain FC (UAE Pro League) in June 2025 on a four-year contract for a reported EUR 2.2m fee; 2025/26 stats there: 23 apps, 0 goals. Slovenia senior international, 4 caps. An earlier search snippet mislabelled him as an 'Estonia forward' - this is incorrect per his Wikipedia/club profile, which confirms Slovenian nationality and a centre-back/full-back role."
+  }
+}

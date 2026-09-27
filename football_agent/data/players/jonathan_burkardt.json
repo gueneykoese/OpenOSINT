@@ -1,0 +1,70 @@
+{
+  "player_id": "jonathan_burkardt",
+  "name": "Jonathan Burkardt",
+  "age": 26,
+  "date_of_birth": "2000-07-11",
+  "nationality": ["GER"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Eintracht Frankfurt",
+  "current_club_league": "Bundesliga",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": 4,
+    "starts": null,
+    "minutes": null,
+    "goals": 3,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Germany international striker", "product of Mainz academy", "top-scoring German player in Bundesliga 2024/25 with 18 goals in 29 games"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["de"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://sports.yahoo.com/article/frankfurt-signs-germany-forward-jonathan-164835956.html",
+    "https://www.bundesliga.com/en/bundesliga/news/jonathan-burkardt-signs-for-eintracht-frankfurt-mainz-transfer-germany-32598",
+    "https://www.statmuse.com/fc/player/jonathan-burkardt-30520"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB 11 July 2000 and transfer from Mainz to Eintracht Frankfurt (July 2025, contract to June 2030) per Yahoo Sports/Bundesliga.com. Prior season (2024/25) at Mainz: 18 goals in 29 Bundesliga games, club record. 2025/26 Bundesliga stats snippet (4 apps, 3 goals, 1 assist) is early-season and likely a partial-season snapshot; minutes/starts not found, left null."
+  }
+}

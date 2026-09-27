@@ -1,0 +1,70 @@
+{
+  "player_id": "rayan_vitor",
+  "name": "Rayan Vitor",
+  "age": 20,
+  "date_of_birth": "2006-08-03",
+  "nationality": ["BRA"],
+  "position": "RW",
+  "secondary_positions": ["ST"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "AFC Bournemouth",
+  "current_club_league": "Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 20,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": 19,
+    "starts": null,
+    "minutes": null,
+    "goals": 5,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["right winger/forward, full name Rayan Vitor Simplicio Rocha", "Vasco da Gama academy product (74 apps, 19 goals, 2023-2026)", "was tracked by Arsenal, Liverpool, Aston Villa and Barcelona before signing for Bournemouth", "reported EUR ~20m fee from Vasco da Gama"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rayan_(footballer,_born_2006)",
+    "https://www.sofascore.com/football/player/rayan/1464966",
+    "https://www.goal.com/en-us/lists/rayan-vitor-brazil-teenage-sensation-transfer-radars-barcelona-arsenal-liverpool/bltd56d54421ef22bd1"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Full name Rayan Vitor Simplicio Rocha, DOB 3 Aug 2006, per Wikipedia. Came through Vasco da Gama's academy (74 apps, 19 goals, 2023-2026), attracting reported interest from Arsenal, Liverpool, Aston Villa and Barcelona before completing a move to AFC Bournemouth (Premier League) in 2026 for a fee estimated around EUR 20m (approximate, based on an earlier reported valuation of GBP/EUR ~20m for the player - exact final fee not independently confirmed). 2026 form at Bournemouth: 19 apps, 5 goals; assists/minutes not found, left null."
+  }
+}

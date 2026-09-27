@@ -1,0 +1,70 @@
+{
+  "player_id": "luca_oyen",
+  "name": "Luca Oyen",
+  "age": 23,
+  "date_of_birth": "2003-03-14",
+  "nationality": ["BEL"],
+  "position": "LW",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "SC Heerenveen",
+  "current_club_league": "Eredivisie",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 0,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Eredivisie",
+    "apps": null,
+    "starts": null,
+    "minutes": 195,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["left winger", "KRC Genk academy graduate, 83 apps/3 goals for Genk's first team", "signed by SC Heerenveen on a free transfer, contract to June 2029", "Belgium U21 international (4 caps)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["nl"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.krcgenk.be/en/news/6188/luca-oyen-moves-to-sc-heerenveen",
+    "https://getfootballnewsbene.com/low-cost-high-reward-heerenveen-hoping-luca-oyen-can-realise-his-potential-in-friesland/",
+    "https://www.fotmob.com/players/1067741/luca-oyen"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB 14 March 2003 per fotmob. Came through KRC Genk's academy, made 83 appearances (3 goals) for the Genk first team, then signed for SC Heerenveen on a free transfer (contract to June 2029). Early 2025/26 Eredivisie form: 195 minutes, 0G/0A. Belgium U21 international with 4 caps."
+  }
+}

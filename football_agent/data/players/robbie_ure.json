@@ -1,0 +1,70 @@
+{
+  "player_id": "robbie_ure",
+  "name": "Robbie Ure",
+  "age": 22,
+  "date_of_birth": "2004-02-26",
+  "nationality": ["SCO"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "IK Sirius",
+  "current_club_league": "Allsvenskan",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Allsvenskan",
+    "apps": 20,
+    "starts": null,
+    "minutes": null,
+    "goals": 20,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["centre-forward", "Rangers academy graduate, moved to Anderlecht (2023) then IK Sirius (Sweden)", "31 goals in 50 games at IK Sirius across his spell, incl. 20 goals in 20 Allsvenskan games in 2025/26", "first senior Scotland call-up/cap at age 22 in Sept 2026"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.skysports.com/football/news/13591017/scotland-robbie-ure-delighted-unusual-route-from-rangers-to-sevilla-has-earned-first-call-up-aged-22",
+    "https://www.scotsman.com/sport/football/rangers/latest-rangers-news/red-hot-former-rangers-talent-puts-european-clubs-on-alert-and-boosts-scotland-case-with-historic-goal-haul-8778115",
+    "https://www.footballscotland.co.uk/scots-abroad/around-the-world/robbie-ure-stars-swedish-football-31328375"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB 26 Feb 2004 per search snippets. Path: Rangers academy (scored on Scottish League Cup debut, Aug 2022) -> Anderlecht (2023, lack of first-team chances) -> IK Sirius (Sweden), where he scored 31 goals in 50 games across his spell including 20 goals in 20 games in the 2025/26 Allsvenskan season, making him a target for clubs across Europe. Earned his first senior Scotland cap in Sept 2026. A Sky Sports headline references an 'unusual route from Rangers to Sevilla' which may indicate a subsequent move to Sevilla not fully confirmed in the retrieved snippets - current_club kept as IK Sirius (the club with fully corroborated 2025/26 stats) pending re-verification of any Sevilla move."
+  }
+}

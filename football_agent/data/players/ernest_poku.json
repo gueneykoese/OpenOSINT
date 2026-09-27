@@ -1,0 +1,71 @@
+{
+  "player_id": "ernest_poku",
+  "name": "Ernest Poku",
+  "age": 22,
+  "date_of_birth": "2004-01-28",
+  "nationality": ["NED", "GHA"],
+  "position": "RW",
+  "secondary_positions": ["ST"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Bayer Leverkusen",
+  "current_club_league": "Bundesliga",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 12,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "for sale",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": null,
+    "starts": null,
+    "minutes": 1434,
+    "goals": 5,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["lightning-fast winger", "born in Hamburg to Ghanaian parents, Netherlands youth international pathway", "joined Leverkusen for EUR 12m in 2025", "reported loan exit to Besiktas after being poised to leave Leverkusen with Premier League interest (Sunderland, Nottingham Forest)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["nl", "de"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": "unsettled",
+    "happiness_notes": "Reported by multiple outlets (2026) to be poised for a Bayer Leverkusen exit with Premier League clubs (Sunderland, Nottingham Forest) interested, and separately reported to have joined Besiktas on loan.",
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.bundesliga.com/en/bundesliga/news/who-is-ernest-poku-bayer-leverkusen-netherlands-ghana-forward-33469",
+    "https://sports.yahoo.com/articles/attacker-ernest-poku-22-poised-111500901.html",
+    "https://www.bundesliga.com/en/bundesliga/news/ernest-poku-leaves-bayer-leverkusen-joins-besiktas-38823",
+    "https://onefootball.com/en/news/official-ernest-poku-joins-bayer-leverkusen-for-12m-41500117"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "DOB 28 Jan 2004, dual Dutch/Ghanaian background (born Hamburg to Ghanaian parents, came through Amsterdam amateur side SV Robinhood) per Bundesliga.com. Joined Leverkusen for EUR 12m in 2025. Sources conflict on his current status as of Sept 2026: one Bundesliga.com headline says he 'leaves Bayer Leverkusen, joins Besiktas' on loan, while a Yahoo Sports piece frames him as merely 'poised for exit' with Sunderland/Nottingham Forest interest. current_club is kept as Bayer Leverkusen (his contracted parent club) with availability set to 'for sale' given the unresolved/loan-linked reporting; this should be re-verified. 2025/26 Bundesliga stats (1434 min, 5G/4A) from a search snippet; apps/starts not found, left null."
+  }
+}

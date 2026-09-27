@@ -1,0 +1,70 @@
+{
+  "player_id": "ilyas_ansah",
+  "name": "Ilyas Ansah",
+  "age": 21,
+  "date_of_birth": "2004-11-08",
+  "nationality": ["GER"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Hull City",
+  "current_club_league": "EFL Championship",
+  "contract_until": 2031,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 17,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": 33,
+    "starts": null,
+    "minutes": null,
+    "goals": 5,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["striker", "was Union Berlin's top scorer during the 2025/26 Bundesliga season", "sold to Hull City for a club-record EUR 17m fee (31 Aug 2026)", "high-energy runner (405 sprints, 1611 intensive runs recorded in a Bundesliga season)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["de"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.sofascore.com/news/hull-city-sign-ilyas-ansah-from-union-berlin-in-e17m-deal",
+    "https://www.fc-union-berlin.de/en/news/ilyas-ansah-is-moving-to-hull-city-se8y4g",
+    "https://www.bundesliga.com/en/bundesliga/news/ilyas-ansah-leaves-union-berlin-for-hull-city-premier-league-38803"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB 8 Nov 2004 per search snippets. Was 1. FC Union Berlin's top scorer in the 2025/26 Bundesliga season (33 apps, 5 goals, 1 assist). Sold to EFL Championship club Hull City for a reported EUR 17m fee on 31 Aug 2026, signing through 30 June 2031. Note one source headline mischaracterises Hull City as 'Premier League' - Hull City play in the EFL Championship, which is used here as the correct current_club_league."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "player_id": "amaury_morales",
+  "name": "Amaury Morales",
+  "age": 20,
+  "date_of_birth": "2005-12-03",
+  "nationality": ["MEX"],
+  "position": "CM",
+  "secondary_positions": ["RB"],
+  "preferred_foot": null,
+  "height_cm": 169,
+  "current_club": "Cruz Azul",
+  "current_club_league": "Liga MX",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga MX",
+    "apps": 48,
+    "starts": null,
+    "minutes": null,
+    "goals": 3,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["ball-playing midfielder, can also play as an attacking full-back", "Cruz Azul academy product", "Mexico U20 international, won 2024 CONCACAF U-20 Championship", "carries European scouting interest per Mexican press"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [
+    {"type": "knee injury", "season": "2026", "days_out": null}
+  ],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Amaury_Morales",
+    "https://www.espn.com/soccer/player/_/id/365830/amaury-morales",
+    "https://www.mlssoccer.com/players/amaury-morales/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB 3 Dec 2005, born Mexico City, height 1.69m, per Wikipedia/ESPN. Career totals: 48 apps, 3 goals for Cruz Azul since 2023 (2023-2026 cumulative, not a single-season split; entered as best available aggregate under stats_2025_26 with assists/minutes left null). Contract to 30 June 2029. As of July 2026 was out with a knee injury, expected return Feb 2027 - recorded in injury_history with days_out left null since an exact duration wasn't given. Mexico U20 international, won 2024 CONCACAF U-20 Championship."
+  }
+}

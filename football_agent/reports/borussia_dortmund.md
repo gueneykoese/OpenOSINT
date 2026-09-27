@@ -130,12 +130,12 @@ Profile: pacy right winger/wing-back, 20-24
 Why: Duranville and Campbell sold; width on the right relies on Couto/Ryerson  
 Budget: €20m · wage ceiling €3m net
 
+- **Ernest Poku** — 73.5/100 (good match, confidence medium)
+  - Ernest Poku → Dortmund at RW: good match (73.5/100). Driven by statistical fit and financial feasibility; weakest area is positional need (53).
 - **Andre Brooks** — 69.4/100 (good match, confidence medium)
   - Andre Brooks → Dortmund at RW: good match (69.4/100). Driven by financial feasibility and statistical fit; weakest area is tactical / system fit (50).
 - **Erick Marcus** — 69.2/100 (good match, confidence medium)
   - Erick Marcus → Dortmund at RW: good match (69.2/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
-- **Diego Luna** — 68.3/100 (good match, confidence medium)
-  - Diego Luna → Dortmund at RW: good match (68.3/100). Driven by financial feasibility and statistical fit; weakest area is positional need (35).
 
 ## Sources
 

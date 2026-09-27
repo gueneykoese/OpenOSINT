@@ -1,0 +1,68 @@
+{
+  "player_id": "rayyan_al_ali",
+  "name": "Rayyan Al-Ali",
+  "age": 20,
+  "date_of_birth": "2006-03-26",
+  "nationality": ["QAT"],
+  "position": "LB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Al-Gharafa SC",
+  "current_club_league": "Qatar Stars League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Qatar Stars League",
+    "apps": 12,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["left-back", "broke into Al-Gharafa first team in 2025/26 debut senior season", "played in AFC Champions League Elite as well as domestic league", "named in Qatar's preliminary 34-man squad for the 2026 FIFA World Cup, did not make the final 26"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ar"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rayyan_Al-Ali"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB 26 March 2006 per Wikipedia. Debut senior season 2025/26 at Al-Gharafa: 12 Qatar Stars League apps, 0 goals. Included in Qatar's preliminary 34-player squad for the 2026 FIFA World Cup but not selected in the final 26. Only a single Wikipedia source was retrievable; other identifying details (height, foot, market value) not found and left null."
+  }
+}

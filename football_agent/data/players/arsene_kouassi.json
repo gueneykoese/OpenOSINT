@@ -1,0 +1,70 @@
+{
+  "player_id": "arsene_kouassi",
+  "name": "Arsène Kouassi",
+  "age": 21,
+  "date_of_birth": "2004-01-02",
+  "nationality": ["BFA", "CIV"],
+  "position": "LB",
+  "secondary_positions": ["LWB"],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "FC Lorient",
+  "current_club_league": "Ligue 1",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Ligue 1",
+    "apps": 26,
+    "starts": 30,
+    "minutes": null,
+    "goals": 2,
+    "assists": 6,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["left wing-back/full-back", "Ligue 1 Young Player of the Season winner", "dual Burkina Faso/Ivory Coast nationality, represents Burkina Faso internationally", "reportedly tracked by Bayer Leverkusen, Eintracht Frankfurt, VfB Stuttgart, AS Roma, Genoa, Nottingham Forest and RC Strasbourg"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://ligue1.com/en/articles/l1_article_5214-arsene-kouassi-who-is-ligue-1-s-young-player-of-the-season",
+    "https://africasoccer.com/leverkusen-track-burkinabe-ivorian-full-back-arsene-kouassi-from-lorient/",
+    "https://www.espn.com/soccer/player/_/id/381626/arsene-kouassi"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB inconsistent across sources: fotmob-linked snippet gives 9 Nov 2004 while another gives 2 Jan 2004 - used 2 Jan 2004 as the more specific/likely primary-source figure but this should be re-verified. Named Ligue 1 Young Player of the Season after a breakout 2025/26 debut campaign at FC Lorient (apps/starts/goals/assists per ligue1.com snippet - note the snippet's own apps/starts figures were inconsistent, 26 total apps vs 30 starts quoted, both recorded here as given). Reported (Africa Soccer, 2026) to be a scouting target for Bayer Leverkusen, Eintracht Frankfurt, Stuttgart, Roma, Genoa, Nottingham Forest and Strasbourg. Market value, wage, height not found."
+  }
+}

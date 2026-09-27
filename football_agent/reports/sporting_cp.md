@@ -121,8 +121,8 @@ Budget: €15m · wage ceiling €2m net
   - Erick Marcus → Sporting CP at RW: strong match (79.5/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (50).
 - **Oswin Appollis** — 78.3/100 (strong match, confidence medium)
   - Oswin Appollis → Sporting CP at RW: strong match (78.3/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
-- **Marin Petkov** — 73.3/100 (good match, confidence medium)
-  - Marin Petkov → Sporting CP at RW: good match (73.3/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Ernest Poku** — 76.3/100 (good match, confidence medium)
+  - Ernest Poku → Sporting CP at RW: good match (76.3/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
 
 ### ST — low priority
 Profile: back-up No. 9, 20-24, resale value  

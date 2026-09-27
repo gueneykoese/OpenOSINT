@@ -1,0 +1,70 @@
+{
+  "player_id": "william_osula",
+  "name": "William Osula",
+  "age": 23,
+  "date_of_birth": "2003-08-04",
+  "nationality": ["DEN"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Newcastle United",
+  "current_club_league": "Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": 38,
+    "starts": null,
+    "minutes": null,
+    "goals": 8,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["striker, wears No.10 at Newcastle", "born in Copenhagen, Denmark international", "youth product of Sheffield United academy after starting at FC Copenhagen"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["da", "en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "Eligible to represent England, France or Nigeria in addition to Denmark, per ESPN/Wikipedia bio."
+  },
+  "sources": [
+    "https://www.espn.com/soccer/player/bio/_/id/319431/william-osula",
+    "https://en.wikipedia.org/wiki/William_Osula",
+    "https://www.premierleague.com/en/players/538207/william-osula/overview"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Full name William Idemudia Daugaard Osula, born 4 Aug 2003 in Copenhagen, per ESPN/Wikipedia. Career totals cited (38 apps, 8 goals for Newcastle since joining 2024) are cumulative since arrival, not a single-season split; entered under stats_2025_26 as the best available aggregate figure with assists/minutes left null since not broken out by season in the retrieved snippets. Market value, wage and contract length not found."
+  }
+}
