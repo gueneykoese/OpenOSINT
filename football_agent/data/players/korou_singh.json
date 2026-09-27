@@ -1,0 +1,71 @@
+{
+  "player_id": "korou_singh",
+  "name": "Korou Singh Thingujam",
+  "age": 19,
+  "date_of_birth": "2006-12-03",
+  "nationality": ["IND"],
+  "position": "RW",
+  "secondary_positions": ["RB", "AM", "ST"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Kerala Blasters FC",
+  "current_club_league": "Indian Super League",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Indian Super League",
+    "apps": 17,
+    "starts": null,
+    "minutes": null,
+    "goals": 2,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["versatile young winger (also plays RB, AM, ST)", "signed a long-term contract extension with Kerala Blasters until 2029", "reportedly monitored by Danish Superliga club Brøndby IF", "2 goals, 4 assists in 17 apps in his breakout 2024/25 ISL season"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Korou_Singh_Thingujam",
+    "https://www.outlookindia.com/sports/football/who-is-korou-singh-thingujam-kerala-blasters-youngster-being-eyed-by-danish-superliga-club-brondby-if-isl",
+    "https://www.indiansuperleague.com/press-releases/korou-singh-pens-long-term-contract-extension-with-kerala-blasters-fc",
+    "https://keralablastersfc.in/korou-singh-2029/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Stats (2 goals, 4 assists, 17 apps) are from the 2024/25 ISL season per Outlook India snippet -- his 2025/26 season figures were not found in available search results -> stats_2025_26 fields use the most recent confirmed season data as a proxy, apps/minutes not separately re-verified for 2025/26. Interest from Brondby IF is reported but not confirmed as a formal bid. Market value, fee, wage unknown -> null."
+  }
+}

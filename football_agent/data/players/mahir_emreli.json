@@ -1,0 +1,71 @@
+{
+  "player_id": "mahir_emreli",
+  "name": "Mahir Emreli",
+  "age": 29,
+  "date_of_birth": "1997-07-01",
+  "nationality": ["AZE"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Raków Częstochowa",
+  "current_club_league": "Ekstraklasa",
+  "contract_until": 2027,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Ekstraklasa",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 3,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["experienced striker, 61-cap Azerbaijan international", "joined Raków on loan from 1.FC Kaiserslautern until end of 2026/27 with an option to buy", "career includes Kaiserslautern, Nurnberg, Dinamo Zagreb, Konyaspor, Legia Warszawa, Qarabag FK, FK Baki -- has previously played in the Ekstraklasa (Legia)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["az", "de"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mahir_Emreli",
+    "https://ekstraklasa.org/en/news/familiar-face-mahir-emreli-joins-rakow-czestochowa/",
+    "https://www.rakow.com/en/w/mahir-emreli-nowym-zawodnikiem-rakowa-",
+    "https://www.fotmob.com/players/464251/mahir-emreli"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "3 goals, 1 assist figure is for the 2026/27 Ekstraklasa season (current, early-season sample) per FotMob snippet, not a completed 2025/26 season -- he joined Rakow on loan from Kaiserslautern in the 2026 window. Loan deal runs to end of 2026/27 with an option to buy; contract_until reflects the loan term. Market value, fee and wage unknown -> null."
+  }
+}

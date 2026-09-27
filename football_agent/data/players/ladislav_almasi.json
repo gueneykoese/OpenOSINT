@@ -1,0 +1,70 @@
+{
+  "player_id": "ladislav_almasi",
+  "name": "Ladislav Almási",
+  "age": 27,
+  "date_of_birth": "1999-03-06",
+  "nationality": ["SVK"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 196,
+  "current_club": "Bohemians 1905",
+  "current_club_league": "Czech First League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Czech First League",
+    "apps": 7,
+    "starts": null,
+    "minutes": 590,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["tall target-man striker (1.96m)", "Slovak international", "well-travelled career: Senica, Dunajska Streda, Samorin, Petrzalka, Ruzomberok, Akhmat Grozny, Banik Ostrava, Osijek, Zalaegerszeg, before joining Bohemians 1905 in 2026", "31 career goals across clubs to date per aggregate tracker"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["sk"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ladislav_Alm%C3%A1si",
+    "https://www.aiscore.com/player-ladislav-alm%C3%A1si/zrkn6io32ds0qle",
+    "https://us.soccerway.com/player/almasi-ladislav/E35O7sAa/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Only recently joined Bohemians 1905 in 2026 after a well-travelled career including multiple loans; 2025/26 Bohemians appearance count (7 apps, 590 minutes) likely reflects a partial season since joining. Goals/assists for Bohemians specifically not isolated from career totals in search snippets -> null. Contract expiry, market value and wage unknown -> null."
+  }
+}

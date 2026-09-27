@@ -1,0 +1,70 @@
+{
+  "player_id": "cesinha_daegu",
+  "name": "Cesinha",
+  "age": 36,
+  "date_of_birth": "1989-11-29",
+  "nationality": ["BRA"],
+  "position": "AM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Daegu FC",
+  "current_club_league": "K League 2",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "K League 1",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 12,
+    "assists": 12,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["veteran attacking midfielder / club legend at Daegu FC", "joined on loan 2016-17, permanent since 2017: 258 apps, 102 goals for the club (career total)", "retained as a key figure after Daegu's 2025 relegation to help push for promotion"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cesinha_(footballer,_born_1989)",
+    "https://www.soccerbase.com/players/player.sd?player_id=151864",
+    "https://en.namu.wiki/w/%EB%8C%80%EA%B5%AC%20FC/2026%EB%85%84"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Age 36, well above the assignment's preferred 18-27 band, and Daegu FC was relegated to K League 2 for 2026 (retained Cesinha specifically to help push for promotion) -- included as a genuine, heavily documented club-legend profile rather than a young transfer target. availability set to 'not for sale' given his status as a retained club legend central to the promotion push. 12 goals/12 assists is his 2025 K League 1 season tally (his final season before relegation). Contract, market value, wage unknown -> null."
+  }
+}

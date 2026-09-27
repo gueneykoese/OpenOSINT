@@ -1,0 +1,60 @@
+{
+  "player_id": "oussama_benbot",
+  "name": "Oussama Benbot",
+  "age": 31,
+  "date_of_birth": "1994-10-11",
+  "nationality": ["ALG"],
+  "position": "GK",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "USM Alger",
+  "current_club_league": "Algerian Ligue 1",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Algerian Ligue 1",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Algeria international goalkeeper", "named in Algeria's 26-man 2026 FIFA World Cup squad (31 May 2026)", "handed first competitive Algeria start in the decisive group-stage match vs Austria"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": null, "coachability": null, "resilience": null, "discipline": null, "notes": null},
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ar", "fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": ["https://en.wikipedia.org/wiki/Oussama_Benbot", "https://football.fandom.com/wiki/Oussama_Benbot"],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Age 31, above the pilot's usual 18-27 band; included for a strong verified real-world story (2026 World Cup squad inclusion and Algeria debut start vs Austria). Club-season stats, contract and market value not found via search -> null."
+  }
+}

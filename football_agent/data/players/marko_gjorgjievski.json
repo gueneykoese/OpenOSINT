@@ -1,0 +1,60 @@
+{
+  "player_id": "marko_gjorgjievski",
+  "name": "Marko Gjorgjievski",
+  "age": 26,
+  "date_of_birth": "2000-04-18",
+  "nationality": ["MKD"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 190,
+  "current_club": "KF Shkëndija",
+  "current_club_league": "Macedonian First Football League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Macedonian First Football League",
+    "apps": null,
+    "starts": null,
+    "minutes": 1102,
+    "goals": 2,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["tall target-man striker (190cm)", "wide-ranging career across North Macedonia, Serbia and Romania (CFR Cluj, Hermannstadt)", "North Macedonia U21/U19 international pedigree"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": null, "coachability": null, "resilience": null, "discipline": null, "notes": null},
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["mk"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": ["https://www.fotmob.com/players/1114586/marko-gjorgjievski", "https://www.sofascore.com/football/player/marko-gjorgjievski/992208"],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Bio and 2025/26 stats (2 goals, 1 assist, 1102 minutes, 3 yellow cards) from FotMob/Sofascore snippets; yellow cards omitted (not in schema). Contract and market value not found via search -> null."
+  }
+}

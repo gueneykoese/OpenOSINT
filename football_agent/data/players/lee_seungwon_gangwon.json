@@ -1,0 +1,71 @@
+{
+  "player_id": "lee_seungwon_gangwon",
+  "name": "Lee Seung-won",
+  "age": 22,
+  "date_of_birth": "2003-01-01",
+  "nationality": ["KOR"],
+  "position": "CM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Gangwon FC",
+  "current_club_league": "K League 1",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "K League 1",
+    "apps": 32,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": 6,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["central midfielder", "won K League 1 Young Player of the Year 2025 (award for age 23-or-under with under 3 years' pro experience)", "debuted for Gangwon in 2023", "completed mandatory Korean military service at Gimcheon Sangmu (enlisted April, discharged 28 Oct 2025) and returned to Gangwon"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ko"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Lee_Seung-won_(footballer)",
+    "https://www.koreaherald.com/article/10627416",
+    "https://sports.yahoo.com/articles/2025-k-league-1-awards-085500332.html",
+    "https://en.namu.wiki/w/%EC%9D%B4%EC%8A%B9%EC%9B%90(2003)"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "The 32 apps/1 goal/6 assists 2025 figure was reported in connection with his Gimcheon Sangmu military-service spell during 2025, per search snippet; after discharge (28 Oct 2025) he returned to Gangwon FC and is playing for Gangwon in the 2026 K League 1 season per K League United's 2026 season preview. Exact date of birth only known to year (2003) -> day/month set to placeholder 01-01 and flagged. Contract, market value, wage unknown -> null."
+  }
+}

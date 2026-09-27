@@ -1,0 +1,64 @@
+{
+  "player_id": "imad_bouchagoura",
+  "name": "Imad Eddine Bouchagoura",
+  "age": 19,
+  "date_of_birth": "2006-10-24",
+  "nationality": ["ALG"],
+  "position": "ST",
+  "secondary_positions": ["AM", "RW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "ES Sétif",
+  "current_club_league": "Algerian Ligue 1",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Algerian Ligue 1",
+    "apps": 0,
+    "starts": null,
+    "minutes": 0,
+    "goals": 0,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["versatile forward: can play through the middle, wide, or as a No.10", "power and pace", "from modest background, product of JS Djijel then ES Sétif U20", "scored ~20 goals as ES Sétif U20 won the 2025 Elite Excellence youth championship", "ranked 11th in AfricaSoccer's #TalentsAlgeriens young-talent series"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": null, "coachability": null, "resilience": null, "discipline": null, "notes": null},
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ar", "fr"],
+    "family_situation": "Publicly described as coming from a modest family background (AfricaSoccer #TalentsAlgeriens profile).",
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://africasoccer.com/talents-algeriens-imad-bouchagoura-emerges-as-es-setifs-fearless-young-attacker/",
+    "https://africafoot.com/imad-bouchagoura-es-setif-talents-algeriens/",
+    "https://www.footmercato.net/joueur/imad-eddine-bouchagoura/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Still awaiting senior first-team minutes as of the 2026/27 season data point found (0 apps, 0 minutes, 0 goals per a soccerway-linked snippet dated for that campaign); promoted from ES Sétif U20 after a prolific 2024/25 youth season (~20 goals, Elite Excellence title). Treated as a prospect/development target rather than a proven senior performer. Contract, value and physical attributes not found via search -> null."
+  }
+}

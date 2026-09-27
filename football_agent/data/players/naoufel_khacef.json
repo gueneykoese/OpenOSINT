@@ -1,0 +1,60 @@
+{
+  "player_id": "naoufel_khacef",
+  "name": "Mohamed Naoufel Khacef",
+  "age": 28,
+  "date_of_birth": "1997-10-27",
+  "nationality": ["ALG"],
+  "position": "LB",
+  "secondary_positions": [],
+  "preferred_foot": "left",
+  "height_cm": 179,
+  "current_club": "CR Belouizdad",
+  "current_club_league": "Algerian Ligue 1",
+  "contract_until": 2026,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Algerian Ligue 1",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["left-back", "Algeria U23 international pedigree", "long-tenured CR Belouizdad squad member, contract to June 2026"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": null, "coachability": null, "resilience": null, "discipline": null, "notes": null},
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ar", "fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": ["https://en.wikipedia.org/wiki/Naoufel_Khacef", "https://www.espn.com/soccer/player/_/id/285543/naoufel-khacef"],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Age 28, at upper edge of pilot's target band; included as a long-serving CR Belouizdad left-back with a contract confirmed through June 2026. 2025/26 season stats and market value not found via search -> null."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "player_id": "reshat_ramadani",
+  "name": "Reshat Ramadani",
+  "age": 22,
+  "date_of_birth": "2003-06-30",
+  "nationality": ["MKD"],
+  "position": "DM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 186,
+  "current_club": "KF Shkëndija",
+  "current_club_league": "Macedonian First Football League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "Macedonian First Football League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["defensive midfielder", "Shkëndija academy graduate", "on loan from FC Dynamo Kyiv", "North Macedonia international pathway (U21/U19 to senior)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": null, "coachability": null, "resilience": null, "discipline": null, "notes": null},
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["mk"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": ["https://en.wikipedia.org/wiki/Reshat_Ramadani", "https://fcdynamo.com/en/news/orenda-resata-ramadani-u-skendiyi-prodovzena"],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Legal owner is FC Dynamo Kyiv; on loan at Shkëndija with the loan extended through end of 2025/26 season (Dynamo Kyiv official site). Because his registered parent club is Dynamo Kyiv rather than Shkëndija itself, current_club is listed as Shkëndija (where he actually plays) per the loan; availability set to 'loan possible' reflecting his loan status rather than permanent Shkëndija contract terms, which are unknown. 2025/26 season stats not found via search -> null."
+  }
+}

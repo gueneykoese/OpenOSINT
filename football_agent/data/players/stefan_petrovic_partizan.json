@@ -1,0 +1,60 @@
+{
+  "player_id": "stefan_petrovic_partizan",
+  "name": "Stefan Petrović",
+  "age": 18,
+  "date_of_birth": "2008-03-01",
+  "nationality": ["SRB"],
+  "position": "LB",
+  "secondary_positions": [],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "FK Partizan",
+  "current_club_league": "Serbian SuperLiga",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 0.5,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Serbian SuperLiga",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["young left-back", "Partizan youth product", "SK Sturm Graz (Austria) had a reported EUR 500k bid rejected by Partizan", "featured in 2025/26 UEFA Europa League squad"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": null, "coachability": null, "resilience": null, "discipline": null, "notes": null},
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["sr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": ["https://www.ligaportal.at/bundesliga/allgemein/21878-medien-bericht-sk-sturm-graz-soll-mit-angebot-fuer-partizan-talent-gescheitert-sein", "https://www.uefa.com/uefaeuropaleague/clubs/players/250198017--stefan-petrovic/", "https://www.fussballtransfers.com/spieler/stefan-petrovic-2/"],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Reported EUR 500k Sturm Graz bid rejected by Partizan (Austrian media, ligaportal.at) used as estimated_fee_eur_m and as basis for 'not for sale' availability. Season stats, contract length and market value not found via search -> null."
+  }
+}

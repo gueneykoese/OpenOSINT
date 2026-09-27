@@ -1,0 +1,77 @@
+{
+  "player_id": "nguyen_tien_linh",
+  "name": "Nguyen Tien Linh",
+  "age": 28,
+  "date_of_birth": "1997-10-20",
+  "nationality": ["VIE"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Cong An Ho Chi Minh City",
+  "current_club_league": "V.League 1",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "V.League 1",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "captain, target-man striker",
+      "career: 181 apps / 70 goals for Becamex Binh Duong (2016-2025)",
+      "66 caps / 26 goals for Vietnam national team",
+      "2024 Vietnamese Golden Ball winner"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": 4,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Vietnamese-language press (vietnam.vn, March 2026) reported he was excluded from a national-team FIFA-window squad, and separate reports describe him hoping to be recalled after a National Cup win -- suggesting a period of being out of national-team favor in early 2026, which he publicly said he hoped to reverse."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["vi"],
+    "family_situation": null,
+    "public_statements": [
+      "Publicly stated (vietnam.vn, 2026) that he hopes to still be called up to the Vietnamese national team after being left out of a squad and after winning the National Cup with his club."
+    ],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Ti%E1%BA%BFn_Linh",
+    "https://www.fotmob.com/players/747451/nguyen-tien-linh",
+    "https://www.vietnam.vn/en/tien-linh-mong-van-duoc-goi-len-tuyen-viet-nam"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Born 20 Oct 1997 in Cam Giang, Hai Duong. Youth/senior career at Becamex Binh Duong 2016-2025 (181 apps, 70 goals), moved to Cong An Ho Chi Minh City in 2025 as captain. 66 caps / 26 goals for Vietnam; won ASEAN Championship 2018 and 2024, SEA Games gold 2019 and 2021, and the 2024 Vietnamese Golden Ball (Vietnam's Ballon d'Or equivalent). Current club is Cong An Ho Chi Minh City, not one of the three named target clubs (Hanoi FC / Cong An Ha Noi / Viettel), included as a fallback-scope V.League 1 star with an exceptionally well-documented national-team career; 2025/26 club statistics not found in snippets -> null."
+  }
+}

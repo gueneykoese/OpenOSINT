@@ -1,0 +1,75 @@
+{
+  "player_id": "wang_yudong",
+  "name": "Wang Yudong",
+  "age": 19,
+  "date_of_birth": "2006-11-23",
+  "nationality": ["CHN"],
+  "position": "LW",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Zhejiang FC",
+  "current_club_league": "Chinese Super League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Chinese Super League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left winger",
+      "2025 Chinese Super League Best Young Player award winner",
+      "first player born after 2005 to make China's senior national team",
+      "China's youngest-ever scorer in a World Cup qualifier (18 years, 199 days) via a decisive penalty vs Bahrain, June 2025"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Chinese state media (Global Times) profile headline explicitly frames him as 'a star in the making' who 'keeps feet on ground amid high expectations', a publicly documented characterization of his temperament."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["zh"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": "Subject of a dedicated Global Times feature and a Chinese U21 Golden Boy award, indicating significant domestic media profile for a teenage player.",
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://regional.chinadaily.com.cn/ezhejiang/etaizhou/2025-12/15/c_1148227.htm",
+    "https://www.globaltimes.cn/page/202603/1356206.shtml",
+    "https://baike.baidu.com/en/item/Wang%20Yudong/659988"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Born 23 Nov 2006 in Ningbo, Zhejiang. Signed with Zhejiang FC in July 2023. Called up to China's U20 squad in Jan 2025, scoring in all three pre-Asian Cup friendlies (vs Korea Yonsei University, Bangkok United U23, Uzbekistan U20). Scored his first senior national-team goal via a decisive penalty in a June 2025 FIFA World Cup Asian qualifier vs Bahrain at 18 years 199 days, reported as China's youngest-ever scorer in such a match and the first player born after 2005 to reach the senior team. Named the 2025 Chinese Super League's Best Young Player (award given 12/15 Dec 2025 per China Daily). Also referenced as a 'Chinese U21 Golden Boy' winner in a separate general search snippet. No 2025/26-season club statistics, contract length, market value or physical data found in these snippets -> null."
+  }
+}

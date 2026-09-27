@@ -1,0 +1,71 @@
+{
+  "player_id": "angel_rodado",
+  "name": "Ángel Rodado",
+  "age": 29,
+  "date_of_birth": "1997-03-07",
+  "nationality": ["ESP"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Wisła Kraków",
+  "current_club_league": "Ekstraklasa",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "I liga (Polish second tier, 2025/26 promotion season)",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 21,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Spanish striker, talismanic goalscorer", "top scorer (21 goals) as Wisła Kraków won the 2025/26 I liga and were promoted to Ekstraklasa", "signed a contract extension with Wisła Kraków until 30 June 2030"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/792640/angel-rodado",
+    "https://www.espn.com/soccer/player/_/id/300264/angel-rodado",
+    "https://en.wislakrakow.com/posts/angel-rodado-stays-with-wisa-krakw/493",
+    "https://extratimetalk.com/angel-rodado-form-wisla-krakows-talisman/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "21-goal tally is from the 2025/26 I liga (Polish second tier) promotion-winning season, not the Ekstraklasa itself -- Wisła Kraków has since been promoted and Rodado is now playing in the Ekstraklasa for 2026/27 per club statement. current_club_league set to Ekstraklasa to reflect his current competition; stats_2025_26 competition field annotated accordingly. Apps/minutes/assists not found -> null. Market value, fee, wage unknown -> null."
+  }
+}

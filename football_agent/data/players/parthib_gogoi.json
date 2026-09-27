@@ -1,0 +1,70 @@
+{
+  "player_id": "parthib_gogoi",
+  "name": "Parthib Gogoi",
+  "age": 23,
+  "date_of_birth": "2003-01-30",
+  "nationality": ["IND"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "NorthEast United FC",
+  "current_club_league": "Indian Super League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Indian Super League",
+    "apps": null,
+    "starts": null,
+    "minutes": 789,
+    "goals": 2,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Indian striker from Assam, dubbed a 'wonderkid' by the club media", "NorthEast United's all-time leading goalscorer across all competitions (16 goals, 10 in ISL, as of Oct 2024)", "called up to the India U23 squad for AFC U23 Asian Cup Qualifiers"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en", "as"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1238984/parthib-gogoi",
+    "https://www.indiansuperleague.com/interviews/in-the-stands-ft-parthib-gogoi-northeast-united-fcs-wonderkid-reflects-on-his-football-journey",
+    "https://assamtribune.com/sports/assams-parthib-gogoi-gets-india-u-23-nod-for-asian-cup-qualifiers-1589879"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "All-time club goalscoring record (16 goals) is as of October 2024 per assamtribune/ISL feature, not a 2025/26-specific figure. 2025/26 in-season stats (2 goals, 2 assists, 789 minutes) per FotMob snippet. Apps/starts not found -> null. Contract, market value, wage unknown -> null."
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "player_id": "kian_donkers",
+  "name": "Kian Donkers",
+  "age": 21,
+  "date_of_birth": "2004-09-12",
+  "nationality": ["NZL"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 192,
+  "current_club": "Auckland FC",
+  "current_club_league": "A-League Men",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "NZ National League (pre-Auckland FC, Birkenhead United)",
+    "apps": 8,
+    "starts": null,
+    "minutes": null,
+    "goals": 5,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "tall target-man striker (1.92m)",
+      "signed by Auckland FC from Birkenhead United (NZ National League) off a 5-goals-in-8-games run",
+      "New Zealand U20 international: 9 goals in 11 caps, played 2023 U20 World Cup"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://footystats.org/players/new-zealand/kian-donkers",
+    "https://www.sofascore.com/football/player/kian-donkers/1493505",
+    "https://aucklandfc.co.nz/news/auckland-fc-announce-first-five-ofc-pro-league-players/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Born 12 Sep 2004, 192cm forward. Signed for Auckland FC from Birkenhead United (NZ National League) where he had scored 5 goals in 8 games. Strong New Zealand U20 record: 9 goals in 11 caps, and played at the 2023 U20 World Cup. His pre-Auckland-FC domestic stats (5 goals/8 apps) are recorded under stats_2025_26 with the competition explicitly labelled as the NZ National League spell, since no A-League Men senior statistics were found in snippets. Contract length, market value and foot preference not found -> null. Note: search results also returned an Auckland FC squad listing referencing an 'OFC Pro League' -- a separate Oceania club competition context distinct from the A-League Men top flight; this profile focuses on his A-League Men squad status per the primary source, and the OFC Pro League reference is noted here rather than conflated."
+  }
+}

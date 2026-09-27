@@ -1,0 +1,71 @@
+{
+  "player_id": "rahim_ali",
+  "name": "Rahim Ali",
+  "age": 26,
+  "date_of_birth": "2000-04-21",
+  "nationality": ["IND"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 179,
+  "current_club": "Odisha FC",
+  "current_club_league": "Indian Super League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Indian Super League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Indian striker", "joined Odisha FC from Chennaiyin FC at start of 2024/25 season", "became Odisha's designated lead domestic striker for 2025/26 after the club let go of foreign attackers Diego Mauricio, Roy Krishna and Dorielton"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en", "bn"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rahim_Ali",
+    "https://www.espn.com/soccer/player/_/id/266618/rahim-ali",
+    "https://khelnow.com/football/indian-football-isl-2025-26-odisha-fc-predicted-xi-202602",
+    "https://www.indiasportshub.com/articles/odisha-fc-enter-a-reset-phase-ahead-of-2025-26-as-squad-overhaul-signals-strategic-shift"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "2025/26 season goal/assist/apps stats were not found in available search snippets -> all null. Role as Odisha's lead striker for 2025/26 following departures of foreign attackers is well sourced from squad-preview articles. Contract, market value, wage unknown -> null."
+  }
+}

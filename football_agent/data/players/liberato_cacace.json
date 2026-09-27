@@ -1,0 +1,77 @@
+{
+  "player_id": "liberato_cacace",
+  "name": "Liberato Cacace",
+  "age": 26,
+  "date_of_birth": "2000-09-27",
+  "nationality": ["NZL"],
+  "position": "LB",
+  "secondary_positions": [],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Wrexham",
+  "current_club_league": "EFL Championship",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "EFL Championship",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-back",
+      "Wellington Phoenix academy product",
+      "moved to Sint-Truidense (Belgium) for a reported EUR 1m+ fee",
+      "later played in Serie A (Italy) per NZ press coverage",
+      "captained the All Whites (New Zealand) to 2024 OFC Nations Cup glory",
+      "nominated for the FIFA Best Men's 11"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": 5,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Captained the New Zealand national team to the 2024 OFC Nations Cup title, a clear, sourced leadership marker."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en", "it"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": "Nominated for the FIFA Best Men's 11 (FIFPro World XI shortlist), indicating a high public/commercial profile for a New Zealand player, per Wikipedia snippet.",
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Liberato_Cacace",
+    "https://www.wrexhamafc.co.uk/teams/first-team/liberatocacace",
+    "https://www.stuff.co.nz/sport/football/nz-teams/131568309/all-whites-leftback-liberato-cacace-returns-to-wellington-a-serie-a-star"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Full name Liberato Gianpaolo Cacace, born 27 Sep 2000 in Wellington, New Zealand. Rose through Island Bay United and Wellington Phoenix reserves to a first-team debut in Feb 2018, then signed a three-year deal with Belgian club Sint-Truidense V.V. for a reported EUR 1m+ fee. A Stuff.co.nz headline describes him returning to Wellington 'a Serie A star', indicating an intervening move to Italian football (Serie A) not fully detailed in the snippets -> not itemized as a specific club/date. Now at Wrexham (EFL Championship, Wales/England) per the club's own site. Captained the All Whites to the 2024 OFC Nations Cup title and was nominated for the FIFA Best Men's 11. No 2025/26 statistics, contract length, market value or height found -> null."
+  }
+}

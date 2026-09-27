@@ -1,0 +1,60 @@
+{
+  "player_id": "azer_omeragikj",
+  "name": "Azer Omeragikj",
+  "age": 24,
+  "date_of_birth": "2002-07-14",
+  "nationality": ["MKD"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 185,
+  "current_club": "FK Vardar",
+  "current_club_league": "Macedonian First Football League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Macedonian First Football League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 8,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Vardar academy graduate", "North Macedonia international centre-forward", "scored in both legs of Vardar's UEFA Champions League qualifying wins over La Fiorita and Lausanne-Sport (July 2025)", "8 league goals in 2025/26 per search snippet"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": null, "coachability": null, "resilience": null, "discipline": null, "notes": null},
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["mk"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": ["https://en.wikipedia.org/wiki/Azer_Omeragi%C4%87", "https://www.fotmob.com/players/1379749/azer-omeragikj"],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Confirmed North Macedonia international and Champions League qualifying goalscorer (vs La Fiorita and Lausanne-Sport, July 2025) via Wikipedia. 2025/26 league goal tally (8) from an earlier search summary on Vardar's squad; minutes, assists, contract and value not found via search -> null."
+  }
+}

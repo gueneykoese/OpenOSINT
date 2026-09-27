@@ -1,0 +1,70 @@
+{
+  "player_id": "ibrahima_balde",
+  "name": "Ibrahima Baldé",
+  "age": 23,
+  "date_of_birth": null,
+  "nationality": ["FRA", "SEN"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Rodez AF",
+  "current_club_league": "Ligue 2",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 1.5,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Ligue 2",
+    "apps": 29,
+    "starts": null,
+    "minutes": null,
+    "goals": 12,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Franco-Senegalese striker", "former RC Lens academy product, France U17 international", "12 goals in 29 Ligue 2 apps for Rodez in 2025/26 (13 in all competitions including a Ligue 1 cameo)", "actively linked with a move to Scottish Premiership club Rangers FC in 2026 (reported ~EUR 1.5m valuation)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.getfootballnewsfrance.com/2026/rangers-consider-swoop-for-af-rodezs-ibrahima-balde/",
+    "https://www.rangersnews.uk/transfer-news/rodez-af-tell-rangers-how-much-they-want-for-ibrahima-balde-as-deadline-busting-move-on-the-cards/",
+    "https://www.footballtransfers.com/en/players/ibrahima-balde-3"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Exact date of birth not found (only age 23 given) -> null. estimated_fee_eur_m of EUR 1.5m is a reported valuation in connection with Rangers transfer interest, not a confirmed fee. Contract until 2028 per footballtransfers snippet. Market value and wage unknown -> null. NOTE: field 'progressive_carries_p90' contains a typo (should be progressive_carries_p90), left as-is since value is null regardless."
+  }
+}

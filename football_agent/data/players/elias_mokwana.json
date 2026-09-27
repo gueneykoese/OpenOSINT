@@ -1,0 +1,66 @@
+{
+  "player_id": "elias_mokwana",
+  "name": "Elias Mokwana",
+  "age": 26,
+  "date_of_birth": "1999-09-08",
+  "nationality": ["RSA"],
+  "position": "RW",
+  "secondary_positions": ["LW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Espérance de Tunis",
+  "current_club_league": "Ligue Professionnelle 1",
+  "contract_until": 2027,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Ligue Professionnelle 1",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["South African winger", "signed a three-year deal at Espérance in August 2024", "publicly linked with a move to Kaizer Chiefs (South Africa), which Espérance rejected"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": null, "coachability": null, "resilience": null, "discipline": null, "notes": null},
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [
+      {"club": "Kaizer Chiefs", "note": "Reported Kaizer Chiefs (South Africa) transfer target; Espérance de Tunis publicly rejected offers to keep him.", "source": "https://blog.hollywoodbets.net/soccer/not-for-sale-esperance-de-tunis-reject-offers-for-kaizer-chiefs-target-ellias-mokwana-amid-transfer-window-reshuffle/"}
+    ],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Elias_Mokwana",
+    "https://blog.hollywoodbets.net/soccer/not-for-sale-esperance-de-tunis-reject-offers-for-kaizer-chiefs-target-ellias-mokwana-amid-transfer-window-reshuffle/",
+    "https://playbook.easybet.co.za/esperance-block-kaizer-chiefs-pursuit-of-elias-mokwana/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Signed a three-year contract in August 2024 (implying expiry around 2027, entered as approximate). Availability set to 'not for sale' per multiple reports that Espérance rejected Kaizer Chiefs bids. 2025/26 season stats, market value not found via search -> null."
+  }
+}

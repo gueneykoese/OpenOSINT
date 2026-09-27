@@ -1,0 +1,70 @@
+{
+  "player_id": "stanley_kanu",
+  "name": "Stanley Guzorochi Kanu",
+  "age": 27,
+  "date_of_birth": "1999-01-17",
+  "nationality": ["NGA"],
+  "position": "RW",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 181,
+  "current_club": "FC Zlín",
+  "current_club_league": "Czech First League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Czech First League",
+    "apps": null,
+    "starts": null,
+    "minutes": 1069,
+    "goals": 5,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Nigerian right-footed winger", "joined FC Zlín in 2025 from Marítimo B/Marítimo (Portugal)", "productive start at Zlín: 5 goals, 4 assists in 1069 minutes in 2025/26 1. Liga"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en", "pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Stanley_Kanu",
+    "https://www.fotmob.com/en-GB/players/1428154/stanley-kanu",
+    "https://www.soccerbase.com/players/player.sd?player_id=171357"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Apps/starts not isolated from career totals in snippets -> null. Contract, market value, fee, wage unknown -> null."
+  }
+}

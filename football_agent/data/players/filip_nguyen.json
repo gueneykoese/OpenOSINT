@@ -1,0 +1,75 @@
+{
+  "player_id": "filip_nguyen",
+  "name": "Filip Nguyen",
+  "age": 34,
+  "date_of_birth": "1992-09-14",
+  "nationality": ["VIE", "CZE"],
+  "position": "GK",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Cong An Ha Noi",
+  "current_club_league": "V.League 1",
+  "contract_until": 2026,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "V.League 1",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "goalkeeper",
+      "Czech-Vietnamese dual national",
+      "Czech First League Goalkeeper of the Year 2018-19 (Slovacko)",
+      "naturalized to represent Vietnam, debuted at 2024 AFC Asian Cup"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["cs", "vi"],
+    "family_situation": "Born in the Czech Republic to a Czech mother and Vietnamese father.",
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.espn.com/soccer/player/_/id/306652/filip-nguyen",
+    "https://e.vnexpress.net/news/sports/football/czech-vietnamese-goalkeeper-filip-nguyen-buys-first-car-after-2-years-in-vietnam-4855549.html",
+    "https://www.vietnam.vn/en/thu-mon-filip-nguyen-co-quoc-tich-viet-nam-san-sang-nhan-nhiem-vu-tai-doi-tuyen-quoc-gia/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Born 14 Sep 1992 in Czech Republic to a Czech mother and Vietnamese father; career started at Sparta Prague, later Slovan Liberec and Slovacko (Czech Goalkeeper of the Year 2018/19); joined Cong An Ha Noi (then Hanoi Police Club) June 2023 as a free transfer on a 3-year deal (-> contract_until approx 2026, may since have been renewed, not confirmed); helped CAHN win the 2023 V-League; obtained Vietnamese nationality and debuted for the Vietnam national team at the 2024 AFC Asian Cup. No 2025/26 club statistics found in snippets -> null. A vietnam.vn snippet referenced transfer-rumor coverage about him without resolving details -> not included as fact."
+  }
+}

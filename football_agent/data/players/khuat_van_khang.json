@@ -1,0 +1,75 @@
+{
+  "player_id": "khuat_van_khang",
+  "name": "Khuat Van Khang",
+  "age": 23,
+  "date_of_birth": "2003-05-11",
+  "nationality": ["VIE"],
+  "position": "AM",
+  "secondary_positions": ["LW", "RW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Viettel (The Cong-Viettel)",
+  "current_club_league": "V.League 1",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "V.League 1",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 3,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "attacking midfielder / winger",
+      "Viettel academy graduate (signed at the club since 2013)",
+      "Vietnam U23 AFC Asian Cup 2026 third place",
+      "SEA Games 2025 (Bangkok) gold medallist with Vietnam"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["vi"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Khu%E1%BA%A5t_V%C4%83n_Khang",
+    "https://www.espn.com/soccer/player/_/id/355193/khuat-van-khang",
+    "https://www.fotmob.com/players/1478892/van-khang-khuat"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Born 11 May 2003 in Phuc Tho, Hanoi. Signed with Viettel's academy in 2013, made his V.League 1 professional debut in October 2022. Represented Vietnam at U15/U16/U20/U23 and senior level; won gold at the Bangkok 2025 SEA Games and third place at the Saudi Arabia 2026 AFC U-23 Asian Cup. 3 league goals credited to a 'Van Khang Khuat' in an earlier Muangthong-search context snippet on Viettel's current scoring list, matched here to this player given the distinctive name -> goals=3 for 2025/26, other stat fields not found -> null. No contract length, market value, height or foot data found -> null."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "player_id": "gnahoua_daniel",
+  "name": "Daniel Gnahoua",
+  "age": 20,
+  "date_of_birth": "2005-12-20",
+  "nationality": ["CIV"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "ES Sétif",
+  "current_club_league": "Algerian Ligue 1",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Ivorian Ligue 1 (AFAD, prior club)",
+    "apps": 9,
+    "starts": null,
+    "minutes": null,
+    "goals": 10,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Ivorian forward", "Académie Amadou-Diallo (AFAD) product", "prolific in 2024/25 Ivorian Ligue 1 (10 goals in 9 apps for AFAD)", "joined ES Sétif for remainder of 2025/26 season"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": null, "coachability": null, "resilience": null, "discipline": null, "notes": null},
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://africasoccer.com/ivorian-young-striker-gnahoua-daniel-joins-algerian-outfit-es-setif/",
+    "https://dailysports.net/news/ivorian-gnahoua-daniel-joins-es-setif-in-algeria/",
+    "https://elwatan.dz/es-setif-lattaquant-ivoirien-daniel-gnahoua-chez-lentente/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "2024/25 stats (10 goals in 9 apps) are from his prior club AFAD in the Ivorian Ligue 1, not from ES Sétif; his ES Sétif senior-team stats were not found via search -> null. Contract, value and physical attributes not found."
+  }
+}

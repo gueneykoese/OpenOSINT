@@ -1,0 +1,70 @@
+{
+  "player_id": "bard_finne",
+  "name": "Bård Finne",
+  "age": 31,
+  "date_of_birth": "1995-02-13",
+  "nationality": ["NOR"],
+  "position": "RW",
+  "secondary_positions": ["ST", "AM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "SK Brann",
+  "current_club_league": "Eliteserien",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Eliteserien",
+    "apps": 24,
+    "starts": null,
+    "minutes": null,
+    "goals": 6,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["versatile attacker: winger, mobile striker, wide playmaker, inside forward", "club great since returning to Brann: 168 appearances, 78 goals", "SK Brann were 2025/26 Norwegian Cup runners-up (lost final to Bodø/Glimt)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["no"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.sofascore.com/football/player/bard-finne/181893",
+    "https://www.soccerbase.com/players/player.sd?player_id=65066",
+    "https://www.espn.com/soccer/player/stats/_/id/173355/bard-finne"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Age 31, above the assignment's preferred 18-27 band but a genuinely documented Brann attacking mainstay; availability set to 'not for sale' given his long tenure and club-legend status (168 apps, 78 goals since returning). 6 goals in 24 apps figure is as of November 2025 (partial 2025 Eliteserien season). Contract, market value, wage unknown -> null. NOTE: field 'progressive_carries_p90' contains a typo (should be progressive_carries_p90); left as-is to avoid silently fabricating a corrected key with no data behind it -- value is null either way."
+  }
+}

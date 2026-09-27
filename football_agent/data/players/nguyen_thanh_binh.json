@@ -1,0 +1,76 @@
+{
+  "player_id": "nguyen_thanh_binh",
+  "name": "Nguyen Thanh Binh",
+  "age": 25,
+  "date_of_birth": "2000-11-02",
+  "nationality": ["VIE"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 183,
+  "current_club": "Viettel",
+  "current_club_league": "V.League 1",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "V.League 1",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "centre-back, 1.83m",
+      "Viettel youth academy product",
+      "won 2020 U-21 national championship with Viettel U21",
+      "won V.League 2 title on loan/spell with Binh Dinh, same year (2020)",
+      "Vietnam national team and U23 caps"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["vi"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Thanh_B%C3%ACnh_(footballer,_born_2000)",
+    "https://www.fotmob.com/players/1258998/thanh-binh-nguyen",
+    "https://africa.espn.com/football/player/_/id/320110/nguyen-binh-thanh"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Born 2 Nov 2000 in Vu Thu, Thai Binh, Vietnam, 1.83m. Product of the Viettel youth academy; helped Viettel's U-21 side win the national U-21 championship in 2020 and also won the V.League 2 title with Binh Dinh the same year (loan or dual-registration detail not specified in snippet). Capped for Vietnam at senior, U23 and U16 level. No 2025/26 statistics, contract length or market value found -> null. Note: this is a distinct Nguyen Thanh Binh from at least one other Vietnamese footballer of the same name born 1987, per disambiguated Wikipedia titles found in search -- flagged to avoid conflation."
+  }
+}

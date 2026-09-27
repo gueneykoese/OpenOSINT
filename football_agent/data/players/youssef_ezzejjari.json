@@ -1,0 +1,71 @@
+{
+  "player_id": "youssef_ezzejjari",
+  "name": "Youssef Ezzejjari",
+  "age": 33,
+  "date_of_birth": "1993-05-10",
+  "nationality": ["MAR"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "East Bengal FC",
+  "current_club_league": "Indian Super League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Indian Super League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 11,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["striker", "born in Spain (Catalonia) with Moroccan heritage", "ISL 2025/26 Golden Boot winner (11 goals) as East Bengal ended a 22-year wait for a national league title", "cult hero status at East Bengal after title win"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es", "ar"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Youssef_Ezzejjari",
+    "https://thebridge.in/football/youssef-ezzejjari-cult-hero-end-east-bengal-22-year-wait-56629",
+    "https://www.fotmob.com/players/1297629/youssef-ezzejjari",
+    "https://khelnow.com/football/indian-football-isl-2025-26-golden-boot-202605"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Age 33, above the assignment's preferred 18-27 band, but a genuinely notable, well-documented current ISL Golden Boot winner and title-winning cult hero -- availability set to 'not for sale' given his central role in East Bengal's title win. Apps/minutes/assists not found in snippets -> null. Contract, market value, wage unknown -> null."
+  }
+}

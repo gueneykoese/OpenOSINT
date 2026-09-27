@@ -1,0 +1,70 @@
+{
+  "player_id": "lee_jaewon_suwon",
+  "name": "Lee Jae-won",
+  "age": 29,
+  "date_of_birth": "1997-02-21",
+  "nationality": ["KOR"],
+  "position": "DM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Suwon FC",
+  "current_club_league": "K League 2",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "K League 1",
+    "apps": 35,
+    "starts": 33,
+    "minutes": 2925,
+    "goals": 2,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["defensive midfielder", "one of Suwon FC's top-rated players in the 2025 K League 1 season alongside Pablo Sabbag", "ever-present starter (33 of 35 league apps started)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ko"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/en-GB/players/1030776/jae-won-lee",
+    "https://www.soccerbase.com/players/player.sd?player_id=153244",
+    "https://en.wikipedia.org/wiki/2026_K_League_2"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "IMPORTANT: Suwon FC was relegated from K League 1 to K League 2 for the 2026 season following the 2025 campaign (per search snippet on Sabbag's post-relegation departure), so current_club_league is correctly set to K League 2 even though the assignment brief targeted K League 1 clubs -- included anyway since Suwon FC 2025/26 stats are genuinely sourced and the player remains a real, current transfer-relevant profile. stats_2025_26 reflects his last K League 1 season (2025) at Suwon FC. Contract, market value, wage unknown -> null."
+  }
+}

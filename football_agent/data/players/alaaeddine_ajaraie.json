@@ -1,0 +1,70 @@
+{
+  "player_id": "alaaeddine_ajaraie",
+  "name": "Alaaeddine Ajaraie",
+  "age": 33,
+  "date_of_birth": "1993-01-05",
+  "nationality": ["MAR"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "NorthEast United FC",
+  "current_club_league": "Indian Super League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Indian Super League",
+    "apps": 25,
+    "starts": null,
+    "minutes": null,
+    "goals": 23,
+    "assists": 7,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Moroccan striker", "ISL 2024/25 Golden Boot AND Golden Ball winner (23 goals, 7 assists in 25 matches)", "scored winner in 2024 Durand Cup final, NorthEast United's first major trophy", "re-signed a new NorthEast United contract for 2026/27"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ar", "fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alaaeddine_Ajaraie",
+    "https://www.indiansuperleague.com/news/alaaeddine-ajaraie-northeast-united-fc-forward-just-cant-stop-breaking-records",
+    "https://khelnow.com/football/indian-football-isl-26-27-northeast-united-alaeddine-ajaraie-contract-extension"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Age 33, above the assignment's preferred 18-27 band, but a genuinely dominant, heavily documented ISL striker (2024/25 Golden Boot + Golden Ball) re-signed for 2026/27 -- availability set to 'not for sale'. The 23-goal, 7-assist, 25-app tally is his 2024/25 season record (his standout campaign); 2025/26-specific figures were not found in search snippets -> used as best-available proxy. Contract length, market value, wage unknown -> null."
+  }
+}

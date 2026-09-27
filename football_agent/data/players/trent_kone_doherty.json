@@ -1,0 +1,71 @@
+{
+  "player_id": "trent_kone_doherty",
+  "name": "Trent Kone-Doherty",
+  "age": 20,
+  "date_of_birth": "2006-06-30",
+  "nationality": ["IRL"],
+  "position": "LW",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Molde FK",
+  "current_club_league": "Eliteserien",
+  "contract_until": null,
+  "market_value_eur_m": 0.788,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Eliteserien",
+    "apps": 21,
+    "starts": null,
+    "minutes": null,
+    "goals": 6,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["young left winger, right-footed (inverted)", "Republic of Ireland U21/U19/U17 international", "scored a first Molde hat-trick vs HamKam described as part of a 'rapid rise'", "11 goals, 2 assists in 19 apps across all competitions in 2025"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1347272/trent-kone-doherty",
+    "https://africasoccer.com/trent-kone-doherty-scores-first-molde-hat-trick-as-ivorian-winger-continues-rapid-rise/",
+    "https://www.soccerbase.com/players/player.sd?player_id=161541",
+    "https://www.espn.com/soccer/player/_/id/342686/trent-kone-doherty"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "6 goals/1 assist in 21 league matches is his 2025 Eliteserien league record per Sofascore/Soccerbase snippet. One source (africasoccer.com headline) describes him as an 'Ivorian winger' while his official national-team representation (Ireland U21/U19/U17 per Soccerbase) points to Irish nationality -- nationality set to IRL as the better-sourced, cap-based data point, but this discrepancy is flagged. Contract, fee, wage unknown -> null."
+  }
+}

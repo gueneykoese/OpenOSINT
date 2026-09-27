@@ -1,0 +1,70 @@
+{
+  "player_id": "babacar_leye",
+  "name": "Babacar Leye",
+  "age": 25,
+  "date_of_birth": "2000-09-02",
+  "nationality": ["SEN", "FRA"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Pau FC",
+  "current_club_league": "Ligue 2",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Ligue 2",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 3,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Franco-Senegalese striker", "signed with Pau FC on 7 July 2026 per Wiwsport transfer report", "Pau FC's early top scorer for the 2026/27 Ligue 2 season (per FotMob snippet)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://wiwsport.com/2026/07/07/mercato-lattaquant-senegalais-babacar-leye-sengage-avec-le-pau-fc/",
+    "https://www.fotmob.com/leagues/110/stats/season/37299/players/goals/team/6355/pau",
+    "https://www.footmercato.net/joueur/babacar-leye/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Joined Pau FC July 2026 per Wiwsport; the '3 goals' figure is from an early-season 2026/27 snippet, not a full prior-season (2025/26) tally, since he was not yet at Pau in 2025/26 -- stats_2025_26 label kept for schema consistency but reflects his first months at the club in the following season. Apps/minutes/assists, contract, market value and wage unknown -> null."
+  }
+}

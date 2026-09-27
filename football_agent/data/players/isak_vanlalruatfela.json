@@ -1,0 +1,70 @@
+{
+  "player_id": "isak_vanlalruatfela",
+  "name": "Isak Vanlalruatfela",
+  "age": 24,
+  "date_of_birth": "2001-05-19",
+  "nationality": ["IND"],
+  "position": "RW",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Odisha FC",
+  "current_club_league": "Indian Super League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Indian Super League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Indian right winger", "career ISL record (across seasons up to 2025/26): 61 apps, 10 goals, 9 assists", "part of Odisha's rebuilt, largely domestic attacking unit after departure of foreign forwards ahead of 2025/26"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en", "mnw"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://grokipedia.com/page/Isak_Vanlalruatfela",
+    "https://africa.espn.com/football/player/_/id/282487/isak-vanlalruatfela",
+    "https://www.indiansuperleague.com/features/odisha-fcs-all-time-isl-xi"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "2025/26-specific stats per ESPN snippet showed 0 goals, 0 assists as of the data pull -- genuinely reported as a quiet season so far, not a data gap; kept as 0 rather than null since the source explicitly stated no returns yet. Career totals (61 apps, 10 goals, 9 assists) are cumulative across ISL seasons, not 2025/26 alone. Apps/minutes for 2025/26 specifically not found -> null. Contract, market value, wage unknown -> null."
+  }
+}

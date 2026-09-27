@@ -1,0 +1,69 @@
+{
+  "player_id": "yadaly_diaby",
+  "name": "Yadaly Diaby",
+  "age": 25,
+  "date_of_birth": "2000-08-09",
+  "nationality": ["GUI"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Grenoble Foot 38",
+  "current_club_league": "Ligue 2",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Ligue 2",
+    "apps": null,
+    "starts": null,
+    "minutes": 1696,
+    "goals": 7,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["striker", "Grenoble Foot 38's leading scorer in 2025/26 Ligue 2", "holds Guinean nationality with a Reunion Island connection"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.worldfootball.net/player_summary/yadaly-diaby/fra-ligue-2-2025-2026/grenoble-foot-38/3/",
+    "https://www.soccerzz.com/player/yadaly-diaby/854988"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "7 goals, 1 assist, 1696 minutes for the 2025/26 Ligue 2 season per worldfootball.net player summary. Apps/starts not separately given -> null. Contract, market value, fee, wage unknown -> null."
+  }
+}

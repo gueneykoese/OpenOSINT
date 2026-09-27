@@ -1,0 +1,70 @@
+{
+  "player_id": "holmbert_fridjonsson",
+  "name": "Hólmbert Aron Friðjónsson",
+  "age": 33,
+  "date_of_birth": "1993-04-19",
+  "nationality": ["ISL"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "left",
+  "height_cm": 195,
+  "current_club": "Gwangju FC",
+  "current_club_league": "K League 1",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "K League 1",
+    "apps": 25,
+    "starts": null,
+    "minutes": null,
+    "goals": 3,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["tall target striker (195cm), left-footed", "Icelandic international with career spells at Celtic, KR Reykjavik, Aalesund", "joined Gwangju FC in 2025 from Europe", "title winner: Scottish Premiership 2013/14 (Celtic), Icelandic Cup 2013, League Cup 2016, OBOS-ligaen 2019"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["is", "en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/H%C3%B3lmbert_Fri%C3%B0j%C3%B3nsson",
+    "https://www.fotmob.com/players/275997/holmbert-aron-fridjonsson",
+    "https://sports.yahoo.com/articles/underdogs-good-us-h-lmbert-061000927.html"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Age 33, above the assignment's preferred 18-27 band, included as a real, well-documented current Gwangju FC starter. 25 apps/3 goals figure covers his time at Gwangju since 2025 per FotMob snippet; 2026-specific split stats (1 goal in 228 minutes) also seen but not used as the primary season figure since it appears to be a partial in-season sample. Contract, market value, wage unknown -> null."
+  }
+}

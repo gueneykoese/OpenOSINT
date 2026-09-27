@@ -1,0 +1,60 @@
+{
+  "player_id": "gabor_jurek",
+  "name": "Gábor Jurek",
+  "age": 21,
+  "date_of_birth": "2004-06-04",
+  "nationality": ["HUN"],
+  "position": "RW",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "MTK Budapest",
+  "current_club_league": "NB I",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "NB I",
+    "apps": null,
+    "starts": null,
+    "minutes": 826,
+    "goals": 3,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["right winger", "Hungarian domestic talent"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": null, "coachability": null, "resilience": null, "discipline": null, "notes": null},
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["hu"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": ["https://www.fotmob.com/players/1345051/gabor-jurek", "https://fbref.com/en/squads/e44db2c6/2025-2026/"],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Only basic bio and 2025/26 NB I minutes/goals/assists (3g, 1a, 826 min) verifiable via search snippets. Contract, value, fee, physical attributes and off-pitch data not found -> null."
+  }
+}

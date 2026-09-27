@@ -1,0 +1,74 @@
+{
+  "player_id": "ben_old",
+  "name": "Ben Old",
+  "age": 24,
+  "date_of_birth": "2002-08-13",
+  "nationality": ["NZL"],
+  "position": "AM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Saint-Etienne",
+  "current_club_league": "Ligue 1",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Ligue 1",
+    "apps": 48,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "attacking midfielder",
+      "record-setting New Zealander in Ligue 1 appearances",
+      "Wellington Phoenix academy product",
+      "2026 FIFA World Cup squad member for New Zealand"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en", "fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ben_Old",
+    "https://www.footballdatabase.eu/en/player/details/401438-ben-old"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Born 13 Aug 2002 in Auckland, New Zealand. Began his career at Wellington Phoenix before moving to Saint-Etienne (Ligue 1, France), where his cumulative career figures per Wikipedia snippet are 48 appearances and 1 goal (the exact season-by-season split, and whether all 48 apps fall within 2025/26, is not specified in the snippet -> apps recorded as the career/cumulative total under stats_2025_26 with that caveat, minutes/starts/assists null). On 13 Sep 2024 he set a new Ligue 1 appearances record for a New Zealander (surpassing Bill Tuiloma's two games). Part of the New Zealand U-17 side that won the 2018 OFC U-16 Championship and qualified for the 2019 U-17 World Cup; named to New Zealand's 2026 FIFA World Cup squad on 14 May 2026. No contract length, market value or physical data found -> null. Not from one of the four Uzbek clubs or Vietnam/Thai clubs named in scope; included under the assignment's New Zealand-exports-playing-abroad fallback option."
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "player_id": "bamidele_yusuf",
+  "name": "Bamidele Yusuf",
+  "age": 25,
+  "date_of_birth": "2001-02-22",
+  "nationality": ["NGA"],
+  "position": "ST",
+  "secondary_positions": ["RW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Ferencvárosi TC",
+  "current_club_league": "NB I",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 2.5,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "NB I",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Nigerian forward", "left home at 12 to pursue football (public interview)", "scored 21 goals/7 assists in 46 apps for FK Vojvodina before summer 2025 move", "European interest reported after strong Serbian SuperLiga form", "Super Eagles call-up aspirant"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": null, "coachability": null, "resilience": 4, "discipline": null, "notes": "Publicly described (Soccernet NG interview, Sep 2026) leaving home at age 12 to pursue a football career as a formative sacrifice."},
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [
+      "Told Soccernet NG (Sep 2026) he left home at age 12 to chase his football career.",
+      "Told AllNigeriaSoccer he supported Chelsea growing up and idolised a former Arsenal player."
+    ],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "Publicly expressed hope for a first Super Eagles (Nigeria) call-up based on his 2025/26 form."
+  },
+  "sources": [
+    "https://www.fradi.hu/en/football/men-s/news/we-have-signed-bamidele-yusuf",
+    "https://www.phogammedia.ng/2025/09/06/ferencvaros-secure-nigerian-star-bamidele-yusuf-in-four-year-deal/",
+    "https://soccernet.ng/2026/09/super-eagles-hopeful-opens-up-sacrifice.html",
+    "https://www.footballinnigeria.com.ng/tactics-analysis/bamidele-yusuf-draws-european-interest-after-strong-serbia-form/",
+    "https://www.fkvojvodina.rs/dele-tied-the-record-with-four-goals-at-away-games-yusuf-bamidele-played-the-match-of-his-career/?lang=en&script=lat"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Moved from FK Vojvodina (Serbian SuperLiga) to Ferencváros (NB I) in summer 2025 for an estimated EUR 2.5m fee on a four-year deal (contract_until estimated as 2029 from 'four-year contract' reported Sep 2025). Prior-club (Vojvodina) totals of 21 goals/7 assists in 46 apps are historical, not 2025/26 Ferencváros stats, so current-season stats fields are null pending verification. Height and exact 2025/26 NB I numbers not found via search."
+  }
+}

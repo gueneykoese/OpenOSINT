@@ -1,0 +1,60 @@
+{
+  "player_id": "njegos_petrovic",
+  "name": "Njegoš Petrović",
+  "age": 26,
+  "date_of_birth": "1999-07-18",
+  "nationality": ["SRB"],
+  "position": "DM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 185,
+  "current_club": "FK Vojvodina",
+  "current_club_league": "Serbian SuperLiga",
+  "contract_until": 2027,
+  "market_value_eur_m": 4.3,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Serbian SuperLiga",
+    "apps": null,
+    "starts": null,
+    "minutes": 1895,
+    "goals": 3,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["defensive midfielder", "high minutes-load regular starter (1895 mins in 2025/26)", "Serbia youth-international pedigree (U17 to U21)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": null, "coachability": null, "resilience": null, "discipline": null, "notes": null},
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["sr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": ["https://www.fotmob.com/players/789033/njegos-petrovic", "https://www.espn.co.uk/football/player/_/id/291984/njegos-petrovic"],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Bio, market value, contract expiry and 2025/26 SuperLiga stats (3 goals, 2 assists, 1895 minutes, 5 yellow cards) from FotMob-sourced search snippet; yellow cards omitted as not part of schema."
+  }
+}

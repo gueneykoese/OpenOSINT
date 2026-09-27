@@ -1,0 +1,70 @@
+{
+  "player_id": "grzegorz_tomasiewicz",
+  "name": "Grzegorz Tomasiewicz",
+  "age": 29,
+  "date_of_birth": "1996-05-05",
+  "nationality": ["POL"],
+  "position": "DM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Piast Gliwice",
+  "current_club_league": "Ekstraklasa",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Ekstraklasa",
+    "apps": null,
+    "starts": null,
+    "minutes": 1721,
+    "goals": 1,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Polish defensive midfielder", "regular starter at Piast Gliwice (1721 minutes in 2025/26 Ekstraklasa)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pl"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://us.soccerway.com/player/tomasiewicz-grzegorz/fL1tVRfk/",
+    "https://www.playmakerstats.com/player/grzegorz-tomasiewicz/393444",
+    "https://footystats.org/players/poland/grzegorz-tomasiewicz"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Apps/starts not found in snippets -> null. Contract, market value, fee, wage unknown -> null."
+  }
+}

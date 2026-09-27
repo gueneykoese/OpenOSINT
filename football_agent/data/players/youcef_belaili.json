@@ -1,0 +1,60 @@
+{
+  "player_id": "youcef_belaili",
+  "name": "Youcef Belaïli",
+  "age": 34,
+  "date_of_birth": "1992-03-14",
+  "nationality": ["ALG"],
+  "position": "LW",
+  "secondary_positions": ["AM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Espérance de Tunis",
+  "current_club_league": "Ligue Professionnelle 1",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Ligue Professionnelle 1",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Algeria international left winger, 59 caps", "current Espérance de Tunis captain", "AFCON 2019 winner and FIFA Arab Cup 2021 winner with Algeria", "top scorer for Espérance across all competitions in 2024/25 (20 goals)"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {"leadership": 5, "coachability": null, "resilience": null, "discipline": null, "notes": "Serves as club captain, a public leadership marker."},
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ar", "fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": ["https://en.wikipedia.org/wiki/Youcef_Bela%C3%AFli", "https://www.fotmob.com/players/535523/mohamed-youcef-belaili", "https://www.espn.com/soccer/player/_/id/264770/Youcef-Bela%C3%AFli"],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Age 34, well above the pilot's usual 18-27 band; included for his very strong, highly-verified public profile (AFCON/Arab Cup winner, Espérance captain, 2024/25 season top scorer with 20 goals across competitions per a Wikipedia season page). Set availability to 'not for sale' reflecting his captain/talisman status, an inference rather than a direct sourced quote -> flagged. 2025/26-specific stats, contract and market value not found via search -> null."
+  }
+}

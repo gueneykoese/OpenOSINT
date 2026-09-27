@@ -1,0 +1,75 @@
+{
+  "player_id": "nguyen_quang_hai",
+  "name": "Nguyen Quang Hai",
+  "age": 29,
+  "date_of_birth": "1997-04-12",
+  "nationality": ["VIE"],
+  "position": "CM",
+  "secondary_positions": ["AM"],
+  "preferred_foot": "left",
+  "height_cm": 166,
+  "current_club": "Cong An Ha Noi",
+  "current_club_league": "V.League 1",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "V.League 1",
+    "apps": null,
+    "starts": null,
+    "minutes": 2065,
+    "goals": 3,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "creative central midfielder",
+      "long-time Vietnam national team talisman",
+      "prior European stint at Pau FC (France, Ligue 2) before returning to Vietnam",
+      "17 career titles including V-League, Cup and Super Cup with CAHN, SEA Games and ASEAN Championship with Vietnam"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["vi", "fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": "One of Vietnamese football's highest-profile commercial names, per multiple domestic media reports referenced in search snippets.",
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/819727/quang-hai-nguyen",
+    "https://www.besoccer.com/player/nguyen-quang-hai-974759",
+    "https://www.whoscored.com/players/467312/show/nguyen-quang-hai"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Born 12 Apr 1997, height 166cm, left-footed central midfielder for Cong An Ha Noi and Vietnam. 2025/26 V-League figures per Fotmob snippet: 3 goals, 2065 minutes played, 1 yellow card (apps/assists not given in snippet -> null). Career included a spell at Pau FC in France (Ligue 2) before returning to the V.League. Won V-League titles in 2023 and 2025/26, a Cup in 2024/25 and Super Cup in 2025/26 with CAHN, plus a 2019 SEA Games gold with Vietnam U23 and the 2026 ASEAN Championship with the senior team, per snippet. Market value, contract length and foot-preference precision (confirmed) sourced across profile aggregator snippets, not primary club statements -> confidence medium given multiple independent corroborating sources but no single authoritative bio page fully read."
+  }
+}

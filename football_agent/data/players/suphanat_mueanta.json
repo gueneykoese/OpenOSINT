@@ -1,0 +1,76 @@
+{
+  "player_id": "suphanat_mueanta",
+  "name": "Suphanat Mueanta",
+  "age": 24,
+  "date_of_birth": "2002-08-02",
+  "nationality": ["THA"],
+  "position": "LW",
+  "secondary_positions": ["RW", "ST"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "RB Omiya Ardija",
+  "current_club_league": "J2 League (Japan)",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "J2 League",
+    "apps": null,
+    "starts": null,
+    "minutes": 163,
+    "goals": 1,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "winger",
+      "youngest player and youngest goalscorer in Thai League 1 history (debut goal at 15)",
+      "youngest goalscorer in AFC Champions League history (at 16)",
+      "prior loan spell at OH Leuven (Belgian Pro League)",
+      "15 career titles with Buriram United"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["th"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": "One of Thai football's most recognizable young stars given record-breaking youth debut/goalscoring history, per multiple aggregator/profile sources.",
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Suphanat_Mueanta",
+    "https://www.fotmob.com/players/924207/suphanat-mueanta",
+    "https://www.footballtransfers.com/en/players/suphanat-mueanta"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Born 2 Aug 2002 in Sisaket, Thailand. Career at Buriram United 2018-2026: 132 apps, 38 goals; loan at OH Leuven (Belgium) 2023-2024: 16 apps, 1 goal. Transferred from Buriram United to RB Omiya Ardija (Japan, J2 League) on 27 June 2026, squad number 21; 2026/27 J2 League form per Fotmob snippet: 1 goal, 1 assist, 163 minutes (apps/starts not broken out -> null). Holds Thai League 1 youngest-player and youngest-goalscorer records (debut goal at 15) and the AFC Champions League youngest-goalscorer record (age 16). Won 15 titles with Buriram United including multiple Thai FA Cups, the ASEAN Club Championship, League Cups and Thai League titles. Current club is technically outside the Thai League 1 focus (moved to Japan mid-2026) but included as the most prominent recent Buriram United academy/first-team product and a clear example of a Thai League export."
+  }
+}

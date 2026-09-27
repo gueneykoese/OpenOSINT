@@ -1,0 +1,71 @@
+{
+  "player_id": "mileta_rajovic",
+  "name": "Mileta Rajović",
+  "age": 27,
+  "date_of_birth": "1999-07-17",
+  "nationality": ["DEN"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Legia Warsaw",
+  "current_club_league": "Ekstraklasa",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Ekstraklasa",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 3,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": ["Danish striker", "Legia Warsaw's leading league scorer in 2025/26 (3 league goals, 7 goals across all competitions)", "made permanent move to Legia Warsaw from Watford FC in July 2025"],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["da"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.espn.com/soccer/player/_/id/357141/mileta-rajovic",
+    "https://the72.co.uk/2025/07/09/watford-mileta-rajovic-permanent-legia-warsaw-move/",
+    "https://legia.com/en/articles/mileta-rajovic-zawodnikiem-legii-warszawa",
+    "https://www.soccerbase.com/players/player.sd?player_id=172564"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Nationality listed as Danish per ESPN/Soccerbase snippets despite the Montenegrin-sounding surname (unverified family background) -- flagged rather than guessed. 3 league goals / 7 all-competitions figure per search snippet; apps/minutes/assists not found -> null. Contract, market value, wage unknown -> null."
+  }
+}

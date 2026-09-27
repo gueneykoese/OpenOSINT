@@ -1,0 +1,75 @@
+{
+  "player_id": "nguyen_cong_phuong_viettel",
+  "name": "Nguyen Cong Phuong (b. 2006)",
+  "age": 20,
+  "date_of_birth": "2006-06-03",
+  "nationality": ["VIE"],
+  "position": "CM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Viettel",
+  "current_club_league": "V.League 1",
+  "contract_until": null,
+  "market_value_eur_m": 0.071,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "V.League 1",
+    "apps": 2,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "young central midfielder",
+      "captain of Vietnam U20",
+      "scored golden goal for Vietnam U23 vs Indonesia U23 in a youth tournament",
+      "Best Player and Top Scorer at a national U17 tournament"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": 4,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Captaincy of Vietnam U17 and U20 sides at a young age is publicly documented and suggests early leadership recognition by coaches."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["vi"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "Note: shares his name with a much more famous, senior Vietnamese international forward Nguyen Cong Phuong (born 1995); this player_id/file refers specifically to the younger Viettel midfielder born 3 June 2006, distinguished in sources by birth year and club."
+  },
+  "sources": [
+    "https://www.flashscoreusa.com/player/nguyen-cong-phuong/YiqYFwTd/",
+    "https://vn.soccerway.com/cau-thu/nguyen-cong-phuong/YiqYFwTd",
+    "https://www.vietnam.vn/en/nguyen-cong-phuong-nguoi-hung-giup-u23-viet-nam-vo-dich-dong-nam-a-la-ai"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Born 3 June 2006, midfielder for Viettel in V.League 1. Career V.League record per Soccerway/Flashscore snippet: 2025/26: 2 apps, 0 goals; 2024/25: 16 apps, 0 goals, 1 card; 2023/24: 5 apps, 0 goals, 1 card; total 23 apps, 0 goals across seasons. Market value listed as EUR 71k in the same snippet. Captain of Vietnam U20 and previously U17 (Best Player + Top Scorer at a national U17 tournament); reported to have scored a golden goal for an Vietnam U23 side against Indonesia U23 in a regional youth tournament (exact competition/date not specified in snippet). This is a distinct individual from the well-known senior international forward of the same name (b.1995) -- flagged explicitly to avoid confusion given the identical name is a known duplication risk in Vietnamese football data. Minutes, assists, contract length, height, foot not found -> null."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "player_id": "isa_prins",
+  "name": "Isa Prins",
+  "age": 21,
+  "date_of_birth": "2005-07-12",
+  "nationality": ["NZL"],
+  "position": "AM",
+  "secondary_positions": ["ST"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Auckland FC",
+  "current_club_league": "A-League Men",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "NZ National League (pre-Auckland FC, Wellington Olympic)",
+    "apps": 30,
+    "starts": null,
+    "minutes": null,
+    "goals": 20,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "attacking midfielder",
+      "prolific goalscorer at NZ domestic level before turning professional",
+      "scored 4 goals in one Central League match vs Waterside Karori",
+      "scored in extra time to win the NZ National League Grand Final",
+      "2x Chatham Cup winner with Wellington Olympic, Player of the Match in one final"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.stuff.co.nz/sport/360917200/promising-wellington-attacker-isa-prins-gets-first-crack-pro-football-auckland-fc",
+    "https://www.ofcproleague.com/teams/auckland-fc/isa-prins/",
+    "https://www.sofascore.com/football/player/isa-prins/1648667"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Born 12 Jul 2005. Signed with Auckland FC from Wellington Olympic (NZ National League), earning his first crack at professional football per a Stuff.co.nz feature. In his final domestic season before turning pro he scored 20 goals in 30 games including a 4-goal game against Waterside Karori and an extra-time winner in the National League Grand Final; won the Chatham Cup twice with Wellington Olympic, including a Player-of-the-Match display (goal + 2 assists) in one final. These are domestic amateur/semi-pro league stats, not A-League Men professional statistics, and are labelled accordingly in stats_2025_26.competition. No professional A-League statistics, contract length, market value, height or foot data found -> null."
+  }
+}

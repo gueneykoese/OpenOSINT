@@ -1,0 +1,74 @@
+{
+  "player_id": "sardorbek_bakhromov",
+  "name": "Sardorbek Bakhromov",
+  "age": 21,
+  "date_of_birth": "2005-02-16",
+  "nationality": ["UZB"],
+  "position": "CM",
+  "secondary_positions": ["AM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Nasaf Qarshi",
+  "current_club_league": "Uzbekistan Super League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Uzbekistan Super League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "ball-carrying attacking #8",
+      "recently broke into Nasaf first team",
+      "dribbling and progressive carrying as main strength (per scout report)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["uz"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.espn.com/soccer/player/_/id/392179/sardorbek-bakhromov",
+    "https://targetscouting.com/2025/10/01/sardorbek-bakhromov-nasaf-scout-report/",
+    "https://www.sofascore.com/football/player/sardorbek-bakhromov/1651894"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "DOB (16 Feb 2005), club (Nasaf Qarshi) and role description (attacking #8, ball-carrying strength) sourced from a dedicated October 2025 scout report (targetscouting.com) plus ESPN/Sofascore profile pages. WebSearch also surfaced a live-table snippet crediting a 'Sardorbek Bakhromov' rating of 7.66 in current Nasaf league form but without a verifiable apps/goals breakdown, so season stats are left null rather than guessed. No market value, contract or foot data found."
+  }
+}
