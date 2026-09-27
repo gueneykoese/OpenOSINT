@@ -1,0 +1,78 @@
+{
+  "player_id": "emmanuel_mbemba",
+  "name": "Emmanuel Mbemba",
+  "age": 18,
+  "date_of_birth": "2008-03-20",
+  "nationality": ["FRA", "COD"],
+  "position": "LB",
+  "secondary_positions": ["CB"],
+  "preferred_foot": "left",
+  "height_cm": 179,
+  "current_club": "Paris FC",
+  "current_club_league": "Ligue 1",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Ligue 1",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed left-back/centre-back, dual France-DR Congo nationality, born in Melun, France",
+      "PSG academy product; PSG reportedly keen to tie him to a first professional contract",
+      "reported (africasoccer.com) to have completed or been strongly linked to a move to Paris FC",
+      "also linked with Stuttgart and Monaco per separate africasoccer.com reports",
+      "France U17 international"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://africasoccer.com/emmanuel-mbemba-france-dr-congo-defender-linked-with-paris-fc-move/",
+    "https://africasoccer.com/emmanuel-mbemba-stuttgart-eye-move-for-psgs-franco-congolese-left-back/",
+    "https://africasoccer.com/emmanuel-mbemba-monaco-linked-with-move-for-psgs-french-dr-congo-left-back/",
+    "https://www.espn.com/soccer/player/_/id/403843/emmanuel-mbemba",
+    "https://www.playmakerstats.com/player/emmanuel-mbemba/1820847"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "18-year-old France U17 international left-back/centre-back (dual France-DR Congo nationality), a PSG academy product (PSG is one of the 36 UCL 2026/27 pilot clubs, but Mbemba's reported moves are all AWAY from PSG, so he is fair game per the pilot's transfer-out rule). Multiple africasoccer.com reports from the same period describe him variously as linked with Paris FC, Stuttgart and Monaco; current_club is set to Paris FC per the most specific report but this should be re-verified given the conflicting transfer chatter across sources of the same type. Stats, market value, contract and wages not publicly available -> null."
+  }
+}
