@@ -1,0 +1,74 @@
+{
+  "player_id": "bassirou_compaore",
+  "name": "Bassirou Compaoré",
+  "age": 28,
+  "date_of_birth": "1998-04-23",
+  "nationality": ["BFA"],
+  "position": "ST",
+  "secondary_positions": ["AM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "FK Struga",
+  "current_club_league": "Macedonian First Football League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Macedonian First Football League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 17,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "born in Ouagadougou, Burkina Faso",
+      "2025/26 Macedonian First Football League top scorer (17 goals) for FK Struga",
+      "forward/attacking midfielder"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Macedonian_First_Football_League",
+    "https://www.worldfootball.net/player_summary/bassirou-compaore/",
+    "https://www.footballcritic.com/bassirou-compaore/profile/183743"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "28-year-old Burkinabe forward, top scorer of the 2025/26 Macedonian First Football League with 17 goals; club at time of scoring record cited as FK Struga (some snippets link him historically with Vardar, the eventual champions, but the specific top-scorer record ties him to Struga). Apps/minutes/assists, market value, contract and wages not publicly available -> null."
+  }
+}

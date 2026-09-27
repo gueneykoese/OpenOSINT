@@ -1,0 +1,75 @@
+{
+  "player_id": "soufiane_benjdida",
+  "name": "Soufiane Benjdida",
+  "age": 24,
+  "date_of_birth": "2001-09-05",
+  "nationality": ["MAR"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Maghreb de Fès (MAS Fez)",
+  "current_club_league": "Botola Pro",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Botola Pro",
+    "apps": null,
+    "starts": null,
+    "minutes": 1215,
+    "goals": 20,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "2025/26 Botola Pro top scorer (20 goals) as MAS Fez won the title",
+      "born in Casablanca; came through Raja Club Athletic, then Standard Liege and RWD Molenbeek in Belgium",
+      "returned to Morocco to sign for MAS Fez in summer 2025"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ar", "fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://lionsdelatlas.ma/soufiane-benjdida-le-nouveau-visage-de-lefficacite-en-botola-pro/",
+    "https://www.maghreb-fes.com/",
+    "https://en.wikipedia.org/wiki/2025%E2%80%9326_Botola_Pro",
+    "https://www.fotmob.com/players/1334889/soufiane-benjdida"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "24-year-old Moroccan striker, 2025/26 Botola Pro top scorer (20 goals, ~1215 minutes per Fotmob-derived aggregator) as Maghreb de Fes won the title; came up through Raja Club Athletic before European spells at Standard Liege and RWD Molenbeek. Apps count, market value, contract and wages not publicly available -> null."
+  }
+}

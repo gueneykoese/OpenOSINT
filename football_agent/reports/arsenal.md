@@ -93,10 +93,10 @@ Budget: €60m · wage ceiling €7m net
 
 - **Oswin Appollis** — 84.6/100 (strong match, confidence medium)
   - Oswin Appollis → Arsenal at LW: strong match (84.6/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
-- **Francisco Everton Mota de Castro (Everton Bala)** — 84.2/100 (strong match, confidence medium)
-  - Francisco Everton Mota de Castro (Everton Bala) → Arsenal at LW: strong match (84.2/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
 - **Ludovic Blas** — 81.9/100 (strong match, confidence medium)
   - Ludovic Blas → Arsenal at LW: strong match (81.9/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
+- **Hugo Álvarez** — 81.5/100 (strong match, confidence medium)
+  - Hugo Álvarez → Arsenal at LW: strong match (81.5/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
 
 ### RB — medium priority
 Profile: athletic right-back comfortable inverting, 22-27, strong 1v1 defender  

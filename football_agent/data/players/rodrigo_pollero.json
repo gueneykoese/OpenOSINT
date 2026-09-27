@@ -1,0 +1,75 @@
+{
+  "player_id": "rodrigo_pollero",
+  "name": "Rodrigo Pollero",
+  "age": 29,
+  "date_of_birth": "1996-09-14",
+  "nationality": ["URU"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 186,
+  "current_club": "Deportivo Táchira",
+  "current_club_league": "Liga FUTVE (Venezuela)",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga FUTVE (Venezuela)",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 14,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "full name Rodrigo Pollero Lopez",
+      "Uruguayan striker, joint-leading scorer of the 2026 Liga FUTVE (14 goals, level with Miku and Fedor)",
+      "well-travelled career across Uruguay, Switzerland and Argentina (Penarol, River Plate Montevideo, FC Zurich, Lausanne, Bellinzona, Schaffhausen, Chiasso, Arsenal Sarandi)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.balonazos.com/rodrigo-pollero-y-miku-fedor-asaltan-el-liderato-de-goleo-con-14-tantos-en-liga-2026/",
+    "https://www.zerozero.com.mx/jugador/rodrigo-pollero/553038",
+    "https://latingoles.com/goleador-el-uruguayo-pollero-vuelve-a-marcar-diferencias-con-tachira/",
+    "https://fbref.com/en/players/427247cf/Rodrigo-Pollero"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "29-year-old Uruguayan striker for Deportivo Tachira, joint-leading scorer of the 2026 Liga FUTVE (Venezuela) season with 14 goals (level with Miku and Fedor). Above the pilot's 18-27 target age band but included as a strong current-season story deepening the under-represented Liga FUTVE. Apps/minutes/assists, market value, contract and wages not publicly available -> null."
+  }
+}

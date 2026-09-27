@@ -113,11 +113,11 @@ Budget: €3m · wage ceiling €1m net
 
 - **El Mehdi Al Harrar** — 70.0/100 (good match, confidence medium)
   - El Mehdi Al Harrar → Galatasaray at GK: good match (70.0/100). Driven by financial feasibility and statistical fit; weakest area is positional need (48).
+- **Kauê** — 65.2/100 (possible, confidence medium)
+  - Kauê → Galatasaray at GK: possible (65.2/100). Driven by financial feasibility and statistical fit; weakest area is positional need (45).
 - **Hamza Alaa** — 64.3/100 (possible, confidence medium)
   - Hamza Alaa → Galatasaray at GK: possible (64.3/100). Driven by financial feasibility and statistical fit; weakest area is positional need (48).
   - ⚠ Current club publicly not selling.
-- **Stanley Nwabali** — 64.0/100 (possible, confidence medium)
-  - Stanley Nwabali → Galatasaray at GK: possible (64.0/100). Driven by financial feasibility and tactical / system fit; weakest area is age & contract (30).
 
 ## Sources
 

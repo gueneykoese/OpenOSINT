@@ -1,0 +1,74 @@
+{
+  "player_id": "raphael_le_guen",
+  "name": "Raphaël Le Guen",
+  "age": 20,
+  "date_of_birth": "2006-09-01",
+  "nationality": ["FRA"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 196,
+  "current_club": "Stade Brestois 29",
+  "current_club_league": "Ligue 1",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Ligue 1",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "tall (196cm) centre-back, Ligue1.com profile calls him 'Brest's next promising defender'",
+      "strong aerial presence: won more aerial duels than any other defender in a featured match, 16 clearances in one game",
+      "best pass completion rate on his side in that featured performance"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://ligue1.com/en/articles/l1_article_5101-raphael-le-guen-brest-s-next-promising-defender",
+    "https://www.fotmob.com/players/1699556/raphael-le-guen",
+    "https://www.whoscored.com/players/548299/show/rapha%C3%ABl-le-guen"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "20-year-old French centre-back for Stade Brestois, profiled by Ligue1.com as one of the league's promising young defenders (2026-27 preview), with a standout aerial/clearance performance highlighted (16 clearances, most aerial duels won among defenders in that match). Detailed season totals, market value, contract and wages not confirmed in indexed sources -> null. Squarely in the pilot's 18-27 target age band; Brest is not one of the 36 UCL 2026/27 pilot clubs."
+  }
+}

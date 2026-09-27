@@ -1,0 +1,76 @@
+{
+  "player_id": "eli_junior_kroupi",
+  "name": "Eli Junior Kroupi",
+  "age": 20,
+  "date_of_birth": "2006-06-23",
+  "nationality": ["FRA", "POR"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "AFC Bournemouth",
+  "current_club_league": "Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": null,
+    "starts": null,
+    "minutes": 1683,
+    "goals": 13,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "dual French-Portuguese forward, born in Lorient, France",
+      "joined Bournemouth permanently in Feb 2025 after a loan from FC Lorient",
+      "Bournemouth's youngest-ever Premier League goalscorer",
+      "13 goals in 2025/26 Premier League (1,683 minutes)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr", "pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1460534/eli-junior-kroupi",
+    "https://www.playmakerstats.com/player/eli-junior-kroupi/1036388",
+    "https://tribuna.com/en/persons/eli-junior-kroupi/stat/2025-2026/",
+    "https://old.breakingthelines.com/player-analysis/eli-junior-kroupi-bournemouths-teenage-sensation-taking-the-premier-league-by-storm/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "high",
+    "notes": "20-year-old dual French-Portuguese forward, Bournemouth's youngest-ever Premier League goalscorer, with 13 goals in 1,683 minutes in the 2025/26 Premier League season after joining permanently from FC Lorient in Feb 2025. Apps/starts count, market value, contract and wages not publicly available -> null. Squarely in the pilot's 18-27 target age band; Bournemouth is not one of the 36 UCL 2026/27 pilot clubs."
+  }
+}

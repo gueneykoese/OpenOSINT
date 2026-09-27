@@ -1,0 +1,75 @@
+{
+  "player_id": "damian_pizarro",
+  "name": "Damián Pizarro",
+  "age": 21,
+  "date_of_birth": "2005-03-28",
+  "nationality": ["CHI"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Audax Italiano",
+  "current_club_league": "Chilean Primera División",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "Chilean Primera División",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Chilean forward, parent club Udinese (Serie A)",
+      "loan journey in 2025/26 has included Racing Club (Argentina) and Le Havre (Ligue 1) before returning to Chile at Audax Italiano",
+      "Chile international pool"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Dami%C3%A1n_Pizarro",
+    "https://www.worldfootball.net/person/pe814133/damian-pizarro/",
+    "https://www.soccerzz.com/player/damian-pizarro/918932",
+    "https://ca.sports.yahoo.com/news/official-dami-n-pizarro-joins-002200115.html"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "21-year-old Chilean striker, owned by Udinese (Serie A) but has been on a fast-moving multi-loan journey in 2025/26 (Racing Club Argentina, then Le Havre, then reportedly back to Chile at Audax Italiano per Wikipedia as of the search date). Given the volume of conflicting loan reports across sources, current_club should be re-verified before outreach. 2025/26 individual stats, market value, contract and wages not confirmed -> null. Included to deepen the under-represented Chilean Primera Division."
+  }
+}

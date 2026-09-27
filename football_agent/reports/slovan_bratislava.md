@@ -90,8 +90,8 @@ Budget: €1m · wage ceiling €0.35m net
   - ⚠ Current club publicly not selling.
 - **Alexandru Dobre** — 68.3/100 (good match, confidence medium)
   - Alexandru Dobre → Slovan Bratislava at RW: good match (68.3/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (25).
-- **Andrei Cordea** — 67.6/100 (good match, confidence medium)
-  - Andrei Cordea → Slovan Bratislava at RW: good match (67.6/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (25).
+- **Fran Pérez** — 67.7/100 (good match, confidence medium)
+  - Fran Pérez → Slovan Bratislava at RW: good match (67.7/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (31).
 
 ### GK — medium priority
 Profile: experienced No.2 who can start UCL games if needed  

@@ -83,11 +83,11 @@ Budget: €15m · wage ceiling €2.5m net
 - **Adrián Bernabé** — 84.2/100 (strong match, confidence medium)
   - Adrián Bernabé → Porto at CM: strong match (84.2/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
   - ⚠ Would block a young starter (Victor Froholdt, 20) — check pathway politics.
+- **Serginho** — 83.2/100 (strong match, confidence medium)
+  - Serginho → Porto at CM: strong match (83.2/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
+  - ⚠ Would block a young starter (Victor Froholdt, 20) — check pathway politics.
 - **Nikola Vlasic** — 79.5/100 (strong match, confidence medium)
   - Nikola Vlasic → Porto at CM: strong match (79.5/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
-  - ⚠ Would block a young starter (Victor Froholdt, 20) — check pathway politics.
-- **Toni Fruk** — 79.1/100 (strong match, confidence medium)
-  - Toni Fruk → Porto at CM: strong match (79.1/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
   - ⚠ Would block a young starter (Victor Froholdt, 20) — check pathway politics.
 
 ### ST — medium priority

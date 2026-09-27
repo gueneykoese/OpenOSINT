@@ -83,9 +83,8 @@ Budget: €n/am · wage ceiling €n/am net
   - Musab Al-Juwayr → Villarreal at CM: strong match (82.6/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
 - **Adrián Bernabé** — 82.3/100 (strong match, confidence medium)
   - Adrián Bernabé → Villarreal at CM: strong match (82.3/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
-- **Farès Chaïbi** — 79.7/100 (strong match, confidence medium)
-  - Farès Chaïbi → Villarreal at CM: strong match (79.7/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
-  - ⚠ Current club publicly not selling.
+- **Serginho** — 81.2/100 (strong match, confidence medium)
+  - Serginho → Villarreal at CM: strong match (81.2/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
 
 ### CB — medium priority
 Profile: quick right-footed CB, 22-26  

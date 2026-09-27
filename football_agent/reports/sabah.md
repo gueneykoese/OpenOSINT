@@ -96,8 +96,8 @@ Budget: €1m · wage ceiling €0.4m net
   - Oliver Jordan Hagen → Sabah at ST: good match (72.8/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
 - **Bo Åsulv Hegland** — 71.9/100 (good match, confidence medium)
   - Bo Åsulv Hegland → Sabah at ST: good match (71.9/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
-- **Tiago Coimbra** — 71.2/100 (good match, confidence medium)
-  - Tiago Coimbra → Sabah at ST: good match (71.2/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Eli Junior Kroupi** — 71.2/100 (good match, confidence medium)
+  - Eli Junior Kroupi → Sabah at ST: good match (71.2/100). Driven by statistical fit and positional need; weakest area is financial feasibility (50).
   - ⚠ Current club publicly not selling.
 
 ### GK — low priority
@@ -108,11 +108,11 @@ Budget: €0.5m · wage ceiling €0.3m net
 - **Yehvann Diouf** — 63.8/100 (possible, confidence medium)
   - Yehvann Diouf → Sabah at GK: possible (63.8/100). Driven by statistical fit and positional need; weakest area is positional need (45).
   - ⚠ Current club publicly not selling.
+- **Kauê** — 62.6/100 (possible, confidence medium)
+  - Kauê → Sabah at GK: possible (62.6/100). Driven by financial feasibility and statistical fit; weakest area is positional need (45).
 - **Hamza Alaa** — 62.5/100 (possible, confidence medium)
   - Hamza Alaa → Sabah at GK: possible (62.5/100). Driven by financial feasibility and statistical fit; weakest area is positional need (45).
   - ⚠ Current club publicly not selling.
-- **Kwadwo Bonsu** — 62.5/100 (possible, confidence medium)
-  - Kwadwo Bonsu → Sabah at GK: possible (62.5/100). Driven by financial feasibility and statistical fit; weakest area is positional need (45).
 
 ## Sources
 

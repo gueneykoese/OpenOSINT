@@ -1,29 +1,29 @@
 {
   "player_id": "fran_perez",
   "name": "Fran Pérez",
-  "age": 24,
+  "age": 23,
   "date_of_birth": "2002-09-09",
   "nationality": ["ESP"],
-  "position": "LW",
-  "secondary_positions": ["RW"],
+  "position": "RW",
+  "secondary_positions": [],
   "preferred_foot": null,
   "height_cm": null,
   "current_club": "Rayo Vallecano",
   "current_club_league": "La Liga",
-  "contract_until": null,
-  "market_value_eur_m": null,
-  "estimated_fee_eur_m": null,
+  "contract_until": 2029,
+  "market_value_eur_m": 3.9,
+  "estimated_fee_eur_m": 1,
   "wage_eur_m_net": null,
   "release_clause_eur_m": null,
   "agent_status": "represented",
   "availability": "open to move",
   "stats_2025_26": {
     "competition": "La Liga",
-    "apps": null,
+    "apps": 33,
     "starts": null,
-    "minutes": 852,
-    "goals": 2,
-    "assists": 0,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
     "xg": null,
     "xa": null,
     "shots_p90": null,
@@ -36,8 +36,10 @@
   },
   "style_profile": {
     "tags": [
-      "left winger, shirt number 21",
-      "regular squad member at Rayo Vallecano"
+      "full name Francisco Perez Martinez",
+      "right winger",
+      "transferred from Valencia CF to Rayo Vallecano on 15 Aug 2025 for a reported ~EUR 1m fixed fee, signed a four-year deal to 2029",
+      "made 33 appearances for Rayo Vallecano in the current season"
     ],
     "best_system": [],
     "weak_in": []
@@ -61,13 +63,14 @@
     "notes": null
   },
   "sources": [
-    "https://en.wikipedia.org/wiki/Fran_P%C3%A9rez_(footballer,_born_2002)",
-    "https://www.fotmob.com/players/1284430/fran-perez",
-    "https://www.sofascore.com/football/player/fran-perez/966637"
+    "https://www.footballtransfers.com/en/players/francisco-perez-martinez",
+    "https://www.transferfeed.com/transfers/fran-perez-valencia-rayo-vallecano/13291802",
+    "https://www.soccerbase.com/players/player.sd?player_id=143492",
+    "https://www.fotmob.com/en-GB/players/1284430/fran-perez"
   ],
   "as_of": "2026-09-27",
   "data_quality": {
-    "confidence": "low",
-    "notes": "DOB from FotMob snippet. 2025/26 La Liga stats (852 min, 2 goals, 0 assists) from FotMob; apps/starts breakdown not given in snippet -> null. Early 2026/27 form (20 min, 0G/0A) noted but not entered since it is a partial season sample. Contract length, market value, height, foot not found -> null."
+    "confidence": "medium",
+    "notes": "23-year-old Spanish right winger, moved from Valencia CF to Rayo Vallecano for a reported ~EUR 1m fixed fee on 15 Aug 2025, signing a four-year deal through 2029; market value ~EUR 3.9m per Footballtransfers, 33 apps in the current season per Wikipedia/aggregator data. Goals/assists, exact minutes, and wages not confirmed -> null. Fits the pilot's 18-27 target age band; Rayo Vallecano is not one of the 36 UCL 2026/27 pilot clubs."
   }
 }

@@ -87,10 +87,10 @@ Budget: €12m · wage ceiling €1.2m net
 
 - **Alassane Gueye** — 80.1/100 (strong match, confidence medium)
   - Alassane Gueye → Club Brugge at LW: strong match (80.1/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
-- **Francisco Everton Mota de Castro (Everton Bala)** — 78.6/100 (strong match, confidence medium)
-  - Francisco Everton Mota de Castro (Everton Bala) → Club Brugge at LW: strong match (78.6/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
 - **Toni Fruk** — 77.2/100 (good match, confidence medium)
   - Toni Fruk → Club Brugge at LW: good match (77.2/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
+- **Alvyn Sanches** — 76.6/100 (good match, confidence medium)
+  - Alvyn Sanches → Club Brugge at LW: good match (76.6/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
 
 ### DM — medium priority
 Profile: ball-winning No. 6 with UCL-level physicality, 22-26  

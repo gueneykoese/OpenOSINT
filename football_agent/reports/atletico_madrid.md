@@ -94,8 +94,8 @@ Budget: €20m · wage ceiling €3m net
   - Arnau Martínez → Atlético at RB: good match (73.6/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
 - **Fikayo Tomori** — 72.9/100 (good match, confidence medium)
   - Fikayo Tomori → Atlético at RB: good match (72.9/100). Driven by statistical fit and financial feasibility; weakest area is positional need (48).
-- **Mattia Zanotti** — 70.7/100 (good match, confidence medium)
-  - Mattia Zanotti → Atlético at RB: good match (70.7/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+- **Rodrigo Pinheiro** — 71.0/100 (good match, confidence medium)
+  - Rodrigo Pinheiro → Atlético at RB: good match (71.0/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### AM — medium priority
 Profile: creative No. 10 / second striker, 22-27, Spanish-speaking  
@@ -132,8 +132,8 @@ Budget: €15m · wage ceiling €2m net
 - **Hamza Alaa** — 66.9/100 (good match, confidence medium)
   - Hamza Alaa → Atlético at GK: good match (66.9/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (50).
   - ⚠ Current club publicly not selling.
-- **Kwadwo Bonsu** — 64.5/100 (possible, confidence medium)
-  - Kwadwo Bonsu → Atlético at GK: possible (64.5/100). Driven by financial feasibility and positional need; weakest area is positional need (50).
+- **Kauê** — 64.8/100 (possible, confidence medium)
+  - Kauê → Atlético at GK: possible (64.8/100). Driven by financial feasibility and positional need; weakest area is positional need (50).
 
 ## Sources
 

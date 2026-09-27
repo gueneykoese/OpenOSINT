@@ -82,10 +82,10 @@ Budget: €8m · wage ceiling €1.2m net
 
 - **Alassane Gueye** — 81.8/100 (strong match, confidence medium)
   - Alassane Gueye → Shakhtar at LW: strong match (81.8/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
-- **Francisco Everton Mota de Castro (Everton Bala)** — 80.6/100 (strong match, confidence medium)
-  - Francisco Everton Mota de Castro (Everton Bala) → Shakhtar at LW: strong match (80.6/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (47).
 - **Nikita Iosifov** — 77.8/100 (good match, confidence medium)
   - Nikita Iosifov → Shakhtar at LW: good match (77.8/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Toni Fruk** — 77.6/100 (good match, confidence medium)
+  - Toni Fruk → Shakhtar at LW: good match (77.6/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
 
 ### AM — medium priority
 Profile: creative No.10/No.8 who can play in a 4-3-3 interior role  

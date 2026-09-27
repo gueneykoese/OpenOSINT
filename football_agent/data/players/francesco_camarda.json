@@ -1,0 +1,76 @@
+{
+  "player_id": "francesco_camarda",
+  "name": "Francesco Camarda",
+  "age": 18,
+  "date_of_birth": "2008-03-10",
+  "nationality": ["ITA"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "US Lecce",
+  "current_club_league": "Serie A",
+  "contract_until": null,
+  "market_value_eur_m": 14.5,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "Serie A",
+    "apps": 17,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "youngest player to ever appear in Serie A, debuting for AC Milan at age 15",
+      "Player of the Tournament as Italy won the 2024 U17 European Championship",
+      "on loan at Lecce from AC Milan through 30 June 2026",
+      "17 apps, 1 goal at Lecce in 2025/26; has struggled to make a consistent impact on loan"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["it"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": "Widely covered since his record-breaking Serie A debut as a 15-year-old, giving him a high public profile relative to his output so far.",
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1554575/francesco-camarda",
+    "https://www.playmakerstats.com/player/francesco-camarda/1038729",
+    "https://www.livescore.com/en/season-stats/francesco-camarda/79499/",
+    "https://www.goal.com/en/lists/nxgn-2026-best-teenage-wonderkids-football/blt2f8486395140dacd"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "18-year-old Italian striker, the youngest player ever to appear in Serie A (debut for AC Milan aged 15), on loan at Lecce from AC Milan through 30 June 2026 (17 apps, 1 goal in 2025/26; struggling to make a consistent impact per Goal.com's NXGN 2026 feature). Market value EUR 14.5m per Fotmob-derived data. AC Milan is not one of the 36 UCL 2026/27 pilot clubs. Exact minutes, assists, contract and wages not publicly available -> null."
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "player_id": "jahyann_pandore",
+  "name": "Jahyann Pandore",
+  "age": 18,
+  "date_of_birth": "2007-11-25",
+  "nationality": ["FRA"],
+  "position": "CM",
+  "secondary_positions": ["AM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "FC Metz",
+  "current_club_league": "Ligue 1",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Ligue 1",
+    "apps": 2,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "made professional debut in Ligue 1 vs Paris FC on 19 April 2026",
+      "scored a goal in his second Ligue 1 appearance, a 4-4 draw vs Le Havre",
+      "versatile attacking/box-to-box midfielder, high work rate, quick thinking, strong weak foot per scouting description"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jahyann_Pandore",
+    "https://www.fotmob.com/players/1928651/jahyann-pandore",
+    "https://www.espn.com/soccer/player/_/id/420467/jahyann-pandore"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "18-year-old French midfielder, made his Ligue 1 debut for FC Metz on 19 April 2026 and scored in his second appearance (4-4 draw vs Le Havre). Very early-career sample (2 apps, 1 goal recorded) so his standing as a first-team regular is not yet established -- flagged accordingly. Market value, contract and wages not publicly available -> null. Squarely in the pilot's 18-27 target age band; Metz is not one of the 36 UCL 2026/27 pilot clubs."
+  }
+}

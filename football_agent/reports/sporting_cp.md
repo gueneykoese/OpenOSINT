@@ -133,8 +133,9 @@ Budget: €10m · wage ceiling €1.5m net
   - Nicolás López → Sporting CP at ST: good match (68.7/100). Driven by statistical fit and financial feasibility; weakest area is positional need (20).
 - **Ștefan Baiaram** — 68.5/100 (good match, confidence medium)
   - Ștefan Baiaram → Sporting CP at ST: good match (68.5/100). Driven by financial feasibility and statistical fit; weakest area is positional need (35).
-- **Miguel Villarroel** — 67.2/100 (good match, confidence medium)
-  - Miguel Villarroel → Sporting CP at ST: good match (67.2/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (50).
+- **Eli Junior Kroupi** — 68.0/100 (good match, confidence medium)
+  - Eli Junior Kroupi → Sporting CP at ST: good match (68.0/100). Driven by statistical fit and tactical / system fit; weakest area is positional need (50).
+  - ⚠ Current club publicly not selling.
 
 ## Sources
 

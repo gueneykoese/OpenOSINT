@@ -89,10 +89,10 @@ Budget: €4m · wage ceiling €0.8m net
 
 - **Bo Åsulv Hegland** — 80.1/100 (strong match, confidence medium)
   - Bo Åsulv Hegland → Slavia Praha at AM: strong match (80.1/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (46).
+- **Serginho** — 75.3/100 (good match, confidence medium)
+  - Serginho → Slavia Praha at AM: good match (75.3/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (54).
 - **Reiss Nelson** — 74.8/100 (good match, confidence medium)
   - Reiss Nelson → Slavia Praha at AM: good match (74.8/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Alexander Alvarado** — 74.0/100 (good match, confidence medium)
-  - Alexander Alvarado → Slavia Praha at AM: good match (74.0/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### ST — medium priority
 Profile: mobile striker to complement the target-man Chorý  

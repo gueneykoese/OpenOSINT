@@ -1,34 +1,29 @@
 {
   "player_id": "javi_guerra",
   "name": "Javi Guerra",
-  "age": 23,
+  "age": 22,
   "date_of_birth": "2003-05-13",
-  "nationality": [
-    "ESP"
-  ],
+  "nationality": ["ESP"],
   "position": "CM",
-  "secondary_positions": [
-    "DM",
-    "AM"
-  ],
-  "preferred_foot": "right",
-  "height_cm": 187,
+  "secondary_positions": ["DM"],
+  "preferred_foot": null,
+  "height_cm": null,
   "current_club": "Valencia CF",
   "current_club_league": "La Liga",
   "contract_until": 2029,
-  "market_value_eur_m": null,
-  "estimated_fee_eur_m": 40,
+  "market_value_eur_m": 24.1,
+  "estimated_fee_eur_m": null,
   "wage_eur_m_net": null,
   "release_clause_eur_m": null,
   "agent_status": "represented",
   "availability": "not for sale",
   "stats_2025_26": {
-    "competition": null,
+    "competition": "La Liga",
     "apps": null,
     "starts": null,
     "minutes": null,
-    "goals": null,
-    "assists": null,
+    "goals": 4,
+    "assists": 6,
     "xg": null,
     "xa": null,
     "shots_p90": null,
@@ -41,17 +36,13 @@
   },
   "style_profile": {
     "tags": [
-      "tall box-to-box midfielder",
-      "powerful ball-carrier",
-      "late-arriving runner into the box",
-      "academy graduate"
+      "full name Javier Guerra Moreno",
+      "came through Valencia Mestalla youth academy (promoted 2021)",
+      "team-leading assist total (6) in 2025/26 season so far, plus 4 goals",
+      "considered one of Valencia's most important academy products"
     ],
-    "best_system": [
-      "4-4-2 / 4-2-3-1 double pivot"
-    ],
-    "weak_in": [
-      "pure holding role"
-    ]
+    "best_system": [],
+    "weak_in": []
   },
   "mental_profile": {
     "leadership": null,
@@ -62,23 +53,24 @@
   },
   "injury_history": [],
   "off_pitch": {
-    "languages": [
-      "es"
-    ],
+    "languages": ["es"],
     "family_situation": null,
     "public_statements": [],
     "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
     "notes": null
   },
   "sources": [
-    "https://www.valenciacf.com/official-statement-javi-guerra",
-    "https://www.football-espana.net/2026/07/30/javi-guerra-barcelona-transfer-deadline",
-    "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/127728/barcelona-have-until-saturday-to-sign-valencia-midfielder-javi-guerra-for-40-million",
-    "https://www.footballtransfers.com/en/players/javier-guerra-moreno"
+    "https://www.footballtransfers.com/en/players/javier-guerra-moreno",
+    "https://www.soccerbase.com/players/player.sd?player_id=143647",
+    "https://theanalyst.com/players/1852/javi-guerra",
+    "https://www.premierleague.com/en/players/546540/javi-guerra/overview"
   ],
-  "as_of": "2026-09-08",
+  "as_of": "2026-09-27",
   "data_quality": {
     "confidence": "medium",
-    "notes": "Valencia announced a contract extension to June 2029 in early Sep 2026 after a summer in which Barcelona/Man United/Arsenal/Atletico were linked and a EUR 40m price was reported. Height/foot from footballtransfers. Market value: only ETV (EUR 21-26m) seen -> null. 2025/26 stats not retrieved. estimated_fee (EUR 40m) mirrors the summer-2026 reported asking price - researcher's estimate."
+    "notes": "22-year-old Spanish central midfielder, Valencia Mestalla academy graduate, contract through 2029, market value ~EUR 24m per Footballtransfers; team-leading 6 assists and 4 goals in the 2025/26 La Liga season so far per Yahoo Sports/Opta-derived reporting. Apps/starts, exact market value range, and wages not fully confirmed -> null. Squarely in the pilot's 18-27 target age band; Valencia is not one of the 36 UCL 2026/27 pilot clubs."
   }
 }
