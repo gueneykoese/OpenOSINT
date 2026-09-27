@@ -1,0 +1,72 @@
+{
+  "player_id": "tayo_singerr",
+  "name": "Tayo Singerr",
+  "age": null,
+  "date_of_birth": null,
+  "nationality": ["ENG"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Portsmouth",
+  "current_club_league": "EFL Championship",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "EFL Championship",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "academy graduate, Portsmouth Academy Player of the Season 2025/26",
+      "scored on senior debut (12 Aug 2025 vs Reading)",
+      "made Championship debut as a substitute, 1 Jan 2026 vs Bristol City"
+    ],
+    "best_system": [],
+    "weak_in": ["very early career; minimal senior/Championship minutes to date"]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tayo_Singerr"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "All details (senior debut with a goal vs Reading 12 Aug 2025, Academy Player of the Season 2025/26, Championship debut as a sub vs Bristol City 1 Jan 2026) from a single Wikipedia snippet -- DOB/age not found there -> null. Not cross-verified against a second independent source. Height, contract, market value, wage not found -> null. Extremely early-career prospect; included as a name-to-watch given the specificity and freshness of the sourced facts. Availability set to 'not for sale' as a conservative default for an academy-age player with no reported transfer signal."
+  }
+}

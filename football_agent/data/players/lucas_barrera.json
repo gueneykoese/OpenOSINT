@@ -1,0 +1,79 @@
+{
+  "player_id": "lucas_barrera",
+  "name": "Lucas Barrera",
+  "age": 20,
+  "date_of_birth": "2006-04-21",
+  "nationality": ["ARG"],
+  "position": "DM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Universidad de Chile",
+  "current_club_league": "Chilean Primera División",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Chilean Primera División 2026",
+    "apps": 3,
+    "starts": 3,
+    "minutes": 321,
+    "goals": 0,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "defensive midfielder, Argentine (born in Neuquén) developed through Chilean football",
+      "unusual path: switched from crosstown rival Universidad Católica's academy to Universidad de Chile in 2025",
+      "included in Universidad de Chile's Copa Sudamericana semi-final squad vs Lanús in 2025",
+      "signed first professional contract Nov 2025, promoted to first team under manager Fernando Gago in 2026",
+      "debuted as a starter 31 Mar 2026 in a 3-1 win over Audax Italiano (Copa de la Liga), assisting a Maximiliano Guerrero goal",
+      "rewarded with a long-term contract extension to 2030 within weeks of his breakthrough (April 2026)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Publicly described as someone who once considered quitting football before his move to Universidad de Chile turned his career around (Emol/La Tercera feature, Apr 2026)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://es.wikipedia.org/wiki/Lucas_Barrera_(futbolista)",
+    "https://www.emol.com/noticias/Deportes/2026/04/27/1198354/lucas-barrera-u-uc-gago.html",
+    "https://www.latercera.com/el-deportivo/noticia/la-historia-de-lucas-barrera-el-juvenil-argentino-que-cambio-la-uc-por-la-u-y-ahora-deslumbra-a-fernando-gago/",
+    "https://www.encancha.cl/futbol-chileno/u-de-chile/2026/4/30/la-u-se-mueve-rapido-blindo-a-su-joya-y-le-hace-contrato-a-largo-plazo-a-lucas-barrera-308101.html",
+    "https://redgol.cl/udechile/lucas-barrera-revela-quien-lo-guia-y-aconseja-en-u-de-chile-espejo-de-carepato"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Real, currently active player -- extensively confirmed via Spanish Wikipedia, Emol, La Tercera (feature pieces on his career-turnaround story), En Cancha (contract extension report) and Redgol. Born 21 Apr 2006 in Neuquén, Argentina. Debuted for Universidad de Chile 31 Mar 2026; contract extended to 2030 by 30 Apr 2026 per En Cancha. 2026 stats (3 apps, 3 starts, 321 minutes, 1 assist) per Fotmob/Canchallena snippets as of late April 2026 -- likely higher by Sep 2026 but not found in search snippets, so entered as of the last verified date. Height, preferred foot, market value not found in snippets -> null."
+  }
+}

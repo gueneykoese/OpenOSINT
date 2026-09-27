@@ -1,0 +1,81 @@
+{
+  "player_id": "rafa_mujica",
+  "name": "Rafa Mujica",
+  "age": 27,
+  "date_of_birth": "1998-10-29",
+  "nationality": ["ESP"],
+  "position": "ST",
+  "secondary_positions": ["RW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Al Sadd SC",
+  "current_club_league": "Qatar Stars League",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 10,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Qatar Stars League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Spanish forward, can also play on the wing",
+      "Barcelona youth academy product (joined 2015)",
+      "Spain U19 international",
+      "signed by Al Sadd for a reported EUR 10m fee on a 4-year deal, July 2024",
+      "Qatar Stars League Top Goalscorer, 25 April 2026",
+      "hat-trick took Al Sadd to top of the league standings (Qatar Tribune)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es", "en"],
+    "family_situation": "Born in Las Palmas, Canary Islands, Spain.",
+    "public_statements": [
+      "Told Qatar Tribune his main objective was 'to score more goals.'",
+      "Told QSL's own site he was glad to be part of a 'top quality' league."
+    ],
+    "commercial_profile": null,
+    "happiness_status": "content",
+    "happiness_notes": "Multiple public interviews (Qatar Tribune, QSL.qa) show him positive about his time at Al Sadd and focused on goalscoring; no reported unhappiness or exit request.",
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Rafa_Mujica",
+    "https://www.the-afc.com/en/more/transfers/news/al_sadd_sign_spanish_forward_rafa_mujica.html",
+    "https://al-saddclub.com/al-sadd-sign-rafa-mujica-on-four-year-deal/",
+    "https://www.qatar-tribune.com/article/165271/sports/mujica-hat-trick-takes-al-sadd-to-the-top-of-league-standings"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "high",
+    "notes": "DOB, Barcelona academy background, Spain U19 caps, EUR 10m transfer fee and 4-year Al Sadd contract (from 1 July 2024, so through 2028) all confirmed via Wikipedia, AFC's own transfer news and Al Sadd's own site. Named QSL Top Goalscorer (25 April 2026) per Qatar Tribune, though the exact goal tally for that award was not given in the retrieved snippet -> stats_2025_26 numeric fields left null. Availability set to 'not for sale' given his status as a marquee, high-fee signing under a long contract. Market value, wage, height not found -> null."
+  }
+}

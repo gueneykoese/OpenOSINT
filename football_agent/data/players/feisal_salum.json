@@ -1,0 +1,73 @@
+{
+  "player_id": "feisal_salum",
+  "name": "Feisal Salum",
+  "age": 28,
+  "date_of_birth": "1998-01-11",
+  "nationality": ["TZA"],
+  "position": "AM",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 178,
+  "current_club": "Azam FC",
+  "current_club_league": "Tanzanian Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Tanzanian Premier League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 14,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "attacking midfielder / second striker",
+      "Azam FC's leading league scorer, 2025/26 (14 goals)",
+      "Tanzania international"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["sw", "en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.livescore.com/en/season-stats/feisal-salum/78142/",
+    "https://en.soccerwiki.org/player.php?pid=142831"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "DOB, height and position from Soccerwiki/LiveScore snippets. 14-goal top-scorer tally for Azam FC in 2025/26 also from LiveScore; not cross-verified against a second independent source, so confidence is low. Apps, minutes, assists not found -> null. Contract, market value, wage not found -> null."
+  }
+}
