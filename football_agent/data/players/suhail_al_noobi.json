@@ -1,0 +1,73 @@
+{
+  "player_id": "suhail_al_noobi",
+  "name": "Suhail Al-Noubi",
+  "age": 30,
+  "date_of_birth": "1996-01-09",
+  "nationality": ["UAE"],
+  "position": "RW",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Baniyas",
+  "current_club_league": "UAE Pro League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "free",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "UAE Pro League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "winger",
+      "Baniyas's standout-rated performer in current league form (per aggregator rating snippet)",
+      "one UAE national team cap (2019 friendly vs Saudi Arabia)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ar"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Suhail_Al-Noubi",
+    "https://www.national-football-teams.com/player/73872/Suhail_Ahmed_Al_Noobi.html"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Full name Suhail Ahmed Al-Noubi Saeed, born 9 Jan 1996 in Abu Dhabi, winger for Baniyas. Capped once for the UAE national team in a 2019 friendly vs Saudi Arabia. A separate general Baniyas-squad search snippet rated a 'Suhail Ahmed Al Noobi' as the club's standout performer this season (rating 6.96), matched here by the distinctive name. Older than the assignment's 18-27 target band (30) but included to broaden UAE Pro League club coverage to Baniyas, not otherwise represented in the pool. No 2025/26 detailed statistics, contract length or market value found -> null."
+  }
+}
