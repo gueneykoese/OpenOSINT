@@ -1,0 +1,77 @@
+{
+  "player_id": "finn_surman",
+  "name": "Finn Surman",
+  "age": 22,
+  "date_of_birth": "2003-09-23",
+  "nationality": ["NZL"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Portland Timbers",
+  "current_club_league": "MLS",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "MLS",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "starting centre-back",
+      "joined Portland from Wellington Phoenix (A-League) in July 2024",
+      "became a locked-in starter in his second MLS season",
+      "New Zealand international, key player at the 2026 FIFA World Cup",
+      "reported interest from Burnley (two rejected bids) and Derby County"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "New Zealand full international; started for New Zealand at the 2026 FIFA World Cup after the team's World Cup qualification raised his transfer profile."
+  },
+  "sources": [
+    "https://www.mlssoccer.com/news/finn-surman-world-cup-profile-new-zealand-portland-timbers-defender",
+    "https://www.timbers.com/news/timbers-sign-defender-finn-surman",
+    "https://www.fotmob.com/players/1325761/finn-surman",
+    "https://www.mlssoccer.com/news/portland-s-finn-surman-dreams-of-world-cup-history-with-new-zealand"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB/age, club move history and World Cup selection from MLSsoccer.com/Timbers.com snippets. 2025/26 season stats and market value not retrieved via WebSearch (blocked egress to transfermarkt/fbref) -> null. Reported 'two rejected Burnley bids' and Derby County interest came from a search-engine synthesized answer, not a directly quoted primary source in the snippets returned; treated as medium-confidence transfer buzz rather than confirmed fact and not used to set availability to 'for sale'."
+  }
+}

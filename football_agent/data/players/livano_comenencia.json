@@ -1,0 +1,77 @@
+{
+  "player_id": "livano_comenencia",
+  "name": "Livano Comenencia",
+  "age": 22,
+  "date_of_birth": "2004-02-03",
+  "nationality": ["CUW", "NED"],
+  "position": "RB",
+  "secondary_positions": ["CB"],
+  "preferred_foot": null,
+  "height_cm": 191,
+  "current_club": "FC Zürich",
+  "current_club_league": "Swiss Super League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Swiss Super League",
+    "apps": 3,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null,
+    "tackles_interceptions_p90_note": "5.07 tackles/90 + 2.54 interceptions/90 per FootyStats-derived snippet; combined field not itemized in schema"
+  },
+  "style_profile": {
+    "tags": [
+      "tall (191cm) right-back / centre-back",
+      "born in Breda, Netherlands; represents Curaçao internationally",
+      "PSV youth academy product (joined 2012, pro contract Feb 2022); moved to Juventus Next Gen in Aug 2023 before joining FC Zurich",
+      "named in The Guardian's 'Next Generation' list of best 2004-born talents"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["nl"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.sofascore.com/football/player/livano-comenencia/1136642",
+    "https://en.wikipedia.org/wiki/Livano_Comenencia",
+    "https://footystats.org/players/netherlands/livano-comenencia",
+    "https://www.espn.com/soccer/player/_/id/317285/livano-comenencia"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, career history (PSV academy, Juventus Next Gen) and Guardian talent-list mention from Wikipedia/Sofascore snippets via WebSearch. Plays for Curacao national team (dual Dutch birth/Curacaoan international). 2025/26 Super League stats limited in available snippets to 3 apps, 0 goals (FootyStats), plus per-90 defensive numbers (5.07 tackles, 2.54 interceptions, 3.17 clearances) that don't map cleanly onto this schema's combined tackles_interceptions_p90 field -- noted separately rather than forced into one number. Contract expiry, market value, fee, preferred foot and wage not found -> null."
+  }
+}

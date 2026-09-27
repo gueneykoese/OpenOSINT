@@ -1,29 +1,29 @@
 {
-  "player_id": "juanlu_sanchez",
-  "name": "Juanlu Sánchez",
-  "age": 22,
-  "date_of_birth": "2003-08-15",
-  "nationality": ["ESP"],
-  "position": "RB",
-  "secondary_positions": ["RWB"],
+  "player_id": "luis_gamboa",
+  "name": "Luis Gamboa",
+  "age": 17,
+  "date_of_birth": "2008-10-25",
+  "nationality": ["MEX"],
+  "position": "RW",
+  "secondary_positions": ["LW"],
   "preferred_foot": null,
   "height_cm": null,
-  "current_club": "Sevilla FC",
-  "current_club_league": "La Liga",
+  "current_club": "Atlas FC",
+  "current_club_league": "Liga MX",
   "contract_until": null,
   "market_value_eur_m": null,
   "estimated_fee_eur_m": null,
   "wage_eur_m_net": null,
   "release_clause_eur_m": null,
   "agent_status": "represented",
-  "availability": "open to move",
+  "availability": "not for sale",
   "stats_2025_26": {
-    "competition": "La Liga",
+    "competition": "Liga MX",
     "apps": null,
     "starts": null,
-    "minutes": 1651,
-    "goals": 0,
-    "assists": 3,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
     "xg": null,
     "xa": null,
     "shots_p90": null,
@@ -36,8 +36,9 @@
   },
   "style_profile": {
     "tags": [
-      "right-back, established starter for Sevilla",
-      "ranks highly among La Liga right-backs for assists and starts per a data-driven club ranking"
+      "Mexico youth international pathway: U15 (2023), U16 (2023), U17 (2024)",
+      "scored 2 goals vs Argentina at the 2025 FIFA U-17 World Cup",
+      "made Liga MX top-flight debut for Atlas 8 Feb 2026 (sub) vs Pumas UNAM"
     ],
     "best_system": [],
     "weak_in": []
@@ -61,13 +62,13 @@
     "notes": null
   },
   "sources": [
-    "https://www.fotmob.com/es/players/1158512",
-    "https://one-versus-one.com/en/teams/sevilla",
-    "https://sg.soccerway.com/player/sanchez-juanlu/CtN0gVgf"
+    "https://en.wikipedia.org/wiki/Luis_Gamboa",
+    "https://www.sofascore.com/football/player/luis-gamboa/1931484",
+    "https://www.espn.com/soccer/player/_/id/403848/luis-gamboa"
   ],
   "as_of": "2026-09-27",
   "data_quality": {
     "confidence": "medium",
-    "notes": "DOB and 2025/26 La Liga stats (1651 min, 0G/3A, 1 red card) from FotMob/1vs1 snippets. Apps/starts breakdown, contract-until, market value, height and foot not found -> null."
+    "notes": "DOB, youth international record (incl. 2-goal game vs Argentina at 2025 U-17 World Cup), and Liga MX debut date from Wikipedia/Sofascore/ESPN snippets. First-team stats since debut, market value not found -> null. Very early-career prospect (one senior appearance found), included for a strong underage international pedigree."
   }
 }

@@ -1,0 +1,74 @@
+{
+  "player_id": "svit_seslar",
+  "name": "Svit Sešlar",
+  "age": 24,
+  "date_of_birth": "2002-01-09",
+  "nationality": ["SVN"],
+  "position": "AM",
+  "secondary_positions": [],
+  "preferred_foot": "left",
+  "height_cm": 185,
+  "current_club": "NK Celje",
+  "current_club_league": "Slovenian PrvaLiga",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Slovenian PrvaLiga",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 7,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed attacking midfielder, 185cm",
+      "Slovenia senior international",
+      "part of NK Celje's 2025/26 PrvaLiga title-winning squad, now in UEFA Champions League 2026/27"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["sl"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.sofascore.com/football/player/svit-seslar/946291",
+    "https://fbref.com/en/players/db23db2e/Svit-Seslar",
+    "https://www.fotmob.com/players/1284555/svit-seslar"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, preferred foot and Slovenia senior national team status from Sofascore/FotMob snippets via WebSearch. 2025/26 PrvaLiga goal tally (7) confirmed; assists, apps, minutes not found -> null. Confirmed teammate of Nikita Iosifov on Celje's title-winning, Champions-League-bound squad (per earlier Celje research). Contract expiry, market value, fee and wage not found -> null."
+  }
+}

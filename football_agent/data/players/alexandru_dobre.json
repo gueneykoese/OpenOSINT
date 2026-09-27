@@ -1,0 +1,74 @@
+{
+  "player_id": "alexandru_dobre",
+  "name": "Alexandru Dobre",
+  "age": 27,
+  "date_of_birth": "1998-08-30",
+  "nationality": ["ROU"],
+  "position": "RW",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Rapid Bucuresti",
+  "current_club_league": "Romanian Liga I",
+  "contract_until": 2026,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Liga I (Superliga)",
+    "apps": null,
+    "starts": null,
+    "minutes": 2284,
+    "goals": 13,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "right winger, top scorer for Rapid Bucuresti 2025/26",
+      "Romania senior international (first call-up March 2023)",
+      "represented Romania at the postponed Tokyo 2020 Olympics"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ro"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Alex_Dobre",
+    "https://www.espn.com/soccer/player/_/id/264440/alexandru-dobre",
+    "https://www.sofascore.com/football/player/mihai-alexandru-dobre/897623"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB and national-team call-up history from Wikipedia/ESPN snippets via WebSearch. Contract listed as signed Oct 2024 'until June 2026' per Wikipedia snippet, so contract_until set to 2026 and availability marked 'contract running down' -- club may since have extended it, unverified. 2025/26 Superliga stats (13 goals, 1 assist, 2284 minutes) from ESPN-derived snippet; apps not given -> null. Height, preferred foot, market value and fee not found -> null. Age (27) is above the pilot's 18-27 target band ceiling but included as Rapid's clear top scorer this season."
+  }
+}

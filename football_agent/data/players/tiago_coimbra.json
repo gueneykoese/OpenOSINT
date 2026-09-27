@@ -1,0 +1,75 @@
+{
+  "player_id": "tiago_coimbra",
+  "name": "Tiago Coimbra",
+  "age": 22,
+  "date_of_birth": "2004-01-17",
+  "nationality": ["CAN"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "IFK Goteborg",
+  "current_club_league": "Allsvenskan (Sweden)",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 0.35,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Canadian Premier League (final season at Halifax before transfer)",
+    "apps": 23,
+    "starts": null,
+    "minutes": null,
+    "goals": 13,
+    "assists": 3,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "signed with Halifax Wanderers ahead of 2023 CPL season, 64 apps across 3 seasons",
+      "final CPL season: 13 goals, 3 assists in 23 apps across all competitions",
+      "named CPL Best Canadian U-21 Player of the Year",
+      "sold to IFK Goteborg (Allsvenskan, Sweden) in Jan 2026 for a Halifax Wanderers club-record fee (~USD 375k incl. bonus, ~CAD 500k+ with sell-on)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en", "pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.canpl.ca/hfxwanderersfc/news/wanderers-transfer-striker-tiago-coimbra-to-ifk-goteborg-for-club-record-fee",
+    "https://en.wikipedia.org/wiki/Tiago_Coimbra",
+    "https://canadiansoccerdaily.com/2026/01/31/cpl-star-tiago-coimbra-leaving-halifax-for-sweden-report/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, CPL career stats, award, and transfer fee (~USD 375k) from CanPL.ca/Wikipedia/Canadian Soccer Daily snippets. 2026 Allsvenskan stats at IFK Goteborg not found via WebSearch -> null. A strong, verifiable CPL-to-Europe export story per the assignment's Canadian-export-player allowance."
+  }
+}

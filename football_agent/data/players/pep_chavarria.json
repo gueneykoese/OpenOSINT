@@ -1,16 +1,16 @@
 {
-  "player_id": "tim_iroegbunam",
-  "name": "Tim Iroegbunam",
-  "age": 22,
-  "date_of_birth": null,
-  "nationality": ["ENG"],
-  "position": "DM",
-  "secondary_positions": ["CM"],
+  "player_id": "pep_chavarria",
+  "name": "Pep Chavarría",
+  "age": 27,
+  "date_of_birth": "1998-04-10",
+  "nationality": ["ESP"],
+  "position": "LB",
+  "secondary_positions": [],
   "preferred_foot": null,
   "height_cm": null,
-  "current_club": "Everton",
-  "current_club_league": "Premier League",
-  "contract_until": null,
+  "current_club": "Rayo Vallecano",
+  "current_club_league": "La Liga",
+  "contract_until": 2030,
   "market_value_eur_m": null,
   "estimated_fee_eur_m": null,
   "wage_eur_m_net": null,
@@ -18,11 +18,11 @@
   "agent_status": "represented",
   "availability": "open to move",
   "stats_2025_26": {
-    "competition": "Premier League",
-    "apps": null,
+    "competition": "La Liga",
+    "apps": 25,
     "starts": null,
-    "minutes": 938,
-    "goals": 0,
+    "minutes": null,
+    "goals": 1,
     "assists": 2,
     "xg": null,
     "xa": null,
@@ -36,7 +36,8 @@
   },
   "style_profile": {
     "tags": [
-      "defensive midfielder, rotation/squad player for Everton"
+      "established left-back, regular starter for Rayo Vallecano",
+      "contributes goals and assists from full-back"
     ],
     "best_system": [],
     "weak_in": []
@@ -50,7 +51,7 @@
   },
   "injury_history": [],
   "off_pitch": {
-    "languages": ["en"],
+    "languages": ["es"],
     "family_situation": null,
     "public_statements": [],
     "commercial_profile": null,
@@ -60,12 +61,13 @@
     "notes": null
   },
   "sources": [
-    "https://www.fotmob.com/players/1203512/tim-iroegbunam",
-    "https://global.espn.com/football/player/_/id/310599/tim-iroegbunam"
+    "https://www.fotmob.com/players/988805/pep-chavarria",
+    "https://fbref.com/en/players/63c5e56b/Pep-Chavarria",
+    "https://www.besoccer.com/player/p-chavarria-334842"
   ],
   "as_of": "2026-09-27",
   "data_quality": {
-    "confidence": "low",
-    "notes": "2025/26 Premier League stats (938 min, 0 goals, 2 assists) from FotMob snippet; age (22) also from FotMob. DOB, contract-until, apps/starts breakdown, market value, height and foot not found -> null. Limited public profile beyond basic stats at time of research."
+    "confidence": "medium",
+    "notes": "At 27, above the requested 18-25 breakthrough band but included for Rayo Vallecano club coverage. DOB, contract-until-2030, and 2025/26 La Liga stats (25 apps, 1 goal, 2 assists) from FotMob snippet. Minutes/starts breakdown, market value, height, foot not found -> null."
   }
 }

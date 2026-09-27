@@ -1,0 +1,75 @@
+{
+  "player_id": "linus_guther",
+  "name": "Linus Güther",
+  "age": 16,
+  "date_of_birth": "2010-04-08",
+  "nationality": ["GER"],
+  "position": "RW",
+  "secondary_positions": ["AM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "1. FC Union Berlin",
+  "current_club_league": "Bundesliga",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": 1,
+    "starts": 0,
+    "minutes": null,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "winger/attacking midfielder, joined Union Berlin academy from Energie Cottbus in summer 2025",
+      "made Bundesliga debut 11 April 2026 (16y 3d), second-youngest player in Bundesliga history after Youssoufa Moukoko",
+      "regarded internally at Union as Germany's top talent from the 2010 age group; compared to Jamal Musiala for footballing intelligence and dribbling"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["de"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "Reported to have turned down interest from other clubs (including reportedly Bayern Munich, per a Goal.com list of teenage prospects) to join Union Berlin's first-team pathway."
+  },
+  "sources": [
+    "https://www.bundesliga.com/en/bundesliga/news/linus-guther-second-youngest-player-union-berlin-moukoko-baumgart-36841",
+    "https://en.wikipedia.org/wiki/Linus_G%C3%BCther",
+    "https://www.goal.com/en/lists/he-s-being-compared-to-jamal-musiala-the-15-year-old-turned-down-fc-bayern-and-is-now-joining-the-first-team-at-a-bundesliga-rival/bltb350a0975d91a9d6",
+    "https://www.bundesliga.com/en/bundesliga/news/gio-reyna-moukoko-top-10-youngest-players-in-league-history-9529"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Well below the 18-25 agency-target band (age 16) but included as a verified, exceptional real story (second-youngest Bundesliga debutant ever). DOB back-calculated from 'turned 16 three days before his 11 April 2026 debut' (Bundesliga.com) -> approx 8 April 2010, flagged as approximate. Only one senior appearance (84th-minute substitute vs Heidenheim, 3-1 loss) confirmed; contract terms, market value and physical data not available -> null. Long-term watch, not an active transfer target given his age and lack of a professional contract."
+  }
+}

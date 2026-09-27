@@ -1,0 +1,75 @@
+{
+  "player_id": "dalcio",
+  "name": "Dálcio",
+  "age": 30,
+  "date_of_birth": "1996-05-22",
+  "nationality": ["GNB", "POR"],
+  "position": "DM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 186,
+  "current_club": "APOEL FC",
+  "current_club_league": "Cypriot First Division",
+  "contract_until": 2027,
+  "market_value_eur_m": 1.0,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Cypriot First Division",
+    "apps": null,
+    "starts": null,
+    "minutes": 2476,
+    "goals": 1,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Guinea-Bissau-born-in-Portugal defensive midfielder",
+      "returned to APOEL as a free agent in July 2025 on a two-year deal",
+      "career included Belenenses, Benfica B, Panetolikos and Ionikos (Greek Super League)",
+      "near ever-present starter for APOEL in 2025/26 (2,476 minutes)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/en-GB/players/611840/dalcio-gomes",
+    "https://www.sofascore.com/player/dalcio/787646",
+    "https://www.soccerbase.com/players/player.sd?player_id=80729"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, dual Guinea-Bissau/Portugal background, height, contract (returned July 2025 on a two-year deal, so until 2027) and market value (EUR 1.0m) from FotMob/Soccerbase snippets via WebSearch. 2025/26 stats (1 goal, 0 assists, 2476 minutes, 3 yellows) from FotMob-derived snippet; apps not given -> null. Career history (Belenenses, Benfica B, Panetolikos, Ionikos) from a Sofascore/BeSoccer-derived summary. Preferred foot, fee and wage not found -> null. Age 30 is above the pilot's 18-27 target band but included as a regular starter and squad anchor for a Cypriot Champions League-era club."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "player_id": "james_etoo",
+  "name": "James Eto'o",
+  "age": 25,
+  "date_of_birth": "2000-11-19",
+  "nationality": ["CMR"],
+  "position": "DM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "CSKA Sofia",
+  "current_club_league": "Bulgarian First League",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Bulgarian First Professional League",
+    "apps": null,
+    "starts": null,
+    "minutes": 1920,
+    "goals": 4,
+    "assists": 8,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Cameroonian defensive midfielder, box-to-box creative output (8 assists in 2025/26)",
+      "joined CSKA Sofia from Botev Plovdiv in 2024; signed contract extension to June 2029",
+      "playing UEFA Europa League 2026/27 with CSKA Sofia",
+      "shares surname with, but is not related to, Samuel Eto'o"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": "content",
+    "happiness_notes": "Signed a contract extension to June 2029 (with an additional optional year) with CSKA Sofia, publicly reported by CFOOT/AfricaFoot as recently as August 2026 -- consistent with a settled player.",
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/th/players/1191058/james-etoo",
+    "https://africafoot.com/james-armel-etoo-poursuit-laventure-avec-le-cska-sofia/",
+    "https://www.cfootmag.com/2026/08/14/ligue-europa-james-etoo-et-le-cska-sofia-compostent-leur-billet-pour-les-playoffs/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB and nationality from FotMob-derived snippet via WebSearch; explicitly NOT the son of Samuel Eto'o (a common confusion given the shared surname -- WebSearch confirmed Samuel Eto'o's son is named Etienne). Contract extension to June 2029 confirmed by AfricaFoot article (Aug 2026). 2025/26 First League stats (4 goals, 8 assists, 1920 minutes; career at CSKA: 68 matches, 5 goals, 19 assists) from FotMob-derived snippet; apps not given -> null. Currently competing in UEFA Europa League 2026/27 per CFOOT article. Height, preferred foot, market value, fee and wage not found -> null. Age 25 fits target band."
+  }
+}

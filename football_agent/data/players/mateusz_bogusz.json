@@ -1,0 +1,75 @@
+{
+  "player_id": "mateusz_bogusz",
+  "name": "Mateusz Bogusz",
+  "age": 25,
+  "date_of_birth": "2001-08-22",
+  "nationality": ["POL"],
+  "position": "AM",
+  "secondary_positions": ["CM", "LW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Houston Dynamo FC",
+  "current_club_league": "MLS",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "MLS",
+    "apps": 25,
+    "starts": null,
+    "minutes": null,
+    "goals": 6,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "attacking Designated Player, signed for a club-record fee from Cruz Azul (Liga MX) in Jan 2026",
+      "career-high 20 goals in all competitions in 2024 (at LAFC)",
+      "Poland senior international (5 caps, Sep 2024-Jun 2025)",
+      "signed through 2027/28 with club options to 2029/30"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pl", "es", "en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "From Ruda Slaska, Poland. Not called up to the Poland squad in the three international windows prior to Sep 2026 per search snippet, despite Poland's ongoing push toward World Cup qualification."
+  },
+  "sources": [
+    "https://www.houstonchronicle.com/sports/dynamo/article/mateusz-bogusz-transfer-21321811.php",
+    "https://www.houstondynamofc.com/news/houston-dynamo-fc-sign-dynamic-polish-international-attacker-mateusz-bogusz-as-a-designated-player",
+    "https://www.espn.com/soccer/player/_/id/287841/mateusz-bogusz"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, transfer history (Cruz Azul to Houston, Jan 2026), contract length, and 2026 MLS stats (25 apps, 6g/1a) confirmed via Houston Chronicle/Houston Dynamo/ESPN snippets. Market value, wages, and detailed advanced stats not retrieved (transfermarkt/fbref blocked) -> null."
+  }
+}

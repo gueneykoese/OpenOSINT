@@ -1,15 +1,15 @@
 {
-  "player_id": "tim_iroegbunam",
-  "name": "Tim Iroegbunam",
-  "age": 22,
-  "date_of_birth": null,
-  "nationality": ["ENG"],
-  "position": "DM",
-  "secondary_positions": ["CM"],
-  "preferred_foot": null,
+  "player_id": "aiden_hezarkhani",
+  "name": "Aiden Hezarkhani",
+  "age": 19,
+  "date_of_birth": "2007-06-28",
+  "nationality": ["USA"],
+  "position": "RW",
+  "secondary_positions": [],
+  "preferred_foot": "left",
   "height_cm": null,
-  "current_club": "Everton",
-  "current_club_league": "Premier League",
+  "current_club": "Real Salt Lake",
+  "current_club_league": "MLS",
   "contract_until": null,
   "market_value_eur_m": null,
   "estimated_fee_eur_m": null,
@@ -18,12 +18,12 @@
   "agent_status": "represented",
   "availability": "open to move",
   "stats_2025_26": {
-    "competition": "Premier League",
+    "competition": "MLS",
     "apps": null,
-    "starts": null,
-    "minutes": 938,
-    "goals": 0,
-    "assists": 2,
+    "starts": 2,
+    "minutes": 322,
+    "goals": 2,
+    "assists": 0,
     "xg": null,
     "xa": null,
     "shots_p90": null,
@@ -36,7 +36,9 @@
   },
   "style_profile": {
     "tags": [
-      "defensive midfielder, rotation/squad player for Everton"
+      "RSL Academy product, part of the club's celebrated 2026 youth movement",
+      "opened his MLS scoring account with a left-footed, first-time half-volley in his second-ever MLS start (28 Feb 2026 home opener vs Seattle)",
+      "left-footed right winger"
     ],
     "best_system": [],
     "weak_in": []
@@ -60,12 +62,12 @@
     "notes": null
   },
   "sources": [
-    "https://www.fotmob.com/players/1203512/tim-iroegbunam",
-    "https://global.espn.com/football/player/_/id/310599/tim-iroegbunam"
+    "https://www.rsl.com/news/real-salt-lake-youth-players-shine-brightly-in-fast-2026-start",
+    "https://www.espn.com/soccer/team/squad/_/id/4771/real-salt-lake"
   ],
   "as_of": "2026-09-27",
   "data_quality": {
     "confidence": "low",
-    "notes": "2025/26 Premier League stats (938 min, 0 goals, 2 assists) from FotMob snippet; age (22) also from FotMob. DOB, contract-until, apps/starts breakdown, market value, height and foot not found -> null. Limited public profile beyond basic stats at time of research."
+    "notes": "DOB, foot, and early-2026 stats (2 goals in 322 minutes across 2 starts) from an RSL.com feature and squad-list snippet. Small sample size (breakout still in progress); market value, full-season stats and contract details not found -> null."
   }
 }

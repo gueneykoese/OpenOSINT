@@ -1,0 +1,78 @@
+{
+  "player_id": "sami_keshavarz",
+  "name": "Sami Keshavarz",
+  "age": 20,
+  "date_of_birth": "2006-08-18",
+  "nationality": ["CAN"],
+  "position": "CM",
+  "secondary_positions": ["AM"],
+  "preferred_foot": null,
+  "height_cm": 170,
+  "current_club": "Pacific FC",
+  "current_club_league": "Canadian Premier League",
+  "contract_until": 2026,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Canadian Premier League",
+    "apps": 24,
+    "starts": 6,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "local Vancouver Island (Saanich, BC) product",
+      "debuted for Pacific FC June 2024, first start Sep 2024",
+      "signed pro contract through 2026 with 2027 option",
+      "career Pacific FC totals: 32 apps, 1 goal",
+      "scored first professional goal in a 3-3 draw vs Cavalry FC (Oct 2025 per club breakout narrative)",
+      "became a consistent lineup presence in 2026 (24 apps, 6 starts)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sami_Keshavarz",
+    "https://www.sofascore.com/football/player/sami-keshavarz/1839464",
+    "https://pacificfc.canpl.ca/article/pacific-fc-sign-local-midfielder-sami-keshavarz-to-professional-contract",
+    "https://www.cplsoccer.com/news/eight-u-21-canadians-to-watch-during-the-2026-cpl-season"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, and career/contract details from Wikipedia/Sofascore/Pacific FC/CPLsoccer.com snippets. Market value and wages not found -> null. Named among CPL's U-21s to watch for 2026."
+  }
+}

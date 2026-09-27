@@ -1,0 +1,74 @@
+{
+  "player_id": "mathis_lambourde",
+  "name": "Mathis Lambourde",
+  "age": 20,
+  "date_of_birth": "2006-01-09",
+  "nationality": ["FRA"],
+  "position": "AM",
+  "secondary_positions": ["ST"],
+  "preferred_foot": "left",
+  "height_cm": 179,
+  "current_club": "Servette FC",
+  "current_club_league": "Swiss Super League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Swiss Super League",
+    "apps": null,
+    "starts": null,
+    "minutes": 175,
+    "goals": 1,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed attacking midfielder / second striker",
+      "academy product of Rennes; also spent time at Hellas Verona and on loan at AC Reggiana",
+      "signed by Servette FC in July 2026"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/en-GB/players/1485169/mathis-lambourde",
+    "https://en.wikipedia.org/wiki/Mathis_Lambourde",
+    "https://www.espn.com/soccer/player/_/id/366906/mathis-lambourde"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "DOB, height, preferred foot and club history (Rennes academy, Hellas Verona, loan at AC Reggiana 2025/26) from FotMob/ESPN/Wikipedia snippets via WebSearch. 2026/27 season stats only just begun (1 goal, 0 assists, 175 minutes) so sample is tiny -> treat as early-season, not representative. Contract expiry, market value, fee and wage not found -> null. Included as a fresh, low-profile arrival worth monitoring rather than an established starter."
+  }
+}

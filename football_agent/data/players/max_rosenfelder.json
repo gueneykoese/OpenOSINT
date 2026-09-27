@@ -1,0 +1,75 @@
+{
+  "player_id": "max_rosenfelder",
+  "name": "Max Rosenfelder",
+  "age": 23,
+  "date_of_birth": "2003-02-10",
+  "nationality": ["GER"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 186,
+  "current_club": "SC Freiburg",
+  "current_club_league": "Bundesliga",
+  "contract_until": null,
+  "market_value_eur_m": 3.3,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": null,
+    "starts": null,
+    "minutes": 491,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "homegrown Freiburg academy centre-back, Freiburg native and lifelong fan",
+      "aggressive front-foot defending, assured buildup, exceptional recovery pace",
+      "clocked at 35.91 km/h top speed",
+      "capped at Germany U17/U18/U19/U21 level"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["de"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "Local product who grew up supporting SC Freiburg; no public reports of wanting to leave."
+  },
+  "sources": [
+    "https://www.fotmob.com/en-GB/players/1281107/max-rosenfelder",
+    "https://www.bundesliga.com/en/player/max-rosenfelder",
+    "https://www.getfootballnewsgermany.com/2026/bundesliga-freiburg-preview-26/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, foot, market value (EUR 3.3m per FotMob, cited elsewhere as EUR 7.7m) and 2025/26 Bundesliga minutes (491) from FotMob/Bundesliga.com snippets. Contract-until, apps/starts breakdown and assists-for-career not clearly separable in snippets -> null. Top-speed and playing-style detail from Get Football News Germany's 2026/27 Freiburg tactical preview."
+  }
+}

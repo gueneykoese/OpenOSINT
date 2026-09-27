@@ -1,0 +1,75 @@
+{
+  "player_id": "lorenzo_biliboc",
+  "name": "Lorenzo Biliboc",
+  "age": 19,
+  "date_of_birth": "2006-10-22",
+  "nationality": ["ROU", "ITA"],
+  "position": "LW",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "CFR Cluj",
+  "current_club_league": "Romanian Liga I",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga I (Superliga)",
+    "apps": null,
+    "starts": null,
+    "minutes": 1370,
+    "goals": 7,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "inverted left winger (right-footed)",
+      "dual Romanian/Italian nationality",
+      "playing UEFA Conference League 2026/27 with CFR Cluj",
+      "7 goals in 1,370 minutes in 2025/26 Superliga"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ro", "it"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1684558/lorenzo-biliboc",
+    "https://www.sofascore.com/football/player/lorenzo-biliboc/1476703",
+    "https://www.uefa.com/uefaconferenceleague/clubs/players/250180713--lorenzo-biliboc/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, dual nationality and preferred foot from FotMob/Sofascore snippets via WebSearch. 2025/26 Superliga stats (7 goals, 1 assist, 1370 minutes, 1 yellow) and early 2026/27 form (1 goal, 322 minutes as of search date) from FotMob-derived snippets; apps count not given -> null. Confirmed playing UEFA Conference League 2026/27 per UEFA.com listing. Contract expiry, market value, fee, height and wage not found -> null."
+  }
+}

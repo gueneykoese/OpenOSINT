@@ -1,14 +1,14 @@
 {
-  "player_id": "tim_iroegbunam",
-  "name": "Tim Iroegbunam",
-  "age": 22,
-  "date_of_birth": null,
+  "player_id": "jimmy_sinclair",
+  "name": "Jimmy Sinclair",
+  "age": 19,
+  "date_of_birth": "2006-08-11",
   "nationality": ["ENG"],
-  "position": "DM",
-  "secondary_positions": ["CM"],
+  "position": "RW",
+  "secondary_positions": ["RWB", "RM", "LM", "LW"],
   "preferred_foot": null,
   "height_cm": null,
-  "current_club": "Everton",
+  "current_club": "Nottingham Forest",
   "current_club_league": "Premier League",
   "contract_until": null,
   "market_value_eur_m": null,
@@ -18,12 +18,12 @@
   "agent_status": "represented",
   "availability": "open to move",
   "stats_2025_26": {
-    "competition": "Premier League",
-    "apps": null,
+    "competition": "Premier League 2 (U21)",
+    "apps": 19,
     "starts": null,
-    "minutes": 938,
-    "goals": 0,
-    "assists": 2,
+    "minutes": null,
+    "goals": 1,
+    "assists": 3,
     "xg": null,
     "xa": null,
     "shots_p90": null,
@@ -36,7 +36,10 @@
   },
   "style_profile": {
     "tags": [
-      "defensive midfielder, rotation/squad player for Everton"
+      "versatile wide player, joined Forest academy 2021",
+      "made senior debut for Forest first team (2 competitive appearances by search date)",
+      "1 Europa League appearance in 2025/26 (7 minutes)",
+      "also featured in EFL Trophy (6 apps) for Forest's B/U21 side"
     ],
     "best_system": [],
     "weak_in": []
@@ -60,12 +63,14 @@
     "notes": null
   },
   "sources": [
-    "https://www.fotmob.com/players/1203512/tim-iroegbunam",
-    "https://global.espn.com/football/player/_/id/310599/tim-iroegbunam"
+    "https://www.sofascore.com/player/jimmy-sinclair/1400429",
+    "https://fbref.com/en/players/7e118f84/Jimmy-Sinclair",
+    "https://www.uefa.com/uefaeuropaleague/clubs/players/250214675--james-sinclair/",
+    "https://en.wikipedia.org/wiki/Jimmy_Sinclair_(footballer,_born_2006)"
   ],
   "as_of": "2026-09-27",
   "data_quality": {
     "confidence": "low",
-    "notes": "2025/26 Premier League stats (938 min, 0 goals, 2 assists) from FotMob snippet; age (22) also from FotMob. DOB, contract-until, apps/starts breakdown, market value, height and foot not found -> null. Limited public profile beyond basic stats at time of research."
+    "notes": "DOB and 2025/26 PL2/U21 stats (19 apps, 1 goal, 3 assists) from Sofascore/FBref snippets. Only 2 senior competitive appearances confirmed to date, with limited detail (Europa League: 7 minutes, no G/A). Contract length, market value, height, foot not found in snippets -> null."
   }
 }

@@ -1,0 +1,74 @@
+{
+  "player_id": "antonio_marin",
+  "name": "Antonio Marin",
+  "age": 24,
+  "date_of_birth": "2001-01-09",
+  "nationality": ["CRO"],
+  "position": "RW",
+  "secondary_positions": ["ST"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "NK Olimpija Ljubljana",
+  "current_club_league": "Slovenian PrvaLiga",
+  "contract_until": 2026,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Slovenian PrvaLiga",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 5,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Croatian winger/forward",
+      "came through the Dinamo Zagreb system before joining Olimpija Ljubljana",
+      "9th-highest scorer in the 2025/26 PrvaLiga per an earlier league-wide search"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["hr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.nogomania.com/article/Antonio-Marin-signs-with-Olimpija-Ljubljana-until-December-2026",
+    "https://www.espn.com.au/football/player/_/id/139156/antonio-marin",
+    "https://www.premierleague.com/en/players/241006/antonio-marin/overview"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, nationality, contract expiry (31 Dec 2026, per Nogomania signing announcement) and Dinamo Zagreb background from Nogomania/ESPN snippets via WebSearch. 2025/26 PrvaLiga goal tally (5, later cross-referenced against a league table showing him with 9 goals for the full season in an earlier search -- the higher full-season figure is plausible as the campaign progressed, but the lower snapshot was retained here as the directly-sourced figure at time of search) -- flagged rather than silently reconciled. Assists, apps, minutes, height, preferred foot, market value, fee and wage not found -> null. Contract expiring end of 2026 makes him a near-term free agent."
+  }
+}

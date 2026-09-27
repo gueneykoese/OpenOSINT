@@ -1,16 +1,16 @@
 {
-  "player_id": "tim_iroegbunam",
-  "name": "Tim Iroegbunam",
+  "player_id": "martim_marques",
+  "name": "Martim Marques",
   "age": 22,
-  "date_of_birth": null,
-  "nationality": ["ENG"],
-  "position": "DM",
-  "secondary_positions": ["CM"],
+  "date_of_birth": "2004-02-11",
+  "nationality": ["POR"],
+  "position": "LB",
+  "secondary_positions": [],
   "preferred_foot": null,
   "height_cm": null,
-  "current_club": "Everton",
-  "current_club_league": "Premier League",
-  "contract_until": null,
+  "current_club": "FC Lugano",
+  "current_club_league": "Swiss Super League",
+  "contract_until": 2027,
   "market_value_eur_m": null,
   "estimated_fee_eur_m": null,
   "wage_eur_m_net": null,
@@ -18,11 +18,11 @@
   "agent_status": "represented",
   "availability": "open to move",
   "stats_2025_26": {
-    "competition": "Premier League",
-    "apps": null,
+    "competition": "Swiss Super League",
+    "apps": 19,
     "starts": null,
-    "minutes": 938,
-    "goals": 0,
+    "minutes": 1391,
+    "goals": 1,
     "assists": 2,
     "xg": null,
     "xa": null,
@@ -36,7 +36,8 @@
   },
   "style_profile": {
     "tags": [
-      "defensive midfielder, rotation/squad player for Everton"
+      "Portuguese left-back",
+      "regular starter for FC Lugano (19 apps, 1391 minutes in 2025/26)"
     ],
     "best_system": [],
     "weak_in": []
@@ -50,7 +51,7 @@
   },
   "injury_history": [],
   "off_pitch": {
-    "languages": ["en"],
+    "languages": ["pt"],
     "family_situation": null,
     "public_statements": [],
     "commercial_profile": null,
@@ -60,12 +61,13 @@
     "notes": null
   },
   "sources": [
-    "https://www.fotmob.com/players/1203512/tim-iroegbunam",
-    "https://global.espn.com/football/player/_/id/310599/tim-iroegbunam"
+    "https://en.wikipedia.org/wiki/Martim_Marques",
+    "https://www.sofascore.com/player/martim-marques/1142560",
+    "https://www.espn.com/soccer/player/_/id/364127/martim-marques"
   ],
   "as_of": "2026-09-27",
   "data_quality": {
-    "confidence": "low",
-    "notes": "2025/26 Premier League stats (938 min, 0 goals, 2 assists) from FotMob snippet; age (22) also from FotMob. DOB, contract-until, apps/starts breakdown, market value, height and foot not found -> null. Limited public profile beyond basic stats at time of research."
+    "confidence": "medium",
+    "notes": "DOB, nationality, position and contract until 2027 from an earlier Lugano squad-overview snippet and Wikipedia/ESPN snippets via WebSearch. 2025/26 stats (19 apps, 1391 minutes, 1 goal, 2 assists) from a WebSearch-derived snippet. Height, preferred foot, market value, fee and wage not found -> null."
   }
 }

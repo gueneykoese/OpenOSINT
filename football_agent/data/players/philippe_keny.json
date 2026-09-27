@@ -1,0 +1,74 @@
+{
+  "player_id": "philippe_keny",
+  "name": "Philippe Paulin Keny",
+  "age": 27,
+  "date_of_birth": "1999-05-18",
+  "nationality": ["SEN"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 186,
+  "current_club": "FC Zürich",
+  "current_club_league": "Swiss Super League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Swiss Super League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 10,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "target man striker",
+      "Senegalese forward, 186cm",
+      "one of FC Zurich's top scorers 2025/26 Super League"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.espn.com/soccer/player/_/id/290140/philippe-paulin-keny",
+    "https://www.sofascore.com/football/player/philippe-keny/988909",
+    "https://www.whoscored.com/players/455085/show/philippe-keny"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, nationality, height and preferred foot from ESPN/Sofascore/WhoScored snippets via WebSearch. 2025/26 goal/assist tallies from ESPN snippet as of search date (season in progress, so final totals will differ); apps/minutes not given in snippet -> null. Contract expiry, market value, wage not found -> null. Aged 27, above the pilot's core 18-27 target band by a hair but included as a genuine current top scorer in an untouched league."
+  }
+}

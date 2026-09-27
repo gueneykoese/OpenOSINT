@@ -1,0 +1,76 @@
+{
+  "player_id": "mateus_mane",
+  "name": "Mateus Mané",
+  "age": 18,
+  "date_of_birth": "2007-09-16",
+  "nationality": ["POR"],
+  "position": "ST",
+  "secondary_positions": ["LW", "RW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Wolverhampton Wanderers",
+  "current_club_league": "Premier League",
+  "contract_until": 2027,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": 20,
+    "starts": null,
+    "minutes": null,
+    "goals": 2,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "young forward, joined Wolves academy Feb 2024",
+      "made senior debut May 2025 vs Brighton",
+      "first senior goal 3 Jan 2026 vs West Ham",
+      "capped by Portugal U21 (March 2026)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "Signed his first professional contract with Wolves in July 2025, tying him to the club until 2027 (Wolves.co.uk)."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mateus_Man%C3%A9",
+    "https://www.wolves.co.uk/news/mens-first-team/20250710-mane-commits-future-to-wolves/",
+    "https://www.wolves.co.uk/teams/mens-first-team/mateus-mane/",
+    "https://www.premierleague.com/en/players/647671/mateus-mane/stats"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Age/DOB and contract-until confirmed via Wolves.co.uk. 2025/26 apps/goals/assists (20/2/1) from WebSearch snippet of Wikipedia/Premier League profile; minutes, starts and advanced metrics not available -> null. Market value/fee not found in search snippets -> null."
+  }
+}

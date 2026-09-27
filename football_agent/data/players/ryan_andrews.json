@@ -1,16 +1,16 @@
 {
-  "player_id": "tim_iroegbunam",
-  "name": "Tim Iroegbunam",
-  "age": 22,
-  "date_of_birth": null,
+  "player_id": "ryan_andrews",
+  "name": "Ryan Andrews",
+  "age": 21,
+  "date_of_birth": "2004-08-26",
   "nationality": ["ENG"],
-  "position": "DM",
-  "secondary_positions": ["CM"],
+  "position": "RB",
+  "secondary_positions": [],
   "preferred_foot": null,
   "height_cm": null,
-  "current_club": "Everton",
-  "current_club_league": "Premier League",
-  "contract_until": null,
+  "current_club": "BSC Young Boys",
+  "current_club_league": "Swiss Super League",
+  "contract_until": 2028,
   "market_value_eur_m": null,
   "estimated_fee_eur_m": null,
   "wage_eur_m_net": null,
@@ -18,12 +18,12 @@
   "agent_status": "represented",
   "availability": "open to move",
   "stats_2025_26": {
-    "competition": "Premier League",
+    "competition": "Swiss Super League",
     "apps": null,
     "starts": null,
-    "minutes": 938,
+    "minutes": 734,
     "goals": 0,
-    "assists": 2,
+    "assists": 0,
     "xg": null,
     "xa": null,
     "shots_p90": null,
@@ -36,7 +36,9 @@
   },
   "style_profile": {
     "tags": [
-      "defensive midfielder, rotation/squad player for Everton"
+      "English right-back",
+      "made 87 appearances for Watford (2023-2025) before a GBP 2.6m move to Young Boys, 31 Aug 2025",
+      "signed a four-year deal, running to June 2028"
     ],
     "best_system": [],
     "weak_in": []
@@ -60,12 +62,13 @@
     "notes": null
   },
   "sources": [
-    "https://www.fotmob.com/players/1203512/tim-iroegbunam",
-    "https://global.espn.com/football/player/_/id/310599/tim-iroegbunam"
+    "https://en.wikipedia.org/wiki/Ryan_Andrews_(footballer)",
+    "https://www.premierleague.com/en/players/524192/ryan-andrews/overview",
+    "https://fbref.com/en/players/40d103f8/Ryan-Andrews"
   ],
   "as_of": "2026-09-27",
   "data_quality": {
-    "confidence": "low",
-    "notes": "2025/26 Premier League stats (938 min, 0 goals, 2 assists) from FotMob snippet; age (22) also from FotMob. DOB, contract-until, apps/starts breakdown, market value, height and foot not found -> null. Limited public profile beyond basic stats at time of research."
+    "confidence": "medium",
+    "notes": "DOB, transfer details (from Watford, GBP 2.6m, 31 Aug 2025, four-year deal to June 2028) and prior club record (87 Watford apps, 2023-2025) from Wikipedia-derived snippet via WebSearch. 2025/26 Super League stats (0 goals, 0 assists, 734 minutes) from FotMob-derived snippet; apps not given -> null. Preferred foot, height, market value, fee estimate and wage not found -> null."
   }
 }

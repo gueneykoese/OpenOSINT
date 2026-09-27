@@ -1,0 +1,76 @@
+{
+  "player_id": "lewis_orford",
+  "name": "Lewis Orford",
+  "age": 20,
+  "date_of_birth": "2006-02-18",
+  "nationality": ["ENG"],
+  "position": "DM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "West Ham United",
+  "current_club_league": "Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "Premier League 2 (U21), plus one Premier League senior appearance",
+    "apps": null,
+    "starts": null,
+    "minutes": 1110,
+    "goals": 3,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Havering-born defensive midfielder, West Ham academy since youth",
+      "named in first-team squad for a 2022 Europa Conference League tie in Romania (aged 16)",
+      "made senior Premier League debut vs Crystal Palace, Jan 2025",
+      "loan spell at Stevenage (League One) for 2025/26, returned to West Ham Jan 2026"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.whufc.com/en/teams/mens-team/lewis-orford",
+    "https://www.fotmob.com/en-GB/players/1331666/lewis-orford",
+    "https://www.stevenagefc.com/news/2025/september/01/lewis-orford-joins-on-loan-from-west-ham-united/",
+    "https://readwestham.com/2026/08/01/back-where-it-belongs-lewis-orford-sends-west-ham-promotion-message/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "DOB from FotMob snippet. Stats shown (1110 min, 3 goals, 2 assists) are from Premier League 2 (U21) football per the snippet, not senior first-team stats; he has one confirmed senior PL appearance (vs Crystal Palace, Jan 2025) with detail not broken out separately -> apps/starts left null. Contract-until, market value, height, foot not found."
+  }
+}

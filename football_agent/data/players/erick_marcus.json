@@ -1,0 +1,74 @@
+{
+  "player_id": "erick_marcus",
+  "name": "Erick Marcus",
+  "age": 22,
+  "date_of_birth": "2004-03-01",
+  "nationality": ["BRA"],
+  "position": "RW",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 177,
+  "current_club": "Ludogorets Razgrad",
+  "current_club_league": "Bulgarian First League",
+  "contract_until": null,
+  "market_value_eur_m": 2.2,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Bulgarian First Professional League",
+    "apps": null,
+    "starts": null,
+    "minutes": 1712,
+    "goals": 4,
+    "assists": 5,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Brazilian right winger",
+      "one of Ludogorets Razgrad's top creative outputs 2025/26 (4 goals, 5 assists)",
+      "regular starter, 1712 league minutes"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": 3,
+    "notes": "6 yellow cards in the 2025/26 First League season per FotMob-derived snippet -- worth monitoring for disciplinary risk, not itself alarming."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["pt"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1459656/erick-marcus",
+    "https://www.sofascore.com/football/player/erick-marcus/1403439",
+    "https://www.soccerway.com/player/erick-marcus/OW6e2QbF/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, nationality, height and market value (EUR 2.2m) from FotMob/Sofascore snippets via WebSearch. 2025/26 stats (4 goals, 5 assists, 1712 minutes, 6 yellow cards) from FotMob-derived snippet; apps not given -> null. Contract expiry, preferred foot, fee and wage not found -> null."
+  }
+}

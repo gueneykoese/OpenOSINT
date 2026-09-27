@@ -1,15 +1,15 @@
 {
-  "player_id": "tim_iroegbunam",
-  "name": "Tim Iroegbunam",
-  "age": 22,
-  "date_of_birth": null,
-  "nationality": ["ENG"],
-  "position": "DM",
-  "secondary_positions": ["CM"],
-  "preferred_foot": null,
+  "player_id": "mattia_zanotti",
+  "name": "Mattia Zanotti",
+  "age": 23,
+  "date_of_birth": "2003-01-11",
+  "nationality": ["ITA"],
+  "position": "RB",
+  "secondary_positions": [],
+  "preferred_foot": "right",
   "height_cm": null,
-  "current_club": "Everton",
-  "current_club_league": "Premier League",
+  "current_club": "FC Lugano",
+  "current_club_league": "Swiss Super League",
   "contract_until": null,
   "market_value_eur_m": null,
   "estimated_fee_eur_m": null,
@@ -18,12 +18,12 @@
   "agent_status": "represented",
   "availability": "open to move",
   "stats_2025_26": {
-    "competition": "Premier League",
+    "competition": "Swiss Super League",
     "apps": null,
     "starts": null,
-    "minutes": 938,
-    "goals": 0,
-    "assists": 2,
+    "minutes": 2551,
+    "goals": 1,
+    "assists": 3,
     "xg": null,
     "xa": null,
     "shots_p90": null,
@@ -36,7 +36,8 @@
   },
   "style_profile": {
     "tags": [
-      "defensive midfielder, rotation/squad player for Everton"
+      "Italian right-back",
+      "regular starter for FC Lugano, over 2500 league minutes in 2025/26"
     ],
     "best_system": [],
     "weak_in": []
@@ -50,7 +51,7 @@
   },
   "injury_history": [],
   "off_pitch": {
-    "languages": ["en"],
+    "languages": ["it"],
     "family_situation": null,
     "public_statements": [],
     "commercial_profile": null,
@@ -60,12 +61,13 @@
     "notes": null
   },
   "sources": [
-    "https://www.fotmob.com/players/1203512/tim-iroegbunam",
-    "https://global.espn.com/football/player/_/id/310599/tim-iroegbunam"
+    "https://www.fotmob.com/players/1276510/mattia-zanotti",
+    "https://en.wikipedia.org/wiki/Mattia_Zanotti",
+    "https://www.sofascore.com/football/player/mattia-zanotti/1012175"
   ],
   "as_of": "2026-09-27",
   "data_quality": {
-    "confidence": "low",
-    "notes": "2025/26 Premier League stats (938 min, 0 goals, 2 assists) from FotMob snippet; age (22) also from FotMob. DOB, contract-until, apps/starts breakdown, market value, height and foot not found -> null. Limited public profile beyond basic stats at time of research."
+    "confidence": "medium",
+    "notes": "DOB, nationality and preferred foot from FotMob/Wikipedia/Sofascore snippets via WebSearch. 2025/26 stats (1 goal, 3 assists, 2551 minutes) per FotMob snippet, apps count not given -> null. Height, contract expiry, market value and fee not found in available snippets -> null."
   }
 }

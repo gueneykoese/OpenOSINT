@@ -1,16 +1,16 @@
 {
-  "player_id": "tim_iroegbunam",
-  "name": "Tim Iroegbunam",
+  "player_id": "yoel_lago",
+  "name": "Yoel Lago",
   "age": 22,
-  "date_of_birth": null,
-  "nationality": ["ENG"],
-  "position": "DM",
-  "secondary_positions": ["CM"],
-  "preferred_foot": null,
-  "height_cm": null,
-  "current_club": "Everton",
-  "current_club_league": "Premier League",
-  "contract_until": null,
+  "date_of_birth": "2004-03-25",
+  "nationality": ["ESP"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 185,
+  "current_club": "Celta de Vigo",
+  "current_club_league": "La Liga",
+  "contract_until": 2029,
   "market_value_eur_m": null,
   "estimated_fee_eur_m": null,
   "wage_eur_m_net": null,
@@ -18,12 +18,12 @@
   "agent_status": "represented",
   "availability": "open to move",
   "stats_2025_26": {
-    "competition": "Premier League",
+    "competition": "La Liga",
     "apps": null,
     "starts": null,
-    "minutes": 938,
+    "minutes": 335,
     "goals": 0,
-    "assists": 2,
+    "assists": 0,
     "xg": null,
     "xa": null,
     "shots_p90": null,
@@ -36,7 +36,9 @@
   },
   "style_profile": {
     "tags": [
-      "defensive midfielder, rotation/squad player for Everton"
+      "right-footed centre-back",
+      "made first team and La Liga debut 26 May 2024 (2-2 draw vs Valencia CF)",
+      "formally promoted to Celta's main squad 1 Sept 2026, assigned shirt no. 18"
     ],
     "best_system": [],
     "weak_in": []
@@ -50,7 +52,7 @@
   },
   "injury_history": [],
   "off_pitch": {
-    "languages": ["en"],
+    "languages": ["es"],
     "family_situation": null,
     "public_statements": [],
     "commercial_profile": null,
@@ -60,12 +62,13 @@
     "notes": null
   },
   "sources": [
-    "https://www.fotmob.com/players/1203512/tim-iroegbunam",
-    "https://global.espn.com/football/player/_/id/310599/tim-iroegbunam"
+    "https://en.wikipedia.org/wiki/Yoel_Lago",
+    "https://www.sofascore.com/football/player/yoel-lago/1145100",
+    "https://fbref.com/en/players/edd4e7a5/Yoel-Lago"
   ],
   "as_of": "2026-09-27",
   "data_quality": {
-    "confidence": "low",
-    "notes": "2025/26 Premier League stats (938 min, 0 goals, 2 assists) from FotMob snippet; age (22) also from FotMob. DOB, contract-until, apps/starts breakdown, market value, height and foot not found -> null. Limited public profile beyond basic stats at time of research."
+    "confidence": "medium",
+    "notes": "DOB, height, foot, contract-until-2029 and 2025/26 La Liga minutes (335, 0G/0A) from Sofascore/FotMob snippets. Apps/starts breakdown, market value not found -> null."
   }
 }

@@ -1,0 +1,79 @@
+{
+  "player_id": "emrick_fotsing",
+  "name": "Emrick Fotsing",
+  "age": 18,
+  "date_of_birth": null,
+  "nationality": ["CAN"],
+  "position": "CM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 180,
+  "current_club": "Vancouver FC (on loan) / Vancouver Whitecaps FC",
+  "current_club_league": "Canadian Premier League / MLS",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Canadian Premier League",
+    "apps": 39,
+    "starts": null,
+    "minutes": null,
+    "goals": 4,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "CF Montreal academy product who left for CPL side Vancouver FC in Feb 2025",
+      "acquired by Vancouver Whitecaps in Aug 2026 for a fee described as the largest in Vancouver FC history and 2nd-largest in CPL history",
+      "Canada U-20 international",
+      "signed through 2029-30 with a club option for 2030-31",
+      "loaned back to Vancouver FC to finish the 2026 CPL season, set to join the Whitecaps for MLS's 2027 'sprint' season"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [
+    {"type": "hip", "season": "2026", "days_out": null}
+  ],
+  "off_pitch": {
+    "languages": ["fr", "en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "From Mascouche, Quebec. Suffered a hip injury while playing for Canada's U-20 side in 2026; rehabbing at the Whitecaps before returning to Vancouver FC on loan."
+  },
+  "sources": [
+    "https://www.tsn.ca/soccer/mls/article/whitecaps-acquired-18-year-old-canadian-midfielder-fotsing-from-cpls-vancouver-fc/",
+    "https://www.whitecapsfc.com/news/vwfc-acquire-emrick-fotsing",
+    "https://www.cplsoccer.com/news/scouting-report-why-did-the-whitecaps-sign-emrick-fotsing-from-vancouver-fc",
+    "https://en.wikipedia.org/wiki/Emrick_Fotsing"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Age (18), transfer structure, and CPL stats (39 apps, 4 goals) from TSN/Whitecaps/CPL snippets via WebSearch. Exact DOB, height precision, minutes, market value not found and set to null/approximate; height 180cm reported as '5-foot-11' converted. Fee undisclosed publicly. current_club reflects the unusual dual status (Whitecaps-owned, loaned to Vancouver FC pending 2027 MLS move) as reported Aug 2026."
+  }
+}

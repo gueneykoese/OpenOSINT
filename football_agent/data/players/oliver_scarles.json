@@ -1,14 +1,14 @@
 {
-  "player_id": "tim_iroegbunam",
-  "name": "Tim Iroegbunam",
-  "age": 22,
-  "date_of_birth": null,
+  "player_id": "oliver_scarles",
+  "name": "Oliver Scarles",
+  "age": 20,
+  "date_of_birth": "2005-12-12",
   "nationality": ["ENG"],
-  "position": "DM",
-  "secondary_positions": ["CM"],
+  "position": "LB",
+  "secondary_positions": ["CB"],
   "preferred_foot": null,
   "height_cm": null,
-  "current_club": "Everton",
+  "current_club": "West Ham United",
   "current_club_league": "Premier League",
   "contract_until": null,
   "market_value_eur_m": null,
@@ -21,9 +21,9 @@
     "competition": "Premier League",
     "apps": null,
     "starts": null,
-    "minutes": 938,
+    "minutes": 657,
     "goals": 0,
-    "assists": 2,
+    "assists": 0,
     "xg": null,
     "xa": null,
     "shots_p90": null,
@@ -36,7 +36,7 @@
   },
   "style_profile": {
     "tags": [
-      "defensive midfielder, rotation/squad player for Everton"
+      "left-back, West Ham academy product"
     ],
     "best_system": [],
     "weak_in": []
@@ -60,12 +60,12 @@
     "notes": null
   },
   "sources": [
-    "https://www.fotmob.com/players/1203512/tim-iroegbunam",
-    "https://global.espn.com/football/player/_/id/310599/tim-iroegbunam"
+    "https://www.fotmob.com/en-GB/players/1315319/oliver-scarles",
+    "https://en.wikipedia.org/wiki/Oliver_Scarles"
   ],
   "as_of": "2026-09-27",
   "data_quality": {
     "confidence": "low",
-    "notes": "2025/26 Premier League stats (938 min, 0 goals, 2 assists) from FotMob snippet; age (22) also from FotMob. DOB, contract-until, apps/starts breakdown, market value, height and foot not found -> null. Limited public profile beyond basic stats at time of research."
+    "notes": "DOB and 2025/26 Premier League minutes (657, 0G/0A) from FotMob snippet. Apps/starts breakdown, contract length, market value, height and foot not found in search snippets -> null. Limited public profile beyond basic stats at time of research."
   }
 }

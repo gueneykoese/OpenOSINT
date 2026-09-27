@@ -1,0 +1,74 @@
+{
+  "player_id": "berkay_yilmaz",
+  "name": "Berkay Yilmaz",
+  "age": 21,
+  "date_of_birth": "2005-02-25",
+  "nationality": null,
+  "position": "LB",
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "SC Freiburg",
+  "current_club_league": "Bundesliga",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "2. Bundesliga (on loan at 1. FC Nürnberg)",
+    "apps": 25,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-back who can also play central midfield",
+      "returned from an 'excellent spell' at Nürnberg to compete for Freiburg's left-back spot with Christian Günter and Jordy Makengo",
+      "on loan at 1. FC Nürnberg through 30 June 2026"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": null,
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.bundesliga.com/en/player/berkay-yilmaz",
+    "https://www.playmakerstats.com/player/berkay-yilmaz/954086",
+    "https://www.getfootballnewsgermany.com/2026/bundesliga-freiburg-preview-26/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "DOB from Bundesliga.com/search snippet. Nationality not confirmed in snippets (name suggests Turkish/German heritage but not stated) -> left null. Loan at Nürnberg (2. Bundesliga) confirmed through 30 June 2026, 25 apps figure from snippet though goals/assists not specified. Contract length at Freiburg, market value, height, foot not found."
+  }
+}

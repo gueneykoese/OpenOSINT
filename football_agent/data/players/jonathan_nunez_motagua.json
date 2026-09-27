@@ -1,0 +1,75 @@
+{
+  "player_id": "jonathan_nunez_motagua",
+  "name": "Jonathan Núñez",
+  "age": 23,
+  "date_of_birth": "2001-11-26",
+  "nationality": ["HON"],
+  "position": "CM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 178,
+  "current_club": "FC Motagua",
+  "current_club_league": "Honduras Liga Nacional",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Honduras Liga Nacional",
+    "apps": 12,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Honduras U20 international (2018-2019)",
+      "won the 2021/22 Clausura Liga Nacional title with Motagua",
+      "spent Jan-Jun 2026 on loan at UPNFM before returning to Motagua",
+      "central midfielder"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.sofascore.com/player/jonathan-nunez/985146",
+    "https://www.fotmob.com/players/1053977/jonathan-nunez",
+    "https://en.wikipedia.org/wiki/Jonathan_N%C3%BA%C3%B1ez_(Honduran_footballer)"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "DOB, height, career history (incl. Jan-Jun 2026 loan to UPNFM), and 2025/26 stats (12 apps, 1 goal) from Sofascore/Fotmob/Wikipedia snippets. Market value and detailed advanced stats not found -> null. Included primarily for Motagua/Honduras Liga Nacional coverage; a squad rotation player rather than a headline talent."
+  }
+}

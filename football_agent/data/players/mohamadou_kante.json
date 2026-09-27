@@ -1,0 +1,76 @@
+{
+  "player_id": "mohamadou_kante",
+  "name": "Mohamadou Kanté",
+  "age": 21,
+  "date_of_birth": "2005-09-20",
+  "nationality": ["FRA"],
+  "position": "DM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "West Ham United",
+  "current_club_league": "Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Premier League 2 (U21) plus early first-team minutes",
+    "apps": null,
+    "starts": null,
+    "minutes": 713,
+    "goals": 3,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "defensive midfielder, developed through Paris FC academy before joining West Ham",
+      "made first full league start of 2026/27 in a 2-2 draw away to Burnley, creating a goal",
+      "right-footed",
+      "West Ham U21 (Premier League 2) regular in 2025/26"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr", "en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "Career path: Jeunesse Aubervilliers, then Paris FC academy/reserves (from 2021), then West Ham United."
+  },
+  "sources": [
+    "https://www.espn.com/soccer/player/_/id/368333/mohamadou-kante",
+    "https://readwestham.com/squad/mohamadou-kante/",
+    "https://www.premierleague.com/en/players/630699/mohamadou-kante/overview",
+    "https://eastlondontimes.co.uk/help-resources/mohamadou-kante-west-ham-debut-impact-midfield-promise/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "DOB (20 Sep 2005) from Premier League/ESPN profile snippets. 2025/26 stats (713 min, 3 goals, 1 assist) are from Premier League 2 (U21) football, per FotMob/statshub snippets, not senior PL football -> apps left null since the breakdown between U21 and first-team minutes was not verifiable. A search snippet also referenced a '3-0 Championship win over Derby County' first-team goal for Kante, which is inconsistent with West Ham playing in the Premier League in 2026/27; this claim could not be corroborated and is deliberately excluded from stats to avoid reporting an unverified/likely-erroneous figure. Contract length, market value, height and fee not found -> null."
+  }
+}

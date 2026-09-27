@@ -1,15 +1,15 @@
 {
-  "player_id": "tim_iroegbunam",
-  "name": "Tim Iroegbunam",
-  "age": 22,
-  "date_of_birth": null,
-  "nationality": ["ENG"],
-  "position": "DM",
-  "secondary_positions": ["CM"],
+  "player_id": "mihai_toma",
+  "name": "Mihai Toma",
+  "age": 19,
+  "date_of_birth": "2007-02-17",
+  "nationality": ["ROU"],
+  "position": "RW",
+  "secondary_positions": [],
   "preferred_foot": null,
   "height_cm": null,
-  "current_club": "Everton",
-  "current_club_league": "Premier League",
+  "current_club": "FCSB",
+  "current_club_league": "Romanian Liga I",
   "contract_until": null,
   "market_value_eur_m": null,
   "estimated_fee_eur_m": null,
@@ -18,12 +18,12 @@
   "agent_status": "represented",
   "availability": "open to move",
   "stats_2025_26": {
-    "competition": "Premier League",
+    "competition": "Liga I (Superliga)",
     "apps": null,
     "starts": null,
-    "minutes": 938,
+    "minutes": 1339,
     "goals": 0,
-    "assists": 2,
+    "assists": 1,
     "xg": null,
     "xa": null,
     "shots_p90": null,
@@ -36,10 +36,11 @@
   },
   "style_profile": {
     "tags": [
-      "defensive midfielder, rotation/squad player for Everton"
+      "young right winger, regular minutes for FCSB (Romania's most-titled club) as a teenager",
+      "low output so far (0 goals, 1 assist in 1,339 minutes 2025/26) despite consistent playing time"
     ],
     "best_system": [],
-    "weak_in": []
+    "weak_in": ["end product / final third decision-making at current stage"]
   },
   "mental_profile": {
     "leadership": null,
@@ -50,7 +51,7 @@
   },
   "injury_history": [],
   "off_pitch": {
-    "languages": ["en"],
+    "languages": ["ro"],
     "family_situation": null,
     "public_statements": [],
     "commercial_profile": null,
@@ -60,12 +61,12 @@
     "notes": null
   },
   "sources": [
-    "https://www.fotmob.com/players/1203512/tim-iroegbunam",
-    "https://global.espn.com/football/player/_/id/310599/tim-iroegbunam"
+    "https://www.fotmob.com/players/1425773/mihai-toma",
+    "https://www.sofascore.com/player/toma-mihai/1446612"
   ],
   "as_of": "2026-09-27",
   "data_quality": {
     "confidence": "low",
-    "notes": "2025/26 Premier League stats (938 min, 0 goals, 2 assists) from FotMob snippet; age (22) also from FotMob. DOB, contract-until, apps/starts breakdown, market value, height and foot not found -> null. Limited public profile beyond basic stats at time of research."
+    "notes": "DOB and 2025/26 stats (0 goals, 1 assist, 1339 minutes, 3 yellows) from FotMob-derived snippet via WebSearch; apps not given -> null. Nationality inferred as Romanian from club/context, not explicitly confirmed in snippet -- flagged as lower confidence. Preferred foot, height, contract, market value not found -> null."
   }
 }

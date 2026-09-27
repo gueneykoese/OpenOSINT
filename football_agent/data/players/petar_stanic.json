@@ -1,0 +1,74 @@
+{
+  "player_id": "petar_stanic",
+  "name": "Petar Stanić",
+  "age": 24,
+  "date_of_birth": "2001-08-14",
+  "nationality": ["SRB"],
+  "position": "AM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Ludogorets Razgrad",
+  "current_club_league": "Bulgarian First League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Bulgarian First Professional League",
+    "apps": null,
+    "starts": null,
+    "minutes": 1038,
+    "goals": 6,
+    "assists": 7,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Serbian attacking midfielder / creative hub",
+      "among Ludogorets Razgrad's top creators (6 goals, 7 assists in 1,038 minutes 2025/26)",
+      "high goal+assist involvement per minute suggests efficient chance creation"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["sr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.whoscored.com/players/425335/show/petar-stanic",
+    "https://www.espn.com/soccer/player/_/id/323024/petar-stanic",
+    "https://www.fotmob.com/ko/players/1282540/petar-stanic"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB and nationality from WhoScored/ESPN-derived snippets via WebSearch. 2025/26 First League stats (6 goals, 7 assists, 1038 minutes, 1 yellow) from FotMob-derived snippet; apps not given -> null. A separate team-level snippet reported him with 9 goals/8 assists across 36 matches for the full season, which likely reflects a later point in the campaign than the FotMob figure used here -- both are plausible partial-season snapshots, and the more detailed (minutes-inclusive) figure was retained as the primary stat line rather than picking arbitrarily. Height, preferred foot, contract, market value, fee and wage not found -> null."
+  }
+}

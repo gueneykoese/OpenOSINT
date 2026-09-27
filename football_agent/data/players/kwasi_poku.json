@@ -1,0 +1,82 @@
+{
+  "player_id": "kwasi_poku",
+  "name": "Kwasi Poku",
+  "age": 23,
+  "date_of_birth": null,
+  "nationality": ["CAN", "GHA"],
+  "position": "ST",
+  "secondary_positions": ["LB"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Vancouver Whitecaps FC",
+  "current_club_league": "MLS",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Belgian Challenger Pro League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "converted from left-back to striker mid-2024 season at Forge FC, immediately prolific (10 goals in 14 games)",
+      "left Forge FC for RWD Molenbeek (Belgium, Challenger Pro League) in a CPL-record transfer, Aug 2024",
+      "two seasons in Belgium, including missing time in early 2025 after surgery",
+      "signed by Vancouver Whitecaps FC on 30 July 2026, returning to MLS/North America",
+      "Canada senior international debut Oct 2024",
+      "originally from Brampton, Ontario; came up through Toronto FC's reserve system before joining Forge FC"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [
+    {"type": "unspecified (surgery)", "season": "2024/25", "days_out": null}
+  ],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [
+      "Expressed excitement over his move to RWD Molenbeek in Belgian press (SportsWorldGhana)."
+    ],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "Ghanaian-Canadian dual national. His CPL-record transfer to RWD Molenbeek was reportedly left partly unpaid, resulting in the Belgian club being docked points -- a notable off-pitch/institutional footnote on that transfer, not attributable to the player himself."
+  },
+  "sources": [
+    "https://www.canpl.ca/article/kwasi-poku-joins-belgian-side-rwd-molenbeek-from-forge-fc-in-league-record-transfer",
+    "https://en.wikipedia.org/wiki/Kwasi_Poku",
+    "https://canadiansoccerdaily.com/2026/07/30/vancouver-whitecaps-sign-canada-international-forward-former-cpl-standout-kwasi-poku/",
+    "https://canadiansoccerdaily.com/2026/03/04/belgian-club-docked-points-over-unpaid-kwasi-poku-transfer-fee-owed-to-forge-fc/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Age estimated as 23 (21 at Aug 2024 transfer, +2 years to Sep 2026); exact DOB not found -> null. Career path (Forge FC -> RWD Molenbeek -> Vancouver Whitecaps, signed 30 Jul 2026) confirmed across CanPL.ca/Wikipedia/Canadian Soccer Daily. Belgian-league stats and current MLS stats not found via WebSearch -> null. Interesting case of a CPL export returning to MLS rather than staying in Europe, useful data point on North American player pathways."
+  }
+}

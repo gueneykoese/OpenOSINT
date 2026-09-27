@@ -1,16 +1,16 @@
 {
-  "player_id": "tim_iroegbunam",
-  "name": "Tim Iroegbunam",
+  "player_id": "freddie_potts",
+  "name": "Freddie Potts",
   "age": 22,
-  "date_of_birth": null,
+  "date_of_birth": "2003-09-12",
   "nationality": ["ENG"],
-  "position": "DM",
-  "secondary_positions": ["CM"],
+  "position": "CM",
+  "secondary_positions": ["DM"],
   "preferred_foot": null,
   "height_cm": null,
-  "current_club": "Everton",
+  "current_club": "West Ham United",
   "current_club_league": "Premier League",
-  "contract_until": null,
+  "contract_until": 2029,
   "market_value_eur_m": null,
   "estimated_fee_eur_m": null,
   "wage_eur_m_net": null,
@@ -21,9 +21,9 @@
     "competition": "Premier League",
     "apps": null,
     "starts": null,
-    "minutes": 938,
+    "minutes": 1099,
     "goals": 0,
-    "assists": 2,
+    "assists": 1,
     "xg": null,
     "xa": null,
     "shots_p90": null,
@@ -36,7 +36,9 @@
   },
   "style_profile": {
     "tags": [
-      "defensive midfielder, rotation/squad player for Everton"
+      "central/defensive midfielder, West Ham academy product",
+      "signed a new long-term contract through at least 2029 (March 2025)",
+      "spent a loan spell at Championship side Portsmouth (30 appearances)"
     ],
     "best_system": [],
     "weak_in": []
@@ -60,12 +62,13 @@
     "notes": null
   },
   "sources": [
-    "https://www.fotmob.com/players/1203512/tim-iroegbunam",
-    "https://global.espn.com/football/player/_/id/310599/tim-iroegbunam"
+    "https://foreverwestham.com/2025/03/west-ham-united/freddie-potts-signs-four-and-a-half-year-contract/",
+    "https://m.football-lineups.com/footballer/159895/FA-Premier-League-2025--2026/West-Ham-United",
+    "https://au.soccerway.com/player/potts-freddie/t2knkPDI"
   ],
   "as_of": "2026-09-27",
   "data_quality": {
-    "confidence": "low",
-    "notes": "2025/26 Premier League stats (938 min, 0 goals, 2 assists) from FotMob snippet; age (22) also from FotMob. DOB, contract-until, apps/starts breakdown, market value, height and foot not found -> null. Limited public profile beyond basic stats at time of research."
+    "confidence": "medium",
+    "notes": "Contract-until-2029 from ForeverWestHam's report of a March 2025 four-and-a-half-year deal. DOB and 2025/26 Premier League minutes (1099, 0G/1A) from search snippets. Portsmouth loan (30 Championship apps) noted but season not specified. Apps/starts breakdown, market value, height, foot not found -> null."
   }
 }

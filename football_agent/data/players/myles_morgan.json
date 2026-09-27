@@ -1,16 +1,16 @@
 {
-  "player_id": "tim_iroegbunam",
-  "name": "Tim Iroegbunam",
-  "age": 22,
+  "player_id": "myles_morgan",
+  "name": "Myles Morgan",
+  "age": 19,
   "date_of_birth": null,
-  "nationality": ["ENG"],
-  "position": "DM",
-  "secondary_positions": ["CM"],
+  "nationality": ["CAN"],
+  "position": "ST",
+  "secondary_positions": ["LW"],
   "preferred_foot": null,
   "height_cm": null,
-  "current_club": "Everton",
-  "current_club_league": "Premier League",
-  "contract_until": null,
+  "current_club": "Valour FC",
+  "current_club_league": "Canadian Premier League",
+  "contract_until": 2026,
   "market_value_eur_m": null,
   "estimated_fee_eur_m": null,
   "wage_eur_m_net": null,
@@ -18,12 +18,12 @@
   "agent_status": "represented",
   "availability": "open to move",
   "stats_2025_26": {
-    "competition": "Premier League",
+    "competition": "Canadian Premier League",
     "apps": null,
     "starts": null,
-    "minutes": 938,
-    "goals": 0,
-    "assists": 2,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
     "xg": null,
     "xa": null,
     "shots_p90": null,
@@ -36,7 +36,10 @@
   },
   "style_profile": {
     "tags": [
-      "defensive midfielder, rotation/squad player for Everton"
+      "joined Valour FC from Vancouver Whitecaps FC 2 (WFC2)",
+      "signed through 2026 with a 2027 option",
+      "Canada U-20 international: scored a hat-trick on his U-20 debut vs Dominica (2024 Concacaf U-20 Championship qualifying)",
+      "4 goals in 2 matches during that qualifying window"
     ],
     "best_system": [],
     "weak_in": []
@@ -60,12 +63,11 @@
     "notes": null
   },
   "sources": [
-    "https://www.fotmob.com/players/1203512/tim-iroegbunam",
-    "https://global.espn.com/football/player/_/id/310599/tim-iroegbunam"
+    "https://www.canpl.ca/article/valour-fc-sign-canadian-u-21-forward-myles-morgan"
   ],
   "as_of": "2026-09-27",
   "data_quality": {
     "confidence": "low",
-    "notes": "2025/26 Premier League stats (938 min, 0 goals, 2 assists) from FotMob snippet; age (22) also from FotMob. DOB, contract-until, apps/starts breakdown, market value, height and foot not found -> null. Limited public profile beyond basic stats at time of research."
+    "notes": "Club move (WFC2 to Valour FC), contract terms, and U-20 hat-trick debut from a single CanPL.ca article snippet; DOB, CPL first-team stats and market value not corroborated elsewhere within the search budget -> null. Age (19-21 band) approximate based on the 'U-21' signing description."
   }
 }

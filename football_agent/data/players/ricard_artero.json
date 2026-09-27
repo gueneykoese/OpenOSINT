@@ -1,16 +1,16 @@
 {
-  "player_id": "arnau_martinez",
-  "name": "Arnau Martínez",
+  "player_id": "ricard_artero",
+  "name": "Ricard Artero",
   "age": 23,
-  "date_of_birth": "2003-04-25",
+  "date_of_birth": "2003-02-05",
   "nationality": ["ESP"],
-  "position": "RB",
+  "position": "CM",
   "secondary_positions": [],
   "preferred_foot": null,
-  "height_cm": null,
+  "height_cm": 181,
   "current_club": "Girona FC",
   "current_club_league": "La Liga",
-  "contract_until": null,
+  "contract_until": 2026,
   "market_value_eur_m": null,
   "estimated_fee_eur_m": null,
   "wage_eur_m_net": null,
@@ -18,12 +18,12 @@
   "agent_status": "represented",
   "availability": "open to move",
   "stats_2025_26": {
-    "competition": "La Liga",
+    "competition": "La Liga (career total: 18 senior apps; 35 apps for Girona B)",
     "apps": null,
     "starts": null,
-    "minutes": 2678,
-    "goals": 2,
-    "assists": 3,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
     "xg": null,
     "xa": null,
     "shots_p90": null,
@@ -36,8 +36,9 @@
   },
   "style_profile": {
     "tags": [
-      "right-back, key first-team starter for Girona (2678 minutes in 2025/26, near ever-present)",
-      "high-volume attacking output for a full-back (2 goals, 3 assists)"
+      "midfielder, Girona academy graduate",
+      "signed first professional contract in July 2021 (through 2026) after finishing formation",
+      "has featured for both Girona's senior side and Girona B"
     ],
     "best_system": [],
     "weak_in": []
@@ -61,13 +62,13 @@
     "notes": null
   },
   "sources": [
-    "https://www.fotmob.com/en-GB/players/1194892/arnau-martinez",
-    "https://www.laliga.com/en-GB/player/arnau-1",
-    "https://www.playmakerstats.com/player/arnau-martinez/829462"
+    "https://en.wikipedia.org/wiki/Ricard_Artero",
+    "https://www.sofascore.com/player/ricard-artero/1134432",
+    "https://www.besoccer.com/player/artero-993251"
   ],
   "as_of": "2026-09-27",
   "data_quality": {
-    "confidence": "medium",
-    "notes": "DOB and 2025/26 La Liga stats (2678 min, 2 goals, 3 assists) from FotMob/LaLiga.com snippets. Apps/starts breakdown, contract-until, market value, height and foot not found -> null."
+    "confidence": "low",
+    "notes": "DOB, height, contract-until-2026, and career totals (18 senior apps, 35 Girona B apps) from Wikipedia/Sofascore/BeSoccer snippets. 2025/26-specific season stats not isolated from career totals in the snippets available -> left null. Market value, wage, foot not found."
   }
 }

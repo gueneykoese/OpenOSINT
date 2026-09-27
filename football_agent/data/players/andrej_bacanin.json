@@ -1,15 +1,15 @@
 {
-  "player_id": "tim_iroegbunam",
-  "name": "Tim Iroegbunam",
-  "age": 22,
-  "date_of_birth": null,
-  "nationality": ["ENG"],
+  "player_id": "andrej_bacanin",
+  "name": "Andrej Bačanin",
+  "age": 19,
+  "date_of_birth": "2007-03-07",
+  "nationality": ["SRB"],
   "position": "DM",
   "secondary_positions": ["CM"],
   "preferred_foot": null,
-  "height_cm": null,
-  "current_club": "Everton",
-  "current_club_league": "Premier League",
+  "height_cm": 187,
+  "current_club": "FC Basel",
+  "current_club_league": "Swiss Super League",
   "contract_until": null,
   "market_value_eur_m": null,
   "estimated_fee_eur_m": null,
@@ -18,12 +18,12 @@
   "agent_status": "represented",
   "availability": "open to move",
   "stats_2025_26": {
-    "competition": "Premier League",
+    "competition": "Swiss Super League",
     "apps": null,
     "starts": null,
-    "minutes": 938,
+    "minutes": 660,
     "goals": 0,
-    "assists": 2,
+    "assists": 1,
     "xg": null,
     "xa": null,
     "shots_p90": null,
@@ -36,7 +36,8 @@
   },
   "style_profile": {
     "tags": [
-      "defensive midfielder, rotation/squad player for Everton"
+      "tall (187cm) young defensive midfielder",
+      "born in Belgrade, Serbia; broke into FC Basel first team as a teenager"
     ],
     "best_system": [],
     "weak_in": []
@@ -50,7 +51,7 @@
   },
   "injury_history": [],
   "off_pitch": {
-    "languages": ["en"],
+    "languages": ["sr"],
     "family_situation": null,
     "public_statements": [],
     "commercial_profile": null,
@@ -60,12 +61,13 @@
     "notes": null
   },
   "sources": [
-    "https://www.fotmob.com/players/1203512/tim-iroegbunam",
-    "https://global.espn.com/football/player/_/id/310599/tim-iroegbunam"
+    "https://www.sofascore.com/football/player/andrej-bacanin/1584962",
+    "https://www.fotmob.com/players/1760251/andrej-bacanin",
+    "https://www.soccerbase.com/players/player.sd?player_id=197699"
   ],
   "as_of": "2026-09-27",
   "data_quality": {
     "confidence": "low",
-    "notes": "2025/26 Premier League stats (938 min, 0 goals, 2 assists) from FotMob snippet; age (22) also from FotMob. DOB, contract-until, apps/starts breakdown, market value, height and foot not found -> null. Limited public profile beyond basic stats at time of research."
+    "notes": "DOB, nationality (born Belgrade) and height from Sofascore/FotMob snippets via WebSearch. 2025/26 Super League stats (0 goals, 1 assist, 660 minutes) from FotMob-derived snippet; apps not given -> null. Preferred foot, contract, market value, fee and wage not found -> null. Very young (19) squad player, still establishing himself; treat confidence as low given thin statistical record."
   }
 }

@@ -1,0 +1,76 @@
+{
+  "player_id": "callum_marshall",
+  "name": "Callum Marshall",
+  "age": 21,
+  "date_of_birth": null,
+  "nationality": ["NIR"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "West Ham United",
+  "current_club_league": "Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "2. Bundesliga (on loan at VfL Bochum)",
+    "apps": 14,
+    "starts": null,
+    "minutes": null,
+    "goals": 2,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "West Ham academy striker frozen out under head coach Nuno Espírito Santo",
+      "loaned to VfL Bochum (2. Bundesliga) for 2025/26 after limited West Ham minutes (2 apps, 0 goals)",
+      "scored 9 goals on loan at Huddersfield Town (League One) in 2024/25",
+      "won 30% of duels at Bochum per reported stats"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Publicly reported as frozen out by head coach Nuno Espírito Santo before his loan exit to Bochum (LondonWorld, Claret & Hugh)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": "unsettled",
+    "happiness_notes": "Reported by LondonWorld/Claret & Hugh to have been frozen out of the West Ham first team by Nuno Espírito Santo prior to a January loan exit to Bochum, and to have returned to West Ham for a squad 'audit' in mid-2026.",
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Callum_Marshall",
+    "https://www.londonworld.com/sport/football/west-ham/west-ham-callum-marshall-loan-exit-5466404",
+    "https://www.claretandhugh.info/west-ham-striker-nearing-exit-as-germany-loan-verdict-emerges/",
+    "https://readwestham.com/2026/06/30/callum-marshall-west-ham-nuno-striker-audit/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "DOB and precise age not confirmed in search snippets (assumed early-20s Northern Ireland U21 international based on career stage); age set to 21 as a reported approximation and should be re-verified. Contract-until, market value, fee, height and preferred foot not found -> null. 2025/26 stats reflect his loan spell at Bochum (2. Bundesliga), not West Ham first-team football; his 2 West Ham PL apps in 2025/26 (0 goals) are separate and not folded into stats_2025_26 to avoid mixing competitions."
+  }
+}

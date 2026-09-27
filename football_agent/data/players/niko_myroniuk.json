@@ -1,0 +1,76 @@
+{
+  "player_id": "niko_myroniuk",
+  "name": "Niko Myroniuk",
+  "age": 21,
+  "date_of_birth": "2005-07-21",
+  "nationality": ["CAN"],
+  "position": "CM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Cavalry FC",
+  "current_club_league": "Canadian Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Canadian Premier League",
+    "apps": 16,
+    "starts": null,
+    "minutes": null,
+    "goals": 2,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Calgary-born local product, signed with Cavalry FC out of Mount Royal University in April 2024",
+      "entering his fourth season in the Cavalry organization heading into 2026",
+      "scored his first two professional goals in 2025 (16 apps in all competitions)",
+      "positioned for a bigger role in 2026 with veteran midfielders Shamit Shome and Diego Gutierrez departing"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "Born and raised in Calgary, Alberta; came through the Mount Royal University Cougars program rather than a traditional pro academy."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Niko_Myroniuk",
+    "https://www.fotmob.com/players/1710547/niko-myroniuk",
+    "https://mrucougars.com/news/2024/4/22/general-myroniuk-and-rogozinski-sign-with-cavalry-fc.aspx",
+    "https://www.cplsoccer.com/news/eight-u-21-canadians-to-watch-during-the-2026-cpl-season"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "DOB, background, and 2025 season stats (16 apps, 2 goals) from Wikipedia/Fotmob/CPL.soccer snippets. 2026 season stats, market value not found -> null. Named among CPL's 'top U-21s to watch for 2026' by CPLsoccer.com."
+  }
+}

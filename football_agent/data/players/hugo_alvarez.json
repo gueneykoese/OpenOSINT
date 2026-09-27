@@ -1,0 +1,76 @@
+{
+  "player_id": "hugo_alvarez",
+  "name": "Hugo Álvarez",
+  "age": 23,
+  "date_of_birth": "2003-07-02",
+  "nationality": ["ESP"],
+  "position": "LW",
+  "secondary_positions": ["AM"],
+  "preferred_foot": "right",
+  "height_cm": 185,
+  "current_club": "Celta de Vigo",
+  "current_club_league": "La Liga",
+  "contract_until": null,
+  "market_value_eur_m": 7.8,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "La Liga",
+    "apps": 28,
+    "starts": 15,
+    "minutes": 1337,
+    "goals": 4,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left winger, right-footed (inverted)",
+      "Celta academy graduate, professional debut Oct 2021",
+      "Europa League 2025/26: 6 apps, 231 min, 1 assist",
+      "Celta among LaLiga's leaders in academy-graduate first-team minutes"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Hugo_%C3%81lvarez_(footballer,_born_2003)",
+    "https://www.fotmob.com/players/1308414/hugo-alvarez",
+    "https://fbref.com/en/players/6f392eb8/Hugo-Alvarez",
+    "https://www.uefa.com/uefaeuropaleague/clubs/players/250153794--hugo-alvarez/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, foot, market value and 2025/26 La Liga stats (28 apps/15 starts/1337 min/4 goals/2 assists) from FotMob snippet; Europa League figures from UEFA.com. Contract-until, wage, and advanced per-90 metrics not found in search snippets -> null."
+  }
+}

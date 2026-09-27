@@ -1,14 +1,14 @@
 {
-  "player_id": "arnau_martinez",
-  "name": "Arnau Martínez",
-  "age": 23,
-  "date_of_birth": "2003-04-25",
+  "player_id": "manu_bueno",
+  "name": "Manu Bueno",
+  "age": 21,
+  "date_of_birth": "2004-07-27",
   "nationality": ["ESP"],
-  "position": "RB",
+  "position": "CM",
   "secondary_positions": [],
-  "preferred_foot": null,
-  "height_cm": null,
-  "current_club": "Girona FC",
+  "preferred_foot": "left",
+  "height_cm": 178,
+  "current_club": "Sevilla FC",
   "current_club_league": "La Liga",
   "contract_until": null,
   "market_value_eur_m": null,
@@ -21,9 +21,9 @@
     "competition": "La Liga",
     "apps": null,
     "starts": null,
-    "minutes": 2678,
-    "goals": 2,
-    "assists": 3,
+    "minutes": 78,
+    "goals": 0,
+    "assists": 0,
     "xg": null,
     "xa": null,
     "shots_p90": null,
@@ -36,8 +36,9 @@
   },
   "style_profile": {
     "tags": [
-      "right-back, key first-team starter for Girona (2678 minutes in 2025/26, near ever-present)",
-      "high-volume attacking output for a full-back (2 goals, 3 assists)"
+      "Sevilla academy graduate, left-footed central midfielder",
+      "cited by the club as a symbol of its 'betting on homegrown talent' policy",
+      "won UEFA Europa League 2022/23 and UEFA/CONMEBOL Club Challenge 2023 with Sevilla"
     ],
     "best_system": [],
     "weak_in": []
@@ -51,7 +52,7 @@
   },
   "injury_history": [],
   "off_pitch": {
-    "languages": ["es", "ca"],
+    "languages": ["es"],
     "family_situation": null,
     "public_statements": [],
     "commercial_profile": null,
@@ -61,13 +62,14 @@
     "notes": null
   },
   "sources": [
-    "https://www.fotmob.com/en-GB/players/1194892/arnau-martinez",
-    "https://www.laliga.com/en-GB/player/arnau-1",
-    "https://www.playmakerstats.com/player/arnau-martinez/829462"
+    "https://www.sofascore.com/football/player/bueno-manu/1142094",
+    "https://www.espn.com/soccer/player/_/id/356228/manu-bueno",
+    "https://www.fotmob.com/players/1428849/manu-bueno",
+    "https://www.comuniate.com/en/noticias/36979/sevilla-fc-fantasy-guide-202627-squad-likely-starting-xi-and-recommended-players"
   ],
   "as_of": "2026-09-27",
   "data_quality": {
-    "confidence": "medium",
-    "notes": "DOB and 2025/26 La Liga stats (2678 min, 2 goals, 3 assists) from FotMob/LaLiga.com snippets. Apps/starts breakdown, contract-until, market value, height and foot not found -> null."
+    "confidence": "low",
+    "notes": "DOB, height, foot, and 2025/26 La Liga minutes (78, 0G/0A) from FotMob/Sofascore snippets. Career total cited as 15 appearances across 3 seasons at Sevilla with 1 goal, but per-season breakdown unclear -> apps/starts left null for 2025/26 specifically. Contract-until, market value not found."
   }
 }

@@ -1,0 +1,76 @@
+{
+  "player_id": "yaser_asprilla",
+  "name": "Yáser Asprilla",
+  "age": 22,
+  "date_of_birth": "2003-11-19",
+  "nationality": ["COL"],
+  "position": "RW",
+  "secondary_positions": ["AM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Girona FC",
+  "current_club_league": "La Liga",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "La Liga",
+    "apps": 15,
+    "starts": 6,
+    "minutes": 605,
+    "goals": 0,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "ball-carrying, line-breaking right winger",
+      "signed by Girona from Watford in August 2024",
+      "spent Jan-July 2026 on loan at Galatasaray (7 apps)",
+      "returned to Girona July 2026"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "Loan move to Galatasaray in Jan 2026 and return to Girona in July 2026 suggests a squad-rotation/fringe role at Girona rather than a clear preference to leave; no direct public statement found."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Y%C3%A1ser_Asprilla",
+    "https://fbref.com/en/players/d139daf9/Yaser-Asprilla",
+    "https://understat.com/player/13005",
+    "https://www.sofascore.com/news/la-liga-next-gen-5-young-talents-poised-for-a-breakout-season"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, contract-until-2030, and 2025/26 La Liga app count (15 apps, 6 starts, 605 min, 0 goals) plus the Galatasaray loan (7 apps) sourced from WebSearch snippets of Wikipedia/FBref/Understat/Sofascore. Assists, xG, market value and physical data not found in snippets -> null."
+  }
+}

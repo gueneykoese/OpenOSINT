@@ -1,0 +1,79 @@
+{
+  "player_id": "cesar_huerta",
+  "name": "César Huerta",
+  "age": 25,
+  "date_of_birth": "2000-12-03",
+  "nationality": ["MEX"],
+  "position": "LW",
+  "secondary_positions": ["RW", "AM"],
+  "preferred_foot": "right",
+  "height_cm": 171,
+  "current_club": "Pumas UNAM",
+  "current_club_league": "Liga MX",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga MX",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed-style left winger who plays right-footed (right-footed, left winger)",
+      "previously spent a loan/spell at RSC Anderlecht (Belgian Pro League, Jan 2025-Jun 2026)",
+      "returned to Pumas UNAM in 2026",
+      "career Pumas totals (pre-Anderlecht): 100 apps, 20 goals, 15 assists",
+      "8 goals in 15 Liga MX matches in Apertura 2023 (7th top scorer)",
+      "Mexico senior international: 27 caps, 3 goals since 2023; Gold Cup and Nations League winner",
+      "reported earlier transfer interest from a Serie A club (Lazio) prior to the Anderlecht move"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es", "fr", "en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "Product of the Guadalajara (Chivas) academy before moving to Pumas UNAM. Already has a full European stint (Anderlecht) on his CV, making him a proven transfer risk profile for a return to Europe."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/C%C3%A9sar_Huerta",
+    "https://www.fotmob.com/players/977404/cesar-huerta",
+    "https://fbref.com/en/players/de2f44ce/Cesar-Huerta",
+    "https://www.espn.com/soccer/player/_/id/265969/cesar-huerta"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, career totals, and Anderlecht spell (Jan 2025-Jun 2026) confirmed via Wikipedia/Fotmob/ESPN snippets. 2025/26 Liga MX stats since returning to Pumas not found via WebSearch (post-return sample likely small) -> null. A search-engine-synthesized note mentioned earlier Lazio interest which pre-dates the confirmed Anderlecht move; kept as a style_profile tag rather than a hard fact given ambiguity between the two reported suitors."
+  }
+}

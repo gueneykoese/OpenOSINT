@@ -1,0 +1,75 @@
+{
+  "player_id": "leandro_godoy",
+  "name": "Leandro Godoy",
+  "age": 25,
+  "date_of_birth": "2001-02-04",
+  "nationality": ["ARG"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 185,
+  "current_club": "CSKA Sofia",
+  "current_club_league": "Bulgarian First League",
+  "contract_until": null,
+  "market_value_eur_m": 2.2,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Bulgarian First Professional League",
+    "apps": null,
+    "starts": null,
+    "minutes": 1772,
+    "goals": 12,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Argentine mobile striker",
+      "CSKA Sofia's leading scorer 2025/26 (12 goals)",
+      "signed from Beroe Stara Zagora for EUR 1.8m in 2025",
+      "early 2026/27 form: 3 goals in 202 minutes"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1188769/santiago-godoy",
+    "https://www.sofascore.com/football/player/santiago-godoy/1065972",
+    "https://www.footballtransfers.com/en/players/santiago-godoy"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, nationality, height, preferred foot, transfer history (from Beroe Stara Zagora, EUR 1.8m, 2025) and market value range (EUR 1.8m-2.7m, higher figure recorded) from FotMob/FootballTransfers snippets via WebSearch. 2025/26 stats (12 goals, 1 assist, 1772 minutes, 4 yellows) and early 2026/27 form (3 goals, 202 minutes) from FotMob-derived snippet; apps not given -> null. Contract expiry, fee estimate and wage not found -> null. Full name on some sources given as 'Santiago Godoy' -- recorded common playing name 'Leandro Godoy' as used across most snippets."
+  }
+}

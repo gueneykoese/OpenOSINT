@@ -1,0 +1,75 @@
+{
+  "player_id": "gabriel_sibaja",
+  "name": "Gabriel Sibaja",
+  "age": 17,
+  "date_of_birth": "2008-11-19",
+  "nationality": ["CRC"],
+  "position": "CM",
+  "secondary_positions": ["DM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Club Sport Herediano",
+  "current_club_league": "Costa Rica Primera Division (FPD)",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Costa Rica Primera Division (FPD)",
+    "apps": 5,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "moved from Saprissa's U20 setup to Herediano as a free agent, 1 Jan 2026",
+      "Costa Rica U20: 3 goals in 3 apps (142 minutes)",
+      "Costa Rica U17: 3 goals in the 2025 U17 World Cup cycle",
+      "central/defensive midfielder ('volante')"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://x.com/csherediano1921/status/2011602788703445322",
+    "https://www.flashscore.com/player/sibaja-gabriel/dlXZfkBs/",
+    "https://www.sofascore.com/football/team/costa-rica-u20/7547"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "DOB and transfer history from Herediano's own X/Twitter announcement (primary club source) plus Flashscore/Sofascore for U20/first-team stats. Very early-career sample (5 first-team apps, no goals/assists data found for the senior level) -> null where not found. Strong underage international scoring record (3 goals in 3 U20 games; 3 goals at U17 World Cup level) is the basis for inclusion despite limited senior-level data."
+  }
+}

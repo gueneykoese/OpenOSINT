@@ -1,0 +1,75 @@
+{
+  "player_id": "sergi_solans",
+  "name": "Sergi Solans",
+  "age": 23,
+  "date_of_birth": "2003-02-26",
+  "nationality": ["ESP"],
+  "position": "ST",
+  "secondary_positions": ["AM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Real Salt Lake",
+  "current_club_league": "MLS",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "MLS",
+    "apps": null,
+    "starts": null,
+    "minutes": 341,
+    "goals": 3,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Spanish forward signed by Real Salt Lake ahead of the 2026 season",
+      "contract through 2029-30 with a 2030-31 club option",
+      "3 goals in 341 minutes in 2026 -- productive early rate",
+      "named alongside Diego Luna to an MLS Team of the Matchday Best XI (Matchday 8)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es", "en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sergi_Solans",
+    "https://www.fotmob.com/players/1907793/sergi-solans",
+    "https://www.rsl.com/news/red-hot-real-salt-lake-duo-diego-luna-sergi-solans-recognized-with-mls-matchday-8-team-of-the-matchday-best-xi-selections"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, nationality, contract length, and 2026 stats (3 goals in 341 minutes) from Wikipedia/Fotmob/RSL.com snippets. Full-season apps and market value not found -> null. Useful as a fresh RSL signing given Diego Luna's 2026 season-ending knee injury reduces RSL's current attacking options."
+  }
+}

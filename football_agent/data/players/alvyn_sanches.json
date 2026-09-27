@@ -1,0 +1,77 @@
+{
+  "player_id": "alvyn_sanches",
+  "name": "Alvyn Sanches",
+  "age": 23,
+  "date_of_birth": "2003-02-12",
+  "nationality": ["SUI", "POR"],
+  "position": "AM",
+  "secondary_positions": ["LW", "RW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "BSC Young Boys",
+  "current_club_league": "Swiss Super League",
+  "contract_until": null,
+  "market_value_eur_m": 9,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Swiss Super League",
+    "apps": null,
+    "starts": null,
+    "minutes": 1397,
+    "goals": 9,
+    "assists": 5,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "attacking midfielder",
+      "born in Creteil, France; Swiss and Portuguese nationality",
+      "joined Young Boys from Lausanne-Sport for EUR 3m in September 2025",
+      "9 goals, 5 assists in 1,397 minutes in 2025/26 Super League (as of search date)",
+      "reportedly tracked by AC Milan"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.goal.com/en/lists/who-is-alvyn-sanches-the-young-attacking-midfielder-from-young-boys-being-tracked-by-ac-milan/bltf6c0788674caad96",
+    "https://www.livescore.com/en/season-stats/alvyn-antonio-sanches/12470/",
+    "https://www.whoscored.com/players/499985/show/alvyn-sanches",
+    "https://www.fotmob.com/players/1203528/alvyn-sanches"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, dual Swiss/Portuguese nationality, transfer fee (EUR 3m from Lausanne-Sport, Sep 2025) and market value (EUR 9m) from Goal.com/LiveScore/WhoScored snippets via WebSearch (no direct site fetch possible in this sandbox). 2025/26 stats (9 goals, 5 assists, 1397 minutes) per LiveScore snippet, exact match/apps count not given -> null. Height, preferred foot, contract expiry, wage and fee estimate not found in available snippets -> null. AC Milan scouting interest reported by Goal.com (specific date not visible in snippet)."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "player_id": "kenneth_vargas",
+  "name": "Kenneth Vargas",
+  "age": 24,
+  "date_of_birth": "2002-04-17",
+  "nationality": ["CRC"],
+  "position": "RW",
+  "secondary_positions": ["ST"],
+  "preferred_foot": "right",
+  "height_cm": 178,
+  "current_club": "LD Alajuelense",
+  "current_club_league": "Costa Rica Primera Division (FPD)",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Costa Rica Primera Division (FPD)",
+    "apps": 18,
+    "starts": null,
+    "minutes": null,
+    "goals": 4,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "right-footed right winger",
+      "career totals: 58 apps, 9 goals, 5 assists at senior level",
+      "prior spells at Club Sport Herediano and AD Municipal Grecia FC",
+      "reported earlier interest/trial connection with Hearts (Scotland)",
+      "Costa Rica senior international, has featured in North & Central America World Cup qualifiers"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "Born in San Jose, Costa Rica."
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1237185/kenneth-vargas",
+    "https://www.soccerzz.com/player/kenneth-vargas/894542",
+    "https://footystats.org/players/costa-rica/kenneth-vargas"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, and stats from Fotmob/Soccerzz/FootyStats snippets. The Hearts (Scotland) reference in his career history is ambiguous in the source (could denote a trial/loan/rumor rather than a permanent transfer) so it is kept as a soft tag, not a hard fact. Market value, wages, and 2025/26 minutes not found -> null."
+  }
+}

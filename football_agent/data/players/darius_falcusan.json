@@ -1,0 +1,75 @@
+{
+  "player_id": "darius_falcusan",
+  "name": "Darius Fălcușan",
+  "age": 19,
+  "date_of_birth": "2006-02-14",
+  "nationality": ["ROU"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Universitatea Craiova",
+  "current_club_league": "Romanian Liga I",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga I (Superliga)",
+    "apps": null,
+    "starts": null,
+    "minutes": 22,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "young right-footed centre-back",
+      "Romania U19 and U17 international",
+      "prior spells at Empoli (Italy) and Universitatea Cluj before Craiova",
+      "playing UEFA Champions League 2026/27 squad list for Universitatea Craiova (fringe role)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ro"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1705018/darius-falcusan",
+    "https://www.sofascore.com/football/player/darius-falcusan/2638541",
+    "https://www.soccerbase.com/players/player.sd?player_id=167223"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "DOB, preferred foot, Romania U19/U17 caps and career history (Empoli, Universitatea Cluj) from FotMob/Soccerbase snippets via WebSearch. 2025/26 stats are minimal (0 goals, 0 assists, only 22 minutes) reflecting fringe/bench status this season -- included as a prospect to monitor rather than a current first-team fixture. A separately reported claim that he captained a Romania U19 side could not be independently confirmed in available snippets, so it is omitted rather than asserted. Height, contract, market value, fee and wage not found -> null."
+  }
+}

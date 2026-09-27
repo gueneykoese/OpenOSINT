@@ -1,0 +1,75 @@
+{
+  "player_id": "daniel_arcila",
+  "name": "Daniel Arcila",
+  "age": 24,
+  "date_of_birth": "2002-03-16",
+  "nationality": ["COL"],
+  "position": "AM",
+  "secondary_positions": ["ST"],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Club León",
+  "current_club_league": "Liga MX",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga MX",
+    "apps": 14,
+    "starts": null,
+    "minutes": null,
+    "goals": 3,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Colombian left-footed attacking midfielder, signed by Leon 4 Aug 2025",
+      "hot scoring streak in Aug 2026: 7 goals in a 6-match run, including a brace in a 3-2 win over Inter Miami (12 Aug 2026)",
+      "team top scorer of the 2026/27 Apertura per a squad-stats aggregator"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Daniel_Arcila",
+    "https://www.sofascore.com/football/player/daniel-arcila/1113526",
+    "https://fbref.com/en/players/d6dfc13f/Daniel-Arcila",
+    "https://www.espn.com/soccer/player/_/id/317509/daniel-arcila"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, nationality, Leon signing date, Clausura 2026 stats (14 apps, 3 goals) and the Aug 2026 scoring streak (7 goals in 6 games incl. brace vs Inter Miami) confirmed via Wikipedia/Sofascore/FBref/ESPN snippets. Market value and full-season 2026/27 Apertura totals not fully retrieved -> apps/goals shown are Clausura 2026 only; assists, minutes null."
+  }
+}

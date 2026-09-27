@@ -1,0 +1,76 @@
+{
+  "player_id": "theo_corbeanu",
+  "name": "Theo Corbeanu",
+  "age": 24,
+  "date_of_birth": "2002-05-17",
+  "nationality": ["CAN"],
+  "position": "RW",
+  "secondary_positions": ["LW"],
+  "preferred_foot": "left",
+  "height_cm": 190,
+  "current_club": "Toronto FC",
+  "current_club_league": "MLS",
+  "contract_until": null,
+  "market_value_eur_m": 1.2,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "MLS",
+    "apps": null,
+    "starts": null,
+    "minutes": 555,
+    "goals": 1,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed player deployed as a right winger",
+      "prior European academy experience (Wolverhampton Wanderers academy background)",
+      "2025 MLS season: 6 goals, 2 assists in 2,305 minutes",
+      "2026 season output down (1g/2a in 555 minutes) - reduced role or injury-affected campaign",
+      "Canada youth/senior international pool"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1113737/theodor-corbeanu",
+    "https://fbref.com/en/players/25b82f9a/Theo-Corbeanu",
+    "https://www.mlssoccer.com/players/theo-corbeanu/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, foot, market value (EUR1.2m) and 2025/2026 stats comparison from Fotmob/FBref snippets. Prior Wolves academy history is background knowledge, not independently re-verified this session; flagged as lower-confidence context. Contract length and wages not found -> null."
+  }
+}

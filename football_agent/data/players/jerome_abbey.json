@@ -1,0 +1,76 @@
+{
+  "player_id": "jerome_abbey",
+  "name": "Jerome Abbey",
+  "age": 16,
+  "date_of_birth": "2009-09-16",
+  "nationality": ["ENG"],
+  "position": "DM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Wolverhampton Wanderers",
+  "current_club_league": "Premier League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Wolves' youngest ever Premier League debutant (16y 8m 8d) vs Burnley, 24 May 2026",
+      "second-youngest player in club history after Jimmy Mullen (1939)",
+      "joined Wolves academy at age 6, schoolboy terms at 9",
+      "signed first professional contract Sept 2026"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Jerome_Abbey",
+    "https://www.wolves.co.uk/news/academy/20260922-abbey-signs-first-professional-contract/",
+    "https://www.expressandstar.com/sport/football/wolverhampton-wanderers/wolves-record-breaker-signs-first-professional-contract-9143432",
+    "https://www.shropshirestar.com/sport/football/wolverhampton-wanderers/englands-first-sub-and-a-prisoner-of-war-the-16-year-olds-to-play-for-wolves-8645942"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "Well below the typical 18-25 agency-target band (age 16) but included as a verified, notable real story (club's youngest-ever PL debutant, first pro contract signed Sept 2026). Only one senior appearance (as a substitute) is publicly confirmed; full-season stats, contract length, market value and physical data not available -> null. Realistically pre-agency-representation stage; flagged as a long-term watch, not an active transfer target."
+  }
+}

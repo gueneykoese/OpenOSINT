@@ -1,0 +1,74 @@
+{
+  "player_id": "djordje_ivanovic",
+  "name": "Đorđe Ivanović",
+  "age": 30,
+  "date_of_birth": "1995-11-20",
+  "nationality": ["SRB"],
+  "position": "LW",
+  "secondary_positions": ["ST"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "AEK Larnaca",
+  "current_club_league": "Cypriot First Division",
+  "contract_until": 2027,
+  "market_value_eur_m": 0.964,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Cypriot First Division",
+    "apps": 29,
+    "starts": null,
+    "minutes": 1786,
+    "goals": 8,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Serbian left winger / wide forward",
+      "one of AEK Larnaca's leading scorers in 2025/26 (8 goals in 29 apps)",
+      "playing UEFA Europa League / Conference League 2026/27 with AEK Larnaca"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["sr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://us.soccerway.com/player/ivanovic-djordje/SfLswD28/",
+    "https://www.footballtransfers.com/en/players/djordje-ivanovic",
+    "https://www.premierleague.com/en/players/205572/djordje-ivanovic/overview"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, nationality, contract expiry (31 May 2027) and market value (EUR 964k) from Soccerbase/FootballTransfers snippets via WebSearch. 2025/26 stats (29 apps, 8 goals, 0 assists, 1786 minutes, 2 yellows) from Soccerway-derived snippet. Position listed inconsistently across sources (forward / wide playmaker / left winger) -> recorded as LW/ST. Confirmed in AEK Larnaca's UEFA European squad per an earlier club-level search. Height, preferred foot, fee and wage not found -> null. Age 30 is above the pilot's 18-27 target band but included as a key attacking contributor."
+  }
+}

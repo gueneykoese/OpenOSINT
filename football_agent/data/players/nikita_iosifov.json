@@ -1,0 +1,76 @@
+{
+  "player_id": "nikita_iosifov",
+  "name": "Nikita Iosifov",
+  "age": 25,
+  "date_of_birth": "2001-01-04",
+  "nationality": ["RUS"],
+  "position": "ST",
+  "secondary_positions": ["LW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "NK Celje",
+  "current_club_league": "Slovenian PrvaLiga",
+  "contract_until": 2026,
+  "market_value_eur_m": 1.2,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Slovenian PrvaLiga",
+    "apps": 25,
+    "starts": null,
+    "minutes": null,
+    "goals": 7,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Russian forward",
+      "won the 2025/26 PrvaLiga title and 2024/25 Slovenia Cup with NK Celje",
+      "previously won the Russian Cup with Lokomotiv Moscow (2020/21)",
+      "2 goals in 12 European appearances (Conference League/Europa League combined)",
+      "now competing in UEFA Champions League 2026/27 with Celje as reigning Slovenian champions"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ru"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1103823/nikita-iosifov",
+    "https://www.premierleague.com/en/players/465168/nikita-iosifov/overview",
+    "https://www.espn.com/soccer/player/_/id/304369/nikita-iosifov"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, nationality, contract expiry (30 June 2026) and market value (conflicting snippets of EUR 772k vs EUR 1.2m -- higher figure recorded) from FotMob/Soccerbase-derived snippets via WebSearch. 2025/26 domestic stats (25 apps, 7 goals) and European stats (2 goals in 12 apps, Conference/Europa League combined) from a Premier League-profile-derived snippet. Confirmed NK Celje won the 2025/26 PrvaLiga title and are now in UEFA Champions League 2026/27. Height, preferred foot, fee and wage not found -> null. Contract expiring June 2026 makes him a near-term free agent -- flagged as 'contract running down'."
+  }
+}

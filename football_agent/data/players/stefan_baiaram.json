@@ -1,0 +1,75 @@
+{
+  "player_id": "stefan_baiaram",
+  "name": "Ștefan Baiaram",
+  "age": 23,
+  "date_of_birth": "2002-12-31",
+  "nationality": ["ROU"],
+  "position": "AM",
+  "secondary_positions": ["ST"],
+  "preferred_foot": "right",
+  "height_cm": null,
+  "current_club": "Universitatea Craiova",
+  "current_club_league": "Romanian Liga I",
+  "contract_until": null,
+  "market_value_eur_m": 5,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga I (Superliga)",
+    "apps": null,
+    "starts": null,
+    "minutes": 1228,
+    "goals": 7,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "attacking midfielder/second striker",
+      "Romania senior international (appeared vs Wales, 6 June 2026)",
+      "playing UEFA Champions League 2026/27 with Universitatea Craiova"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ro"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.sofascore.com/football/player/stefan-baiaram/988473",
+    "https://www.whoscored.com/players/477065/show/stefan-baiaram",
+    "https://www.uefa.com/uefachampionsleague/clubs/players/250128959--stefan-baiaram/",
+    "https://www.premierleague.com/en/players/487218/stefan-baiaram/overview"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB and preferred foot from Sofascore/WhoScored snippets via WebSearch; market value (EUR 5m) from an AiScore squad-value snippet found in an earlier Craiova search. Position listed inconsistently across sources (midfielder vs forward) -> recorded as AM/ST. 2025/26 Superliga stats (7 goals, 4 assists, 1228 minutes, 2 yellows) from FotMob-derived snippet; apps not given -> null. Romania senior cap confirmed (46 minutes vs Wales, 6 June 2026, per WhoScored-derived snippet). Confirmed in UEFA Champions League 2026/27 squad list. Contract expiry, fee and wage not found -> null."
+  }
+}

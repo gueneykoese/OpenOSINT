@@ -1,0 +1,76 @@
+{
+  "player_id": "asier_osambela",
+  "name": "Asier Osambela",
+  "age": 21,
+  "date_of_birth": "2004-10-30",
+  "nationality": ["ESP"],
+  "position": "CM",
+  "secondary_positions": ["DM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "CA Osasuna",
+  "current_club_league": "La Liga",
+  "contract_until": 2026,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": 6,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "La Liga",
+    "apps": 18,
+    "starts": null,
+    "minutes": null,
+    "goals": 1,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Osasuna academy graduate, joined age 10",
+      "played every academy level up to Osasuna Promesas/B",
+      "18 La Liga apps, 1 goal for the senior team since 2024",
+      "107 apps for Osasuna B (Primera Federación) prior to first-team promotion"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.osasuna.es/en/news/read/2755",
+    "https://en.wikipedia.org/wiki/Asier_Osambela",
+    "https://www.espn.com/soccer/player/_/id/381628/asier-osambela",
+    "https://www.premierleague.com/en/players/646142/asier-osambela/career"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Contract re-signed until 2026 with a club option to 2028; release clause EUR 6m as an affiliate rising to EUR 15m upon full first-team promotion (Osasuna.es official statement). 18 La Liga apps / 1 goal 'since 2024' figure from search-snippet aggregation of Wikipedia/ESPN; minutes, assists, and 2025/26-specific breakdown not clearly separable from career totals in the snippets, so left conservative/partial where unclear -> apps kept, starts/assists set null. Height, foot, market value not found."
+  }
+}

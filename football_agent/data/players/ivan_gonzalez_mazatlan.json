@@ -1,0 +1,74 @@
+{
+  "player_id": "ivan_gonzalez_mazatlan",
+  "name": "Iván González",
+  "age": 19,
+  "date_of_birth": "2006-10-06",
+  "nationality": ["MEX"],
+  "position": "RB",
+  "secondary_positions": ["RWB"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Mazatlán FC",
+  "current_club_league": "Liga MX",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga MX",
+    "apps": null,
+    "starts": null,
+    "minutes": 221,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "young right wing-back breaking into Mazatlán's first team",
+      "Mexico youth national team involvement",
+      "1 yellow card in limited 2025/26 Apertura minutes"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.sofascore.com/football/player/ivan-gonzalez/2193631",
+    "https://www.fotmob.com/players/1783542/ivan-gonzalez",
+    "https://www.espn.com/soccer/team/squad/_/id/20702/mazatlan-fc"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "DOB, position, and 2025/26 Apertura sample (221 minutes, 0g/0a, avg FotMob rating 6.28, 1 yellow) from a search-engine synthesized answer citing FotMob/ESPN squad-list snippets. National-team involvement described only generically ('plays for the Mexico national team') without confirmation of youth vs senior level; not verified further given search budget, so treated as unconfirmed and omitted from style_profile as a caps count. Still an early-career fringe squad player rather than an established starter -- included for genuine Mazatlán academy pedigree, low confidence overall."
+  }
+}

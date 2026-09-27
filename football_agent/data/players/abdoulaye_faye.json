@@ -1,0 +1,77 @@
+{
+  "player_id": "abdoulaye_faye",
+  "name": "Abdoulaye Faye",
+  "age": 21,
+  "date_of_birth": "2004-09-22",
+  "nationality": ["SEN"],
+  "position": "CB",
+  "secondary_positions": [],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "Bayer 04 Leverkusen",
+  "current_club_league": "Bundesliga",
+  "contract_until": 2031,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "Allsvenskan / Svenska Cupen (BK Häcken, prior to Leverkusen)",
+    "apps": 11,
+    "starts": null,
+    "minutes": null,
+    "goals": 2,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed central defender",
+      "described as having high game IQ, assured touch, pin-point passing",
+      "signed by Leverkusen from BK Häcken (Sweden) summer 2025 for EUR 2.7-3m",
+      "on loan at Celta Vigo (La Liga/Europa League) for 2026/27, no purchase option",
+      "22 Superettan (Swedish second tier) apps on loan at Örgryte in 2024"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr", "en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.bayer04.de/en-us/player/werkself/alumni/abdoulaye-faye",
+    "https://en.wikipedia.org/wiki/Abdoulaye_Faye_(footballer,_born_2004)",
+    "https://www.bayer04.de/en-us/news/bayer04/bayer-04-extend-abdoulaye-faye-contract-loan-move-to-celta-vigo",
+    "https://www.bundesliga.com/en/bundesliga/news/who-is-aboulaye-faye-bayer-leverkusen-senegal-defender-sweden-32940"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Currently a Leverkusen player (contract extended to 30 June 2031) but out on a season-long loan (no buy option) at Celta Vigo for 2026/27, per Bayer04.de official statement. current_club kept as Leverkusen since that is his contracted club; current_club_league reflects Leverkusen's Bundesliga registration, not the loan destination. 2025/26 stats reflect his last full season at BK Häcken/Örgryte (6 Allsvenskan + 5 Svenska Cupen apps, 2 goals) prior to the Leverkusen move, per Bundesliga.com snippet; his output at Celta Vigo in 2026/27 is not yet available. Height, market value, wage not found."
+  }
+}

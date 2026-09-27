@@ -1,0 +1,76 @@
+{
+  "player_id": "aaron_zehnter",
+  "name": "Aaron Zehnter",
+  "age": 21,
+  "date_of_birth": "2004-10-31",
+  "nationality": ["GER"],
+  "position": "LB",
+  "secondary_positions": [],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "VfL Wolfsburg",
+  "current_club_league": "Bundesliga",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": 20,
+    "starts": null,
+    "minutes": 1458,
+    "goals": 2,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-back, youth product of Würzburger FV/Würzburger Kickers",
+      "developed at FC Augsburg before joining Wolfsburg",
+      "prior loan spell at SC Paderborn (2. Bundesliga): 12 assists, 3 goals in 2024/25",
+      "immediate first-team regular at Wolfsburg in 2025/26"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["de"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1279034/aaron-zehnter",
+    "https://www.vfl-wolfsburg.de/en/newsdetails/news-detail/detail/news/vfl-sign-aaron-zehnter",
+    "https://en.wikipedia.org/wiki/Aaron_Zehnter",
+    "https://www.bundesliga.com/en/player/aaron-zehnter"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, contract-until-2030, and 2025/26 Bundesliga stats (20 apps, 1458 min, 2 goals, 0 assists) from FotMob/Bundesliga.com snippets. Paderborn loan output (12 assists, 3 goals in 2024/25 2. Bundesliga) from VfL Wolfsburg official signing announcement. Height, market value, wage not found -> null."
+  }
+}

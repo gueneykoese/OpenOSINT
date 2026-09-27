@@ -1,0 +1,76 @@
+{
+  "player_id": "ibrahim_maza",
+  "name": "Ibrahim Maza",
+  "age": 20,
+  "date_of_birth": "2005-11-24",
+  "nationality": ["ALG", "GER"],
+  "position": "AM",
+  "secondary_positions": ["CM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Bayer 04 Leverkusen",
+  "current_club_league": "Bundesliga",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 12,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": null,
+    "starts": null,
+    "minutes": 360,
+    "goals": 1,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "attacking midfielder, Leverkusen's first signing of the 2025/26 window (EUR 12m fee)",
+      "part of Erik ten Hag's youth-led rebuild at Leverkusen alongside Tillman and Quansah",
+      "shortlisted (10 players) for the Ballon d'Or Men's Young Talent of the Year",
+      "one of three nominees for Bundesliga 2025/26 Rookie of the Season"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["de", "ar"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Ibrahim_Maza",
+    "https://www.bayer04.de/en-us/player/werkself/bayer-04-leverkusen/ibrahim-maza",
+    "https://www.bundesliga.com/en/bundesliga/news/bayer-leverkusen-youth-first-signings-under-ten-hag-tillman-quansah-maza-rolfes-33066",
+    "https://www.fotmob.com/players/1457626/ibrahim-maza"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, contract-until-2030, and EUR 12m transfer fee from Wikipedia/Bayer04.de/Bundesliga.com snippets. Nationality listed as dual Algeria/Germany based on general public knowledge of the player being a German-born Algeria international; should be re-verified against a primary source. 2025/26 stats shown (360 min, 1G/1A) are explicitly labeled '2026/2027 season' in the source snippet -- entered here as his most recent available Bundesliga form since the split between 2025/26 and 2026/27 was ambiguous in the snippet; apps/starts not given -> null. Market value, wage, height, foot not found."
+  }
+}

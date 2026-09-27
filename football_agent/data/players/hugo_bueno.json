@@ -1,14 +1,14 @@
 {
-  "player_id": "tim_iroegbunam",
-  "name": "Tim Iroegbunam",
-  "age": 22,
-  "date_of_birth": null,
-  "nationality": ["ENG"],
-  "position": "DM",
-  "secondary_positions": ["CM"],
+  "player_id": "hugo_bueno",
+  "name": "Hugo Bueno",
+  "age": 23,
+  "date_of_birth": "2002-09-18",
+  "nationality": ["ESP"],
+  "position": "LB",
+  "secondary_positions": ["LWB"],
   "preferred_foot": null,
   "height_cm": null,
-  "current_club": "Everton",
+  "current_club": "Wolverhampton Wanderers",
   "current_club_league": "Premier League",
   "contract_until": null,
   "market_value_eur_m": null,
@@ -21,9 +21,9 @@
     "competition": "Premier League",
     "apps": null,
     "starts": null,
-    "minutes": 938,
-    "goals": 0,
-    "assists": 2,
+    "minutes": 1951,
+    "goals": 1,
+    "assists": 1,
     "xg": null,
     "xa": null,
     "shots_p90": null,
@@ -36,7 +36,8 @@
   },
   "style_profile": {
     "tags": [
-      "defensive midfielder, rotation/squad player for Everton"
+      "left wing-back, established regular starter for Wolves in 2025/26 (near-2000 PL minutes)",
+      "Wolves academy product"
     ],
     "best_system": [],
     "weak_in": []
@@ -50,7 +51,7 @@
   },
   "injury_history": [],
   "off_pitch": {
-    "languages": ["en"],
+    "languages": ["es", "en"],
     "family_situation": null,
     "public_statements": [],
     "commercial_profile": null,
@@ -60,12 +61,12 @@
     "notes": null
   },
   "sources": [
-    "https://www.fotmob.com/players/1203512/tim-iroegbunam",
-    "https://global.espn.com/football/player/_/id/310599/tim-iroegbunam"
+    "https://www.wolves.co.uk/teams/mens-first-team/hugo-bueno/",
+    "https://www.fotmob.com/players/1116391"
   ],
   "as_of": "2026-09-27",
   "data_quality": {
-    "confidence": "low",
-    "notes": "2025/26 Premier League stats (938 min, 0 goals, 2 assists) from FotMob snippet; age (22) also from FotMob. DOB, contract-until, apps/starts breakdown, market value, height and foot not found -> null. Limited public profile beyond basic stats at time of research."
+    "confidence": "medium",
+    "notes": "DOB and 2025/26 Premier League minutes (1951, 1 goal, 1 assist) from Wolves.co.uk/FotMob snippets. Apps/starts breakdown, contract-until, market value, height and foot not found -> null."
   }
 }

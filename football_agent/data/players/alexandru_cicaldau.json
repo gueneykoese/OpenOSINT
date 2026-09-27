@@ -1,0 +1,72 @@
+{
+  "player_id": "alexandru_cicaldau",
+  "name": "Alexandru Cicâldău",
+  "age": 28,
+  "date_of_birth": "1997-07-08",
+  "nationality": ["ROU"],
+  "position": "CM",
+  "secondary_positions": ["AM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Universitatea Craiova",
+  "current_club_league": "Romanian Liga I",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga I (Superliga)",
+    "apps": null,
+    "starts": null,
+    "minutes": 1398,
+    "goals": 2,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "central midfielder / creative playmaker, high assist output for Craiova",
+      "playing UEFA Champions League 2026/27 with Universitatea Craiova"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": 2,
+    "notes": "Received 2 red cards in the 2025/26 Superliga season per FotMob-derived snippet, alongside 3 yellows -- a notable disciplinary flag worth further diligence."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["ro"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.365scores.com/en-us/football/player/alexandru-cicaldau-57340",
+    "https://www.fotmob.com/players/770163/alexandru-cicaldau"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB and nationality from 365Scores/FotMob-derived snippets via WebSearch. 2025/26 Superliga stats (2 goals, 4 assists, 1398 minutes, 3 yellows, 2 reds) from FotMob-derived snippet; apps not given -> null. Confirmed playing UEFA Champions League 2026/27 with Craiova per earlier club-level research. Contract expiry, height, preferred foot, market value, fee and wage not found -> null. Age 28 is above the pilot's 18-27 target band but included given his central creative role and the notable disciplinary record worth flagging to a club doing diligence."
+  }
+}

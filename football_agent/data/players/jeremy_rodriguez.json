@@ -1,0 +1,79 @@
+{
+  "player_id": "jeremy_rodriguez",
+  "name": "Jeremy Rodríguez",
+  "age": 17,
+  "date_of_birth": "2009-08-19",
+  "nationality": ["HON"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 186,
+  "current_club": "CD Olimpia",
+  "current_club_league": "Honduras Liga Nacional",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Honduras Liga Nacional (Apertura 2026-27)",
+    "apps": 2,
+    "starts": 1,
+    "minutes": null,
+    "goals": 3,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "16-year-old debutant who became the Apertura 2026-27 tournament's leading scorer after just 2 matches",
+      "scored a brace on his first start (vs Lobos UPNFM) plus a further goal vs Juticalpa",
+      "trained at Galaxy FC academy in Roatan (Bay Islands) before joining Olimpia's youth setup (FBO)",
+      "tall target-man profile at 1.86m"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": "Son of pastors, per a local Honduran feature; has publicly stated a dream of one day becoming an electrician alongside his football career.",
+    "public_statements": [
+      "Interviewed by Diez.hn (10 Aug 2026) about his rapid rise and family background; interviewed by La Prensa Honduras about his ambitions."
+    ],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "From the Bay Islands (Islas de la Bahia) department of Honduras. Genuinely exceptional underage story: became Liga Nacional's outright top scorer after 2 appearances at age 16."
+  },
+  "sources": [
+    "https://www.deportestvc.com/liga-nacional/quien-es-jeremy-rodriguez-el-nuevo-jugador-debuto-olimpia-2026-04-09",
+    "https://www.deportestvc.com/liga-nacional/jeremy-rodriguez-delantero-de-olimpia-que-quiere-ser-electricista-2026-08-10",
+    "https://www.laprensa.hn/deportes/jeremy-rodriguez-delantero-olimpia-juvenil-goles-liga-nacional-entrevista-perfil-OD31679272",
+    "https://www.fotmob.com/players/2120348/jeremy-rodriguez",
+    "https://www.diez.hn/liganacionaldehonduras/tabla-de-goleadores-liga-nacional-honduras-torneo-apertura-2026-HC31666735"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Full name, DOB (age 17 as of Sep 2026, was 16 when he debuted/scored the goals described), height, and story background from deportestvc.com/La Prensa Honduras/Fotmob snippets. Very small statistical sample (2 apps) reflects a genuine breakout rather than an established track record; market value, wages, and minutes not found -> null. Included despite being below the 18-27 target band because the story (youngest-ever type breakout, outright league top scorer at 16) is unusually strong and verifiable."
+  }
+}

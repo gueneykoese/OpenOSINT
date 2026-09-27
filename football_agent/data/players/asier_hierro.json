@@ -1,29 +1,29 @@
 {
-  "player_id": "arnau_martinez",
-  "name": "Arnau Martínez",
-  "age": 23,
-  "date_of_birth": "2003-04-25",
+  "player_id": "asier_hierro",
+  "name": "Asier Hierro",
+  "age": 21,
+  "date_of_birth": "2005-05-06",
   "nationality": ["ESP"],
-  "position": "RB",
+  "position": "ST",
   "secondary_positions": [],
   "preferred_foot": null,
   "height_cm": null,
-  "current_club": "Girona FC",
+  "current_club": "Athletic Bilbao",
   "current_club_league": "La Liga",
-  "contract_until": null,
+  "contract_until": 2027,
   "market_value_eur_m": null,
   "estimated_fee_eur_m": null,
   "wage_eur_m_net": null,
   "release_clause_eur_m": null,
   "agent_status": "represented",
-  "availability": "open to move",
+  "availability": "not for sale",
   "stats_2025_26": {
-    "competition": "La Liga",
-    "apps": null,
-    "starts": null,
-    "minutes": 2678,
-    "goals": 2,
-    "assists": 3,
+    "competition": "All competitions (La Liga + UEFA Champions League)",
+    "apps": 4,
+    "starts": 0,
+    "minutes": 33,
+    "goals": 0,
+    "assists": 0,
     "xg": null,
     "xa": null,
     "shots_p90": null,
@@ -36,8 +36,9 @@
   },
   "style_profile": {
     "tags": [
-      "right-back, key first-team starter for Girona (2678 minutes in 2025/26, near ever-present)",
-      "high-volume attacking output for a full-back (2 goals, 3 assists)"
+      "forward, from Basauri (Biscay), joined Athletic Bilbao academy at age 10",
+      "made professional debut 5 Nov 2025 in the UEFA Champions League vs Newcastle United (sub, 2-0 loss)",
+      "signed a new multi-year contract with the club in November 2024"
     ],
     "best_system": [],
     "weak_in": []
@@ -51,7 +52,7 @@
   },
   "injury_history": [],
   "off_pitch": {
-    "languages": ["es", "ca"],
+    "languages": ["es", "eu"],
     "family_situation": null,
     "public_statements": [],
     "commercial_profile": null,
@@ -61,13 +62,13 @@
     "notes": null
   },
   "sources": [
-    "https://www.fotmob.com/en-GB/players/1194892/arnau-martinez",
-    "https://www.laliga.com/en-GB/player/arnau-1",
-    "https://www.playmakerstats.com/player/arnau-martinez/829462"
+    "https://en.wikipedia.org/wiki/Asier_Hierro",
+    "https://www.athletic-club.eus/en/players/asier-hierro-campo/",
+    "https://us.soccerway.com/player/hierro-asier/I9fA6vQP/"
   ],
   "as_of": "2026-09-27",
   "data_quality": {
     "confidence": "medium",
-    "notes": "DOB and 2025/26 La Liga stats (2678 min, 2 goals, 3 assists) from FotMob/LaLiga.com snippets. Apps/starts breakdown, contract-until, market value, height and foot not found -> null."
+    "notes": "DOB, contract-until-2027, and 2025/26 stats (4 apps, 33 min total, all as substitute, 0G/0A) from Wikipedia/Athletic Club official/Soccerway snippets. Market value, wage, height, foot not found -> null."
   }
 }

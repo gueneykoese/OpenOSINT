@@ -1,0 +1,78 @@
+{
+  "player_id": "cooper_sanchez",
+  "name": "Cooper Sanchez",
+  "age": 18,
+  "date_of_birth": "2008-03-26",
+  "nationality": ["USA"],
+  "position": "CM",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Atlanta United FC",
+  "current_club_league": "MLS",
+  "contract_until": 2026,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "MLS",
+    "apps": 13,
+    "starts": 12,
+    "minutes": null,
+    "goals": 1,
+    "assists": 4,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Homegrown central midfielder, youth career included a stint at Dutch club FC Utrecht before returning to Atlanta at age 12",
+      "youngest player in Atlanta United 2 history at the time of his 2023 debut",
+      "signed Homegrown contract Aug 2025, through 2026 with 2027/2028 options",
+      "consistent First Team starter as an 18-year-old in 2026 (12 starts in 13 apps, 4 assists)",
+      "first First Team goal came in U.S. Open Cup vs Charlotte FC, 28 Apr 2026",
+      "called up to U.S. U-19 squad for 2026 Concacaf U-20 Championship"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["en"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "Youth career started at Columbus Crew academy, then FC Utrecht (Netherlands) before returning to the US to join Atlanta United's academy at age 12."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Cooper_Sanchez",
+    "https://www.atlutd.com/news/atlanta-united-signs-cooper-sanchez-to-homegrown-contract-august-2025",
+    "https://www.mlssoccer.com/news/atlanta-united-sign-homegrown-midfielder-cooper-sanchez",
+    "https://www.oursportscentral.com/services/releases/cooper-sanchez-named-to-u-s-u-19-mens-national-team-for-2026-concacaf-u-20-championship/n-6388598"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, contract, career path, and 2026 stats (13 apps/12 starts, 1 goal, 4 assists) from Wikipedia/Atlanta United/MLSSoccer.com snippets. Minutes and market value not found -> null."
+  }
+}
