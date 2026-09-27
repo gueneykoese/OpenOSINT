@@ -119,11 +119,11 @@ Budget: €10m · wage ceiling €1.5m net
 
 - **El Mehdi Al Harrar** — 70.5/100 (good match, confidence medium)
   - El Mehdi Al Harrar → Dortmund at GK: good match (70.5/100). Driven by financial feasibility and statistical fit; weakest area is cultural adaptation (47).
+- **Alex Paulsen** — 67.0/100 (good match, confidence medium)
+  - Alex Paulsen → Dortmund at GK: good match (67.0/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (50).
 - **Hamza Alaa** — 65.1/100 (possible, confidence medium)
   - Hamza Alaa → Dortmund at GK: possible (65.1/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
   - ⚠ Current club publicly not selling.
-- **Patrick Schulte** — 65.0/100 (possible, confidence medium)
-  - Patrick Schulte → Dortmund at GK: possible (65.0/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
 
 ### RW — low priority
 Profile: pacy right winger/wing-back, 20-24  

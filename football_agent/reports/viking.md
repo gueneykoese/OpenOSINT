@@ -102,8 +102,8 @@ Budget: €1.5m · wage ceiling €0.35m net
 - **Tiago Coimbra** — 70.7/100 (good match, confidence medium)
   - Tiago Coimbra → Viking at ST: good match (70.7/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
   - ⚠ Current club publicly not selling.
-- **Bo Åsulv Hegland** — 69.8/100 (good match, confidence medium)
-  - Bo Åsulv Hegland → Viking at ST: good match (69.8/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
+- **Emil Roback** — 70.3/100 (good match, confidence medium)
+  - Emil Roback → Viking at ST: good match (70.3/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
 
 ## Sources
 

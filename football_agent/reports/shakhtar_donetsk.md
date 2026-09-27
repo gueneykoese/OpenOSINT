@@ -118,10 +118,10 @@ Budget: €10m · wage ceiling €1.5m net
 
 - **Andrej Ilić** — 76.8/100 (good match, confidence medium)
   - Andrej Ilić → Shakhtar at ST: good match (76.8/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
+- **Zsombor Gruber** — 75.3/100 (good match, confidence medium)
+  - Zsombor Gruber → Shakhtar at ST: good match (75.3/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
 - **Sōta Nakamura** — 75.1/100 (good match, confidence medium)
   - Sōta Nakamura → Shakhtar at ST: good match (75.1/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
-- **Nikita Iosifov** — 74.8/100 (good match, confidence medium)
-  - Nikita Iosifov → Shakhtar at ST: good match (74.8/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ## Sources
 

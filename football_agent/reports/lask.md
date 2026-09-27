@@ -79,12 +79,12 @@ Profile: physical No.9, 23-28, proven in a top-10 league
 Why: Kalajdžić loan ended, Entrup sold  
 Budget: €3m · wage ceiling €0.8m net
 
+- **Zsombor Gruber** — 75.4/100 (good match, confidence medium)
+  - Zsombor Gruber → LASK at ST: good match (75.4/100). Driven by positional need and financial feasibility; weakest area is tactical / system fit (50).
 - **Sōta Nakamura** — 75.1/100 (good match, confidence medium)
   - Sōta Nakamura → LASK at ST: good match (75.1/100). Driven by positional need and financial feasibility; weakest area is tactical / system fit (50).
 - **Bo Åsulv Hegland** — 74.9/100 (good match, confidence medium)
   - Bo Åsulv Hegland → LASK at ST: good match (74.9/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (31).
-- **Leandro Godoy** — 74.8/100 (good match, confidence medium)
-  - Leandro Godoy → LASK at ST: good match (74.8/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
 
 ### CB — high priority
 Profile: right-footed, fast, 21-25, resale profile  
