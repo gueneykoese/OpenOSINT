@@ -104,13 +104,14 @@ Profile: experienced European-level No.1 if Pokatilov struggles
 Why: Pokatilov is the only internationally experienced goalkeeper verified  
 Budget: €0.5m · wage ceiling €0.3m net
 
+- **Yehvann Diouf** — 63.8/100 (possible, confidence medium)
+  - Yehvann Diouf → Sabah at GK: possible (63.8/100). Driven by statistical fit and positional need; weakest area is positional need (45).
+  - ⚠ Current club publicly not selling.
 - **Hamza Alaa** — 62.5/100 (possible, confidence medium)
   - Hamza Alaa → Sabah at GK: possible (62.5/100). Driven by financial feasibility and statistical fit; weakest area is positional need (45).
   - ⚠ Current club publicly not selling.
 - **Kwadwo Bonsu** — 62.5/100 (possible, confidence medium)
   - Kwadwo Bonsu → Sabah at GK: possible (62.5/100). Driven by financial feasibility and statistical fit; weakest area is positional need (45).
-- **Stanley Nwabali** — 59.8/100 (possible, confidence medium)
-  - Stanley Nwabali → Sabah at GK: possible (59.8/100). Driven by financial feasibility and tactical / system fit; weakest area is cultural adaptation (5).
 
 ## Sources
 

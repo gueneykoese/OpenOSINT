@@ -18,11 +18,11 @@
   "agent_status": null,
   "availability": "open to move",
   "stats_2025_26": {
-    "competition": "Liga Profesional Argentina 2026/27 (all competitions)",
-    "apps": 16,
-    "starts": null,
+    "competition": "2026 Copa Libertadores group stage (6 matches)",
+    "apps": 6,
+    "starts": 6,
     "minutes": null,
-    "goals": 1,
+    "goals": 2,
     "assists": null,
     "xg": null,
     "xa": null,
@@ -39,7 +39,10 @@
       "academy graduate central defender at Rosario Central",
       "first team minutes from 2025, first goal vs Instituto (Clausura 2025)",
       "called up by Argentina head coach Lionel Scaloni as a training 'sparring' player for the senior squad ahead of the 2026 World Cup (26 May 2026)",
-      "wears shirt no. 46"
+      "wears shirt no. 46",
+      "played all 6 matches of Rosario Central's 2026 Copa Libertadores group stage (only 1 goal conceded by the defense) and scored twice",
+      "became Rosario Central's youngest-ever Copa Libertadores goalscorer (18 years, 305 days) vs Universidad Central, then scored again a week later vs Libertad to become the youngest player (19 or under) with 2 goals in the 2026 edition",
+      "noted by CONMEBOL/local press for reading the game well, good distribution, and line-breaking passes/carries from central defense, not just his goals"
     ],
     "best_system": [],
     "weak_in": []
@@ -67,11 +70,13 @@
     "https://rosariocentral.com/jugadores/ignacio-ovando/",
     "https://www.sofascore.com/football/player/ignacio-ovando/2048634",
     "https://www.whoscored.com/players/552836/show/ignacio-ovando",
-    "https://espndeportes.espn.com/futbol/jugador/_/id/400123/ignacio-ovando"
+    "https://espndeportes.espn.com/futbol/jugador/_/id/400123/ignacio-ovando",
+    "https://gol.conmebol.com/libertadores/es/news/rosario-central-en-la-conmebol-libertadores-2026-resultados-plantel-y-calendario",
+    "https://www.puntal.com.ar/libertadores/rosario-central-goleo-la-universidad-central-y-aseguro-el-pase-octavos-la-copa-libertadores-2026-n257965"
   ],
-  "as_of": "2026-09-11",
+  "as_of": "2026-09-27",
   "data_quality": {
     "confidence": "medium",
-    "notes": "Real, currently active player confirmed via Spanish Wikipedia, Rosario Central official site, Sofascore, WhoScored and ESPN. Born 29 June 2007 in Gualeguaychú, Entre Ríos; central defender, shirt no. 46. Called up by Lionel Scaloni as a training sparring partner for the senior Argentina squad ahead of the 2026 World Cup, per Wikipedia-sourced reporting dated 26 May 2026 -- notable public validation of his profile even though not a full senior cap. 2026/27 season: 16 apps, 1 goal across all competitions per Sofascore snippet; starts, minutes, height, preferred foot, contract terms and market value not found in search snippets -> null."
+    "notes": "Real, currently active player confirmed via Spanish Wikipedia, Rosario Central official site, Sofascore, WhoScored, ESPN, CONMEBOL's own Libertadores news portal and Puntal.com.ar. Born 29 June 2007 in Gualeguaychú, Entre Ríos; central defender, shirt no. 46. Called up by Lionel Scaloni as a training sparring partner for the senior Argentina squad ahead of the 2026 World Cup, per Wikipedia-sourced reporting dated 26 May 2026 -- notable public validation of his profile even though not a full senior cap. UPDATED 2026-09-27: CONMEBOL's own Libertadores portal reports he played all 6 group-stage matches (as a starter) and scored twice (vs Universidad Central and vs Libertad), becoming Rosario Central's youngest-ever Copa Libertadores scorer -- stats_2025_26 field updated to reflect this specific, better-sourced competition breakdown rather than the earlier vaguer 'all competitions' figure. Minutes, height, preferred foot, contract terms and market value still not found in search snippets -> null."
   }
 }

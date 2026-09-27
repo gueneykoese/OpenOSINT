@@ -90,8 +90,8 @@ Budget: €20m · wage ceiling €3m net
 - **Noah Atubolu** — 77.2/100 (good match, confidence medium)
   - Noah Atubolu → Inter at GK: good match (77.2/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
-- **Patrick Schulte** — 73.5/100 (good match, confidence medium)
-  - Patrick Schulte → Inter at GK: good match (73.5/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Guglielmo Vicario** — 75.2/100 (good match, confidence medium)
+  - Guglielmo Vicario → Inter at GK: good match (75.2/100). Driven by positional need and financial feasibility; weakest area is age & contract (30).
 
 ### CM — medium priority
 Profile: box-to-box No.8 with running power, 21-26  

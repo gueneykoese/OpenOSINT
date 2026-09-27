@@ -1,0 +1,77 @@
+{
+  "player_id": "vicente_pizarro",
+  "name": "Vicente Pizarro",
+  "age": 23,
+  "date_of_birth": "2002-11-05",
+  "nationality": ["CHI"],
+  "position": "DM",
+  "secondary_positions": [],
+  "preferred_foot": "left",
+  "height_cm": 172,
+  "current_club": "Rosario Central",
+  "current_club_league": "Liga Profesional Argentina",
+  "contract_until": null,
+  "market_value_eur_m": 2.8,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga Profesional Argentina Apertura 2026",
+    "apps": null,
+    "starts": null,
+    "minutes": 954,
+    "goals": 0,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-footed defensive midfielder, born in Vitacura, Chile",
+      "product of Colo-Colo before moving to Rosario Central in January 2026",
+      "scored a notable rabona-assisted volley in the 2026 Copa Libertadores (finished off a rabona cross)",
+      "wears shirt no. 20 at Rosario Central"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/1133369/vicente-pizarro",
+    "https://www.sofascore.com/football/player/vicente-pizarro/986754",
+    "https://www.espn.com/soccer/player/_/id/289076/vicente-pizarro",
+    "https://www.emol.com/noticias/Deportes/2026/05/19/1200476/vicente-pizarro-gol-rosariocentral-libertadores.html",
+    "https://fbref.com/en/players/dba1f4ca/Vicente-Pizarro"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Real, currently active player -- confirmed via Fotmob, Sofascore, ESPN, a dedicated Emol (Chile) match-highlight article on his 2026 Copa Libertadores goal, and FBref. Born 5 Nov 2002 in Vitacura, Chile; 172cm; left-footed defensive midfielder; market value EUR 2.8m per Fotmob. Moved from Colo-Colo (Chile) to Rosario Central (Argentina) in January 2026. 2026 Apertura: 954 minutes, 1 assist, 0 goals in the league per Fotmob snippet (separate from his reported Copa Libertadores goal, which the Emol piece places in the continental competition, not the league). Apps/starts breakdown, contract terms not found in search snippets -> null."
+  }
+}

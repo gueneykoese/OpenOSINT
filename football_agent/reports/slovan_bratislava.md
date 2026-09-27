@@ -98,13 +98,14 @@ Profile: experienced No.2 who can start UCL games if needed
 Why: No verified backup to Takáč for a 50-game season  
 Budget: €0.5m · wage ceiling €0.2m net
 
+- **Yehvann Diouf** — 68.8/100 (good match, confidence medium)
+  - Yehvann Diouf → Slovan Bratislava at GK: good match (68.8/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (38).
+  - ⚠ Current club publicly not selling.
 - **Hamza Alaa** — 66.4/100 (good match, confidence medium)
   - Hamza Alaa → Slovan Bratislava at GK: good match (66.4/100). Driven by financial feasibility and positional need; weakest area is cultural adaptation (33).
   - ⚠ Current club publicly not selling.
 - **Stanley Nwabali** — 65.9/100 (possible, confidence medium)
   - Stanley Nwabali → Slovan Bratislava at GK: possible (65.9/100). Driven by financial feasibility and positional need; weakest area is cultural adaptation (5).
-- **Kwadwo Bonsu** — 65.4/100 (possible, confidence medium)
-  - Kwadwo Bonsu → Slovan Bratislava at GK: possible (65.4/100). Driven by financial feasibility and positional need; weakest area is cultural adaptation (20).
 
 ## Sources
 

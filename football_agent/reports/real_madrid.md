@@ -90,8 +90,8 @@ Budget: €40m · wage ceiling €6m net
   - ⚠ Current club publicly not selling.
 - **El Mehdi Al Harrar** — 74.6/100 (good match, confidence medium)
   - El Mehdi Al Harrar → Real Madrid at GK: good match (74.6/100). Driven by financial feasibility and statistical fit; weakest area is mentality & chemistry (55).
-- **Mostafa Shobeir** — 69.1/100 (good match, confidence medium)
-  - Mostafa Shobeir → Real Madrid at GK: good match (69.1/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
+- **Yehvann Diouf** — 70.0/100 (good match, confidence medium)
+  - Yehvann Diouf → Real Madrid at GK: good match (70.0/100). Driven by statistical fit and positional need; weakest area is financial feasibility (50).
   - ⚠ Current club publicly not selling.
 
 ### CB — medium priority
@@ -120,9 +120,8 @@ Budget: €30m · wage ceiling €5m net
 - **Chris Richards** — 69.2/100 (good match, confidence medium)
   - Chris Richards → Real Madrid at RB: good match (69.2/100). Driven by statistical fit and financial feasibility; weakest area is positional need (30).
   - ⚠ Current club publicly not selling.
-- **Arnau Martínez** — 65.7/100 (possible, confidence medium)
-  - Arnau Martínez → Real Madrid at RB: possible (65.7/100). Driven by financial feasibility and statistical fit; weakest area is positional need (45).
-  - ⚠ Current club publicly not selling.
+- **Kevin Amaro** — 67.8/100 (good match, confidence medium)
+  - Kevin Amaro → Real Madrid at RB: good match (67.8/100). Driven by statistical fit and tactical / system fit; weakest area is positional need (30).
 
 ## Sources
 

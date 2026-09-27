@@ -82,12 +82,13 @@ Budget: €10m · wage ceiling €3m net
 - **El Mehdi Al Harrar** — 80.5/100 (strong match, confidence medium)
   - El Mehdi Al Harrar → Stuttgart at GK: strong match (80.5/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (47).
   - ⚠ Would block a young starter (Dennis Seimen, 20) — check pathway politics.
+- **Yehvann Diouf** — 74.8/100 (good match, confidence medium)
+  - Yehvann Diouf → Stuttgart at GK: good match (74.8/100). Driven by positional need and statistical fit; weakest area is financial feasibility (50).
+  - ⚠ Current club publicly not selling.
+  - ⚠ Would block a young starter (Dennis Seimen, 20) — check pathway politics.
 - **Hamza Alaa** — 74.5/100 (good match, confidence medium)
   - Hamza Alaa → Stuttgart at GK: good match (74.5/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
   - ⚠ Current club publicly not selling.
-  - ⚠ Would block a young starter (Dennis Seimen, 20) — check pathway politics.
-- **Kwadwo Bonsu** — 74.5/100 (good match, confidence medium)
-  - Kwadwo Bonsu → Stuttgart at GK: good match (74.5/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
   - ⚠ Would block a young starter (Dennis Seimen, 20) — check pathway politics.
 
 ### CB — medium priority

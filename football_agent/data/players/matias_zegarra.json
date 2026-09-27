@@ -1,0 +1,77 @@
+{
+  "player_id": "matias_zegarra",
+  "name": "Matías Zegarra",
+  "age": 19,
+  "date_of_birth": "2006-12-16",
+  "nationality": ["PER"],
+  "position": "LB",
+  "secondary_positions": ["LW"],
+  "preferred_foot": "left",
+  "height_cm": null,
+  "current_club": "FBC Melgar",
+  "current_club_league": "Liga 1 Perú",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Liga 1 Perú (Apertura 2026)",
+    "apps": null,
+    "starts": null,
+    "minutes": 90,
+    "goals": 0,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "left-back, also used as a left winger, full name Matías Zegarra Gonzales-Vigil",
+      "held a youth scholarship at Barcelona-linked Fundación Marcet in Spain before joining FBC Melgar in August 2025",
+      "a surprise call-up to the senior Peru national team in 2026 under Juan Reynoso's project at Melgar (2 friendly caps in 2026)",
+      "described in Peruvian press as Reynoso's 'gran apuesta' (big bet) at Melgar"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://es.wikipedia.org/wiki/Mat%C3%ADas_Zegarra",
+    "https://larepublica.pe/futbol-peruano/2026/02/01/quien-es-matias-zegarra-la-joya-que-jugo-a-nivel-juvenil-en-espana-y-ahora-es-la-gran-apuesta-de-juan-reynoso-en-melgar-73928",
+    "https://libero.pe/futbol-peruano/seleccion-peruana/2026/03/16/quien-es-matias-zegarra-futbolista-fue-sorpresa-en-convocatoria-de-peru-521824",
+    "https://www.fichajes.com/jugador/matias-zegarra-gonzales-vigil/",
+    "https://pe.soccerway.com/jugador/zegarra-matias/lWcJRRhf/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Real, currently active player -- confirmed via Spanish Wikipedia, two dedicated La República / Libero.pe feature pieces on his surprise Peru call-up, Fichajes.com and Soccerway. Born 16 Dec 2006 in Lima; left-footed left-back/winger. Held a youth scholarship at Barcelona-affiliated Fundación Marcet in Spain before signing with FBC Melgar in Aug 2025. Received a surprise senior Peru call-up in 2026 (2 friendly caps per Soccerway). 2026 Apertura stats thin (90 minutes, 1 assist) reflecting his very recent first-team introduction. Height, contract and market value not found in search snippets -> null."
+  }
+}

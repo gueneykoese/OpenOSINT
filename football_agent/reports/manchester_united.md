@@ -121,10 +121,11 @@ Budget: €60m · wage ceiling €7m net
 
 - **Andrej Ilić** — 70.6/100 (good match, confidence medium)
   - Andrej Ilić → Man United at ST: good match (70.6/100). Driven by statistical fit and financial feasibility; weakest area is positional need (39).
+- **Josh Coburn** — 70.2/100 (good match, confidence medium)
+  - Josh Coburn → Man United at ST: good match (70.2/100). Driven by financial feasibility and tactical / system fit; weakest area is statistical fit (50).
+  - ⚠ Current club publicly not selling.
 - **Bo Åsulv Hegland** — 69.6/100 (good match, confidence medium)
   - Bo Åsulv Hegland → Man United at ST: good match (69.6/100). Driven by statistical fit and financial feasibility; weakest area is positional need (38).
-- **Evan Ferguson** — 68.7/100 (good match, confidence medium)
-  - Evan Ferguson → Man United at ST: good match (68.7/100). Driven by financial feasibility and tactical / system fit; weakest area is statistical fit (50).
 
 ## Sources
 

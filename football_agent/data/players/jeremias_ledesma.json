@@ -1,0 +1,78 @@
+{
+  "player_id": "jeremias_ledesma",
+  "name": "Jeremías Ledesma",
+  "age": 33,
+  "date_of_birth": "1993-02-13",
+  "nationality": ["ARG"],
+  "position": "GK",
+  "secondary_positions": [],
+  "preferred_foot": "right",
+  "height_cm": 186,
+  "current_club": "Rosario Central",
+  "current_club_league": "Liga Profesional Argentina",
+  "contract_until": 2026,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": null,
+  "availability": "contract running down",
+  "stats_2025_26": {
+    "competition": "Liga Profesional Argentina (Torneo Apertura 2026)",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "goalkeeper, full name Jeremías Conan Ledesma, 186cm, right-footed",
+      "career: Argentine academy football -> Cádiz CF in Spain (2021-2024) -> River Plate -> transferred to Rosario Central on 13 Jan 2026",
+      "wears shirt no. 23",
+      "won the 2018 Copa Argentina earlier in his career",
+      "contract at Rosario Central runs only to 31 Dec 2026, making him an out-of-contract signing target from Jan 2027"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.espn.com.ar/futbol/jugador/_/id/195621/jeremias-ledesma",
+    "https://es.wikipedia.org/wiki/Jerem%C3%ADas_Ledesma",
+    "https://rosariocentral.com/jugadores/jeremias-ledesma/",
+    "https://www.fichajes.com/jugador/jeremias-ledesma/",
+    "https://www.zerozero.com.ar/jugador/jeremias-ledesma/375371"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "Real, currently active player -- confirmed via ESPN Argentina, Spanish Wikipedia, Rosario Central's own player page, Fichajes.com and zerozero.es. Born 13 Feb 1993 in Pergamino; 186cm, 70kg, right-footed. Prior spell at Cádiz CF in Spain's La Liga (2021-2024) gives him verified European league experience. Transferred from River Plate to Rosario Central on 13 Jan 2026; contract listed through only 31 Dec 2026, so flagged availability = 'contract running down' -- a real near-term free-agent/negotiation opportunity rather than a young prospect. Age (33) is well outside the 18-27 target band; included as depth given his contract-expiry signal and verified European experience. Current-season match stats, market value and wage not found in search snippets -> null."
+  }
+}

@@ -104,12 +104,13 @@ Profile: athletic right-back able to defend UCL wingers, 22-27
 Why: Konoplya left on a free; Karavaev is a 34-year-old stop-gap  
 Budget: €4m · wage ceiling €0.8m net
 
+- **Kevin Amaro** — 67.7/100 (good match, confidence medium)
+  - Kevin Amaro → Shakhtar at RB: good match (67.7/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (14).
 - **Colby Donovan** — 65.8/100 (possible, confidence medium)
   - Colby Donovan → Shakhtar at RB: possible (65.8/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
-- **Marin Petkov** — 64.1/100 (possible, confidence medium)
-  - Marin Petkov → Shakhtar at RB: possible (64.1/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
-- **Antoine Mendy** — 63.8/100 (possible, confidence low)
-  - Antoine Mendy → Shakhtar at RB: possible (63.8/100). Driven by positional need and statistical fit; weakest area is statistical fit (50).
+- **Vanderson** — 64.9/100 (possible, confidence medium)
+  - Vanderson → Shakhtar at RB: possible (64.9/100). Driven by positional need and tactical / system fit; weakest area is statistical fit (50).
+  - ⚠ Current club publicly not selling.
 
 ### ST — medium priority
 Profile: penalty-box finisher with 12+ goal record  

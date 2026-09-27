@@ -111,8 +111,8 @@ Budget: €8m · wage ceiling €1.5m net
   - Jose Gaya → Porto at LB: good match (74.5/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (45).
 - **Šimun Hrgović** — 68.5/100 (good match, confidence medium)
   - Šimun Hrgović → Porto at LB: good match (68.5/100). Driven by financial feasibility and statistical fit; weakest area is positional need (48).
-- **Reinildo Mandava** — 65.4/100 (possible, confidence medium)
-  - Reinildo Mandava → Porto at LB: possible (65.4/100). Driven by statistical fit and financial feasibility; weakest area is cultural adaptation (36).
+- **Josué Caicedo** — 66.7/100 (good match, confidence medium)
+  - Josué Caicedo → Porto at LB: good match (66.7/100). Driven by financial feasibility and tactical / system fit; weakest area is statistical fit (50).
   - ⚠ Current club publicly not selling.
 
 ## Sources

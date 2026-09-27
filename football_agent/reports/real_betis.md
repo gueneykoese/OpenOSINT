@@ -114,11 +114,11 @@ Budget: €5m · wage ceiling €1m net
 
 - **El Mehdi Al Harrar** — 71.0/100 (good match, confidence medium)
   - El Mehdi Al Harrar → Real Betis at GK: good match (71.0/100). Driven by financial feasibility and statistical fit; weakest area is positional need (39).
+- **Yehvann Diouf** — 66.3/100 (good match, confidence medium)
+  - Yehvann Diouf → Real Betis at GK: good match (66.3/100). Driven by statistical fit and tactical / system fit; weakest area is positional need (50).
+  - ⚠ Current club publicly not selling.
 - **Stanley Nwabali** — 65.2/100 (possible, confidence medium)
   - Stanley Nwabali → Real Betis at GK: possible (65.2/100). Driven by financial feasibility and tactical / system fit; weakest area is age & contract (30).
-- **Hamza Alaa** — 64.0/100 (possible, confidence medium)
-  - Hamza Alaa → Real Betis at GK: possible (64.0/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (39).
-  - ⚠ Current club publicly not selling.
 
 ## Sources
 

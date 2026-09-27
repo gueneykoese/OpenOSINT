@@ -106,11 +106,10 @@ Budget: €2m · wage ceiling €0.5m net
 
 - **Colby Donovan** — 67.3/100 (good match, confidence medium)
   - Colby Donovan → LASK at RB: good match (67.3/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Fikayo Tomori** — 62.4/100 (possible, confidence medium)
-  - Fikayo Tomori → LASK at RB: possible (62.4/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
-- **Chris Richards** — 60.9/100 (possible, confidence medium)
-  - Chris Richards → LASK at RB: possible (60.9/100). Driven by statistical fit and positional need; weakest area is financial feasibility (10).
-  - ⚠ Current club publicly not selling.
+- **Ronan Kpakio** — 66.6/100 (good match, confidence medium)
+  - Ronan Kpakio → LASK at RB: good match (66.6/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
+- **Kevin Amaro** — 65.7/100 (possible, confidence medium)
+  - Kevin Amaro → LASK at RB: possible (65.7/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (36).
 
 ## Sources
 
