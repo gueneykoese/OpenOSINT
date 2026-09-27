@@ -88,10 +88,10 @@ Budget: €1m · wage ceiling €0.35m net
 - **Lallianzuala Chhangte** — 74.4/100 (good match, confidence medium)
   - Lallianzuala Chhangte → Slovan Bratislava at RW: good match (74.4/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
   - ⚠ Current club publicly not selling.
-- **Sayan Banerjee** — 66.8/100 (good match, confidence low)
-  - Sayan Banerjee → Slovan Bratislava at RW: good match (66.8/100). Driven by positional need and tactical / system fit; weakest area is statistical fit (50).
-- **Vikram Partap Singh** — 66.5/100 (good match, confidence medium)
-  - Vikram Partap Singh → Slovan Bratislava at RW: good match (66.5/100). Driven by positional need and tactical / system fit; weakest area is statistical fit (50).
+- **Alexandru Dobre** — 68.3/100 (good match, confidence medium)
+  - Alexandru Dobre → Slovan Bratislava at RW: good match (68.3/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (25).
+- **Andrei Cordea** — 67.6/100 (good match, confidence medium)
+  - Andrei Cordea → Slovan Bratislava at RW: good match (67.6/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (25).
 
 ### GK — medium priority
 Profile: experienced No.2 who can start UCL games if needed  

@@ -103,8 +103,9 @@ Budget: €3m · wage ceiling €0.6m net
   - Nicolás López → Slavia Praha at ST: good match (75.2/100). Driven by statistical fit and positional need; weakest area is age & contract (45).
 - **Sōta Nakamura** — 72.8/100 (good match, confidence medium)
   - Sōta Nakamura → Slavia Praha at ST: good match (72.8/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
-- **Bo Åsulv Hegland** — 72.1/100 (good match, confidence medium)
-  - Bo Åsulv Hegland → Slavia Praha at ST: good match (72.1/100). Driven by statistical fit and financial feasibility; weakest area is cultural adaptation (46).
+- **Tiago Coimbra** — 72.8/100 (good match, confidence medium)
+  - Tiago Coimbra → Slavia Praha at ST: good match (72.8/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
+  - ⚠ Current club publicly not selling.
 
 ### CB — low priority
 Profile: quick left-footed CB for the back three  

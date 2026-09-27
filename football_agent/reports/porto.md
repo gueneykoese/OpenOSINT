@@ -95,12 +95,12 @@ Profile: mobile pressing forward, 21-25, resale value
 Why: Samu's three-month injury exposed the lack of a second reliable scorer; Andre Silva is 30 and a short-term fix.  
 Budget: €15m · wage ceiling €2m net
 
+- **Leandro Godoy** — 76.5/100 (good match, confidence medium)
+  - Leandro Godoy → Porto at ST: good match (76.5/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
 - **Andrej Ilić** — 75.9/100 (good match, confidence medium)
   - Andrej Ilić → Porto at ST: good match (75.9/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
 - **Gift Orban** — 75.0/100 (good match, confidence medium)
   - Gift Orban → Porto at ST: good match (75.0/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Nicolás López** — 74.1/100 (good match, confidence medium)
-  - Nicolás López → Porto at ST: good match (74.1/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (45).
 
 ### LB — low priority
 Profile: attacking left-back comfortable in a high line  

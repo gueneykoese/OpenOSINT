@@ -106,13 +106,12 @@ Profile: mobile pressing forward, under 26
 Why: Jović (28) and Varga (31) are target-man types; no young succession  
 Budget: €6m · wage ceiling €1.5m net
 
+- **Leandro Godoy** — 76.9/100 (good match, confidence medium)
+  - Leandro Godoy → AEK at ST: good match (76.9/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
 - **Nicolás López** — 75.3/100 (good match, confidence medium)
   - Nicolás López → AEK at ST: good match (75.3/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (55).
 - **Sōta Nakamura** — 74.6/100 (good match, confidence medium)
   - Sōta Nakamura → AEK at ST: good match (74.6/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (55).
-- **Gorka Guruzeta** — 70.8/100 (good match, confidence medium)
-  - Gorka Guruzeta → AEK at ST: good match (70.8/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
-  - ⚠ Current club publicly not selling.
 
 ## Sources
 

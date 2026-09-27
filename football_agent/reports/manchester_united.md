@@ -119,13 +119,13 @@ Profile: physical pressing No.9, 21-25, resale value
 Why: Hojlund sold; Sesko is the only specialist striker with Zirkzee peripheral and Rashford/Cunha used centrally as needed.  
 Budget: €60m · wage ceiling €7m net
 
+- **Leandro Godoy** — 71.2/100 (good match, confidence medium)
+  - Leandro Godoy → Man United at ST: good match (71.2/100). Driven by statistical fit and financial feasibility; weakest area is positional need (50).
 - **Andrej Ilić** — 70.6/100 (good match, confidence medium)
   - Andrej Ilić → Man United at ST: good match (70.6/100). Driven by statistical fit and financial feasibility; weakest area is positional need (39).
 - **Josh Coburn** — 70.2/100 (good match, confidence medium)
   - Josh Coburn → Man United at ST: good match (70.2/100). Driven by financial feasibility and tactical / system fit; weakest area is statistical fit (50).
   - ⚠ Current club publicly not selling.
-- **Bo Åsulv Hegland** — 69.6/100 (good match, confidence medium)
-  - Bo Åsulv Hegland → Man United at ST: good match (69.6/100). Driven by statistical fit and financial feasibility; weakest area is positional need (38).
 
 ## Sources
 

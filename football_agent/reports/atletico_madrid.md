@@ -90,13 +90,12 @@ Profile: athletic right-back who can defend 1v1 and overlap, 21-26, EU passport 
 Why: Molina sold to Roma; Pubill is the only specialist, Llorente is a converted midfielder  
 Budget: €20m · wage ceiling €3m net
 
+- **Arnau Martínez** — 73.6/100 (good match, confidence medium)
+  - Arnau Martínez → Atlético at RB: good match (73.6/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
 - **Fikayo Tomori** — 72.9/100 (good match, confidence medium)
   - Fikayo Tomori → Atlético at RB: good match (72.9/100). Driven by statistical fit and financial feasibility; weakest area is positional need (48).
-- **Pierre Kalulu** — 70.4/100 (good match, confidence high)
-  - Pierre Kalulu → Atlético at RB: good match (70.4/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
-  - ⚠ Current club publicly not selling.
-- **Niccolò Pierozzi** — 69.6/100 (good match, confidence medium)
-  - Niccolò Pierozzi → Atlético at RB: good match (69.6/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Mattia Zanotti** — 70.7/100 (good match, confidence medium)
+  - Mattia Zanotti → Atlético at RB: good match (70.7/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
 
 ### AM — medium priority
 Profile: creative No. 10 / second striker, 22-27, Spanish-speaking  
@@ -105,11 +104,10 @@ Budget: €30m · wage ceiling €5m net
 
 - **Toni Fruk** — 77.7/100 (good match, confidence medium)
   - Toni Fruk → Atlético at AM: good match (77.7/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
+- **Ștefan Baiaram** — 77.2/100 (good match, confidence medium)
+  - Ștefan Baiaram → Atlético at AM: good match (77.2/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
 - **Callum O'Hare** — 76.6/100 (good match, confidence medium)
   - Callum O'Hare → Atlético at AM: good match (76.6/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
-- **Christoph Baumgartner** — 76.6/100 (good match, confidence medium)
-  - Christoph Baumgartner → Atlético at AM: good match (76.6/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
-  - ⚠ Current club publicly not selling.
 
 ### CB — low priority
 Profile: left-footed centre-back, 22-26  

@@ -101,8 +101,8 @@ Budget: €25m · wage ceiling €3m net
   - Andrej Ilić → Como at ST: strong match (78.0/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
 - **Cristian Shpendi** — 75.5/100 (good match, confidence medium)
   - Cristian Shpendi → Como at ST: good match (75.5/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Dion Drena Beljo** — 75.2/100 (good match, confidence medium)
-  - Dion Drena Beljo → Como at ST: good match (75.2/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
+- **Leandro Godoy** — 75.5/100 (good match, confidence medium)
+  - Leandro Godoy → Como at ST: good match (75.5/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
 
 ### DM — medium priority
 Profile: ball-winning pivot with elite passing, 21-26  

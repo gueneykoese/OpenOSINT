@@ -132,10 +132,10 @@ Budget: €20m · wage ceiling €3m net
 
 - **Andre Brooks** — 69.4/100 (good match, confidence medium)
   - Andre Brooks → Dortmund at RW: good match (69.4/100). Driven by financial feasibility and statistical fit; weakest area is tactical / system fit (50).
+- **Erick Marcus** — 69.2/100 (good match, confidence medium)
+  - Erick Marcus → Dortmund at RW: good match (69.2/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
 - **Diego Luna** — 68.3/100 (good match, confidence medium)
   - Diego Luna → Dortmund at RW: good match (68.3/100). Driven by financial feasibility and statistical fit; weakest area is positional need (35).
-- **Oswin Appollis** — 67.1/100 (good match, confidence medium)
-  - Oswin Appollis → Dortmund at RW: good match (67.1/100). Driven by statistical fit and financial feasibility; weakest area is cultural adaptation (10).
 
 ## Sources
 

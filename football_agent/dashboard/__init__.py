@@ -115,7 +115,7 @@ def export_data(include_demo: bool = False) -> dict:
             "clubs": [r.to_dict() for r in e.rank_clubs_for_player(pid, limit=3)],
             "bonus": {
                 r.club_id: build_plan(r, p, clubs[r.club_id]).to_dict()
-                for r in e.rank_clubs_for_player(pid, limit=3)
+                for r in e.rank_clubs_for_player(pid, limit=1)
             },
         }
     return out

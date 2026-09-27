@@ -1,0 +1,75 @@
+{
+  "player_id": "david_datro_fofana",
+  "name": "David Datro Fofana",
+  "age": 23,
+  "date_of_birth": "2002-12-22",
+  "nationality": ["CIV"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": 181,
+  "current_club": "Servette FC",
+  "current_club_league": "Swiss Super League",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 3.5,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Swiss Super League",
+    "apps": null,
+    "starts": null,
+    "minutes": 55,
+    "goals": 0,
+    "assists": 0,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "Ivorian striker with a well-travelled, unsettled recent career: Molde -> Chelsea (Jan 2023, GBP 8-10m) -> loans at Union Berlin, Burnley, Goztepe, Fatih Karagumruk, Strasbourg -> permanent move to Servette (EUR 3.5m, Aug 2026)",
+      "barely featured for Chelsea (4 apps, 0 goals) despite a strong goalscoring reputation from Molde",
+      "Ivory Coast U23 and senior international"
+    ],
+    "best_system": [],
+    "weak_in": ["settling into a club and sustaining form after his Chelsea move -- five different clubs/loans in under 3 years before Servette"]
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": 2,
+    "discipline": null,
+    "notes": "Public record of a highly unsettled career path (5+ clubs since a promising Molde spell and a failed Chelsea move) suggests resilience/adaptation challenges worth probing in any recruitment process -- this is an inference from transfer history, not a documented behavioural report, so treated as a soft, low-confidence signal."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/David_Datro_Fofana",
+    "https://www.fotmob.com/players/1207581/david-datro-fofana",
+    "https://thehardtackle.com/transfer-news/2026/08/28/david-datro-fofana-set-to-join-servette-as-deal-agreed/",
+    "https://www.footballtransfers.com/en/players/david-datro-fofana"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, nationality and full transfer history (Molde, Chelsea GBP 8-10m Jan 2023, loans at Union Berlin/Burnley/Goztepe/Fatih Karagumruk/Strasbourg, permanent move to Servette for EUR 3.5m Aug 2026) from Wikipedia/FotMob/TheHardTackle snippets via WebSearch. Early 2026/27 Servette stats (0 goals, 0 assists, 55 minutes) reflect a brand-new arrival, not representative of ability. Contract expiry, market value, preferred foot and wage not found -> null. The 'resilience' rating is the researcher's own inference from an unusually unsettled transfer record and is explicitly flagged as low-confidence and non-behavioural, per schema guidance to restrict mental-profile fields to documented public behaviour."
+  }
+}

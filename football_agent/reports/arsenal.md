@@ -93,11 +93,10 @@ Budget: €60m · wage ceiling €7m net
 
 - **Oswin Appollis** — 84.6/100 (strong match, confidence medium)
   - Oswin Appollis → Arsenal at LW: strong match (84.6/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
+- **Francisco Everton Mota de Castro (Everton Bala)** — 84.2/100 (strong match, confidence medium)
+  - Francisco Everton Mota de Castro (Everton Bala) → Arsenal at LW: strong match (84.2/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
 - **Ludovic Blas** — 81.9/100 (strong match, confidence medium)
   - Ludovic Blas → Arsenal at LW: strong match (81.9/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
-- **Christoph Baumgartner** — 80.0/100 (strong match, confidence medium)
-  - Christoph Baumgartner → Arsenal at LW: strong match (80.0/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
-  - ⚠ Current club publicly not selling.
 
 ### RB — medium priority
 Profile: athletic right-back comfortable inverting, 22-27, strong 1v1 defender  
@@ -123,9 +122,8 @@ Budget: €40m · wage ceiling €5m net
   - ⚠ Current club publicly not selling.
 - **Sōta Nakamura** — 74.3/100 (good match, confidence medium)
   - Sōta Nakamura → Arsenal at ST: good match (74.3/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (37).
-- **Santiago Castro** — 74.0/100 (good match, confidence medium)
-  - Santiago Castro → Arsenal at ST: good match (74.0/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
-  - ⚠ Current club publicly not selling.
+- **Leandro Godoy** — 74.0/100 (good match, confidence medium)
+  - Leandro Godoy → Arsenal at ST: good match (74.0/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
 
 ### GK — low priority
 Profile: young sweeper-keeper, 21-25, to succeed Raya (31 in Sept 2026)  

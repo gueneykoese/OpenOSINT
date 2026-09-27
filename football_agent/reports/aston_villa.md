@@ -128,8 +128,9 @@ Budget: €50m · wage ceiling €6m net
   - ⚠ Current club publicly not selling.
 - **Andrej Ilić** — 74.3/100 (good match, confidence high)
   - Andrej Ilić → Aston Villa at ST: good match (74.3/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
-- **Mexx Meerdink** — 73.7/100 (good match, confidence medium)
-  - Mexx Meerdink → Aston Villa at ST: good match (73.7/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
+- **Tiago Coimbra** — 73.9/100 (good match, confidence medium)
+  - Tiago Coimbra → Aston Villa at ST: good match (73.9/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+  - ⚠ Current club publicly not selling.
 
 ### AM — low priority
 Profile: creative No.10 / carrier with end product  

@@ -103,25 +103,24 @@ Profile: young creative No. 10 / inside forward, 20-24, resale value
 Why: Dybala is on a one-year renewal to 2027; Baldanzi, El Shaarawy and Zaragoza left  
 Budget: €20m · wage ceiling €2m net
 
+- **Alvyn Sanches** — 76.8/100 (good match, confidence medium)
+  - Alvyn Sanches → Roma at AM: good match (76.8/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
 - **Bo Åsulv Hegland** — 76.3/100 (good match, confidence medium)
   - Bo Åsulv Hegland → Roma at AM: good match (76.3/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (40).
-- **Jordan Barrera** — 74.5/100 (good match, confidence medium)
-  - Jordan Barrera → Roma at AM: good match (74.5/100). Driven by positional need and financial feasibility; weakest area is tactical / system fit (50).
-  - ⚠ Current club publicly not selling.
-- **Efraín Álvarez** — 73.7/100 (good match, confidence medium)
-  - Efraín Álvarez → Roma at AM: good match (73.7/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Ștefan Baiaram** — 75.5/100 (good match, confidence medium)
+  - Ștefan Baiaram → Roma at AM: good match (75.5/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (50).
 
 ### ST — medium priority
 Profile: pressing backup No. 9, 20-25  
 Why: Dovbyk and Vaz loaned out, Ferguson returned; Castro's only cover is the youth striker Arena  
 Budget: €15m · wage ceiling €2m net
 
+- **Leandro Godoy** — 78.5/100 (strong match, confidence medium)
+  - Leandro Godoy → Roma at ST: strong match (78.5/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
 - **Sōta Nakamura** — 74.6/100 (good match, confidence medium)
   - Sōta Nakamura → Roma at ST: good match (74.6/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
 - **Andrej Ilić** — 74.3/100 (good match, confidence medium)
   - Andrej Ilić → Roma at ST: good match (74.3/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
-- **Cristian Shpendi** — 74.0/100 (good match, confidence medium)
-  - Cristian Shpendi → Roma at ST: good match (74.0/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### GK — low priority
 Profile: experienced backup, 26-32  

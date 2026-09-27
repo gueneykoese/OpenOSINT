@@ -88,10 +88,10 @@ Budget: €n/am · wage ceiling €n/am net
 
 - **Andre Brooks** — 80.9/100 (strong match, confidence medium)
   - Andre Brooks → RB Leipzig at RW: strong match (80.9/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
-- **Paul Nebel** — 77.5/100 (good match, confidence medium)
-  - Paul Nebel → RB Leipzig at RW: good match (77.5/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Jandry Gómez** — 77.2/100 (good match, confidence medium)
-  - Jandry Gómez → RB Leipzig at RW: good match (77.2/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+- **Erick Marcus** — 80.6/100 (strong match, confidence medium)
+  - Erick Marcus → RB Leipzig at RW: strong match (80.6/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (50).
+- **Alvyn Sanches** — 77.5/100 (good match, confidence medium)
+  - Alvyn Sanches → RB Leipzig at RW: good match (77.5/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
 
 ### ST — high priority
 Profile: pressing 9 with 15+ goal ceiling  

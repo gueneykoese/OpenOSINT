@@ -82,10 +82,10 @@ Budget: €8m · wage ceiling €1.2m net
 
 - **Alassane Gueye** — 81.8/100 (strong match, confidence medium)
   - Alassane Gueye → Shakhtar at LW: strong match (81.8/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
-- **Toni Fruk** — 77.6/100 (good match, confidence medium)
-  - Toni Fruk → Shakhtar at LW: good match (77.6/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (55).
-- **Oswin Appollis** — 76.5/100 (good match, confidence medium)
-  - Oswin Appollis → Shakhtar at LW: good match (76.5/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (5).
+- **Francisco Everton Mota de Castro (Everton Bala)** — 80.6/100 (strong match, confidence medium)
+  - Francisco Everton Mota de Castro (Everton Bala) → Shakhtar at LW: strong match (80.6/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (47).
+- **Nikita Iosifov** — 77.8/100 (good match, confidence medium)
+  - Nikita Iosifov → Shakhtar at LW: good match (77.8/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ### AM — medium priority
 Profile: creative No.10/No.8 who can play in a 4-3-3 interior role  
@@ -104,13 +104,12 @@ Profile: athletic right-back able to defend UCL wingers, 22-27
 Why: Konoplya left on a free; Karavaev is a 34-year-old stop-gap  
 Budget: €4m · wage ceiling €0.8m net
 
+- **Mattia Zanotti** — 71.7/100 (good match, confidence medium)
+  - Mattia Zanotti → Shakhtar at RB: good match (71.7/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+- **Arnau Martínez** — 71.6/100 (good match, confidence medium)
+  - Arnau Martínez → Shakhtar at RB: good match (71.6/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (44).
 - **Kevin Amaro** — 67.7/100 (good match, confidence medium)
   - Kevin Amaro → Shakhtar at RB: good match (67.7/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (14).
-- **Colby Donovan** — 65.8/100 (possible, confidence medium)
-  - Colby Donovan → Shakhtar at RB: possible (65.8/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
-- **Vanderson** — 64.9/100 (possible, confidence medium)
-  - Vanderson → Shakhtar at RB: possible (64.9/100). Driven by positional need and tactical / system fit; weakest area is statistical fit (50).
-  - ⚠ Current club publicly not selling.
 
 ### ST — medium priority
 Profile: penalty-box finisher with 12+ goal record  
@@ -121,8 +120,8 @@ Budget: €10m · wage ceiling €1.5m net
   - Andrej Ilić → Shakhtar at ST: good match (76.8/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
 - **Sōta Nakamura** — 75.1/100 (good match, confidence medium)
   - Sōta Nakamura → Shakhtar at ST: good match (75.1/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
-- **Nicolás López** — 74.1/100 (good match, confidence medium)
-  - Nicolás López → Shakhtar at ST: good match (74.1/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (14).
+- **Nikita Iosifov** — 74.8/100 (good match, confidence medium)
+  - Nikita Iosifov → Shakhtar at ST: good match (74.8/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ## Sources
 

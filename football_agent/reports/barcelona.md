@@ -108,13 +108,12 @@ Profile: young high-output No. 9 who presses and links play, 20-25, resale value
 Why: Lewandowski and Ferran gone; Jesus is 29 with injury history and no natural deputy  
 Budget: €45m · wage ceiling €6m net
 
+- **Leandro Godoy** — 77.3/100 (good match, confidence medium)
+  - Leandro Godoy → Barcelona at ST: good match (77.3/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
 - **Andrej Ilić** — 76.1/100 (good match, confidence medium)
   - Andrej Ilić → Barcelona at ST: good match (76.1/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
 - **Dion Drena Beljo** — 74.6/100 (good match, confidence medium)
   - Dion Drena Beljo → Barcelona at ST: good match (74.6/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (45).
-- **Nicolò Tresoldi** — 74.4/100 (good match, confidence medium)
-  - Nicolò Tresoldi → Barcelona at ST: good match (74.4/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
-  - ⚠ Current club publicly not selling.
 
 ### DM — medium priority
 Profile: press-resistant No. 6/8, 20-25, able to cover Rodri  

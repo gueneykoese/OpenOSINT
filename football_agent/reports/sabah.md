@@ -96,8 +96,9 @@ Budget: €1m · wage ceiling €0.4m net
   - Oliver Jordan Hagen → Sabah at ST: good match (72.8/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
 - **Bo Åsulv Hegland** — 71.9/100 (good match, confidence medium)
   - Bo Åsulv Hegland → Sabah at ST: good match (71.9/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
-- **Jesse van de Haar** — 69.8/100 (good match, confidence medium)
-  - Jesse van de Haar → Sabah at ST: good match (69.8/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
+- **Tiago Coimbra** — 71.2/100 (good match, confidence medium)
+  - Tiago Coimbra → Sabah at ST: good match (71.2/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
+  - ⚠ Current club publicly not selling.
 
 ### GK — low priority
 Profile: experienced European-level No.1 if Pokatilov struggles  

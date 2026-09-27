@@ -88,8 +88,9 @@ Budget: €1m · wage ceiling €0.3m net
   - Kwasi Sibo → Viking at DM: good match (72.8/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (52).
 - **Sean Zawadzki** — 69.0/100 (good match, confidence medium)
   - Sean Zawadzki → Viking at DM: good match (69.0/100). Driven by statistical fit and positional need; weakest area is financial feasibility (50).
-- **Branko Pavić** — 67.9/100 (good match, confidence medium)
-  - Branko Pavić → Viking at DM: good match (67.9/100). Driven by financial feasibility and positional need; weakest area is cultural adaptation (45).
+- **Dálcio** — 68.6/100 (good match, confidence medium)
+  - Dálcio → Viking at DM: good match (68.6/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (42).
+  - ⚠ Current club publicly not selling.
 
 ### ST — medium priority
 Profile: succession for Christiansen (top scorer, sale risk)  
@@ -98,10 +99,11 @@ Budget: €1.5m · wage ceiling €0.35m net
 
 - **Oliver Jordan Hagen** — 71.3/100 (good match, confidence medium)
   - Oliver Jordan Hagen → Viking at ST: good match (71.3/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
+- **Tiago Coimbra** — 70.7/100 (good match, confidence medium)
+  - Tiago Coimbra → Viking at ST: good match (70.7/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
+  - ⚠ Current club publicly not selling.
 - **Bo Åsulv Hegland** — 69.8/100 (good match, confidence medium)
   - Bo Åsulv Hegland → Viking at ST: good match (69.8/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
-- **Khanyisa Mayo** — 68.8/100 (good match, confidence medium)
-  - Khanyisa Mayo → Viking at ST: good match (68.8/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
 
 ## Sources
 

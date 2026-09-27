@@ -104,10 +104,10 @@ Budget: €15m · wage ceiling €2m net
 
 - **Andrej Ilić** — 75.2/100 (good match, confidence medium)
   - Andrej Ilić → Lens at ST: good match (75.2/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+- **Leandro Godoy** — 74.3/100 (good match, confidence medium)
+  - Leandro Godoy → Lens at ST: good match (74.3/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
 - **Jacob Trenskow** — 72.8/100 (good match, confidence medium)
   - Jacob Trenskow → Lens at ST: good match (72.8/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
-- **Dion Drena Beljo** — 72.5/100 (good match, confidence medium)
-  - Dion Drena Beljo → Lens at ST: good match (72.5/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
 
 ## Sources
 

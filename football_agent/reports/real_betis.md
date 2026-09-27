@@ -102,10 +102,11 @@ Budget: €12m · wage ceiling €2m net
 
 - **Kwasi Sibo** — 77.7/100 (good match, confidence medium)
   - Kwasi Sibo → Real Betis at DM: good match (77.7/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
+- **Dálcio** — 76.7/100 (good match, confidence medium)
+  - Dálcio → Real Betis at DM: good match (76.7/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (45).
+  - ⚠ Current club publicly not selling.
 - **Beni** — 75.4/100 (good match, confidence medium)
   - Beni → Real Betis at DM: good match (75.4/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
-- **Nicolai Remberg** — 75.0/100 (good match, confidence medium)
-  - Nicolai Remberg → Real Betis at DM: good match (75.0/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
 
 ### GK — low priority
 Profile: experienced back-up/challenger, 26-32  

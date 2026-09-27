@@ -127,9 +127,8 @@ Budget: €n/am · wage ceiling €n/am net
 - **Alassane Gueye** — 75.4/100 (good match, confidence medium)
   - Alassane Gueye → Feyenoord at LW: good match (75.4/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
   - ⚠ Would block a young starter (Gaoussou Diarra, 22) — check pathway politics.
-- **Leandro Trossard** — 74.5/100 (good match, confidence medium)
-  - Leandro Trossard → Feyenoord at LW: good match (74.5/100). Driven by statistical fit and financial feasibility; weakest area is age & contract (30).
-  - ⚠ Current club publicly not selling.
+- **Hugo Álvarez** — 74.5/100 (good match, confidence medium)
+  - Hugo Álvarez → Feyenoord at LW: good match (74.5/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
   - ⚠ Would block a young starter (Gaoussou Diarra, 22) — check pathway politics.
 
 ## Sources

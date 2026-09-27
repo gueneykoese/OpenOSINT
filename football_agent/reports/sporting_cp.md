@@ -92,12 +92,13 @@ Profile: experienced No. 6 who can drop into the back line in build-up, 24-28, l
 Why: Hjulmand (captain) sold to Atletico; Altimira and Doumbia are new and young.  
 Budget: €20m · wage ceiling €2.5m net
 
+- **Dálcio** — 81.8/100 (strong match, confidence medium)
+  - Dálcio → Sporting CP at DM: strong match (81.8/100). Driven by statistical fit and positional need; weakest area is age & contract (45).
+  - ⚠ Current club publicly not selling.
 - **Adrián Bernabé** — 81.7/100 (strong match, confidence medium)
   - Adrián Bernabé → Sporting CP at DM: strong match (81.7/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
 - **Beni** — 81.3/100 (strong match, confidence medium)
   - Beni → Sporting CP at DM: strong match (81.3/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
-- **Nicolai Remberg** — 81.3/100 (strong match, confidence medium)
-  - Nicolai Remberg → Sporting CP at DM: strong match (81.3/100). Driven by positional need and statistical fit; weakest area is cultural adaptation (34).
 
 ### CB — medium priority
 Profile: right-footed, fast, aerially strong, 22-26, UCL-ready  
@@ -116,12 +117,12 @@ Profile: creative wide player with assists, 21-25
 Why: Trincao (10 assists) and Quenda gone; Irankunda unproven at this level.  
 Budget: €15m · wage ceiling €2m net
 
+- **Erick Marcus** — 79.5/100 (strong match, confidence medium)
+  - Erick Marcus → Sporting CP at RW: strong match (79.5/100). Driven by positional need and statistical fit; weakest area is mentality & chemistry (50).
 - **Oswin Appollis** — 78.3/100 (strong match, confidence medium)
   - Oswin Appollis → Sporting CP at RW: strong match (78.3/100). Driven by statistical fit and financial feasibility; weakest area is mentality & chemistry (55).
 - **Marin Petkov** — 73.3/100 (good match, confidence medium)
   - Marin Petkov → Sporting CP at RW: good match (73.3/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Efraín Álvarez** — 72.6/100 (good match, confidence medium)
-  - Efraín Álvarez → Sporting CP at RW: good match (72.6/100). Driven by financial feasibility and positional need; weakest area is statistical fit (50).
 
 ### ST — low priority
 Profile: back-up No. 9, 20-24, resale value  
@@ -130,10 +131,10 @@ Budget: €10m · wage ceiling €1.5m net
 
 - **Nicolás López** — 68.7/100 (good match, confidence medium)
   - Nicolás López → Sporting CP at ST: good match (68.7/100). Driven by statistical fit and financial feasibility; weakest area is positional need (20).
+- **Ștefan Baiaram** — 68.5/100 (good match, confidence medium)
+  - Ștefan Baiaram → Sporting CP at ST: good match (68.5/100). Driven by financial feasibility and statistical fit; weakest area is positional need (35).
 - **Miguel Villarroel** — 67.2/100 (good match, confidence medium)
   - Miguel Villarroel → Sporting CP at ST: good match (67.2/100). Driven by financial feasibility and tactical / system fit; weakest area is positional need (50).
-- **Kouceila Boualia** — 67.1/100 (good match, confidence medium)
-  - Kouceila Boualia → Sporting CP at ST: good match (67.1/100). Driven by financial feasibility and positional need; weakest area is positional need (50).
 
 ## Sources
 

@@ -83,8 +83,8 @@ Budget: €3m · wage ceiling €0.8m net
   - Sōta Nakamura → LASK at ST: good match (75.1/100). Driven by positional need and financial feasibility; weakest area is tactical / system fit (50).
 - **Bo Åsulv Hegland** — 74.9/100 (good match, confidence medium)
   - Bo Åsulv Hegland → LASK at ST: good match (74.9/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (31).
-- **Nicolás López** — 73.6/100 (good match, confidence medium)
-  - Nicolás López → LASK at ST: good match (73.6/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (36).
+- **Leandro Godoy** — 74.8/100 (good match, confidence medium)
+  - Leandro Godoy → LASK at ST: good match (74.8/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
 
 ### CB — high priority
 Profile: right-footed, fast, 21-25, resale profile  
@@ -104,12 +104,12 @@ Profile: attacking full-back with UCL-level athleticism
 Why: Only Tornich added; starters not verified  
 Budget: €2m · wage ceiling €0.5m net
 
+- **Arnau Martínez** — 70.3/100 (good match, confidence medium)
+  - Arnau Martínez → LASK at RB: good match (70.3/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+- **Mattia Zanotti** — 69.9/100 (good match, confidence medium)
+  - Mattia Zanotti → LASK at RB: good match (69.9/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
 - **Colby Donovan** — 67.3/100 (good match, confidence medium)
   - Colby Donovan → LASK at RB: good match (67.3/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
-- **Ronan Kpakio** — 66.6/100 (good match, confidence medium)
-  - Ronan Kpakio → LASK at RB: good match (66.6/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
-- **Kevin Amaro** — 65.7/100 (possible, confidence medium)
-  - Kevin Amaro → LASK at RB: possible (65.7/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (36).
 
 ## Sources
 

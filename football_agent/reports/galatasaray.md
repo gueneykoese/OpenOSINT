@@ -91,8 +91,8 @@ Budget: €15m · wage ceiling €4m net
   - Nicolás López → Galatasaray at ST: strong match (78.6/100). Driven by statistical fit and positional need; weakest area is age & contract (45).
 - **Andrej Ilić** — 75.6/100 (good match, confidence medium)
   - Andrej Ilić → Galatasaray at ST: good match (75.6/100). Driven by positional need and statistical fit; weakest area is tactical / system fit (50).
-- **Dion Drena Beljo** — 74.5/100 (good match, confidence medium)
-  - Dion Drena Beljo → Galatasaray at ST: good match (74.5/100). Driven by statistical fit and positional need; weakest area is mentality & chemistry (55).
+- **Leandro Godoy** — 74.8/100 (good match, confidence medium)
+  - Leandro Godoy → Galatasaray at ST: good match (74.8/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
 
 ### CB — medium priority
 Profile: right-footed, quick, UCL-experienced, 24-29  

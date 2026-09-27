@@ -1,0 +1,75 @@
+{
+  "player_id": "renato_steffen",
+  "name": "Renato Steffen",
+  "age": 34,
+  "date_of_birth": "1991-11-03",
+  "nationality": ["SUI"],
+  "position": "RW",
+  "secondary_positions": ["AM"],
+  "preferred_foot": "left",
+  "height_cm": 170,
+  "current_club": "FC Lugano",
+  "current_club_league": "Swiss Super League",
+  "contract_until": 2028,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Swiss Super League",
+    "apps": 29,
+    "starts": null,
+    "minutes": null,
+    "goals": 8,
+    "assists": 3,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "veteran Swiss left-footed right winger, small in stature (170cm)",
+      "former Bundesliga player (VfL Wolfsburg) and long-time Switzerland international",
+      "still productive at 34 (8 goals, 3 assists in 29 apps, 2025/26)",
+      "signed a long contract with Lugano running to 2028"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["de"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.sofascore.com/football/player/renato-steffen/243049",
+    "https://www.soccerbase.com/players/player.sd?player_id=65483",
+    "https://www.whoscored.com/players/119172/show/renato-steffen"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, height, preferred foot, contract expiry (30 June 2028) and nationality from Sofascore/Soccerbase snippets via WebSearch. 2025/26 stats (29 apps, 8 goals, 3 assists) from a WebSearch-derived snippet; minutes not given -> null. Former Bundesliga (VfL Wolfsburg) career and Switzerland NT status are well-established public record, included as context though not re-verified with a fresh source in this session. Market value, fee and wage not found -> null. Age 34 is well above the pilot's 18-27 target band -- included only as a depth/experience profile, not a core transfer target; flagged as 'not for sale' given his long new contract."
+  }
+}
