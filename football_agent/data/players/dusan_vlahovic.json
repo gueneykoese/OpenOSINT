@@ -1,0 +1,78 @@
+{
+  "player_id": "dusan_vlahovic",
+  "name": "Dušan Vlahović",
+  "age": 26,
+  "date_of_birth": "2000-01-28",
+  "nationality": ["SRB"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Juventus",
+  "current_club_league": "Serie A",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Serie A",
+    "apps": 19,
+    "starts": null,
+    "minutes": null,
+    "goals": 7,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "physical target-man striker",
+      "0.65 goals p90 in Serie A 2025/26, ranked 5th among Serie A players with 3+ matches on attacking output per one analytics snippet",
+      "49 shots (18 on target) in 19 Serie A matches 2025/26",
+      "long-running contract-renewal speculation at Juventus"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Publicly responded to contract-renewal questions (2025/26 season) by saying he is 'only thinking about the present,' avoiding a direct commitment to a new Juventus deal."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["sr", "it"],
+    "family_situation": null,
+    "public_statements": [
+      "Quoted saying he is 'only thinking about the present' when asked about renewing his Juventus contract (2025/26 season)."
+    ],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": "His non-committal public response to renewal questions leaves contract status genuinely open; not classified as 'wants_move' or 'content' without a clearer statement.",
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.fotmob.com/players/737857/dusan-vlahovic",
+    "https://www.sportbusy.com/players/soccer/235677/",
+    "https://www.blackwhitereadallover.com/serie-a-campionato-2025-26-juventus/38973/same-goals-different-story-what-the-numbers-actually-say-about-dusan-vlahovic",
+    "https://footystats.org/players/serbia/dusan-vlahovic"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB (28 Jan 2000) from FotMob. 2025/26 Serie A stats (19 apps, 7 goals, 1 assist) cross-referenced between sportbusy.com and statmuse-derived snippets. Exact current contract expiry date not confirmed in this search session (widely reported historically as June 2026, but a search result implied ongoing 2025/26-season renewal talks, which would be inconsistent with an already-expired contract, so left null rather than guessed). Note: Juventus is NOT among the 36 UCL 2026/27 league-phase clubs in the local data/clubs directory (Inter, Napoli, Roma and Como are the Italian entries there), so he is in scope. Market value, wage and fee not found -> null."
+  }
+}

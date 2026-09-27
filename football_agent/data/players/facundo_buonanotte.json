@@ -1,0 +1,77 @@
+{
+  "player_id": "facundo_buonanotte",
+  "name": "Facundo Buonanotte",
+  "age": 21,
+  "date_of_birth": "2004-12-23",
+  "nationality": ["ARG"],
+  "position": "AM",
+  "secondary_positions": ["LW", "RW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Elche CF (on loan from Brighton & Hove Albion)",
+  "current_club_league": "La Liga",
+  "contract_until": 2027,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "loan possible",
+  "stats_2025_26": {
+    "competition": "Premier League / Championship (loan spells)",
+    "apps": null,
+    "starts": null,
+    "minutes": null,
+    "goals": null,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "attacking midfielder / inside forward",
+      "spent 2024/25 and 2025/26 on successive loans (Leicester City, Chelsea, Leeds United)",
+      "season-long loan to Elche CF for 2026/27, no option to buy",
+      "4 apps, 1 goal, 0 assists in La Liga at start of 2026/27 (Flashscore)"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Brighton sporting director Mike Cave publicly described him (Aug 2026) as 'a talented young player who has continued to develop since joining the club,' framing the Elche loan as a chance for regular first-team football."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "Has been loaned out in three consecutive windows (Leicester City, then Chelsea/Leeds United across 2025/26, now Elche for 2026/27), suggesting Brighton do not currently see him as first-team ready there, but no direct public statement on his own preferences was found."
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Facundo_Buonanotte",
+    "https://mundoalbiceleste.com/2026/08/07/facundo-buonanotte-joins-elche-on-loan-from-brighton/",
+    "https://www.flashscore.com/player/buonanotte-facundo/Od8aJqLN/",
+    "https://www.brightonandhovealbion.com/media-article/Facundo-Buonanotte-completes-Albion-transfer",
+    "https://www.tribalfootball.com/article/soccer-premier-league-done-deal-brighton-send-facundo-buonanotte-on-loan-to-elche-db6c260b-d704-473b-bbf7-64daa933fdbe"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "low",
+    "notes": "DOB (23 Dec 2004) and Brighton contract until 2027 from Wikipedia/club-site snippets. Confirmed to have joined Elche CF on a season-long loan (no buy option) in August 2026, after loan spells at Leicester City (2024/25) and reportedly Chelsea/Leeds United in 2025/26 per search snippets, though the exact 2025/26 loan club sequence was inconsistent across sources (one snippet named Chelsea, another Leeds United) so 2025/26 stats are left null rather than guessed. Early 2026/27 La Liga figures (4 apps, 1 goal) come from a single Flashscore snippet and were not cross-verified, so left out of the stats_2025_26 block and only referenced in style_profile tags. Market value, wage and fee not found -> null."
+  }
+}

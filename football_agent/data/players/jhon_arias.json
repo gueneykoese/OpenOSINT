@@ -1,0 +1,79 @@
+{
+  "player_id": "jhon_arias",
+  "name": "Jhon Arias",
+  "age": 28,
+  "date_of_birth": "1997-09-21",
+  "nationality": ["COL"],
+  "position": "RW",
+  "secondary_positions": ["AM", "LW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Wolverhampton Wanderers",
+  "current_club_league": "Premier League",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 19,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": null,
+    "starts": null,
+    "minutes": 1121,
+    "goals": 1,
+    "assists": 0,
+    "xg": 3.26,
+    "xa": 0.62,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": 89.5,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "creative, hard-working right winger/attacking midfielder",
+      "Copa Libertadores winner with Fluminense (2023), named to that tournament's Team of the Year",
+      "Club World Cup 2025 Team of the Tournament selection",
+      "230 apps, 47 goals across his Fluminense career before the Wolves move",
+      "underlying numbers (3.26 xG, 0.62 xA, 11 chances created) in 2025/26 outperform his raw goal/assist tally so far, suggesting bad finishing/final-ball luck rather than poor process"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es"],
+    "family_situation": null,
+    "public_statements": [
+      "Gave an exclusive interview to Flashscore reflecting on his time at Fluminense and adapting to the Premier League after joining Wolves."
+    ],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.premierleague.com/en/news/4362136/wolves-sign-colombian-winger-jhon-arias-from-fluminense",
+    "https://www.flashscore.com/news/soccer-premier-league-exclusive-wolves-jhon-arias-reflects-on-time-at-fluminense-and-moving-to-premier-league/4x7oFZrH/",
+    "https://www.fotmob.com/players/1023030/jhon-arias",
+    "https://www.premierleague.com/en/players/230376/jhon-arias/stats"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB (21 Sept 1997) from Premier League/Wolves sources. Signed from Fluminense in July 2025 for a reported GBP 19m (entered as estimated_fee_eur_m as an approximation; original figure was in GBP, not converted precisely) on a four-year deal with a club option for a fifth year (entered contract_until as 2029, the maximum with the option). 2025/26 Premier League stats (1121 min, 1 goal, 0 assists, 3.26 xG, 0.62 xA, 11 chances created, 89.5% pass completion) from a FotMob-derived snippet; apps/starts not separately confirmed -> null. Age (28) is above the pool's typical 18-27 target band but included given his Copa Libertadores and Club World Cup pedigree. Market value and wage not found -> null."
+  }
+}

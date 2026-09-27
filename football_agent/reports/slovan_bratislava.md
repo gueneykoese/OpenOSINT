@@ -88,10 +88,11 @@ Budget: €1m · wage ceiling €0.35m net
 - **Lallianzuala Chhangte** — 74.4/100 (good match, confidence medium)
   - Lallianzuala Chhangte → Slovan Bratislava at RW: good match (74.4/100). Driven by positional need and financial feasibility; weakest area is statistical fit (50).
   - ⚠ Current club publicly not selling.
+- **Riyad Mahrez** — 72.7/100 (good match, confidence medium)
+  - Riyad Mahrez → Slovan Bratislava at RW: good match (72.7/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (44).
+  - ⚠ Current club publicly not selling.
 - **Alexandru Dobre** — 68.3/100 (good match, confidence medium)
   - Alexandru Dobre → Slovan Bratislava at RW: good match (68.3/100). Driven by statistical fit and positional need; weakest area is cultural adaptation (25).
-- **Fran Pérez** — 67.7/100 (good match, confidence medium)
-  - Fran Pérez → Slovan Bratislava at RW: good match (67.7/100). Driven by positional need and financial feasibility; weakest area is cultural adaptation (31).
 
 ### GK — medium priority
 Profile: experienced No.2 who can start UCL games if needed  

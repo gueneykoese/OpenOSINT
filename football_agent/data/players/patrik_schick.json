@@ -1,0 +1,78 @@
+{
+  "player_id": "patrik_schick",
+  "name": "Patrik Schick",
+  "age": 30,
+  "date_of_birth": "1996-01-24",
+  "nationality": ["CZE"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Bayer Leverkusen",
+  "current_club_league": "Bundesliga",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Bundesliga",
+    "apps": null,
+    "starts": null,
+    "minutes": 1510,
+    "goals": 10,
+    "assists": 3,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "target-man striker, strong in the air",
+      "9 goals in his last 7 Bundesliga appearances at one 2025/26 stretch, including a hat-trick vs RB Leipzig (Matchday 32)",
+      "scored a Champions League brace vs Olympiacos in the 2025/26 play-off round",
+      "long injury history historically (heart condition monitored, past hamstring/muscular issues) though reported no recent injuries as of the 2025/26 interview"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": 4,
+    "discipline": null,
+    "notes": "Publicly discussed (Bundesliga.com interview, 2025/26) his own goal record and outlook toward the 2026 FIFA World Cup with Czechia; stated he had no recent injuries."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["cs", "de"],
+    "family_situation": null,
+    "public_statements": [
+      "Discussed his 2025/26 Bayer Leverkusen campaign, goal record and 2026 World Cup ambitions with Bundesliga.com."
+    ],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.espn.com/soccer/player/_/id/212330/patrik-schick",
+    "https://www.bundesliga.com/en/bundesliga/news/patrik-schick-bayer-leverkusen-interview-czechia-world-cup-37393",
+    "https://www.outlookindia.com/sports/football/olympiakos-vs-bayer-leverkusen-uefa-champions-league-2025-26-play-off-leg-1-patrik-schick-in-pics",
+    "https://www.kicker.ch/patrik-schick/spieler/afrika-cup/2025/bayer-04-leverkusen"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB (24 Jan 1996) from ESPN. Contract until 30 June 2030 per kicker.ch snippet. 2025/26 Bundesliga stats (10 goals, 3 assists, 1510 minutes) from a bundesliga.com/statmuse-derived snippet; apps/starts not separately confirmed -> null. Note: Bayer Leverkusen is NOT among the 36 UCL 2026/27 league-phase clubs in the local data/clubs directory (Bayern Munich, Dortmund, RB Leipzig and Stuttgart are the German entries there), so he is in scope. Market value, wage and fee not found in this search session -> null."
+  }
+}

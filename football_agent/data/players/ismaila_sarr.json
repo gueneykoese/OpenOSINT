@@ -1,0 +1,85 @@
+{
+  "player_id": "ismaila_sarr",
+  "name": "Ismaïla Sarr",
+  "age": 28,
+  "date_of_birth": "1998-02-25",
+  "nationality": ["SEN"],
+  "position": "RW",
+  "secondary_positions": ["LW", "ST"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Crystal Palace",
+  "current_club_league": "Premier League",
+  "contract_until": 2029,
+  "market_value_eur_m": 35,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": 28,
+    "starts": null,
+    "minutes": 2177,
+    "goals": 9,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "pacey wide forward",
+      "Crystal Palace Players' Player of the Season 2025/26",
+      "club's record European goalscorer",
+      "21 goals in all competitions 2025/26 (joint club Premier League-era record)",
+      "likely UEFA Conference League 2025/26 top scorer"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Publicly reported (thisisanfield.com, Yahoo Sports, Sept 2026) to have pushed for a deadline-day move to Liverpool in summer 2026, which fell through; stayed at Crystal Palace and continued into the 2026/27 season."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr"],
+    "family_situation": null,
+    "public_statements": [
+      "Reported (Yahoo Sports, Sept 2026) as pushing for a move to Liverpool on 2026 summer deadline day, described as not wanting to stay at Palace at the time.",
+      "Reported (thehardtackle.com, 12 Sept 2026) that Crystal Palace ruled out selling him amid Saudi Pro League interest, will not consider offers until 2027."
+    ],
+    "commercial_profile": null,
+    "happiness_status": "unsettled",
+    "happiness_notes": "Multiple September 2026 reports indicate he pushed for a deadline-day exit to Liverpool that fell through, and Saudi Pro League clubs have shown interest; Palace have publicly ruled out a sale before 2027.",
+    "preferred_clubs": [
+      {"club": "Liverpool", "note": "reported to have pushed for a deadline-day move in summer 2026 that did not materialize", "source": "https://sports.yahoo.com/articles/ismaila-sarr-pushing-move-liverpool-095151291.html"}
+    ],
+    "notes": null
+  },
+  "sources": [
+    "https://www.cpfc.co.uk/news/announcement/sarr-is-palaces-players-player-of-the-year-for-2025-26/",
+    "https://www.espn.com/soccer/player/_/id/241012/ismaila-sarr",
+    "https://www.fotmob.com/players/771294/ismaila-sarr",
+    "https://www.spotrac.com/epl/player/contracts/_/id/32752/ismaila-sarr",
+    "https://www.thisisanfield.com/2026/09/ismaila-sarr-crystal-palace-transfer-status/",
+    "https://sports.yahoo.com/articles/ismaila-sarr-pushing-move-liverpool-095151291.html",
+    "https://thehardtackle.com/transfer-news/2026/09/12/crystal-palace-rule-out-ismaila-sarr-sale-amid-saudi-links/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB, contract until 2029 and market value (~EUR 35m) from FotMob/Spotrac snippets. 2025/26 Premier League stats (28 apps, 2177 min, 9 goals, 1 assist) from theanalyst/sportbusy snippets via WebSearch; starts, xG/xA and advanced per-90 metrics not found -> null. Off-pitch/happiness status based on multiple September 2026 transfer-saga reports (Liverpool deadline-day pursuit, Saudi interest, club ruling out a sale); no direct player quote found, only reported by outlets, so confidence kept medium. Age 28 is slightly above this pool's typical 18-27 target band but included for strong sourcing and current transfer-saga relevance."
+  }
+}

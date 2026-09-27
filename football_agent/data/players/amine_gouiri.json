@@ -1,0 +1,75 @@
+{
+  "player_id": "amine_gouiri",
+  "name": "Amine Gouiri",
+  "age": 26,
+  "date_of_birth": "2000-02-16",
+  "nationality": ["ALG", "FRA"],
+  "position": "ST",
+  "secondary_positions": ["AM"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Olympique de Marseille",
+  "current_club_league": "Ligue 1",
+  "contract_until": 2029,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 19,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Ligue 1",
+    "apps": null,
+    "starts": null,
+    "minutes": 885,
+    "goals": 6,
+    "assists": 2,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "versatile forward, can play as a striker or attacking midfielder",
+      "joined Marseille from Rennes for EUR 19m in Jan 2025",
+      "wears number 9 at Marseille",
+      "dual French-Algerian nationality, has represented both national teams historically"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://www.sofascore.com/football/player/amine-gouiri/859026",
+    "https://www.fotmob.com/players/844437/amine-gouiri",
+    "https://www.playmakerstats.com/player/amine-gouiri/529101"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB (16 Feb 2000) from FotMob. Transferred to Marseille (from Rennes) on 31 Jan 2025 for EUR 19m (entered as estimated_fee_eur_m, reflecting the actual completed deal). Contract to 30 June 2029. 2025/26 Ligue 1 stats (6 goals, 2 assists, 885 minutes) from a FotMob-derived snippet; apps not separately confirmed -> null. Note: Marseille is NOT among the 36 UCL 2026/27 league-phase clubs in the local data/clubs directory (Lens and Lille are the French entries there), so he is in scope. Market value and wage not found -> null."
+  }
+}

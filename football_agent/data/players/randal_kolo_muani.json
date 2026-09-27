@@ -1,0 +1,81 @@
+{
+  "player_id": "randal_kolo_muani",
+  "name": "Randal Kolo Muani",
+  "age": 27,
+  "date_of_birth": "1998-12-05",
+  "nationality": ["FRA"],
+  "position": "ST",
+  "secondary_positions": ["LW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Juventus",
+  "current_club_league": "Serie A",
+  "contract_until": null,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "open to move",
+  "stats_2025_26": {
+    "competition": "Tottenham Hotspur loan, all competitions",
+    "apps": 41,
+    "starts": null,
+    "minutes": null,
+    "goals": 5,
+    "assists": 5,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "quick, mobile centre-forward",
+      "left PSG permanently for Juventus in 2025 after a successful Jan-Jun 2025 loan (10 goals, 3 assists in 22 apps)",
+      "spent 2025/26 on loan at Tottenham Hotspur (41 apps, 5 goals, 5 assists across all competitions)",
+      "completed a permanent move to Juventus for 2026/27 after the Spurs loan"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "Publicly stated (beIN SPORTS, 19 June 2025) that he wanted to stay at Juventus after his initial loan spell, though he was subsequently loaned to Tottenham for 2025/26 before returning to Juventus permanently for 2026/27."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["fr"],
+    "family_situation": null,
+    "public_statements": [
+      "Told beIN SPORTS (19 June 2025) he was keen to stay at Juventus after his loan spell there."
+    ],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [
+      {"club": "Juventus", "note": "publicly said he wanted to stay after his 2024/25 loan spell", "source": "https://www.beinsports.com/en-us/soccer/serie-a/articles/kolo-muani-keen-to-stay-at-juventus-after-loan-spell-2025-06-19"}
+    ],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Randal_Kolo_Muani",
+    "https://www.psg.fr/en/content/randal-kolo-muani-completes-move-to-juventus-psg-2026",
+    "https://www.beinsports.com/en-us/soccer/serie-a/articles/kolo-muani-keen-to-stay-at-juventus-after-loan-spell-2025-06-19",
+    "https://www.juventus.com/en/news/articles/randal-kolo-muani-is-a-juventus-player",
+    "https://www.fotmob.com/players/823825/randal-kolo-muani"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB (5 Dec 1998) from Wikipedia. Career path (PSG -> Juventus loan Jan-Jun 2025 -> permanent Juventus transfer -> Tottenham loan 2025/26 -> back to Juventus permanently for 2026/27) reconstructed from PSG.fr, Juventus.com and beIN SPORTS snippets; exact chronology of the permanent-transfer announcement vs the Tottenham loan was not fully disambiguated by source dates, so treated as sequential per the search snippets. 2025/26 stats reflect the Tottenham Hotspur loan spell (41 apps, 5 goals, 5 assists, all competitions); early 2026/27 Juventus Serie A figures (0 goals, 1 assist, 449 min per one snippet) were not included in stats_2025_26 to avoid mixing seasons. Contract length at Juventus, market value and wage not found -> null. Note: PSG is a 2026/27 UCL club but Kolo Muani transferred away from it, and Juventus/Tottenham are not among the 36 UCL clubs, so he is in scope."
+  }
+}

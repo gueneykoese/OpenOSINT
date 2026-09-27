@@ -1,0 +1,76 @@
+{
+  "player_id": "nico_williams",
+  "name": "Nico Williams",
+  "age": 24,
+  "date_of_birth": "2002-07-12",
+  "nationality": ["ESP"],
+  "position": "LW",
+  "secondary_positions": ["RW"],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Athletic Club (Bilbao)",
+  "current_club_league": "La Liga",
+  "contract_until": 2035,
+  "market_value_eur_m": 70,
+  "estimated_fee_eur_m": null,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "La Liga",
+    "apps": 25,
+    "starts": null,
+    "minutes": 1686,
+    "goals": 6,
+    "assists": null,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "explosive left-footed winger",
+      "Spain international",
+      "2nd top scorer at Athletic Club 2025/26 (6 league goals)",
+      "long-term contract signed keeping him at boyhood-region club through 2035"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": "3 yellow cards, 0 red cards in La Liga 2025/26 (FootyStats snippet)."
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["es", "eu"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": "Long-standing target for Barcelona in past transfer windows per widely-reported speculation, but no verified current-window (2026) reporting found in this search session, so left null rather than asserted."
+  },
+  "sources": [
+    "https://footystats.org/players/spain/nico-williams",
+    "https://www.livescore.com/en/season-stats/nico-williams/18677/",
+    "https://www.fotmob.com/players/1202110/nico-williams",
+    "https://www.footballdatabase.eu/en/player/details/431469-nico-williams"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB (12 Jul 2002), long-term contract (to 2035) and market value (~EUR 67-72m range, entered as 70) from FotMob/soccerway snippets. 2025/26 La Liga stats (25 apps, 1686 min, 6 goals) from FootyStats/LiveScore snippets; source figures on goal tally varied slightly (one snippet said 4 goals/2 assists in 1240 min from an earlier data cut), so the more recent 6-goals-in-25-matches figure was used and assists left null due to inconsistency. Advanced metrics (xG, key passes, dribbles) not found -> null."
+  }
+}

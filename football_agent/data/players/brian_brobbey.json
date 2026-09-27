@@ -1,0 +1,76 @@
+{
+  "player_id": "brian_brobbey",
+  "name": "Brian Brobbey",
+  "age": 24,
+  "date_of_birth": "2002-02-01",
+  "nationality": ["NED"],
+  "position": "ST",
+  "secondary_positions": [],
+  "preferred_foot": null,
+  "height_cm": null,
+  "current_club": "Sunderland AFC",
+  "current_club_league": "Premier League",
+  "contract_until": 2030,
+  "market_value_eur_m": null,
+  "estimated_fee_eur_m": 22,
+  "wage_eur_m_net": null,
+  "release_clause_eur_m": null,
+  "agent_status": "represented",
+  "availability": "not for sale",
+  "stats_2025_26": {
+    "competition": "Premier League",
+    "apps": 23,
+    "starts": 14,
+    "minutes": 1279,
+    "goals": 5,
+    "assists": 1,
+    "xg": null,
+    "xa": null,
+    "shots_p90": null,
+    "key_passes_p90": null,
+    "dribbles_p90": null,
+    "tackles_interceptions_p90": null,
+    "pass_completion_pct": null,
+    "aerials_won_pct": null,
+    "progressive_carries_p90": null
+  },
+  "style_profile": {
+    "tags": [
+      "physical, hold-up striker",
+      "Ajax academy graduate: 92 apps, 35 goals across 2022-2025 (incl. 18-goal 2023/24 season)",
+      "moved to Sunderland (newly promoted PL club) in Sept 2025 for EUR 22m",
+      "16 Netherlands caps, 4 goals"
+    ],
+    "best_system": [],
+    "weak_in": []
+  },
+  "mental_profile": {
+    "leadership": null,
+    "coachability": null,
+    "resilience": null,
+    "discipline": null,
+    "notes": null
+  },
+  "injury_history": [],
+  "off_pitch": {
+    "languages": ["nl"],
+    "family_situation": null,
+    "public_statements": [],
+    "commercial_profile": null,
+    "happiness_status": null,
+    "happiness_notes": null,
+    "preferred_clubs": [],
+    "notes": null
+  },
+  "sources": [
+    "https://en.wikipedia.org/wiki/Brian_Brobbey",
+    "https://english.ajax.nl/articles/brobbey-departs-the-striker-through-the-years",
+    "https://fbref.com/en/players/4c184730/Brian-Brobbey",
+    "https://www.celticnewsnow.com/data/brian-brobbey/"
+  ],
+  "as_of": "2026-09-27",
+  "data_quality": {
+    "confidence": "medium",
+    "notes": "DOB (1 Feb 2002) from Wikipedia. Transferred from Ajax to Sunderland in September 2025 for a reported EUR 22m fee (entered as estimated_fee_eur_m since it reflects the actual completed transfer, not a projection), contract to 30 June 2030. 2025/26 Premier League stats (23 apps, 14 starts, 1279 min, 5 goals, 1 assist) from an aiscore/celticnewsnow-derived snippet. Ajax career totals (92 apps, 35 goals 2022-2025) from Ajax's own site. Note: Ajax is NOT among the 36 UCL 2026/27 league-phase clubs in the local data/clubs directory (Feyenoord and PSV are the Dutch entries there) and Sunderland is also not a UCL club, so he is in scope regardless. Market value and wage not found -> null."
+  }
+}

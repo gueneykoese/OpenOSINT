@@ -123,13 +123,14 @@ Profile: pressing forward who runs channels and finishes at 0.5+ goals p90 (Watk
 Why: Watkins (16 PL goals) sold to Al Hilal; Jackson on a structure that may be a loan; Abraham 28 and injury-uncertain.  
 Budget: €50m · wage ceiling €6m net
 
+- **Amine Gouiri** — 75.6/100 (good match, confidence high)
+  - Amine Gouiri → Aston Villa at ST: good match (75.6/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
+  - ⚠ Current club publicly not selling.
 - **Nicolò Tresoldi** — 75.4/100 (good match, confidence high)
   - Nicolò Tresoldi → Aston Villa at ST: good match (75.4/100). Driven by statistical fit and positional need; weakest area is tactical / system fit (50).
   - ⚠ Current club publicly not selling.
 - **Andrej Ilić** — 74.3/100 (good match, confidence high)
   - Andrej Ilić → Aston Villa at ST: good match (74.3/100). Driven by positional need and financial feasibility; weakest area is mentality & chemistry (55).
-- **Zsombor Gruber** — 74.0/100 (good match, confidence high)
-  - Zsombor Gruber → Aston Villa at ST: good match (74.0/100). Driven by statistical fit and financial feasibility; weakest area is tactical / system fit (50).
 
 ### AM — low priority
 Profile: creative No.10 / carrier with end product  
