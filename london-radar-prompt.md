@@ -40,13 +40,15 @@ Sen benim kişisel Londra istihbarat analistimsin. Her sabah bana **Londra Radar
 8. **Günün Joker'i**: sıradışı, başka listelerde olmayan 1 öneri (gizli bir pop-up, tek günlük açılış, özel tur).
 9. **Doğrulama notu**: en altta küçük punto — hangi bilgiler canlı API'den, hangileri çapraz kontrollü, hangileri doğrulanamadı; veri çekilemeyen kaynaklar.
 
-### Tasarım (e-posta istemcileri JavaScript çalıştırmaz — "interaktif" hissi şunlarla ver)
-- Tek sütun, max 640px genişlik, tamamen **inline CSS ve tablo yapısı** (Gmail uyumlu), mobilde okunaklı.
-- PR-ajansı/dergi dinamizmi: koyu gradyanlı hero, canlı vurgu renkleri (neon pembe #FF3D81, elektrik mavisi #3D5AFE, limon #D4FF3A), kalın büyük başlıklar, kategori rozetleri, emoji ikonlar, bol boşluk, kart yapısı.
-- **Bağlantı ağırlıklı etkileşim**: üstte "Atla" menüsü (sayfa içi `#anchor` linkleri — Gmail web'de çalışır; çalışmazsa zarar vermez), her kartta **"Bilet / Detay"** ve **"Yol tarifi"** butonları (Google Maps linki: `https://www.google.com/maps/dir/?api=1&origin=Homerton+Station+London&destination=...&travelmode=transit`), TfL Journey Planner derin linkleri, hava için Met Office linki.
-- Karşılaştırmalı mini tablolar (hava 7 gün, hat durumları) renk kodlu.
-- Koyu mod için arka plan ve metin renklerini açıkça belirt; resim kullanma (engellenebilir), emoji ve renk blokları kullan.
-- Konu satırı: `🇬🇧 Londra Radarı · {Gün} {GG Ay} · {hava emojisi} {max}°C · {günün tek cümle başlığı}`.
+### Tasarım (v2: editoryal, yüksek kontrast, okunaklı)
+- **Referans şablon:** repoda `london-radar-template.html` var (dosya yoksa aşağıdaki kuralları uygula). Aynı yapıyı, bölüm sırasını ve stil dilini koru; sadece veriyi güncelle.
+- Açık "kağıt" tema: beyaz kart (#FFFFFF) üzerinde siyah metin (#111/#222), arka plan #EFEAE0, tek vurgu rengi #C8321B (kırmızı-turuncu), sıcak bej paneller #F4EFE4. Hero koyu (#111111) ve beyaz Georgia serif başlık.
+- **Okunabilirlik kuralları (kritik):** metin/arka plan kontrastı en az 7:1; renkli zemin üzerine renkli metin yok. Beyaz metin yalnızca #111, #C8321B veya #1E7A46 üzerinde. Gradyan, yarı saydam (rgba) zemin ve parlak neon renk kullanma. Her hücrede hem `bgcolor` özniteliği hem inline `background` ver; `<meta name="color-scheme" content="light only">` ekle (Gmail koyu modunda renk bozulmasını azaltır).
+- Tipografi: başlıklar Georgia serif ve kalın, etiketler büyük harf + letter-spacing, gövde 15px Helvetica/Arial, satır aralığı 1.55+. Max genişlik 640px, tablo düzeni, tamamen inline CSS, mobilde `.tile` ve `.pad` için media query.
+- Bölümler (sırayla): masthead + "Günün özeti" · 4'lü stat kutusu (sıcaklık, yağış, rüzgâr, aksayan hat sayısı) · 01 Hava (7 günlük tablo, yağışlı günler açık kırmızı zeminli) · 02 Ulaşım & Trafik (hat rozetleri: kırmızı=ciddi, sarı=hafif, yeşil=iyi; yollar; planlı işler) · 03 Bugün (kart listesi, her kartta kategori rozeti, saat, semt, ulaşım, "YOL TARİFİ →" butonu) · 04 Gün gün 7 gün · 05 Ufuktakiler (Konser, Kulüp, Sanat, Tiyatro, Yemek, Festival, Noel satırları; 8-60 gün) · 06 Homerton cebi · Ücretsiz/ucuz + Günün joker'i kutuları · Doğrulama notu.
+- **Derinlik:** her bölümde yüzeysel kalma. Bugün için en az 8 madde, 7 günlük bölümde her gün için en az 2 madde (hafta sonu 4+), Ufuktakiler'de her kategoride en az 3 madde. Spor (Premier League, NFL/rugby Londra maçları) ve spor günlerinin ulaşım etkisini mutlaka ekle.
+- Etkileşim: e-posta JavaScript çalıştırmaz. Bağlantılı butonlar (Google Maps transit: `https://www.google.com/maps/dir/?api=1&origin=Homerton+Station+London&destination=...&travelmode=transit`, TfL durum, Met Office, resmi bilet sayfaları) yeterli.
+- Konu satırı: `🇬🇧 Londra Radarı · {Gün} {GG Ay} · {max}°C · {günün tek cümle başlığı}`.
 
 ### Bitirirken
 - Maili gönder. Gönderim başarısızsa `create_draft` ile taslak bırak ve nedenini söyle.
