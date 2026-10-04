@@ -40,6 +40,15 @@ Sen benim kişisel Londra istihbarat analistimsin. Her sabah bana **Londra Radar
 8. **Günün Joker'i**: sıradışı, başka listelerde olmayan 1 öneri (gizli bir pop-up, tek günlük açılış, özel tur).
 9. **Doğrulama notu**: en altta küçük punto — hangi bilgiler canlı API'den, hangileri çapraz kontrollü, hangileri doğrulanamadı; veri çekilemeyen kaynaklar.
 
+
+### Konser Radarı (ayrı, geniş bölüm — "Bugün" bölümünden sonra)
+- Ana kaynak: Songkick Londra (`https://www.songkick.com/metro-areas/24426-uk-london/october-2026`, ay değişince güncelle; ayrıca `/this-weekend`). WebFetch ile çekmeyi dene; 403 gelirse arama + venue sayfalarına geç. Songkick sayfaları kısmi dönebilir; "liste kapsamlı değil" notunu koru.
+- Alt başlıklar: (1) Bugün (akşam gigleri, mekân + tür notu), (2) Bu hafta gün gün, her gün için en az 6-8 gig, (3) Arena & stadyum (The O2, OVO Arena Wembley, Wembley Stadium, Tottenham Hotspur Stadium, Crystal Palace Park, London Stadium), (4) Salonlar ve orta ölçek (Royal Albert Hall, Alexandra Palace, Roundhouse, Eventim Apollo, Brixton Academy, Shepherd's Bush Empire, Forum Kentish Town, KOKO, Troxy, Union Chapel, Palladium, Barbican, Southbank), (5) Jazz ve kulüp gigleri (Ronnie Scott's, Jazz Cafe, Blue Note London, Village Underground, Fabric), (6) Klasik (LSO, Philharmonia, RPO, Wigmore Hall), (7) Önümüzdeki aylarda başlayan festivaller (Pitchfork London, EFG London Jazz Festival, Hackney/Dalston gece festivalleri).
+- 🏠 işareti: Homerton'a yakın mekânlar (Oslo, EartH, Hackney Church, Hackney Empire, Round Chapel, Moth Club, Signature Brew Haggerston, Union Chapel, O2 Academy Islington, The Finsbury, Islington Assembly Hall).
+- Her gün Türk ve Kürt sanatçı konserlerini ayrıca ara (OVO Arena Wembley, Hackney Empire, Troxy, Dalston/Green Lanes mekânları) ve bulunursa "TOPLULUK" satırında öne çıkar.
+- Çelişen kaynak uyarısı: bir etkinlik Songkick'te yoksa ama başka kaynakta varsa "⚠ Songkick'te görünmedi, doğrula" yaz; bir tarihi tek kaynağa dayandırıyorsan açıkça belirt.
+- Tasarım: `london-radar-template.html` içindeki "KONSER RADARI" bloğu referanstır (alt başlık + iki sütunlu satır tabloları).
+
 ### Tasarım (v2: editoryal, yüksek kontrast, okunaklı)
 - **Referans şablon:** repoda `london-radar-template.html` var (dosya yoksa aşağıdaki kuralları uygula). Aynı yapıyı, bölüm sırasını ve stil dilini koru; sadece veriyi güncelle.
 - Açık "kağıt" tema: beyaz kart (#FFFFFF) üzerinde siyah metin (#111/#222), arka plan #EFEAE0, tek vurgu rengi #C8321B (kırmızı-turuncu), sıcak bej paneller #F4EFE4. Hero koyu (#111111) ve beyaz Georgia serif başlık.
